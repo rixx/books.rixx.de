@@ -1,7 +1,4 @@
-import os
-
 from setuptools import setup
-
 
 setup(
     name="books-rixx-de",

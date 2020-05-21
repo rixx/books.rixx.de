@@ -138,8 +138,8 @@ def get_review_info(date_started=None):
         date_started = get_date("When did you start reading this book?")
     date_read = get_date("When did you finish reading it?")
     rating = inquirer.list_input(
-        message="When’s your rating?",
-        choices=[("★★★★★", 5), ("★★★★☆", 4), ("★★★☆☆", 3), ("★★☆☆☆", 2), ("★☆☆☆☆", 1)],
+        message="What’s your rating?",
+        choices=[("⭐⭐⭐⭐⭐", 5), ("⭐⭐⭐⭐", 4), ("⭐⭐⭐", 3), ("⭐⭐", 2), ("⭐", 1)],
     )
     if rating > 3:
         did_not_finish = False
