@@ -1,9 +1,10 @@
-import csv
 import json
 import pathlib
-import sys
 
 import click
+import inquirer
+
+from . import utils
 
 
 @click.group()
@@ -42,8 +43,8 @@ def auth(auth):
         )
     auth_data["goodreads_personal_token"] = personal_token
     auth_data["goodreads_user_id"] = user_id
+    auth_data["shelves"] = utils.get_shelves(auth_data)
     open(auth, "w").write(json.dumps(auth_data, indent=4) + "\n")
-    auth_suffix = (" -a " + auth) if auth != "auth.json" else ""
     click.echo()
     click.echo(
         "Your authentication credentials have been saved to {}. You can now pull or push data by running".format(
@@ -64,10 +65,22 @@ def auth(auth):
     help="Path to load goodreads credentials from, defaults to auth.json",
 )
 def books(auth):
-    """Save books for a specified user, e.g. rixx"""
-    pass
+    while True:
+        action = inquirer.list_input(
+            message="What do you want to do?",
+            choices=["Add a new book", "Change book status", "Build the site", "quit"],
+        )
+        if action == "quit":
+            break
+        if action == "Build the site":
+            build()
+            break
+        if action == "Add a new book":
+            utils.add_book(auth=auth)
+        elif action == "Change book status":
+            utils.change_book(auth=auth)
 
 
 @cli.command()
 def build():
-    pass
+    utils.build()
