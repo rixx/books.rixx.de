@@ -173,7 +173,7 @@ footer {
 }
 
 .review_preview a.no-link {
-  cursor: pointer;
+  cursor: default;
 }
 
 .review_preview:hover, .reading:hover {
