@@ -93,7 +93,7 @@ class Review:
 
     def get_path(self):
         core_path = self.get_core_path()
-        out_path = Path("src") / str(core_path) + ".md"
+        out_path = Path("src") / (str(core_path) + ".md")
         out_path.parent.mkdir(parents=True, exist_ok=True)
         return out_path
 
@@ -173,6 +173,7 @@ class Review:
             destination.parent.mkdir(parents=True, exist_ok=True)
             shutil.move(filename, destination)
 
+        self.metadata["book"]["cover_image"] = cover_name
         self.metadata["book"]["cover_image_url"] = cover_image_url
         return cover_name
 
