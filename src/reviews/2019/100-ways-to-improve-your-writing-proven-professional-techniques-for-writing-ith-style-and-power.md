@@ -1,8 +1,8 @@
 ---
 book:
   author: Gary Provost
-  cover_image: 100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-ith-style-and-power.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: 100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-ith-style-and-power.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348651701l/702619.jpg
   goodreads: '702619'
   isbn10: '0451627210'
   isbn13: '9780451627216'

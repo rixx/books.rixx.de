@@ -1,8 +1,8 @@
 ---
 book:
   author: Lynne M. Thomas
-  cover_image: uncanny-magazine-issue-18-september-october-2017.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: uncanny-magazine-issue-18-september-october-2017.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504584647l/36184017._SY475_.jpg
   goodreads: '36184017'
   publication_year: null
   slug: uncanny-magazine-issue-18-september-october-2017

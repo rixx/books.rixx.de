@@ -1,8 +1,8 @@
 ---
 book:
   author: Scott Lynch
-  cover_image: the-republic-of-thieves.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-republic-of-thieves.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406961069l/2890090.jpg
   goodreads: '2890090'
   isbn10: 0553804693
   isbn13: '9780553804690'

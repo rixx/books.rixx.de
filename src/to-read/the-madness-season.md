@@ -1,8 +1,8 @@
 ---
 book:
   author: C.S. Friedman
-  cover_image: the-madness-season.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-madness-season.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328359739l/9498065.jpg
   goodreads: '9498065'
   publication_year: null
   slug: the-madness-season

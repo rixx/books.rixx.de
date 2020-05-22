@@ -1,8 +1,8 @@
 ---
 book:
   author: Peter Watts
-  cover_image: starfish.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: starfish.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388530597l/66479.jpg
   goodreads: '66479'
   isbn10: 0812575857
   isbn13: '9780812575859'

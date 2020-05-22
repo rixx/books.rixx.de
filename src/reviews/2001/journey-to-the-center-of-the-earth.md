@@ -1,8 +1,8 @@
 ---
 book:
   author: Jules Verne
-  cover_image: journey-to-the-center-of-the-earth.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: journey-to-the-center-of-the-earth.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389754903l/32829.jpg
   goodreads: '32829'
   isbn10: 0553213970
   isbn13: '9780553213973'

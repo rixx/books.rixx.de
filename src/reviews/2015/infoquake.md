@@ -1,8 +1,8 @@
 ---
 book:
   author: David Louis Edelman
-  cover_image: infoquake.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: infoquake.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437352721l/959166._SX318_.jpg
   goodreads: '959166'
   isbn10: '1591024420'
   isbn13: '9781591024422'

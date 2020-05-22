@@ -1,8 +1,8 @@
 ---
 book:
   author: C.J. Cherryh
-  cover_image: downbelow-station.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: downbelow-station.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388858297l/57045.jpg
   goodreads: '57045'
   isbn10: 0756400597
   isbn13: '9780756400590'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Rainer Maria Rilke
-  cover_image: the-notebooks-of-malte-laurids-brigge.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-notebooks-of-malte-laurids-brigge.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348925210l/93405.jpg
   goodreads: '93405'
   isbn10: 0393308812
   isbn13: '9780393308815'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Charles Stross
-  cover_image: down-on-the-farm.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: down-on-the-farm.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328341796l/8605343.jpg
   goodreads: '8605343'
   pages: '32'
   publication_year: '2010'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Kim Stanley Robinson
-  cover_image: red-mars.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: red-mars.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699787l/77507._SY475_.jpg
   goodreads: '77507'
   isbn10: '0553560735'
   isbn13: '9780553560732'

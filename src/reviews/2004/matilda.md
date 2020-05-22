@@ -1,8 +1,8 @@
 ---
 book:
   author: Roald Dahl
-  cover_image: matilda.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: matilda.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388793265l/39988.jpg
   goodreads: '39988'
   isbn10: '0141301066'
   isbn13: '9780141301068'

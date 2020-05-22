@@ -1,8 +1,8 @@
 ---
 book:
   author: bell hooks
-  cover_image: all-about-love-new-visions.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: all-about-love-new-visions.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387754966l/17607.jpg
   goodreads: '17607'
   isbn10: 0688168442
   isbn13: '9780688168445'

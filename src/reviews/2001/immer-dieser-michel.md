@@ -1,8 +1,8 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: immer-dieser-michel.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: immer-dieser-michel.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175022925l/468940.jpg
   goodreads: '468940'
   isbn10: '3789129461'
   isbn13: '9783789129469'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Bertolt Brecht
-  cover_image: the-good-woman-of-setzuan.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-good-woman-of-setzuan.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388460254l/64416.jpg
   goodreads: '64416'
   isbn10: 0816635277
   isbn13: '9780816635276'

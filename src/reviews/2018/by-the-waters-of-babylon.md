@@ -1,8 +1,8 @@
 ---
 book:
   author: Stephen Vincent Benét
-  cover_image: by-the-waters-of-babylon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: by-the-waters-of-babylon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1240150319l/369691.jpg
   goodreads: '369691'
   isbn10: 0886822947
   isbn13: '9780886822941'

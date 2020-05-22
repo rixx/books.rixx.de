@@ -1,8 +1,8 @@
 ---
 book:
   author: Noah Gordon
-  cover_image: the-physician.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-physician.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389582565l/4692.jpg
   goodreads: '4692'
   isbn10: 0751503894
   isbn13: '9780751503890'

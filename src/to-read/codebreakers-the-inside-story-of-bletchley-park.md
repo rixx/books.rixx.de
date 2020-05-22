@@ -1,8 +1,8 @@
 ---
 book:
   author: F.H. Hinsley
-  cover_image: codebreakers-the-inside-story-of-bletchley-park.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: codebreakers-the-inside-story-of-bletchley-park.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394346968l/6614694.jpg
   goodreads: '6614694'
   isbn10: 0198203276
   isbn13: '9780198203278'

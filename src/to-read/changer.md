@@ -1,8 +1,8 @@
 ---
 book:
   author: Matt Gemmell
-  cover_image: changer.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: changer.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466548989l/30716622._SY475_.jpg
   goodreads: '30716622'
   publication_year: null
   series: KESTREL

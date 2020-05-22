@@ -1,8 +1,8 @@
 ---
 book:
   author: Michael Moorcock
-  cover_image: elric-of-melnibone.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: elric-of-melnibone.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388345555l/30036.jpg
   goodreads: '30036'
   isbn10: 0441203981
   isbn13: '9780441203987'

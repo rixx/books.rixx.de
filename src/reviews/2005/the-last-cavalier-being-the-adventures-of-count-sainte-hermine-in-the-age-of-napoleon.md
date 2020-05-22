@@ -1,8 +1,8 @@
 ---
 book:
   author: Alexandre Dumas
-  cover_image: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391122492l/70020.jpg
   goodreads: '70020'
   isbn10: '1933648317'
   isbn13: '9781933648316'

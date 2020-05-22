@@ -1,8 +1,8 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: the-unpleasantness-at-the-bellona-club.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-unpleasantness-at-the-bellona-club.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389759541l/192887.jpg
   goodreads: '192887'
   isbn10: '0061043540'
   isbn13: '9780061043543'

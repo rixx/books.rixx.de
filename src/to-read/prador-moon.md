@@ -1,8 +1,8 @@
 ---
 book:
   author: Neal Asher
-  cover_image: prador-moon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: prador-moon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388251982l/1060548.jpg
   goodreads: '1060548'
   isbn10: 159780052X
   isbn13: '9781597800525'

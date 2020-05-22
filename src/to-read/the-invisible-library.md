@@ -1,8 +1,8 @@
 ---
 book:
   author: Genevieve Cogman
-  cover_image: the-invisible-library.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-invisible-library.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435561809l/23844254._SY475_.jpg
   goodreads: '23844254'
   pages: '354'
   publication_year: '2015'

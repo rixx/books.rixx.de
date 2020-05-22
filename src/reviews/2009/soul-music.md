@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: soul-music.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: soul-music.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566175l/34502.jpg
   goodreads: '34502'
   isbn10: 057506689X
   isbn13: '9780575066892'

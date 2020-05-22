@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: maskerade.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: maskerade.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170961678l/78876._SY475_.jpg
   goodreads: '78876'
   isbn10: 0575058080
   isbn13: '9780575058088'

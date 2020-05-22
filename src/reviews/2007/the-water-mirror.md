@@ -1,8 +1,8 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: the-water-mirror.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-water-mirror.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327994676l/929373.jpg
   goodreads: '929373'
   isbn10: 0689877870
   isbn13: '9780689877872'

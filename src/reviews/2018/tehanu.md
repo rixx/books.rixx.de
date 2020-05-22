@@ -1,8 +1,8 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: tehanu.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: tehanu.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924581l/13661.jpg
   goodreads: '13661'
   isbn10: '1416509631'
   isbn13: '9781416509639'

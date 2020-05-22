@@ -1,8 +1,8 @@
 ---
 book:
   author: Dennis E. Taylor
-  cover_image: we-are-legion-we-are-bob.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: we-are-legion-we-are-bob.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474344826l/32109569._SY475_.jpg
   goodreads: '32109569'
   pages: '383'
   publication_year: null

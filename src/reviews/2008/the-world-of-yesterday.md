@@ -1,8 +1,8 @@
 ---
 book:
   author: Stefan Zweig
-  cover_image: the-world-of-yesterday.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-world-of-yesterday.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347696322l/629429.jpg
   goodreads: '629429'
   isbn10: 0803252242
   isbn13: '9780803252240'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Wolfgang Borchert
-  cover_image: draussen-vor-der-tur.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: draussen-vor-der-tur.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412606809l/484436.jpg
   goodreads: '484436'
   isbn10: 349910170X
   isbn13: '9783499101700'

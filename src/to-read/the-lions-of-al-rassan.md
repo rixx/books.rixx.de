@@ -1,8 +1,8 @@
 ---
 book:
   author: Guy Gavriel Kay
-  cover_image: the-lions-of-al-rassan.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-lions-of-al-rassan.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348007861l/104101.jpg
   goodreads: '104101'
   isbn10: 0060733497
   isbn13: '9780060733490'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Kurt Tucholsky
-  cover_image: rheinsberg-ein-bilderbuch-fur-verliebte.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: rheinsberg-ein-bilderbuch-fur-verliebte.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1190220532l/1912338._SX318_.jpg
   goodreads: '1912338'
   isbn10: '3423026642'
   isbn13: '9783423026642'

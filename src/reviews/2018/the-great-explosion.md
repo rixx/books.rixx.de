@@ -1,8 +1,8 @@
 ---
 book:
   author: Eric Frank Russell
-  cover_image: the-great-explosion.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-great-explosion.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266916531l/1875974.jpg
   goodreads: '1875974'
   isbn10: 088184991X
   isbn13: '9780881849912'

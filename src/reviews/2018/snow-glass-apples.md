@@ -1,8 +1,8 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: snow-glass-apples.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: snow-glass-apples.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1244181275l/6366271.jpg
   goodreads: '6366271'
   pages: '25'
   publication_year: '2008'

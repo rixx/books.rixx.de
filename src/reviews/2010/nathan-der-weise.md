@@ -1,8 +1,8 @@
 ---
 book:
   author: Gotthold Ephraim Lessing
-  cover_image: nathan-der-weise.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: nathan-der-weise.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180953820l/1097229.jpg
   goodreads: '1097229'
   isbn10: '3150000033'
   isbn13: '9783150000038'

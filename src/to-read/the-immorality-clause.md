@@ -1,8 +1,8 @@
 ---
 book:
   author: Brian Parker
-  cover_image: the-immorality-clause.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-immorality-clause.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467950560l/30969665._SY475_.jpg
   goodreads: '30969665'
   publication_year: null
   series: Easytown Novels

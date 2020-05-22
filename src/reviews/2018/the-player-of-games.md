@@ -1,8 +1,8 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: the-player-of-games.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-player-of-games.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922873l/18630.jpg
   goodreads: '18630'
   isbn10: '0061053562'
   isbn13: '9780061053566'

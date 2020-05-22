@@ -1,8 +1,8 @@
 ---
 book:
   author: John Varley
-  cover_image: titan.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: titan.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388244043l/49838.jpg
   goodreads: '49838'
   pages: '309'
   publication_year: '1987'

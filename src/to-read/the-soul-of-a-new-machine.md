@@ -1,8 +1,8 @@
 ---
 book:
   author: Tracy Kidder
-  cover_image: the-soul-of-a-new-machine.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-soul-of-a-new-machine.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441207522l/7090.jpg
   goodreads: '7090'
   isbn10: 0316491977
   isbn13: '9780316491976'

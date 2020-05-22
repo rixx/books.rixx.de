@@ -1,8 +1,8 @@
 ---
 book:
   author: Greg Egan
-  cover_image: diaspora.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: diaspora.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264162l/156785.jpg
   goodreads: '156785'
   isbn10: '3453161815'
   isbn13: '9783453161818'

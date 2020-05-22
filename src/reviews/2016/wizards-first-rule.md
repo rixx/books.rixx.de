@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Goodkind
-  cover_image: wizards-first-rule.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: wizards-first-rule.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385248539l/43889.jpg
   goodreads: '43889'
   isbn10: '0765346524'
   isbn13: '9780765346520'

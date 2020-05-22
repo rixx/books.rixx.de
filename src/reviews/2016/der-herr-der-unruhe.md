@@ -1,8 +1,8 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: der-herr-der-unruhe.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: der-herr-der-unruhe.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999445l/1692808._SY475_.jpg
   goodreads: '1692808'
   isbn10: 343103392X
   isbn13: '9783431033922'

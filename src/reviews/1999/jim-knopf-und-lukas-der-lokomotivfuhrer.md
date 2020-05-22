@@ -1,8 +1,8 @@
 ---
 book:
   author: Michael Ende
-  cover_image: jim-knopf-und-lukas-der-lokomotivfuhrer.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: jim-knopf-und-lukas-der-lokomotivfuhrer.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1184848247l/1534314.jpg
   goodreads: '1534314'
   isbn10: '3522176502'
   isbn13: '9783522176507'

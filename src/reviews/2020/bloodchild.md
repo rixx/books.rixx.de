@@ -1,8 +1,8 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: bloodchild.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: bloodchild.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394278990l/21265321.jpg
   goodreads: '21265321'
   pages: '31'
   publication_year: '2014'

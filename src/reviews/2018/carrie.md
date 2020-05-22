@@ -1,8 +1,8 @@
 ---
 book:
   author: Stephen King
-  cover_image: carrie.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: carrie.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166254258l/10592._SY475_.jpg
   goodreads: '10592'
   isbn10: '1416524304'
   isbn13: '9781416524304'

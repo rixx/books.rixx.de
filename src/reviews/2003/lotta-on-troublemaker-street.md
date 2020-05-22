@@ -1,8 +1,8 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: lotta-on-troublemaker-street.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: lotta-on-troublemaker-street.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348578002l/19319.jpg
   goodreads: '19319'
   isbn10: 0689846738
   isbn13: '9780689846731'

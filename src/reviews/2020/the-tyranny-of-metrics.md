@@ -1,8 +1,8 @@
 ---
 book:
   author: Jerry Z. Muller
-  cover_image: the-tyranny-of-metrics.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-tyranny-of-metrics.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511400900l/36644895._SY475_.jpg
   goodreads: '36644895'
   isbn10: 0691174954
   isbn13: '9780691174952'

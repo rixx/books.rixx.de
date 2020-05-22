@@ -1,8 +1,8 @@
 ---
 book:
   author: Erich Kästner
-  cover_image: der-35-mai-oder-konrad-reitet-in-die-sudsee.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: der-35-mai-oder-konrad-reitet-in-die-sudsee.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172741864l/212196.jpg
   goodreads: '212196'
   pages: '160'
   publication_year: null

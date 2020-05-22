@@ -1,8 +1,8 @@
 ---
 book:
   author: T. Kingfisher
-  cover_image: clockwork-boys.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: clockwork-boys.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511019840l/36618062._SY475_.jpg
   goodreads: '36618062'
   publication_year: null
   series: Clocktaur War

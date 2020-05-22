@@ -1,8 +1,8 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: gifts.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: gifts.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441129920l/13648._SY475_.jpg
   goodreads: '13648'
   isbn10: '0152051244'
   isbn13: '9780152051242'

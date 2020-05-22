@@ -1,8 +1,8 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: falling-free.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: falling-free.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922931l/61915.jpg
   goodreads: '61915'
   isbn13: '9781886778535'
   publication_year: '2004'

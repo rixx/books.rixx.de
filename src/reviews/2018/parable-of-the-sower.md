@@ -1,8 +1,8 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: parable-of-the-sower.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: parable-of-the-sower.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442169447l/52397._SY475_.jpg
   goodreads: '52397'
   isbn10: '0446675504'
   isbn13: '9780446675505'

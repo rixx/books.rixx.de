@@ -1,8 +1,8 @@
 ---
 book:
   author: Pete Walker
-  cover_image: complex-ptsd-from-surviving-to-thriving.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: complex-ptsd-from-surviving-to-thriving.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389830032l/20556323.jpg
   goodreads: '20556323'
   pages: '376'
   publication_year: null

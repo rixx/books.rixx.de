@@ -1,8 +1,8 @@
 ---
 book:
   author: Siobhan Carroll
-  cover_image: for-he-can-creep.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: for-he-can-creep.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562862657l/52139451._SX318_SY475_.jpg
   goodreads: '52139451'
   isbn10: '1250237564'
   isbn13: '9781250237569'

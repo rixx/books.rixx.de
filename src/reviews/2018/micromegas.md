@@ -1,8 +1,8 @@
 ---
 book:
   author: Voltaire
-  cover_image: micromegas.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: micromegas.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181459579l/1156110.jpg
   goodreads: '1156110'
   isbn10: 0140389024
   isbn13: '9780140389029'

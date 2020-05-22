@@ -1,8 +1,8 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: 4-50-from-paddington.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: 4-50-from-paddington.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388324483l/140278.jpg
   goodreads: '140278'
   isbn10: '1579126936'
   isbn13: '9781579126933'

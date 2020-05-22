@@ -1,8 +1,8 @@
 ---
 book:
   author: Friedrich Schiller
-  cover_image: maria-stuart.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: maria-stuart.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652403l/942339._SY475_.jpg
   goodreads: '942339'
   isbn10: '3150000645'
   isbn13: '9783150000649'

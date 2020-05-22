@@ -1,8 +1,8 @@
 ---
 book:
   author: Friedrich Dürrenmatt
-  cover_image: the-visit.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-visit.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347386186l/317764.jpg
   goodreads: '317764'
   isbn10: 0802130666
   isbn13: '9780802130662'

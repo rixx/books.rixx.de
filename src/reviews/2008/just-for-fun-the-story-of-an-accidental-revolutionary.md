@@ -1,8 +1,8 @@
 ---
 book:
   author: Linus Torvalds
-  cover_image: just-for-fun-the-story-of-an-accidental-revolutionary.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: just-for-fun-the-story-of-an-accidental-revolutionary.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440830026l/160171._SY475_.jpg
   goodreads: '160171'
   isbn10: '0066620732'
   isbn13: '9780066620732'

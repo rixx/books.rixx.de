@@ -1,8 +1,8 @@
 ---
 book:
   author: John Flanagan
-  cover_image: the-burning-bridge.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-burning-bridge.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440471172l/144349._SY475_.jpg
   goodreads: '144349'
   isbn10: 0399244557
   isbn13: '9780399244551'

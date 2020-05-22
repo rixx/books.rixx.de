@@ -1,8 +1,8 @@
 ---
 book:
   author: Christopher Stasheff
-  cover_image: the-warlock-in-spite-of-himself.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-warlock-in-spite-of-himself.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1176614464l/640181._SY475_.jpg
   goodreads: '640181'
   isbn10: 0441873022
   isbn13: '9780441873029'

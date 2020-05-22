@@ -1,8 +1,8 @@
 ---
 book:
   author: John C. Wright
-  cover_image: the-golden-age.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-golden-age.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210742l/207410.jpg
   goodreads: '207410'
   isbn10: 0812579844
   isbn13: '9780812579840'

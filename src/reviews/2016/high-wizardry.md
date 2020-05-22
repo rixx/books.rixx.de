@@ -1,8 +1,8 @@
 ---
 book:
   author: Diane Duane
-  cover_image: high-wizardry.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: high-wizardry.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922145l/176534.jpg
   goodreads: '176534'
   isbn10: 015204941X
   isbn13: '9780152049416'

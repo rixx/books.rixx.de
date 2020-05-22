@@ -1,8 +1,8 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: a-study-in-emerald.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: a-study-in-emerald.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1247023701l/6599565.jpg
   goodreads: '6599565'
   publication_year: '2007'
   slug: a-study-in-emerald

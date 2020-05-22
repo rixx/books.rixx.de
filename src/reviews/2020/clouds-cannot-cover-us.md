@@ -1,8 +1,8 @@
 ---
 book:
   author: Jay Hulme
-  cover_image: clouds-cannot-cover-us.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: clouds-cannot-cover-us.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566762340l/52421742._SX318_SY475_.jpg
   goodreads: '52421742'
   isbn10: '1912745100'
   isbn13: '9781912745104'

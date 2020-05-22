@@ -1,8 +1,6 @@
 ---
 book:
   author: Eliezer Yudkowsky
-  cover_image: the-sword-of-good.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '16074687'
   publication_year: '2009'
   slug: the-sword-of-good

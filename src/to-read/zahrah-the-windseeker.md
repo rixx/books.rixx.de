@@ -1,8 +1,8 @@
 ---
 book:
   author: Nnedi Okorafor
-  cover_image: zahrah-the-windseeker.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: zahrah-the-windseeker.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347440766l/1257586.jpg
   goodreads: '1257586'
   pages: '308'
   publication_year: '2005'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: murder-on-the-orient-express.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: murder-on-the-orient-express.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388267702l/16304.jpg
   goodreads: '16304'
   isbn10: '0425200450'
   isbn13: '9780425200452'

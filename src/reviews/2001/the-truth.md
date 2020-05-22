@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-truth.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-truth.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347487127l/34498.jpg
   goodreads: '34498'
   isbn10: '0413771164'
   isbn13: '9780413771162'

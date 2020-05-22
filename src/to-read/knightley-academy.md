@@ -1,8 +1,8 @@
 ---
 book:
   author: Violet Haberdasher
-  cover_image: knightley-academy.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: knightley-academy.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347555678l/6609704.jpg
   goodreads: '6609704'
   isbn10: '1416991433'
   isbn13: '9781416991434'

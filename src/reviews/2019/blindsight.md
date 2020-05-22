@@ -1,8 +1,8 @@
 ---
 book:
   author: Peter Watts
-  cover_image: blindsight.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: blindsight.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924412l/48484.jpg
   goodreads: '48484'
   isbn10: 0765312182
   isbn13: '9780765312181'

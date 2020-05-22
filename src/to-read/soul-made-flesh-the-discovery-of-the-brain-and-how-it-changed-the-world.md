@@ -1,8 +1,8 @@
 ---
 book:
   author: Carl Zimmer
-  cover_image: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441657292l/213113._SY475_.jpg
   goodreads: '213113'
   isbn10: '0743272056'
   isbn13: '9780743272056'

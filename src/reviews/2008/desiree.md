@@ -1,8 +1,8 @@
 ---
 book:
   author: Annemarie Selinko
-  cover_image: desiree.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: desiree.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171048586l/84049.jpg
   goodreads: '84049'
   isbn10: '8493388335'
   isbn13: '9788493388331'

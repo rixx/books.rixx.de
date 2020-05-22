@@ -1,8 +1,8 @@
 ---
 book:
   author: A.K. Larkwood
-  cover_image: the-unspoken-name.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-unspoken-name.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582270239l/52181559._SX318_SY475_.jpg
   goodreads: '52181559'
   publication_year: null
   series: The Serpent Gates

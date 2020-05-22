@@ -1,8 +1,8 @@
 ---
 book:
   author: Studs Terkel
-  cover_image: working-people-talk-about-what-they-do-all-day-and-how-they-feel-about-what-they-do.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: working-people-talk-about-what-they-do-all-day-and-how-they-feel-about-what-they-do.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210645l/59649.jpg
   goodreads: '59649'
   isbn10: '1565843428'
   isbn13: '9781565843424'

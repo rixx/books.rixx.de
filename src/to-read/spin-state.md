@@ -1,8 +1,8 @@
 ---
 book:
   author: Chris Moriarty
-  cover_image: spin-state.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: spin-state.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388463444l/48623.jpg
   goodreads: '48623'
   isbn10: 0553586246
   isbn13: '9780553586244'

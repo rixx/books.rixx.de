@@ -1,8 +1,8 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: nemesis.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: nemesis.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389760569l/31304.jpg
   goodreads: '31304'
   isbn10: 0451200187
   isbn13: '9780451200181'

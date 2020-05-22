@@ -1,8 +1,8 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-atrocity-archives.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-atrocity-archives.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440461724l/101869._SY475_.jpg
   goodreads: '101869'
   isbn10: '0441013651'
   isbn13: '9780441013654'

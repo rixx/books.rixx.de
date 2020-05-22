@@ -1,8 +1,8 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image: der-kleine-wassermann.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: der-kleine-wassermann.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173461987l/292186._SX318_.jpg
   goodreads: '292186'
   isbn10: '3522106202'
   isbn13: '9783522106207'

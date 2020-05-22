@@ -1,8 +1,8 @@
 ---
 book:
   author: Jonathan Stroud
-  cover_image: the-amulet-of-samarkand.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-amulet-of-samarkand.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347312184l/59267.jpg
   goodreads: '59267'
   isbn10: 0552550299
   isbn13: '9780552550291'

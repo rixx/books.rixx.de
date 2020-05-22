@@ -1,8 +1,8 @@
 ---
 book:
   author: Diane Duane
-  cover_image: a-wizard-alone.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: a-wizard-alone.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388545546l/116560.jpg
   goodreads: '116560'
   isbn10: 0152049118
   isbn13: '9780152049119'

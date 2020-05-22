@@ -1,8 +1,8 @@
 ---
 book:
   author: Erich Kästner
-  cover_image: punktchen-und-anton.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: punktchen-und-anton.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182646930l/1306827.jpg
   goodreads: '1306827'
   isbn10: '3423707313'
   isbn13: '9783423707312'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Erich Kästner
-  cover_image: das-fliegende-klassenzimmer.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: das-fliegende-klassenzimmer.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181250009l/1132597.jpg
   goodreads: '1132597'
   isbn10: '3791530151'
   isbn13: '9783791530154'

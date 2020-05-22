@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: johnny-and-the-bomb.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: johnny-and-the-bomb.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387702036l/64385.jpg
   goodreads: '64385'
   isbn10: 0060541911
   isbn13: '9780060541910'

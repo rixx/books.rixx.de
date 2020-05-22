@@ -1,8 +1,8 @@
 ---
 book:
   author: Ed McDonald
-  cover_image: ravencry.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: ravencry.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523487579l/39804476._SY475_.jpg
   goodreads: '39804476'
   isbn10: '1473222052'
   isbn13: '9781473222052'

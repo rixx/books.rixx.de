@@ -1,8 +1,8 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: pippi-langstrumpf.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: pippi-langstrumpf.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652364l/942326._SX318_.jpg
   goodreads: '942326'
   isbn10: '3789141615'
   isbn13: '9783789141614'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Amal El-Mohtar
-  cover_image: this-is-how-you-lose-the-time-war.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: this-is-how-you-lose-the-time-war.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg
   goodreads: '43352954'
   pages: '209'
   publication_year: null

@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: sourcery.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: sourcery.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439607843l/34499._SY475_.jpg
   goodreads: '34499'
   isbn10: '0061020672'
   isbn13: '9780061020674'

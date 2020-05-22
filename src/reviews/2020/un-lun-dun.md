@@ -1,8 +1,8 @@
 ---
 book:
   author: China Miéville
-  cover_image: un-lun-dun.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: un-lun-dun.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170692699l/68496._SY475_.jpg
   goodreads: '68496'
   isbn10: 0345495160
   isbn13: '9780345495167'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: herr-der-diebe.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: herr-der-diebe.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453425294l/28670585._SY475_.jpg
   goodreads: '28670585'
   isbn10: '3841501974'
   publication_year: null

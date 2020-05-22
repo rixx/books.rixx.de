@@ -1,8 +1,8 @@
 ---
 book:
   author: Diane Duane
-  cover_image: the-door-into-shadow.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-door-into-shadow.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254906233l/216844.jpg
   goodreads: '216844'
   isbn10: 0812523695
   isbn13: '9780812523690'

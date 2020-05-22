@@ -1,8 +1,8 @@
 ---
 book:
   author: Jason Sizemore
-  cover_image: apex-magazine-december-2018.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: apex-magazine-december-2018.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543705355l/43073743._SX318_.jpg
   goodreads: '43073743'
   publication_year: null
   slug: apex-magazine-december-2018

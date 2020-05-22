@@ -1,8 +1,8 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: cursors-fury.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: cursors-fury.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388360145l/29394.jpg
   goodreads: '29394'
   isbn10: 0441014348
   isbn13: '9780441014347'

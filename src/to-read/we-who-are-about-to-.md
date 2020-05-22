@@ -1,8 +1,8 @@
 ---
 book:
   author: Joanna Russ
-  cover_image: we-who-are-about-to-.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: we-who-are-about-to-.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348710724l/651807.jpg
   goodreads: '651807'
   isbn10: 0819567590
   isbn13: '9780819567598'

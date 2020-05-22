@@ -1,8 +1,8 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: tomte-tummetott.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: tomte-tummetott.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183412625l/1414658._SX318_.jpg
   goodreads: '1414658'
   isbn10: '3789161306'
   isbn13: '9783789161308'

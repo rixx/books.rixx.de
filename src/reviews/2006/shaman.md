@@ -1,8 +1,8 @@
 ---
 book:
   author: Noah Gordon
-  cover_image: shaman.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: shaman.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440903876l/859887._SY475_.jpg
   goodreads: '859887'
   isbn10: 0751500828
   isbn13: '9780751500820'

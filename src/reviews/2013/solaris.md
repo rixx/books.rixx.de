@@ -1,8 +1,8 @@
 ---
 book:
   author: Stanisław Lem
-  cover_image: solaris.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: solaris.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183830166l/1458525._SX318_.jpg
   goodreads: '1458525'
   isbn10: '3548606113'
   isbn13: '9783548606118'

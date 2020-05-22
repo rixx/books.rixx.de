@@ -1,8 +1,8 @@
 ---
 book:
   author: Bailey  Richardson
-  cover_image: get-together-how-to-build-a-community-with-your-people.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: get-together-how-to-build-a-community-with-your-people.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564379327l/52488258._SX318_SY475_.jpg
   goodreads: '52488258'
   isbn10: '1732265194'
   isbn13: '9781732265196'

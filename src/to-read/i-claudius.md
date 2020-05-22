@@ -1,8 +1,8 @@
 ---
 book:
   author: Robert Graves
-  cover_image: i-claudius.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: i-claudius.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185810l/18765.jpg
   goodreads: '18765'
   isbn10: 067972477X
   isbn13: '9780679724773'

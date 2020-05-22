@@ -1,8 +1,8 @@
 ---
 book:
   author: Anne McCaffrey
-  cover_image: dragonflight.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: dragonflight.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388182243l/61975.jpg
   goodreads: '61975'
   isbn10: 0345484266
   isbn13: '9780345484260'

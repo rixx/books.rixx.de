@@ -1,8 +1,8 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: the-state-of-the-art.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-state-of-the-art.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388240598l/129131.jpg
   goodreads: '129131'
   isbn10: '1597800740'
   isbn13: '9781597800747'

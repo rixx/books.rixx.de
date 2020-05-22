@@ -1,8 +1,8 @@
 ---
 book:
   author: Jonathan Stroud
-  cover_image: the-golems-eye.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-golems-eye.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441130242l/59263._SY475_.jpg
   goodreads: '59263'
   isbn10: 0786836547
   isbn13: '9780786836543'

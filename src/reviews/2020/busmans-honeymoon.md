@@ -1,8 +1,8 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: busmans-honeymoon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: busmans-honeymoon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431714605l/116971._SY475_.jpg
   goodreads: '116971'
   isbn10: '0061043516'
   isbn13: '9780061043512'

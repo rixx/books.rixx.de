@@ -1,8 +1,8 @@
 ---
 book:
   author: Glen Cook
-  cover_image: the-black-company.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-black-company.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389929874l/140671.jpg
   goodreads: '140671'
   pages: '319'
   publication_year: '1992'

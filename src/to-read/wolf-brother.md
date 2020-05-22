@@ -1,8 +1,8 @@
 ---
 book:
   author: Michelle Paver
-  cover_image: wolf-brother.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: wolf-brother.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924715l/295305.jpg
   goodreads: '295305'
   isbn10: 0060728272
   isbn13: '9780060728274'

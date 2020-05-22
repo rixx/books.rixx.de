@@ -1,8 +1,8 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: interworld.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: interworld.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777301l/47701._SY475_.jpg
   goodreads: '47701'
   isbn10: 0061238961
   isbn13: '9780061238963'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Charles Stross
-  cover_image: saturns-children.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: saturns-children.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348429796l/2278387.jpg
   goodreads: '2278387'
   isbn10: 0441015948
   isbn13: '9780441015948'

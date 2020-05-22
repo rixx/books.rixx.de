@@ -1,8 +1,8 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: the-glass-word.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-glass-word.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391914742l/937003.jpg
   goodreads: '937003'
   isbn10: 0689877919
   isbn13: '9780689877919'

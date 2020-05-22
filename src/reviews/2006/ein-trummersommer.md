@@ -1,8 +1,8 @@
 ---
 book:
   author: Klaus Kordon
-  cover_image: ein-trummersommer.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: ein-trummersommer.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267416143l/2978113.jpg
   goodreads: '2978113'
   isbn10: '3407784325'
   isbn13: '9783407784322'

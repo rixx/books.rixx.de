@@ -1,8 +1,8 @@
 ---
 book:
   author: Michael Ende
-  cover_image: the-night-of-wishes.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-night-of-wishes.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389498583l/27719.jpg
   goodreads: '27719'
   isbn10: '0374455031'
   isbn13: '9780374455033'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Eugene T. Gendlin
-  cover_image: focusing.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: focusing.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390966073l/666175.jpg
   goodreads: '666175'
   isbn10: 0553278339
   isbn13: '9780553278330'

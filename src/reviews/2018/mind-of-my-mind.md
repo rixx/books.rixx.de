@@ -1,8 +1,8 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: mind-of-my-mind.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: mind-of-my-mind.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389676159l/116254.jpg
   goodreads: '116254'
   isbn10: 0446361887
   isbn13: '9780446361880'

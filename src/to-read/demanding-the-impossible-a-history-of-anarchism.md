@@ -1,8 +1,8 @@
 ---
 book:
   author: Peter   Marshall
-  cover_image: demanding-the-impossible-a-history-of-anarchism.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: demanding-the-impossible-a-history-of-anarchism.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347731638l/880355.jpg
   goodreads: '880355'
   isbn10: 0006862454
   isbn13: '9780006862451'

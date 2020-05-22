@@ -1,8 +1,8 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: wild-seed.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: wild-seed.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388462753l/52318.jpg
   goodreads: '52318'
   isbn10: 0446676977
   isbn13: '9780446676977'

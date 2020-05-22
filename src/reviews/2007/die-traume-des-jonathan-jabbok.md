@@ -1,8 +1,8 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: die-traume-des-jonathan-jabbok.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: die-traume-des-jonathan-jabbok.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999376l/1692789.jpg
   goodreads: '1692789'
   isbn10: '3522168968'
   isbn13: '9783522168960'

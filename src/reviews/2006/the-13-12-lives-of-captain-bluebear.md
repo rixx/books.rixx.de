@@ -1,8 +1,8 @@
 ---
 book:
   author: Walter Moers
-  cover_image: the-13-12-lives-of-captain-bluebear.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-13-12-lives-of-captain-bluebear.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176963l/62032.jpg
   goodreads: '62032'
   isbn10: '1585678449'
   isbn13: '9781585678440'

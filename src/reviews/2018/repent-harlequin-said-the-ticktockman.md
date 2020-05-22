@@ -1,8 +1,8 @@
 ---
 book:
   author: Harlan Ellison
-  cover_image: repent-harlequin-said-the-ticktockman.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: repent-harlequin-said-the-ticktockman.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171217501l/90629.jpg
   goodreads: '90629'
   isbn10: '1887424350'
   isbn13: '9781887424356'

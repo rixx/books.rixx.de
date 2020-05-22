@@ -1,8 +1,8 @@
 ---
 book:
   author: Peter S. Beagle
-  cover_image: the-innkeepers-song.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-innkeepers-song.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388458686l/11938.jpg
   goodreads: '11938'
   isbn10: 0451452887
   isbn13: '9780451452887'

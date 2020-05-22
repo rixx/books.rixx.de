@@ -1,8 +1,8 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: the-brothers-lionheart.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-brothers-lionheart.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388269738l/19312.jpg
   goodreads: '19312'
   isbn10: '1930900244'
   isbn13: '9781930900240'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: murder-must-advertise.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: murder-must-advertise.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389232617l/351559.jpg
   goodreads: '351559'
   isbn10: 0061043559
   isbn13: '9780061043550'

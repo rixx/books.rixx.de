@@ -1,8 +1,8 @@
 ---
 book:
   author: Carol Berg
-  cover_image: flesh-and-spirit.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: flesh-and-spirit.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431493610l/437790._SY475_.jpg
   goodreads: '437790'
   isbn10: 045146088X
   isbn13: '9780451460882'

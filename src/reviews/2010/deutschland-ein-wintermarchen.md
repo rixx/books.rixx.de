@@ -1,8 +1,8 @@
 ---
 book:
   author: Heinrich Heine
-  cover_image: deutschland-ein-wintermarchen.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: deutschland-ein-wintermarchen.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1182537844l/1290838.jpg
   goodreads: '1290838'
   isbn10: '3938484144'
   isbn13: '9783938484142'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Orson Scott Card
-  cover_image: xenocide.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: xenocide.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924577l/8648.jpg
   goodreads: '8648'
   isbn10: 0312861877
   isbn13: '9780312861872'

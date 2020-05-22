@@ -1,8 +1,8 @@
 ---
 book:
   author: Theodor Storm
-  cover_image: aquis-submersus.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: aquis-submersus.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188027767l/1771018._SY475_.jpg
   goodreads: '1771018'
   isbn10: '3150060141'
   isbn13: '9783150060148'

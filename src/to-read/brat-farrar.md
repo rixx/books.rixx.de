@@ -1,8 +1,8 @@
 ---
 book:
   author: Josephine Tey
-  cover_image: brat-farrar.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: brat-farrar.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404945844l/21417137.jpg
   goodreads: '21417137'
   isbn10: 0140046984
   isbn13: '9780140046984'

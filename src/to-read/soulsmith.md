@@ -1,8 +1,8 @@
 ---
 book:
   author: Will Wight
-  cover_image: soulsmith.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: soulsmith.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474963120l/32283608._SY475_.jpg
   goodreads: '32283608'
   pages: '286'
   publication_year: null

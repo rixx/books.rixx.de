@@ -1,8 +1,8 @@
 ---
 book:
   author: Tanya Huff
-  cover_image: valors-choice.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: valors-choice.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388720685l/772606.jpg
   goodreads: '772606'
   isbn10: 0886778964
   isbn13: '9780886778965'

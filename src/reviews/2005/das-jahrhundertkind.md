@@ -1,8 +1,8 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: das-jahrhundertkind.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: das-jahrhundertkind.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999220l/1692762._SX318_.jpg
   goodreads: '1692762'
   isbn10: '3404153189'
   isbn13: '9783404153183'

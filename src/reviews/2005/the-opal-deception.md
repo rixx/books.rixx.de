@@ -1,8 +1,8 @@
 ---
 book:
   author: Eoin Colfer
-  cover_image: the-opal-deception.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-opal-deception.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266475201l/114954.jpg
   goodreads: '114954'
   isbn13: '9781423103998'
   pages: '416'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Norman Maclean
-  cover_image: a-river-runs-through-it-and-other-stories.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: a-river-runs-through-it-and-other-stories.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924914l/30043.jpg
   goodreads: '30043'
   isbn10: '0226500667'
   isbn13: '9780226500669'

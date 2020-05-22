@@ -1,8 +1,8 @@
 ---
 book:
   author: Jostein Gaarder
-  cover_image: das-kartengeheimnis.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: das-kartengeheimnis.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173802967l/329743.jpg
   goodreads: '329743'
   isbn10: '3423125004'
   isbn13: '9783423125000'

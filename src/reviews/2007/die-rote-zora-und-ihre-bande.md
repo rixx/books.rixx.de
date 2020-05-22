@@ -1,8 +1,8 @@
 ---
 book:
   author: Kurt Held
-  cover_image: die-rote-zora-und-ihre-bande.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: die-rote-zora-und-ihre-bande.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177495168l/708465._SY475_.jpg
   goodreads: '708465'
   isbn10: '3794101227'
   isbn13: '9783794101221'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-light-fantastic.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-light-fantastic.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389554927l/34506.jpg
   goodreads: '34506'
   isbn10: '0061020702'
   isbn13: '9780061020704'

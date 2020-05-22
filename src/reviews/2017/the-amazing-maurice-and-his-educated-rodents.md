@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-amazing-maurice-and-his-educated-rodents.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-amazing-maurice-and-his-educated-rodents.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566225l/34534.jpg
   goodreads: '34534'
   isbn10: 006001234X
   isbn13: '9780060012342'

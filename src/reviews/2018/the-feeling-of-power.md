@@ -1,8 +1,6 @@
 ---
 book:
   author: Isaac Asimov
-  cover_image: the-feeling-of-power.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '1931795'
   isbn10: '9998070015'
   isbn13: '9789998070011'

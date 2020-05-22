@@ -1,8 +1,8 @@
 ---
 book:
   author: Will Wight
-  cover_image: unsouled.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: unsouled.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465881128l/30558257._SY475_.jpg
   goodreads: '30558257'
   pages: '294'
   publication_year: null

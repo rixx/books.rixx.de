@@ -1,8 +1,8 @@
 ---
 book:
   author: Per Leo
-  cover_image: mit-rechten-reden-ein-leitfaden.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: mit-rechten-reden-ein-leitfaden.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507979413l/36410682._SY475_.jpg
   goodreads: '36410682'
   publication_year: null
   slug: mit-rechten-reden-ein-leitfaden

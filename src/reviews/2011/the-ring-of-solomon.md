@@ -1,8 +1,8 @@
 ---
 book:
   author: Jonathan Stroud
-  cover_image: the-ring-of-solomon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-ring-of-solomon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348894736l/7640705.jpg
   goodreads: '7640705'
   isbn10: 0307738612
   isbn13: '9780307738615'

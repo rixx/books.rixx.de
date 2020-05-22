@@ -1,8 +1,8 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: making-money.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: making-money.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440503111l/116296._SX318_.jpg
   goodreads: '116296'
   isbn10: '0061161640'
   isbn13: '9780061161643'

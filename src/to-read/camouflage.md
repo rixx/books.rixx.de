@@ -1,8 +1,8 @@
 ---
 book:
   author: Joe Haldeman
-  cover_image: camouflage.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: camouflage.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924306l/21607.jpg
   goodreads: '21607'
   isbn10: '0441012523'
   isbn13: '9780441012527'

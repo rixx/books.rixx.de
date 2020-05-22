@@ -1,8 +1,8 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: merle-und-die-fliessende-konigin.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: merle-und-die-fliessende-konigin.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172072564l/135887.jpg
   goodreads: '135887'
   isbn10: '3785539282'
   isbn13: '9783785539286'

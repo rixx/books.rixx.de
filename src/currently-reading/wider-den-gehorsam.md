@@ -1,8 +1,8 @@
 ---
 book:
   author: Arno Gruen
-  cover_image: wider-den-gehorsam.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: wider-den-gehorsam.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419826884l/24160407.jpg
   goodreads: '24160407'
   publication_year: null
   slug: wider-den-gehorsam

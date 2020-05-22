@@ -1,8 +1,8 @@
 ---
 book:
   author: Ichiro Kishimi
-  cover_image: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545421684l/43306206._SY475_.jpg
   goodreads: '43306206'
   isbn10: 176063073X
   isbn13: '9781760630737'

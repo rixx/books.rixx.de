@@ -1,8 +1,8 @@
 ---
 book:
   author: H. Beam Piper
-  cover_image: little-fuzzy.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: little-fuzzy.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348972417l/1440148.jpg
   goodreads: '1440148'
   isbn10: 0843959118
   isbn13: '9780843959116'

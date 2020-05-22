@@ -1,8 +1,8 @@
 ---
 book:
   author: Megan Whalen Turner
-  cover_image: the-thief.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-thief.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427740839l/448873.jpg
   goodreads: '448873'
   isbn10: 0060824972
   isbn13: '9780060824976'

@@ -1,8 +1,8 @@
 ---
 book:
   author: C.N. Lesley
-  cover_image: shadow-over-avalon.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: shadow-over-avalon.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404803177l/22677216.jpg
   goodreads: '22677216'
   publication_year: null
   slug: shadow-over-avalon

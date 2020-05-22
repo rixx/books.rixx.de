@@ -1,8 +1,8 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: ghosthunters-and-the-incredibly-revolting-ghost.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: ghosthunters-and-the-incredibly-revolting-ghost.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388798852l/28196.jpg
   goodreads: '28196'
   isbn10: 0439849586
   isbn13: '9780439849586'

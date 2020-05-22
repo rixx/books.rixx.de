@@ -1,8 +1,8 @@
 ---
 book:
   author: Johann Wolfgang von Goethe
-  cover_image: the-sorrows-of-young-werther.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-sorrows-of-young-werther.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920896l/16640.jpg
   goodreads: '16640'
   isbn10: 0812969901
   isbn13: '9780812969900'

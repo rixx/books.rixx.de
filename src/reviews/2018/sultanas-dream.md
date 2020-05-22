@@ -1,8 +1,8 @@
 ---
 book:
   author: Rokeya Sakhawat Hossain
-  cover_image: sultanas-dream.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: sultanas-dream.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347624935l/948061.jpg
   goodreads: '948061'
   isbn10: '8186211837'
   isbn13: '9788186211830'

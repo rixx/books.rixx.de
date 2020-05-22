@@ -1,8 +1,8 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: fragile-things-short-fictions-and-wonders.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: fragile-things-short-fictions-and-wonders.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924550l/16788.jpg
   goodreads: '16788'
   isbn10: 0060515228
   isbn13: '9780060515225'

@@ -1,8 +1,8 @@
 ---
 book:
   author: Joanne Bertin
-  cover_image: the-last-dragonlord.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-last-dragonlord.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390270678l/253153.jpg
   goodreads: '253153'
   isbn10: 0812545419
   isbn13: '9780812545418'

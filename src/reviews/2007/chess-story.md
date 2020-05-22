@@ -1,8 +1,8 @@
 ---
 book:
   author: Stefan Zweig
-  cover_image: chess-story.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: chess-story.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg
   goodreads: '59151'
   isbn10: '1590171691'
   isbn13: '9781590171691'

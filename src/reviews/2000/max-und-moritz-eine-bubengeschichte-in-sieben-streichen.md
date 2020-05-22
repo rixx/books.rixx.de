@@ -1,8 +1,8 @@
 ---
 book:
   author: Wilhelm Busch
-  cover_image: max-und-moritz-eine-bubengeschichte-in-sieben-streichen.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: max-und-moritz-eine-bubengeschichte-in-sieben-streichen.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1178926263l/854836.jpg
   goodreads: '854836'
   isbn10: '3938264624'
   isbn13: '9783938264621'
