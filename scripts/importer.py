@@ -1,5 +1,7 @@
 import datetime as dt
 import sqlite3
+from pathlib import Path
+from scripts.books import load_review_by_slug
 
 from tqdm import tqdm
 
@@ -103,4 +105,25 @@ def import_books():
         }[book["name"]]
         review = Review(metadata=metadata, text=text, entry_type=entry_type)
         review.download_cover()
+        review.save()
+
+
+def fix_duplicate_pics():
+    # find src/ ! -empty -type f -exec md5sum {} + | sort | uniq -w32 -dD | cut -d " " -f 3 > dupes.txt
+
+    with open("dupes.txt") as fp:
+        dupes = [d.strip() for d in fp.read().split("\n")]
+
+    dupes = [Path(d).stem for d in dupes]
+    reviews = [load_review_by_slug(d) for d in dupes if d]
+    for review in tqdm(reviews):
+        previous_path = review.metadata["book"].pop("cover_image", None)
+        if previous_path:
+            path = Path("src/covers") / previous_path
+            if path.exists():
+                path.unlink()
+        result = review.find_goodreads_scrape_cover(force_new=True)
+        if result is False:
+            print(f'Failed to find a cover for {review.metadata["book"]["slug"]}')
+            review.metadata["book"].pop("cover_image_url", None)
         review.save()
