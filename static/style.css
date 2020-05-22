@@ -172,6 +172,10 @@ footer {
   box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
 }
 
+.review_preview a.no-link {
+  cursor: pointer;
+}
+
 .review_preview:hover, .reading:hover {
   box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
 }

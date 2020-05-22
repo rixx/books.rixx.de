@@ -1,5 +1,5 @@
 <div class="review_preview {% if review_entry.review.rating == 5 %}review_fave{% endif %}">
-  <a href="/{{ review_entry.out_path() }}">
+  <a {% if review_entry.review.text %}href="/{{ review_entry.out_path() }}"{% else %}class="no-link"{% endif %}>
     <div class="book_thumbnail">
       {% set book = review_entry.book %}
       {% include "_book_cover.html" %}
