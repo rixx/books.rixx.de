@@ -1,8 +1,6 @@
 ---
 book:
   author: Scott   Alexander
-  cover_image: it-was-you-who-made-my-blue-eyes-blue.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '27394352'
   publication_year: '2015'
   slug: it-was-you-who-made-my-blue-eyes-blue

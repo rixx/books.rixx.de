@@ -1,8 +1,6 @@
 ---
 book:
   author: Fanny Müller
-  cover_image: keks-frau-k-und-katastrophen-alle-geschichten.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '3351055'
   isbn10: '3861505355'
   isbn13: '9783861505358'

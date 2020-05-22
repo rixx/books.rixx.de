@@ -1,8 +1,6 @@
 ---
 book:
   author: Scott   Alexander
-  cover_image: asches-to-asches.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '26111676'
   publication_year: '2014'
   slug: asches-to-asches

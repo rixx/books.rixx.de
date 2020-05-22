@@ -1,8 +1,6 @@
 ---
 book:
   author: paganaidd
-  cover_image: digging-for-the-bones.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '28431251'
   pages: '850'
   publication_year: '2014'

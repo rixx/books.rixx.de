@@ -1,8 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: bit-rot.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '18078713'
   pages: '22'
   publication_year: '2013'

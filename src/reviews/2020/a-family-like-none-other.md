@@ -1,8 +1,6 @@
 ---
 book:
   author: aspeninthesunlight
-  cover_image: a-family-like-none-other.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '35601139'
   pages: '1786'
   publication_year: null

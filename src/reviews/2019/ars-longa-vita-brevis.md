@@ -1,8 +1,6 @@
 ---
 book:
   author: Scott   Alexander
-  cover_image: ars-longa-vita-brevis.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
   goodreads: '41018921'
   pages: '5'
   publication_year: '2017'
