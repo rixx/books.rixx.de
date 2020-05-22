@@ -61,7 +61,6 @@ def import_books():
             if book["publication_date"]
             else None,
             "slug": slugify(book["book_title"]),
-            "cover_image_url": book["image_url"],
         }
         plan = {
             "date_added": book["date_added"][:10] if book["date_added"] else None,
@@ -75,8 +74,16 @@ def import_books():
         ):
             if value := book[key]:
                 book_data[key] = value
+
+        isbn = book_data.get("isbn10") or book_data.get("isbn13")
+        if isbn:
+            book_data[
+                "cover_image_url"
+            ] = f"http://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
+        else:
+            book_data["cover_image_url"] = book["image_url"]
         book_data["cover_image"] = save_cover(
-            slug=book_data["slug"], cover_image_url=book_data["cover_image_url"]
+            slug=book_data["slug"], cover_image_url=book_data["cover_image_url"],
         )
         entry = {"book": book_data, "plan": plan}
         if book["name"] == "read":

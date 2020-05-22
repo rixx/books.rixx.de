@@ -228,8 +228,22 @@ def get_review_info(date_started=None):
     }
 
 
-def save_cover(slug, cover_image_url):
-    filename, headers = urlretrieve(cover_image_url)
+def save_cover(slug, cover_image_url, force_new=False):
+
+    destination = Path("src") / "covers"
+    if not force_new and any(
+        destination.glob(f"{slug}.{extension}" for extension in ("jpg", "png", "gif"))
+    ):
+        print(f"Cover for {slug} already exists, passing.")
+        return
+
+    try:
+        filename, headers = urlretrieve(cover_image_url)
+    except Exception as e:
+        if "covers.openlibrary.org" in cover_image_url:
+            time.sleep(300)
+            filename, headers = urlretrieve(cover_image_url)
+        raise e
 
     if headers["Content-Type"] == "image/jpeg":
         extension = ".jpg"
@@ -244,7 +258,7 @@ def save_cover(slug, cover_image_url):
     extension = os.path.splitext(url_path[-1])[-1]
 
     cover_name = f"{slug}{extension}"
-    destination = Path("src") / "covers" / cover_name
+    destination = destination / cover_name
 
     if not destination.exists():
         destination.parent.mkdir(parents=True, exist_ok=True)
