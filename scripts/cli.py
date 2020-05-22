@@ -12,7 +12,7 @@ from .renderer import build_site
 @click.group()
 @click.version_option()
 def cli():
-    "Save data from Goodreads to a SQLite database"
+    "Interact with the data fueling books.rixx.de"
 
 
 @cli.command()
@@ -47,15 +47,6 @@ def auth(auth):
     auth_data["goodreads_user_id"] = user_id
     auth_data["shelves"] = get_shelves(auth_data)
     open(auth, "w").write(json.dumps(auth_data, indent=4) + "\n")
-    click.echo()
-    click.echo(
-        "Your authentication credentials have been saved to {}. You can now pull or push data by running".format(
-            auth
-        )
-    )
-    click.echo()
-    click.echo("    helferlein books books.db")
-    click.echo()
 
 
 @cli.command()
@@ -75,7 +66,7 @@ def books(auth):
         if action == "quit":
             break
         if action == "Build the site":
-            build()
+            build_site()
             break
         if action == "Add a new book":
             create_book(auth=auth)
@@ -85,11 +76,13 @@ def books(auth):
 
 @cli.command()
 def build():
+    """ Build the site, putting output into _html/ """
     build_site()
 
 
 @cli.command()
 def load():
+    """ Import book data from a sqlite database, in the format provided by goodreads-to-sqlite. """
     from .importer import import_books
 
     import_books()
