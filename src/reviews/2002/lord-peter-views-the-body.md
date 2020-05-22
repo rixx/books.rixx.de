@@ -2,6 +2,7 @@
 book:
   author: Dorothy L. Sayers
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519841076l/320460._SX98_.jpg
+  cover_image: lord-peter-views-the-body.jpg
   goodreads: '320460'
   isbn10: 0060923954
   isbn13: '9780060923952'

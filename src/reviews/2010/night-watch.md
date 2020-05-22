@@ -2,6 +2,7 @@
 book:
   author: Sergei Lukyanenko
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351342315l/359375._SX98_.jpg
+  cover_image: night-watch-lukyanenko.jpg
   goodreads: '359375'
   isbn10: '1401359795'
   isbn13: '9781401359799'
