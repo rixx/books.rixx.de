@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <h2>Books I want to read (and why)</h2>
+
+  {% set all_books = all_plans %}
+  {% include "_inline_book_list.html" %}
+{% endblock %}

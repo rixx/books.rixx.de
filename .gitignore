@@ -11,3 +11,4 @@ auth.json
 build/
 dist/
 *.bak
+_html

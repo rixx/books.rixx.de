@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <h2>Books I&rsquo;m currently reading</h2>
+
+  {% for reading_entry in all_reading %}
+  <div class="reading">
+    <div class="reading_inner">
+      <div class="book_thumbnail">
+        {% set book = reading_entry.book %}
+        {% include "_book_cover.html" %}
+      </div>
+
+      <div class="book_metadata">
+        <p class="title">{{ reading_entry.book.title | smartypants | safe }}</p>
+        <p>
+          <small>
+            by {{ reading_entry.book.author }}
+            {%- if reading_entry.book.publication_year %}
+              ({{ reading_entry.book.publication_year}})
+            {%- endif -%}
+          </small>
+        </p>
+      </div>
+    </div>
+    {% if reading_entry.reading.text %}
+    <div class="note">
+      {{ reading_entry.reading.text | render_markdown | safe }}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+{% endblock %}
