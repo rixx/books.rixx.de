@@ -37,6 +37,8 @@ def book_data(fn):
             "isbn13",
             "series",
             "series_position",
+            "goodreads",
+            "pages",
         ):
             if value := book_info.get(key):
                 new_entry["book"][key] = value

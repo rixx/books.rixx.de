@@ -86,3 +86,10 @@ def books(auth):
 @cli.command()
 def build():
     build_site()
+
+
+@cli.command()
+def load():
+    from .importer import import_books
+
+    import_books()
