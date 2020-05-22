@@ -1,140 +1,20 @@
-import datetime
+import datetime as dt
 import itertools
 import os
 import pathlib
 import subprocess
-import sys
 
-import attr
-import frontmatter
 import markdown
 import smartypants
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markdown.extensions.smarty import SmartyExtension
 from PIL import Image
 
+from . import books
+
 
 def rsync(source, destination):
     subprocess.check_call(["rsync", "--recursive", "--delete", source, destination])
-
-
-@attr.s
-class Book:
-    title = attr.ib()
-    author = attr.ib()
-    publication_year = attr.ib()
-    cover_image = attr.ib(default="")
-    cover_description = attr.ib(default="")
-    cover_image_url = attr.ib(default="")
-
-    series = attr.ib(default=None)
-    series_position = attr.ib(default=None)
-
-    goodreads = attr.ib(default="")
-    slug = attr.ib(default="")
-    pages = attr.ib(default="")
-
-    isbn10 = attr.ib(default="")
-    isbn13 = attr.ib(default="")
-
-
-@attr.s
-class Review:
-    text = attr.ib()
-    date_read = attr.ib()
-    date_started = attr.ib(default=None)
-    format = attr.ib(default=None)
-    rating = attr.ib(default=None)
-    did_not_finish = attr.ib(default=False)
-
-
-@attr.s
-class ReviewEntry:
-    path = attr.ib()
-    book = attr.ib()
-    review = attr.ib()
-
-    def out_path(self):
-        name = self.path.with_suffix("").name
-        return pathlib.Path(f"reviews/{name}")
-
-
-@attr.s
-class CurrentlyReading:
-    text = attr.ib()
-
-
-@attr.s
-class CurrentlyReadingEntry:
-    path = attr.ib()
-    book = attr.ib()
-    reading = attr.ib()
-
-
-def _parse_date(value):
-    if isinstance(value, datetime.date):
-        return value
-    else:
-        return datetime.datetime.strptime(value, "%Y-%m-%d").date()
-
-
-@attr.s
-class Plan:
-    text = attr.ib()
-    date_added = attr.ib(converter=_parse_date)
-
-
-@attr.s
-class PlanEntry:
-    path = attr.ib()
-    book = attr.ib()
-    plan = attr.ib()
-
-
-def get_review_entry_from_path(path):
-    post = frontmatter.load(path)
-
-    kwargs = {}
-    for attr_name in Book.__attrs_attrs__:
-        try:
-            kwargs[attr_name.name] = post["book"][attr_name.name]
-        except KeyError:
-            pass
-
-    book = Book(**kwargs)
-    review = Review(**post["review"], text=post.content)
-    return ReviewEntry(path=path, book=book, review=review)
-
-
-def get_reading_entry_from_path(path):
-    post = frontmatter.load(path)
-
-    book = Book(**post["book"])
-    reading = CurrentlyReading(text=post.content)
-
-    return CurrentlyReadingEntry(path=path, book=book, reading=reading)
-
-
-def get_plan_entry_from_path(path):
-    post = frontmatter.load(path)
-    book = Book(**post["book"])
-    plan = Plan(date_added=post["plan"]["date_added"], text=post.content)
-    return PlanEntry(path=path, book=book, plan=plan)
-
-
-def get_entries(dirpath, constructor):
-    for dirpath, _, filenames in os.walk(dirpath):
-        for f in filenames:
-            if not f.endswith(".md"):
-                continue
-
-            path = pathlib.Path(dirpath) / f
-
-            try:
-                yield constructor(path)
-            except Exception:
-                print(f"Error parsing {path}", file=sys.stderr)
-                raise
 
 
 def render_markdown(text):
@@ -142,7 +22,7 @@ def render_markdown(text):
 
 
 def render_date(date_value):
-    if isinstance(date_value, datetime.date):
+    if isinstance(date_value, dt.date):
         return date_value.strftime("%Y-%m-%d")
     return date_value
 
@@ -227,9 +107,7 @@ def build_site():
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    all_reviews = list(
-        get_entries(dirpath="src/reviews", constructor=get_review_entry_from_path)
-    )
+    all_reviews = books.get_all_reviews()
     all_reviews = sorted(
         all_reviews, key=lambda review: str(review.review.date_read), reverse=True
     )
@@ -241,7 +119,7 @@ def build_site():
 
     # Render the "all reviews" page
 
-    this_year = str(datetime.datetime.now().year)
+    this_year = str(dt.datetime.now().year)
     all_years = sorted(
         list(set(str(review.review.date_read)[:4] for review in all_reviews)),
         reverse=True,
@@ -323,11 +201,7 @@ def build_site():
 
     # Render the "currently reading" page
 
-    all_reading = list(
-        get_entries(
-            dirpath="src/currently-reading", constructor=get_reading_entry_from_path
-        )
-    )
+    all_reading = list(books.get_currently_reading())
 
     template = env.get_template("list_reading.html")
     html = template.render(
@@ -340,9 +214,7 @@ def build_site():
 
     # Render the "want to read" page
 
-    all_plans = list(
-        get_entries(dirpath="src/to-read", constructor=get_plan_entry_from_path)
-    )
+    all_plans = list(books.get_to_read())
 
     all_plans = sorted(all_plans, key=lambda plan: plan.plan.date_added, reverse=True)
 

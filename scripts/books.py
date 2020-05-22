@@ -3,14 +3,150 @@ import os
 import re
 import shutil
 import subprocess
+import sys
+import time
 from pathlib import Path
 from urllib.request import urlretrieve
 
+import attr
 import frontmatter
 import hyperlink
 import inquirer
 
 from . import goodreads, utils
+
+
+@attr.s
+class Book:
+    title = attr.ib()
+    author = attr.ib()
+    publication_year = attr.ib()
+    cover_image = attr.ib(default="")
+    cover_description = attr.ib(default="")
+    cover_image_url = attr.ib(default="")
+
+    series = attr.ib(default=None)
+    series_position = attr.ib(default=None)
+
+    goodreads = attr.ib(default="")
+    slug = attr.ib(default="")
+    pages = attr.ib(default="")
+
+    isbn10 = attr.ib(default="")
+    isbn13 = attr.ib(default="")
+
+
+@attr.s
+class Review:
+    text = attr.ib()
+    date_read = attr.ib()
+    date_started = attr.ib(default=None)
+    format = attr.ib(default=None)
+    rating = attr.ib(default=None)
+    did_not_finish = attr.ib(default=False)
+
+
+@attr.s
+class ReviewEntry:
+    path = attr.ib()
+    book = attr.ib()
+    review = attr.ib()
+
+    def out_path(self):
+        name = self.path.with_suffix("").name
+        return Path(f"reviews/{name}")
+
+
+@attr.s
+class CurrentlyReading:
+    text = attr.ib()
+
+
+@attr.s
+class CurrentlyReadingEntry:
+    path = attr.ib()
+    book = attr.ib()
+    reading = attr.ib()
+
+
+def _parse_date(value):
+    if isinstance(value, dt.date):
+        return value
+    else:
+        return dt.datetime.strptime(value, "%Y-%m-%d").date()
+
+
+@attr.s
+class Plan:
+    text = attr.ib()
+    date_added = attr.ib(converter=_parse_date)
+
+
+@attr.s
+class PlanEntry:
+    path = attr.ib()
+    book = attr.ib()
+    plan = attr.ib()
+
+
+def get_review_entry_from_path(path):
+    post = frontmatter.load(path)
+
+    kwargs = {}
+    for attr_name in Book.__attrs_attrs__:
+        try:
+            kwargs[attr_name.name] = post["book"][attr_name.name]
+        except KeyError:
+            pass
+
+    book = Book(**kwargs)
+    review = Review(**post["review"], text=post.content)
+    return ReviewEntry(path=path, book=book, review=review)
+
+
+def get_reading_entry_from_path(path):
+    post = frontmatter.load(path)
+
+    book = Book(**post["book"])
+    reading = CurrentlyReading(text=post.content)
+
+    return CurrentlyReadingEntry(path=path, book=book, reading=reading)
+
+
+def get_plan_entry_from_path(path):
+    post = frontmatter.load(path)
+    book = Book(**post["book"])
+    plan = Plan(date_added=post["plan"]["date_added"], text=post.content)
+    return PlanEntry(path=path, book=book, plan=plan)
+
+
+def get_entries(dirpath, constructor):
+    for dirpath, _, filenames in os.walk(dirpath):
+        for f in filenames:
+            if not f.endswith(".md"):
+                continue
+
+            path = Path(dirpath) / f
+
+            try:
+                yield constructor(path)
+            except Exception:
+                print(f"Error parsing {path}", file=sys.stderr)
+                raise
+
+
+def get_reviews():
+    return get_entries(dirpath="src/reviews", constructor=get_review_entry_from_path)
+
+
+def get_currently_reading():
+    return get_entries(
+        dirpath="src/currently-reading", constructor=get_reading_entry_from_path
+    )
+
+
+def get_to_read():
+    return get_entries(dirpath="src/to-read", constructor=get_plan_entry_from_path)
 
 
 @utils.book_data
