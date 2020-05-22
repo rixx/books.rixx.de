@@ -231,8 +231,11 @@ def get_review_info(date_started=None):
 def save_cover(slug, cover_image_url, force_new=False):
 
     destination = Path("src") / "covers"
+    destination.mkdir(parents=True, exist_ok=True)
+
     if not force_new and any(
-        destination.glob(f"{slug}.{extension}" for extension in ("jpg", "png", "gif"))
+        list(destination.glob(f"{slug}.{extension}"))
+        for extension in ("jpg", "png", "gif")
     ):
         print(f"Cover for {slug} already exists, passing.")
         return

@@ -2,6 +2,7 @@ import datetime as dt
 import sqlite3
 
 import frontmatter
+import requests
 from tqdm import tqdm
 
 from .books import get_out_path, save_cover
@@ -75,16 +76,33 @@ def import_books():
             if value := book[key]:
                 book_data[key] = value
 
+        book_data["cover_image_url"] = book["image_url"]
         isbn = book_data.get("isbn10") or book_data.get("isbn13")
         if isbn:
-            book_data[
-                "cover_image_url"
-            ] = f"http://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
-        else:
-            book_data["cover_image_url"] = book["image_url"]
-        book_data["cover_image"] = save_cover(
-            slug=book_data["slug"], cover_image_url=book_data["cover_image_url"],
-        )
+            url = f"http://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
+            try:
+                book_data["cover_image"] = save_cover(
+                    slug=book_data["slug"], cover_image_url=url,
+                )
+                book_data["cover_image_url"] = url
+            except:
+                pass
+            if not book_data.get("cover_image"):
+                url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{isbn}"
+                response = requests.get(url)
+                try:
+                    url = response.json()["items"][0]["volumeInfo"]["imageLinks"][
+                        "thumbnail"
+                    ]
+                    book_data["cover_image"] = save_cover(
+                        slug=book_data["slug"], cover_image_url=url,
+                    )
+                except:
+                    pass
+        if not book_data.get("cover_image"):
+            book_data["cover_image"] = save_cover(
+                slug=book_data["slug"], cover_image_url=book_data["cover_image_url"],
+            )
         entry = {"book": book_data, "plan": plan}
         if book["name"] == "read":
             read_at = (

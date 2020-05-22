@@ -107,7 +107,7 @@ def build_site():
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    all_reviews = books.get_all_reviews()
+    all_reviews = books.get_reviews()
     all_reviews = sorted(
         all_reviews, key=lambda review: str(review.review.date_read), reverse=True
     )
