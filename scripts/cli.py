@@ -4,7 +4,9 @@ import pathlib
 import click
 import inquirer
 
-from . import utils
+from books import add_book, change_book
+from goodreads import get_shelves
+from renderer import build_site
 
 
 @click.group()
@@ -43,7 +45,7 @@ def auth(auth):
         )
     auth_data["goodreads_personal_token"] = personal_token
     auth_data["goodreads_user_id"] = user_id
-    auth_data["shelves"] = utils.get_shelves(auth_data)
+    auth_data["shelves"] = get_shelves(auth_data)
     open(auth, "w").write(json.dumps(auth_data, indent=4) + "\n")
     click.echo()
     click.echo(
@@ -76,11 +78,11 @@ def books(auth):
             build()
             break
         if action == "Add a new book":
-            utils.add_book(auth=auth)
+            add_book(auth=auth)
         elif action == "Change book status":
-            utils.change_book(auth=auth)
+            change_book(auth=auth)
 
 
 @cli.command()
 def build():
-    utils.build()
+    build_site()
