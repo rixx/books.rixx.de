@@ -1,4 +1,5 @@
 import datetime as dt
+import glob
 import os
 import re
 import shutil
@@ -232,6 +233,13 @@ def load_currently_reading():
 
 def load_to_read():
     return _load_entries(dirpath="src/to-read")
+
+
+def load_review_by_slug(slug):
+    files = list(glob.glob(f"src/**/{slug}.md")) + list(
+        glob.glob(f"src/reviews/**/{slug}.md")
+    )
+    return Review(path=files[0])
 
 
 def get_book_from_input():
