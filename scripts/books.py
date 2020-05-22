@@ -210,6 +210,22 @@ class Review:
                 return self.download_cover(url, force_new=force_new)
         return False
 
+    def find_goodreads_scrape_cover(self, force_new=False):
+        import bs4
+
+        goodreads_id = self.metadata["book"].get("goodreads")
+        if not goodreads_id:
+            return False
+        goodreads_url = f"https://www.goodreads.com/book/show/{goodreads_id}-blabla"
+
+        with suppress(Exception):
+            soup = bs4.BeautifulSoup(
+                requests.get(goodreads_url).content.decode(), "html.parser"
+            )
+            url = soup.select_one("#coverImage").attrs["src"]
+            return self.download_cover(url, force_new=force_new)
+        return False
+
     def find_cover(self, order="openlibrary,google,goodreads", force_new=False):
         order = order.split(",")
         for provider in order:
