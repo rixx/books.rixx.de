@@ -1,0 +1,20 @@
+---
+book:
+  author: Pete Walker
+  cover_image: complex-ptsd-from-surviving-to-thriving.png
+  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  goodreads: '20556323'
+  pages: '376'
+  publication_year: null
+  slug: complex-ptsd-from-surviving-to-thriving
+  title: 'Complex PTSD: From Surviving to Thriving'
+plan:
+  date_added: '2020-02-16'
+review:
+  date_read: 2020-02-16
+  date_started: null
+  did_not_finish: false
+  rating: 2
+---
+
+First off: I'm not quite the target group for this book, and this has influenced my rating. I think the book says a lot of true things and reading it will do no harm and may significantly help you if you're in the right place. I think the acknowledgement and descriptions of the specific types of cPTSD and childhood trauma will be helpful for people impacted by this.<br /><br />That said, a lot about the books contents and writing style continued to irritate me in minor but constant ways. I also got the impression that the most valuable actionable advice was covered better by books like Focusing and Rewriting the Rules, but that may again be my bias due to being not in the target group.<br /><br />One content note: This book highlights and assumes that cPTSD comes from parents and family pretty much exclusively, and assumes that institutions like schools will be neutral to helpful, which seemed very odd to me.<br /><br />Anyways, good-ish book, just not for me.

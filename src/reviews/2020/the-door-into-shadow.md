@@ -1,0 +1,24 @@
+---
+book:
+  author: Diane Duane
+  cover_image: the-door-into-shadow.png
+  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  goodreads: '216844'
+  isbn10: 0812523695
+  isbn13: '9780812523690'
+  pages: '298'
+  publication_year: '1985'
+  series: Tale of the Five
+  series_position: '2'
+  slug: the-door-into-shadow
+  title: The Door Into Shadow
+plan:
+  date_added: '2019-11-15'
+review:
+  date_read: 2020-04-30
+  date_started: 2020-04-30
+  did_not_finish: false
+  rating: 4
+---
+
+Brutal, in a good way. Incredible character-building. Story arc is so Duane that you'd recognise it anywhere, but let's not pretend that this is a bad thing.

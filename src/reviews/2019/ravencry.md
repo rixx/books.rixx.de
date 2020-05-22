@@ -1,0 +1,24 @@
+---
+book:
+  author: Ed McDonald
+  cover_image: ravencry.png
+  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  goodreads: '39804476'
+  isbn10: '1473222052'
+  isbn13: '9781473222052'
+  pages: '414'
+  publication_year: null
+  series: Raven's Mark
+  series_position: '2'
+  slug: ravencry
+  title: Ravencry
+plan:
+  date_added: '2019-05-05'
+review:
+  date_read: 2019-11-20
+  date_started: null
+  did_not_finish: false
+  rating: 2
+---
+
+I did not finish **Ravencry** by *Ed McDonald*. It's not bad Fantasy, but it's not outstanding either, and I noticed I just didn't care about the story or the characters, and didn't even notice when I stopped reading for several weeks. Life is too short for books I'm not interested in.
