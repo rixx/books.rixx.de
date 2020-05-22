@@ -262,6 +262,59 @@ def build_site():
             out_path = pathlib.Path("_html") / "reviews/index.html"
             out_path.write_text(html)
 
+    # Render the "by title" page
+
+    template = env.get_template("list_by_title.html")
+    title_reviews = [
+        (letter, list(reviews))
+        for (letter, reviews) in itertools.groupby(
+            sorted(all_reviews, key=lambda rev: rev.book.title),
+            key=lambda rev: (
+                rev.book.title[0].upper() if rev.book.title[0].isalpha() else "_"
+            ),
+        )
+    ]
+    title_reviews = sorted(title_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    html = template.render(
+        reviews=title_reviews,
+        all_years=all_years,
+        title="Books by title",
+        active="by-title",
+    )
+    out_path = pathlib.Path("_html") / "reviews" / "by-title/index.html"
+    out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(html)
+
+    # Render the "by author" page
+
+    template = env.get_template("list_by_author.html")
+    author_reviews = [  # don't @ me
+        (letter, list(authors))
+        for letter, authors in itertools.groupby(
+            sorted(
+                [
+                    (author, list(reviews))
+                    for (author, reviews) in itertools.groupby(
+                        sorted(all_reviews, key=lambda rev: rev.book.author),
+                        key=lambda review: review.book.author,
+                    )
+                ],
+                key=lambda x: x[0],
+            ),
+            key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
+        )
+    ]
+    author_reviews = sorted(author_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    html = template.render(
+        reviews=author_reviews,
+        all_years=all_years,
+        title="Books by author",
+        active="by-author",
+    )
+    out_path = pathlib.Path("_html") / "reviews" / "by-author/index.html"
+    out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(html)
+
     # Render the "currently reading" page
 
     all_reading = list(

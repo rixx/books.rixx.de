@@ -68,6 +68,12 @@ article p.more:first-child::first-letter, p.more::first-letter {
   text-indent: inherit !important;
 
 }
+.initial.alphabet::first-letter {
+  padding-right: 32px;
+}
+.alphabet-section {
+  min-height: 8em;
+}
 h1 a, h2 a {
   font-weight: normal;
 }

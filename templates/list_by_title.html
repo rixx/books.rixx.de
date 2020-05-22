@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <nav id="year-nav">
+    {% for iyear in all_years %}
+    <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear or "other" }}"{% endif %}>
+      {{ iyear or "other" }}
+    </a> ·
+    {% endfor %}
+    <a href="/reviews/by-author/">by author</a> ·
+    <a href="/reviews/by-title/" class="active">by title</a> ·
+    <a href="/reviews/by-series/">by series</a>
+  </nav>
+
+  {% for letter, _ in reviews %}
+  <a href="#{{ letter }}">{{ letter }}</a> 
+  {% endfor %}
+
+  <h2>All books I've read by title</h2>
+
+  {% for letter, ireviews in reviews %}{% if ireviews %}
+  <section id="{{ letter }}" class="alphabet-section">
+  <h2 class="alphabet initial">{{ letter }}</h2>
+    <ul>
+    {% for review in ireviews %}
+    <li><a href="/{{ review.out_path() }}">{{ review.book.title }}</a> by {{ review.book.author }}</li>
+    {% endfor %}
+    </ul>
+  </section>
+  <hr>
+
+  {% endif %}{% endfor %}
+
+{% endblock %}
+

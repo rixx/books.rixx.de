@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <nav id="year-nav">
+    {% for iyear in all_years %}
+    <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear or "other" }}"{% endif %}>
+      {{ iyear or "other" }}
+    </a> ·
+    {% endfor %}
+    <a href="/reviews/by-author/" class="active">by author</a> ·
+    <a href="/reviews/by-title/">by title</a> ·
+    <a href="/reviews/by-series/">by series</a>
+  </nav>
+
+  <p></p>
+  {% for letter, _ in reviews %}
+  <a href="#{{ letter }}">{{ letter }}</a> 
+  {% endfor %}
+
+  <h2>All books I've read by author</h2>
+
+  Yes, by author here means "by first name".
+
+  <hr>
+
+  {% for letter, authors in reviews %}
+  <section id="{{ letter }}" class="alphabet-section">
+  <h2 class="alphabet initial">{{ letter }}</h2>
+    <ul>
+    {% for author, areviews in authors %}
+      <li>{{ author }}
+        <ul>
+        {% for review in areviews %}
+        <li><a href="/{{ review.out_path() }}">{{ review.book.title }}</a></li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+  <hr>
+  {% endfor %}
+
+{% endblock %}
+
