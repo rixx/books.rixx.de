@@ -25,16 +25,40 @@
   <table class="book_metadata">
     <tr>
       <td>author{% if "and" in review_entry.book.author or ", " in review_entry.book.author or " & " in review_entry.book.author %}s{% endif %}:</td>
-      <th>{{ review_entry.book.author }}
+      <th><a href="/reviews/by-author/#{{ review_entry.book.author }}">{{ review_entry.book.author }}</a>
         {%- if review_entry.book.publication_year %}
           ({{ review_entry.book.publication_year}})
         {%- endif -%}
       </th>
     </tr>
+    {% if review_entry.book.series %}
+    <tr>
+      <td>series:</td>
+      <th>{{ review_entry.book.series }} {% if review_entry.book.series_position %}#{{ review_entry.book.series_position }}{% endif %}</th>
+    </tr>
+    {% endif %}
+    {% if review_entry.review.date_added %}
+    <tr>
+      <td>date added:</td>
+      <th>{{ review_entry.review.date_added | render_date }}</th>
+    </tr>
+    {% endif %}
+    {% if review_entry.review.date_started %}
+    <tr>
+      <td>date started:</td>
+      <th>{{ review_entry.review.date_started | render_date }}</th>
+    </tr>
+    {% endif %}
     {% if review_entry.review.date_read %}
     <tr>
       <td>date read:</td>
       <th>{{ review_entry.review.date_read | render_date }}</th>
+    </tr>
+    {% endif %}
+    {% if review_entry.book.pages %}
+    <tr>
+      <td>pages:</td>
+      <th>{{ review_entry.book.pages }}</th>
     </tr>
     {% endif %}
     {% if review_entry.review.rating %}
@@ -59,5 +83,17 @@
   {{ review_entry.review.text | render_markdown | safe }}
   </article>
 
-  <p>(see <a href="/reviews">all reviews</a>)</p>
+  <hr>
+
+  {% if review_entry.book.goodreads %}
+    (<a href="https://www.goodreads.com/book/show/{{ review_entry.book.goodreads }}">goodreads</a>) ·
+  {% elif review_entry.book.isbn10 or review_entry.book.isbn13 %}
+    (<a href="https://www.goodreads.com/search?q={{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&search_type=books">goodreads</a>) ·
+  {% endif %}
+  {% if review_entry.book.isbn10 or review_entry.book.isbn13 %}(<a href="https://www.amazon.com/s?k=isbn+{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&ref=nb_sb_noss">amazon</a>) ·
+  {% endif %}
+
+  see <a href="/reviews">all reviews</a>
+  <hr>
+
 {% endblock %}

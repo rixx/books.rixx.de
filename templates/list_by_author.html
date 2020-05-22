@@ -28,7 +28,7 @@
   <h2 class="alphabet initial">{{ letter }}</h2>
     <ul>
     {% for author, areviews in authors %}
-      <li>{{ author }}
+      <li id="{{ author }}">{{ author }}
         <ul>
         {% for review in areviews %}
         <li>{% if review.review.text %}<a href="/{{ review.out_path() }}">{{ review.book.title }}</a>{% else %}{{ review.book.title }}{% endif %}</li>
