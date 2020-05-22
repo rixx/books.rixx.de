@@ -25,8 +25,14 @@ class Book:
     publication_year = attr.ib()
     cover_image = attr.ib(default="")
     cover_description = attr.ib(default="")
+    cover_image_url = attr.ib(default="")
+
     series = attr.ib(default=None)
     series_position = attr.ib(default=None)
+
+    goodreads = attr.ib(default="")
+    slug = attr.ib(default="")
+    pages = attr.ib(default="")
 
     isbn10 = attr.ib(default="")
     isbn13 = attr.ib(default="")
@@ -319,7 +325,7 @@ def build_site():
 
     all_reading = list(
         get_entries(
-            dirpath="src/currently_reading", constructor=get_reading_entry_from_path
+            dirpath="src/currently-reading", constructor=get_reading_entry_from_path
         )
     )
 
@@ -335,7 +341,7 @@ def build_site():
     # Render the "want to read" page
 
     all_plans = list(
-        get_entries(dirpath="src/to_read", constructor=get_plan_entry_from_path)
+        get_entries(dirpath="src/to-read", constructor=get_plan_entry_from_path)
     )
 
     all_plans = sorted(all_plans, key=lambda plan: plan.plan.date_added, reverse=True)
