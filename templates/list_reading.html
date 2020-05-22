@@ -20,6 +20,9 @@
             {%- if currently_reading.metadata.book.publication_year %}
               ({{ currently_reading.metadata.book.publication_year}})
             {%- endif -%}
+            {% if currently_reading.metadata.review and currently_reading.metadata.review.date_started %}
+            <p><i>since {{ currently_reading.metadata.review.date_started | render_date }}</i></p>
+            {% endif %}
           </small>
         </p>
       </div>
