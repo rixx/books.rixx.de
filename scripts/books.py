@@ -20,7 +20,7 @@ def get_book_from_input():
         inquirer.Text("author", message="Who’s the author?"),
         inquirer.Text("publication_year", message="When was it published?"),
         inquirer.Text("cover_image_url", message="What’s the cover URL?"),
-        inquirer.Text("cover_desc", message="What’s the cover?"),
+        inquirer.Text("cover_description", message="What’s the cover?"),
         inquirer.Text("isbn10", message="Do you know the ISBN-10?"),
         inquirer.Text("isbn13", message="Do you know the ISBN-13?"),
         inquirer.List(
@@ -84,6 +84,7 @@ def get_review_info(date_started=None):
         )
 
     return {
+        "date_started": date_started,
         "date_read": date_read,
         "rating": rating,
         "did_not_finish": did_not_finish,

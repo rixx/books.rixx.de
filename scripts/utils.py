@@ -1,4 +1,5 @@
 import re
+
 from unidecode import unidecode
 
 
@@ -30,7 +31,7 @@ def book_data(fn):
             },
         }
 
-        for key in ("cover_desc", "isbn10", "isbn13", "series", "series_position"):
+        for key in ("cover_description", "isbn10", "isbn13", "series", "series_position"):
             if value := book_info.get(key):
                 new_entry["book"][key] = value
 

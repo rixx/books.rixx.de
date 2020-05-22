@@ -4,9 +4,9 @@ import pathlib
 import click
 import inquirer
 
-from books import add_book, change_book
-from goodreads import get_shelves
-from renderer import build_site
+from .books import add_book, change_book
+from .goodreads import get_shelves
+from .renderer import build_site
 
 
 @click.group()

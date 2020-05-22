@@ -20,7 +20,7 @@
     </div>
   {% endif %}
 
-  <h1>My review of <span class="book-title">{{ review_entry.book.title | smartypants | safe }}</span></h1>
+  <h1>{{ review_entry.book.title | smartypants | safe }}</h1>
 
   <table class="book_metadata">
     <tr>
@@ -55,7 +55,9 @@
     {% endif %}
   </table>
 
+  <article>
   {{ review_entry.review.text | render_markdown | safe }}
+  </article>
 
   <p>(see <a href="/reviews">all reviews</a>)</p>
 {% endblock %}

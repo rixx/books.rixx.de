@@ -23,9 +23,9 @@ body {
 main {
   margin-left: auto;
   margin-right: auto;
-  padding: 24px;
+  padding: 1em;
   width: 800px;
-  min-height: 80vh;
+  min-height: 83vh;
   overflow-wrap: break-word;
   background: white;
   border-left: solid 1px #990000;
@@ -77,10 +77,6 @@ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   margin-top: 20px;
   margin-bottom: 0;
 }
-h1 .book-title {
-  line-height: 1.2em;
-  font-size: 48px;
-}
 h2 {
   font-size: 36px;
 }
@@ -128,10 +124,6 @@ img {
 }
 
 
-main {
-  padding: 1em;
-}
-
 table.book_metadata {
   border-collapse: collapse;
   margin-bottom: 1em;
@@ -151,7 +143,6 @@ footer {
   border-top: 0.25px solid rgba(0, 0, 0, 0.14);
   color: #999;
   font-size: 0.75em;
-  margin-top: 2em;
   padding: 1em;
   text-align: center;
 }
