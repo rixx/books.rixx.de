@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2020-01-26'
 ---
+
+The first part was my first T. Kingfisher book, and I want more

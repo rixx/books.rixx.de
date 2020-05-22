@@ -12,3 +12,6 @@ book:
 plan:
   date_added: '2019-11-15'
 ---
+
+Available [here](https://github.com/jhulick/bookstuff/blob/master/Data%20and%20Reality.pdf), note that the 2nd edition
+is Good and the 3rd is Bad. Via [Hillel](https://twitter.com/hillelogram/status/1111068458261856256).

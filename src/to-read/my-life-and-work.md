@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2020-02-04'
 ---
+
+Via [Stacking the Bricks](https://stackingthebricks.com/henry-ford-on-startup-ambition/)

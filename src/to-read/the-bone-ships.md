@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-07-26'
 ---
+
+via [Nerds of a Feather](http://www.nerds-feather.com/2020/01/microreview-book-bone-ships-by-rj-barker.html)

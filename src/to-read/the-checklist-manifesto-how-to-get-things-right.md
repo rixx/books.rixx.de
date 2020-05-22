@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-11-27'
 ---
+
+I heard that the book is slightly worse than any more concise version, so I'll probably just blaze through

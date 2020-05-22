@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-01-14'
 ---
+
+Benthor. Doubling down on the vampire from Blindsight, horrifying thought. Need to re-visit Blindsight first.

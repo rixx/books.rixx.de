@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-02-11'
 ---
+
+just for fun, probably via reddit

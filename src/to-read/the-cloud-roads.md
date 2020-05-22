@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-05-10'
 ---
+
+Would be nice to see what Martha Wells does when she doesn't go for easily relatable robots

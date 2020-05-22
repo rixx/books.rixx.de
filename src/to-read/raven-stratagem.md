@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-03-31'
 ---
+
+I may need to revisit the first part: I'm not sure if I liked it a fair amount, or if I don't want to come near it again

@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-08-07'
 ---
+
+I don't want to read too fast because I don't want to live in a world where I've read all of Miles.

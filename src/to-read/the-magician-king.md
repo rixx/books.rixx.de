@@ -15,3 +15,6 @@ book:
 plan:
   date_added: '2020-05-05'
 ---
+
+The Magicians was partly good, partly depressing – if the good parts continue, it should be fun (otherwise I'll drop the
+series).

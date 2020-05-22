@@ -13,3 +13,6 @@ book:
 plan:
   date_added: '2019-11-24'
 ---
+
+Circe was okayish, this is the second chance I'm giving Miller before deciding that her access to myths doesn't match
+mine.

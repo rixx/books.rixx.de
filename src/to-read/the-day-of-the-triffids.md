@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-01-17'
 ---
+
+Also mentioned in Among Others. Dark & classic. Liked by Kathy and Tim.

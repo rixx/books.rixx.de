@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-02-04'
 ---
+
+Rae and David and Jo Walton like it, must be good

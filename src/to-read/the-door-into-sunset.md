@@ -14,3 +14,6 @@ book:
 plan:
   date_added: '2020-04-30'
 ---
+
+Still haven't read all of Diane Duane. I like the Tale of the Five series tremendously so far, especially for the
+vivid/real characters.

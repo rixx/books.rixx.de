@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-05-03'
 ---
+
+I will probably choose one Enigma book and discard the others

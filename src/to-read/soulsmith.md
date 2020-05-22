@@ -13,3 +13,6 @@ book:
 plan:
   date_added: '2020-04-30'
 ---
+
+[Unsouled](/reviews/2020/unsouled) was fun, but I resented the cliffhanger ending. I expect a lot of escalation in this
+one, and I'm a sucker for stories like that.

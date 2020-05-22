@@ -11,3 +11,5 @@ book:
 plan:
   date_added: '2019-04-02'
 ---
+
+Gotta start somewhere

@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-07-15'
 ---
+
+Mistborn is not nearly as good as his newer stuff, but a nice diversion

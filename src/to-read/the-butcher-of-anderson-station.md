@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2020-02-11'
 ---
+
+Having some of The Expanse to look forward to, even just novellas, is surprisingly nice.

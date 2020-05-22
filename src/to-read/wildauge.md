@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-01-25'
 ---
+
+Strong rec from Benthor

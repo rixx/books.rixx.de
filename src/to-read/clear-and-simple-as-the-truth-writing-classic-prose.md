@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-11-15'
 ---
+
+[David](https://twitter.com/DRMacIver/status/1247491920831688705)

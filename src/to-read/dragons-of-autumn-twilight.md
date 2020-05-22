@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2020-05-07'
 ---
+
+Mentioned in [Among Others](/reviews/2020/among-others)

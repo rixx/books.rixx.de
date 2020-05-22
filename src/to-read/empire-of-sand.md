@@ -12,3 +12,4 @@ book:
 plan:
   date_added: '2018-12-04'
 ---
+Multiple recs

@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-07-15'
 ---
+
+via [Nerds of a Feather](http://www.nerds-feather.com/2019/05/microreview-book-city-in-middle-of.html)

@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-04-04'
 ---
+
+Mark Lawrence is reliably good entertainment

@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2020-02-18'
 ---
+
+Recommended by [David](https://twitter.com/DRMacIver/status/1228233781317734401): "I've previously not-really-joked that you can't understand gender until you've read Thomas Schelling's book about the game theory of nuclear war, "The Strategy of Conflict". That joke is now deprecated in favour of a recommendation to read this book."

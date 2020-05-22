@@ -11,3 +11,5 @@ book:
 plan:
   date_added: '2019-09-26'
 ---
+
+Last try of being into Seanan McGuire instead of being into an idea of her

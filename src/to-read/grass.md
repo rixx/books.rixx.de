@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-01-28'
 ---
+
+classic, shoud read up on it when I'm in the mood for classics

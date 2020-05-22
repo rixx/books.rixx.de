@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-02-19'
 ---
+
+how generic can you get? let's find out

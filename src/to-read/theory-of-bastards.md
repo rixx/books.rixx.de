@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-02-04'
 ---
+
+dark-ish but well-written scifi, or so people say

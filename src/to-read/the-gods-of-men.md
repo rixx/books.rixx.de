@@ -12,3 +12,5 @@ book:
 plan:
   date_added: '2018-12-10'
 ---
+
+Sounds like tropes, but apparently transcends them. Fantasy

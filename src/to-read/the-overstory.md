@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-02-04'
 ---
+
+Should/would/could read some Richard Powers

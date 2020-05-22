@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2019-10-06'
 ---
+
+[via Vicky](https://www.goodreads.com/review/show/2773816684?book_show_action=true) who was very very into it

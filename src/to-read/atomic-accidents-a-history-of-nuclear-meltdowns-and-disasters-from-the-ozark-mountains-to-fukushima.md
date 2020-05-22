@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2019-11-15'
 ---
+
+Recommendation by [David](https://twitter.com/DRMacIver/status/1186347051635957762): 'There's also the chapter with the very reassuring title "The Military Almost Never Lost a Nuclear Weapon"'

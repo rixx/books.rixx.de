@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-01-28'
 ---
+Academy's warrior-thieves, dark big insidious evil inside you, forbidden magic, a forgotten heritage, and a secret
+deformity. Just ticking boxes.

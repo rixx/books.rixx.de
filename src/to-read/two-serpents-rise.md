@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-10-05'
 ---
+
+Three Parts Dead was lots of fun, kind of like a more light-hearted Miéville

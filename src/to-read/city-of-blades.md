@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2020-05-07'
 ---
+
+City of Stairs was fun, and in a surprising way. To live up to it, the second part will have to be very different.
