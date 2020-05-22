@@ -90,7 +90,9 @@
   {% elif review_entry.book.isbn10 or review_entry.book.isbn13 %}
     (<a href="https://www.goodreads.com/search?q={{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&search_type=books">goodreads</a>) ·
   {% endif %}
-  {% if review_entry.book.isbn10 or review_entry.book.isbn13 %}(<a href="https://www.amazon.com/s?k=isbn+{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&ref=nb_sb_noss">amazon</a>) ·
+  {% if review_entry.book.isbn10 or review_entry.book.isbn13 %}
+    (<a href="https://www.librarything.com/isbn/{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}">librarything</a>) ·
+    (<a href="https://www.amazon.com/s?k=isbn+{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&ref=nb_sb_noss">amazon</a>) ·
   {% endif %}
 
   see <a href="/reviews">all reviews</a>
