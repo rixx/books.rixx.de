@@ -34,7 +34,7 @@
     {% if review.metadata.book.series %}
     <tr>
       <td>series:</td>
-      <th>{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</th>
+      <th><a href="/reviews/by-series/#{{ review.metadata.book.series }}">{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</a></th>
     </tr>
     {% endif %}
     {% if review.metadata.review.date_added %}

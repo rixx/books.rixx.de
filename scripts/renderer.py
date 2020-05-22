@@ -210,6 +210,43 @@ def build_site():
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
 
+    # Render the "by series" page
+
+    template = env.get_template("list_by_series.html")
+    series_reviews = [
+        (
+            series,
+            sorted(
+                list(books),
+                key=lambda book: float(book.metadata["book"]["series_position"])
+                if book.metadata["book"]["series_position"].isnumeric()
+                else float(book.metadata["book"]["series_position"][0]),
+            ),
+        )
+        for series, books in itertools.groupby(
+            sorted(
+                [
+                    review
+                    for review in all_reviews
+                    if review.metadata["book"].get("series")
+                    and review.metadata["book"].get("series_position")
+                ],
+                key=lambda rev: rev.metadata["book"]["series"],
+            ),
+            key=lambda rev: rev.metadata["book"]["series"],
+        )
+    ]
+    series_reviews = sorted(series_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    html = template.render(
+        reviews=series_reviews,
+        all_years=all_years,
+        title="Books by series",
+        active="by-series",
+    )
+    out_path = pathlib.Path("_html") / "reviews" / "by-series/index.html"
+    out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(html)
+
     # Render the "currently reading" page
 
     all_reading = list(books.load_currently_reading())
