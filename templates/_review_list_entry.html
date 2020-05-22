@@ -1,0 +1,36 @@
+<div class="review_preview {% if review.metadata.review.rating == 5 %}review_fave{% endif %}">
+  <a {% if review.text %}href="/{{ review.get_core_path() }}"{% else %}class="no-link"{% endif %}>
+    <div class="book_thumbnail">
+      {% set book = review.metadata.book %}
+      {% include "_book_cover.html" %}
+    </div>
+
+    <div class="book_metadata">
+      <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
+      <p>
+        <small>
+          by {{ review.metadata.book.author }}
+          {%- if review.metadata.book.publication_year %}
+            ({{ review.metadata.book.publication_year}})
+          {%- endif -%}
+            <br/>
+          {% if review.metadata.review.date_read %}
+          read {{ review.metadata.review.date_read | render_date }}
+            <br/>
+          {% endif %}
+          {% if review.metadata.review.rating %}
+            {% for _ in range(review.metadata.review.rating) %}
+            ★
+            {% endfor %}
+            {% for _ in range(5 - review.metadata.review.rating) %}
+            ☆
+            {% endfor %}
+          {% endif %}
+          {% if review.metadata.review.did_not_finish %}
+            (did not finish)
+          {% endif %}
+        </small>
+      </p>
+    </div>
+  </a>
+</div>

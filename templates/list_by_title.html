@@ -23,7 +23,14 @@
   <h2 class="alphabet initial">{{ letter }}</h2>
     <ul>
     {% for review in ireviews %}
-    <li>{% if review.review.text %}<a href="/{{ review.out_path() }}">{{ review.book.title }}</a>{% else %}{{ review.book.title }}{% endif %} by {{ review.book.author }}</li>
+      <li>
+        {% if review.text %}
+          <a href="/{{ review.get_core_path() }}">{{ review.metadata.book.title }}</a>
+        {% else %}
+          {{ review.metadata.book.title }}
+        {% endif %}
+        by {{ review.metadata.book.author }}
+      </li>
     {% endfor %}
     </ul>
   </section>

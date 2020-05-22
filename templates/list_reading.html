@@ -4,29 +4,29 @@
 
   <h2>Books I&rsquo;m currently reading</h2>
 
-  {% for reading_entry in all_reading %}
+  {% for currently_reading in all_reading %}
   <div class="reading">
     <div class="reading_inner">
       <div class="book_thumbnail">
-        {% set book = reading_entry.book %}
+        {% set book = currently_reading.metadata.book %}
         {% include "_book_cover.html" %}
       </div>
 
       <div class="book_metadata">
-        <p class="title">{{ reading_entry.book.title | smartypants | safe }}</p>
+        <p class="title">{{ currently_reading.metadata.book.title | smartypants | safe }}</p>
         <p>
           <small>
-            by {{ reading_entry.book.author }}
-            {%- if reading_entry.book.publication_year %}
-              ({{ reading_entry.book.publication_year}})
+            by {{ currently_reading.metadata.book.author }}
+            {%- if currently_reading.metadata.book.publication_year %}
+              ({{ currently_reading.metadata.book.publication_year}})
             {%- endif -%}
           </small>
         </p>
       </div>
     </div>
-    {% if reading_entry.reading.text %}
+    {% if currently_reading.text %}
     <div class="note">
-      {{ reading_entry.reading.text | render_markdown | safe }}
+      {{ currently_reading.text | render_markdown | safe }}
     </div>
     {% endif %}
   </div>

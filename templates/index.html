@@ -6,8 +6,8 @@
 <p>Here are a few of the books I&rsquo;ve read recently:</p>
 
 <div class="books_by_year">
-  {% for review_entry in reviews %}
-    {% include "_review_entry.html" %}
+  {% for review in reviews %}
+    {% include "_review_list_entry.html" %}
   {% endfor %}
 </div>
 {% endblock %}

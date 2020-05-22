@@ -31,7 +31,13 @@
       <li id="{{ author }}">{{ author }}
         <ul>
         {% for review in areviews %}
-        <li>{% if review.review.text %}<a href="/{{ review.out_path() }}">{{ review.book.title }}</a>{% else %}{{ review.book.title }}{% endif %}</li>
+          <li>
+            {% if review.text %}
+              <a href="/{{ review.get_core_path() }}">{{ review.metadata.book.title }}</a>
+            {% else %}
+              {{ review.metadata.book.title }}
+            {% endif %}
+          </li>
         {% endfor %}
         </ul>
       </li>

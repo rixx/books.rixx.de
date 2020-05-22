@@ -1,26 +1,26 @@
-{% for book_entry in all_books %}
+{% for review in all_books %}
 <div class="reading">
   <div class="reading_inner">
     <div class="book_thumbnail">
-      {% set book = book_entry.book %}
+      {% set book = review.metadata.book %}
       {% include "_book_cover.html" %}
     </div>
 
     <div class="book_metadata">
-      <p class="title">{{ book_entry.book.title | smartypants | safe }}</p>
+      <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
       <p>
         <small>
-          by {{ book_entry.book.author }}
-          {%- if book_entry.book.publication_year %}
-            ({{ book_entry.book.publication_year}})
+          by {{ review.metadata.book.author }}
+          {%- if review.metadata.book.publication_year %}
+            ({{ review.metadata.book.publication_year}})
           {%- endif -%}
         </small>
       </p>
     </div>
   </div>
-  {% if book_entry.plan.text %}
+  {% if review.text %}
   <div class="note">
-    {{ book_entry.plan.text | render_markdown | safe }}
+    {{ review.text | render_markdown | safe }}
   </div>
   {% endif %}
 </div>

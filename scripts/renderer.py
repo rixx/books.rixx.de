@@ -27,15 +27,15 @@ def render_date(date_value):
     return date_value
 
 
-def render_individual_review(env, *, review_entry):
+def render_individual_review(env, *, review):
     template = env.get_template("review.html")
     html = template.render(
-        review_entry=review_entry,
-        title=f"My review of {review_entry.book.title}",
+        review=review,
+        title=f"My review of {review.metadata['book']['title']}",
         active="read",
     )
 
-    out_name = review_entry.out_path() / "index.html"
+    out_name = review.get_core_path() / "index.html"
     out_path = pathlib.Path("_html") / out_name
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
@@ -79,7 +79,6 @@ def create_thumbnails():
         src_path = pathlib.Path("src/covers") / image_name
         dst_path = pathlib.Path("_html/thumbnails") / image_name
 
-        print(src_path)
         if not dst_path.exists() or src_path.stat().st_mtime > dst_path.stat().st_mtime:
             _create_new_thumbnail(src_path, dst_path)
 
@@ -108,26 +107,33 @@ def build_site():
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    all_reviews = books.get_reviews()
+    all_reviews = books.load_reviews()
     all_reviews = sorted(
-        all_reviews, key=lambda review: str(review.review.date_read), reverse=True
+        all_reviews,
+        key=lambda review: str(review.metadata["review"]["date_read"]),
+        reverse=True,
     )
 
     # Render single review pages
 
-    for review_entry in all_reviews:
-        render_individual_review(env, review_entry=review_entry)
+    for review in all_reviews:
+        render_individual_review(env, review=review)
 
     # Render the "all reviews" page
 
     this_year = str(dt.datetime.now().year)
     all_years = sorted(
-        list(set(str(review.review.date_read)[:4] for review in all_reviews)),
+        list(
+            set(
+                str(review.metadata["review"]["date_read"])[:4]
+                for review in all_reviews
+            )
+        ),
         reverse=True,
     )
     template = env.get_template("list_reviews.html")
     for (year, reviews) in itertools.groupby(
-        all_reviews, key=lambda rev: str(rev.review.date_read)[:4]
+        all_reviews, key=lambda rev: str(rev.metadata["review"]["date_read"])[:4]
     ):
         html = template.render(
             reviews=list(reviews),
@@ -153,9 +159,11 @@ def build_site():
     title_reviews = [
         (letter, list(reviews))
         for (letter, reviews) in itertools.groupby(
-            sorted(all_reviews, key=lambda rev: rev.book.title),
+            sorted(all_reviews, key=lambda rev: rev.metadata["book"]["title"]),
             key=lambda rev: (
-                rev.book.title[0].upper() if rev.book.title[0].isalpha() else "_"
+                rev.metadata["book"]["title"][0].upper()
+                if rev.metadata["book"]["title"][0].isalpha()
+                else "_"
             ),
         )
     ]
@@ -180,8 +188,10 @@ def build_site():
                 [
                     (author, list(reviews))
                     for (author, reviews) in itertools.groupby(
-                        sorted(all_reviews, key=lambda rev: rev.book.author),
-                        key=lambda review: review.book.author,
+                        sorted(
+                            all_reviews, key=lambda rev: rev.metadata["book"]["author"]
+                        ),
+                        key=lambda review: review.metadata["book"]["author"],
                     )
                 ],
                 key=lambda x: x[0],
@@ -202,7 +212,7 @@ def build_site():
 
     # Render the "currently reading" page
 
-    all_reading = list(books.get_currently_reading())
+    all_reading = list(books.load_currently_reading())
 
     template = env.get_template("list_reading.html")
     html = template.render(
@@ -215,9 +225,11 @@ def build_site():
 
     # Render the "want to read" page
 
-    all_plans = list(books.get_to_read())
+    all_plans = list(books.load_to_read())
 
-    all_plans = sorted(all_plans, key=lambda plan: plan.plan.date_added, reverse=True)
+    all_plans = sorted(
+        all_plans, key=lambda plan: plan.metadata["plan"]["date_added"], reverse=True
+    )
 
     template = env.get_template("list_to_read.html")
     html = template.render(

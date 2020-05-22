@@ -3,75 +3,75 @@
 {% block head_content %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@rixxtr"/>
-<meta name="twitter:title" content="Tobias's review of {{ review_entry.book.title }}"/>
-<meta name="twitter:image" content="https://books.rixx.de/squares/{{ review_entry.book.cover_image }}"/>
+<meta name="twitter:title" content="Tobias's review of {{ review.metadata.book.title }}"/>
+<meta name="twitter:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>
 
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://books.rixx.de/{{ review_entry.out_path() }}">
-<meta property="og:title" content="Tobias's review of {{ review_entry.book.title }}">
-<meta property="og:image" content="https://books.rixx.de/squares/{{ review_entry.book.cover_image }}"/>
+<meta property="og:url" content="https://books.rixx.de/{{ review.get_core_path() }}">
+<meta property="og:title" content="Tobias's review of {{ review.metadata.book.title }}">
+<meta property="og:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>
 {% endblock %}
 
 {% block content %}
-  {% if review_entry.book.cover_image %}
+  {% if review.metadata.book.cover_image %}
     <div class="book-cover">
-      {% set book = review_entry.book %}
+      {% set book = review.metadata.book %}
       {% include "_book_cover.html" %}
     </div>
   {% endif %}
 
-  <h1>{{ review_entry.book.title | smartypants | safe }}</h1>
+  <h1>{{ review.metadata.book.title | smartypants | safe }}</h1>
 
   <table class="book_metadata">
     <tr>
-      <td>author{% if "and" in review_entry.book.author or ", " in review_entry.book.author or " & " in review_entry.book.author %}s{% endif %}:</td>
-      <th><a href="/reviews/by-author/#{{ review_entry.book.author }}">{{ review_entry.book.author }}</a>
-        {%- if review_entry.book.publication_year %}
-          ({{ review_entry.book.publication_year}})
+      <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
+      <th><a href="/reviews/by-author/#{{ review.metadata.book.author }}">{{ review.metadata.book.author }}</a>
+        {%- if review.metadata.book.publication_year %}
+          ({{ review.metadata.book.publication_year}})
         {%- endif -%}
       </th>
     </tr>
-    {% if review_entry.book.series %}
+    {% if review.metadata.book.series %}
     <tr>
       <td>series:</td>
-      <th>{{ review_entry.book.series }} {% if review_entry.book.series_position %}#{{ review_entry.book.series_position }}{% endif %}</th>
+      <th>{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</th>
     </tr>
     {% endif %}
-    {% if review_entry.review.date_added %}
+    {% if review.metadata.review.date_added %}
     <tr>
       <td>date added:</td>
-      <th>{{ review_entry.review.date_added | render_date }}</th>
+      <th>{{ review.metadata.review.date_added | render_date }}</th>
     </tr>
     {% endif %}
-    {% if review_entry.review.date_started %}
+    {% if review.metadata.review.date_started %}
     <tr>
       <td>date started:</td>
-      <th>{{ review_entry.review.date_started | render_date }}</th>
+      <th>{{ review.metadata.review.date_started | render_date }}</th>
     </tr>
     {% endif %}
-    {% if review_entry.review.date_read %}
+    {% if review.metadata.review.date_read %}
     <tr>
       <td>date read:</td>
-      <th>{{ review_entry.review.date_read | render_date }}</th>
+      <th>{{ review.metadata.review.date_read | render_date }}</th>
     </tr>
     {% endif %}
-    {% if review_entry.book.pages %}
+    {% if review.metadata.book.pages %}
     <tr>
       <td>pages:</td>
-      <th>{{ review_entry.book.pages }}</th>
+      <th>{{ review.metadata.book.pages }}</th>
     </tr>
     {% endif %}
-    {% if review_entry.review.rating %}
+    {% if review.metadata.review.rating %}
     <tr>
       <td>rating:</td>
       <th>
-        {% for _ in range(review_entry.review.rating) %}
+        {% for _ in range(review.metadata.review.rating) %}
         ★
         {% endfor %}
-        {% for _ in range(5 - review_entry.review.rating) %}
+        {% for _ in range(5 - review.metadata.review.rating) %}
         ☆
         {% endfor %}
-        {% if review_entry.review.did_not_finish %}
+        {% if review.metadata.review.did_not_finish %}
         (did not finish)
         {% endif %}
       </th>
@@ -80,19 +80,19 @@
   </table>
 
   <article>
-  {{ review_entry.review.text | render_markdown | safe }}
+  {{ review.text | render_markdown | safe }}
   </article>
 
   <hr>
 
-  {% if review_entry.book.goodreads %}
-    (<a href="https://www.goodreads.com/book/show/{{ review_entry.book.goodreads }}">goodreads</a>) ·
-  {% elif review_entry.book.isbn10 or review_entry.book.isbn13 %}
-    (<a href="https://www.goodreads.com/search?q={{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&search_type=books">goodreads</a>) ·
+  {% if review.metadata.book.goodreads %}
+    (<a href="https://www.goodreads.com/book/show/{{ review.metadata.book.goodreads }}">goodreads</a>) ·
+  {% elif review.isbn %}
+    (<a href="https://www.goodreads.com/search?q={{ review.isbn }}&search_type=books">goodreads</a>) ·
   {% endif %}
-  {% if review_entry.book.isbn10 or review_entry.book.isbn13 %}
-    (<a href="https://www.librarything.com/isbn/{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}">librarything</a>) ·
-    (<a href="https://www.amazon.com/s?k=isbn+{{ review_entry.book.isbn10 or review_entry.book.isbn13 }}&ref=nb_sb_noss">amazon</a>) ·
+  {% if review.isbn %}
+    (<a href="https://www.librarything.com/isbn/{{ review.isbn }}">librarything</a>) ·
+    (<a href="https://www.amazon.com/s?k=isbn+{{ review.isbn }}&ref=nb_sb_noss">amazon</a>) ·
   {% endif %}
 
   see <a href="/reviews">all reviews</a>

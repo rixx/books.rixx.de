@@ -64,6 +64,8 @@ class Review:
             self.text = text
         else:
             raise Exception("A review needs metadata or a path!")
+        if not self.metadata["book"].get("slug"):
+            self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
 
     @property
     def isbn(self):
@@ -79,7 +81,7 @@ class Review:
             raise Exception(f"Wrong path for review: {entry_type}")
         return entry_type
 
-    def get_path(self):
+    def get_core_path(self):
         if self.entry_type == "reviews":
             year = self.metadata["review"]["date_read"].year
             out_dir = f"reviews/{year}"
@@ -87,14 +89,18 @@ class Review:
             out_dir = "to-read"
         else:
             out_dir = "currently-reading"
-        out_path = Path("src") / out_dir / f"{self.metadata['book']['slug']}.md"
+        return Path(out_dir) / self.metadata["book"]["slug"]
+
+    def get_path(self):
+        core_path = self.get_core_path()
+        out_path = Path("src") / str(core_path) + ".md"
         out_path.parent.mkdir(parents=True, exist_ok=True)
         return out_path
 
     def save(self):
         self.clean()
         current_path = self.get_path()
-        if current_path != self.path:
+        if self.path and current_path != self.path and Path(self.path).exists():
             Path(self.path).unlink()
         with open(current_path, "wb") as out_file:
             frontmatter.dump(
@@ -105,8 +111,8 @@ class Review:
         return current_path
 
     def clean(self):
-        if not self.metadata["book"]["slug"]:
-            self.metadata["book"]["slug"] = slugify([])
+        if not self.metadata["book"].get("slug"):
+            self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
         required = ("title", "author", "slug")
         optional = (
             "publication_year",
@@ -312,7 +318,7 @@ def create_book(auth):
             metadata["review"]["did_not_finish"] = True
 
     review = Review(metadata=metadata, text="", entry_type=entry_type)
-    review.save_cover()
+    review.download_cover()
     review.save()
 
     subprocess.check_call([os.environ.get("EDITOR", "vim"), review.current_path])
@@ -325,3 +331,7 @@ def create_book(auth):
     #         goodreads.push_to_goodreads(
     #             data=metadata, path=out_path, auth=auth, entry_type=entry_type
     #         )
+
+
+def change_book(auth):
+    pass

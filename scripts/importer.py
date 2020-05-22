@@ -102,5 +102,5 @@ def import_books():
             "currently-reading": "currently-reading",
         }[book["name"]]
         review = Review(metadata=metadata, text=text, entry_type=entry_type)
-        review.save_cover()
+        review.download_cover()
         review.save()

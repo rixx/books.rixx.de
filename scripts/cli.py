@@ -4,7 +4,7 @@ import pathlib
 import click
 import inquirer
 
-from .books import add_book, change_book
+from .books import create_book, change_book
 from .goodreads import get_shelves
 from .renderer import build_site
 
@@ -78,7 +78,7 @@ def books(auth):
             build()
             break
         if action == "Add a new book":
-            add_book(auth=auth)
+            create_book(auth=auth)
         elif action == "Change book status":
             change_book(auth=auth)
 
