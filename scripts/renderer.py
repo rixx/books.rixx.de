@@ -144,7 +144,9 @@ def render_date(date_value):
 def render_individual_review(env, *, review_entry):
     template = env.get_template("review.html")
     html = template.render(
-        review_entry=review_entry, title=f"My review of {review_entry.book.title}", active="read",
+        review_entry=review_entry,
+        title=f"My review of {review_entry.book.title}",
+        active="read",
     )
 
     out_name = review_entry.out_path() / "index.html"
@@ -234,7 +236,10 @@ def build_site():
     # Render the "all reviews" page
 
     this_year = str(datetime.datetime.now().year)
-    all_years = sorted(list(set(str(review.review.date_read)[:4] for review in all_reviews)), reverse=True)
+    all_years = sorted(
+        list(set(str(review.review.date_read)[:4] for review in all_reviews)),
+        reverse=True,
+    )
     template = env.get_template("list_reviews.html")
     for (year, reviews) in itertools.groupby(
         all_reviews, key=lambda rev: str(rev.review.date_read)[:4]
@@ -248,7 +253,9 @@ def build_site():
             active="read",
         )
 
-        out_path = pathlib.Path("_html") / "reviews" / (str(year) or "other") / "index.html"
+        out_path = (
+            pathlib.Path("_html") / "reviews" / (str(year) or "other") / "index.html"
+        )
         out_path.parent.mkdir(exist_ok=True, parents=True)
         out_path.write_text(html)
         if year == this_year:
@@ -264,7 +271,9 @@ def build_site():
     )
 
     template = env.get_template("list_reading.html")
-    html = template.render(all_reading=all_reading, title="Books I’m currently reading", active="reading")
+    html = template.render(
+        all_reading=all_reading, title="Books I’m currently reading", active="reading"
+    )
 
     out_path = pathlib.Path("_html") / "reading/index.html"
     out_path.parent.mkdir(exist_ok=True, parents=True)
@@ -279,7 +288,9 @@ def build_site():
     all_plans = sorted(all_plans, key=lambda plan: plan.plan.date_added, reverse=True)
 
     template = env.get_template("list_to_read.html")
-    html = template.render(all_plans=all_plans, title="Books i want to read", active="to-read")
+    html = template.render(
+        all_plans=all_plans, title="Books i want to read", active="to-read"
+    )
 
     out_path = pathlib.Path("_html") / "to-read/index.html"
     out_path.parent.mkdir(exist_ok=True, parents=True)
