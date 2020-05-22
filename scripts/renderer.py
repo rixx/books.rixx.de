@@ -79,6 +79,7 @@ def create_thumbnails():
         src_path = pathlib.Path("src/covers") / image_name
         dst_path = pathlib.Path("_html/thumbnails") / image_name
 
+        print(src_path)
         if not dst_path.exists() or src_path.stat().st_mtime > dst_path.stat().st_mtime:
             _create_new_thumbnail(src_path, dst_path)
 

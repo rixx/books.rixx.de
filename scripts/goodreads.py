@@ -2,8 +2,6 @@ import xml.etree.ElementTree as ET
 
 import requests
 
-from . import utils
-
 GOODREADS_URL = "https://www.goodreads.com/"
 
 
@@ -24,7 +22,6 @@ def get_shelves(auth) -> dict:
     return {shelf.find("name").text: shelf.find("id").text for shelf in shelves}
 
 
-@utils.book_data
 def get_book_from_goodreads(auth):
     # TODO search
     # TODO offer options

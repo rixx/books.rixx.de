@@ -1,12 +1,9 @@
 import datetime as dt
 import sqlite3
 
-import frontmatter
-import requests
 from tqdm import tqdm
 
-from .books import get_out_path, save_cover
-from .utils import slugify
+from .books import Review
 
 
 def dict_factory(cursor, row):
@@ -61,10 +58,6 @@ def import_books():
             "publication_year": book["publication_date"][:4]
             if book["publication_date"]
             else None,
-            "slug": slugify(book["book_title"]),
-        }
-        plan = {
-            "date_added": book["date_added"][:10] if book["date_added"] else None,
         }
         for key in (
             "isbn10",
@@ -77,33 +70,11 @@ def import_books():
                 book_data[key] = value
 
         book_data["cover_image_url"] = book["image_url"]
-        isbn = book_data.get("isbn10") or book_data.get("isbn13")
-        if isbn:
-            url = f"http://covers.openlibrary.org/b/isbn/{isbn}-L.jpg"
-            try:
-                book_data["cover_image"] = save_cover(
-                    slug=book_data["slug"], cover_image_url=url,
-                )
-                book_data["cover_image_url"] = url
-            except:
-                pass
-            if not book_data.get("cover_image"):
-                url = f"https://www.googleapis.com/books/v1/volumes?q=isbn:{isbn}"
-                response = requests.get(url)
-                try:
-                    url = response.json()["items"][0]["volumeInfo"]["imageLinks"][
-                        "thumbnail"
-                    ]
-                    book_data["cover_image"] = save_cover(
-                        slug=book_data["slug"], cover_image_url=url,
-                    )
-                except:
-                    pass
-        if not book_data.get("cover_image"):
-            book_data["cover_image"] = save_cover(
-                slug=book_data["slug"], cover_image_url=book_data["cover_image_url"],
-            )
-        entry = {"book": book_data, "plan": plan}
+        plan = {
+            "date_added": book["date_added"][:10] if book["date_added"] else None,
+        }
+        metadata = {"book": book_data, "plan": plan}
+        text = ""
         if book["name"] == "read":
             read_at = (
                 dt.datetime.strptime(book["read_at"][:10], "%Y-%m-%d").date()
@@ -118,23 +89,18 @@ def import_books():
             read_at = read_at or started_at
             if not read_at:
                 raise Exception(book)
-            entry["review"] = {
+            metadata["review"] = {
                 "date_started": started_at,
                 "date_read": read_at,
                 "rating": book["rating"],
                 "did_not_finish": False,
             }
+            text = book["text"]
         entry_type = {
-            "read": "review",
-            "to-read": "to_read",
-            "currently-reading": "currently_reading",
+            "read": "reviews",
+            "to-read": "to-read",
+            "currently-reading": "currently-reading",
         }[book["name"]]
-        out_path = get_out_path(entry, entry_type)
-        with open(out_path, "wb") as out_file:
-            frontmatter.dump(
-                frontmatter.Post(
-                    content=book["text"] if book["name"] == "read" else "", **entry
-                ),
-                out_file,
-            )
-            out_file.write(b"\n")
+        review = Review(metadata=metadata, text=text, entry_type=entry_type)
+        review.save_cover()
+        review.save()
