@@ -17,4 +17,4 @@ review:
   rating: 4
 ---
 
-[A hanging](<a target="_blank" href="http://george-orwell.org/a_hanging/0.html" rel="nofollow">http://george-orwell.org/a_hanging/0....</a>) is a very short essay by *George Orwell*, describing in very matter-of-fact detail the morning of a prison hanging. It's as terrible and at the same time as common as it sounds.
+Oof. [A hanging](<a target="_blank" href="http://george-orwell.org/a_hanging/0.html" rel="nofollow">http://george-orwell.org/a_hanging/0....</a>) is a very short essay by *George Orwell*, describing in very matter-of-fact detail the morning of a prison hanging. It's as terrible and at the same time as common as it sounds.

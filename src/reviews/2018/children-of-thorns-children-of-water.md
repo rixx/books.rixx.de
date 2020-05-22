@@ -21,4 +21,4 @@ review:
   rating: 2
 ---
 
-[Children of Thorns, Children of Water](<a target="_blank" href="https://uncannymagazine.com/article/children-thorns-children-water/" rel="nofollow">https://uncannymagazine.com/article/c...</a>) sadly doesn't make much sense if you aren't familiar with *Aliette de Bodard*'s **Dominion of the Fallen** series, and comes off hurried and confused (but with potential in the worldbuilding!)
+I wasn't aware how tightly this story was coupled with the surrounding universe: [Children of Thorns, Children of Water](<a target="_blank" href="https://uncannymagazine.com/article/children-thorns-children-water/" rel="nofollow">https://uncannymagazine.com/article/c...</a>) sadly doesn't make much sense if you aren't familiar with *Aliette de Bodard*'s **Dominion of the Fallen** series, and comes off hurried and confused (but with potential in the worldbuilding!)

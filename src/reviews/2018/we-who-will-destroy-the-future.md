@@ -17,4 +17,4 @@ review:
   rating: 3
 ---
 
-**We Who Will Destroy the Future** is a nice little time travel short story, available at <a target="_blank" href="https://resonanceaudiodistro.org/we-who-will-destroy-the-future/" rel="nofollow">https://resonanceaudiodistro.org/we-w...</a>. Good story, good setting, very good narrator voice.
+We Who Will Destroy the Future is a nice little time travel short story, available at <a target="_blank" href="https://resonanceaudiodistro.org/we-who-will-destroy-the-future/" rel="nofollow">https://resonanceaudiodistro.org/we-w...</a>. Good story, good setting, very good narrator voice.

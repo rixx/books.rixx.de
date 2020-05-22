@@ -19,4 +19,4 @@ review:
   rating: 3
 ---
 
-**Tournament of Losers** by *Megan Derr* was surprisingly good for a fantasy romance novel, but it was still utterly predictable (and kind of fairytail sounding in the ritual situations that lead to its predictability, actually). A nice enough read, especially since semi-realistic fantasy with m/m relationships isn't common, but definitely more of a guilty pleasure than anything else.
+Tournament of Losers by *Megan Derr* was surprisingly good for a fantasy romance novel, but it was still utterly predictable (and kind of fairytail sounding in the ritual situations that lead to its predictability, actually). A nice enough read, especially since semi-realistic fantasy with m/m relationships isn't common, but definitely more of a guilty pleasure than anything else.

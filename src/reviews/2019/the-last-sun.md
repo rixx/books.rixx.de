@@ -18,4 +18,4 @@ review:
   rating: 3
 ---
 
-**The Last Sun** was somewhat generic urban Fantasy, set in a modern Atlantis – that is, if generic urban Fantasy was usually queer. I appreciated the queer cast, and the worldbuilding, and the hints at larger, deeper things. But since hints was all we got, I think I'll jot this down as a very pleasant reading experience, but not something I need to follow up on.
+The Last Sun was somewhat generic urban Fantasy, set in a modern Atlantis – that is, if generic urban Fantasy was usually queer. I appreciated the queer cast, and the worldbuilding, and the hints at larger, deeper things. But since hints was all we got, I think I'll jot this down as a very pleasant reading experience, but not something I need to follow up on.

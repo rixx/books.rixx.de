@@ -21,4 +21,4 @@ review:
   rating: 1
 ---
 
-**The Hierophant's Daughter** by *MF Sullivan* was an advance reading copy provided to me by NetGalley. It's … dystopian cannibal vampires? I have to confess that I aborted reading the book about a third of the way in. Its mix of unsympathetic characters, bleak dystopia, random info dumps, and random remeniscing about the past did not work for me at all. Dystopian cannibal vampire empire churches take a lot to be believable – Charlie Stross could do it, MF Sullivan couldn't.
+The Hierophant's Daughter by *MF Sullivan* was an advance reading copy provided to me by NetGalley. It's … dystopian cannibal vampires? I have to confess that I aborted reading the book about a third of the way in. Its mix of unsympathetic characters, bleak dystopia, random info dumps, and random remeniscing about the past did not work for me at all. Dystopian cannibal vampire empire churches take a lot to be believable – Charlie Stross could do it, MF Sullivan couldn't.

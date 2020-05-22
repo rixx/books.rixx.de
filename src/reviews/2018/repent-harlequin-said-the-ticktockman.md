@@ -15,7 +15,10 @@ review:
   date_read: 2018-07-13
   date_started: null
   did_not_finish: false
-  rating: 2
+  rating: 3
 ---
 
-[Repent, Harlequin!, Said the Ticktockman](<a target="_blank" href="https://compositionawebb.pbworks.com/f/%255C%27Repent,%2BHarlequin!%255C%27%2BSaid%2Bthe%2BTicktockman%2Bby%2BHarlan%2BEllison.pdf" rel="nofollow">https://compositionawebb.pbworks.com/...</a>) by *Harlan Ellison* is a metaphor against an over-reglemented world. It's pretty old, and I'm afraid to my eyes it hasn't aged too well. I totally agree with the message, and the scenario isn't bad either, and the language is poetic, but it didn't capture me at all. Maybe something got due to me not being a native speaker, though.
+This is a tricky one: [Repent, Harlequin!, Said the Ticktockman](<a target="_blank" href="https://compositionawebb.pbworks.com/f/%255C%27Repent,%2BHarlequin!%255C%27%2BSaid%2Bthe%2BTicktockman%2Bby%2BHarlan%2BEllison.pdf" rel="nofollow">https://compositionawebb.pbworks.com/...</a>) by *Harlan Ellison* is a metaphor against an over-reglemented world. It's pretty old, and I'm afraid to my eyes it hasn't aged too well. I totally agree with the message, and the scenario isn't bad either, and the language is poetic, but it didn't capture me at all.
+
+On the other hand, even months or years later I can remember the feeling, the vibe, the discomfort of the world
+described, so I think my initial review was a bit harsh.

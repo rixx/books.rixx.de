@@ -20,4 +20,4 @@ review:
   rating: 3
 ---
 
-**Dreamweaver's Dilemma** is a short story by *Lois McMaster Bujold*, set vaguely in the same universe as her Vorkosigan series. It's nice enough, and shows again her mastery at painting realistic scenarios in unfamiliar worlds, complete with a story arc, but also everyday details. At the same time, it didn't particularly grip me, the pacing was a bit off, so it was just a nice afternoon read.
+Dreamweaver's Dilemma is a short story by *Lois McMaster Bujold*, set vaguely in the same universe as her Vorkosigan series. It's nice enough, and shows again her mastery at painting realistic scenarios in unfamiliar worlds, complete with a story arc, but also everyday details. At the same time, it didn't particularly grip me, the pacing was a bit off, so it was just a nice afternoon read.

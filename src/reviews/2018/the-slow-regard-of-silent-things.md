@@ -21,4 +21,4 @@ review:
   rating: 2
 ---
 
-**The Slow Regard of Silent Things** is a novella in *Patrick Rothfuss*'s **Kingkiller Chronicle** and didn't work for me at all. It's very lyrical, with beautiful, lyrical prose for its own sake, but it didn't touch me.
+The Slow Regard of Silent Things is a novella in *Patrick Rothfuss*'s **Kingkiller Chronicle** and didn't work for me at all. It's very lyrical, with beautiful, lyrical prose for its own sake, but it didn't touch me.

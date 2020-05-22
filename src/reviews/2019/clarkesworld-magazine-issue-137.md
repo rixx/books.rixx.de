@@ -19,4 +19,4 @@ review:
   rating: 3
 ---
 
-[Umbernight](<a target="_blank" href="http://clarkesworldmagazine.com/gilman_02_18/" rel="nofollow">http://clarkesworldmagazine.com/gilma...</a>) is a strong science-fiction story, telling us about settlers on a harsh alien planet – the story and the setting were crafted very well, and felt real and relateable. The weak suit of the story was the writing which frequently felt like it lost its rhythm.
+Kinda generic scifi: [Umbernight](<a target="_blank" href="http://clarkesworldmagazine.com/gilman_02_18/" rel="nofollow">http://clarkesworldmagazine.com/gilma...</a>) is a strong science-fiction story, telling us about settlers on a harsh alien planet – the story and the setting were crafted very well, and felt real and relatable. The weak suit of the story was the writing which frequently felt like it lost its rhythm.

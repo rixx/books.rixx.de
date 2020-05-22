@@ -16,4 +16,4 @@ review:
   rating: 2
 ---
 
-[On the Day You Spend Forever with your Dog](<a target="_blank" href="https://www.apex-magazine.com/on-the-day-you-spend-forever-with-your-dog/" rel="nofollow">https://www.apex-magazine.com/on-the-...</a>) is a short story that tries to roll heart-breaking dog love and (emotional) time travel into one, but fell flat for me.
+Maybe it's because I never had a dog: [On the Day You Spend Forever with your Dog](<a target="_blank" href="https://www.apex-magazine.com/on-the-day-you-spend-forever-with-your-dog/" rel="nofollow">https://www.apex-magazine.com/on-the-...</a>) is a short story that tries to roll heart-breaking dog love and (emotional) time travel into one, but fell flat for me.

@@ -17,4 +17,4 @@ review:
   rating: 3
 ---
 
-[Sweatheart](<a target="_blank" href="https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/" rel="nofollow">https://www.tor.com/2018/08/14/read-a...</a>) is a well-written very short story by *Abbey Mei Otis* that is first sweet and then chilling in the path the story takes – nothing too special either, just a perfectly fine scifi short.
+A bit on the nose, but still nice: [Sweatheart](<a target="_blank" href="https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/" rel="nofollow">https://www.tor.com/2018/08/14/read-a...</a>) is a well-written very short story by *Abbey Mei Otis* that is first sweet and then chilling in the path the story takes – nothing too special either, just a perfectly fine scifi short.

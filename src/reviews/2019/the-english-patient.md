@@ -19,4 +19,4 @@ review:
   rating: 2
 ---
 
-**The English Patient** by *Michael Ondaatje* is a lyrical, slow, pain-ridden book about the trauma and separation and surreal life of people in and after WW2. It's not really my kind of book, but it wasn't an unpleasant read, either.
+The English Patient by *Michael Ondaatje* is a lyrical, slow, pain-ridden book about the trauma and separation and surreal life of people in and after WW2. It's not really my kind of book, but it wasn't an unpleasant read, either.

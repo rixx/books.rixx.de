@@ -19,4 +19,4 @@ review:
   rating: 3
 ---
 
-<b>Circe</b> by <i>Madeline Miller</i> is pretty good antiquity fanfiction – which means to say good things about "Circe" and about fanfiction. It manages to convey how everybody in Greek myths is cruel or stupid or both in some way – not the most uplifting book, but a good take on Circe, to be sure.
+Circe by <i>Madeline Miller</i> is pretty good antiquity fanfiction – which means to say good things about "Circe" and about fanfiction. It manages to convey how everybody in Greek myths is cruel or stupid or both in some way – not the most uplifting book, but a good take on Circe, to be sure.

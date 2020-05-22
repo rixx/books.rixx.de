@@ -17,4 +17,4 @@ review:
   rating: 3
 ---
 
-[Beware of the Dog](<a target="_blank" href="http://www.classicshorts.com/stories/botd.html" rel="nofollow">http://www.classicshorts.com/stories/...</a>) is a short story by *Roald Dahl* about a WW2 pilot who loses his leg – it was alright, but (at least for me), the timing for the reveal and ending felt way off.
+Short stories are tricky: when they rely on a twist and you see it coming, it's not all that much fun. [Beware of the Dog](<a target="_blank" href="http://www.classicshorts.com/stories/botd.html" rel="nofollow">http://www.classicshorts.com/stories/...</a>) is a short story by *Roald Dahl* about a WW2 pilot who loses his leg – it was alright, but (at least for me), the timing for the reveal and ending felt way off.

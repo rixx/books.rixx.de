@@ -17,4 +17,4 @@ review:
   rating: 3
 ---
 
-[Black Box](<a target="_blank" href="http://www.newyorker.com/magazine/2012/06/04/black-box-2" rel="nofollow">http://www.newyorker.com/magazine/201...</a>) by *Jennifer Egan* is a neat experiment – a story that was tweeted out, back in the old days, when Twitter was still at 140 characters. I found the distinctive style and the rhythm of the tweet boundaries interesting, and the primary storytelling device if not brilliant, then at least refreshing.
+Twitter literature! [Black Box](<a target="_blank" href="http://www.newyorker.com/magazine/2012/06/04/black-box-2" rel="nofollow">http://www.newyorker.com/magazine/201...</a>) by *Jennifer Egan* is a neat experiment – a story that was tweeted out, back in the old days, when Twitter was still at 140 characters. I found the distinctive style and the rhythm of the tweet boundaries interesting, and the primary storytelling device if not brilliant, then at least refreshing.

@@ -17,4 +17,4 @@ review:
   rating: 1
 ---
 
-[Nussia](<a target="_blank" href="https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html" rel="nofollow">https://www.thebooksmugglers.com/2018...</a>) is a short story that describes the first alien exchange student, who comes to a black family in the Bronx. The writing felt very uneven, and the plot a bit directionless, so even though the idea is nice, the story didn't capture me at all.
+Maybe I'm just not one for exchange student stories. [Nussia](<a target="_blank" href="https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html" rel="nofollow">https://www.thebooksmugglers.com/2018...</a>) is a short story that describes the first alien exchange student, who comes to a black family in the Bronx. The writing felt very uneven, and the plot a bit directionless, so even though the idea is nice, the story didn't capture me at all.

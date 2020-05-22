@@ -19,4 +19,4 @@ review:
   rating: 5
 ---
 
-[Time Considered as a Helix of Semi-Precious Stones](<a target="_blank" href="http://classes.dma.ucla.edu/Fall10/157A/wp-content/uploads/timeDelany_01.pdf" rel="nofollow">http://classes.dma.ucla.edu/Fall10/15...</a>) by *Samuel R. Delany* is a short story that's won both the Hugo and the Nebula Awards back in the day, and rightfully so. The story is a good example of why I seem to like every Delany book I come across: brilliant, lyrical and association heavy style. In Space. Very human and tongue-in-cheek.
+I think, despite all its brilliance and cleverness, the best thing about [Time Considered as a Helix of Semi-Precious Stones](<a target="_blank" href="http://classes.dma.ucla.edu/Fall10/157A/wp-content/uploads/timeDelany_01.pdf" rel="nofollow">http://classes.dma.ucla.edu/Fall10/15...</a>) by *Samuel R. Delany* is the playfulness. It's a short story that's won both the Hugo and the Nebula Awards back in the day, and rightfully so. The story is a good example of why I seem to like every Delany book I come across: brilliant, lyrical and association heavy style. In Space. Very human and tongue-in-cheek.

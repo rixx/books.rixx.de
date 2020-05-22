@@ -16,4 +16,4 @@ review:
   rating: 4
 ---
 
-"I Sexually Identify as an Attack Helicopter" is just very, very good. You are cringing from the title? Good, works as intended. This piece is really good scifi – and not transphobic in the least, spiting quite literally the title. Read it here: <a target="_blank" href="http://clarkesworldmagazine.com/fall_01_20/" rel="nofollow">http://clarkesworldmagazine.com/fall_...</a>
+I Sexually Identify as an Attack Helicopter is just very, very good. You are cringing from the title? Good, works as intended. This piece is really good scifi – and not transphobic in the least, spiting quite literally the title. Read it here: <a target="_blank" href="http://clarkesworldmagazine.com/fall_01_20/" rel="nofollow">http://clarkesworldmagazine.com/fall_...</a>

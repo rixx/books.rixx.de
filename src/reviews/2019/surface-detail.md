@@ -21,4 +21,4 @@ review:
   rating: 4
 ---
 
-**Surface Detail** is a true Culture novel. Complicated action, backstabbing actors, different civilisations, matters of life, death, and life beyond death, and witty Minds. Well. The beginning was a slow burn (but Culture novels tend to have weird pacing), but this was still very enjoyable.
+Surface Detail is a true Culture novel. Complicated action, backstabbing actors, different civilisations, matters of life, death, and life beyond death, and witty Minds. Well. The beginning was a slow burn (but Culture novels tend to have weird pacing), but this was still very enjoyable.

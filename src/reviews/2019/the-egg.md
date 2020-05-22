@@ -17,4 +17,4 @@ review:
   rating: 5
 ---
 
-[The Egg](<a target="_blank" href="http://www.galactanet.com/oneoff/theegg_mod.html" rel="nofollow">http://www.galactanet.com/oneoff/thee...</a>) is a wonderful little, tiny, short story by Andy Weir. I first read it some years back, but it always stayed with me, just in the back of my head. Now I came across it again, and I thought I should share the goodness with you.
+Super-short, not exactly original, but well-done and strangely foundational: [The Egg](<a target="_blank" href="http://www.galactanet.com/oneoff/theegg_mod.html" rel="nofollow">http://www.galactanet.com/oneoff/thee...</a>) is a wonderful little, tiny, short story by Andy Weir. I first read it some years back, but it always stayed with me, just in the back of my head. Now I came across it again, and I thought I should share the goodness with you.

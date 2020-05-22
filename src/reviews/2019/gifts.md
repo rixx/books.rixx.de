@@ -21,4 +21,4 @@ review:
   rating: 3
 ---
 
-**Gifts** by *Ursula Le Guin* is one of the books that I will be able to remember clearly for its atmosphere for a long time, but I didn't actually particularly like it. It's good Fantasy, with a ton of character building and world building. The atmosphere is oppressive at times. Wish I could say more, but the slow pace of the book would turn most things into spoilers. I think I'll switch to Le Guin's nonfiction at this point.
+Gifts by *Ursula Le Guin* is one of the books that I will be able to remember clearly for its atmosphere for a long time, but I didn't actually particularly like it. It's good Fantasy, with a ton of character building and world building. The atmosphere is oppressive at times. Wish I could say more, but the slow pace of the book would turn most things into spoilers. I think I'll switch to Le Guin's nonfiction at this point.

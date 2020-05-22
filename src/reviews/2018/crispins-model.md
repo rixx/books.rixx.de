@@ -19,4 +19,4 @@ review:
   rating: 3
 ---
 
-[Crispin's Model](<a target="_blank" href="https://www.tor.com/2017/10/04/crispins-model/" rel="nofollow">https://www.tor.com/2017/10/04/crispi...</a>) is modern Lovecraftian horror – well done, but I'm not into Lovecraftian horror all that much, and not into painting either, so it didn't grip me.
+Hm. [Crispin's Model](<a target="_blank" href="https://www.tor.com/2017/10/04/crispins-model/" rel="nofollow">https://www.tor.com/2017/10/04/crispi...</a>) is modern Lovecraftian horror – well done, but I'm not into Lovecraftian horror all that much, and not into painting either, so it didn't grip me.

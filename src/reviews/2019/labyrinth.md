@@ -21,4 +21,4 @@ review:
   rating: 4
 ---
 
-**Labyrinth** is a scifi take on the legend of the Minotaur by *Lois McMaster Bujold* in her Vorkosigan saga. The novella really carries it off.
+Labyrinth is a scifi take on the legend of the Minotaur by *Lois McMaster Bujold* in her Vorkosigan saga. The novella really carries it off.

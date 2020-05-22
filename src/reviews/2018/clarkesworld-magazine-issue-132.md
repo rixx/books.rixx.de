@@ -19,4 +19,4 @@ review:
   rating: 4
 ---
 
-[The Secret Life of Bots](<a target="_blank" href="http://clarkesworldmagazine.com/palmer_09_17/" rel="nofollow">http://clarkesworldmagazine.com/palme...</a>) is an utterly charming novella by *Suzanne Palmer*. I can't really say much without spoiling parts of it, but the protagonist is lovely without being humanised, the personal dynamics are sweet and witty, and the time reading it was very well spent.
+This is for us robot lovers: [The Secret Life of Bots](<a target="_blank" href="http://clarkesworldmagazine.com/palmer_09_17/" rel="nofollow">http://clarkesworldmagazine.com/palme...</a>) is an utterly charming novella by *Suzanne Palmer*. I can't really say much without spoiling parts of it, but the protagonist is lovely without being humanised, the personal dynamics are sweet and witty, and the time reading it was very well spent.

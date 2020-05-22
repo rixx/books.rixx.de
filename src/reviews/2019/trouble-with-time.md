@@ -14,4 +14,4 @@ review:
   rating: 2
 ---
 
-**Trouble with Time** is a nice enough short story by *Arthur C. Clarke*. My impression is good idea, okay-ish execution, nothing special.
+Trouble with Time is a nice enough short story by *Arthur C. Clarke*. My impression is good idea, okay-ish execution, nothing special.

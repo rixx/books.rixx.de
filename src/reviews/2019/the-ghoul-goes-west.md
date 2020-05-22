@@ -17,4 +17,4 @@ review:
   rating: 1
 ---
 
-[The Ghoul Goes West](<a target="_blank" href="https://www.tor.com/2018/01/17/the-ghoul-goes-west-dale-bailey/" rel="nofollow">https://www.tor.com/2018/01/17/the-gh...</a>) may be nice if you're an Old Hollywood buff, but otherwise it falls flat.
+As the title suggests, [The Ghoul Goes West](<a target="_blank" href="https://www.tor.com/2018/01/17/the-ghoul-goes-west-dale-bailey/" rel="nofollow">https://www.tor.com/2018/01/17/the-gh...</a>) may be nice if you're an Old Hollywood buff, but otherwise it falls flat.

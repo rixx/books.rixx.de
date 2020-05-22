@@ -19,4 +19,4 @@ review:
   rating: 3
 ---
 
-[How to Move Spheres and Influence People](<a target="_blank" href="https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/" rel="nofollow">https://www.tor.com/2019/03/27/how-to...</a>) by *Marko Kloos* is a superhero origin story, I guess. It's about a teenager who discovers that she can move any spherical object with her mind. Very slice-of-life, not really going anywhere.
+My low rating may just be that I'm sick of generic superhero origin stories. [How to Move Spheres and Influence People](<a target="_blank" href="https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/" rel="nofollow">https://www.tor.com/2019/03/27/how-to...</a>) by *Marko Kloos* is a superhero origin story, I guess. It's about a teenager who discovers that she can move any spherical object with her mind. Very slice-of-life, not really going anywhere.

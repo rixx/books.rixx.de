@@ -19,4 +19,4 @@ review:
   rating: 4
 ---
 
-**Weatherman** is a novella that is also part of **The Vor Game**. It was the weaker part of Vor Game, but it's still bloody good. I mean, it's Lois McMaster Bujold.
+Weatherman is a novella that is also part of **The Vor Game**. It was the weaker part of Vor Game, but it's still bloody good. I mean, it's Lois McMaster Bujold.

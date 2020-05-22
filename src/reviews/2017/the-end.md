@@ -21,4 +21,4 @@ review:
   rating: 5
 ---
 
-&lt;3
+Yes. &lt;3

@@ -21,4 +21,4 @@ review:
   rating: 3
 ---
 
-**Patternmaster** was very enjoyable, and presented great characters (ever *Octavia Butler*'s strength). There was decent worldbuilding, and I'd love to learn more about this world that is a distant decendant of ours – but sadly, the book ends way too early, at a point where I felt there hadn't been all that much plot yet.
+Patternmaster was very enjoyable, and presented great characters (ever *Octavia Butler*'s strength). There was decent worldbuilding, and I'd love to learn more about this world that is a distant decendant of ours – but sadly, the book ends way too early, at a point where I felt there hadn't been all that much plot yet.
