@@ -103,10 +103,11 @@ def books(auth):
         if action == "Build the site":
             build_site()
             break
+        auth_data = json.load(open(auth))
         if action == "Add a new book":
-            create_book(auth=auth)
+            create_book(auth=auth_data)
         elif action == "Change book status":
-            change_book(auth=auth)
+            change_book(auth=auth_data)
 
 
 @cli.command()

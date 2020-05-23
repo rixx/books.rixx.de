@@ -18,6 +18,7 @@ setup(
         "jinja2==2.11.*",
         "markdown==3.1.*",
         "pillow==7.0.*",
+        "python-dateutil",
         "python-frontmatter==0.5.*",
         "rauth",
         "requests",

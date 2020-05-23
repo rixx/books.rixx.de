@@ -366,15 +366,6 @@ def create_book(auth):
 
     subprocess.check_call([os.environ.get("EDITOR", "vim"), review.current_path])
 
-    # if metadata["book"].get("goodreads"):
-    #     if inquirer.list_input(
-    #         message="Do you want to push these changes to Goodreads?",
-    #         choices=[("yes", True), ("no", False)],
-    #     ):
-    #         goodreads.push_to_goodreads(
-    #             data=metadata, path=out_path, auth=auth, entry_type=entry_type
-    #         )
-
 
 def get_review_from_user():
     review = None
@@ -493,3 +484,5 @@ def change_book(auth):
         globals()[f"_change_{action}"](
             review=review, push_to_goodreads=push_to_goodreads, auth=auth
         )
+        if action == "remove":
+            return
