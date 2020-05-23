@@ -18,6 +18,7 @@
           read {{ review.metadata.review.date_read | render_date }}
             <br/>
           {% endif %}
+          <div class="rating">
           {% if review.metadata.review.rating %}
             {% for _ in range(review.metadata.review.rating) %}
             ★
@@ -29,6 +30,7 @@
           {% if review.metadata.review.did_not_finish %}
             (did not finish)
           {% endif %}
+          </div>
         </small>
       </p>
     </div>

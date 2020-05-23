@@ -229,6 +229,13 @@ footer {
 .book_metadata p {
   margin: 0;
 }
+.rating {
+  font-size: 23px;
+  color: #ffa700;
+}
+div.rating {
+  margin-top: 2px;
+}
 header {
   display: flex;
   flex-direction: column;
