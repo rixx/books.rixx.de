@@ -95,15 +95,14 @@ class Review:
         self, entry_type, save=True, push_to_goodreads=False, auth=None
     ):
         old_path = self.path or ""
-        if entry_type == self.entry_type:
-            return
-        if entry_type not in ("reviews", "to-read", "currently-reading"):
-            raise Exception(f"Invalid entry_type {entry_type}")
-        if entry_type == "reviews" and not self.metadata.get("review", {}).get(
-            "date_read"
-        ):
-            raise Exception("Cannot become a review, no date_read provided!")
-        self.entry_type = entry_type
+        if entry_type != self.entry_type:
+            if entry_type not in ("reviews", "to-read", "currently-reading"):
+                raise Exception(f"Invalid entry_type {entry_type}")
+            if entry_type == "reviews" and not self.metadata.get("review", {}).get(
+                "date_read"
+            ):
+                raise Exception("Cannot become a review, no date_read provided!")
+            self.entry_type = entry_type
         if save:
             self.save()
         if push_to_goodreads:
@@ -287,13 +286,6 @@ def load_to_read():
     return _load_entries(dirpath="src/to-read")
 
 
-def load_review_by_slug(slug):
-    files = list(glob.glob(f"src/**/{slug}.md")) + list(
-        glob.glob(f"src/reviews/**/{slug}.md")
-    )
-    return Review(path=files[0])
-
-
 def get_book_from_input():
     questions = [
         inquirer.Text("title", message="What’s the title of the book?"),
@@ -424,9 +416,10 @@ def get_review_from_user(auth=None):
     while not review:
         original_search = inquirer.text(message="What's the book called?")
         search = original_search.strip().lower().replace(" ", "-")
-        try:
-            review = load_review_by_slug(f"*{search}*")
-        except Exception:
+        files = list(glob.glob(f"src/**/*{search}*.md")) + list(
+            glob.glob(f"src/reviews/**/*{search}*.md")
+        )
+        if len(files) == 0:
             click.echo(click.style("No book like that was found.", fg="red"))
             progress = inquirer.list_input(
                 "Do you want to add it as new book instead, or continue searching?",
@@ -434,22 +427,30 @@ def get_review_from_user(auth=None):
             )
             if progress == "new":
                 return create_book(auth=auth, search_term=original_search)
-    print()
-    click.echo(
-        click.style(
-            f"Book found: {review.metadata['book']['title']} by {review.metadata['book']['author']}.\nCurrent status: {review.entry_type}",
-            bold=True,
-            fg="green",
+            continue
+
+        reviews = [Review(path=path) for path in files]
+        options = [
+            (
+                f"{review.metadata['book']['title']} by {review.metadata['book']['author']} ({review.entry_type})",
+                review,
+            )
+            for review in reviews
+        ]
+        options += [
+            ("Try a different search", "again"),
+            ("Add a new book instead", "new"),
+        ]
+        choice = inquirer.list_input(
+            f"Found {len(reviews)} books. Which one's yours?",
+            choices=options,
+            carousel=True,
         )
-    )
-    print()
-    right_book = inquirer.list_input(
-        message="Is this the book you meant?",
-        choices=[("Yes", True), ("No", False)],
-        carousel=True,
-    )
-    if right_book:
-        return review
+        if choice == "new":
+            return create_book(auth=auth, search_term=original_search)
+        if choice == "again":
+            continue
+        return choice
     return get_review_from_user(auth=auth)
 
 
