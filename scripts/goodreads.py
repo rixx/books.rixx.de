@@ -1,9 +1,8 @@
 import xml.etree.ElementTree as ET
 
+import dateutil.parser
 import requests
 from rauth.service import OAuth1Session
-
-import dateutil.parser
 
 GOODREADS_URL = "https://www.goodreads.com/"
 
@@ -127,6 +126,16 @@ def remove_review(review, auth):
         f"    {GOODREADS_URL}book/show/{review.metadata['book']['goodreads']}-bot-protect"
     )
     print()
+
+
+def change_shelf(review, auth):
+    session = get_session(auth)
+    shelf_name = "read" if review.entry_type == "reviews" else review.entry_type
+    response = session.post(
+        f"{GOODREADS_URL}shelf/add_to_shelf.xml",
+        {"name": shelf_name, "book_id": review.metadata["book"]["goodreads"]},
+    )
+    response.raise_for_status()
 
 
 def push_to_goodreads(review, auth):

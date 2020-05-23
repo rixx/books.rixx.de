@@ -364,7 +364,7 @@ def create_book(auth):
     review.download_cover()
     review.save()
 
-    subprocess.check_call([os.environ.get("EDITOR", "vim"), review.current_path])
+    subprocess.check_call([os.environ.get("EDITOR", "vim"), review.path])
 
 
 def get_review_from_user():
@@ -399,15 +399,19 @@ def _change_rating(review, push_to_goodreads, auth):
 
 
 def _change_to_currently_reading(review, push_to_goodreads, auth):
-    review.change_entry_type(to="currently-reading", save=True)
+    old_path = review.path
+    review.change_entry_type("currently-reading", save=True)
     if push_to_goodreads:
-        goodreads.push_to_goodreads(review=review, auth=auth)
+        goodreads.change_shelf(review=review, auth=auth)
+    subprocess.check_call(["git", "add", review.path, old_path])
 
 
 def _change_to_tbr(review, push_to_goodreads, auth):
-    review.change_entry_type(to="to-read", save=True)
+    old_path = review.path
+    review.change_entry_type("to-read", save=True)
     if push_to_goodreads:
-        goodreads.push_to_goodreads(review=review, auth=auth)
+        goodreads.change_shelf(review=review, auth=auth)
+    subprocess.check_call(["git", "add", review.path, old_path])
 
 
 def _change_remove(review, push_to_goodreads, auth):
@@ -474,7 +478,7 @@ def change_book(auth):
         if action == "book":
             return change_book(auth=auth)
         push_to_goodreads = False
-        if review.metadata["book"].get("goodreads"):
+        if review.metadata["book"].get("goodreads") and action != "cover":
             push_to_goodreads = inquirer.list_input(
                 message="Do you want to push this change to Goodreads?",
                 choices=[("Yes", True), ("No", False)],
