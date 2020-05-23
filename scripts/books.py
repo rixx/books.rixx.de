@@ -27,27 +27,33 @@ def slugify(text):
     return ascii_text
 
 
-def get_date(prompt):
-    date_read = inquirer.list_input(
-        message=prompt, choices=["today", "yesterday", "another day"], carousel=True,
+def get_date(prompt, default):
+    choices = ["today", "yesterday", "another day"]
+    if default:
+        choices.append(default)
+    date = inquirer.list_input(
+        message=prompt, choices=choices, carousel=True, default=default
     )
     today = dt.datetime.now()
 
-    if date_read == "today":
+    if date == "today":
         return today.date()
-    if date_read == "yesterday":
+    if date == "yesterday":
         yesterday = today - dt.timedelta(days=1)
         return yesterday.date()
-    date_read = None
-    while True:
-        date_read = inquirer.text(message="When did you finish reading it?")
+    if date == default:
+        return default
 
-        if re.match(r"^\d{4}-\d{2}-\d{2}$", date_read.strip()):
-            return dt.datetime.strptime(date_read, "%Y-%m-%d").date()
-        elif re.match(r"^\d{1,2} [A-Z][a-z]+ \d{4}$", date_read.strip()):
-            return dt.datetime.strptime(date_read, "%d %B %Y").date()
+    date = None
+    while True:
+        date = inquirer.text(message="Which other day?")
+
+        if re.match(r"^\d{4}-\d{2}-\d{2}$", date.strip()):
+            return dt.datetime.strptime(date, "%Y-%m-%d").date()
+        elif re.match(r"^\d{1,2} [A-Z][a-z]+ \d{4}$", date.strip()):
+            return dt.datetime.strptime(date, "%d %B %Y").date()
         else:
-            print(f"Unrecognised date: {date_read}")
+            print(f"Unrecognised date: {date}")
 
 
 class Review:
@@ -55,11 +61,7 @@ class Review:
         self.entry_type = entry_type
         self.path = Path(path) if path else None
         if path:
-            post = frontmatter.load(path)
-            self.metadata = post.metadata
-            self.text = post.content
-            if not self.entry_type:
-                self.entry_type = self.entry_type_from_path()
+            self._load_data_from_file()
         elif metadata and entry_type:
             self.metadata = metadata
             self.text = text
@@ -67,6 +69,13 @@ class Review:
             raise Exception("A review needs metadata or a path!")
         if not self.metadata["book"].get("slug"):
             self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
+
+    def _load_data_from_file(self, path=None):
+        post = frontmatter.load(path or self.path)
+        self.metadata = post.metadata
+        self.text = post.content
+        if not self.entry_type:
+            self.entry_type = self.entry_type_from_path()
 
     @property
     def isbn(self):
@@ -128,6 +137,10 @@ class Review:
             out_file.write(b"\n")
         self.path = current_path
         return current_path
+
+    def edit(self):
+        subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
+        self._load_data_from_file()
 
     def clean(self):
         if not self.metadata["book"].get("slug"):
@@ -311,13 +324,19 @@ def get_book_from_input():
     return answers
 
 
-def get_review_info(date_started=None):
-    if not date_started:
-        date_started = get_date("When did you start reading this book?")
-    date_read = get_date("When did you finish reading it?")
+def get_review_info(review=None):
+    known_metadata = (review.metadata.get("review") or {}) if review else {}
+    date_started = get_date(
+        "When did you start reading this book?",
+        default=known_metadata.get("date_started"),
+    )
+    date_read = get_date(
+        "When did you finish reading it?", default=known_metadata.get("date_read")
+    )
     rating = inquirer.list_input(
         message="What’s your rating?",
         choices=[("⭐⭐⭐⭐⭐", 5), ("⭐⭐⭐⭐", 4), ("⭐⭐⭐", 3), ("⭐⭐", 2), ("⭐", 1)],
+        default=known_metadata.get("rating"),
         carousel=True,
     )
     if rating > 3:
@@ -374,7 +393,7 @@ def create_book(auth):
         review.find_cover()
     review.save()
 
-    subprocess.check_call([os.environ.get("EDITOR", "vim"), review.path])
+    review.edit()
 
     push_to_goodreads = inquirer.list_input(
         message="Do you want to push this change to Goodreads?",
@@ -420,17 +439,18 @@ def get_review_from_user():
 
 
 def _change_rating(review, push_to_goodreads, auth):
-    # get rating
-    # get review
-    # set read date
+    review.metadata["review"] = get_review_info(review)
     review.change_entry_type(
         "reviews", save=True, push_to_goodreads=push_to_goodreads, auth=auth
     )
+    review.edit()
     if push_to_goodreads:
         goodreads.push_to_goodreads(review=review, auth=auth)
 
 
 def _change_to_currently_reading(review, push_to_goodreads, auth):
+    review_data = review.metadata.get("review") or {}
+    review_data["date_started"] = dt.datetime.now().date()
     review.change_entry_type(
         "currently-reading", save=True, push_to_goodreads=push_to_goodreads, auth=auth
     )
@@ -448,12 +468,10 @@ def _change_remove(review, push_to_goodreads, auth):
         goodreads.remove_review(review=review, auth=auth)
 
 
-def _change_metadata(review, push_to_goodreads, auth):
-    pass
-
-
 def _change_manually(review, push_to_goodreads, auth):
-    pass
+    review.edit()
+    if push_to_goodreads:
+        goodreads.push_to_goodreads(review=review, auth=auth)
 
 
 def _change_cover(review, push_to_goodreads, auth):
@@ -493,7 +511,6 @@ def change_book(auth):
                 ("Mark as currently reading", "to_currently_reading"),
                 ("Mark as to be read", "to_tbr"),
                 ("Remove from library", "remove"),
-                ("Edit metadata", "metadata"),
                 ("Edit manually", "manually"),
                 ("Change cover image", "cover"),
                 ("Choose different book", "book"),
@@ -517,4 +534,4 @@ def change_book(auth):
             review=review, push_to_goodreads=push_to_goodreads, auth=auth
         )
         if action == "remove":
-            return
+            return change_book(auth=auth)

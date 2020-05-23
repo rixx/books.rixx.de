@@ -197,5 +197,12 @@ def push_to_goodreads(review, auth):
         review_data["finished"] = True
 
     session = get_session(auth)
-    response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
+
+    if create_review:
+        response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
+    else:
+        review_data["id"] = goodreads_review["id"]
+        response = session.post(
+            f"{GOODREADS_URL}review/{goodreads_review['id']}.xml", data=review_data
+        )
     response.raise_for_status()
