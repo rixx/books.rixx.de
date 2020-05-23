@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2019-10-07'
 ---
+
+Andy liked it

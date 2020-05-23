@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2019-10-12'
 ---
+
+Recommended by Rob and Jo Walton. Author is part of James S. A. Corey
