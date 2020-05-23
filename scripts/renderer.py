@@ -243,7 +243,7 @@ def build_site():
             key=lambda rev: rev.metadata["book"]["series"],
         )
     ]
-    series_reviews = sorted(series_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
+    series_reviews = sorted([s for s in series_reviews if len(s[1]) > 1], key=lambda x: (not x[0][0].isalpha(), x[0].upper()))
     html = template.render(
         reviews=series_reviews,
         all_years=all_years,
