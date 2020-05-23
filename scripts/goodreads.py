@@ -42,9 +42,10 @@ def get_book_data(url, auth):
     return get_book_data_from_xml(book)
 
 
-def get_book_from_goodreads(auth):
-    search_term = click.prompt(
-        "Give me your best Goodreads search terms – or a URL, if you have one!"
+def get_book_from_goodreads(auth, search_term=None):
+    search_term = inquirer.text(
+        "Give me your best Goodreads search terms – or a URL, if you have one!",
+        default=None,
     )
     if "goodreads.com" in search_term:
         return get_book_data(url=search_term.strip() + ".xml", auth=auth)
@@ -56,25 +57,22 @@ def get_book_from_goodreads(auth):
 
     to_root = ET.fromstring(response.content.decode())
     results = to_root.find("search").find("results")
-    options = [
-        {
-            "id": work.find("best_book").find("id").text,
-            "title": work.find("best_book").find("title").text,
-            "author": work.find("best_book").find("author").find("name").text,
-        }
-        for work in results
-    ]
-    click.echo(f"Found {len(options)} possible books:")
-    for index, book in enumerate(options):
-        click.echo(f"{index + 1}. {book['title']} by {book['author']}")
-    print()
-    book = options[int(click.prompt("Which one is it?")) - 1]
-    return get_book_data(url=f"{GOODREADS_URL}book/show/{book['id']}.xml", auth=auth)
+    options = []
+    for index, work in enumerate(results):
+        title = work.find("best_book").find("title").text
+        author = work.find("best_book").find("author").find("name").text
+        options.append(
+            (
+                (f"{index + 1}. {title} by {author}"),
+                work.find("best_book").find("id").text,
+            )
+        )
 
-
-def add_review(review, auth):
-    # review.create
-    pass
+    click.echo(
+        click.style(f"Found {len(options)} possible books:", fg="green", bold=True)
+    )
+    book = inquirer.list_input(message="Which one did you mean?", choices=options)
+    return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml", auth=auth)
 
 
 def maybe_date(value):

@@ -359,7 +359,7 @@ def get_review_info(review=None):
     }
 
 
-def create_book(auth):
+def create_book(auth, search_term=None):
     choice = inquirer.list_input(
         "Do you want to get the book data from Goodreads, or input it manually?",
         choices=["goodreads", "manually"],
@@ -379,7 +379,7 @@ def create_book(auth):
     metadata = {
         "book": get_book_from_input()
         if choice == "manually"
-        else goodreads.get_book_from_goodreads(auth=auth)
+        else goodreads.get_book_from_goodreads(auth=auth, search_term=search_term)
     }
     if entry_type == "reviews":
         review_info = get_review_info()
@@ -414,19 +414,21 @@ def create_book(auth):
     )
 
 
-def get_review_from_user():
+def get_review_from_user(auth=None):
     review = None
     while not review:
-        search = (
-            inquirer.text(message="What's the book called?")
-            .strip()
-            .lower()
-            .replace(" ", "-")
-        )
+        original_search = inquirer.text(message="What's the book called?")
+        search = original_search.strip().lower().replace(" ", "-")
         try:
             review = load_review_by_slug(f"*{search}*")
         except Exception:
             click.echo(click.style("No book like that was found.", fg="red"))
+            progress = inquirer.list_input(
+                "Do you want to add it as new book instead, or continue searching?",
+                choices=[("New book", "new"), ("Continue", "continue")],
+            )
+            if progress == "new":
+                return create_book(auth=auth, search_term=original_search)
     print()
     click.echo(
         click.style(
@@ -443,7 +445,7 @@ def get_review_from_user():
     )
     if right_book:
         return review
-    return get_review_from_user()
+    return get_review_from_user(auth=auth)
 
 
 def _change_rating(review, push_to_goodreads, auth):
@@ -511,7 +513,7 @@ def _change_cover(review, push_to_goodreads, auth):
 
 
 def change_book(auth):
-    review = get_review_from_user()
+    review = get_review_from_user(auth=auth)
     while True:
         action = inquirer.list_input(
             message="What do you want to do with this book?",
