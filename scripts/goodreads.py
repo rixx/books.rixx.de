@@ -128,7 +128,7 @@ def get_review(review, auth):
         GOODREADS_URL + "review/show_by_user_and_book.xml", data=data
     )
     if response.status_code != 200:
-        print("No existing review found, will create a new one.")
+        click.echo("No existing review found, will create a new one.")
         return
     to_root = ET.fromstring(response.content.decode())
     review = to_root.find("review")
@@ -158,12 +158,18 @@ def remove_review(review, auth):
     # session.post(GOODREADS_URL + f"review/destroy/{review.metadata['book']['goodreads']}", data={})
     # Only produce 401 errors on a correctly authed session. So apparently this is broken, and has been
     # for at least some years, judging from the forum posts.
-    print(
-        "Sorry, removing books from shelves with goodreads is just … not possible right now."
+    click.echo(
+        click.style(
+            "Sorry, removing books from shelves with goodreads is just … not possible right now.",
+            fg="red",
+        )
     )
-    print("Please go here and remove the book from your shelves manually:")
-    print(
-        f"    {GOODREADS_URL}book/show/{review.metadata['book']['goodreads']}-bot-protect"
+    click.echo("Please go here and remove the book from your shelves manually:")
+    click.echo(
+        click.style(
+            f"    {GOODREADS_URL}book/show/{review.metadata['book']['goodreads']}-bot-protect",
+            bold=True,
+        )
     )
     print()
 

@@ -8,6 +8,7 @@ from contextlib import suppress
 from pathlib import Path
 from urllib.request import urlretrieve
 
+import click
 import frontmatter
 import inquirer
 import requests
@@ -53,7 +54,7 @@ def get_date(prompt, default):
         elif re.match(r"^\d{1,2} [A-Z][a-z]+ \d{4}$", date.strip()):
             return dt.datetime.strptime(date, "%d %B %Y").date()
         else:
-            print(f"Unrecognised date: {date}")
+            click.echo(click.style(f"Unrecognised date: {date}", fg="red"))
 
 
 class Review:
@@ -191,7 +192,9 @@ class Review:
             list(destination.glob(f"{self.metadata['book']['slug']}.{extension}"))
             for extension in ("jpg", "png", "gif")
         ):
-            print(f"Cover for {self.metadata['book']['slug']} already exists, passing.")
+            click.echo(
+                f"Cover for {self.metadata['book']['slug']} already exists, passing."
+            )
             return
 
         filename, headers = urlretrieve(cover_image_url)
@@ -423,11 +426,16 @@ def get_review_from_user():
         try:
             review = load_review_by_slug(f"*{search}*")
         except Exception:
-            print("No book like that was found.")
+            click.echo(click.style("No book like that was found.", fg="red"))
     print()
-    print(
-        f"Book found: {review.metadata['book']['title']} by {review.metadata['book']['author']}.\nCurrent status: {review.entry_type}"
+    click.echo(
+        click.style(
+            f"Book found: {review.metadata['book']['title']} by {review.metadata['book']['author']}.\nCurrent status: {review.entry_type}",
+            bold=True,
+            fg="green",
+        )
     )
+    print()
     right_book = inquirer.list_input(
         message="Is this the book you meant?",
         choices=[("Yes", True), ("No", False)],
@@ -493,12 +501,13 @@ def _change_cover(review, push_to_goodreads, auth):
     else:
         review.find_cover(source, force_new=True)
     if review.metadata["book"]["cover_image_url"] != old_cover_url:
-        print(
-            f"Successfully downloaded new cover image! You can look at it at src/covers/{review.metadata['book']['cover_image']}"
-        )
+        click.echo(click.style("Successfully downloaded new cover image!", fg="green"))
         review.save()
+        subprocess.check_call(
+            ["xdg-open", Path("src/covers") / review.metadata["book"]["cover_image"]]
+        )
     else:
-        print("Couldn't find a new cover, sorry!")
+        click.echo(click.style("Couldn't find a new cover, sorry!", fg="red"))
 
 
 def change_book(auth):

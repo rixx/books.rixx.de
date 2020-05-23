@@ -98,6 +98,7 @@ def isfloat(value):
     except Exception:
         return False
 
+
 def build_site():
     env = Environment(
         loader=FileSystemLoader("templates"),
@@ -174,7 +175,9 @@ def build_site():
             ),
         )
     ]
-    title_reviews = sorted(title_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
+    title_reviews = sorted(
+        title_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper())
+    )
     html = template.render(
         reviews=title_reviews,
         all_years=all_years,
@@ -206,7 +209,9 @@ def build_site():
             key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
         )
     ]
-    author_reviews = sorted(author_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
+    author_reviews = sorted(
+        author_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper())
+    )
     html = template.render(
         reviews=author_reviews,
         all_years=all_years,
@@ -243,7 +248,10 @@ def build_site():
             key=lambda rev: rev.metadata["book"]["series"],
         )
     ]
-    series_reviews = sorted([s for s in series_reviews if len(s[1]) > 1], key=lambda x: (not x[0][0].isalpha(), x[0].upper()))
+    series_reviews = sorted(
+        [s for s in series_reviews if len(s[1]) > 1],
+        key=lambda x: (not x[0][0].isalpha(), x[0].upper()),
+    )
     html = template.render(
         reviews=series_reviews,
         all_years=all_years,
