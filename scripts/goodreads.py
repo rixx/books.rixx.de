@@ -191,9 +191,13 @@ def push_to_goodreads(review, auth):
     if (not create_review) and shelf_name != goodreads_review["shelf"]:
         change_shelf(review, auth)
 
+    review_text = "\n\n".join(
+        paragraph.replace("\n", " ") for paragraph in review.text.split("\n\n")
+    )
+
     review_data = {
         "book_id": review.metadata["book"]["goodreads"],
-        "review[review]": review.text,
+        "review[review]": review_text,
         "review[rating]": review.metadata.get("review", {}).get("rating", 0),
         "shelf_name": shelf_name,
     }
