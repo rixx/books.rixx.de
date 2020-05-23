@@ -410,7 +410,7 @@ def create_book(auth, search_term=None):
         goodreads.push_to_goodreads(review, auth=auth)
 
     subprocess.check_call(
-        ["git", "add", review.path, review.metadata["book"].get("cover_image") or ""]
+        ["git", "add", review.path, Path("src/covers") / (review.metadata["book"].get("cover_image") or "")]
     )
 
 

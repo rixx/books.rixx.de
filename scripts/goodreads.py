@@ -3,6 +3,7 @@ from contextlib import suppress
 
 import click
 import dateutil.parser
+import inquirer
 import requests
 from rauth.service import OAuth1Session
 
