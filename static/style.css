@@ -58,6 +58,9 @@ article p:first-child::first-letter, .initial::first-letter, pre.code + p::first
   text-indent: 0;
   line-height: .8em;
 }
+.alphabet-section .initial::first-letter {
+  float: right
+}
 article p.noinitial:first-child::first-letter, p.noinitial::first-letter,
 article p.more:first-child::first-letter, p.more::first-letter {
   font-size: inherit !important;
