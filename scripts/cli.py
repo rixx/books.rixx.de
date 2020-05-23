@@ -1,7 +1,5 @@
 import json
 import pathlib
-import sys
-from functools import wraps
 
 import click
 from rauth.service import OAuth1Service
@@ -11,31 +9,7 @@ from .goodreads import get_shelves
 from .renderer import build_site
 
 
-def show_help_if_no_args(func):
-    """
-    This decorator shows meaningful message in case of no parameters passed
-    to CLI callback
-    TODO: to remove it when https://github.com/pallets/click/pull/804 will be
-    merged
-    :param func:
-    :return:
-    """
-
-    @wraps(func)
-    def inner(*args, **kwargs):
-        # filter all None values,
-        res = filter(lambda x: x is not None, kwargs.itervalues())
-        # check if all values are boolean with False
-        if len(res) == res.count(False):
-            click.echo("No parameters passed please use -h/--help for usage")
-            sys.exit(1)
-        return func(*args, **kwargs)
-
-    return inner
-
-
 @click.group()
-@show_help_if_no_args
 @click.version_option()
 def cli():
     "Interact with the data fueling books.rixx.de"

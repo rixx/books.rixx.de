@@ -53,14 +53,14 @@ def get_date(prompt):
 class Review:
     def __init__(self, entry_type=None, metadata=None, text=None, path=None):
         self.entry_type = entry_type
-        self.path = Path(path)
+        self.path = Path(path) if path else None
         if path:
             post = frontmatter.load(path)
             self.metadata = post.metadata
             self.text = post.content
             if not self.entry_type:
                 self.entry_type = self.entry_type_from_path()
-        elif metadata:
+        elif metadata and entry_type:
             self.metadata = metadata
             self.text = text
         else:
@@ -81,7 +81,10 @@ class Review:
             raise Exception(f"Wrong path for review: {entry_type}")
         return entry_type
 
-    def change_entry_type(self, entry_type, save=True):
+    def change_entry_type(
+        self, entry_type, save=True, push_to_goodreads=False, auth=None
+    ):
+        old_path = self.path or ""
         if entry_type == self.entry_type:
             return
         if entry_type not in ("reviews", "to-read", "currently-reading"):
@@ -93,6 +96,9 @@ class Review:
         self.entry_type = entry_type
         if save:
             self.save()
+        if push_to_goodreads:
+            goodreads.change_shelf(review=self, auth=auth)
+        subprocess.check_call(["git", "add", self.path, old_path])
 
     def get_core_path(self):
         if self.entry_type == "reviews":
@@ -238,7 +244,9 @@ class Review:
             return self.download_cover(url, force_new=force_new)
         return False
 
-    def find_cover(self, order="openlibrary,google,goodreads", force_new=False):
+    def find_cover(
+        self, order="openlibrary,google,goodreads,goodreads_scrape", force_new=False
+    ):
         order = order.split(",")
         for provider in order:
             result = getattr(self, f"find_{provider}_cover")(force_new=force_new)
@@ -354,17 +362,34 @@ def create_book(auth):
     if entry_type == "reviews":
         review_info = get_review_info()
         metadata["review"] = {
-            key: review_info[key]
-            for key in ("date_read", "rating", "date_started", "rating")
+            key: review_info[key] for key in ("date_read", "rating", "date_started")
         }
         if review_info["did_not_finish"]:
             metadata["review"]["did_not_finish"] = True
 
     review = Review(metadata=metadata, text="", entry_type=entry_type)
-    review.download_cover()
+    if review.metadata["book"]["cover_image_url"]:
+        review.download_cover()
+    else:
+        review.find_cover()
     review.save()
 
     subprocess.check_call([os.environ.get("EDITOR", "vim"), review.path])
+
+    push_to_goodreads = inquirer.list_input(
+        message="Do you want to push this change to Goodreads?",
+        choices=[("Yes", True), ("No", False)],
+        default=True,
+        carousel=True,
+    )
+
+    if push_to_goodreads:
+        review = Review(path=review.path)  # need to reload
+        goodreads.push_to_goodreads(review, auth=auth)
+
+    subprocess.check_call(
+        ["git", "add", review.path, review.metadata["book"].get("cover_image") or ""]
+    )
 
 
 def get_review_from_user():
@@ -395,23 +420,26 @@ def get_review_from_user():
 
 
 def _change_rating(review, push_to_goodreads, auth):
-    pass
+    # get rating
+    # get review
+    # set read date
+    review.change_entry_type(
+        "reviews", save=True, push_to_goodreads=push_to_goodreads, auth=auth
+    )
+    if push_to_goodreads:
+        goodreads.push_to_goodreads(review=review, auth=auth)
 
 
 def _change_to_currently_reading(review, push_to_goodreads, auth):
-    old_path = review.path
-    review.change_entry_type("currently-reading", save=True)
-    if push_to_goodreads:
-        goodreads.change_shelf(review=review, auth=auth)
-    subprocess.check_call(["git", "add", review.path, old_path])
+    review.change_entry_type(
+        "currently-reading", save=True, push_to_goodreads=push_to_goodreads, auth=auth
+    )
 
 
 def _change_to_tbr(review, push_to_goodreads, auth):
-    old_path = review.path
-    review.change_entry_type("to-read", save=True)
-    if push_to_goodreads:
-        goodreads.change_shelf(review=review, auth=auth)
-    subprocess.check_call(["git", "add", review.path, old_path])
+    review.change_entry_type(
+        "to-read", save=True, push_to_goodreads=push_to_goodreads, auth=auth
+    )
 
 
 def _change_remove(review, push_to_goodreads, auth):

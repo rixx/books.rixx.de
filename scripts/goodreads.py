@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as ET
+from contextlib import suppress
 
+import click
 import dateutil.parser
 import requests
 from rauth.service import OAuth1Session
@@ -33,11 +35,41 @@ def get_shelves(auth) -> dict:
     return {shelf.find("name").text: shelf.find("id").text for shelf in shelves}
 
 
+def get_book_data(url, auth):
+    response = requests.get(url, {"key": auth["goodreads_developer_key"]})
+    to_root = ET.fromstring(response.content.decode())
+    book = to_root.find("book")
+    return get_book_data_from_xml(book)
+
+
 def get_book_from_goodreads(auth):
-    # TODO search
-    # TODO offer options
-    # TODO ask state
-    pass
+    search_term = click.prompt(
+        "Give me your best Goodreads search terms – or a URL, if you have one!"
+    )
+    if "goodreads.com" in search_term:
+        return get_book_data(url=search_term.strip() + ".xml", auth=auth)
+
+    response = requests.get(
+        f"{GOODREADS_URL}search/index.xml",
+        {"key": auth["goodreads_developer_key"], "q": search_term},
+    )
+
+    to_root = ET.fromstring(response.content.decode())
+    results = to_root.find("search").find("results")
+    options = [
+        {
+            "id": work.find("best_book").find("id").text,
+            "title": work.find("best_book").find("title").text,
+            "author": work.find("best_book").find("author").find("name").text,
+        }
+        for work in results
+    ]
+    click.echo(f"Found {len(options)} possible books:")
+    for index, book in enumerate(options):
+        click.echo(f"{index + 1}. {book['title']} by {book['author']}")
+    print()
+    book = options[int(click.prompt("Which one is it?")) - 1]
+    return get_book_data(url=f"{GOODREADS_URL}book/show/{book['id']}.xml", auth=auth)
 
 
 def add_review(review, auth):
@@ -56,16 +88,21 @@ def get_book_data_from_xml(book):
         "id": "goodreads",
         "isbn": "isbn10",
         "isbn13": "isbn13",
-        "title_without_series": "title",
-        "large_image_url": "cover_image_url",
         "num_pages": "pages",
         "publication_year": "publication_year",
     }
     data = {mapped_key: book.find(key).text for key, mapped_key in keys.items()}
+    for key in ("small_image_url", "image_url", "large_image_url"):
+        with suppress(Exception):
+            data["cover_image_url"] = book.find(key).text
     data["author"] = ", ".join(
         author.find("name").text for author in book.find("authors")
     )
     title_series = book.find("title").text
+    try:
+        data["title"] = book.find("title_without_series").text
+    except Exception:
+        data["title"] = title_series
     if data["title"] != title_series:
         series_with_position = title_series[len(data["title"]) :].strip(" ()")
         if "#" in series_with_position:
@@ -90,6 +127,9 @@ def get_review(review, auth):
     response = requests.get(
         GOODREADS_URL + "review/show_by_user_and_book.xml", data=data
     )
+    if response.status_code != 200:
+        print("No existing review found, will create a new one.")
+        return
     to_root = ET.fromstring(response.content.decode())
     review = to_root.find("review")
     review_data = {
@@ -139,8 +179,23 @@ def change_shelf(review, auth):
 
 
 def push_to_goodreads(review, auth):
-    goodreads_review = get_review(review, auth)
+    goodreads_review = get_review(review, auth) or {}
+    create_review = "id" not in goodreads_review
     shelf_name = "read" if review.entry_type == "reviews" else review.entry_type
-    shelf_id = auth["shelves"][shelf_name]
-    # TODO read frontmatter if needed
-    # TODO push book to shelf
+    if (not create_review) and shelf_name != goodreads_review["shelf"]:
+        change_shelf(review, auth)
+
+    review_data = {
+        "book_id": review.metadata["book"]["goodreads"],
+        "review[review]": review.text,
+        "review[rating]": review.metadata.get("review", {}).get("rating", 0),
+        "shelf_name": shelf_name,
+    }
+    read_at = review.metadata.get("review", {}).get("read_at", "")
+    if read_at:
+        review_data["review[read_at]"] = read_at
+        review_data["finished"] = True
+
+    session = get_session(auth)
+    response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
+    response.raise_for_status()
