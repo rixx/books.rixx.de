@@ -1,8 +1,9 @@
 import json
 import pathlib
+import sys
+from functools import wraps
 
 import click
-import inquirer
 from rauth.service import OAuth1Service
 
 from .books import change_book, create_book
@@ -10,7 +11,31 @@ from .goodreads import get_shelves
 from .renderer import build_site
 
 
+def show_help_if_no_args(func):
+    """
+    This decorator shows meaningful message in case of no parameters passed
+    to CLI callback
+    TODO: to remove it when https://github.com/pallets/click/pull/804 will be
+    merged
+    :param func:
+    :return:
+    """
+
+    @wraps(func)
+    def inner(*args, **kwargs):
+        # filter all None values,
+        res = filter(lambda x: x is not None, kwargs.itervalues())
+        # check if all values are boolean with False
+        if len(res) == res.count(False):
+            click.echo("No parameters passed please use -h/--help for usage")
+            sys.exit(1)
+        return func(*args, **kwargs)
+
+    return inner
+
+
 @click.group()
+@show_help_if_no_args
 @click.version_option()
 def cli():
     "Interact with the data fueling books.rixx.de"
@@ -82,32 +107,9 @@ def auth(auth):
 
         open(auth, "w").write(json.dumps(auth_data, indent=4) + "\n")
 
-
-@cli.command()
-@click.option(
-    "-a",
-    "--auth",
-    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
-    default="auth.json",
-    help="Path to load goodreads credentials from, defaults to auth.json",
-)
-def books(auth):
-    while True:
-        action = inquirer.list_input(
-            message="What do you want to do?",
-            choices=["Add a new book", "Change book status", "Build the site", "quit"],
-            carousel=True,
-        )
-        if action == "quit":
-            break
-        if action == "Build the site":
-            build_site()
-            break
-        auth_data = json.load(open(auth))
-        if action == "Add a new book":
-            create_book(auth=auth_data)
-        elif action == "Change book status":
-            change_book(auth=auth_data)
+    click.echo(
+        "All done. You can now add books with `books add` or change them with `books edit`, and the changes will be pushed to Goodreads."
+    )
 
 
 @cli.command()
@@ -117,8 +119,36 @@ def build():
 
 
 @cli.command()
+@click.option(
+    "-a",
+    "--auth",
+    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
+    default="auth.json",
+    help="Path to load goodreads credentials from, defaults to auth.json",
+)
+def new(auth):
+    """ Add a new book """
+    auth_data = json.load(open(auth))
+    create_book(auth=auth_data)
+
+
+@cli.command()
+@click.option(
+    "-a",
+    "--auth",
+    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
+    default="auth.json",
+    help="Path to load goodreads credentials from, defaults to auth.json",
+)
+def edit(auth):
+    """ Edit a book """
+    auth_data = json.load(open(auth))
+    change_book(auth=auth_data)
+
+
+@cli.command()
 def load():
-    """ Import book data from a sqlite database, in the format provided by goodreads-to-sqlite. """
+    """ Import book data from a goodreads-to-sqlite database. """
     from .importer import import_books
 
     import_books()

@@ -8,7 +8,7 @@ setup(
     packages=["scripts"],
     entry_points="""
         [console_scripts]
-        helferlein=scripts.cli:cli
+        books=scripts.cli:cli
     """,
     install_requires=[
         "attrs==19.3.*",
