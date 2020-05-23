@@ -1,3 +1,4 @@
+import datetime as dt
 import xml.etree.ElementTree as ET
 from contextlib import suppress
 
@@ -196,8 +197,10 @@ def push_to_goodreads(review, auth):
         "review[rating]": review.metadata.get("review", {}).get("rating", 0),
         "shelf_name": shelf_name,
     }
-    read_at = review.metadata.get("review", {}).get("read_at", "")
+    read_at = review.metadata.get("review", {}).get("date_read", "")
     if read_at:
+        if isinstance(read_at, (dt.date, dt.datetime)):
+            read_at = read_at.strftime("%Y-%m-%d")
         review_data["review[read_at]"] = read_at
         review_data["finished"] = True
 
