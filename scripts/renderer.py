@@ -91,6 +91,13 @@ def create_thumbnails():
             _create_new_square(src_path, square_path)
 
 
+def isfloat(value):
+    try:
+        float(value)
+        return True
+    except Exception:
+        return False
+
 def build_site():
     env = Environment(
         loader=FileSystemLoader("templates"),
@@ -167,7 +174,7 @@ def build_site():
             ),
         )
     ]
-    title_reviews = sorted(title_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    title_reviews = sorted(title_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
     html = template.render(
         reviews=title_reviews,
         all_years=all_years,
@@ -194,12 +201,12 @@ def build_site():
                         key=lambda review: review.metadata["book"]["author"],
                     )
                 ],
-                key=lambda x: x[0],
+                key=lambda x: x[0].upper(),
             ),
             key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
         )
     ]
-    author_reviews = sorted(author_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    author_reviews = sorted(author_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
     html = template.render(
         reviews=author_reviews,
         all_years=all_years,
@@ -219,7 +226,7 @@ def build_site():
             sorted(
                 list(books),
                 key=lambda book: float(book.metadata["book"]["series_position"])
-                if book.metadata["book"]["series_position"].isnumeric()
+                if isfloat(book.metadata["book"]["series_position"])
                 else float(book.metadata["book"]["series_position"][0]),
             ),
         )
@@ -236,7 +243,7 @@ def build_site():
             key=lambda rev: rev.metadata["book"]["series"],
         )
     ]
-    series_reviews = sorted(series_reviews, key=lambda x: (not x[0].isalpha(), x[0]))
+    series_reviews = sorted(series_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper()))
     html = template.render(
         reviews=series_reviews,
         all_years=all_years,
