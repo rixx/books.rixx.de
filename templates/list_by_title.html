@@ -29,7 +29,7 @@
         {% else %}
           {{ review.metadata.book.title }}
         {% endif %}
-        by {{ review.metadata.book.author }}
+        by <a href="/reviews/by-author/#{{ review.metadata.book.author }}">{{ review.metadata.book.author }}</a>
       </li>
     {% endfor %}
     </ul>
