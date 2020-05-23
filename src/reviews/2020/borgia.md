@@ -10,8 +10,8 @@ book:
   slug: borgia
   title: Borgia
 review:
-  date_read: 2020-05-22
-  date_started: 2020-05-22
+  date_read: 2020-05-20
+  date_started: 2020-05-20
   rating: 2
 ---
 

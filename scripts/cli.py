@@ -114,6 +114,20 @@ def new(auth):
     default="auth.json",
     help="Path to load goodreads credentials from, defaults to auth.json",
 )
+def add(auth):
+    """ Add a new book """
+    auth_data = json.load(open(auth))
+    create_book(auth=auth_data)
+
+
+@cli.command()
+@click.option(
+    "-a",
+    "--auth",
+    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
+    default="auth.json",
+    help="Path to load goodreads credentials from, defaults to auth.json",
+)
 def edit(auth):
     """ Edit a book """
     auth_data = json.load(open(auth))
