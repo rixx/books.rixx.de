@@ -96,6 +96,7 @@ def books(auth):
         action = inquirer.list_input(
             message="What do you want to do?",
             choices=["Add a new book", "Change book status", "Build the site", "quit"],
+            carousel=True,
         )
         if action == "quit":
             break

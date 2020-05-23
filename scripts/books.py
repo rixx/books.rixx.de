@@ -29,7 +29,7 @@ def slugify(text):
 
 def get_date(prompt):
     date_read = inquirer.list_input(
-        message=prompt, choices=["today", "yesterday", "another day"],
+        message=prompt, choices=["today", "yesterday", "another day"], carousel=True,
     )
     today = dt.datetime.now()
 
@@ -285,6 +285,7 @@ def get_book_from_input():
             message="Is this book part of a series?",
             choices=[("Yes", True), ("No", False)],
             default=False,
+            carousel=True,
         ),
     ]
 
@@ -309,12 +310,15 @@ def get_review_info(date_started=None):
     rating = inquirer.list_input(
         message="What’s your rating?",
         choices=[("⭐⭐⭐⭐⭐", 5), ("⭐⭐⭐⭐", 4), ("⭐⭐⭐", 3), ("⭐⭐", 2), ("⭐", 1)],
+        carousel=True,
     )
     if rating > 3:
         did_not_finish = False
     else:
         did_not_finish = not inquirer.list_input(
-            message="Did you finish the book?", choices=[("yes", True), ("no", False)],
+            message="Did you finish the book?",
+            choices=[("yes", True), ("no", False)],
+            carousel=True,
         )
 
     return {
@@ -330,6 +334,7 @@ def create_book(auth):
         "Do you want to get the book data from Goodreads, or input it manually?",
         choices=["goodreads", "manually"],
         default="goodreads",
+        carousel=True,
     )
     entry_type = inquirer.list_input(
         message="What type of book is this?",
@@ -338,6 +343,7 @@ def create_book(auth):
             ("One I’m currently reading", "currently-reading"),
             ("One I want to read", "to-read"),
         ],
+        carousel=True,
     )
 
     metadata = {
@@ -388,7 +394,9 @@ def get_review_from_user():
         f"Book found: {review.metadata['book']['title']} by {review.metadata['book']['author']}.\nCurrent status: {review.entry_type}"
     )
     right_book = inquirer.list_input(
-        message="Is this the book you meant?", choices=[("Yes", True), ("No", False)]
+        message="Is this the book you meant?",
+        choices=[("Yes", True), ("No", False)],
+        carousel=True,
     )
     if right_book:
         return review
@@ -436,6 +444,7 @@ def _change_cover(review, push_to_goodreads, auth):
             ("OpenLibrary", "openlibrary"),
             ("Custom URL", "manually"),
         ],
+        carousel=True,
     )
     if source == "manually":
         url = inquirer.text(message="Cover image URL")
@@ -479,6 +488,7 @@ def change_book(auth):
                 message="Do you want to push this change to Goodreads?",
                 choices=[("Yes", True), ("No", False)],
                 default=True,
+                carousel=True,
             )
         globals()[f"_change_{action}"](
             review=review, push_to_goodreads=push_to_goodreads, auth=auth
