@@ -24,7 +24,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   padding: 1em;
-  width: 800px;
+  max-width: 800px;
   min-height: 83vh;
   overflow-wrap: break-word;
   background: white;
@@ -71,8 +71,10 @@ article p.more:first-child::first-letter, p.more::first-letter {
   text-indent: inherit !important;
 
 }
-.initial.alphabet::first-letter {
-  padding-right: 32px;
+#search input[type=text] {
+  padding: 6px;
+  border: solid #ccc 1px;
+  border-radius: 4px;
 }
 .alphabet-section {
   min-height: 8em;
@@ -248,11 +250,12 @@ header a {
   justify-content: space-around;
   font-size: 22px;
   font-variant: bold;
-  width: 40%;
+  width: 100%;
+  max-width: 450px;
   margin: auto;
 }
 #nav-links a {
-  margin: 12px 12px;
+  margin: 8px 0;
   transition: all 0.15s;
   padding: 0 24px;
   color: #222;
@@ -265,7 +268,7 @@ header a {
 .sidenav {
   display: flex;
   position: absolute;
-  margin: 8px;
+  margin: 3px;
   align-items: baseline;
   font-family: 'EB Garamond SC 12';
 }
@@ -316,4 +319,38 @@ header a {
 
 #jump_to {
   margin-bottom: -0.5em;
+}
+@media (max-width: 480px) {
+  main {
+    border-left: none;
+    border-right: none;
+    padding: 0;
+  }
+  main .review-preview, main .reading {
+    padding: 0;
+  }
+  #nav-links a {
+    margin: 8px 0;
+    padding: 0;
+    padding-top: 12px;
+  }
+  .alphabet-section .initial::first-letter {
+    padding-right: none;
+  }
+  .alphabet-section ul {
+    margin-top: 0
+  }
+}
+@media (max-width: 880px) {
+  #sidenav-right {
+    display: none;
+  }
+  main h1, main h2, main nav, main table, main article {
+    padding: 8px;
+  }
+}
+@media (max-width: 700px) {
+  #sidenav-left {
+    display: none;
+  }
 }
