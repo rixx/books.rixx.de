@@ -7,7 +7,7 @@ book:
   pages: '439'
   publication_year: '2006'
   series: Discworld
-  series_position: '34; City Watch #7'
+  series_position: '34'
   slug: thud
   title: Thud!
 plan:

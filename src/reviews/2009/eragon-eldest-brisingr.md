@@ -9,7 +9,7 @@ book:
   pages: '1952'
   publication_year: null
   series: Inheritance
-  series_position: 1-3
+  series_position: '1'
   slug: eragon-eldest-brisingr
   title: Eragon, Eldest & Brisingr
 plan:

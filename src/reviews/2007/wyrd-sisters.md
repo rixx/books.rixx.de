@@ -9,7 +9,7 @@ book:
   pages: '265'
   publication_year: '2001'
   series: Discworld
-  series_position: '6; Witches #2'
+  series_position: '6'
   slug: wyrd-sisters
   title: Wyrd Sisters
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '296'
   publication_year: '1999'
   series: Discworld
-  series_position: '23; Witches #6'
+  series_position: '23'
   slug: carpe-jugulum
   title: Carpe Jugulum
 plan:

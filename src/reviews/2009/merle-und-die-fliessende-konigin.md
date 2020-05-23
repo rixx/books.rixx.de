@@ -8,7 +8,7 @@ book:
   isbn13: '9783785539286'
   publication_year: null
   series: Merle-Trilogie
-  series_position: 1-3
+  series_position: '1'
   slug: merle-und-die-fliessende-konigin
   title: Merle und die Fließende Königin
 plan:

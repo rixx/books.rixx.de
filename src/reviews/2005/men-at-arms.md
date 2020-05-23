@@ -9,7 +9,7 @@ book:
   pages: '377'
   publication_year: '2003'
   series: Discworld
-  series_position: '15; City Watch #2'
+  series_position: '15'
   slug: men-at-arms
   title: Men at Arms
 plan:

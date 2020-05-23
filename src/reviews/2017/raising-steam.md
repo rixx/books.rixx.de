@@ -9,7 +9,7 @@ book:
   pages: '377'
   publication_year: '2013'
   series: Discworld
-  series_position: '40, Moist von Lipwig #3'
+  series_position: '40'
   slug: raising-steam
   title: Raising Steam
 plan:

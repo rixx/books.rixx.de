@@ -9,7 +9,7 @@ book:
   pages: '394'
   publication_year: '2005'
   series: Discworld
-  series_position: '33; Moist von Lipwig, #1'
+  series_position: '33'
   slug: going-postal
   title: Going Postal
 plan:

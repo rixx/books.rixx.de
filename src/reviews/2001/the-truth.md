@@ -9,7 +9,7 @@ book:
   pages: '336'
   publication_year: '2002'
   series: Discworld
-  series_position: '25; Industrial Revolution, #2'
+  series_position: '25'
   slug: the-truth
   title: The Truth
 plan:

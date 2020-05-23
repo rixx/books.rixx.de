@@ -9,7 +9,7 @@ book:
   pages: '411'
   publication_year: '2005'
   series: Discworld
-  series_position: '19; City Watch, #3'
+  series_position: '19'
   slug: feet-of-clay
   title: Feet of Clay
 plan:

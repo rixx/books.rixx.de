@@ -9,7 +9,7 @@ book:
   pages: '375'
   publication_year: '2004'
   series: Discworld
-  series_position: '30; Tiffany Aching, #1'
+  series_position: '30'
   slug: the-wee-free-men
   title: The Wee Free Men
 plan:

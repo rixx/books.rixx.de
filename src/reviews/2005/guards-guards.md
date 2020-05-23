@@ -9,7 +9,7 @@ book:
   pages: '376'
   publication_year: '2001'
   series: Discworld
-  series_position: '8; City Watch #1'
+  series_position: '8'
   slug: guards-guards
   title: Guards! Guards!
 plan:

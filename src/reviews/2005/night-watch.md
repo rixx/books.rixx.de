@@ -8,7 +8,7 @@ book:
   isbn13: '9780552154307'
   publication_year: null
   series: Discworld
-  series_position: '29; City Watch, #6'
+  series_position: '29'
   slug: night-watch
   title: Night Watch
 plan:

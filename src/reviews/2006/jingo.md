@@ -9,7 +9,7 @@ book:
   pages: '461'
   publication_year: '2006'
   series: Discworld
-  series_position: '21; City Watch, #4'
+  series_position: '21'
   slug: jingo
   title: Jingo
 plan:

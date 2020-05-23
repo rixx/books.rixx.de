@@ -9,7 +9,7 @@ book:
   pages: '432'
   publication_year: '2006'
   series: Discworld
-  series_position: '20; Death, #4'
+  series_position: '20'
   slug: hogfather
   title: Hogfather
 plan:

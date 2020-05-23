@@ -9,7 +9,7 @@ book:
   pages: '276'
   publication_year: '2015'
   series: Discworld
-  series_position: '41; Tiffany Aching, #5'
+  series_position: '41'
   slug: the-shepherds-crown
   title: The Shepherd's Crown
 plan:

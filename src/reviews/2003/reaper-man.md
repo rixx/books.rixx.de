@@ -9,7 +9,7 @@ book:
   pages: '352'
   publication_year: '2005'
   series: Discworld
-  series_position: '11; Death, #2'
+  series_position: '11'
   slug: reaper-man
   title: Reaper Man
 plan:

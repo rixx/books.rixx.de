@@ -9,7 +9,7 @@ book:
   pages: '352'
   publication_year: '2018'
   series: Empire Games
-  series_position: '2, Merchant Princes Universe #8'
+  series_position: '2'
   slug: dark-state
   title: Dark State
 plan:

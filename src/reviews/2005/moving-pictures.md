@@ -9,7 +9,7 @@ book:
   pages: '396'
   publication_year: '2005'
   series: Discworld
-  series_position: '10; Industrial Revolution, #1'
+  series_position: '10'
   slug: moving-pictures
   title: Moving Pictures
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '378'
   publication_year: '2008'
   series: Discworld
-  series_position: '26; Death, #5'
+  series_position: '26'
   slug: thief-of-time
   title: Thief of Time
 plan:

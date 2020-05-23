@@ -7,7 +7,7 @@ book:
   pages: '5'
   publication_year: '2002'
   series: Discworld
-  series_position: '10.5; Death, #1.5'
+  series_position: '10.5'
   slug: death-and-what-comes-next
   title: Death and What Comes Next
 plan:

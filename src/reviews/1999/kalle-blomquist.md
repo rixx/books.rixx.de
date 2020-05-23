@@ -8,7 +8,7 @@ book:
   isbn13: '9783789141300'
   pages: '473'
   publication_year: null
-  series_position: 1-3
+  series_position: '1'
   slug: kalle-blomquist
   title: Kalle Blomquist
 plan:

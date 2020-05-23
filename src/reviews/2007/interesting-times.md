@@ -9,7 +9,7 @@ book:
   pages: '368'
   publication_year: '1998'
   series: Discworld
-  series_position: '17; Rincewind #5'
+  series_position: '17'
   slug: interesting-times
   title: Interesting Times
 plan:

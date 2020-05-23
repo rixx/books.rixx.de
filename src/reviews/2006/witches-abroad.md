@@ -9,7 +9,7 @@ book:
   pages: '374'
   publication_year: '2002'
   series: Discworld
-  series_position: '12; Witches #3'
+  series_position: '12'
   slug: witches-abroad
   title: Witches Abroad
 plan:

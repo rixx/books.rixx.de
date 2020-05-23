@@ -9,7 +9,7 @@ book:
   pages: '464'
   publication_year: '2008'
   series: Discworld
-  series_position: '24; City Watch, #5'
+  series_position: '24'
   slug: the-fifth-elephant
   title: The Fifth Elephant
 plan:

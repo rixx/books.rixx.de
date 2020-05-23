@@ -9,7 +9,7 @@ book:
   pages: '394'
   publication_year: '2007'
   series: Discworld
-  series_position: '36; Moist Von Lipwig, #2'
+  series_position: '36'
   slug: making-money
   title: Making Money
 plan:

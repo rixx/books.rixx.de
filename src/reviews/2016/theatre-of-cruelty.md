@@ -7,7 +7,7 @@ book:
   pages: '4'
   publication_year: '1993'
   series: Discworld
-  series_position: '14.5; City Watch #1.5'
+  series_position: '14.5'
   slug: theatre-of-cruelty
   title: Theatre of Cruelty
 plan:

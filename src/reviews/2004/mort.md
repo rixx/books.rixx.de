@@ -8,8 +8,8 @@ book:
   isbn13: '9780061020681'
   pages: '243'
   publication_year: '2001'
-  series: Death
-  series_position: '1; Discworld, #4'
+  series: Discworld
+  series_position: '1'
   slug: mort
   title: Mort
 plan:

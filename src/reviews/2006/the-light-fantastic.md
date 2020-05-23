@@ -9,7 +9,7 @@ book:
   pages: '277'
   publication_year: '2000'
   series: Discworld
-  series_position: '2; Rincewind #2'
+  series_position: '2'
   slug: the-light-fantastic
   title: The Light Fantastic
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '416'
   publication_year: '2006'
   series: Discworld
-  series_position: '22; Rincewind #6'
+  series_position: '22'
   slug: the-last-continent
   title: The Last Continent
 plan:

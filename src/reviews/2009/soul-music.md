@@ -9,7 +9,7 @@ book:
   pages: '424'
   publication_year: '1999'
   series: Discworld
-  series_position: '16; Death, #3'
+  series_position: '16'
   slug: soul-music
   title: Soul Music
 plan:

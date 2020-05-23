@@ -6,7 +6,8 @@ book:
   goodreads: '7927173'
   pages: '255'
   publication_year: '1984'
-  series: Die Söhne der Großen Bärin 5
+  series: Die Söhne der Großen Bärin
+  series_position: '5'
   slug: der-junge-hauptling
   title: Der junge Häuptling
 plan:

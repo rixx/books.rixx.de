@@ -9,7 +9,7 @@ book:
   pages: '197'
   publication_year: '2008'
   series: Discworld
-  series_position: '9; Rincewind #4'
+  series_position: '9'
   slug: eric
   title: Eric
 plan:

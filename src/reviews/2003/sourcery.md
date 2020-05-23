@@ -9,7 +9,7 @@ book:
   pages: '276'
   publication_year: '2008'
   series: Discworld
-  series_position: '5; Rincewind #3'
+  series_position: '5'
   slug: sourcery
   title: Sourcery
 plan:

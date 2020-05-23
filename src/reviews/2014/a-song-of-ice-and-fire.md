@@ -9,7 +9,7 @@ book:
   pages: '4081'
   publication_year: null
   series: A Song of Ice and Fire
-  series_position: 1-4
+  series_position: '1'
   slug: a-song-of-ice-and-fire
   title: A Song of Ice and Fire
 plan:

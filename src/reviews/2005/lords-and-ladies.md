@@ -9,7 +9,7 @@ book:
   pages: '400'
   publication_year: '2005'
   series: Discworld
-  series_position: '14; Witches #4'
+  series_position: '14'
   slug: lords-and-ladies
   title: Lords and Ladies
 plan:

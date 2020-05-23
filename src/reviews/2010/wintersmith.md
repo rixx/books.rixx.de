@@ -9,7 +9,7 @@ book:
   pages: '325'
   publication_year: '2006'
   series: Discworld
-  series_position: '35; Tiffany Aching, #3'
+  series_position: '35'
   slug: wintersmith
   title: Wintersmith
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '349'
   publication_year: '2010'
   series: Discworld
-  series_position: '38; Tiffany Aching, #4'
+  series_position: '38'
   slug: i-shall-wear-midnight
   title: I Shall Wear Midnight
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '1155'
   publication_year: '2010'
   series: The Hunger Games
-  series_position: 1-3
+  series_position: '1'
   slug: the-hunger-games-trilogy-boxset
   title: The Hunger Games Trilogy Boxset
 plan:

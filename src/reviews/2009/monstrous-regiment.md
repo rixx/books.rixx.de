@@ -7,7 +7,7 @@ book:
   pages: '496'
   publication_year: '2003'
   series: Discworld
-  series_position: '31; Industrial Revolution, #3'
+  series_position: '31'
   slug: monstrous-regiment
   title: Monstrous Regiment
 plan:

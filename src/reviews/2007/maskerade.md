@@ -9,7 +9,7 @@ book:
   pages: '285'
   publication_year: '1995'
   series: Discworld
-  series_position: '18; Witches #5'
+  series_position: '18'
   slug: maskerade
   title: Maskerade
 plan:

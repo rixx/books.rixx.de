@@ -9,7 +9,7 @@ book:
   pages: '336'
   publication_year: '2017'
   series: Empire Games
-  series_position: '1, Merchant Princes Universe #7'
+  series_position: '1'
   slug: empire-games
   title: Empire Games
 plan:

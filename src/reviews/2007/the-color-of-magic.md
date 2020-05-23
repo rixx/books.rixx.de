@@ -9,7 +9,7 @@ book:
   pages: '228'
   publication_year: '2005'
   series: Discworld
-  series_position: '1; Rincewind, #1'
+  series_position: '1'
   slug: the-color-of-magic
   title: The Color of Magic
 plan:

@@ -9,7 +9,7 @@ book:
   pages: '378'
   publication_year: '2011'
   series: Discworld
-  series_position: '39; City Watch #8'
+  series_position: '39'
   slug: snuff
   title: Snuff
 plan:
