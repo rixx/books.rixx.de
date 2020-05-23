@@ -1,9 +1,10 @@
 import datetime as dt
 import sqlite3
 from pathlib import Path
-from scripts.books import load_review_by_slug
 
 from tqdm import tqdm
+
+from scripts.books import load_review_by_slug
 
 from .books import Review
 

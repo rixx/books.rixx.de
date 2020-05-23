@@ -19,6 +19,7 @@ setup(
         "markdown==3.1.*",
         "pillow==7.0.*",
         "python-frontmatter==0.5.*",
+        "rauth",
         "requests",
         "smartypants==2.0.*",
         "unidecode==1.1.*",

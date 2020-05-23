@@ -53,7 +53,7 @@ def get_date(prompt):
 class Review:
     def __init__(self, entry_type=None, metadata=None, text=None, path=None):
         self.entry_type = entry_type
-        self.path = path
+        self.path = Path(path)
         if path:
             post = frontmatter.load(path)
             self.metadata = post.metadata
@@ -73,14 +73,26 @@ class Review:
         return self.metadata["book"].get("isbn13") or self.metadata["book"].get("isbn9")
 
     def entry_type_from_path(self):
-        path = Path(self.path)
         valid_entry_types = ("reviews", "to-read", "currently-reading")
-        entry_type = path.parent.name
+        entry_type = self.path.parent.name
         if entry_type not in valid_entry_types:
-            entry_type = path.parent.parent.name
+            entry_type = self.path.parent.parent.name
         if entry_type not in valid_entry_types:
             raise Exception(f"Wrong path for review: {entry_type}")
         return entry_type
+
+    def change_entry_type(self, entry_type, save=True):
+        if entry_type == self.entry_type:
+            return
+        if entry_type not in ("reviews", "to-read", "currently-reading"):
+            raise Exception(f"Invalid entry_type {entry_type}")
+        if entry_type == "reviews" and not self.metadata.get("review", {}).get(
+            "date_read"
+        ):
+            raise Exception("Cannot become a review, no date_read provided!")
+        self.entry_type = entry_type
+        if save:
+            self.save()
 
     def get_core_path(self):
         if self.entry_type == "reviews":
@@ -358,5 +370,116 @@ def create_book(auth):
     #         )
 
 
-def change_book(auth):
+def get_review_from_user():
+    review = None
+    while not review:
+        search = (
+            inquirer.text(message="What's the book called?")
+            .strip()
+            .lower()
+            .replace(" ", "-")
+        )
+        try:
+            review = load_review_by_slug(f"*{search}*")
+        except Exception:
+            print("No book like that was found.")
+    print()
+    print(
+        f"Book found: {review.metadata['book']['title']} by {review.metadata['book']['author']}.\nCurrent status: {review.entry_type}"
+    )
+    right_book = inquirer.list_input(
+        message="Is this the book you meant?", choices=[("Yes", True), ("No", False)]
+    )
+    if right_book:
+        return review
+    return get_review_from_user()
+
+
+def _change_rating(review, push_to_goodreads, auth):
     pass
+
+
+def _change_to_currently_reading(review, push_to_goodreads, auth):
+    review.change_entry_type(to="currently-reading", save=True)
+    if push_to_goodreads:
+        goodreads.push_to_goodreads(review=review, auth=auth)
+
+
+def _change_to_tbr(review, push_to_goodreads, auth):
+    review.change_entry_type(to="to-read", save=True)
+    if push_to_goodreads:
+        goodreads.push_to_goodreads(review=review, auth=auth)
+
+
+def _change_remove(review, push_to_goodreads, auth):
+    review.path.unlink()
+    if push_to_goodreads:
+        goodreads.remove_review(review=review, auth=auth)
+
+
+def _change_metadata(review, push_to_goodreads, auth):
+    pass
+
+
+def _change_manually(review, push_to_goodreads, auth):
+    pass
+
+
+def _change_cover(review, push_to_goodreads, auth):
+    old_cover_url = review.metadata["book"]["cover_image_url"]
+    source = inquirer.list_input(
+        message="Where do you want to retrieve the cover image from?",
+        choices=[
+            ("Goodreads", "goodreads"),
+            ("Goodreads web scraping", "goodreads_scrape"),
+            ("Google APIs", "google"),
+            ("OpenLibrary", "openlibrary"),
+            ("Custom URL", "manually"),
+        ],
+    )
+    if source == "manually":
+        url = inquirer.text(message="Cover image URL")
+        review.download_cover(url, force_new=True)
+    else:
+        review.find_cover(source, force_new=True)
+    if review.metadata["book"]["cover_image_url"] != old_cover_url:
+        print(
+            f"Successfully downloaded new cover image! You can look at it at src/covers/{review.metadata['book']['cover_image']}"
+        )
+        review.save()
+    else:
+        print("Couldn't find a new cover, sorry!")
+
+
+def change_book(auth):
+    review = get_review_from_user()
+    while True:
+        action = inquirer.list_input(
+            message="What do you want to do with this book?",
+            choices=[
+                ("Rate and review", "rating"),
+                ("Mark as currently reading", "to_currently_reading"),
+                ("Mark as to be read", "to_tbr"),
+                ("Remove from library", "remove"),
+                ("Edit metadata", "metadata"),
+                ("Edit manually", "manually"),
+                ("Change cover image", "cover"),
+                ("Choose different book", "book"),
+                ("Quit", "quit"),
+            ],
+            carousel=True,
+        )
+        if action == "quit":
+            return
+        if action == "book":
+            return change_book(auth=auth)
+        push_to_goodreads = False
+        if review.metadata["book"].get("goodreads"):
+            push_to_goodreads = inquirer.list_input(
+                message="Do you want to push this change to Goodreads?",
+                choices=[("Yes", True), ("No", False)],
+                default=True,
+            )
+        globals()[f"_change_{action}"](
+            review=review, push_to_goodreads=push_to_goodreads, auth=auth
+        )
