@@ -8,7 +8,7 @@ book:
   isbn13: '9783473388776'
   pages: '318'
   publication_year: '1983'
-  series: Die Söhne der großen Bärin
+  series: Die Söhne der Großen Bärin
   series_position: '6'
   slug: uber-den-missouri
   title: Über den Missouri

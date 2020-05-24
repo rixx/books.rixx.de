@@ -8,7 +8,7 @@ book:
   isbn13: '9781473222441'
   pages: '144'
   publication_year: '2017'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '5.5'
   slug: the-furthest-station
   title: The Furthest Station

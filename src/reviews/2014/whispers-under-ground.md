@@ -8,7 +8,7 @@ book:
   isbn13: '9780345524614'
   pages: '303'
   publication_year: '2012'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '3'
   slug: whispers-under-ground
   title: Whispers Under Ground

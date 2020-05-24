@@ -8,7 +8,7 @@ book:
   isbn13: '9780575132559'
   pages: '387'
   publication_year: '2016'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '6'
   slug: the-hanging-tree
   title: The Hanging Tree

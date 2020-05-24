@@ -8,10 +8,10 @@ book:
   isbn13: '9783473388745'
   pages: '367'
   publication_year: '1983'
-  series: Die Söhne der großen Bärin
+  series: Die Söhne der Großen Bärin
   series_position: '3'
-  slug: die-hohle-in-den-schwarzen-bergen-
-  title: Die Höhle in den schwarzen Bergen.
+  slug: die-hohle-in-den-schwarzen-bergen
+  title: Die Höhle in den schwarzen Bergen
 plan:
   date_added: '2015-07-03'
 review:

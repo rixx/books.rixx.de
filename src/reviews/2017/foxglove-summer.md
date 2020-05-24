@@ -8,7 +8,7 @@ book:
   isbn13: '9780575132504'
   pages: '377'
   publication_year: '2014'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '5'
   slug: foxglove-summer
   title: Foxglove Summer

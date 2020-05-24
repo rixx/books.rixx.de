@@ -8,6 +8,8 @@ book:
   publication_year: '2003'
   slug: the-gunslinger
   title: The Gunslinger
+  series: The Dark Tower
+  series_position: '1'
 plan:
   date_added: '2016-11-13'
 review:

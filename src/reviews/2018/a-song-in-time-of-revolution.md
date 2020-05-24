@@ -6,7 +6,7 @@ book:
   goodreads: '16005277'
   pages: '2839'
   publication_year: '2006'
-  series: Sacrifices arc
+  series: Sacrifices Arc
   series_position: '6'
   slug: a-song-in-time-of-revolution
   title: A Song In Time of Revolution

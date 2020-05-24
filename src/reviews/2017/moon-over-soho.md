@@ -8,7 +8,7 @@ book:
   isbn13: '9780575097605'
   pages: '375'
   publication_year: '2011'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '2'
   slug: moon-over-soho
   title: Moon Over Soho

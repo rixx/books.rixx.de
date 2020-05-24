@@ -7,7 +7,7 @@ book:
   pages: '206'
   publication_year: '2005'
   series: Chronicles of Narnia
-  series_position: '2'
+  series_position: '1'
   slug: the-lion-the-witch-and-the-wardrobe
   title: The Lion, the Witch and the Wardrobe
 plan:

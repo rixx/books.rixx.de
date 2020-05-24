@@ -7,7 +7,7 @@ book:
   isbn10: '3473388718'
   isbn13: '9783473388714'
   publication_year: '1983'
-  series: Die Söhne der größen Bärin
+  series: Die Söhne der Großen Bärin
   series_position: '2'
   slug: der-weg-in-die-verbannung
   title: Der Weg in die Verbannung

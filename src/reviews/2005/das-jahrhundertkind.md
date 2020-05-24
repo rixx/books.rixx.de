@@ -10,6 +10,8 @@ book:
   publication_year: '2007'
   slug: das-jahrhundertkind
   title: Das Jahrhundertkind
+  series: Der Kreis der Dämmerung
+  series_position: '1'
 plan:
   date_added: '2015-06-28'
 review:

@@ -10,8 +10,8 @@ book:
   publication_year: '2009'
   series: Die Drachenkämpferin
   series_position: '3'
-  slug: die-drachenkampferin-der-talisman-der-macht
-  title: 'Die Drachenkämpferin: Der Talisman der Macht'
+  slug: der-talisman-der-macht
+  title: 'Der Talisman der Macht'
 plan:
   date_added: '2015-07-03'
 review:

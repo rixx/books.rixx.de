@@ -10,6 +10,8 @@ book:
   publication_year: '2010'
   slug: a-wizard-of-mars
   title: A Wizard of Mars
+  series: Young Wizards
+  series_position: '9'
 plan:
   date_added: '2016-05-03'
 review:

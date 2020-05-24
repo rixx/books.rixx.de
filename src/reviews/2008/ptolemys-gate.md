@@ -8,7 +8,7 @@ book:
   isbn13: '9780552550284'
   pages: '515'
   publication_year: '2006'
-  series: Bartimaeus Trilogy
+  series: Bartimaeus
   series_position: '3'
   slug: ptolemys-gate
   title: Ptolemy's Gate

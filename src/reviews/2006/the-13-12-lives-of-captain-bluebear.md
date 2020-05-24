@@ -8,7 +8,7 @@ book:
   isbn13: '9781585678440'
   pages: '704'
   publication_year: '2006'
-  series: Zamonia
+  series: Zamonien
   series_position: '1'
   slug: the-13-12-lives-of-captain-bluebear
   title: The 13½ Lives of Captain Bluebear

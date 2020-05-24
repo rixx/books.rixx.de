@@ -10,6 +10,8 @@ book:
   publication_year: '2005'
   slug: the-wizards-dilemma
   title: The Wizard's Dilemma
+  series: Young Wizards
+  series_position: '5'
 plan:
   date_added: '2016-05-03'
 review:

@@ -8,7 +8,7 @@ book:
   isbn13: '9780575132467'
   pages: '357'
   publication_year: '2013'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '4'
   slug: broken-homes
   title: Broken Homes

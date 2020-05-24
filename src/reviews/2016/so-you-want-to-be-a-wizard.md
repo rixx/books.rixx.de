@@ -10,6 +10,8 @@ book:
   publication_year: '2003'
   slug: so-you-want-to-be-a-wizard
   title: So You Want to Be a Wizard
+  series: Young Wizards
+  series_position: '1'
 plan:
   date_added: '2016-05-03'
 review:

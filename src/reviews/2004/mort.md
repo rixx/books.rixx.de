@@ -9,7 +9,7 @@ book:
   pages: '243'
   publication_year: '2001'
   series: Discworld
-  series_position: '1'
+  series_position: '4'
   slug: mort
   title: Mort
 plan:

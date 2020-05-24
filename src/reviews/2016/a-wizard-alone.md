@@ -10,6 +10,8 @@ book:
   publication_year: '2003'
   slug: a-wizard-alone
   title: A Wizard Alone
+  series: Young Wizards
+  series_position: '6'
 plan:
   date_added: '2016-05-03'
 review:

@@ -6,7 +6,7 @@ book:
   goodreads: '16005281'
   pages: '2174'
   publication_year: '2007'
-  series: Sacrifices arc
+  series: Sacrifices Arc
   series_position: '7'
   slug: i-am-also-thy-brother
   title: I Am Also Thy Brother

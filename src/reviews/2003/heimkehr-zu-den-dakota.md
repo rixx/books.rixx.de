@@ -9,6 +9,8 @@ book:
   publication_year: '1993'
   slug: heimkehr-zu-den-dakota
   title: Heimkehr zu den Dakota
+  series: Die Söhne der Großen Bärin
+  series_position: '4'
 plan:
   date_added: '2015-07-03'
 review:

@@ -8,7 +8,7 @@ book:
   isbn13: '9780099490579'
   pages: '461'
   publication_year: '2007'
-  series: Zamonia
+  series: Zamonen
   series_position: '4'
   slug: the-city-of-dreaming-books
   title: The City of Dreaming Books

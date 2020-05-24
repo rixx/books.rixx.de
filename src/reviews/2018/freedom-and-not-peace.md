@@ -6,7 +6,7 @@ book:
   goodreads: '16005266'
   pages: '2226'
   publication_year: '2006'
-  series: Sacrifices arc
+  series: Sacrifices Arc
   series_position: '4'
   slug: freedom-and-not-peace
   title: Freedom And Not Peace

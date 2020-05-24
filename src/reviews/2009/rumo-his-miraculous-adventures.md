@@ -8,7 +8,7 @@ book:
   isbn13: '9781585677252'
   pages: '688'
   publication_year: '2006'
-  series: Zamonia
+  series: Zamonien
   series_position: '3'
   slug: rumo-his-miraculous-adventures
   title: Rumo & His Miraculous Adventures

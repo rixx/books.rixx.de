@@ -8,7 +8,7 @@ book:
   isbn13: '9780312861872'
   pages: '592'
   publication_year: '1996'
-  series: Ender's Saga
+  series: Ender’s Saga
   series_position: '3'
   slug: xenocide
   title: Xenocide

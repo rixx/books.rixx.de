@@ -6,7 +6,7 @@ book:
   goodreads: '23471484'
   pages: '25'
   publication_year: '2014'
-  series: Peter Grant
+  series: Rivers of London
   series_position: '1.5'
   slug: the-home-crowd-advantage
   title: The Home Crowd Advantage

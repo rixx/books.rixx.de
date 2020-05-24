@@ -10,6 +10,8 @@ book:
   publication_year: '2003'
   slug: deep-wizardry
   title: Deep Wizardry
+  series: Young Wizards
+  series_position: '2'
 plan:
   date_added: '2016-05-03'
 review:
