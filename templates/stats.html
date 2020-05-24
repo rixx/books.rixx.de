@@ -42,7 +42,7 @@
             height="15"
             x="{{ (column - 1) * 18 }}"
             y="{{ loop.index * 18 }}"
-            fill="{% if month.total_pages %}rgba(153,0,0, {{ (month.total_pages + 1000) / (most_pages) }}){% else %}#ebedf0{% endif %}"
+            fill="{% if month.total_pages %}rgba(0, 113, 113, {{ (month.total_pages + 1000) / (most_pages) }}){% else %}#ebedf0{% endif %}"
             class="month"
             data-title="{{ month.date }}"
           >
