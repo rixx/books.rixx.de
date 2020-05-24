@@ -4,34 +4,7 @@
 
   <h2>Books I&rsquo;m currently reading</h2>
 
-  {% for currently_reading in all_reading %}
-  <div class="reading">
-    <div class="reading_inner">
-      <div class="book_thumbnail">
-        {% set book = currently_reading.metadata.book %}
-        {% include "_book_cover.html" %}
-      </div>
-
-      <div class="book_metadata">
-        <p class="title">{{ currently_reading.metadata.book.title | smartypants | safe }}</p>
-        <p>
-          <small>
-            by {{ currently_reading.metadata.book.author }}
-            {%- if currently_reading.metadata.book.publication_year %}
-              ({{ currently_reading.metadata.book.publication_year}})
-            {%- endif -%}
-            {% if currently_reading.metadata.review and currently_reading.metadata.review.date_started %}
-            <p><i>since {{ currently_reading.metadata.review.date_started | render_date }}</i></p>
-            {% endif %}
-          </small>
-        </p>
-      </div>
-    </div>
-    {% if currently_reading.text %}
-    <div class="note">
-      {{ currently_reading.text | render_markdown | safe }}
-    </div>
-    {% endif %}
-  </div>
+  {% for review in all_reading %}
+  {% include "_list_entry.html" %}
   {% endfor %}
 {% endblock %}

@@ -1,6 +1,9 @@
 {% if book.cover_image %}
   <img
+    class="cover"
     src="/thumbnails/{{ book.cover_image }}"
     alt="Cover of {{ book.title }}. {{ book.cover_description }}"
   >
+{% else %}
+  <div class="cover cover-placeholder"></div>
 {% endif %}

@@ -5,33 +5,6 @@
   <h2>Books I want to read (and why)</h2>
 
   {% for review in all_plans %}
-  <div class="reading">
-    <div class="reading_inner">
-      <div class="book_thumbnail">
-        {% set book = review.metadata.book %}
-        {% include "_book_cover.html" %}
-      </div>
-
-      <div class="book_metadata">
-        <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
-        <p>
-          <small>
-            by {{ review.metadata.book.author }}
-            {%- if review.metadata.book.publication_year %}
-              ({{ review.metadata.book.publication_year}})
-            {%- endif -%}
-            {%- if review.metadata.plan.date_added -%}
-            <p><i>added on {{ review.metadata.plan.date_added | render_date }}</i></p>
-            {%- endif %}
-          </small>
-        </p>
-      </div>
-    </div>
-    {% if review.text %}
-    <div class="note">
-      {{ review.text | render_markdown | safe }}
-    </div>
-    {% endif %}
-  </div>
+  {% include "_list_entry.html" %}
   {% endfor %}
 {% endblock %}

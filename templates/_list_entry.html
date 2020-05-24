@@ -1,0 +1,28 @@
+<div class="reading">
+  <div class="reading_inner book_metadata">
+    <div class="book_thumbnail">
+      {% set book = review.metadata.book %}
+      {% include "_book_cover.html" %}
+    </div>
+    <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
+    <p>
+      <small>
+        by {{ review.metadata.book.author }}
+        {%- if review.metadata.book.publication_year %}
+          ({{ review.metadata.book.publication_year}})
+        {%- endif -%}
+        {% if review.entry_type == "currently-reading" and review.metadata.review and review.metadata.review.date_started %}
+        <p><i>since {{ review.metadata.review.date_started | render_date }}</i></p>
+        {%- elif review.metadata.plan and review.metadata.plan.date_added -%}
+        <p><i>added on {{ review.metadata.plan.date_added | render_date }}</i></p>
+        {%- endif %}
+      </small>
+    </p>
+    {% if review.text %}
+    <hr>
+    <p class="note">
+      {{ review.text | render_markdown | safe }}
+    </p>
+    {% endif %}
+  </div>
+</div>

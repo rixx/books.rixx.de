@@ -1,11 +1,10 @@
 <div class="review_preview {% if review.metadata.review.rating == 5 %}review_fave{% endif %}">
   <a {% if review.text %}href="/{{ review.get_core_path() }}"{% else %}class="no-link"{% endif %}>
-    <div class="book_thumbnail">
-      {% set book = review.metadata.book %}
-      {% include "_book_cover.html" %}
-    </div>
-
     <div class="book_metadata">
+      <div class="book_thumbnail">
+        {% set book = review.metadata.book %}
+        {% include "_book_cover.html" %}
+      </div>
       <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
       <p>
         <small>
