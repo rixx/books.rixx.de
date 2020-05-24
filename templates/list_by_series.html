@@ -18,7 +18,8 @@
 
   <ul>
   {% for series, ireviews in reviews %}
-    <li id="{{ series }}">{{ series }}
+    <li id="{{ series }}" class="anchor-target">{{ series }}
+      <a class="anchor" href="/reviews/by-series/#{{ series }}">¶</a>
       <ul>
       {% for review in ireviews %}
         <li>

@@ -28,7 +28,8 @@
   <h2 class="alphabet initial">{{ letter }}</h2>
     <ul>
     {% for author, areviews in authors %}
-      <li id="{{ author }}">{{ author }}
+      <li id="{{ author }}" class="anchor-target">{{ author }}
+        <a class="anchor" href="/reviews/by-author/#{{ author }}">¶</a>
         <ul>
         {% for review in areviews %}
           <li>
