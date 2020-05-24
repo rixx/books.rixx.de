@@ -363,6 +363,82 @@ header a {
 #jump_to {
   margin-bottom: -0.5em;
 }
+
+#stats-section svg {
+  margin-left: auto;
+  margin-right: auto;
+}
+#stats-section input[type=checkbox]{
+    height: 0;
+    width: 0;
+    visibility: hidden;
+    position: absolute;
+}
+
+#stats-section label#toggle {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 50px;
+    height: 28px;
+    background: #990000;
+    display: block;
+    border-radius: 100px;
+    position: relative;
+}
+
+#stats-section label#toggle:after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 18px;
+    height: 18px;
+    background: #fff;
+    border-radius: 18px;
+    transition: 0.3s ease;
+}
+
+#stats-section input:checked + #stats label {
+    background: #007171;
+}
+
+#stats-section input:checked + #stats label:after {
+    left: calc(100% - 5px);
+    transform: translateX(-100%);
+}
+
+#stats-section input + #stats #book-stats, #stats-section input:checked + #stats #page-stats {
+  display: flex
+}
+
+#stats-section input + #stats #page-stats, #stats-section input:checked + #stats #book-stats {
+  display: none
+}
+#stats-section input + #stats #label:before {
+  content: "Books"
+}
+
+#stats-section input:checked + #stats #label:before {
+  content: "Pages"
+}
+
+#stats-section label#toggle:active:after {
+    width: 30px;
+}
+
+#stats {
+  position: relative;
+}
+#stats label#toggle, #stats #label {
+  position: absolute;
+  right: 6px;
+  top: -48px;
+}
+#stats #label {
+  top: -16px;
+  margin-right: 2px;
+}
+
 @media (max-width: 480px) {
   main {
     border-left: none;

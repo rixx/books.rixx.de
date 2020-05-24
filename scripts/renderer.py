@@ -1,3 +1,4 @@
+from collections import defaultdict
 import datetime as dt
 import hashlib
 import itertools
@@ -42,7 +43,7 @@ def get_relevant_date(review):
     return dt.datetime.strptime(result, "%Y-%m-%d").date()
 
 
-def render_page(env, template_name, path, **context):
+def render_page(template_name, path, env=None, **context):
     template = env.get_template(template_name)
     html = template.render(**context)
     out_path = pathlib.Path("_html") / path
@@ -155,7 +156,7 @@ def build_site():
         list(set(review.relevant_date.year for review in all_reviews)), reverse=True,
     )
     for (year, reviews) in itertools.groupby(
-        all_reviews, key=lambda rev: rev.relevant_data.year
+        all_reviews, key=lambda rev: rev.relevant_date.year
     ):
         render(
             "list_reviews.html",
@@ -316,6 +317,58 @@ def build_site():
         "index.html",
         text=open("src/index.md").read(),
         reviews=all_reviews[:5],
+    )
+
+    # Render stats page
+    time_lookup = defaultdict(list)
+    for review in all_reviews:
+        key = review.relevant_date.strftime("%Y-%m")
+        l = time_lookup[key]
+        l.append(review)
+        time_lookup[key] = l
+
+    most_books = 0
+    most_pages = 0
+    stats = []
+    for year in all_years[::-1]:
+        total_pages = 0
+        total_books = 0
+        months = []
+        for month in range(12):
+            written_month = f"{month + 1:02}"
+            written_date = f"{year}-{written_month}"
+            reviews = time_lookup[written_date]
+            book_count = len(reviews)
+            page_count = sum(
+                int(review.metadata["book"].get("pages", 0)) for review in reviews
+            )
+            total_pages += page_count
+            total_books += book_count
+            most_books = max(most_books, book_count)
+            most_pages = max(most_pages, page_count)
+            months.append(
+                {
+                    "month": written_month,
+                    "date": written_date,
+                    "total_books": book_count,
+                    "total_pages": page_count,
+                }
+            )
+        stats.append(
+            {
+                "year": year,
+                "months": months,
+                "total_pages": total_pages,
+                "total_books": total_books,
+            }
+        )
+
+    render(
+        "stats.html",
+        "stats/index.html",
+        stats=stats,
+        most_books=most_books,
+        most_pages=most_pages,
     )
 
     print("✨ Rendered HTML files to _html ✨")

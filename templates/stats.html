@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Stats!</h1>
+
+<!-- book stats -->
+
+<section id="stats-section">
+
+<input type="checkbox" id="switch" />
+
+<div id="stats">
+  <div id="book-stats" class="stats">
+    <svg style="width: {{ 23 * 18 }}px; height: {{ 13 * 18 }}px">
+      {% for year in stats %}
+        {% set column = loop.index %}
+        {% for month in year.months %}
+        <rect
+            width="15"
+            height="15"
+            x="{{ (column - 1) * 18 }}"
+            y="{{ loop.index * 18 }}"
+            fill="{% if month.total_books %}rgba(153,0,0, {{ (month.total_books + 1) / (most_books) }}){% else %}#ebedf0{% endif %}"
+            class="month"
+            data-title="{{ month.date }}"
+          >
+          <title>{{ month.date }}: {{ month.total_books }} books</title>
+        </rect>
+        {% endfor %}
+      {% endfor %}
+    </svg>
+  </div>
+
+  <div id="page-stats" class="stats">
+    <svg style="width: {{ 23 * 18 }}px; height: {{ 13 * 18 }}px">
+      {% for year in stats %}
+        {% set column = loop.index %}
+        {% for month in year.months %}
+        <rect
+            width="15"
+            height="15"
+            x="{{ (column - 1) * 18 }}"
+            y="{{ loop.index * 18 }}"
+            fill="{% if month.total_pages %}rgba(153,0,0, {{ (month.total_pages + 1000) / (most_pages) }}){% else %}#ebedf0{% endif %}"
+            class="month"
+            data-title="{{ month.date }}"
+          >
+          <title>{{ month.date }}: {{ month.total_pages }} pages</title>
+        </rect>
+        {% endfor %}
+      {% endfor %}
+    </svg>
+  </div>
+  <label for="switch" id="toggle">Toggle</label>
+  <span id="label"></span>
+</div>
+
+<p>
+  I couldn't resist the temptation to generate something like reading statistics from the data I use to build this site. These statistics are as inaccurate as they are fun, for a multitude of reasons.
+</p>
+
+<p>
+For example, I didn't start tracking the books I read until I joined Goodreads in April 2015. I tried to reconstruct as much of my childhood reading as I could manage, but I failed miserably. Across long stretches in school I read more than a book per day – our school library only allowed us to check out six book at once, and it was only open three days per week, which did **not** work for me! Many of those books were re-reads, or me tearing through series after series of generic YA, so not much is to be mourned – but I may still add books retroactively, if and when they come up.
+
+</p>
+
+<p>
+Or: of course there's no such thing as a book. To put it differently: what even is a book? These stats include everything from short stories to multi-thousand pages book collections – basically everything I wanted to log or note or have an opinion on.
+
+</p>
+
+<p>
+But still, it's nice to look at, and I'm tempted to add more ridiculous charts, like mapping publication years against length, or temperature against ratings, or …
+</p>
+
+</section>
+{% endblock %}

@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2017-11-21'
 ---
+
+jml: "Feist’s Magician is also a nerd power fantasy, but at least has some heart"
