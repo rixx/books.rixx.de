@@ -136,8 +136,8 @@ def get_review(review, auth):
         "id": review.find("id").text,
         "rating": review.find("rating").text,
         "date_added": maybe_date(review.find("date_added").text),
-        "started_at": maybe_date(review.find("started_at").text),
-        "read_at": maybe_date(review.find("read_at").text),
+        "date_started": maybe_date(review.find("started_at").text),
+        "date_read": maybe_date(review.find("read_at").text),
         "book": get_book_data_from_xml(review.find("book")),
         "text": (review.find("body").text or "").strip(),
     }
@@ -202,10 +202,12 @@ def push_to_goodreads(review, auth):
         "shelf_name": shelf_name,
     }
     read_at = review.metadata.get("review", {}).get("date_read", "")
+    date_started = review.metadata.get("review", {}).get("date_started", "")
     if read_at:
         if isinstance(read_at, (dt.date, dt.datetime)):
             read_at = read_at.strftime("%Y-%m-%d")
         review_data["review[read_at]"] = read_at
+        review_data["review[started_at]"] = date_started
         review_data["finished"] = True
 
     session = get_session(auth)

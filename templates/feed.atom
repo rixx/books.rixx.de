@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>log(book): rixx's book log</title>
+  <link href="https://books.rixx.de/"/>
+  <updated>{{ events[0].relevant_date }}T00:00:00Z</updated>
+  <author>
+    <name>Tobias Kunze</name>
+  </author>
+  <id>https://books.rixx.de/feed.atom</id>
+  {%- for event in events -%}
+    {%- if event.entry_type == "to-read" -%}
+    <entry>
+      <title>log(book): {{ event.metadata.book.title }}</title>
+      <link href="https://books.rixx.de/to-read"/>
+      <id>urn:uuid:{{ event.feed_uuid }}</id>
+      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
+      <summary>I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text }}</summary>
+    </entry>
+    {%- elif event.entry_type == "currently-reading" -%}
+    <entry>
+      <title>log(book): {{ event.metadata.book.title }}</title>
+      <link href="https://books.rixx.de/reading"/>
+      <id>urn:uuid:{{ event.feed_uuid }}</id>
+      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
+      <summary>I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text }}</summary>
+    </entry>
+    {%- else -%}
+    <entry>
+      <title>log(book): {{ event.metadata.book.title }}</title>
+      <link href="https://books.rixx.de/{{ event.get_core_path() }}"/>
+      <id>urn:uuid:{{ event.feed_uuid }}</id>
+      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
+      <summary>I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.
+
+{{ event.text }}</summary>
+    </entry>
+    {%- endif -%}
+  {%- endfor -%}
+</feed>

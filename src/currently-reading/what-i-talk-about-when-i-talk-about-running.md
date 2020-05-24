@@ -12,6 +12,8 @@ book:
   title: What I Talk About When I Talk About Running
 plan:
   date_added: 2020-05-24
+review:
+  date_started: 2020-05-24
 ---
 
 My first Murakami.

@@ -13,8 +13,8 @@ book:
   slug: the-world-of-poo-discworld
   title: The World of Poo
 review:
-  date_read: 2020-05-23
-  date_started: 2020-05-23
+  date_read: 2020-04-23
+  date_started: 2020-04-23
   rating: 3
 plan:
   date_added: 2020-05-24

@@ -11,8 +11,8 @@ book:
   slug: a-tall-tail
   title: A Tall Tail
 review:
-  date_read: 2020-05-22
-  date_started: 2020-05-22
+  date_read: 2020-04-22
+  date_started: 2020-04-22
   rating: 3
 plan:
   date_added: 2020-05-24

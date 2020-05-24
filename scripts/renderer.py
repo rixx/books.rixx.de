@@ -3,6 +3,8 @@ import itertools
 import os
 import pathlib
 import subprocess
+import hashlib
+import uuid
 
 import markdown
 import smartypants
@@ -25,6 +27,18 @@ def render_date(date_value):
     if isinstance(date_value, dt.date):
         return date_value.strftime("%Y-%m-%d")
     return date_value
+
+
+def get_relevant_date(review):
+    if review.entry_type == "reviews":
+        result = review.metadata["review"]["date_read"]
+    elif review.entry_type == "currently-reading":
+        result = review.metadata["review"]["date_started"]
+    else:
+        result = review.metadata["plan"]["date_added"]
+    if isinstance(result, dt.date):
+        return result
+    return dt.datetime.strptime(result, "%Y-%m-%d").date()
 
 
 def render_individual_review(env, *, review):
@@ -290,6 +304,25 @@ def build_site():
 
     out_path = pathlib.Path("_html") / "to-read/index.html"
     out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(html)
+
+    # Render feed
+
+    all_events = all_plans + all_reading + all_reviews
+    for element in all_events:
+        element.relevant_date = get_relevant_date(element)
+    all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
+    generate_events = all_events[:20]
+    for event in generate_events:
+        m = hashlib.md5()
+        m.update(
+            f"{event.metadata['book']['title']}:{event.entry_type}:{event.relevant_date}:{event.metadata['book'].get('goodreads', '')}".encode()
+        )
+        event.feed_uuid = str(uuid.UUID(m.hexdigest()))
+
+    template = env.get_template("feed.atom")
+    html = template.render(events=generate_events)
+    out_path = pathlib.Path("_html") / "feed.atom"
     out_path.write_text(html)
 
     # Render the front page

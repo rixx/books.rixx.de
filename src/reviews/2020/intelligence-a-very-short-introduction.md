@@ -19,4 +19,6 @@ review:
   rating: 4
 ---
 
-Good example of science writing that is useful and accessible without dumbing things down beyond reason. I learnt some things and was surprised how much Ian Deary managed to fit into the slim book.<br /><br />Among the things I learnt was how terrifying age-related decline is, but also the fascinating studies on how little upbringing seems to influence intelligence.
+Good example of science writing that is useful and accessible without dumbing things down beyond reason. I learnt some things and was surprised how much Ian Deary managed to fit into the slim book.
+
+Among the things I learnt was how terrifying age-related decline is, but also the fascinating studies on how little upbringing seems to influence intelligence.
