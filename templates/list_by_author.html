@@ -32,6 +32,9 @@
         <ul>
         {% for review in areviews %}
           <li>
+            {% if review.metadata.review and review.metadata.review.rating == 5 %}
+            <span class="rating rating-inline">★</span>
+            {% endif %}
             {% if review.text %}
               <a href="/{{ review.get_core_path() }}">{{ review.metadata.book.title }}</a>
             {% else %}
