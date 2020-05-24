@@ -14,6 +14,8 @@ review:
   date_read: 2020-05-24
   date_started: 2020-05-16
   rating: 5
+plan:
+  date_added: 2020-05-24
 ---
 
 This book is A Lot. It's basically a Christian philosopher arguing for the value of Tao, that is, work-transcending

@@ -13,6 +13,8 @@ review:
   date_read: 2020-05-20
   date_started: 2020-05-20
   rating: 2
+plan:
+  date_added: 2020-05-24
 ---
 
 This was nice, but not more than nice. The book tells episodes of the life of the Borgias, without much connecting

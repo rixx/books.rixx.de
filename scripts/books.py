@@ -180,6 +180,8 @@ class Review:
                 self.metadata["plan"]["date_added"] = dt.datetime.now().date()
             if list(self.metadata["plan"].keys()) != ["date_added"]:
                 raise Exception("Unknown keys in post plan data.")
+        else:
+            self.metadata["plan"] = {"date_added": dt.datetime.now().date()}
 
     def download_cover(self, cover_image_url=None, force_new=False):
         destination = Path("src") / "covers"

@@ -10,6 +10,8 @@ book:
   publication_year: '2008'
   slug: what-i-talk-about-when-i-talk-about-running
   title: What I Talk About When I Talk About Running
+plan:
+  date_added: 2020-05-24
 ---
 
 My first Murakami.
