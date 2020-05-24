@@ -17,10 +17,16 @@ data source.
 
 In a virtualenv, run `pip install -e .`. Then you can run:
 
-- `helferlein auth` to get and save your Goodreads credentials
-- `helferlein books` to add or modify books. This is an interactive command that will let you search and modify books,
+- `books auth` to get and save your Goodreads credentials
+- `books add` (or `books new` because I can never remember which one it is, so both work) to add a new book, either
+  from Goodreads or with manual data input
+- `books edit` opens an interactive menu allowing you to choose a book and change either some or all of the data, move
+  it to a different state, retrieve a cover image from goodreads/google/openlibrary/a link of your choice, and sync all
+  changes back to Goodreads if you choose.
   pull data from Goodreads, or push data to Goodreads.
-- `helferlein build` to build the site
+- `books build` to build the site
+- `books load` to bulk-import book data from a database in the format created by
+  [goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite)
 
 ## Related work
 

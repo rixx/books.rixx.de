@@ -45,7 +45,7 @@ def render_individual_review(env, *, review):
     template = env.get_template("review.html")
     html = template.render(
         review=review,
-        title=f"My review of {review.metadata['book']['title']}",
+        title=f"Review of {review.metadata['book']['title']}",
         active="read",
     )
 
