@@ -18,7 +18,10 @@ review:
   date_read: 2018-11-19
   date_started: 2018-11-16
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 This was absolutely lovely scifi that reminded me a lot of Firefly in terms of down-to-earth real ship operations with a lovely, relatable crew and a gritty/real feeling universe. Seeing the crew of the Wayfarer coming together, in all their alien differences, and following them on their way to a difficult job, and seeing their hardship and friendship, was touching and a wonderful help against the autumn gloom.
+
+Slice of life, though, so nothing big happens, and conflict is mostly avoided – if that's not your kind of thing, you
+won't get much out of this book.

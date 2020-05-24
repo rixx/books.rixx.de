@@ -16,9 +16,9 @@ plan:
   date_added: '2016-05-03'
 review:
   date_read: 2018-03-12
-  date_started: null
+  date_started: 2018-03-12
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Woah. Unendlich viel besser als Ready Player One oder Epic. Richtig richtig gute und gruselige Fassung eines KI-gesteuerten RPGs, das Auswirkungen auf die echte Welt hat. Hnnng.

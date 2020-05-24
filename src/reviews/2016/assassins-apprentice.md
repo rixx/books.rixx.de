@@ -18,7 +18,7 @@ review:
   date_read: 2016-10-11
   date_started: 2016-10-10
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Now this was a fantasy novel I really enjoyed. I went in with no expectations at all, randomly chose it from my Kindle, and oh boy, was I in for a ride.<br /><br />Fitz is likeable without being perfect, and both of his mentors, especially Chade, are wonderful in their characterizations. I also liked that the Six Duchies have a well-considered political and geographical structure. Seeing FitzChivalry go from stable boy to young assassin without the usual tropes of the assassin fantasy novels was a treat. I'm fairly sure I'm going to read the other novels, too.

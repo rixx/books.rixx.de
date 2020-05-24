@@ -18,7 +18,7 @@ review:
   date_read: 2018-03-04
   date_started: 2018-03-04
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
-I definitely fell in love with this book. The only critique I can think of right now is that in the beginning the dialogue (and narration) felt a bit off, like it was more meant for the screen than for paper. But it's really really good regardless. This is how I like my fantasy. And also, finally somebody does four teenager teams right. Sunny and her friends are just lovely.
+I definitely fell in love with this book. The only critique I can think of right now is that in the beginning the dialogue (and narration) felt a bit off, like it was more meant for the screen than for paper. But it's really really good regardless. This is how I like my fantasy. And also, finally somebody does four teenager teams right. Sunny and her friends are just lovely, and their whole world stands out because it is so vivid and real.

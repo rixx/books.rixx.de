@@ -18,7 +18,7 @@ review:
   date_read: 2016-11-28
   date_started: 2016-11-26
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Very much a Neil Gaiman book. I think both Spider and the green fedora are going to stay with me for a long time.
