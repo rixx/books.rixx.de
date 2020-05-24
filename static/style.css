@@ -79,7 +79,7 @@ article p.more:first-child::first-letter, p.more::first-letter {
 .alphabet-section {
   min-height: 8em;
 }
-a.anchor {
+a.anchor, a.anchor:visited, a.anchor:link {
   font-size: 16px;
   position: absolute;
   margin-left: 5px;
@@ -367,10 +367,21 @@ header a {
   main {
     border-left: none;
     border-right: none;
-    padding: 0;
   }
-  main .review-preview, main .reading {
+  main .review_preview, main .reading {
     padding: 0;
+    padding-bottom: 15px;
+    margin: 15px 0;
+    height: auto;
+  }
+  .review_preview .cover, .reading_inner .cover {
+    margin: 0 18px 6px 18px;
+  }
+  div.rating {
+    padding-left: 118px
+  }
+  table.book_metadata {
+    clear: both;
   }
   #nav-links a {
     margin: 8px 0;
@@ -388,8 +399,8 @@ header a {
   #sidenav-right {
     display: none;
   }
-  main h1, main h2, main nav, main table, main article {
-    padding: 8px;
+  main {
+    padding: 8px
   }
 }
 @media (max-width: 700px) {
