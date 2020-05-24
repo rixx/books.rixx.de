@@ -1,16 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-  <nav id="year-nav">
-    {% for iyear in all_years %}
-    <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear or "other" }}"{% endif %}>
-      {{ iyear or "other" }}
-    </a> ·
-    {% endfor %}
-    <a href="/reviews/by-author/">by author</a> ·
-    <a href="/reviews/by-title/">by title</a> ·
-    <a href="/reviews/by-series/"class="active">by series</a>
-  </nav>
+
+  {% include "_year_nav.html" %}
 
   <h2>All books I've read by series</h2>
 

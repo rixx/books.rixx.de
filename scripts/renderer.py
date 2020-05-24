@@ -1,10 +1,11 @@
 import datetime as dt
+import hashlib
 import itertools
 import os
 import pathlib
 import subprocess
-import hashlib
 import uuid
+from functools import partial
 
 import markdown
 import smartypants
@@ -41,16 +42,10 @@ def get_relevant_date(review):
     return dt.datetime.strptime(result, "%Y-%m-%d").date()
 
 
-def render_individual_review(env, *, review):
-    template = env.get_template("review.html")
-    html = template.render(
-        review=review,
-        title=f"Review of {review.metadata['book']['title']}",
-        active="read",
-    )
-
-    out_name = review.get_core_path() / "index.html"
-    out_path = pathlib.Path("_html") / out_name
+def render_page(env, template_name, path, **context):
+    template = env.get_template(template_name)
+    html = template.render(**context)
+    out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
 
@@ -118,127 +113,134 @@ def build_site():
         loader=FileSystemLoader("templates"),
         autoescape=select_autoescape(["html", "xml"]),
     )
-
     env.filters["render_markdown"] = render_markdown
     env.filters["render_date"] = render_date
     env.filters["smartypants"] = smartypants.smartypants
     env.filters["thumbnail_1x"] = thumbnail_1x
+    render = partial(render_page, env=env)
 
     create_thumbnails()
 
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    all_reviews = books.load_reviews()
-    all_reviews = sorted(
-        all_reviews,
-        key=lambda review: str(review.metadata["review"]["date_read"]),
-        reverse=True,
-    )
+    this_year = str(dt.datetime.now().year)
+    all_reviews = list(books.load_reviews())
+    all_reading = list(books.load_currently_reading())
+    all_plans = list(books.load_to_read())
+    all_events = all_plans + all_reading + all_reviews
+
+    for element in all_events:
+        element.relevant_date = get_relevant_date(element)
+
+    all_reviews = sorted(all_reviews, key=lambda x: x.relevant_date, reverse=True)
+    all_reading = sorted(all_reading, key=lambda x: x.relevant_date, reverse=True)
+    all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
+    all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
 
     # Render single review pages
 
     for review in all_reviews:
-        render_individual_review(env, review=review)
-
-    # Render the "all reviews" page
-
-    this_year = str(dt.datetime.now().year)
-    all_years = sorted(
-        list(
-            set(
-                str(review.metadata["review"]["date_read"])[:4]
-                for review in all_reviews
-            )
-        ),
-        reverse=True,
-    )
-    template = env.get_template("list_reviews.html")
-    for (year, reviews) in itertools.groupby(
-        all_reviews, key=lambda rev: str(rev.metadata["review"]["date_read"])[:4]
-    ):
-        html = template.render(
-            reviews=list(reviews),
-            all_years=all_years,
-            year=year,
-            this_year=this_year,
-            title="Books I’ve read",
+        render(
+            "review.html",
+            review.get_core_path() / "index.html",
+            review=review,
+            title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
 
-        out_path = (
-            pathlib.Path("_html") / "reviews" / (str(year) or "other") / "index.html"
+    # Render the "all reviews" page
+
+    all_years = sorted(
+        list(set(review.relevant_date.year for review in all_reviews)), reverse=True,
+    )
+    for (year, reviews) in itertools.groupby(
+        all_reviews, key=lambda rev: rev.relevant_data.year
+    ):
+        render(
+            "list_reviews.html",
+            f"reviews/{year or 'other'}/index.html",
+            reviews=list(reviews),
+            all_years=all_years,
+            year=year,
+            current_year=(year == this_year),
+            title="Books I’ve read",
+            active="read",
         )
-        out_path.parent.mkdir(exist_ok=True, parents=True)
-        out_path.write_text(html)
         if year == this_year:
-            out_path = pathlib.Path("_html") / "reviews/index.html"
-            out_path.write_text(html)
+            render(
+                "list_reviews.html",
+                "reviews/index.html",
+                reviews=list(reviews),
+                all_years=all_years,
+                year=year,
+                current_year=True,
+                title="Books I’ve read",
+                active="read",
+            )
 
     # Render the "by title" page
 
-    template = env.get_template("list_by_title.html")
-    title_reviews = [
-        (letter, list(reviews))
-        for (letter, reviews) in itertools.groupby(
-            sorted(all_reviews, key=lambda rev: rev.metadata["book"]["title"]),
-            key=lambda rev: (
-                rev.metadata["book"]["title"][0].upper()
-                if rev.metadata["book"]["title"][0].isalpha()
-                else "_"
-            ),
-        )
-    ]
     title_reviews = sorted(
-        title_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper())
+        [
+            (letter, list(reviews))
+            for (letter, reviews) in itertools.groupby(
+                sorted(all_reviews, key=lambda rev: rev.metadata["book"]["title"]),
+                key=lambda rev: (
+                    rev.metadata["book"]["title"][0].upper()
+                    if rev.metadata["book"]["title"][0].isalpha()
+                    else "_"
+                ),
+            )
+        ],
+        key=lambda x: (not x[0].isalpha(), x[0].upper()),
     )
-    html = template.render(
+    render(
+        "list_by_title.html",
+        "reviews/by-title/index.html",
         reviews=title_reviews,
         all_years=all_years,
         title="Books by title",
-        active="by-title",
+        active="read",
+        year="by-title",
     )
-    out_path = pathlib.Path("_html") / "reviews" / "by-title/index.html"
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
 
     # Render the "by author" page
 
-    template = env.get_template("list_by_author.html")
-    author_reviews = [  # don't @ me
-        (letter, list(authors))
-        for letter, authors in itertools.groupby(
-            sorted(
-                [
-                    (author, list(reviews))
-                    for (author, reviews) in itertools.groupby(
-                        sorted(
-                            all_reviews, key=lambda rev: rev.metadata["book"]["author"]
-                        ),
-                        key=lambda review: review.metadata["book"]["author"],
-                    )
-                ],
-                key=lambda x: x[0].upper(),
-            ),
-            key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
-        )
-    ]
     author_reviews = sorted(
-        author_reviews, key=lambda x: (not x[0].isalpha(), x[0].upper())
+        [  # don't @ me, this is beautiful
+            (letter, list(authors))
+            for letter, authors in itertools.groupby(
+                sorted(
+                    [
+                        (author, list(reviews))
+                        for (author, reviews) in itertools.groupby(
+                            sorted(
+                                all_reviews,
+                                key=lambda rev: rev.metadata["book"]["author"],
+                            ),
+                            key=lambda review: review.metadata["book"]["author"],
+                        )
+                    ],
+                    key=lambda x: x[0].upper(),
+                ),
+                key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
+            )
+        ],
+        key=lambda x: (not x[0].isalpha(), x[0].upper()),
     )
-    html = template.render(
+    render(
+        "list_by_author.html",
+        "reviews/by-author/index.html",
         reviews=author_reviews,
         all_years=all_years,
         title="Books by author",
-        active="by-author",
+        active="read",
+        year="by-author",
     )
-    out_path = pathlib.Path("_html") / "reviews" / "by-author/index.html"
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
 
     # Render the "by series" page
 
-    template = env.get_template("list_by_series.html")
     series_reviews = [
         (
             series,
@@ -266,52 +268,38 @@ def build_site():
         [s for s in series_reviews if len(s[1]) > 1],
         key=lambda x: (not x[0][0].isalpha(), x[0].upper()),
     )
-    html = template.render(
+    render(
+        "list_by_series.html",
+        "reviews/by-series/index.html",
         reviews=series_reviews,
         all_years=all_years,
         title="Books by series",
-        active="by-series",
+        active="read",
+        year="by-series",
     )
-    out_path = pathlib.Path("_html") / "reviews" / "by-series/index.html"
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
 
     # Render the "currently reading" page
 
-    all_reading = list(books.load_currently_reading())
-
-    template = env.get_template("list_reading.html")
-    html = template.render(
-        all_reading=all_reading, title="Books I’m currently reading", active="reading"
+    render(
+        "list_reading.html",
+        "reading/index.html",
+        all_reading=all_reading,
+        title="Books I’m currently reading",
+        active="reading",
     )
-
-    out_path = pathlib.Path("_html") / "reading/index.html"
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
 
     # Render the "want to read" page
 
-    all_plans = list(books.load_to_read())
-
-    all_plans = sorted(
-        all_plans, key=lambda plan: plan.metadata["plan"]["date_added"], reverse=True
+    render(
+        "list_to_read.html",
+        "to-read/index.html",
+        all_plans=all_plans,
+        title="Books i want to read",
+        active="to-read",
     )
-
-    template = env.get_template("list_to_read.html")
-    html = template.render(
-        all_plans=all_plans, title="Books i want to read", active="to-read"
-    )
-
-    out_path = pathlib.Path("_html") / "to-read/index.html"
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
 
     # Render feed
 
-    all_events = all_plans + all_reading + all_reviews
-    for element in all_events:
-        element.relevant_date = get_relevant_date(element)
-    all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
     generate_events = all_events[:20]
     for event in generate_events:
         m = hashlib.md5()
@@ -320,19 +308,14 @@ def build_site():
         )
         event.feed_uuid = str(uuid.UUID(m.hexdigest()))
 
-    template = env.get_template("feed.atom")
-    html = template.render(events=generate_events)
-    out_path = pathlib.Path("_html") / "feed.atom"
-    out_path.write_text(html)
+    render("feed.atom", "feed.atom", events=generate_events)
 
     # Render the front page
-
-    index_template = env.get_template("index.html")
-    html = index_template.render(
-        text=open("src/index.md").read(), reviews=all_reviews[:5]
+    render(
+        "index.html",
+        "index.html",
+        text=open("src/index.md").read(),
+        reviews=all_reviews[:5],
     )
-
-    index_path = pathlib.Path("_html") / "index.html"
-    index_path.write_text(html)
 
     print("✨ Rendered HTML files to _html ✨")
