@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2018-03-19'
 ---
+
+Strong +1 by [Eva](https://booksinthefridge.at/2014/11/26/)
