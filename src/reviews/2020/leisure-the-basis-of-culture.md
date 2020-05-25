@@ -2,7 +2,7 @@
 book:
   author: Josef Pieper, Gerald Malsbary
   cover_image: leisure-the-basis-of-culture.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389227160l/767958.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781890318352-L.jpg
   goodreads: '767958'
   isbn10: '1890318353'
   isbn13: '9781890318352'
@@ -10,12 +10,12 @@ book:
   publication_year: '1948'
   slug: leisure-the-basis-of-culture
   title: 'Leisure: The Basis of Culture'
+plan:
+  date_added: 2020-05-24
 review:
   date_read: 2020-05-24
   date_started: 2020-05-16
   rating: 5
-plan:
-  date_added: 2020-05-24
 ---
 
 This book is A Lot. It's basically a Christian philosopher arguing for the value of Tao, that is, work-transcending
