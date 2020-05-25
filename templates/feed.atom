@@ -14,7 +14,7 @@
       <link href="https://books.rixx.de/to-read"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <summary>I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text }}</summary>
+      <summary>I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | safe }}</summary>
     </entry>
     {%- elif event.entry_type == "currently-reading" -%}
     <entry>
@@ -22,7 +22,7 @@
       <link href="https://books.rixx.de/reading"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <summary>I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text }}</summary>
+      <summary>I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | safe }}</summary>
     </entry>
     {%- else -%}
     <entry>
@@ -32,7 +32,7 @@
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
       <summary>I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.
 
-{{ event.text }}</summary>
+{{ event.text | render_markdown | safe }}</summary>
     </entry>
     {%- endif -%}
   {%- endfor -%}
