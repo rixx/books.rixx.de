@@ -125,7 +125,7 @@ def build_site():
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    this_year = str(dt.datetime.now().year)
+    this_year = dt.datetime.now().year
     all_reviews = list(books.load_reviews())
     all_reading = list(books.load_currently_reading())
     all_plans = list(books.load_to_read())
@@ -158,26 +158,20 @@ def build_site():
     for (year, reviews) in itertools.groupby(
         all_reviews, key=lambda rev: rev.relevant_date.year
     ):
+        kwargs = {
+            "reviews": list(reviews),
+            "all_years": all_years,
+            "year": year,
+            "current_year": (year == this_year),
+            "title": "Books I’ve read",
+            "active": "read",
+        }
         render(
-            "list_reviews.html",
-            f"reviews/{year or 'other'}/index.html",
-            reviews=list(reviews),
-            all_years=all_years,
-            year=year,
-            current_year=(year == this_year),
-            title="Books I’ve read",
-            active="read",
+            "list_reviews.html", f"reviews/{year or 'other'}/index.html", **kwargs,
         )
         if year == this_year:
             render(
-                "list_reviews.html",
-                "reviews/index.html",
-                reviews=list(reviews),
-                all_years=all_years,
-                year=year,
-                current_year=True,
-                title="Books I’ve read",
-                active="read",
+                "list_reviews.html", "reviews/index.html", **kwargs,
             )
 
     # Render the "by title" page
