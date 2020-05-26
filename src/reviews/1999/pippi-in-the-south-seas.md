@@ -37,4 +37,5 @@ makes for a better read. If you're looking for more stories of strong and wild g
 daughter](https://books.rixx.de/reviews/2001/ronia-the-robbers-daughter/) would be a good way to get started.
 
 If it's the absurd anarchist vibe that you're looking for, try the [first
-part](https://books.rixx.de/reviews/2001/pippi-langstrumpf), which is a bit stronger.
+part](https://books.rixx.de/reviews/2001/pippi-langstrumpf), which is a bit stronger, or
+[Matilda](https://books.rixx.de/reviews/2004/matilda)

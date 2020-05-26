@@ -20,3 +20,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+The second part of the [Sams](https://books.rixx.de/reviews/2000/eine-woche-voller-samstage) is not bad, it just doesn't
+stand out either. I have little memory of the plot, and what I remember is not extremely amazing. Stick with the first
+part, imo.
