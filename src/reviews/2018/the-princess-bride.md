@@ -19,4 +19,6 @@ review:
   rating: 5
 ---
 
-Well, this was just plain funny. Great storytelling, great pacing, great everything. I caught myself looking up if William Goldman really had a son. He hasn't, thank god.<br /><br />I probably should go and watch the movie now.
+Well, this was just plain funny. Great storytelling, great pacing, great everything. I caught myself looking up if William Goldman really had a son. He hasn't, thank god.
+
+I probably should go and watch the movie now.

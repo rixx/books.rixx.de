@@ -19,4 +19,6 @@ review:
   rating: 4
 ---
 
-The Wolf in the Whale is delightful fantasy, centered around a small group of Inuit during the phase of christianisation of the vikings. *Jordanna Max Brodsky*, the author, is a dedicated historian, and it shows – the book is never dry or boring, but the amount of research makes for a very solid base on which the book builds wonderfully (for the nerds, there are appendices that are highly interesting, too!)<br /><br />The book explores gender roles in different societies (and fluidity of gender, etc), the roles of religion and tradition, cross-cultural interaction, personal growth when clashing with one's society. But it also is about magic wolves, Inuit and viking gods, war, and surviving the cold, and so much more. I enjoyed this book a lot.
+The Wolf in the Whale is delightful fantasy, centered around a small group of Inuit during the phase of christianisation of the vikings. *Jordanna Max Brodsky*, the author, is a dedicated historian, and it shows – the book is never dry or boring, but the amount of research makes for a very solid base on which the book builds wonderfully (for the nerds, there are appendices that are highly interesting, too!)
+
+The book explores gender roles in different societies (and fluidity of gender, etc), the roles of religion and tradition, cross-cultural interaction, personal growth when clashing with one's society. But it also is about magic wolves, Inuit and viking gods, war, and surviving the cold, and so much more. I enjoyed this book a lot.

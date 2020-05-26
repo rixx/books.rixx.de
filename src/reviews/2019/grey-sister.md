@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-I liked Red Sister by *Mark Lawrence*. **Grey Sister** was an appropriate second volume – It was a good-ish second part to Red Sister, but I felt it lacked a sense of cohesiveness. For a long time it just moved from one action after the other, switching to a bit heavy-handed character development from time to time. The protagonist is also too successful with most things she does, and then there's some torture/pain/loss thrown in for balance. Language felt a bit inconsistent, too: mostly very good standard storytelling (think Sanderson), then suddenly flowery.<br /><br />Don't get me wrong, though: the book is lots of fun if you like action and tension, and it's not stupid action either. It's well-written, solid action-focused fantasy – no more, no less.
+I liked Red Sister by *Mark Lawrence*. **Grey Sister** was an appropriate second volume – It was a good-ish second part to Red Sister, but I felt it lacked a sense of cohesiveness. For a long time it just moved from one action after the other, switching to a bit heavy-handed character development from time to time. The protagonist is also too successful with most things she does, and then there's some torture/pain/loss thrown in for balance. Language felt a bit inconsistent, too: mostly very good standard storytelling (think Sanderson), then suddenly flowery.
+
+Don't get me wrong, though: the book is lots of fun if you like action and tension, and it's not stupid action either. It's well-written, solid action-focused fantasy – no more, no less.

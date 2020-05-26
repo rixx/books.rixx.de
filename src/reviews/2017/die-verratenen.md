@@ -21,4 +21,6 @@ review:
   rating: 5
 ---
 
-Mehr, bitte!<br /><br />Rias Geschichte in der Sphäre, in der sie Nummer 7 ist und eine großartige Zukunft vor sich hat, und … außerhalb, in der Wildnis und bei einem der Clans, gemeinsam mit den fünf anderen Fliehenden.
+Mehr, bitte!
+
+Rias Geschichte in der Sphäre, in der sie Nummer 7 ist und eine großartige Zukunft vor sich hat, und … außerhalb, in der Wildnis und bei einem der Clans, gemeinsam mit den fünf anderen Fliehenden.

@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-This Laundry novel features Alex as the protagonist, going up against elvish aliens and his family's expectations... He's not the most lovable character we've seen so far, but he works out as a fairly generic protagonist. <br /><br />More notably, Stross gives us much more background, backstory and explanations than usually, which took some getting used to. It's not exactly bad, but you'll need to think less for yourself than in the average Laundry novel.
+This Laundry novel features Alex as the protagonist, going up against elvish aliens and his family's expectations... He's not the most lovable character we've seen so far, but he works out as a fairly generic protagonist.
+
+More notably, Stross gives us much more background, backstory and explanations than usually, which took some getting used to. It's not exactly bad, but you'll need to think less for yourself than in the average Laundry novel.

@@ -19,4 +19,6 @@ review:
   rating: 4
 ---
 
-The Tea Master and the Detective by *Aliette de Bodard* is a nie short scifi novella in a world where different sorts of teas can have a profound impact on how the human brain works, there is deep space that behaves entirely different from normal space, and we have sentient ships.<br /><br />I can't really give you an objective review (even less than usually, I mean) because I'm a sucker for sentient space ships. These ones are very well done, I felt, and the duo of the Tea Master and the Detective worked very well. And if it feels like Sherlock Holmes coupled with an Ann Leckie world – so what? I would've read and enjoyed a full novel of this instead of just a novella (though it was very well-paced).
+The Tea Master and the Detective by *Aliette de Bodard* is a nie short scifi novella in a world where different sorts of teas can have a profound impact on how the human brain works, there is deep space that behaves entirely different from normal space, and we have sentient ships.
+
+I can't really give you an objective review (even less than usually, I mean) because I'm a sucker for sentient space ships. These ones are very well done, I felt, and the duo of the Tea Master and the Detective worked very well. And if it feels like Sherlock Holmes coupled with an Ann Leckie world – so what? I would've read and enjoyed a full novel of this instead of just a novella (though it was very well-paced).

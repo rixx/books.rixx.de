@@ -19,4 +19,6 @@ review:
   rating: 4
 ---
 
-This one is short and nice (well, no. Not nice, but if you know Punch and Judy shows, you'll enjoy it). Available online for free on lspace: <a target="_blank" href="http://www.lspace.org/books/toc/toc-english.html#fn1" rel="nofollow">http://www.lspace.org/books/toc/toc-e...</a>.<br /><br />Read more Pratchett, yo.
+This one is short and nice (well, no. Not nice, but if you know Punch and Judy shows, you'll enjoy it). Available online for free on lspace: <a target="_blank" href="http://www.lspace.org/books/toc/toc-english.html#fn1" rel="nofollow">http://www.lspace.org/books/toc/toc-e...</a>.
+
+Read more Pratchett, yo.

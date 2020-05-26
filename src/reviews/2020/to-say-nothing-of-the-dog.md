@@ -21,4 +21,6 @@ review:
   rating: 4
 ---
 
-This book as good as advertised – even a bit better than that, because part of it is targeted at people who had their heart broken by Gaudy Night, which I just had two weeks ago. I'm very happy I didn't accidentally read this one before Gaudy Night, that would've ruined the reading experience quite a bit.<br /><br />Other than that, To Say Nothing of the Dog also very much shines on its own merits. The dry humour, the direct and indirect quotes, the impeccable research and convoluted-in-a-good-way plot only work because the characters are well built and as usual for Connie Willis everything feels real in a quietly frustrating way.
+This book as good as advertised – even a bit better than that, because part of it is targeted at people who had their heart broken by Gaudy Night, which I just had two weeks ago. I'm very happy I didn't accidentally read this one before Gaudy Night, that would've ruined the reading experience quite a bit.
+
+Other than that, To Say Nothing of the Dog also very much shines on its own merits. The dry humour, the direct and indirect quotes, the impeccable research and convoluted-in-a-good-way plot only work because the characters are well built and as usual for Connie Willis everything feels real in a quietly frustrating way.

@@ -19,4 +19,6 @@ review:
   rating: 3
 ---
 
-So, thriller is most definitely not my genre, but I can't deny that Stephen King is a master - both in his genre and with words in general. He paints incredibly vivid people, murdering for reasons they think right, and dealing with the consequences.<br /><br />While I'm still not into thrillers, I can't deny the pull these stories have, and I'm sure I'll try a full-length King novel in the future.
+So, thriller is most definitely not my genre, but I can't deny that Stephen King is a master - both in his genre and with words in general. He paints incredibly vivid people, murdering for reasons they think right, and dealing with the consequences.
+
+While I'm still not into thrillers, I can't deny the pull these stories have, and I'm sure I'll try a full-length King novel in the future.

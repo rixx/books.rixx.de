@@ -21,4 +21,6 @@ review:
   rating: 4
 ---
 
-In many ways, Persepolis Rising was a gamble. How do we react to our heros having grown older together, all of a sudden? How do we treat non-standard story arcs? How do we react when we don't have a whole lot of movement in this huge space opera 'verse, and the characters we get to see are … very human, and not always appealing?<br /><br />For me, this gamble paid off tremendously. The Expanse continues to write to my tastes and standards, and Persepolis Rising, with all its discontinuities, and defeats, and character development overtaking plot pacing, was a great read.
+In many ways, Persepolis Rising was a gamble. How do we react to our heros having grown older together, all of a sudden? How do we treat non-standard story arcs? How do we react when we don't have a whole lot of movement in this huge space opera 'verse, and the characters we get to see are … very human, and not always appealing?
+
+For me, this gamble paid off tremendously. The Expanse continues to write to my tastes and standards, and Persepolis Rising, with all its discontinuities, and defeats, and character development overtaking plot pacing, was a great read.

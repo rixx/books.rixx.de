@@ -21,4 +21,10 @@ review:
   rating: 4
 ---
 
-(This review is only to make me remember what happened in a book and why I liked it.)<br /><br />Second Laundry Book, Bob is slowly moving up the ladder, although Mo's apparently at least twice as fast and ten times as deadly as him. Comes with a spin-off, Pimpf, about Bob and a planted intern battling demons in Neverwinter Nights.<br /><br />Slightly better written than the Atrocity Archives, and much more amusing the second time I read it, mostly because you get to appreciate Bob as Bond Girl more. Erm, yeah, here's the story:<br /><br />Basically, something even BLUE HADES is afraid of wants to get free, and uses a devious billionaire and his wife (who works in surveillance cosmetics) to achieve its goal. They set up a hero trap (people are compelled to follow Bond movie behaviour), which leads to Bob getting destinyentangled with a Black Chamber operative, Ramona. (Obviously, the Black Chamber want the artifact to themselves.) Everything seems to go wrong, because neither Bob nor Ramona realize that Bob is the Good Bond Girl and Mo is Bond. All's well in the end, including a proposal (Bob to Mo), to break free of the Bond thing ;)
+(This review is only to make me remember what happened in a book and why I liked it.)
+
+Second Laundry Book, Bob is slowly moving up the ladder, although Mo's apparently at least twice as fast and ten times as deadly as him. Comes with a spin-off, Pimpf, about Bob and a planted intern battling demons in Neverwinter Nights.
+
+Slightly better written than the Atrocity Archives, and much more amusing the second time I read it, mostly because you get to appreciate Bob as Bond Girl more. Erm, yeah, here's the story:
+
+Basically, something even BLUE HADES is afraid of wants to get free, and uses a devious billionaire and his wife (who works in surveillance cosmetics) to achieve its goal. They set up a hero trap (people are compelled to follow Bond movie behaviour), which leads to Bob getting destinyentangled with a Black Chamber operative, Ramona. (Obviously, the Black Chamber want the artifact to themselves.) Everything seems to go wrong, because neither Bob nor Ramona realize that Bob is the Good Bond Girl and Mo is Bond. All's well in the end, including a proposal (Bob to Mo), to break free of the Bond thing ;)

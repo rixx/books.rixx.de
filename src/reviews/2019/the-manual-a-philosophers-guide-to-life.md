@@ -18,4 +18,6 @@ review:
   rating: 4
 ---
 
-I had a couple of stressful weeks, with both positive and negative experiences with wonderful people. When I start losing my equilibrium (ok, no, when I have irrevocably lost my equilibrium), I sometimes go back and read **The Manual**, a very short, 50-pages-at-most read of the Stoic principles by Epictetus.<br /><br />I don't agree with some parts of Stoic philosophy, mostly regarding the natural order of things and how people connect to one another, but boy are they ever good at reminding you that you have a sphere of influence, and attaching yourself too hard to things you can't control leads to suffering. The consequences can be disputed, but in any case this book is short, insightful, and can provide a calming influence in just a short evening read.
+I had a couple of stressful weeks, with both positive and negative experiences with wonderful people. When I start losing my equilibrium (ok, no, when I have irrevocably lost my equilibrium), I sometimes go back and read **The Manual**, a very short, 50-pages-at-most read of the Stoic principles by Epictetus.
+
+I don't agree with some parts of Stoic philosophy, mostly regarding the natural order of things and how people connect to one another, but boy are they ever good at reminding you that you have a sphere of influence, and attaching yourself too hard to things you can't control leads to suffering. The consequences can be disputed, but in any case this book is short, insightful, and can provide a calming influence in just a short evening read.

@@ -21,4 +21,6 @@ review:
   rating: 5
 ---
 
-Wow! If you're new to the series, … start here. This book has all the fun, and action, and, y'know, forwards momentum.<br /><br />(Our beloved hero is crippled, but clever, and builds a mercenary army by accident. Yep.)
+Wow! If you're new to the series, … start here. This book has all the fun, and action, and, y'know, forwards momentum.
+
+(Our beloved hero is crippled, but clever, and builds a mercenary army by accident. Yep.)

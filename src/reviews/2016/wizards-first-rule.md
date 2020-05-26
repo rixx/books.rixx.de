@@ -21,4 +21,6 @@ review:
   rating: 2
 ---
 
-It's very much classic fantasy (discounting the torture, maybe). Richard, the woman, the wizard, the quest, the traitor, the evil antagonist.<br /><br />The author has a bad case of "tell, don't show", and his language and phrasing are far from lyrical. The story has some very strong parts, but feels mediocre and generic in between. The book's saving grace is the detailed world and world building that allows the reader to forget everything else (including the story and the dull language).
+It's very much classic fantasy (discounting the torture, maybe). Richard, the woman, the wizard, the quest, the traitor, the evil antagonist.
+
+The author has a bad case of "tell, don't show", and his language and phrasing are far from lyrical. The story has some very strong parts, but feels mediocre and generic in between. The book's saving grace is the detailed world and world building that allows the reader to forget everything else (including the story and the dull language).

@@ -19,4 +19,6 @@ review:
   rating: 1
 ---
 
-Mean Girl goes Groundhog Day, finding ethics, true love and inevitable death.<br /><br />Just lazy writing in many parts. Nothing is ever explained and the author revels wayy too much in the final self sacrifice. Eugh.
+Mean Girl goes Groundhog Day, finding ethics, true love and inevitable death.
+
+Just lazy writing in many parts. Nothing is ever explained and the author revels wayy too much in the final self sacrifice. Eugh.

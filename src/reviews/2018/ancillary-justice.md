@@ -19,4 +19,8 @@ review:
   rating: 5
 ---
 
-Wow wow wow.<br /><br />Wow.<br /><br />Great pacing, great characters, great world, great conflict. Great scifi. I'm impressed, and fascinated, and I hope the next books can live up to this one. But even without follow-up books, this would be … amazing. (Also, hey, meaningful generic femininum was a lot of fun.)
+Wow wow wow.
+
+Wow.
+
+Great pacing, great characters, great world, great conflict. Great scifi. I'm impressed, and fascinated, and I hope the next books can live up to this one. But even without follow-up books, this would be … amazing. (Also, hey, meaningful generic femininum was a lot of fun.)

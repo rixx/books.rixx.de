@@ -19,4 +19,7 @@ review:
   rating: 3
 ---
 
-Short, readable, to the point. The predictive parts were outdated shortly after publishing the manifesto, but the analytical parts were highly interesting and often spot on.<br /><br />Reading this primary source corrected a couple of misunderstandings for me: I had laboured under an incorrect understanding of bourgeoisie, for example, which here is used to describe startup culture perfectly (honestly.)<br />There's also a section that draws a distinction between reactionary socialism and conservative socialism, which was helpful considering that I tend to use those terms interchangeably (and also mostly see them used that way).
+Short, readable, to the point. The predictive parts were outdated shortly after publishing the manifesto, but the analytical parts were highly interesting and often spot on.
+
+Reading this primary source corrected a couple of misunderstandings for me: I had laboured under an incorrect understanding of bourgeoisie, for example, which here is used to describe startup culture perfectly (honestly.)
+There's also a section that draws a distinction between reactionary socialism and conservative socialism, which was helpful considering that I tend to use those terms interchangeably (and also mostly see them used that way).

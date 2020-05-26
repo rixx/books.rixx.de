@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-2-3 stars for me. This is … space fantasy? A space epic? I wouldn't call it scifi, and it reminds me of Star Wars (although more thought was put into it). The writing had some seriously weak moments, large plot elements were predictable, and, the worst, all characters were clearly good or evil. It was never phrased like that, but c'mon. Seriously, that's no fun.<br /><br />I liked the backstory, the different types of human and alien settlements (and of course the Roamers, which are clearly the coolest. But again, they're meant to be the coolest, meh). The story was, well, ok.
+2-3 stars for me. This is … space fantasy? A space epic? I wouldn't call it scifi, and it reminds me of Star Wars (although more thought was put into it). The writing had some seriously weak moments, large plot elements were predictable, and, the worst, all characters were clearly good or evil. It was never phrased like that, but c'mon. Seriously, that's no fun.
+
+I liked the backstory, the different types of human and alien settlements (and of course the Roamers, which are clearly the coolest. But again, they're meant to be the coolest, meh). The story was, well, ok.

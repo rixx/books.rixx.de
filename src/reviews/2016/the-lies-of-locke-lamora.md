@@ -21,4 +21,6 @@ review:
   rating: 4
 ---
 
-Wow. Wooow. I think this book gripped me as much or even more than Name of the Wind, and that's saying something. Locke, Jean, Bug, the twins and Chains grew close to my heart really soon. There *is* a phase in the beginning where the book is going slowly and the characters don't mean anything to you, but it works well in hindsight, and it didn't feel like it was dragging on to me.<br /><br />Locke and the Gentleman Bastards are the best, most daring thieves in a complete (if slightly mysterious, what's with the Eldren?!) world - who are suddenly thrown from grand thievery for the fun of it into a battle for their lives. Oh Locke. Oh Jean. My heart broke for you both over and over again.
+Wow. Wooow. I think this book gripped me as much or even more than Name of the Wind, and that's saying something. Locke, Jean, Bug, the twins and Chains grew close to my heart really soon. There *is* a phase in the beginning where the book is going slowly and the characters don't mean anything to you, but it works well in hindsight, and it didn't feel like it was dragging on to me.
+
+Locke and the Gentleman Bastards are the best, most daring thieves in a complete (if slightly mysterious, what's with the Eldren?!) world - who are suddenly thrown from grand thievery for the fun of it into a battle for their lives. Oh Locke. Oh Jean. My heart broke for you both over and over again.

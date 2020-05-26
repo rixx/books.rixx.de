@@ -8,10 +8,10 @@ book:
   isbn13: '9780152054915'
   pages: '432'
   publication_year: '2005'
-  slug: the-wizards-dilemma
-  title: The Wizard's Dilemma
   series: Young Wizards
   series_position: '5'
+  slug: the-wizards-dilemma
+  title: The Wizard's Dilemma
 plan:
   date_added: '2016-05-03'
 review:
@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-Nita faces temptation … a lot. Felt like a Hiob story in many ways. She has to deal with her mother dying and learns how to change whole universes to try and deal with it. Reminded me a lot of Buffy in the same situation, only a lot younger (but including the outcome and the younger sister, btw).<br /><br />I didn't quite like how the criticizm of an overly-dependent Nita was addressed here, because I think it has some merit. Still an enjoyable book, especially interactions with the Advisory, but I hope that the next one will be more like High Wizardry or at least the first two in the series.
+Nita faces temptation … a lot. Felt like a Hiob story in many ways. She has to deal with her mother dying and learns how to change whole universes to try and deal with it. Reminded me a lot of Buffy in the same situation, only a lot younger (but including the outcome and the younger sister, btw).
+
+I didn't quite like how the criticizm of an overly-dependent Nita was addressed here, because I think it has some merit. Still an enjoyable book, especially interactions with the Advisory, but I hope that the next one will be more like High Wizardry or at least the first two in the series.

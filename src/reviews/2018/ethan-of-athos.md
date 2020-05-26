@@ -21,4 +21,5 @@ review:
   rating: 5
 ---
 
-Brilliant fun! Take this mostly horrible scifi concept of an all-female planet, reverse it to an all-male planet, then take it *seriously*. This poor protagonist doctor, sent out into the hostile and horrfyingly feminine universe, meets the brilliant Ellie Quinn of all people. It was SO MUCH FUN.<br />(Also, we get a gay happy end, in a way? Aww<a target="_blank" href="http://www" rel="nofollow">www</a>.)
+Brilliant fun! Take this mostly horrible scifi concept of an all-female planet, reverse it to an all-male planet, then take it *seriously*. This poor protagonist doctor, sent out into the hostile and horrfyingly feminine universe, meets the brilliant Ellie Quinn of all people. It was SO MUCH FUN.
+(Also, we get a gay happy end, in a way? Aww<a target="_blank" href="http://www" rel="nofollow">www</a>.)

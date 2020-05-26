@@ -18,4 +18,10 @@ review:
   rating: 2
 ---
 
-This is an alright book if you want to build a "community" for a corporate entity. It tries to provide more than that, but everything it suggests feels just slightly icky and tainted with this corporate language. But it does provide actionable advice, and a solid focus on engagement and growth.<br /><br />It also presents an impressive collection of well-researched current examples for communities like Twitch. Sadly, no failures are examined, so the survivorship bias is strong here.<br /><br />For an advice collection geared towards corporate and marketing cultures, it completely skips over money, employment, and compensation. This is definitely a difficult and contentious topic when building a community around a product, so I'm surprised this was left out.<br /><br />Side note: there is no groundwork, no theory to stand on, which would have interested me a lot.
+This is an alright book if you want to build a "community" for a corporate entity. It tries to provide more than that, but everything it suggests feels just slightly icky and tainted with this corporate language. But it does provide actionable advice, and a solid focus on engagement and growth.
+
+It also presents an impressive collection of well-researched current examples for communities like Twitch. Sadly, no failures are examined, so the survivorship bias is strong here.
+
+For an advice collection geared towards corporate and marketing cultures, it completely skips over money, employment, and compensation. This is definitely a difficult and contentious topic when building a community around a product, so I'm surprised this was left out.
+
+Side note: there is no groundwork, no theory to stand on, which would have interested me a lot.

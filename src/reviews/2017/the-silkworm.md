@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-Nice reading! I really enjoyed this case, even though it was based in the literary world (which most authors cannot really write about well). Cormoran continues to be a really cool lead – neither a hero, nor an anti-hero, nor some kind of Mary Sue.<br /><br />Good tone and settings really drew me in.
+Nice reading! I really enjoyed this case, even though it was based in the literary world (which most authors cannot really write about well). Cormoran continues to be a really cool lead – neither a hero, nor an anti-hero, nor some kind of Mary Sue.
+
+Good tone and settings really drew me in.

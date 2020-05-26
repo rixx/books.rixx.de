@@ -17,4 +17,6 @@ review:
   rating: 4
 ---
 
-Story can be found here: <a target="_blank" href="https://thedreaming.moteofdust.com/1999/10/10/snow-glass-apples/" rel="nofollow">https://thedreaming.moteofdust.com/19...</a><br /><br />Well, what do you expect from Neil Gaiman tackling Snowhite from the perspective of the evil queen? It's great. The princess's heart was a nice touch.
+Story can be found here: <a target="_blank" href="https://thedreaming.moteofdust.com/1999/10/10/snow-glass-apples/" rel="nofollow">https://thedreaming.moteofdust.com/19...</a>
+
+Well, what do you expect from Neil Gaiman tackling Snowhite from the perspective of the evil queen? It's great. The princess's heart was a nice touch.

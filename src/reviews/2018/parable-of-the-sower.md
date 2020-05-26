@@ -21,4 +21,8 @@ review:
   rating: 3
 ---
 
-4.5 stars for me, but let's round it up.<br /><br />We see Lauren starting a new religion about God being Change in not-quite-post apocalyptic America. I think that's it.<br /><br />I'm not really sure where I stand on the mysticism, but the characters and characterizations and descriptions were so good, it doesn't even matter to my opinion that much.
+4.5 stars for me, but let's round it up.
+
+We see Lauren starting a new religion about God being Change in not-quite-post apocalyptic America. I think that's it.
+
+I'm not really sure where I stand on the mysticism, but the characters and characterizations and descriptions were so good, it doesn't even matter to my opinion that much.

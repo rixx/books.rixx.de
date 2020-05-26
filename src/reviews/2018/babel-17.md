@@ -19,4 +19,6 @@ review:
   rating: 5
 ---
 
-It's been a long time (apart from Too Like The Lightning) that I've read a novel that felt so tailored to me like **Babel-17**. I mean, it's a queer polyamorous scifi novel where linguistics are key, even to winning space battles, which there are plenty of. I have no words. It's also been the first time in a while that a novel brought me to tears.<br /><br />This is absolutely what scifi is supposed to be like. It's rapid, and fun, and deep, and thoughtful, and introduces alien concepts and human behaviour, and …. I can absolutely see why it won the very first Nebula Award – even though I was very surprised to hear it's as old as 1966. It doesn't feel aged at all.
+It's been a long time (apart from Too Like The Lightning) that I've read a novel that felt so tailored to me like **Babel-17**. I mean, it's a queer polyamorous scifi novel where linguistics are key, even to winning space battles, which there are plenty of. I have no words. It's also been the first time in a while that a novel brought me to tears.
+
+This is absolutely what scifi is supposed to be like. It's rapid, and fun, and deep, and thoughtful, and introduces alien concepts and human behaviour, and …. I can absolutely see why it won the very first Nebula Award – even though I was very surprised to hear it's as old as 1966. It doesn't feel aged at all.

@@ -19,4 +19,6 @@ review:
   rating: 5
 ---
 
-Uh boy! Pratchett goes to the time and place he is most nerdy about: Early Victorian London.<br /><br />The book is so charming and wonderful and funny (different humour, maybe even more enjoyable?). It is littered with actual people from that time, both well-known (Charlie and Victoria), and little-known (which makes them even more fascinating). I should have read this one much earlier, and I enjoyed it a lot.
+Uh boy! Pratchett goes to the time and place he is most nerdy about: Early Victorian London.
+
+The book is so charming and wonderful and funny (different humour, maybe even more enjoyable?). It is littered with actual people from that time, both well-known (Charlie and Victoria), and little-known (which makes them even more fascinating). I should have read this one much earlier, and I enjoyed it a lot.

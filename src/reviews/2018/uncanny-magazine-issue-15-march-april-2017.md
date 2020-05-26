@@ -16,4 +16,8 @@ review:
   rating: 4
 ---
 
-A multiverse scifi story! A convention of variations of the protagonist meet up – they discover divergence points, similarities, identities, and a body (of course, you *did* catch the Agatha Christie reference?).<br /><br />Thoroughly enjoyable, and rightfully among the Locust Recommended Reading 2017.<br /><br />You can find it online here: <a target="_blank" href="https://uncannymagazine.com/article/and-then-there-were-n-one/" rel="nofollow">https://uncannymagazine.com/article/a...</a>
+A multiverse scifi story! A convention of variations of the protagonist meet up – they discover divergence points, similarities, identities, and a body (of course, you *did* catch the Agatha Christie reference?).
+
+Thoroughly enjoyable, and rightfully among the Locust Recommended Reading 2017.
+
+You can find it online here: <a target="_blank" href="https://uncannymagazine.com/article/and-then-there-were-n-one/" rel="nofollow">https://uncannymagazine.com/article/a...</a>

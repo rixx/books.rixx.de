@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-I have absolutely no idea how to rate this book. For a while it felt like a two-star urban fantasy pulp novel with lots of shoot-em-up situations and, well, urban fantasy pulp banter. And then it turns around and has some really good plot twists, and even some seriously good settings and dialogues. I'll give it three stars, but in reality it's more like chunks of two-star stuff and four-star stuff mashed together.<br /><br />(I mean, we get to know the protagonist's father, a new girlfriend who kicks ass, is a porn star by choice and still gets painted very much as her own person, and the protagonist is offered a job as Lucifer … by Lucifer … because Lucy goes back to heaven after the zombie apocalypse. Right.)
+I have absolutely no idea how to rate this book. For a while it felt like a two-star urban fantasy pulp novel with lots of shoot-em-up situations and, well, urban fantasy pulp banter. And then it turns around and has some really good plot twists, and even some seriously good settings and dialogues. I'll give it three stars, but in reality it's more like chunks of two-star stuff and four-star stuff mashed together.
+
+(I mean, we get to know the protagonist's father, a new girlfriend who kicks ass, is a porn star by choice and still gets painted very much as her own person, and the protagonist is offered a job as Lucifer … by Lucifer … because Lucy goes back to heaven after the zombie apocalypse. Right.)

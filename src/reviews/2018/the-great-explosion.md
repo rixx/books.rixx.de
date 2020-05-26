@@ -19,4 +19,8 @@ review:
   rating: 5
 ---
 
-Aww, it's scifi from the 60s! It's witty, and funny, and sarcastic (but never quite mean). Love it a lot.<br /><br />The first half of the book explains the general situation, and allows us to get to know the ship's crew as they come into contact with three planets (but only one meaningful one, grown from a colony of nudists).<br /><br />The second half centers on an anarchist world and … it's pure joy. Go read it.
+Aww, it's scifi from the 60s! It's witty, and funny, and sarcastic (but never quite mean). Love it a lot.
+
+The first half of the book explains the general situation, and allows us to get to know the ship's crew as they come into contact with three planets (but only one meaningful one, grown from a colony of nudists).
+
+The second half centers on an anarchist world and … it's pure joy. Go read it.

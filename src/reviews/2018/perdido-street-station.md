@@ -21,4 +21,6 @@ review:
   rating: 4
 ---
 
-Wow, this book was … a lot to take in. I liked it very much. Getting thrown into an Ankh-Morporkesque city, discovering alien races, and characters, and social structures was awesome. I noted with thanks that there was very little of a conventional story arch, so that the overall direction of the story only grew really clear when reaching 50-65% of the story. The very clear-cut and very different characters were relatable and realistic, and the final twists were all the better for the fact that they were not positive.<br /><br />Also, screw those transcendent moths with their creepy fractal wings ewwwww.
+Wow, this book was … a lot to take in. I liked it very much. Getting thrown into an Ankh-Morporkesque city, discovering alien races, and characters, and social structures was awesome. I noted with thanks that there was very little of a conventional story arch, so that the overall direction of the story only grew really clear when reaching 50-65% of the story. The very clear-cut and very different characters were relatable and realistic, and the final twists were all the better for the fact that they were not positive.
+
+Also, screw those transcendent moths with their creepy fractal wings ewwwww.

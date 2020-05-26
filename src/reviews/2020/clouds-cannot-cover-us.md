@@ -18,4 +18,8 @@ review:
   rating: 4
 ---
 
-Rilke-style modern poetry, targeted to adolescents and adults. I don't read much poetry, but I *am* a fan of Rilke, for reference.<br /><br />Most of the poems in this book had a couple of lines in them that touched me – which is really good, as poetry goes. Some were not for me at all, and one or two just dropkicked me right in the feelings. I'm of the opinion that that is the best compliment you could give to a collection of poetry.<br /><br />It's a slim, well-printed volume that plays with words, with layout, with colours (even though it's just black-and-white). I recommend you read it. It's a small investment in time and money, and it might be good for your {mind/spirit/soul}.
+Rilke-style modern poetry, targeted to adolescents and adults. I don't read much poetry, but I *am* a fan of Rilke, for reference.
+
+Most of the poems in this book had a couple of lines in them that touched me – which is really good, as poetry goes. Some were not for me at all, and one or two just dropkicked me right in the feelings. I'm of the opinion that that is the best compliment you could give to a collection of poetry.
+
+It's a slim, well-printed volume that plays with words, with layout, with colours (even though it's just black-and-white). I recommend you read it. It's a small investment in time and money, and it might be good for your {mind/spirit/soul}.

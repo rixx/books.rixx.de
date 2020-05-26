@@ -20,4 +20,8 @@ review:
   rating: 3
 ---
 
-The Phoenix Project is a very nice management introduction for IT projects, talking about ITIL, about processes and about Agile Methods.<br /><br />It's only very basically made up to seem like a novel instead of a textbook, but if you accept it as such (a very entertaining textbook instead of a novel), it works really well.<br /><br />Also, the depiction of what can, must and will go wrong in IT Operations is just so spot on it might hurt.
+The Phoenix Project is a very nice management introduction for IT projects, talking about ITIL, about processes and about Agile Methods.
+
+It's only very basically made up to seem like a novel instead of a textbook, but if you accept it as such (a very entertaining textbook instead of a novel), it works really well.
+
+Also, the depiction of what can, must and will go wrong in IT Operations is just so spot on it might hurt.

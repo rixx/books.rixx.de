@@ -21,4 +21,8 @@ review:
   rating: 2
 ---
 
-The Warlock in Spite of Himself has a really good setting.<br /><br />That's it, that was the good part. It also has the height of 60s sexism in Fantasy: Protagonist (who is always right and good) disdaining help from women, recommends spanking arrogant women, falls in love with every pretty one, one violent graphic assault/rape/coercion (later justified b/c she was faking him out), … I could go on.<br /><br />Then there are politics more blatant than in Sword of Truth (literal Marxists itching to shoot the aristocracy) – though that part was pretty fun, really. I can get behind "it's so bad it's good", but I can't get behind the sexism and to be honest plain middling writing.
+The Warlock in Spite of Himself has a really good setting.
+
+That's it, that was the good part. It also has the height of 60s sexism in Fantasy: Protagonist (who is always right and good) disdaining help from women, recommends spanking arrogant women, falls in love with every pretty one, one violent graphic assault/rape/coercion (later justified b/c she was faking him out), … I could go on.
+
+Then there are politics more blatant than in Sword of Truth (literal Marxists itching to shoot the aristocracy) – though that part was pretty fun, really. I can get behind "it's so bad it's good", but I can't get behind the sexism and to be honest plain middling writing.

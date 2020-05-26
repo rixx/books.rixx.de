@@ -21,4 +21,6 @@ review:
   rating: 4
 ---
 
-I think **The Iron Council** was weaker than **The Scar** (which is the previous volume in the **Bas-Lag**/**New Crobuzon** trilogy), but I enjoyed it nearly as much, because I'm a sucker for revolutions. Also, it's noticeable just how skilled *China Miéville* is at talking about cities – each of the stories in the series describes at least one fundamentally foreign, weird city with a mix of cultures and races among the inhabitants, and thanks to the sublte worldbuilding and depth, I feel invested and interested in every one of them.<br /><br />I'm now done with the trilogy, and I'm very happy I read it. I'll explore other works by China Miéville next!
+I think **The Iron Council** was weaker than **The Scar** (which is the previous volume in the **Bas-Lag**/**New Crobuzon** trilogy), but I enjoyed it nearly as much, because I'm a sucker for revolutions. Also, it's noticeable just how skilled *China Miéville* is at talking about cities – each of the stories in the series describes at least one fundamentally foreign, weird city with a mix of cultures and races among the inhabitants, and thanks to the sublte worldbuilding and depth, I feel invested and interested in every one of them.
+
+I'm now done with the trilogy, and I'm very happy I read it. I'll explore other works by China Miéville next!

@@ -8,10 +8,10 @@ book:
   isbn13: '9780152047382'
   pages: '323'
   publication_year: '2003'
-  slug: so-you-want-to-be-a-wizard
-  title: So You Want to Be a Wizard
   series: Young Wizards
   series_position: '1'
+  slug: so-you-want-to-be-a-wizard
+  title: So You Want to Be a Wizard
 plan:
   date_added: '2016-05-03'
 review:
@@ -21,4 +21,8 @@ review:
   rating: 4
 ---
 
-I really loved this book - it reminded me of Harry Potter, naturally, but better written and better thought-out. Magic actually has a system, people have motivations and actions have actual consequences.<br /><br />Nita and Kit are the most adorable protagonists, and very much to be taken seriously. Both human side-characters like Nita's sister Dairine and parents, and the Advisory wizards seem very real, none too perfect. Even the Lone Power is not completely evil.<br /><br />Duane also has a way with words that made me swoon and/or feel frission on several occasions. This is definitely a book to re-read and I'm now diving into the remainder of the series.
+I really loved this book - it reminded me of Harry Potter, naturally, but better written and better thought-out. Magic actually has a system, people have motivations and actions have actual consequences.
+
+Nita and Kit are the most adorable protagonists, and very much to be taken seriously. Both human side-characters like Nita's sister Dairine and parents, and the Advisory wizards seem very real, none too perfect. Even the Lone Power is not completely evil.
+
+Duane also has a way with words that made me swoon and/or feel frission on several occasions. This is definitely a book to re-read and I'm now diving into the remainder of the series.

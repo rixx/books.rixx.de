@@ -8,10 +8,10 @@ book:
   isbn13: '9780152049423'
   pages: '384'
   publication_year: '2003'
-  slug: deep-wizardry
-  title: Deep Wizardry
   series: Young Wizards
   series_position: '2'
+  slug: deep-wizardry
+  title: Deep Wizardry
 plan:
   date_added: '2016-05-03'
 review:
@@ -21,4 +21,6 @@ review:
   rating: 3
 ---
 
-I liked the first book in the series a bit more, although Duane does a lot of nice world-building here, both regarding the deep ocean and the whales, and Nita's family (Dairine, mom, and dad).<br /><br />While I was still fascinated with the world Duane builds, and the very poetic language she uses, I felt that she mostly re-used the first book's plot, relocating it to the ocean. It also got a bit too dramatic for me; since I didn't believe that Nita would actually have to die, the foreshadowing and plot was pretty clear. Then again, it's a book aimed at children, so I guess I can't really complain here.
+I liked the first book in the series a bit more, although Duane does a lot of nice world-building here, both regarding the deep ocean and the whales, and Nita's family (Dairine, mom, and dad).
+
+While I was still fascinated with the world Duane builds, and the very poetic language she uses, I felt that she mostly re-used the first book's plot, relocating it to the ocean. It also got a bit too dramatic for me; since I didn't believe that Nita would actually have to die, the foreshadowing and plot was pretty clear. Then again, it's a book aimed at children, so I guess I can't really complain here.
