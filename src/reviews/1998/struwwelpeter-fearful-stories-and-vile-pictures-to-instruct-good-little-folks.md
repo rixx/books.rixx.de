@@ -33,10 +33,18 @@ and I can still recall lots of the rhymes now. They include
 - Kaspar refuses to eat his soup for several days, and continues losing weight until he dies.
 - Philipp won't sit still, and in the end knocks over the entire dinner table. His name is still used for children who
   fidget a lot: Zappelphilipp.
-- Hans has a habit of looking into the sky instead of where he's going, so he falls into a river. He's resuced, but his
+- Hans has a habit of looking into the sky instead of where he's going, so he falls into a river. He's rescued, but his
   books float away, truly the worst fate.
 - Robert goes outside during a storm, which catches his umbrella and he flies away.
 
 Honestly, as a kid I didn't think anything about them – they're not really more gruesome than a grandmother getting
 eaten by a wolf, or a witch baked in her own oven. But then, they were only in use for entertainment, and never as
 education, so I got off lightly.
+
+## Further Reading
+
+This book offers us a view into the attitude towards children 150 years ago, and shows that some patterns of behaviour,
+like attention deficit with and without hyperactivity, were well-known in certain circles. I haven't read any more about
+education in that time, but [Die roten Matrosen](https://books.rixx.de/reviews/2004/die-roten-matrosen) features school
+and educational attitudes in Germany between 1910 and 1920, which comes close and provides interesting historical
+insights.

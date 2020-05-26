@@ -28,3 +28,8 @@ It's all told in incredibly adorable rhymes. The book was common knowledge in my
 I got my great-grandmother to read it to me in a probably slightly excessive frequency. Soon I could quote it entirely
 (and I still can, if I concentrate), and I'd of course pretend that I was reading it out loud! Fake it till you make it:
 after some time, I didn't need to pretend anymore, and I was able to read first some, then all of it.
+
+## Further Reading
+
+[Der Räuber Hotzenplotz](https://books.rixx.de/reviews/1999/der-rauber-hotzenplotz/) is another German book for children
+that uses the Punch-and-Judy characters, though in a very different way.
