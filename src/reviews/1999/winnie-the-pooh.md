@@ -7,7 +7,7 @@ book:
   isbn10: '0525467564'
   isbn13: '9780525467564'
   pages: '145'
-  publication_year: '2001'
+  publication_year: '1960'
   series: Winnie-the-Pooh
   series_position: '1'
   slug: winnie-the-pooh
@@ -29,6 +29,12 @@ follows the patterns and phrases of classical Latin to very comedic effect, and 
 past their fifth year of Latin.
 
 It's always nice to be reminded that the nerds have always been out there.
+
+## Fun Facts
+
+[Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html), Lenard had a
+long-standing correspondence with Robert Grave in Latin – in character for both of them! For more of Robert Graves, see
+[I, Claudius](https://books.rixx.de/reviews/2020/i-claudius).
 
 ## Further Reading
 

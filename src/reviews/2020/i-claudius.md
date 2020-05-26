@@ -36,3 +36,9 @@ As far as I could figure out afterwards, Robert Graves did a ton of research and
 scandalous or fun interpretation when he could chose – and who could fault him, even with the amount of scandal?
 The book wasn't something that pulled me in, but it wasn't unpleasant either, and I definitely have a sense for the
 order and character of the early emperors, and their extremely tangled relationships to one another.
+
+## Fun Facts
+
+[Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html), Graves had a
+long-standing correspondence with Alexander Lenard in Latin – in character for both of them! For more of Lenard, see
+the beautifully nerdy [Winnie ille Pu](https://books.rixx.de/reviews/1999/winnie-the-pooh/).
