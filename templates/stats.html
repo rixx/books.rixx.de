@@ -74,5 +74,14 @@ Or: of course there's no such thing as a book. To put it differently: what even 
 But still, it's nice to look at, and I'm tempted to add more ridiculous charts, like mapping publication years against length, or temperature against ratings, or …
 </p>
 
+<table>
+  {% for heading, value in table %}
+  <tr>
+    <td>{{ heading }}</td>
+    <th>{{ value }}</th>
+  </tr>
+  {% endfor %}
+</table>
+
 </section>
 {% endblock %}

@@ -368,6 +368,13 @@ header a {
   margin-left: auto;
   margin-right: auto;
 }
+#stats-section table {
+  margin-left: auto;
+  margin-right: auto;
+}
+#stats-section table th {
+  text-align: right;
+}
 #stats-section input[type=checkbox]{
     height: 0;
     width: 0;

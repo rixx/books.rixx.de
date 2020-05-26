@@ -3,6 +3,7 @@ import hashlib
 import itertools
 import os
 import pathlib
+import statistics
 import subprocess
 import uuid
 from collections import defaultdict
@@ -118,6 +119,15 @@ def isfloat(value):
         return True
     except Exception:
         return False
+
+
+def median_year(reviews):
+    years = [
+        int(review.metadata["book"].get("publication_year"))
+        for review in reviews
+        if review.metadata["book"].get("publication_year")
+    ]
+    return int(statistics.median(years))
 
 
 def build_site():
@@ -359,12 +369,35 @@ def build_site():
             }
         )
 
+    table = [
+        ("Total books read", len(all_reviews)),
+        ("Reading pile", len(all_plans)),
+        ("Books without review", len([b for b in all_reviews if not b.text.strip()])),
+        (
+            "Reviews without cross-reference",
+            len(
+                [b for b in all_reviews if b.text.strip() and not "https://" in b.text]
+            ),
+        ),
+        (
+            "Books per week",
+            round(
+                len(all_reviews)
+                / ((dt.datetime.now().date() - dt.date(1998, 1, 1)).days / 7),
+                2,
+            ),
+        ),
+        ("Median publication year (reviews)", median_year(all_reviews)),
+        ("Median publication year (reading pile)", median_year(all_plans)),
+    ]
+
     render(
         "stats.html",
         "stats/index.html",
         stats=stats,
         most_books=most_books,
         most_pages=most_pages,
+        table=table,
     )
 
     print("✨ Rendered HTML files to _html ✨")
