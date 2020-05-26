@@ -8,7 +8,8 @@ This is where I valiantly try to keep track of
 * useless but fun [statistics](/stats/)
 
 The data gets synced to [Goodreads](https://www.goodreads.com/rixx), but this site is the primary source. If you're
-really interested in what I'm reading, you can [subscribe to the feed](/feed.atom).
+really interested in what I'm reading, you can [subscribe to the feed](/feed.atom) (feed with only reviews
+[here](/reviews.atom)).
 
 Thanks for the inspiration (and some of the code!) for this site go to [Lexie](https://books.alexwlchan.net). Thanks for
 the content go to our civilisation and the preceding ones, to the people involved in the publishing industry – authors,

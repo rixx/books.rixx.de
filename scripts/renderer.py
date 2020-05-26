@@ -1,4 +1,3 @@
-from collections import defaultdict
 import datetime as dt
 import hashlib
 import itertools
@@ -6,6 +5,7 @@ import os
 import pathlib
 import subprocess
 import uuid
+from collections import defaultdict
 from functools import partial
 
 import markdown
@@ -49,6 +49,17 @@ def render_page(template_name, path, env=None, **context):
     out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
+
+
+def render_feed(events, path, render):
+    for event in events:
+        m = hashlib.md5()
+        m.update(
+            f"{event.metadata['book']['title']}:{event.entry_type}:{event.relevant_date}:{event.metadata['book'].get('goodreads', '')}".encode()
+        )
+        event.feed_uuid = str(uuid.UUID(m.hexdigest()))
+
+    render("feed.atom", path, events=events)
 
 
 def _create_new_thumbnail(src_path, dst_path):
@@ -293,17 +304,10 @@ def build_site():
         active="to-read",
     )
 
-    # Render feed
+    # Render feeds
 
-    generate_events = all_events[:20]
-    for event in generate_events:
-        m = hashlib.md5()
-        m.update(
-            f"{event.metadata['book']['title']}:{event.entry_type}:{event.relevant_date}:{event.metadata['book'].get('goodreads', '')}".encode()
-        )
-        event.feed_uuid = str(uuid.UUID(m.hexdigest()))
-
-    render("feed.atom", "feed.atom", events=generate_events)
+    render_feed(all_events[:20], "feed.atom", render)
+    render_feed(all_reviews[:20], "reviews.atom", render)
 
     # Render the front page
     render(
@@ -317,9 +321,7 @@ def build_site():
     time_lookup = defaultdict(list)
     for review in all_reviews:
         key = review.relevant_date.strftime("%Y-%m")
-        l = time_lookup[key]
-        l.append(review)
-        time_lookup[key] = l
+        time_lookup[key].append(review)
 
     most_books = 0
     most_pages = 0
