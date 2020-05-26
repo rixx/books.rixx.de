@@ -1,6 +1,6 @@
 # books.rixx.de
 
-This is the source code for <https://books.rixx.de>, where track the books I've read, and that I want to read.
+This is the source code for <https://books.rixx.de>, where I track the books I've read, and that I want to read.
 This repo contains both the scripts that build the site, and the source data used by the scripts.
 
 ## How it works
