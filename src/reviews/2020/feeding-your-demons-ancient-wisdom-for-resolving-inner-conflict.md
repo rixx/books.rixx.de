@@ -68,3 +68,8 @@ don't tend to get stuck as on Focusing.
 A caveat is that the method is very very hard to apply for extreme emotions. Great for mild and general anxiety,
 terrible for deep-seated humongous aversions, because they will either visually overwhelm you, or the generating of the
 positive emotions will be impossible in the emotional state you're inducing.
+
+## Further Reading
+
+If you're less into visual approaches and more into verbalisation,
+[Focusing](https://books.rixx.de/reviews/2019/focusing/) does something very similar to this method.
