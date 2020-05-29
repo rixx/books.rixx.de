@@ -21,4 +21,16 @@ review:
   rating: 4
 ---
 
-This is a very nice little book, filled with Faery and language that is exceedingly ornate but never quite pretentious. And it's a modern fairy tale at that - September didn't grow too close to my heart (maybe I'm too old for that), but the narrator did, and maybe that is good enough.
+This is a very nice little book, filled with Faerie and language that is exceedingly ornate but never quite pretentious.
+And it's a modern fairy tale at that - September, the protagonist, didn't grow too close to my heart (maybe I'm too old
+for that), but the narrator did, and maybe that is good enough.
+
+## Further Reading
+
+[Alice](https://books.rixx.de/reviews/2004/alice-in-wonderland) would be the obvious recommendation for a girl dealing
+with nonsensically fantastic worlds on her own, but I don't actually think the books share anything except superficial
+points.
+
+If you like the portal aspect, consider looking into the [Wayward Children
+books](https://books.rixx.de/reviews/2018/every-heart-a-doorway). If you liked the heroine most of all, take a look at
+[Coraline](https://books.rixx.de/reviews/2003/coraline), if you dare.

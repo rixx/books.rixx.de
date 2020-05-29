@@ -7,7 +7,7 @@ book:
   isbn10: '3791530151'
   isbn13: '9783791530154'
   pages: '176'
-  publication_year: '2006'
+  publication_year: '1933'
   slug: das-fliegende-klassenzimmer
   title: Das fliegende Klassenzimmer
 plan:
@@ -18,3 +18,5 @@ review:
   did_not_finish: false
   rating: 5
 ---
+
+cf 1999/jim-knopf

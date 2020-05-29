@@ -47,4 +47,4 @@ adventures, that involved a lot of danger, but also integrity and strength and c
 
 Michael Ende is best known for the [Neverending Story](https://books.rixx.de/reviews/2002/the-neverending-story), which
 I also liked a lot (though a decade later). I got a similar feeling from Erich Kästner, particularly from [The Flying
-Classroom](https://books.rixx.de/src/reviews/2001/das-fliegende-klassenzimmer).
+Classroom](https://books.rixx.de/reviews/2001/das-fliegende-klassenzimmer).

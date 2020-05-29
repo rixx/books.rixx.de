@@ -20,3 +20,7 @@ review:
 ---
 
 I would have loved this book as a child, and I still love it as a grownup (Gaiman tends to write like that). It is paced well, written wonderfully and rings true (in a very similar way American Gods does, but a bit toned-down to the way children see the world). Technically it is a coming-of-age story. I spent a long afternoon reading it and feel a lot better for the time spent.
+
+## Further Reading
+
+For younger kids, [Coraline](https://books.rixx.de/reviews/2003/coraline) has a similar vibe.

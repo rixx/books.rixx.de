@@ -35,4 +35,4 @@ after some time, I didn't need to pretend anymore, and I was able to read first 
 that uses the Punch-and-Judy characters, though in a very different way.
 
 For more witty/funny rhymes like these, turn to the master of the genre, [Wilhelm
-Busch](https://books.rixx.de/reviews/reviews/2000/max-und-moritz-eine-bubengeschichte-in-sieben-streichen).
+Busch](https://books.rixx.de/reviews/2000/max-und-moritz-eine-bubengeschichte-in-sieben-streichen).
