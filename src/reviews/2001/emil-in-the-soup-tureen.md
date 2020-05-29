@@ -7,7 +7,7 @@ book:
   isbn10: 0670826588
   isbn13: '9780670826582'
   pages: '96'
-  publication_year: '1989'
+  publication_year: '1963'
   slug: emil-in-the-soup-tureen
   title: Emil in the Soup Tureen
 plan:
@@ -18,3 +18,11 @@ review:
   did_not_finish: false
   rating: 4
 ---
+
+Adorable book for kids. Emil is wonderful, as is everybody else. As usual, Astrid Lindgren doesn't flinch away from real
+life, so Emil is for instance regularly locked away because his parents don't know how to deal with him.
+
+## Fun Fact
+
+Emil is called Michel in German, because [Emil](https://books.rixx.de/reviews/2004/emil-and-the-detectives) was already
+taken.

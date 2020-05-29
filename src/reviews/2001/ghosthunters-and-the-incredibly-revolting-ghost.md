@@ -18,5 +18,9 @@ review:
   date_read: 2001-02-01
   date_started: null
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
+
+I have a vaguely positive memory of this book, but that's about it. The protagonist was nice, had an annoying older
+sister, and dealt with ghosts with cleverness and hacked up techy devices? It's basically the Cornelia Funke boy series
+to her more famous [girl series](https://books.rixx.de/reviews/2004/die-wilden-huhner).

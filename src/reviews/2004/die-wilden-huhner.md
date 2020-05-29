@@ -19,3 +19,14 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
+Generic-but-good girl series, where the girls do lots of adventurous things and are way cooler than the boys, and very
+matter-of-fact. I liked it a bit as a kid, though I mostly read it for lack of other things to read. I can still name
+some of the characters and their general vibe (ok, mostly Sprotte), which is a mark in favour of the book.
+
+## Further Reading
+
+This is the girl series of Cornelia Funke, she also has a [boy
+series](https://books.rixx.de/reviews/2001/ghosthunters-and-the-incredibly-revolting-ghost). For teenagers, her
+[Inkworld seris](https://books.rixx.de/reviews/2006/inkheart) is much better. For the intended age group, I always
+thought her [Thief Lord](https://books.rixx.de/reviews/2001/herr-der-diebe) was in a completely different league.

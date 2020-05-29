@@ -18,3 +18,7 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
+I loved this book as a kid, both for the fantastic beasts and for the scrawled notes by Harry, Ron and Hermione. Imagine
+if the [Silmarillion](https://books.rixx.de/reviews/2008/the-silmarillion) came with scrawled notes in the margins from
+Gandalf and Galadriel.

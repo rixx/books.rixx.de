@@ -26,8 +26,8 @@ realise they are twins at a summer camp, they decide to switch places.
 It's like a modern fairytale. Kästner takes elements of modern life, like parents separating, and weaves them into
 fairytale elements with secret twins, children's deception and anguish and joy.
 
-As always, Kästner has a not-so-secret agenda, but in this case it is the least obnoxious, the most human. This book
-feels deeply like childhood to me, and I like it a lot.
+As always, Kästner has a not-so-secret agenda, but in this case it is the least obnoxious, the most human. Also the only
+one without a transparent self-insert. This book feels deeply like childhood to me, and I like it a lot.
 
 ## Further Reading
 

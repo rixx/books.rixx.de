@@ -20,3 +20,15 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
+I don't have many memories of the third Sams book. I think I had more pity for Martin than for his father, because kids
+being bullied was relatable, whereas adults who were bullied looked weird and even contemptuous to me. But at the same
+time, I think both Martin and his father were self-inserts, and Paul Maar just is a better adult than kid. Or maybe he
+just had forgotten about being a kid.
+
+## Further Reading
+
+For a superpowered nerd kid, read
+[HPMOR](https://books.rixx.de/reviews/2014/harry-potter-and-the-methods-of-rationality) if you can stand the smugness,
+or any other litrpg. [The Neverending Story](https://books.rixx.de/reviews/2002/the-neverending-story) also fits the
+bill.
