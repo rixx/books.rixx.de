@@ -42,6 +42,10 @@ And then the last act happened, which was not conductive to my suspension of dis
 because I felt that the escalation route had not been prepared properly. It felt disjointed, awkward, dramatic for its
 own sake. And then the very final ending was just … what? I'm all for escalation (I like [The Laundry
 Files](https://books.rixx.de/reviews/2015/the-atrocity-archives) after all), but this felt random and not in a good way.
+Also, towards the end the propaganda was more than a slight annoyance – I really hate it when fiction tries to push a
+political agenda in a very transparent, clumsy, moralising way. The endgame boiled down to a barely-introduced conflict
+between the Feed and the Seed, two different philosophies regarding technology and matter production and it's hard to
+imagine a more heavy-handed political insert.
 
 I'm glad I read this book, but I'm not sure I'll read more Stephenson any time soon, especially since people tell me
 that his inability to stick the ending is typical.
@@ -56,3 +60,7 @@ generally, but I also love it a lot.
 For a more readable, more cyberpunk recommendation, I'd go with [Rainbows
 End](https://books.rixx.de/reviews/2018/rainbows-end), which does different interesting things with ubiquitous
 information, and features less of a jarring plot line.
+
+(If you like the transparent political inserts: First off, eww. Secondly, try [The Sword of
+Truth](https://books.rixx.de/reviews/2016/wizards-first-rule) or if you know German, [Pünktchen und
+Anton](https://books.rixx.de/reviews/2001/punktchen-und-anton).)
