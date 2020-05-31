@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://books.rixx.de/feed.atom</id>
   <title>log(book): rixx's book log</title>
-  <link href="https://books.rixx.de/"/>
   <updated>{{ events[0].relevant_date }}T00:00:00Z</updated>
   <author>
     <name>Tobias Kunze</name>
+    <email>r@rixx.de</email>
   </author>
-  <id>https://books.rixx.de/feed.atom</id>
+  <link href="https://books.rixx.de/" rel="alternate"/>
+  <link href="https://books.rixx.de/feed.atom" rel="self"/>
   {%- for event in events -%}
     {%- if event.entry_type == "to-read" -%}
     <entry>
       <title>log(book): {{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/to-read"/>
+      <link href="https://books.rixx.de/to-read" rel="alternate"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <summary>I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | safe }}</summary>
+      <content type="html">I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown }}</content>
     </entry>
     {%- elif event.entry_type == "currently-reading" -%}
     <entry>
       <title>log(book): {{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/reading"/>
+      <link href="https://books.rixx.de/reading" rel="alternate"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <summary>I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | safe }}</summary>
+      <content type="html">I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown }}</content>
     </entry>
     {%- else -%}
     <entry>
       <title>log(book): {{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/{{ event.get_core_path() }}"/>
+      <link href="https://books.rixx.de/{{ event.get_core_path() }}" rel="alternate"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <summary>I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.
+      <content type="html">I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.
 
-{{ event.text | render_markdown | safe }}</summary>
+{{ event.text | render_markdown }}</content>
     </entry>
     {%- endif -%}
   {%- endfor -%}
