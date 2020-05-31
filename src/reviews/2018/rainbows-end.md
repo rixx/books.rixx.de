@@ -19,4 +19,6 @@ review:
   rating: 4
 ---
 
-Well, this was great scifi. It was focussed on a not very likeable, but very real character, and a completely informationally connected world. I enjoyed that it focussed so much on where and how information flowed, and the implications of VR. Lots of fun!
+Well, this was great scifi. It was focussed on a not very likeable, but very real character, and a completely
+informationally connected world. I enjoyed that it focussed so much on where and how information flowed, and the
+implications of VR. Lots of fun!
