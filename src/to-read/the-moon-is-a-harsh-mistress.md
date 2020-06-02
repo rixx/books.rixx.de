@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2018-03-13'
 ---
+I really enjoyed [Have Space Suit–Will Travel](https://books.rixx.de/reviews/2020/have-space-suit-will-travel), and I
+hope that this more well-known Heinlein book will be similarly good. (Better? More adult? We'll see …)

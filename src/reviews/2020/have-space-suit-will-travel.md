@@ -1,0 +1,40 @@
+---
+book:
+  author: Robert A. Heinlein
+  cover_image: have-space-suit-will-travel.png
+  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  goodreads: '20417'
+  isbn10: '1416505490'
+  isbn13: '9781416505495'
+  pages: '276'
+  publication_year: '1958'
+  slug: have-space-suit-will-travel
+  title: Have Space Suit—Will Travel
+plan:
+  date_added: 2020-06-02
+review:
+  date_read: 2020-06-01
+  date_started: 2020-06-01
+  rating: 4
+---
+I usually avoid classic sci-fi: I've had mostly negative run-ins, where books had aged badly and either didn't interest
+me or felt off-putting. So, like Zelazny and Clarke and a bunch of others, I've been postponing Heinlein.
+
+But "Have Space Suit, Will Travel" did not disappoint at all. The story of a teenager, a space nerd, exploring the
+universe was charming and simple. It has tight pacing, a good narration, a decent plot, but above all: very good
+storytelling. The book is *hilarious* at times, and touching at others. It's aged some, of course, but that's a point in
+favour of it: The protagonist is very much living in his times, so that he and his thoughts don't feel artificial. I've
+come to expect cardboard characters from old sci-fi, and this book delivered real (if simple) characters instead.
+
+A big point in favour is also that while there are noticeable references to aged gender roles – the protagonist is
+travelling with a younger girl for a time – he acknowledges both his protective impulses and that they are not always
+appropriate, which was funny, charming, and somewhat impressive.
+
+## Further Reading
+
+My next Heinlein will be "The Moon is a Harsh Mistress", which feels less forbidding now that I know that Heinlein is
+readable.
+
+This book with its very real exploration of intergalactic space reminded me in tone and content of the [Young
+Wizards](https://books.rixx.de/reviews/2016/so-you-want-to-be-a-wizard) series that is really more space-faring that its
+name suggests, particularly the third part, [High Wizardry](https://books.rixx.de/reviews/2016/high-wizardry).
