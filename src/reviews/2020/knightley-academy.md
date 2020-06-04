@@ -36,7 +36,7 @@ out – he's intimidating and has a terrifying stare and also he is Snape.
 <p class="spoilers">
 
 Of course, it turns out he is not the Real Evil Guy, because that is the role reserved for the very sympathetic teacher
-whom Henry *trusted* because of course.
+whom Henry ~trusted~ because of course.
 
 </p>
 

@@ -446,6 +446,18 @@ header a {
   margin-right: 2px;
 }
 
+.spoiler, .spoilers {
+  color: transparent;
+  text-shadow: 0 0 5px rgba(0,0,0,1.5);
+  filter: blur(5px);
+}
+.spoiler:hover, .spoilers:hover {
+  color: inherit;
+  text-shadow: inherit;
+  filter: none;
+}
+
+
 @media (max-width: 480px) {
   main {
     border-left: none;
