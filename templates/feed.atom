@@ -34,6 +34,8 @@
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
       <content type="html">I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.
 
+        {% if 'class="spoiler' in event.text %}&lt;p&gt; Warning! This review contains spoilers. On the website, they are blurred out, but I cannot do that in an RSS feed, so if you don't want to see them, please read the review on the website. &lt;/p&gt;{% endif %}
+
 {{ event.text | render_markdown | e }}</content>
     </entry>
     {%- endif -%}
