@@ -114,6 +114,7 @@ def get_book_data_from_xml(book):
             series_position = ""
         data["series"] = series.strip(", ")
         data["series_position"] = series_position.strip(", #")
+    data["title"] = data["title"].split(":")[0].strip()
     return data
 
 
