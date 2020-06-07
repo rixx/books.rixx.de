@@ -14,3 +14,4 @@ book:
 plan:
   date_added: '2016-10-05'
 ---
+Highly recommended, by Pornokitsch ("The Belgariad is my go to series whenever I'm sick") among others
