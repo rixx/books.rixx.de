@@ -174,8 +174,8 @@ def remove_review(review, auth):
     print()
 
 
-def change_shelf(review, auth):
-    session = get_session(auth)
+def change_shelf(review, auth, session=None):
+    session = session or get_session(auth)
     shelf_name = "read" if review.entry_type == "reviews" else review.entry_type
     response = session.post(
         f"{GOODREADS_URL}shelf/add_to_shelf.xml",
@@ -209,11 +209,17 @@ def push_to_goodreads(review, auth):
         review_data["review[read_at]"] = read_at
         review_data["review[started_at]"] = date_started
         review_data["finished"] = True
+    else:
+        review_data["finished"] = False
 
     session = get_session(auth)
 
     if create_review:
         response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
+        if shelf_name != "read":
+            change_shelf(
+                review, None, session=session
+            )  # Somehow, the shelf gets always set to read, so we update it
     else:
         review_data["id"] = goodreads_review["id"]
         response = session.post(
