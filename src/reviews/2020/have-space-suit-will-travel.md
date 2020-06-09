@@ -1,8 +1,8 @@
 ---
 book:
   author: Robert A. Heinlein
-  cover_image: have-space-suit-will-travel.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: have-space-suit-will-travel.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416505495-L.jpg
   goodreads: '20417'
   isbn10: '1416505490'
   isbn13: '9781416505495'
@@ -17,6 +17,7 @@ review:
   date_started: 2020-06-01
   rating: 4
 ---
+
 I usually avoid classic sci-fi: I've had mostly negative run-ins, where books had aged badly and either didn't interest
 me or felt off-putting. So, like Zelazny and Clarke and a bunch of others, I've been postponing Heinlein.
 
