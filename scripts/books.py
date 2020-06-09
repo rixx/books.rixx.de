@@ -328,7 +328,8 @@ def get_review_info(review=None):
         default=known_metadata.get("date_started"),
     )
     date_read = get_date(
-        "When did you finish reading it?", default=known_metadata.get("date_read")
+        "When did you finish reading it?",
+        default=known_metadata.get("date_read") or date_started,
     )
     rating = inquirer.list_input(
         message="What’s your rating?",
