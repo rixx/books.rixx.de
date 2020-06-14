@@ -92,7 +92,9 @@ def get_book_data_from_xml(book):
     }
     data = {mapped_key: book.find(key).text for key, mapped_key in keys.items()}
     try:
-        data["publication_year"] = book.find("work").find("original_publication_year").text
+        data["publication_year"] = (
+            book.find("work").find("original_publication_year").text
+        )
     except Exception:
         data["publication_year"] = book.find("publication_year").text
     for key in ("small_image_url", "image_url", "large_image_url"):

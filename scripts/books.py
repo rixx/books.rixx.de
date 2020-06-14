@@ -102,6 +102,8 @@ class Review:
                 "date_read"
             ):
                 raise Exception("Cannot become a review, no date_read provided!")
+            elif entry_type == "currently-reading":
+                self.metadata["review"]["date_started"] = dt.datetime.now().date()
             self.entry_type = entry_type
         if save:
             self.save()
