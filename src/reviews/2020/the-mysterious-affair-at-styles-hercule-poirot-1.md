@@ -1,15 +1,17 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-mysterious-affair-at-styles-hercule-poirot-1.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-mysterious-affair-at-styles-hercule-poirot-1.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922393l/16343.jpg
   goodreads: '16343'
   isbn10: 0646418432
   isbn13: '9780646418438'
   pages: '121'
   publication_year: '1920'
+  series: Hercule Poirot
+  series_position: 1
   slug: the-mysterious-affair-at-styles-hercule-poirot-1
-  title: 'The Mysterious Affair at Styles (Hercule Poirot, #1)'
+  title: The Mysterious Affair at Styles
 plan:
   date_added: 2020-06-14
 review:
