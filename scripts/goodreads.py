@@ -89,9 +89,12 @@ def get_book_data_from_xml(book):
         "isbn": "isbn10",
         "isbn13": "isbn13",
         "num_pages": "pages",
-        "publication_year": "publication_year",
     }
     data = {mapped_key: book.find(key).text for key, mapped_key in keys.items()}
+    try:
+        data["publication_year"] = book.find("work").find("original_publication_year").text
+    except Exception:
+        data["publication_year"] = book.find("publication_year").text
     for key in ("small_image_url", "image_url", "large_image_url"):
         with suppress(Exception):
             data["cover_image_url"] = book.find(key).text
