@@ -11,6 +11,8 @@ book:
   series: The Greenhollow Duology
   series_position: '1'
   slug: silver-in-the-wood
+  tags:
+  - fantasy
   title: Silver in the Wood
 plan:
   date_added: '2020-02-20'

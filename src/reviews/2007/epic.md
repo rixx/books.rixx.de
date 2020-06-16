@@ -10,6 +10,8 @@ book:
   series: Epic
   series_position: '1'
   slug: epic
+  tags:
+  - fantasy
   title: Epic
 plan:
   date_added: '2016-07-07'

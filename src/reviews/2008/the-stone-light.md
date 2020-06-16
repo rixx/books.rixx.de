@@ -11,6 +11,8 @@ book:
   series: Dark Reflections
   series_position: '2'
   slug: the-stone-light
+  tags:
+  - fantasy
   title: The Stone Light
 plan:
   date_added: '2015-04-09'

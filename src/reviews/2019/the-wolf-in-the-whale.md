@@ -9,6 +9,8 @@ book:
   pages: '544'
   publication_year: '2019'
   slug: the-wolf-in-the-whale
+  tags:
+  - fantasy
   title: The Wolf in the Whale
 plan:
   date_added: '2018-12-08'

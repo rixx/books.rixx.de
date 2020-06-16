@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: prince-caspian
   tags:
+  - fantasy
   - kids
   title: Prince Caspian
 plan:

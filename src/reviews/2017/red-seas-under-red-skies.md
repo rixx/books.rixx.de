@@ -11,6 +11,8 @@ book:
   series: Gentleman Bastard
   series_position: '2'
   slug: red-seas-under-red-skies
+  tags:
+  - fantasy
   title: Red Seas Under Red Skies
 plan:
   date_added: '2016-10-19'

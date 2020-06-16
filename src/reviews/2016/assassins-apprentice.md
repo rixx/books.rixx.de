@@ -11,6 +11,8 @@ book:
   series: Farseer Trilogy
   series_position: '1'
   slug: assassins-apprentice
+  tags:
+  - fantasy
   title: Assassin's Apprentice
 plan:
   date_added: '2016-05-18'

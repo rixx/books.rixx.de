@@ -11,6 +11,8 @@ book:
   series: Twilight
   series_position: '1'
   slug: twilight
+  tags:
+  - fantasy
   title: Twilight
 plan:
   date_added: '2015-04-08'

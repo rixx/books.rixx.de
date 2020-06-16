@@ -9,6 +9,8 @@ book:
   pages: '637'
   publication_year: '2005'
   slug: der-galerie-der-lugen-oder-der-unachtsame-schlafer
+  tags:
+  - fantasy
   title: Der Galerie der Lügen, oder, Der unachtsame Schläfer
 plan:
   date_added: '2016-05-03'

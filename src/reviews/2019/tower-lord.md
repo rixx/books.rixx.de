@@ -11,6 +11,8 @@ book:
   series: Raven's Shadow
   series_position: '2'
   slug: tower-lord
+  tags:
+  - fantasy
   title: Tower Lord
 plan:
   date_added: '2018-10-12'

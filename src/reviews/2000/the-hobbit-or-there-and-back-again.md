@@ -9,6 +9,8 @@ book:
   pages: '366'
   publication_year: '1937'
   slug: the-hobbit-or-there-and-back-again
+  tags:
+  - fantasy
   title: The Hobbit, or There and Back Again
 plan:
   date_added: '2015-04-08'

@@ -11,6 +11,8 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2.5'
   slug: the-slow-regard-of-silent-things
+  tags:
+  - fantasy
   title: The Slow Regard of Silent Things
 plan:
   date_added: '2016-07-05'

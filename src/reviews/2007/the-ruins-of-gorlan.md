@@ -11,6 +11,8 @@ book:
   series: Ranger's Apprentice
   series_position: '1'
   slug: the-ruins-of-gorlan
+  tags:
+  - fantasy
   title: The Ruins of Gorlan
 plan:
   date_added: '2015-07-02'

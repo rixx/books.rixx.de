@@ -11,6 +11,8 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2'
   slug: the-wise-mans-fear
+  tags:
+  - fantasy
   title: The Wise Man's Fear
 plan:
   date_added: '2016-06-07'

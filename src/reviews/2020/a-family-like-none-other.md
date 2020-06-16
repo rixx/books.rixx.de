@@ -8,6 +8,8 @@ book:
   series_position: '3'
   slug: a-family-like-none-other
   title: A Family Like None Other
+  tags:
+  - fanfic
 plan:
   date_added: '2020-02-29'
 review:

@@ -11,6 +11,8 @@ book:
   series: The Stormlight Archive
   series_position: '3'
   slug: oathbringer
+  tags:
+  - fantasy
   title: Oathbringer
 plan:
   date_added: '2018-09-17'

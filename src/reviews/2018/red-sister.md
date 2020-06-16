@@ -11,6 +11,8 @@ book:
   series: Book of the Ancestor
   series_position: '1'
   slug: red-sister
+  tags:
+  - fantasy
   title: Red Sister
 plan:
   date_added: '2018-07-28'

@@ -10,6 +10,7 @@ book:
   publication_year: '2008'
   slug: odd-and-the-frost-giants
   tags:
+  - fantasy
   - kids
   title: Odd and the Frost Giants
 plan:

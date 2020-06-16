@@ -9,6 +9,8 @@ book:
   pages: '248'
   publication_year: '1997'
   slug: stardust
+  tags:
+  - fantasy
   title: Stardust
 plan:
   date_added: '2015-04-08'

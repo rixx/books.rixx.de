@@ -11,6 +11,8 @@ book:
   series: Abhorsen
   series_position: '3'
   slug: abhorsen
+  tags:
+  - fantasy
   title: Abhorsen
 plan:
   date_added: '2017-12-24'

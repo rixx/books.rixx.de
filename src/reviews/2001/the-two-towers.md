@@ -11,6 +11,8 @@ book:
   series: The Lord of the Rings
   series_position: '2'
   slug: the-two-towers
+  tags:
+  - fantasy
   title: The Two Towers
 plan:
   date_added: '2015-04-09'

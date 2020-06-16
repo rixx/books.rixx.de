@@ -11,6 +11,8 @@ book:
   series: Eternal Sky
   series_position: '1'
   slug: range-of-ghosts
+  tags:
+  - fantasy
   title: Range of Ghosts
 plan:
   date_added: '2019-03-17'

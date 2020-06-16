@@ -11,6 +11,8 @@ book:
   series: The Nevernight Chronicle
   series_position: '1'
   slug: nevernight
+  tags:
+  - fantasy
   title: Nevernight
 plan:
   date_added: '2018-10-16'

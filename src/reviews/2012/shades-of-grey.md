@@ -11,6 +11,8 @@ book:
   series: Shades of Grey
   series_position: '1'
   slug: shades-of-grey
+  tags:
+  - fantasy
   title: Shades of Grey
 plan:
   date_added: '2016-05-08'

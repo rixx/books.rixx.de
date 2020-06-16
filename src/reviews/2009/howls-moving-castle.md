@@ -11,6 +11,8 @@ book:
   series: Howl's Moving Castle
   series_position: '1'
   slug: howls-moving-castle
+  tags:
+  - fantasy
   title: Howl's Moving Castle
 plan:
   date_added: '2016-05-06'

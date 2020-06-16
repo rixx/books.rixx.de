@@ -11,6 +11,8 @@ book:
   series: Wayward Children
   series_position: '1'
   slug: every-heart-a-doorway
+  tags:
+  - fantasy
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'

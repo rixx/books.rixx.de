@@ -11,6 +11,8 @@ book:
   series: The Inheritance Cycle
   series_position: '3'
   slug: brisingr
+  tags:
+  - fantasy
   title: Brisingr
 plan:
   date_added: '2016-05-03'

@@ -11,6 +11,8 @@ book:
   series: The Locked Tomb
   series_position: '1'
   slug: gideon-the-ninth
+  tags:
+  - fantasy
   title: Gideon the Ninth
 plan:
   date_added: '2020-02-11'

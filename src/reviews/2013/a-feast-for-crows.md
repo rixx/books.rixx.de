@@ -11,6 +11,8 @@ book:
   series: A Song of Ice and Fire
   series_position: '4'
   slug: a-feast-for-crows
+  tags:
+  - fantasy
   title: A Feast for Crows
 plan:
   date_added: '2016-05-18'

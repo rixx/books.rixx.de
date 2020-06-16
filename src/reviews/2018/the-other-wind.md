@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '6'
   slug: the-other-wind
+  tags:
+  - fantasy
   title: The Other Wind
 plan:
   date_added: '2018-04-03'

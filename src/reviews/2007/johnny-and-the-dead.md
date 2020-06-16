@@ -11,6 +11,8 @@ book:
   series: Johnny Maxwell
   series_position: '2'
   slug: johnny-and-the-dead
+  tags:
+  - fantasy
   title: Johnny and the Dead
 plan:
   date_added: '2015-04-08'

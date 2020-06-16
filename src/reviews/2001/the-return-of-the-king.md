@@ -9,6 +9,8 @@ book:
   series: The Lord of the Rings
   series_position: '3'
   slug: the-return-of-the-king
+  tags:
+  - fantasy
   title: The Return of the King
 plan:
   date_added: '2015-07-02'

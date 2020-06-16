@@ -11,6 +11,8 @@ book:
   series: The Mortal Instruments
   series_position: '1'
   slug: city-of-bones
+  tags:
+  - fantasy
   title: City of Bones
 plan:
   date_added: '2016-05-08'

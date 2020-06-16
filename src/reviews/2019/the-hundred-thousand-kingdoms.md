@@ -11,6 +11,8 @@ book:
   series: Inheritance
   series_position: '1'
   slug: the-hundred-thousand-kingdoms
+  tags:
+  - fantasy
   title: The Hundred Thousand Kingdoms
 plan:
   date_added: '2019-02-13'

@@ -5,6 +5,8 @@ book:
   pages: '5'
   publication_year: null
   slug: books-have-sexes
+  tags:
+  - fantasy
   title: Books Have Sexes
 plan:
   date_added: '2017-11-28'

@@ -11,6 +11,8 @@ book:
   series: Patternmaster
   series_position: '3'
   slug: clays-ark
+  tags:
+  - fantasy
   title: Clay's Ark
 plan:
   date_added: '2018-10-06'

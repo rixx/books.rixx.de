@@ -11,6 +11,8 @@ book:
   series: Mistborn
   series_position: '1'
   slug: the-final-empire
+  tags:
+  - fantasy
   title: The Final Empire
 plan:
   date_added: '2018-11-10'

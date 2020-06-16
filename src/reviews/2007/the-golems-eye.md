@@ -11,6 +11,8 @@ book:
   series: Bartimaeus
   series_position: '2'
   slug: the-golems-eye
+  tags:
+  - fantasy
   title: The Golem's Eye
 plan:
   date_added: '2015-04-08'

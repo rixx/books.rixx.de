@@ -11,6 +11,8 @@ book:
   series: The Lord of the Rings
   series_position: '1'
   slug: the-fellowship-of-the-ring
+  tags:
+  - fantasy
   title: The Fellowship of the Ring
 plan:
   date_added: '2015-07-02'

@@ -11,6 +11,8 @@ book:
   series: Thursday Next
   series_position: '4'
   slug: something-rotten
+  tags:
+  - fantasy
   title: Something Rotten
 plan:
   date_added: '2015-04-08'

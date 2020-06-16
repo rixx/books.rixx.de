@@ -11,6 +11,8 @@ book:
   series: The Last Unicorn
   series_position: '1'
   slug: the-last-unicorn
+  tags:
+  - fantasy
   title: The Last Unicorn
 plan:
   date_added: '2016-05-31'

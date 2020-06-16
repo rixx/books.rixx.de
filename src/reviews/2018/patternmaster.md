@@ -11,6 +11,8 @@ book:
   series: Patternmaster
   series_position: '4'
   slug: patternmaster
+  tags:
+  - fantasy
   title: Patternmaster
 plan:
   date_added: '2018-07-20'

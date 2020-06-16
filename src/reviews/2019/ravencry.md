@@ -11,6 +11,8 @@ book:
   series: Raven's Mark
   series_position: '2'
   slug: ravencry
+  tags:
+  - fantasy
   title: Ravencry
 plan:
   date_added: '2019-05-05'

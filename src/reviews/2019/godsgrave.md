@@ -11,6 +11,8 @@ book:
   series: The Nevernight Chronicle
   series_position: '2'
   slug: godsgrave
+  tags:
+  - fantasy
   title: Godsgrave
 plan:
   date_added: '2019-01-06'

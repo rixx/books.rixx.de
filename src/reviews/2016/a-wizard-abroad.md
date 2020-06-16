@@ -8,10 +8,12 @@ book:
   isbn13: '9780152055035'
   pages: '372'
   publication_year: '2005'
-  slug: a-wizard-abroad
-  title: A Wizard Abroad
   series: Young Wizards
   series_position: '4'
+  slug: a-wizard-abroad
+  tags:
+  - fantasy
+  title: A Wizard Abroad
 plan:
   date_added: '2016-05-03'
 review:

@@ -11,6 +11,8 @@ book:
   series: The Queen's Thief
   series_position: '1'
   slug: the-thief
+  tags:
+  - fantasy
   title: The Thief
 plan:
   date_added: '2018-09-15'

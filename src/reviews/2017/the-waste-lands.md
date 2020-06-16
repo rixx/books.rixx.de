@@ -11,6 +11,8 @@ book:
   series: The Dark Tower
   series_position: '3'
   slug: the-waste-lands
+  tags:
+  - fantasy
   title: The Waste Lands
 plan:
   date_added: '2017-06-05'

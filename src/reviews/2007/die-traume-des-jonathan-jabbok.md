@@ -11,6 +11,8 @@ book:
   series: Neschan-Trilogie
   series_position: '1'
   slug: die-traume-des-jonathan-jabbok
+  tags:
+  - fantasy
   title: Die Träume des Jonathan Jabbok
 plan:
   date_added: '2015-06-28'

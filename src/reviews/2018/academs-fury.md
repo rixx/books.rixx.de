@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '2'
   slug: academs-fury
+  tags:
+  - fantasy
   title: Academ's Fury
 plan:
   date_added: '2018-01-03'

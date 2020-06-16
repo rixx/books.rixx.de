@@ -11,6 +11,8 @@ book:
   series: Thursday Next
   series_position: '5'
   slug: first-among-sequels
+  tags:
+  - fantasy
   title: First Among Sequels
 plan:
   date_added: '2015-07-02'

@@ -11,6 +11,8 @@ book:
   series: Akata Witch
   series_position: '1'
   slug: akata-witch
+  tags:
+  - fantasy
   title: Akata Witch
 plan:
   date_added: '2018-02-18'

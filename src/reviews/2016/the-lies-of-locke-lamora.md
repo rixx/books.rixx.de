@@ -11,6 +11,8 @@ book:
   series: Gentleman Bastard
   series_position: '1'
   slug: the-lies-of-locke-lamora
+  tags:
+  - fantasy
   title: The Lies of Locke Lamora
 plan:
   date_added: '2016-05-18'

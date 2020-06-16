@@ -11,6 +11,8 @@ book:
   series: Farseer Trilogy
   series_position: '2'
   slug: royal-assassin
+  tags:
+  - fantasy
   title: Royal Assassin
 plan:
   date_added: '2016-10-11'

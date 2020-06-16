@@ -11,6 +11,8 @@ book:
   series: Bartimaeus
   series_position: '1'
   slug: the-amulet-of-samarkand
+  tags:
+  - fantasy
   title: The Amulet of Samarkand
 plan:
   date_added: '2015-07-02'

@@ -8,6 +8,8 @@ book:
   series: Clocktaur War
   series_position: '1'
   slug: clockwork-boys
+  tags:
+  - fantasy
   title: Clockwork Boys
 plan:
   date_added: '2018-09-19'

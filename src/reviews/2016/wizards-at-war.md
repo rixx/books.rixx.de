@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '8'
   slug: wizards-at-war
+  tags:
+  - fantasy
   title: Wizards at War
 plan:
   date_added: '2016-05-03'

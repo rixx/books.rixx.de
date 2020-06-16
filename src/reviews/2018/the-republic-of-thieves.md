@@ -11,6 +11,8 @@ book:
   series: Gentleman Bastard
   series_position: '3'
   slug: the-republic-of-thieves
+  tags:
+  - fantasy
   title: The Republic of Thieves
 plan:
   date_added: '2017-05-15'

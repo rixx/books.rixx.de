@@ -9,6 +9,8 @@ book:
   series: Raven's Shadow
   series_position: '1'
   slug: blood-song
+  tags:
+  - fantasy
   title: Blood Song
 plan:
   date_added: '2018-07-20'

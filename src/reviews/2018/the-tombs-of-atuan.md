@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '2'
   slug: the-tombs-of-atuan
+  tags:
+  - fantasy
   title: The Tombs of Atuan
 plan:
   date_added: '2017-02-27'

@@ -11,6 +11,8 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '4'
   slug: der-unsichtbare-freund
+  tags:
+  - fantasy
   title: Der unsichtbare Freund
 plan:
   date_added: '2015-06-28'

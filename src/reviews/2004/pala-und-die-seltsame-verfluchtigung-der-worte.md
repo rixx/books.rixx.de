@@ -9,6 +9,8 @@ book:
   pages: '445'
   publication_year: '2002'
   slug: pala-und-die-seltsame-verfluchtigung-der-worte
+  tags:
+  - fantasy
   title: Pala und die seltsame Verflüchtigung der Worte
 plan:
   date_added: '2015-06-28'

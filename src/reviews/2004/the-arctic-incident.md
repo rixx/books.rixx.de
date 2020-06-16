@@ -11,6 +11,8 @@ book:
   series: Artemis Fowl
   series_position: '2'
   slug: the-arctic-incident
+  tags:
+  - fantasy
   title: The Arctic Incident
 plan:
   date_added: '2016-05-03'

@@ -6,10 +6,12 @@ book:
   goodreads: '43615'
   pages: '231'
   publication_year: '2003'
-  slug: the-gunslinger
-  title: The Gunslinger
   series: The Dark Tower
   series_position: '1'
+  slug: the-gunslinger
+  tags:
+  - fantasy
+  title: The Gunslinger
 plan:
   date_added: '2016-11-13'
 review:

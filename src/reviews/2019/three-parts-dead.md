@@ -11,6 +11,8 @@ book:
   series: Craft Sequence
   series_position: '1'
   slug: three-parts-dead
+  tags:
+  - fantasy
   title: Three Parts Dead
 plan:
   date_added: '2016-06-08'

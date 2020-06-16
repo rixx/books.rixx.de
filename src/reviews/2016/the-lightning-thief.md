@@ -11,6 +11,8 @@ book:
   series: Percy Jackson and the Olympians
   series_position: '1'
   slug: the-lightning-thief
+  tags:
+  - fantasy
   title: The Lightning Thief
 plan:
   date_added: '2015-08-06'

@@ -11,6 +11,8 @@ book:
   series: The Divine Cities
   series_position: '1'
   slug: city-of-stairs
+  tags:
+  - fantasy
   title: City of Stairs
 plan:
   date_added: '2019-05-31'

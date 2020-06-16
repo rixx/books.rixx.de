@@ -11,6 +11,8 @@ book:
   series: Warlock
   series_position: '1'
   slug: the-warlock-in-spite-of-himself
+  tags:
+  - fantasy
   title: The Warlock in Spite of Himself
 plan:
   date_added: '2020-02-20'

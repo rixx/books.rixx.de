@@ -11,6 +11,8 @@ book:
   series: The Demon Cycle
   series_position: '5'
   slug: the-core
+  tags:
+  - fantasy
   title: The Core
 plan:
   date_added: '2018-09-03'

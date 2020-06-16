@@ -9,6 +9,8 @@ book:
   series: The Founders Trilogy
   series_position: '1'
   slug: foundryside
+  tags:
+  - fantasy
   title: Foundryside
 plan:
   date_added: '2019-01-14'

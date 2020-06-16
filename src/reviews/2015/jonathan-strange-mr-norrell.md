@@ -7,6 +7,8 @@ book:
   pages: '1006'
   publication_year: '2006'
   slug: jonathan-strange-mr-norrell
+  tags:
+  - fantasy
   title: Jonathan Strange & Mr Norrell
 plan:
   date_added: '2015-04-29'

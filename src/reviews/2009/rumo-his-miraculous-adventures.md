@@ -11,6 +11,8 @@ book:
   series: Zamonien
   series_position: '3'
   slug: rumo-his-miraculous-adventures
+  tags:
+  - fantasy
   title: Rumo & His Miraculous Adventures
 plan:
   date_added: '2015-04-08'

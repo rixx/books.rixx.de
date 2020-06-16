@@ -11,6 +11,8 @@ book:
   series: Zamonien
   series_position: '1'
   slug: the-13-12-lives-of-captain-bluebear
+  tags:
+  - fantasy
   title: The 13½ Lives of Captain Bluebear
 plan:
   date_added: '2015-04-09'

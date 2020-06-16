@@ -9,6 +9,8 @@ book:
   pages: '128'
   publication_year: '2000'
   slug: the-sandman-the-dream-hunters
+  tags:
+  - fantasy
   title: 'The Sandman: The Dream Hunters'
 plan:
   date_added: '2018-06-11'

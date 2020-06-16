@@ -11,6 +11,8 @@ book:
   series: Harry Potter
   series_position: '3'
   slug: harry-potter-and-the-prisoner-of-azkaban
+  tags:
+  - fantasy
   title: Harry Potter and the Prisoner of Azkaban
 plan:
   date_added: '2015-04-09'

@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '6'
   slug: a-wizard-alone
+  tags:
+  - fantasy
   title: A Wizard Alone
 plan:
   date_added: '2016-05-03'

@@ -11,6 +11,8 @@ book:
   series: Zamonien
   series_position: '5'
   slug: der-schrecksenmeister
+  tags:
+  - fantasy
   title: Der Schrecksenmeister
 plan:
   date_added: '2015-04-09'

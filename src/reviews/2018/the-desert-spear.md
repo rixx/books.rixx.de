@@ -11,6 +11,8 @@ book:
   series: Demon Cycle
   series_position: '2'
   slug: the-desert-spear
+  tags:
+  - fantasy
   title: The Desert Spear
 plan:
   date_added: '2017-12-08'

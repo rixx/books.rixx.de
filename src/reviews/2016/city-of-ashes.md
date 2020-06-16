@@ -11,6 +11,8 @@ book:
   series: The Mortal Instruments
   series_position: '2'
   slug: city-of-ashes
+  tags:
+  - fantasy
   title: City of Ashes
 plan:
   date_added: '2016-11-20'

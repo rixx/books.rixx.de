@@ -11,6 +11,8 @@ book:
   series: Legion
   series_position: '1'
   slug: legion
+  tags:
+  - fantasy
   title: Legion
 plan:
   date_added: '2016-06-08'

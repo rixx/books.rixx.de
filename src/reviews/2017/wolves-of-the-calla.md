@@ -11,6 +11,8 @@ book:
   series: The Dark Tower
   series_position: '5'
   slug: wolves-of-the-calla
+  tags:
+  - fantasy
   title: Wolves of the Calla
 plan:
   date_added: '2017-06-18'

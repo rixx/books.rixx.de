@@ -10,6 +10,8 @@ book:
   series: Artemis Fowl
   series_position: '4'
   slug: the-opal-deception
+  tags:
+  - fantasy
   title: The Opal Deception
 plan:
   date_added: '2015-04-08'

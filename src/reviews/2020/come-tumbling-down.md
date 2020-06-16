@@ -11,6 +11,8 @@ book:
   series: Wayward Children
   series_position: '5'
   slug: come-tumbling-down
+  tags:
+  - fantasy
   title: Come Tumbling Down
 plan:
   date_added: '2020-01-26'

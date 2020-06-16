@@ -11,6 +11,8 @@ book:
   series: Johnny Maxwell
   series_position: '1'
   slug: only-you-can-save-mankind
+  tags:
+  - fantasy
   title: Only You Can Save Mankind
 plan:
   date_added: '2015-04-08'

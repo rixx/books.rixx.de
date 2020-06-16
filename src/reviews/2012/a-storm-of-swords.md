@@ -11,6 +11,8 @@ book:
   series: A Song of Ice and Fire
   series_position: '3'
   slug: a-storm-of-swords
+  tags:
+  - fantasy
   title: A Storm of Swords
 plan:
   date_added: '2016-05-18'

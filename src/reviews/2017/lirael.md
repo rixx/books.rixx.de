@@ -11,6 +11,8 @@ book:
   series: Abhorsen
   series_position: '2'
   slug: lirael
+  tags:
+  - fantasy
   title: Lirael
 plan:
   date_added: '2017-05-16'

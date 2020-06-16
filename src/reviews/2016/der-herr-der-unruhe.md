@@ -9,6 +9,8 @@ book:
   pages: '509'
   publication_year: '2004'
   slug: der-herr-der-unruhe
+  tags:
+  - fantasy
   title: Der Herr der Unruhe
 plan:
   date_added: '2016-05-03'

@@ -11,6 +11,8 @@ book:
   series: Book of the Ancestor
   series_position: '2'
   slug: grey-sister
+  tags:
+  - fantasy
   title: Grey Sister
 plan:
   date_added: '2018-12-04'

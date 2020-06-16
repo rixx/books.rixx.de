@@ -11,6 +11,8 @@ book:
   series: Fairyland
   series_position: '1'
   slug: the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
+  tags:
+  - fantasy
   title: The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making
 plan:
   date_added: '2016-05-18'

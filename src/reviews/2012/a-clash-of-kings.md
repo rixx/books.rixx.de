@@ -11,6 +11,8 @@ book:
   series: A Song of Ice and Fire
   series_position: '2'
   slug: a-clash-of-kings
+  tags:
+  - fantasy
   title: A Clash of Kings
 plan:
   date_added: '2016-05-18'

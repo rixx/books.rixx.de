@@ -9,6 +9,8 @@ book:
   pages: '528'
   publication_year: '2008'
   slug: die-herrscherin-der-eismark
+  tags:
+  - fantasy
   title: Die Herrscherin der Eismark
 plan:
   date_added: '2016-05-08'

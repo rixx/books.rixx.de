@@ -9,6 +9,8 @@ book:
   series: Harry Potter
   series_position: '4'
   slug: harry-potter-and-the-goblet-of-fire
+  tags:
+  - fantasy
   title: Harry Potter and the Goblet of Fire
 plan:
   date_added: '2015-04-09'

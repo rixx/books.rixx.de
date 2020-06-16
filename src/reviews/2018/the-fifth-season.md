@@ -9,6 +9,8 @@ book:
   series: The Broken Earth
   series_position: '1'
   slug: the-fifth-season
+  tags:
+  - fantasy
   title: The Fifth Season
 plan:
   date_added: '2018-03-19'

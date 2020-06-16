@@ -11,6 +11,8 @@ book:
   series: The Inheritance Cycle
   series_position: '2'
   slug: eldest
+  tags:
+  - fantasy
   title: Eldest
 plan:
   date_added: '2016-05-03'

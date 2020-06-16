@@ -10,6 +10,7 @@ book:
   series_position: '1'
   slug: the-lion-the-witch-and-the-wardrobe
   tags:
+  - fantasy
   - kids
   title: The Lion, the Witch and the Wardrobe
 plan:

@@ -11,6 +11,8 @@ book:
   series: American Gods
   series_position: '2'
   slug: anansi-boys
+  tags:
+  - fantasy
   title: Anansi Boys
 plan:
   date_added: '2015-04-08'

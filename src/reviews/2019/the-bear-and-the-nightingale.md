@@ -11,6 +11,8 @@ book:
   series: Winternight Trilogy
   series_position: '1'
   slug: the-bear-and-the-nightingale
+  tags:
+  - fantasy
   title: The Bear and the Nightingale
 plan:
   date_added: '2018-08-27'

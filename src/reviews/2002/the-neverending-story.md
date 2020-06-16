@@ -10,6 +10,7 @@ book:
   publication_year: '1997'
   slug: the-neverending-story
   tags:
+  - fantasy
   - kids
   title: The Neverending Story
 plan:

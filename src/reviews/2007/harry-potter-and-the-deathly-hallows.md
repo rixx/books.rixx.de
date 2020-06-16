@@ -11,6 +11,8 @@ book:
   series: Harry Potter
   series_position: '7'
   slug: harry-potter-and-the-deathly-hallows
+  tags:
+  - fantasy
   title: Harry Potter and the Deathly Hallows
 plan:
   date_added: '2016-05-05'

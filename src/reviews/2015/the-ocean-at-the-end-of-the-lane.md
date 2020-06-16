@@ -9,6 +9,8 @@ book:
   pages: '181'
   publication_year: '2013'
   slug: the-ocean-at-the-end-of-the-lane
+  tags:
+  - fantasy
   title: The Ocean at the End of the Lane
 plan:
   date_added: '2015-04-08'

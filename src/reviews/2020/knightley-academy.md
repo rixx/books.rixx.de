@@ -11,6 +11,8 @@ book:
   series: Knightley Academy
   series_position: '1'
   slug: knightley-academy
+  tags:
+  - fantasy
   title: Knightley Academy
 plan:
   date_added: '2017-11-21'
@@ -20,6 +22,7 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
 Knightly Academy is, in a sentence, a conservative Harry Potter knockoff without magic.
 
 It's not as bad as it sounds! But the Harry Potter parallels are undeniable: Young orphan servant boy gets, by chance

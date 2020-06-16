@@ -11,6 +11,8 @@ book:
   series: The Stormlight Archive
   series_position: '1'
   slug: the-way-of-kings
+  tags:
+  - fantasy
   title: The Way of Kings
 plan:
   date_added: '2016-10-14'

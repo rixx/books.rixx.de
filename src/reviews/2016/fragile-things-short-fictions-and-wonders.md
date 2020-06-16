@@ -9,6 +9,8 @@ book:
   pages: '360'
   publication_year: '2006'
   slug: fragile-things-short-fictions-and-wonders
+  tags:
+  - fantasy
   title: 'Fragile Things: Short Fictions and Wonders'
 plan:
   date_added: '2015-04-08'

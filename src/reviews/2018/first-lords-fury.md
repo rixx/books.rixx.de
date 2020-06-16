@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '6'
   slug: first-lords-fury
+  tags:
+  - fantasy
   title: First Lord's Fury
 plan:
   date_added: '2018-08-06'

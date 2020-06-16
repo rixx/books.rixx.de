@@ -9,6 +9,8 @@ book:
   pages: '239'
   publication_year: '1926'
   slug: lud-in-the-mist
+  tags:
+  - fantasy
   title: Lud-in-the-Mist
 plan:
   date_added: '2019-04-10'

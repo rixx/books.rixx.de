@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '3'
   slug: the-farthest-shore
+  tags:
+  - fantasy
   title: The Farthest Shore
 plan:
   date_added: '2018-02-12'

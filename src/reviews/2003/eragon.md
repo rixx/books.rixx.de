@@ -11,6 +11,8 @@ book:
   series: The Inheritance Cycle
   series_position: '1'
   slug: eragon
+  tags:
+  - fantasy
   title: Eragon
 plan:
   date_added: '2015-04-08'

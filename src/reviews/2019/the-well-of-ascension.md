@@ -11,6 +11,8 @@ book:
   series: Mistborn
   series_position: '2'
   slug: the-well-of-ascension
+  tags:
+  - fantasy
   title: The Well of Ascension
 plan:
   date_added: '2019-02-22'

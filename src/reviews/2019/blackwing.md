@@ -11,6 +11,8 @@ book:
   series: Raven's Mark
   series_position: '1'
   slug: blackwing
+  tags:
+  - fantasy
   title: Blackwing
 plan:
   date_added: '2018-09-11'

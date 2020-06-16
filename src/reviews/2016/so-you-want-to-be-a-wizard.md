@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '1'
   slug: so-you-want-to-be-a-wizard
+  tags:
+  - fantasy
   title: So You Want to Be a Wizard
 plan:
   date_added: '2016-05-03'

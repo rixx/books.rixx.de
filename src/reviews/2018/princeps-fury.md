@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '5'
   slug: princeps-fury
+  tags:
+  - fantasy
   title: Princeps' Fury
 plan:
   date_added: '2018-01-03'

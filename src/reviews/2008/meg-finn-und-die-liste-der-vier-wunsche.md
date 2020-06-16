@@ -9,6 +9,8 @@ book:
   pages: '232'
   publication_year: '2005'
   slug: meg-finn-und-die-liste-der-vier-wunsche
+  tags:
+  - fantasy
   title: Meg Finn und die Liste der vier Wünsche
 plan:
   date_added: '2016-05-03'

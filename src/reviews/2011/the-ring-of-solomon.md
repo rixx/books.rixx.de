@@ -11,6 +11,8 @@ book:
   series: Bartimaeus
   series_position: '0.5'
   slug: the-ring-of-solomon
+  tags:
+  - fantasy
   title: The Ring of Solomon
 plan:
   date_added: '2015-04-08'

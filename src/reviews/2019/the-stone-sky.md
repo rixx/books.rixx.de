@@ -9,6 +9,8 @@ book:
   series: The Broken Earth
   series_position: '3'
   slug: the-stone-sky
+  tags:
+  - fantasy
   title: The Stone Sky
 plan:
   date_added: '2018-10-28'

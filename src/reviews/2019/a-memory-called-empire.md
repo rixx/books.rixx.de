@@ -11,6 +11,8 @@ book:
   series: Teixcalaan
   series_position: '1'
   slug: a-memory-called-empire
+  tags:
+  - fantasy
   title: A Memory Called Empire
 plan:
   date_added: '2019-06-12'

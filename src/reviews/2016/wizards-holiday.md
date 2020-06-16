@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '7'
   slug: wizards-holiday
+  tags:
+  - fantasy
   title: Wizard's Holiday
 plan:
   date_added: '2016-05-03'

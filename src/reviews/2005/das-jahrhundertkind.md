@@ -8,10 +8,12 @@ book:
   isbn13: '9783404153183'
   pages: '750'
   publication_year: '2007'
-  slug: das-jahrhundertkind
-  title: Das Jahrhundertkind
   series: Der Kreis der Dämmerung
   series_position: '1'
+  slug: das-jahrhundertkind
+  tags:
+  - fantasy
+  title: Das Jahrhundertkind
 plan:
   date_added: '2015-06-28'
 review:

@@ -9,6 +9,7 @@ book:
   slug: harry-potter-and-the-methods-of-rationality
   tags:
   - fanfic
+  - fantasy
   title: Harry Potter and the Methods of Rationality
 plan:
   date_added: '2015-04-09'

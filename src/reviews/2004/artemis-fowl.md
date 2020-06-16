@@ -11,6 +11,8 @@ book:
   series: Artemis Fowl
   series_position: '1'
   slug: artemis-fowl
+  tags:
+  - fantasy
   title: Artemis Fowl
 plan:
   date_added: '2015-04-08'

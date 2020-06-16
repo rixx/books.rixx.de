@@ -11,6 +11,8 @@ book:
   series: Thursday Next
   series_position: '3'
   slug: the-well-of-lost-plots
+  tags:
+  - fantasy
   title: The Well of Lost Plots
 plan:
   date_added: '2015-04-08'

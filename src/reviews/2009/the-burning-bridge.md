@@ -11,6 +11,8 @@ book:
   series: Ranger's Apprentice
   series_position: '2'
   slug: the-burning-bridge
+  tags:
+  - fantasy
   title: The Burning Bridge
 plan:
   date_added: '2015-04-08'

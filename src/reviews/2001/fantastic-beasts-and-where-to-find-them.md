@@ -10,6 +10,7 @@ book:
   publication_year: '2001'
   slug: fantastic-beasts-and-where-to-find-them
   tags:
+  - fantasy
   - kids
   title: Fantastic Beasts and Where to Find Them
 plan:

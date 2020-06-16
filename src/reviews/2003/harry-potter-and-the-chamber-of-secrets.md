@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: harry-potter-and-the-chamber-of-secrets
   tags:
+  - fantasy
   - kids
   title: Harry Potter and the Chamber of Secrets
 plan:

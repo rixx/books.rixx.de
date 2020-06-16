@@ -13,6 +13,7 @@ book:
   slug: the-just-city
   tags:
   - fanfic
+  - fantasy
   title: The Just City
 plan:
   date_added: '2019-09-28'

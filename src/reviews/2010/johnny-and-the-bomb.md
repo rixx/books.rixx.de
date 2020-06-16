@@ -11,6 +11,8 @@ book:
   series: Johnny Maxwell
   series_position: '3'
   slug: johnny-and-the-bomb
+  tags:
+  - fantasy
   title: Johnny and the Bomb
 plan:
   date_added: '2015-04-08'

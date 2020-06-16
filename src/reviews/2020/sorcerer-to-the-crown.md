@@ -11,6 +11,8 @@ book:
   series: Sorcerer Royal
   series_position: '1'
   slug: sorcerer-to-the-crown
+  tags:
+  - fantasy
   title: Sorcerer to the Crown
 plan:
   date_added: '2018-10-12'

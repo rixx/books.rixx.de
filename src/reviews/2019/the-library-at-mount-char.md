@@ -9,6 +9,8 @@ book:
   pages: '388'
   publication_year: '2016'
   slug: the-library-at-mount-char
+  tags:
+  - fantasy
   title: The Library at Mount Char
 plan:
   date_added: '2018-09-11'

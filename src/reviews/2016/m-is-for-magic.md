@@ -9,6 +9,8 @@ book:
   pages: '260'
   publication_year: null
   slug: m-is-for-magic
+  tags:
+  - fantasy
   title: M Is for Magic
 plan:
   date_added: '2015-07-02'

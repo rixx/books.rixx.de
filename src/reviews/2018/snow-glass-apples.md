@@ -7,6 +7,8 @@ book:
   pages: '25'
   publication_year: '2008'
   slug: snow-glass-apples
+  tags:
+  - fantasy
   title: Snow, Glass, Apples
 plan:
   date_added: '2018-06-11'

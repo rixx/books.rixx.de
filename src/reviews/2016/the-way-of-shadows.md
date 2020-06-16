@@ -11,6 +11,8 @@ book:
   series: Night Angel
   series_position: '1'
   slug: the-way-of-shadows
+  tags:
+  - fantasy
   title: The Way of Shadows
 plan:
   date_added: '2015-04-08'

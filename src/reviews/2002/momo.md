@@ -9,6 +9,7 @@ book:
   publication_year: null
   slug: momo
   tags:
+  - fantasy
   - kids
   title: Momo
 plan:

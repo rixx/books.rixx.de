@@ -11,6 +11,8 @@ book:
   series: The Book of the New Sun
   series_position: '1'
   slug: the-shadow-of-the-torturer
+  tags:
+  - fantasy
   title: The Shadow of the Torturer
 plan:
   date_added: '2018-02-18'

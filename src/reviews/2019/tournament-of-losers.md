@@ -9,6 +9,8 @@ book:
   pages: '229'
   publication_year: '2016'
   slug: tournament-of-losers
+  tags:
+  - fantasy
   title: Tournament of Losers
 plan:
   date_added: '2019-03-14'

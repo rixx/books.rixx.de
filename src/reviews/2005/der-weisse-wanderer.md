@@ -11,6 +11,8 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '3'
   slug: der-weisse-wanderer
+  tags:
+  - fantasy
   title: Der weiße Wanderer
 plan:
   date_added: '2015-06-28'

@@ -10,6 +10,8 @@ book:
   publication_year: '1958'
   slug: alarm-im-kasperletheater
   title: Alarm im Kasperletheater
+  tags:
+   - kids
 plan:
   date_added: 2020-05-24
 review:

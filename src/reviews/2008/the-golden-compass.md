@@ -11,6 +11,8 @@ book:
   series: His Dark Materials
   series_position: '1'
   slug: the-golden-compass
+  tags:
+  - fantasy
   title: The Golden Compass
 plan:
   date_added: '2015-04-08'

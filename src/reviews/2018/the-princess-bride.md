@@ -9,6 +9,8 @@ book:
   pages: '456'
   publication_year: '2003'
   slug: the-princess-bride
+  tags:
+  - fantasy
   title: The Princess Bride
 plan:
   date_added: '2017-05-16'

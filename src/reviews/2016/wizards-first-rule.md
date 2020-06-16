@@ -11,6 +11,8 @@ book:
   series: Sword of Truth
   series_position: '1'
   slug: wizards-first-rule
+  tags:
+  - fantasy
   title: Wizard's First Rule
 plan:
   date_added: '2016-05-03'

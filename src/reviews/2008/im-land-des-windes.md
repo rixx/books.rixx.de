@@ -11,6 +11,8 @@ book:
   series: Die Drachenkämpferin
   series_position: '1'
   slug: im-land-des-windes
+  tags:
+  - fantasy
   title: Im Land des Windes
 plan:
   date_added: '2015-07-03'

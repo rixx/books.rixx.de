@@ -11,6 +11,8 @@ book:
   series: Malazan Book of the Fallen
   series_position: '1'
   slug: gardens-of-the-moon
+  tags:
+  - fantasy
   title: Gardens of the Moon
 plan:
   date_added: '2018-09-03'

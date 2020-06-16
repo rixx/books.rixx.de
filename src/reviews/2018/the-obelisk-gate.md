@@ -9,6 +9,8 @@ book:
   series: The Broken Earth
   series_position: '2'
   slug: the-obelisk-gate
+  tags:
+  - fantasy
   title: The Obelisk Gate
 plan:
   date_added: '2018-09-10'

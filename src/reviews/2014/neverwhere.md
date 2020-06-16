@@ -11,6 +11,8 @@ book:
   series: London Below
   series_position: '1'
   slug: neverwhere
+  tags:
+  - fantasy
   title: Neverwhere
 plan:
   date_added: '2015-04-08'

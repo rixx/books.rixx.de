@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '2017'
   slug: in-calabria
+  tags:
+  - fantasy
   title: In Calabria
 plan:
   date_added: '2018-02-12'

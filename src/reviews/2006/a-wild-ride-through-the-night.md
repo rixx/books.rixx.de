@@ -9,6 +9,8 @@ book:
   pages: '224'
   publication_year: '2004'
   slug: a-wild-ride-through-the-night
+  tags:
+  - fantasy
   title: A Wild Ride Through the Night
 plan:
   date_added: '2016-05-06'

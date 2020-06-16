@@ -11,6 +11,8 @@ book:
   series: Der Clan der Otori
   series_position: '3'
   slug: der-glanz-des-mondes
+  tags:
+  - fantasy
   title: Der Glanz des Mondes
 plan:
   date_added: '2015-07-03'

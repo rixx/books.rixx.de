@@ -9,6 +9,8 @@ book:
   pages: '304'
   publication_year: '2005'
   slug: frostfeuer
+  tags:
+  - fantasy
   title: Frostfeuer
 plan:
   date_added: '2015-04-09'

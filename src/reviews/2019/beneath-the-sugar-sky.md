@@ -11,6 +11,8 @@ book:
   series: Wayward Children
   series_position: '3'
   slug: beneath-the-sugar-sky
+  tags:
+  - fantasy
   title: Beneath the Sugar Sky
 plan:
   date_added: '2019-01-05'

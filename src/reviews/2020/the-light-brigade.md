@@ -9,6 +9,8 @@ book:
   pages: '356'
   publication_year: '2019'
   slug: the-light-brigade
+  tags:
+  - fantasy
   title: The Light Brigade
 plan:
   date_added: '2019-07-15'

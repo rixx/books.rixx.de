@@ -9,6 +9,8 @@ book:
   series: Wayward Children
   series_position: '4'
   slug: in-an-absent-dream
+  tags:
+  - fantasy
   title: In an Absent Dream
 plan:
   date_added: '2019-05-10'

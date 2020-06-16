@@ -11,6 +11,8 @@ book:
   series: Demon Cycle
   series_position: '3'
   slug: the-daylight-war
+  tags:
+  - fantasy
   title: The Daylight War
 plan:
   date_added: '2018-06-24'

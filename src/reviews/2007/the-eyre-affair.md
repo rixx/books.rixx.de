@@ -11,6 +11,8 @@ book:
   series: Thursday Next
   series_position: '1'
   slug: the-eyre-affair
+  tags:
+  - fantasy
   title: The Eyre Affair
 plan:
   date_added: '2015-07-02'

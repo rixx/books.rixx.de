@@ -11,6 +11,8 @@ book:
   series: The Extraordinary Adventures of the Athena Club
   series_position: '1'
   slug: the-strange-case-of-the-alchemists-daughter
+  tags:
+  - fantasy
   title: The Strange Case of the Alchemist's Daughter
 plan:
   date_added: '2018-03-23'

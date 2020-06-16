@@ -11,6 +11,8 @@ book:
   series: Uralte Metropole
   series_position: '1'
   slug: lycidas
+  tags:
+  - fantasy
   title: Lycidas
 plan:
   date_added: '2015-04-08'

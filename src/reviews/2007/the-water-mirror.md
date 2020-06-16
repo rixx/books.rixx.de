@@ -11,6 +11,8 @@ book:
   series: Dark Reflections
   series_position: '1'
   slug: the-water-mirror
+  tags:
+  - fantasy
   title: The Water Mirror
 plan:
   date_added: '2015-04-09'

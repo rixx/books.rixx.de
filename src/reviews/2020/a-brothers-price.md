@@ -9,6 +9,8 @@ book:
   pages: '310'
   publication_year: null
   slug: a-brothers-price
+  tags:
+  - fantasy
   title: A Brother's Price
 plan:
   date_added: '2018-09-10'

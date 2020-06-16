@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '3'
   slug: cursors-fury
+  tags:
+  - fantasy
   title: Cursor's Fury
 plan:
   date_added: '2018-01-03'

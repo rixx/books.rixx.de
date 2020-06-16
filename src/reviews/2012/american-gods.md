@@ -9,6 +9,8 @@ book:
   series: American Gods
   series_position: '1'
   slug: american-gods
+  tags:
+  - fantasy
   title: American Gods
 plan:
   date_added: '2015-04-08'

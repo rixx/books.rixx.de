@@ -11,6 +11,8 @@ book:
   series: Loom Saga
   series_position: '1'
   slug: the-alchemists-of-loom
+  tags:
+  - fantasy
   title: The Alchemists of Loom
 plan:
   date_added: '2018-11-26'

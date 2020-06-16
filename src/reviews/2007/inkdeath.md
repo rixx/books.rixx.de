@@ -11,6 +11,8 @@ book:
   series: Inkworld
   series_position: '3'
   slug: inkdeath
+  tags:
+  - fantasy
   title: Inkdeath
 plan:
   date_added: '2015-08-04'

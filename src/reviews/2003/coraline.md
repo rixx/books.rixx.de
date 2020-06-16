@@ -10,6 +10,7 @@ book:
   publication_year: '2002'
   slug: coraline
   tags:
+  - fantasy
   - kids
   title: Coraline
 plan:

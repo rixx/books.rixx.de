@@ -9,6 +9,8 @@ book:
   series: Harry Potter
   series_position: '6'
   slug: harry-potter-and-the-half-blood-prince
+  tags:
+  - fantasy
   title: Harry Potter and the Half-Blood Prince
 plan:
   date_added: '2016-05-05'

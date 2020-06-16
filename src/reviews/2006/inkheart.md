@@ -11,6 +11,8 @@ book:
   series: Inkworld
   series_position: '1'
   slug: inkheart
+  tags:
+  - fantasy
   title: Inkheart
 plan:
   date_added: '2015-08-04'

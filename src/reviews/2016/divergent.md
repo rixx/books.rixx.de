@@ -11,6 +11,8 @@ book:
   series: Divergent
   series_position: '1'
   slug: divergent
+  tags:
+  - fantasy
   title: Divergent
 plan:
   date_added: '2016-05-08'

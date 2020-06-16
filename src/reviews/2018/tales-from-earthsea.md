@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '5'
   slug: tales-from-earthsea
+  tags:
+  - fantasy
   title: Tales from Earthsea
 plan:
   date_added: '2018-03-04'

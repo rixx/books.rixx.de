@@ -11,6 +11,8 @@ book:
   series: The Dark Tower
   series_position: '0.5'
   slug: the-little-sisters-of-eluria
+  tags:
+  - fantasy
   title: The Little Sisters of Eluria
 plan:
   date_added: '2017-07-11'

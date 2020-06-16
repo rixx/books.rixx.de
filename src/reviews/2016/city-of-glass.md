@@ -11,6 +11,8 @@ book:
   series: The Mortal Instruments
   series_position: '3'
   slug: city-of-glass
+  tags:
+  - fantasy
   title: City of Glass
 plan:
   date_added: '2016-11-22'

@@ -11,6 +11,8 @@ book:
   series: The Wheel of Time
   series_position: '1'
   slug: the-eye-of-the-world
+  tags:
+  - fantasy
   title: The Eye of the World
 plan:
   date_added: '2018-02-17'

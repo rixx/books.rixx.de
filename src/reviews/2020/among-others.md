@@ -9,6 +9,8 @@ book:
   pages: '304'
   publication_year: '2011'
   slug: among-others
+  tags:
+  - fantasy
   title: Among Others
 plan:
   date_added: '2020-03-10'

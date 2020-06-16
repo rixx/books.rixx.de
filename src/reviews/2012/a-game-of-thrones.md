@@ -11,6 +11,8 @@ book:
   series: A Song of Ice and Fire
   series_position: '1'
   slug: a-game-of-thrones
+  tags:
+  - fantasy
   title: A Game of Thrones
 plan:
   date_added: '2015-04-08'

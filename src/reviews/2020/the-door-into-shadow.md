@@ -11,6 +11,8 @@ book:
   series: Tale of the Five
   series_position: '2'
   slug: the-door-into-shadow
+  tags:
+  - fantasy
   title: The Door Into Shadow
 plan:
   date_added: '2019-11-15'

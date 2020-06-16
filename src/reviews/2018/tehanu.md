@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '4'
   slug: tehanu
+  tags:
+  - fantasy
   title: Tehanu
 plan:
   date_added: '2018-02-22'

@@ -11,6 +11,8 @@ book:
   series: Night Angel
   series_position: '3'
   slug: beyond-the-shadows
+  tags:
+  - fantasy
   title: Beyond the Shadows
 plan:
   date_added: '2016-05-03'

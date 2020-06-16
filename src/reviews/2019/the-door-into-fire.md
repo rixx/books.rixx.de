@@ -10,6 +10,8 @@ book:
   series: Tale of the Five
   series_position: '1'
   slug: the-door-into-fire
+  tags:
+  - fantasy
   title: The Door Into Fire
 plan:
   date_added: '2019-10-05'

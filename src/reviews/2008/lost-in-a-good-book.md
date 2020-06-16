@@ -11,6 +11,8 @@ book:
   series: Thursday Next
   series_position: '2'
   slug: lost-in-a-good-book
+  tags:
+  - fantasy
   title: Lost in a Good Book
 plan:
   date_added: '2015-04-08'

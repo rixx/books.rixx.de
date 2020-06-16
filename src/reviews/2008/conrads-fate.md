@@ -11,6 +11,8 @@ book:
   series: Chrestomanci
   series_position: '5'
   slug: conrads-fate
+  tags:
+  - fantasy
   title: Conrad's Fate
 plan:
   date_added: '2016-05-06'

@@ -11,6 +11,8 @@ book:
   series: Artemis Fowl
   series_position: '3'
   slug: the-eternity-code
+  tags:
+  - fantasy
   title: The Eternity Code
 plan:
   date_added: '2016-05-03'

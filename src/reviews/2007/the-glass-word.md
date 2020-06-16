@@ -11,6 +11,8 @@ book:
   series: Dark Reflections
   series_position: '3'
   slug: the-glass-word
+  tags:
+  - fantasy
   title: The Glass Word
 plan:
   date_added: '2015-04-09'

@@ -9,6 +9,8 @@ book:
   pages: '416'
   publication_year: '2019'
   slug: the-raven-tower
+  tags:
+  - fantasy
   title: The Raven Tower
 plan:
   date_added: '2019-03-17'

@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '2'
   slug: deep-wizardry
+  tags:
+  - fantasy
   title: Deep Wizardry
 plan:
   date_added: '2016-05-03'

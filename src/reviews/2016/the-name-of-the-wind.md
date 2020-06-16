@@ -11,6 +11,8 @@ book:
   series: The Kingkiller Chronicle
   series_position: '1'
   slug: the-name-of-the-wind
+  tags:
+  - fantasy
   title: The Name of the Wind
 plan:
   date_added: '2015-04-09'

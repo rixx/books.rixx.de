@@ -11,6 +11,8 @@ book:
   series: Farseer Trilogy
   series_position: '3'
   slug: assassins-quest
+  tags:
+  - fantasy
   title: Assassin's Quest
 plan:
   date_added: '2016-12-08'

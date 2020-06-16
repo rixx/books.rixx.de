@@ -9,6 +9,8 @@ book:
   pages: '435'
   publication_year: '2015'
   slug: uprooted
+  tags:
+  - fantasy
   title: Uprooted
 plan:
   date_added: '2018-07-20'

@@ -9,6 +9,8 @@ book:
   pages: '128'
   publication_year: '2011'
   slug: the-wild-girls
+  tags:
+  - fantasy
   title: The Wild Girls
 plan:
   date_added: '2018-02-01'

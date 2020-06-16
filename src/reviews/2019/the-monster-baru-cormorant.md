@@ -9,6 +9,8 @@ book:
   series: The Masquerade
   series_position: '2'
   slug: the-monster-baru-cormorant
+  tags:
+  - fantasy
   title: The Monster Baru Cormorant
 plan:
   date_added: '2019-05-02'

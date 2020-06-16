@@ -8,6 +8,8 @@ book:
   isbn13: '9781779501110'
   publication_year: null
   slug: harleen
+  tags:
+  - fantasy
   title: Harleen
 plan:
   date_added: '2020-02-29'

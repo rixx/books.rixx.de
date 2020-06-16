@@ -10,6 +10,7 @@ book:
   series_position: '1'
   slug: harry-potter-and-the-sorcerers-stone
   tags:
+  - fantasy
   - kids
   title: Harry Potter and the Sorcerer's Stone
 plan:

@@ -9,6 +9,8 @@ book:
   pages: '113'
   publication_year: '2013'
   slug: fortunately-the-milk
+  tags:
+  - fantasy
   title: Fortunately, the Milk
 plan:
   date_added: '2015-07-02'

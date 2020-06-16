@@ -11,6 +11,8 @@ book:
   series: The Books of Babel
   series_position: '1'
   slug: senlin-ascends
+  tags:
+  - fantasy
   title: Senlin Ascends
 plan:
   date_added: '2018-09-11'

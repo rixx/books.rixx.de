@@ -9,6 +9,8 @@ book:
   pages: '320'
   publication_year: '2012'
   slug: a-blink-of-the-screen-collected-shorter-fiction
+  tags:
+  - fantasy
   title: 'A Blink of the Screen: Collected Shorter Fiction'
 plan:
   date_added: '2015-04-08'

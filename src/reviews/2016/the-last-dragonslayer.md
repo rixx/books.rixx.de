@@ -11,6 +11,8 @@ book:
   series: The Last Dragonslayer
   series_position: '1'
   slug: the-last-dragonslayer
+  tags:
+  - fantasy
   title: The Last Dragonslayer
 plan:
   date_added: '2016-05-08'

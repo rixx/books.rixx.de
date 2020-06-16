@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: dragon-rider
   tags:
+  - fantasy
   - kids
   title: Dragon Rider
 plan:

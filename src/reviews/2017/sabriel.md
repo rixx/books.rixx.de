@@ -11,6 +11,8 @@ book:
   series: Abhorsen
   series_position: '1'
   slug: sabriel
+  tags:
+  - fantasy
   title: Sabriel
 plan:
   date_added: '2016-05-08'

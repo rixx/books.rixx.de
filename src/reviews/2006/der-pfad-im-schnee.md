@@ -10,6 +10,8 @@ book:
   series: Der Clan der Otori
   series_position: '2'
   slug: der-pfad-im-schnee
+  tags:
+  - fantasy
   title: Der Pfad im Schnee
 plan:
   date_added: '2015-07-03'

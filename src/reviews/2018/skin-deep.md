@@ -9,6 +9,8 @@ book:
   series: Legion
   series_position: '2'
   slug: skin-deep
+  tags:
+  - fantasy
   title: Skin Deep
 plan:
   date_added: '2017-11-28'

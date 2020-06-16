@@ -7,6 +7,8 @@ book:
   pages: '491'
   publication_year: '2006'
   slug: good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+  tags:
+  - fantasy
   title: 'Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch'
 plan:
   date_added: '2015-04-08'

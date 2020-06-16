@@ -10,6 +10,8 @@ book:
   series: The Dark Tower
   series_position: '6'
   slug: song-of-susannah
+  tags:
+  - fantasy
   title: Song of Susannah
 plan:
   date_added: '2017-06-20'

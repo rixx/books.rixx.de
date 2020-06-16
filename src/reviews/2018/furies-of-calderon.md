@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '1'
   slug: furies-of-calderon
+  tags:
+  - fantasy
   title: Furies of Calderon
 plan:
   date_added: '2017-11-15'

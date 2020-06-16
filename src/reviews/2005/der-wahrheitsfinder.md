@@ -11,6 +11,8 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '2'
   slug: der-wahrheitsfinder
+  tags:
+  - fantasy
   title: Der Wahrheitsfinder
 plan:
   date_added: '2015-06-28'

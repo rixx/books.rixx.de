@@ -11,6 +11,8 @@ book:
   series: Wayward Children
   series_position: '2'
   slug: down-among-the-sticks-and-bones
+  tags:
+  - fantasy
   title: Down Among the Sticks and Bones
 plan:
   date_added: '2018-10-06'

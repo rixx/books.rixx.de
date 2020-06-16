@@ -11,6 +11,8 @@ book:
   series: The Stormlight Archive
   series_position: '2'
   slug: words-of-radiance
+  tags:
+  - fantasy
   title: Words of Radiance
 plan:
   date_added: '2018-08-05'

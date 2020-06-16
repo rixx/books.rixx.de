@@ -11,6 +11,8 @@ book:
   series: The Dark Tower
   series_position: '2'
   slug: the-drawing-of-the-three
+  tags:
+  - fantasy
   title: The Drawing of the Three
 plan:
   date_added: '2017-05-31'

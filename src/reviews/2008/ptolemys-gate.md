@@ -11,6 +11,8 @@ book:
   series: Bartimaeus
   series_position: '3'
   slug: ptolemys-gate
+  tags:
+  - fantasy
   title: Ptolemy's Gate
 plan:
   date_added: '2015-07-02'

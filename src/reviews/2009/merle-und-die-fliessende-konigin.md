@@ -10,6 +10,8 @@ book:
   series: Merle-Trilogie
   series_position: '1'
   slug: merle-und-die-fliessende-konigin
+  tags:
+  - fantasy
   title: Merle und die Fließende Königin
 plan:
   date_added: '2015-04-09'

@@ -11,6 +11,8 @@ book:
   series: Zamonien
   series_position: '6'
   slug: das-labyrinth-der-traumenden-bucher
+  tags:
+  - fantasy
   title: Das Labyrinth der Träumenden Bücher
 plan:
   date_added: '2015-04-09'

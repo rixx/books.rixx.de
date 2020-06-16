@@ -9,6 +9,8 @@ book:
   pages: '285'
   publication_year: '2017'
   slug: the-unicorn-anthology
+  tags:
+  - fantasy
   title: The Unicorn Anthology
 plan:
   date_added: '2019-04-06'

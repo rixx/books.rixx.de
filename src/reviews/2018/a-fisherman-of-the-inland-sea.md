@@ -9,6 +9,8 @@ book:
   pages: '207'
   publication_year: '2005'
   slug: a-fisherman-of-the-inland-sea
+  tags:
+  - fantasy
   title: A Fisherman of the Inland Sea
 plan:
   date_added: '2018-10-02'

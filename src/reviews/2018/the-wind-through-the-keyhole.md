@@ -9,6 +9,8 @@ book:
   series: The Dark Tower
   series_position: '4.5'
   slug: the-wind-through-the-keyhole
+  tags:
+  - fantasy
   title: The Wind Through the Keyhole
 plan:
   date_added: '2017-07-11'

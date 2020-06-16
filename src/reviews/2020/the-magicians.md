@@ -11,6 +11,8 @@ book:
   series: The Magicians
   series_position: '1'
   slug: the-magicians
+  tags:
+  - fantasy
   title: The Magicians
 plan:
   date_added: '2018-03-19'

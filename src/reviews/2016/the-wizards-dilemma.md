@@ -11,6 +11,8 @@ book:
   series: Young Wizards
   series_position: '5'
   slug: the-wizards-dilemma
+  tags:
+  - fantasy
   title: The Wizard's Dilemma
 plan:
   date_added: '2016-05-03'

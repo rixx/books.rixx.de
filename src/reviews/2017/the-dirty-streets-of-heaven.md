@@ -11,6 +11,8 @@ book:
   series: Bobby Dollar
   series_position: '1'
   slug: the-dirty-streets-of-heaven
+  tags:
+  - fantasy
   title: The Dirty Streets of Heaven
 plan:
   date_added: '2016-06-07'

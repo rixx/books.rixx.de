@@ -11,6 +11,8 @@ book:
   series: Inkworld
   series_position: '2'
   slug: inkspell
+  tags:
+  - fantasy
   title: Inkspell
 plan:
   date_added: '2015-08-04'

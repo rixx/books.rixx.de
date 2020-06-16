@@ -9,6 +9,8 @@ book:
   pages: '307'
   publication_year: '2008'
   slug: the-graveyard-book
+  tags:
+  - fantasy
   title: The Graveyard Book
 plan:
   date_added: '2015-04-08'

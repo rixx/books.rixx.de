@@ -11,6 +11,8 @@ book:
   series: Chrestomanci
   series_position: '2'
   slug: the-lives-of-christopher-chant
+  tags:
+  - fantasy
   title: The Lives of Christopher Chant
 plan:
   date_added: '2016-05-06'

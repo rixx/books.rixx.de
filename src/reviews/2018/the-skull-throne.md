@@ -11,6 +11,8 @@ book:
   series: Demon Cycle
   series_position: '4'
   slug: the-skull-throne
+  tags:
+  - fantasy
   title: The Skull Throne
 plan:
   date_added: '2018-07-28'

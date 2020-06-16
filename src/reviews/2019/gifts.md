@@ -11,6 +11,8 @@ book:
   series: Annals of the Western Shore
   series_position: '1'
   slug: gifts
+  tags:
+  - fantasy
   title: Gifts
 plan:
   date_added: '2019-04-02'

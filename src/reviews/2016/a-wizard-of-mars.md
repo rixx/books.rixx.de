@@ -8,10 +8,12 @@ book:
   isbn13: '9780152047702'
   pages: '550'
   publication_year: '2010'
-  slug: a-wizard-of-mars
-  title: A Wizard of Mars
   series: Young Wizards
   series_position: '9'
+  slug: a-wizard-of-mars
+  tags:
+  - fantasy
+  title: A Wizard of Mars
 plan:
   date_added: '2016-05-03'
 review:

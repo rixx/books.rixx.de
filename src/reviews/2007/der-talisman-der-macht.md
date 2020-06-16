@@ -11,7 +11,9 @@ book:
   series: Die Drachenkämpferin
   series_position: '3'
   slug: der-talisman-der-macht
-  title: 'Der Talisman der Macht'
+  tags:
+  - fantasy
+  title: Der Talisman der Macht
 plan:
   date_added: '2015-07-03'
 review:

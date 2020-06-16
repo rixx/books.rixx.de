@@ -8,6 +8,8 @@ book:
   series: Earthsea Cycle
   series_position: '6.5'
   slug: the-daughter-of-odren
+  tags:
+  - fantasy
   title: The Daughter of Odren
 plan:
   date_added: '2018-09-30'

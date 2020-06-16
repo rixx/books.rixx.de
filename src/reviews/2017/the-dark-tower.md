@@ -9,6 +9,8 @@ book:
   series: The Dark Tower
   series_position: '7'
   slug: the-dark-tower
+  tags:
+  - fantasy
   title: The Dark Tower
 plan:
   date_added: '2017-07-11'

@@ -11,6 +11,8 @@ book:
   series: Demon Cycle
   series_position: '1'
   slug: the-painted-man
+  tags:
+  - fantasy
   title: The Painted Man
 plan:
   date_added: '2016-05-03'

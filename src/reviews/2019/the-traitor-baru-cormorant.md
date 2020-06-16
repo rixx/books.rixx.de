@@ -11,6 +11,8 @@ book:
   series: The Masquerade
   series_position: '1'
   slug: the-traitor-baru-cormorant
+  tags:
+  - fantasy
   title: The Traitor Baru Cormorant
 plan:
   date_added: '2018-09-15'

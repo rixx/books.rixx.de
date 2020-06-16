@@ -9,6 +9,8 @@ book:
   pages: '386'
   publication_year: '2004'
   slug: the-silmarillion
+  tags:
+  - fantasy
   title: The Silmarillion
 plan:
   date_added: '2015-04-09'

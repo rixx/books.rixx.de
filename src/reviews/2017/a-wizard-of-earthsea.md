@@ -11,6 +11,8 @@ book:
   series: Earthsea Cycle
   series_position: '1'
   slug: a-wizard-of-earthsea
+  tags:
+  - fantasy
   title: A Wizard of Earthsea
 plan:
   date_added: '2016-10-25'

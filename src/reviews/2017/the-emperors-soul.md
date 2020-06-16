@@ -9,6 +9,8 @@ book:
   pages: '175'
   publication_year: '2012'
   slug: the-emperors-soul
+  tags:
+  - fantasy
   title: The Emperor's Soul
 plan:
   date_added: '2017-11-28'

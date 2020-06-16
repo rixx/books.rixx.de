@@ -11,6 +11,8 @@ book:
   series: Twilight
   series_position: '4'
   slug: breaking-dawn
+  tags:
+  - fantasy
   title: Breaking Dawn
 plan:
   date_added: '2015-06-28'

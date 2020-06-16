@@ -11,6 +11,8 @@ book:
   series: Chrestomanci
   series_position: '3'
   slug: witch-week
+  tags:
+  - fantasy
   title: Witch Week
 plan:
   date_added: '2016-05-06'

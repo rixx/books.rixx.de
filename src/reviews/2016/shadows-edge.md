@@ -11,6 +11,8 @@ book:
   series: Night Angel
   series_position: '2'
   slug: shadows-edge
+  tags:
+  - fantasy
   title: Shadow's Edge
 plan:
   date_added: '2016-05-03'

@@ -11,7 +11,9 @@ book:
   series: Die Drachenkämpferin
   series_position: '2'
   slug: die-drachenkampferin-der-auftrag-des-magiers
-  title: 'Der Auftrag des Magiers'
+  tags:
+  - fantasy
+  title: Der Auftrag des Magiers
 plan:
   date_added: '2015-07-03'
 review:

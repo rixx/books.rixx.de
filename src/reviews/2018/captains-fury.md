@@ -11,6 +11,8 @@ book:
   series: Codex Alera
   series_position: '4'
   slug: captains-fury
+  tags:
+  - fantasy
   title: Captain's Fury
 plan:
   date_added: '2018-01-03'
