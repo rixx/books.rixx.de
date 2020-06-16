@@ -6,7 +6,7 @@ import click
 import inquirer
 from rauth.service import OAuth1Service
 
-from .books import change_book, create_book
+from .books import change_book, create_book, change_tags
 from .goodreads import get_shelves
 from .renderer import build_site
 
@@ -23,6 +23,7 @@ def cli(*lol, **trololol):
         choices=(
             ("Add a new book", create_book),
             ("Edit an existing book", change_book),
+            ("Tag books", change_tags),
             ("Build the site", build_site),
         ),
     )(auth=auth_data)

@@ -127,6 +127,22 @@ class Review:
         out_path.parent.mkdir(parents=True, exist_ok=True)
         return out_path
 
+    def add_tag(self, tag, save=True):
+        current_tags = self.metadata["book"].get("tags", [])
+        if tag in current_tags:
+            return
+        self.metadata["book"]["tags"] = sorted(current_tags + [tag])
+        if save:
+            self.save()
+
+    def remove_tag(self, tag, save=True):
+        current_tags = self.metadata["book"].get("tags", [])
+        if tag not in current_tags:
+            return
+        self.metadata["book"]["tags"] = [tag for tag in current_tags if tag != tag]
+        if save:
+            self.save()
+
     def save(self):
         self.clean()
         current_path = self.get_path()
@@ -558,3 +574,37 @@ def change_book(auth):
         )
         if action == "remove":
             return change_book(auth=auth)
+
+
+def change_tags(**kwargs):
+    reviews = sorted(
+        load_reviews(),
+        key=lambda r: (r.metadata["book"]["author"], r.metadata["book"]["title"]),
+    )
+    tags = [path.stem for path in Path("src/tags").glob("*.md")]
+
+    tag = inquirer.list_input(message="Which tag do you want to work on?", choices=tags)
+    tagged = inquirer.prompt(
+        [
+            inquirer.Checkbox(
+                name="tagged",
+                message=f"Books tagged as {tag}",
+                choices=[
+                    (
+                        f"{r.metadata['book']['author']}: {r.metadata['book']['title']}",
+                        r,
+                    )
+                    for r in reviews
+                ],
+                default=[
+                    r for r in reviews if tag in r.metadata["book"].get("tags", [])
+                ],
+            )
+        ]
+    )["tagged"]
+
+    for review in reviews:
+        if review in tagged:
+            review.add_tag(tag)
+        else:
+            review.remove_tag(tag)
