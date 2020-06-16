@@ -9,6 +9,8 @@ book:
   pages: '256'
   publication_year: '1992'
   slug: last-chance-to-see
+  tags:
+  - nonfiction
   title: Last Chance to See
 plan:
   date_added: '2016-05-18'

@@ -7,6 +7,8 @@ book:
   pages: '283'
   publication_year: '1993'
   slug: the-diary-of-a-young-girl
+  tags:
+  - nonfiction
   title: The Diary of a Young Girl
 plan:
   date_added: '2015-04-08'

@@ -9,6 +9,8 @@ book:
   pages: '249'
   publication_year: '1977'
   slug: die-tante-jolesch
+  tags:
+  - nonfiction
   title: Die Tante Jolesch
 plan:
   date_added: '2015-04-09'

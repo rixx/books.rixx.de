@@ -9,6 +9,8 @@ book:
   pages: '110'
   publication_year: '2000'
   slug: on-the-manner-of-negotiating-with-princes
+  tags:
+  - nonfiction
   title: On the Manner of Negotiating with Princes
 plan:
   date_added: '2019-12-02'

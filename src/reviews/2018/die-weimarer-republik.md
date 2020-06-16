@@ -6,6 +6,8 @@ book:
   goodreads: '11397051'
   publication_year: null
   slug: die-weimarer-republik
+  tags:
+  - nonfiction
   title: Die Weimarer Republik
 plan:
   date_added: '2017-11-16'

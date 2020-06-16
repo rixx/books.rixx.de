@@ -9,6 +9,8 @@ book:
   pages: '336'
   publication_year: '2005'
   slug: descartes-error-emotion-reason-and-the-human-brain
+  tags:
+  - nonfiction
   title: 'Descartes'' Error: Emotion, Reason and the Human Brain'
 plan:
   date_added: '2020-04-17'

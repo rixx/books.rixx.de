@@ -9,6 +9,8 @@ book:
   pages: '345'
   publication_year: '2013'
   slug: the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win
+  tags:
+  - nonfiction
   title: 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
     Win'
 plan:

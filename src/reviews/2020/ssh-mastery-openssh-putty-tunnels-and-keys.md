@@ -7,6 +7,8 @@ book:
   pages: '150'
   publication_year: '2012'
   slug: ssh-mastery-openssh-putty-tunnels-and-keys
+  tags:
+  - nonfiction
   title: 'SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys'
 plan:
   date_added: '2020-02-04'

@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '1999'
   slug: all-about-love-new-visions
+  tags:
+  - nonfiction
   title: 'All About Love: New Visions'
 plan:
   date_added: '2020-03-15'

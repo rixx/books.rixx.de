@@ -9,6 +9,8 @@ book:
   pages: '134'
   publication_year: '1997'
   slug: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance
+  tags:
+  - nonfiction
   title: 'The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance'
 plan:
   date_added: '2020-03-30'

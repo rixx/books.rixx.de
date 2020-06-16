@@ -9,6 +9,8 @@ book:
   pages: '295'
   publication_year: '2013'
   slug: an-astronauts-guide-to-life-on-earth
+  tags:
+  - nonfiction
   title: An Astronaut's Guide to Life on Earth
 plan:
   date_added: '2018-07-20'

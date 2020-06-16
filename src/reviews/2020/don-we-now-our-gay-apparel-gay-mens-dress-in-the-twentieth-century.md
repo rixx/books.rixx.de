@@ -9,6 +9,8 @@ book:
   pages: '224'
   publication_year: '2000'
   slug: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century
+  tags:
+  - nonfiction
   title: 'Don We Now Our Gay Apparel: Gay Men''s Dress in the Twentieth Century'
 plan:
   date_added: '2020-02-17'

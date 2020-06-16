@@ -9,6 +9,8 @@ book:
   pages: '132'
   publication_year: '2001'
   slug: intelligence-a-very-short-introduction
+  tags:
+  - nonfiction
   title: 'Intelligence: A Very Short Introduction'
 plan:
   date_added: '2020-05-09'

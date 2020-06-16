@@ -9,6 +9,8 @@ book:
   pages: '246'
   publication_year: '2011'
   slug: models-attract-women-through-honesty
+  tags:
+  - nonfiction
   title: 'Models: Attract Women Through Honesty'
 plan:
   date_added: '2020-04-16'

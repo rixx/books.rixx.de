@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '1948'
   slug: leisure-the-basis-of-culture
+  tags:
+  - nonfiction
   title: 'Leisure: The Basis of Culture'
 plan:
   date_added: 2020-05-24

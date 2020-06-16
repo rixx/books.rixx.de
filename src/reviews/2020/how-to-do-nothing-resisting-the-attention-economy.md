@@ -8,6 +8,8 @@ book:
   isbn13: '9781612197494'
   publication_year: null
   slug: how-to-do-nothing-resisting-the-attention-economy
+  tags:
+  - nonfiction
   title: 'How to Do Nothing: Resisting the Attention Economy'
 plan:
   date_added: '2020-01-26'

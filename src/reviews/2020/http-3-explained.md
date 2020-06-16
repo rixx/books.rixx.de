@@ -6,6 +6,8 @@ book:
   goodreads: '43560466'
   publication_year: null
   slug: http-3-explained
+  tags:
+  - nonfiction
   title: HTTP/3 explained
 plan:
   date_added: '2020-01-11'

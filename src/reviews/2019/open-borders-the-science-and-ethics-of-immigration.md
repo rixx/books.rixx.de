@@ -9,6 +9,8 @@ book:
   pages: '256'
   publication_year: '2019'
   slug: open-borders-the-science-and-ethics-of-immigration
+  tags:
+  - nonfiction
   title: 'Open Borders: The Science and Ethics of Immigration'
 plan:
   date_added: '2019-12-12'

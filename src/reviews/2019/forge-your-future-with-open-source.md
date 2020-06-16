@@ -9,6 +9,8 @@ book:
   pages: '98'
   publication_year: '2018'
   slug: forge-your-future-with-open-source
+  tags:
+  - nonfiction
   title: Forge Your Future with Open Source
 plan:
   date_added: '2019-09-20'

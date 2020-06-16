@@ -9,6 +9,8 @@ book:
   pages: '499'
   publication_year: '2011'
   slug: thinking-fast-and-slow
+  tags:
+  - nonfiction
   title: Thinking, Fast and Slow
 plan:
   date_added: '2015-04-09'

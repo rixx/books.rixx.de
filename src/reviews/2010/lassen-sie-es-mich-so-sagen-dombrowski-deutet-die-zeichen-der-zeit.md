@@ -9,6 +9,8 @@ book:
   pages: '268'
   publication_year: '2007'
   slug: lassen-sie-es-mich-so-sagen-dombrowski-deutet-die-zeichen-der-zeit
+  tags:
+  - nonfiction
   title: 'Lassen Sie es mich so sagen : Dombrowski deutet die Zeichen der Zeit'
 plan:
   date_added: '2015-04-09'

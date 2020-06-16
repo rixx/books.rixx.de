@@ -9,6 +9,8 @@ book:
   pages: '288'
   publication_year: '2015'
   slug: how-to-solve-it-a-new-aspect-of-mathematical-method
+  tags:
+  - nonfiction
   title: 'How to Solve It: A New Aspect of Mathematical Method'
 plan:
   date_added: '2020-03-31'

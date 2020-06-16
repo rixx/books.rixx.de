@@ -8,6 +8,8 @@ book:
   isbn13: '9781732265196'
   publication_year: null
   slug: get-together-how-to-build-a-community-with-your-people
+  tags:
+  - nonfiction
   title: 'Get Together: How to build a community with your people'
 plan:
   date_added: '2020-03-05'

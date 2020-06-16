@@ -6,6 +6,8 @@ book:
   goodreads: '32186940'
   publication_year: null
   slug: das-dritte-reich-geschichte-einer-diktatur
+  tags:
+  - nonfiction
   title: 'Das Dritte Reich: Geschichte einer Diktatur'
 plan:
   date_added: '2017-11-16'

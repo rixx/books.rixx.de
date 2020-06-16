@@ -7,6 +7,8 @@ book:
   pages: '376'
   publication_year: null
   slug: complex-ptsd-from-surviving-to-thriving
+  tags:
+  - nonfiction
   title: 'Complex PTSD: From Surviving to Thriving'
 plan:
   date_added: '2020-02-16'

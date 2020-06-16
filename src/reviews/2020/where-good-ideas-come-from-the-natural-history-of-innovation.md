@@ -9,6 +9,8 @@ book:
   pages: '326'
   publication_year: '2010'
   slug: where-good-ideas-come-from-the-natural-history-of-innovation
+  tags:
+  - nonfiction
   title: 'Where Good Ideas Come from: The Natural History of Innovation'
 plan:
   date_added: '2019-07-21'

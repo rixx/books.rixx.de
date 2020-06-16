@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '1999'
   slug: the-victorian-internet
+  tags:
+  - nonfiction
   title: The Victorian Internet
 plan:
   date_added: '2019-05-16'

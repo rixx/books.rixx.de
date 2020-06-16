@@ -9,6 +9,8 @@ book:
   pages: '304'
   publication_year: '2017'
   slug: the-knowledge-illusion-why-we-never-think-alone
+  tags:
+  - nonfiction
   title: 'The Knowledge Illusion: Why We Never Think Alone'
 plan:
   date_added: '2019-12-19'

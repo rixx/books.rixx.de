@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '2018'
   slug: the-tyranny-of-metrics
+  tags:
+  - nonfiction
   title: The Tyranny of Metrics
 plan:
   date_added: '2020-01-09'

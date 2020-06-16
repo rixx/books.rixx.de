@@ -8,6 +8,8 @@ book:
   isbn13: '9783406562549'
   publication_year: null
   slug: die-revolution-von-1918-19
+  tags:
+  - nonfiction
   title: Die Revolution Von 1918/19
 plan:
   date_added: '2017-11-16'

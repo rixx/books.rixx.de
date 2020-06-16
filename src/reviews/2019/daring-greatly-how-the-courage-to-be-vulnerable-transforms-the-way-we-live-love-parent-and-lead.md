@@ -9,6 +9,8 @@ book:
   pages: '287'
   publication_year: '2012'
   slug: daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead
+  tags:
+  - nonfiction
   title: 'Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live,
     Love, Parent, and Lead'
 plan:

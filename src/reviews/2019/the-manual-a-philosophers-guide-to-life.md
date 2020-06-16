@@ -8,6 +8,8 @@ book:
   series: Stoic Philosophy
   series_position: '1'
   slug: the-manual-a-philosophers-guide-to-life
+  tags:
+  - nonfiction
   title: 'The Manual: A Philosopher''s Guide to Life'
 plan:
   date_added: '2019-09-28'

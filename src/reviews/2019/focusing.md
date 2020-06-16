@@ -9,6 +9,8 @@ book:
   pages: '224'
   publication_year: '1982'
   slug: focusing
+  tags:
+  - nonfiction
   title: Focusing
 plan:
   date_added: '2019-07-15'

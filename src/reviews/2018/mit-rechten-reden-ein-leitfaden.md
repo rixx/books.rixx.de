@@ -6,6 +6,8 @@ book:
   goodreads: '36410682'
   publication_year: null
   slug: mit-rechten-reden-ein-leitfaden
+  tags:
+  - nonfiction
   title: 'Mit Rechten reden: Ein Leitfaden'
 plan:
   date_added: '2018-02-13'

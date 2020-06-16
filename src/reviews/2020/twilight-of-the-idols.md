@@ -9,6 +9,8 @@ book:
   pages: '209'
   publication_year: '1889'
   slug: twilight-of-the-idols
+  tags:
+  - nonfiction
   title: Twilight of the Idols
 plan:
   date_added: 2020-05-24

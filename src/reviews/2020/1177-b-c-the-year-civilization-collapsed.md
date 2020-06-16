@@ -9,6 +9,8 @@ book:
   pages: '237'
   publication_year: '2014'
   slug: 1177-b-c-the-year-civilization-collapsed
+  tags:
+  - nonfiction
   title: '1177 B.C.: The Year Civilization Collapsed'
 plan:
   date_added: '2018-07-31'
@@ -18,6 +20,7 @@ review:
   did_not_finish: false
   rating: 4
 ---
+
 This book was a great overview of the wider mediterranean civilisations during the Bronze Age, with a short discussion
 of the so-called collapse towards the end. I went into it expecting a lot of content about the collapse itself, and the
 book turned out to be 80% stage-setting. I happen to like this sort of thing, so it was a pleasant surprise, but

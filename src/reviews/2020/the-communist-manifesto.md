@@ -9,6 +9,8 @@ book:
   pages: '288'
   publication_year: '2002'
   slug: the-communist-manifesto
+  tags:
+  - nonfiction
   title: The Communist Manifesto
 plan:
   date_added: '2020-04-12'

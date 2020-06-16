@@ -9,6 +9,8 @@ book:
   pages: '288'
   publication_year: '2008'
   slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
+  tags:
+  - nonfiction
   title: 'Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict'
 plan:
   date_added: 2020-05-26
@@ -17,6 +19,7 @@ review:
   date_started: 2020-05-24
   rating: 5
 ---
+
 Feeding Your Demons is woo. It introduces a meditation technique that is rooted in Buddhism and was adapted by the
 author (a once-Buddhist-nun, now American coach) to a Western audience. The author's voice is a bit grating and, as is
 required for a woo book, it includes more about the author's personal journey and all the people she has helped than I

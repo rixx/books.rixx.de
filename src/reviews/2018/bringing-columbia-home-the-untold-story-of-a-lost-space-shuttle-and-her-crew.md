@@ -9,6 +9,8 @@ book:
   pages: '356'
   publication_year: '2018'
   slug: bringing-columbia-home-the-untold-story-of-a-lost-space-shuttle-and-her-crew
+  tags:
+  - nonfiction
   title: 'Bringing Columbia Home: The Untold Story of a Lost Space Shuttle and Her
     Crew'
 plan:

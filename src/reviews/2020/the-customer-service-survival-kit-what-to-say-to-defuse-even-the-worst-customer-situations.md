@@ -9,6 +9,8 @@ book:
   pages: '208'
   publication_year: '2013'
   slug: the-customer-service-survival-kit-what-to-say-to-defuse-even-the-worst-customer-situations
+  tags:
+  - nonfiction
   title: 'The Customer Service Survival Kit: What to Say to Defuse Even the Worst
     Customer Situations'
 plan:
