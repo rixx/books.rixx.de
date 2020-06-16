@@ -583,7 +583,34 @@ def change_tags(**kwargs):
     )
     tags = sorted([path.stem for path in Path("src/tags").glob("*.md")])
 
-    tag = inquirer.list_input(message="Which tag do you want to work on?", choices=tags)
+    answers = inquirer.prompt(
+        [
+            inquirer.List(
+                name="tag",
+                message="Which tag do you want to work on?",
+                choices=tags,
+                carousel=True,
+            ),
+            inquirer.Checkbox(
+                name="limit",
+                message="Show only books with these tags (empty for all)",
+                choices=tags + ["no tags"],
+            ),
+        ]
+    )
+
+    tag = answers["tag"]
+    limit = answers["limit"]
+
+    if limit:
+        include_empty = "no tags" in limit
+        reviews = [
+            r
+            for r in reviews
+            if (include_empty and not r.metadata["book"].get("tags"))
+            or any(tag in limit for tag in r.metadata["book"].get("tags", []))
+        ]
+
     longest_author = max(len(r.metadata["book"]["author"]) for r in reviews) + 2
     longest_title = max(len(r.metadata["book"]["title"]) for r in reviews) + 2
 
