@@ -11,6 +11,8 @@ book:
   series: Die Verratenen
   series_position: '2'
   slug: die-verschworenen
+  tags:
+  - scifi
   title: Die Verschworenen
 plan:
   date_added: '2017-01-09'

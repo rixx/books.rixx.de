@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '6'
   slug: the-vor-game
+  tags:
+  - scifi
   title: The Vor Game
 plan:
   date_added: '2018-07-11'

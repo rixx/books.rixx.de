@@ -11,6 +11,8 @@ book:
   series: Dirk Gently
   series_position: '2'
   slug: the-long-dark-tea-time-of-the-soul
+  tags:
+  - scifi
   title: The Long Dark Tea-Time of the Soul
 plan:
   date_added: '2015-04-08'

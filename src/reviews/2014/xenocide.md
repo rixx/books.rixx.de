@@ -11,6 +11,8 @@ book:
   series: Ender’s Saga
   series_position: '3'
   slug: xenocide
+  tags:
+  - scifi
   title: Xenocide
 plan:
   date_added: '2015-04-09'

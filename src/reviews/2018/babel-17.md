@@ -9,6 +9,8 @@ book:
   pages: '192'
   publication_year: '1978'
   slug: babel-17
+  tags:
+  - scifi
   title: Babel-17
 plan:
   date_added: '2018-02-18'

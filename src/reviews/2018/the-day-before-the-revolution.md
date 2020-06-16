@@ -7,6 +7,8 @@ book:
   pages: '20'
   publication_year: '2007'
   slug: the-day-before-the-revolution
+  tags:
+  - scifi
   title: The Day Before the Revolution
 plan:
   date_added: '2018-02-12'

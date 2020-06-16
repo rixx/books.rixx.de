@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '7'
   slug: persepolis-rising
+  tags:
+  - scifi
   title: Persepolis Rising
 plan:
   date_added: '2018-11-04'

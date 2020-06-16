@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '8'
   slug: tiamats-wrath
+  tags:
+  - scifi
   title: Tiamat's Wrath
 plan:
   date_added: '2019-02-19'

@@ -9,6 +9,8 @@ book:
   pages: '192'
   publication_year: '2002'
   slug: the-war-of-the-worlds
+  tags:
+  - scifi
   title: The War of the Worlds
 plan:
   date_added: '2015-04-08'

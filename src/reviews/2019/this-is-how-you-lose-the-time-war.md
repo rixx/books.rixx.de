@@ -7,6 +7,8 @@ book:
   pages: '209'
   publication_year: 2019
   slug: this-is-how-you-lose-the-time-war
+  tags:
+  - scifi
   title: This Is How You Lose the Time War
 plan:
   date_added: '2019-09-21'

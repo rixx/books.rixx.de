@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '9'
   slug: cetaganda
+  tags:
+  - scifi
   title: Cetaganda
 plan:
   date_added: '2018-11-23'

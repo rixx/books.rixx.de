@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '2'
   slug: the-player-of-games
+  tags:
+  - scifi
   title: The Player of Games
 plan:
   date_added: '2017-05-29'

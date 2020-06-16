@@ -10,6 +10,8 @@ book:
   series: The Murderbot Diaries
   series_position: '1'
   slug: all-systems-red
+  tags:
+  - scifi
   title: All Systems Red
 plan:
   date_added: '2018-05-31'

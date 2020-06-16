@@ -9,6 +9,8 @@ book:
   pages: '937'
   publication_year: '2008'
   slug: anathem
+  tags:
+  - scifi
   title: Anathem
 plan:
   date_added: '2015-04-09'

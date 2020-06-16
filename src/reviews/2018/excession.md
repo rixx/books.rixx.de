@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '5'
   slug: excession
+  tags:
+  - scifi
   title: Excession
 plan:
   date_added: '2018-04-10'

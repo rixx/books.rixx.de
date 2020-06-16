@@ -11,6 +11,8 @@ book:
   series: The Merchant Princes
   series_position: '2'
   slug: the-hidden-family
+  tags:
+  - scifi
   title: The Hidden Family
 plan:
   date_added: '2015-07-02'

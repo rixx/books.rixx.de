@@ -9,6 +9,8 @@ book:
   pages: '364'
   publication_year: '2017'
   slug: six-wakes
+  tags:
+  - scifi
   title: Six Wakes
 plan:
   date_added: '2018-08-01'

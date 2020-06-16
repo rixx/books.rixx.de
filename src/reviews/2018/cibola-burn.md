@@ -9,6 +9,8 @@ book:
   series: The Expanse
   series_position: '4'
   slug: cibola-burn
+  tags:
+  - scifi
   title: Cibola Burn
 plan:
   date_added: '2018-07-05'

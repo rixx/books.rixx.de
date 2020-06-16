@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '3'
   slug: abaddons-gate
+  tags:
+  - scifi
   title: Abaddon's Gate
 plan:
   date_added: '2017-11-14'

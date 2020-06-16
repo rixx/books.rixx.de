@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '6'
   slug: babylons-ashes
+  tags:
+  - scifi
   title: Babylon's Ashes
 plan:
   date_added: '2018-09-12'

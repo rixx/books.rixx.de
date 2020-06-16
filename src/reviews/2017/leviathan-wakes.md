@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '1'
   slug: leviathan-wakes
+  tags:
+  - scifi
   title: Leviathan Wakes
 plan:
   date_added: '2017-03-31'

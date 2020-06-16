@@ -9,6 +9,8 @@ book:
   pages: '320'
   publication_year: '2014'
   slug: my-real-children
+  tags:
+  - scifi
   title: My Real Children
 plan:
   date_added: '2019-09-28'

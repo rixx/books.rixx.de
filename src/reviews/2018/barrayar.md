@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '7'
   slug: barrayar
+  tags:
+  - scifi
   title: Barrayar
 plan:
   date_added: '2018-08-16'

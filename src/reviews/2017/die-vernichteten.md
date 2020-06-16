@@ -11,6 +11,8 @@ book:
   series: Die Verratenen
   series_position: '3'
   slug: die-vernichteten
+  tags:
+  - scifi
   title: Die Vernichteten
 plan:
   date_added: '2017-01-09'

@@ -9,6 +9,8 @@ book:
   pages: '38'
   publication_year: '1995'
   slug: micromegas
+  tags:
+  - scifi
   title: Micromegas
 plan:
   date_added: '2018-03-16'

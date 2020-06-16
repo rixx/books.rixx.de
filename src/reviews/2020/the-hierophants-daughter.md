@@ -9,6 +9,8 @@ book:
   pages: '298'
   publication_year: '2019'
   slug: the-hierophants-daughter
+  tags:
+  - scifi
   title: The Hierophant's Daughter
 plan:
   date_added: '2019-03-17'

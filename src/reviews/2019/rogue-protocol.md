@@ -11,6 +11,8 @@ book:
   series: The Murderbot Diaries
   series_position: '3'
   slug: rogue-protocol
+  tags:
+  - scifi
   title: Rogue Protocol
 plan:
   date_added: '2018-10-19'

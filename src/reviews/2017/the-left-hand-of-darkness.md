@@ -9,6 +9,8 @@ book:
   series: Hainish Cycle
   series_position: '4'
   slug: the-left-hand-of-darkness
+  tags:
+  - scifi
   title: The Left Hand of Darkness
 plan:
   date_added: '2016-10-13'

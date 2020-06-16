@@ -11,6 +11,8 @@ book:
   series: Die Verratenen
   series_position: '1'
   slug: die-verratenen
+  tags:
+  - scifi
   title: Die Verratenen
 plan:
   date_added: '2017-01-08'

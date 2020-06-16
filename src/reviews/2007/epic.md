@@ -12,6 +12,7 @@ book:
   slug: epic
   tags:
   - fantasy
+  - scifi
   title: Epic
 plan:
   date_added: '2016-07-07'

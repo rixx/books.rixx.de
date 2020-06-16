@@ -9,6 +9,8 @@ book:
   pages: '64'
   publication_year: '2005'
   slug: sultanas-dream
+  tags:
+  - scifi
   title: Sultana's Dream
 plan:
   date_added: '2018-02-11'

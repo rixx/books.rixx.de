@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '2003'
   slug: the-lathe-of-heaven
+  tags:
+  - scifi
   title: The Lathe of Heaven
 plan:
   date_added: '2018-02-01'

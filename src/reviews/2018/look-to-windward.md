@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '7'
   slug: look-to-windward
+  tags:
+  - scifi
   title: Look to Windward
 plan:
   date_added: '2018-07-30'

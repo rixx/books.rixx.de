@@ -8,6 +8,8 @@ book:
   pages: '416'
   publication_year: '2016'
   slug: elanus
+  tags:
+  - scifi
   title: Elanus
 plan:
   date_added: '2019-04-04'

@@ -9,6 +9,8 @@ book:
   pages: '140'
   publication_year: '2019'
   slug: walking-to-aldebaran
+  tags:
+  - scifi
   title: Walking to Aldebaran
 plan:
   date_added: '2019-04-08'

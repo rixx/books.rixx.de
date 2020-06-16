@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '10'
   slug: memory
+  tags:
+  - scifi
   title: Memory
 plan:
   date_added: '2019-03-17'

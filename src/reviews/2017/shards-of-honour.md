@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '1'
   slug: shards-of-honour
+  tags:
+  - scifi
   title: Shards of Honour
 plan:
   date_added: '2015-08-06'

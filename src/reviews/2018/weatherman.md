@@ -9,6 +9,8 @@ book:
   series: Vorkosigan Saga
   series_position: '5.4'
   slug: weatherman
+  tags:
+  - scifi
   title: Weatherman
 plan:
   date_added: '2018-11-23'

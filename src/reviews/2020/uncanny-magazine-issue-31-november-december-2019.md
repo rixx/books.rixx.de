@@ -6,6 +6,8 @@ book:
   goodreads: '48715894'
   publication_year: null
   slug: uncanny-magazine-issue-31-november-december-2019
+  tags:
+  - scifi
   title: 'Uncanny Magazine Issue 31: November/December 2019'
 plan:
   date_added: '2020-02-12'

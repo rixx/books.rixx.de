@@ -11,6 +11,7 @@ book:
   slug: the-stone-sky
   tags:
   - fantasy
+  - scifi
   title: The Stone Sky
 plan:
   date_added: '2018-10-28'

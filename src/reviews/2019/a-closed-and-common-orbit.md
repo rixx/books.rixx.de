@@ -11,6 +11,8 @@ book:
   series: Wayfarers
   series_position: '2'
   slug: a-closed-and-common-orbit
+  tags:
+  - scifi
   title: A Closed and Common Orbit
 plan:
   date_added: '2018-11-19'

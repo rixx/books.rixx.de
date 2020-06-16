@@ -11,6 +11,8 @@ book:
   series: Terra Ignota
   series_position: '2'
   slug: seven-surrenders
+  tags:
+  - scifi
   title: Seven Surrenders
 plan:
   date_added: '2018-03-19'

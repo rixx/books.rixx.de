@@ -11,6 +11,8 @@ book:
   series: Southern Reach
   series_position: '1'
   slug: annihilation
+  tags:
+  - scifi
   title: Annihilation
 plan:
   date_added: '2019-12-16'

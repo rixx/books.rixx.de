@@ -11,6 +11,8 @@ book:
   series: Erebos
   series_position: '1'
   slug: erebos
+  tags:
+  - scifi
   title: Erebos
 plan:
   date_added: '2016-05-03'

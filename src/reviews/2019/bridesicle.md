@@ -5,6 +5,8 @@ book:
   pages: '11'
   publication_year: null
   slug: bridesicle
+  tags:
+  - scifi
   title: Bridesicle
 plan:
   date_added: '2019-04-22'

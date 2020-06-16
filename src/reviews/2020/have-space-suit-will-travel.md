@@ -9,6 +9,8 @@ book:
   pages: '276'
   publication_year: '1958'
   slug: have-space-suit-will-travel
+  tags:
+  - scifi
   title: Have Space Suit—Will Travel
 plan:
   date_added: 2020-06-02

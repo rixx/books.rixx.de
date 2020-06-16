@@ -11,6 +11,8 @@ book:
   series: The Merchant Princes
   series_position: '1'
   slug: the-family-trade
+  tags:
+  - scifi
   title: The Family Trade
 plan:
   date_added: '2015-04-09'

@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '9'
   slug: surface-detail
+  tags:
+  - scifi
   title: Surface Detail
 plan:
   date_added: '2018-10-26'

@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '1974'
   slug: the-nine-billion-names-of-god
+  tags:
+  - scifi
   title: The Nine Billion Names of God
 plan:
   date_added: '2019-02-19'

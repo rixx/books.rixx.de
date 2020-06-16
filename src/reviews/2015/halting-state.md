@@ -11,6 +11,8 @@ book:
   series: Halting State
   series_position: '1'
   slug: halting-state
+  tags:
+  - scifi
   title: Halting State
 plan:
   date_added: '2019-07-19'

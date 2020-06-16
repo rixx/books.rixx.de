@@ -11,6 +11,8 @@ book:
   series: Subjective Cosmology
   series_position: '2'
   slug: permutation-city
+  tags:
+  - scifi
   title: Permutation City
 plan:
   date_added: '2018-03-26'

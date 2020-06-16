@@ -9,6 +9,8 @@ book:
   series: Clarkesworld Magazine
   series_position: '132'
   slug: clarkesworld-magazine-issue-132
+  tags:
+  - scifi
   title: Clarkesworld Magazine, Issue 132
 plan:
   date_added: '2018-08-09'

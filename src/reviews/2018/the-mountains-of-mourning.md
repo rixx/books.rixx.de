@@ -8,6 +8,8 @@ book:
   isbn13: '9781590623817'
   publication_year: '2008'
   slug: the-mountains-of-mourning
+  tags:
+  - scifi
   title: The Mountains of Mourning
 plan:
   date_added: '2018-11-23'

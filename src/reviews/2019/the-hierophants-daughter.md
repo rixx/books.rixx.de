@@ -11,6 +11,8 @@ book:
   series: The Disgraced Martyr Trilogy
   series_position: '1'
   slug: the-hierophants-daughter
+  tags:
+  - scifi
   title: The Hierophant's Daughter
 plan:
   date_added: '2019-03-15'

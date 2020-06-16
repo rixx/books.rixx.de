@@ -9,6 +9,8 @@ book:
   pages: '289'
   publication_year: '1994'
   slug: anti-ice
+  tags:
+  - scifi
   title: Anti-Ice
 plan:
   date_added: '2019-09-21'

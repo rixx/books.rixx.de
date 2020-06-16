@@ -9,6 +9,8 @@ book:
   series: Clarkesworld Magazine
   series_position: '137'
   slug: clarkesworld-magazine-issue-137
+  tags:
+  - scifi
   title: Clarkesworld Magazine, Issue 137
 plan:
   date_added: '2019-01-14'

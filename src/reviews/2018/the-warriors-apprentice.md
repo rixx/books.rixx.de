@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '2'
   slug: the-warriors-apprentice
+  tags:
+  - scifi
   title: The Warrior's Apprentice
 plan:
   date_added: '2017-07-11'

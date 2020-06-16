@@ -11,6 +11,8 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '3'
   slug: life-the-universe-and-everything
+  tags:
+  - scifi
   title: Life, the Universe and Everything
 plan:
   date_added: '2015-04-09'

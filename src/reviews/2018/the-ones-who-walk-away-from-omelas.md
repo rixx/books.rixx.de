@@ -9,6 +9,8 @@ book:
   pages: '32'
   publication_year: '1997'
   slug: the-ones-who-walk-away-from-omelas
+  tags:
+  - scifi
   title: The Ones Who Walk Away from Omelas
 plan:
   date_added: '2018-02-01'

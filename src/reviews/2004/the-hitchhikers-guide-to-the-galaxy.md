@@ -9,6 +9,8 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '1'
   slug: the-hitchhikers-guide-to-the-galaxy
+  tags:
+  - scifi
   title: The Hitchhiker's Guide to the Galaxy
 plan:
   date_added: '2015-04-08'

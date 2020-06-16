@@ -11,6 +11,8 @@ book:
   series: Binti
   series_position: '1'
   slug: binti
+  tags:
+  - scifi
   title: Binti
 plan:
   date_added: '2018-02-18'

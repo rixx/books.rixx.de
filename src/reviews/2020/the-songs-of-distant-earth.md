@@ -9,6 +9,8 @@ book:
   pages: '256'
   publication_year: '2001'
   slug: the-songs-of-distant-earth
+  tags:
+  - scifi
   title: The Songs of Distant Earth
 plan:
   date_added: '2020-01-23'

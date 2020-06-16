@@ -9,6 +9,8 @@ book:
   pages: '218'
   publication_year: '1984'
   slug: the-last-starfighter
+  tags:
+  - scifi
   title: The Last Starfighter
 plan:
   date_added: '2018-04-05'

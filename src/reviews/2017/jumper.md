@@ -11,6 +11,8 @@ book:
   series: Jumper
   series_position: '1'
   slug: jumper
+  tags:
+  - scifi
   title: Jumper
 plan:
   date_added: '2017-02-01'

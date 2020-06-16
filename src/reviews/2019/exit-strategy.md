@@ -9,6 +9,8 @@ book:
   series: The Murderbot Diaries
   series_position: '4'
   slug: exit-strategy
+  tags:
+  - scifi
   title: Exit Strategy
 plan:
   date_added: '2019-01-05'

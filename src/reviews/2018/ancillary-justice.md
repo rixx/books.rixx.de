@@ -9,6 +9,8 @@ book:
   series: Imperial Radch
   series_position: '1'
   slug: ancillary-justice
+  tags:
+  - scifi
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'

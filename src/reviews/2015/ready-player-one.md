@@ -11,6 +11,8 @@ book:
   series: Ready Player One
   series_position: '1'
   slug: ready-player-one
+  tags:
+  - scifi
   title: Ready Player One
 plan:
   date_added: '2015-04-08'

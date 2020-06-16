@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '8'
   slug: mirror-dance
+  tags:
+  - scifi
   title: Mirror Dance
 plan:
   date_added: '2019-03-12'

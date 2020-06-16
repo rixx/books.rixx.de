@@ -9,6 +9,8 @@ book:
   pages: '96'
   publication_year: '2018'
   slug: the-tea-master-and-the-detective
+  tags:
+  - scifi
   title: The Tea Master and the Detective
 plan:
   date_added: '2018-08-20'

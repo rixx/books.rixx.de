@@ -9,6 +9,8 @@ book:
   pages: '351'
   publication_year: '2017'
   slug: an-unkindness-of-ghosts
+  tags:
+  - scifi
   title: An Unkindness of Ghosts
 plan:
   date_added: '2017-12-02'

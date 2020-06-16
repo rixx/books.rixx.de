@@ -9,6 +9,8 @@ book:
   pages: '160'
   publication_year: '1993'
   slug: the-great-explosion
+  tags:
+  - scifi
   title: The Great Explosion
 plan:
   date_added: '2018-01-27'

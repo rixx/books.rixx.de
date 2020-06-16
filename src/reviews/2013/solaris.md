@@ -8,6 +8,8 @@ book:
   isbn13: '9783548606118'
   publication_year: '2006'
   slug: solaris
+  tags:
+  - scifi
   title: Solaris
 plan:
   date_added: '2016-05-19'

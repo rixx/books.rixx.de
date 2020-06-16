@@ -11,6 +11,8 @@ book:
   series: Beatrice Kaspary
   series_position: '1'
   slug: funf
+  tags:
+  - scifi
   title: Fünf
 plan:
   date_added: '2016-05-05'

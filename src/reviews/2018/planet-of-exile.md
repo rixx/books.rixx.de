@@ -11,6 +11,8 @@ book:
   series: Hainish Cycle
   series_position: '2'
   slug: planet-of-exile
+  tags:
+  - scifi
   title: Planet of Exile
 plan:
   date_added: '2018-03-03'

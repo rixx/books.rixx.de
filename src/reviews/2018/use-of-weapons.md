@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '3'
   slug: use-of-weapons
+  tags:
+  - scifi
   title: Use of Weapons
 plan:
   date_added: '2018-02-14'

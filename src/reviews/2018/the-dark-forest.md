@@ -9,6 +9,8 @@ book:
   series: Remembrance of Earth’s Past
   series_position: '2'
   slug: the-dark-forest
+  tags:
+  - scifi
   title: The Dark Forest
 plan:
   date_added: '2018-08-10'

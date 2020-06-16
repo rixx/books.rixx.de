@@ -9,6 +9,8 @@ book:
   pages: '128'
   publication_year: '2017'
   slug: the-martian-obelisk
+  tags:
+  - scifi
   title: The Martian Obelisk
 plan:
   date_added: '2018-08-02'

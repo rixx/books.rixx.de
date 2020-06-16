@@ -9,6 +9,8 @@ book:
   pages: '499'
   publication_year: '1995'
   slug: the-diamond-age-or-a-young-ladys-illustrated-primer
+  tags:
+  - scifi
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:
   date_added: 2020-05-31

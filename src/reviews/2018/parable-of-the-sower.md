@@ -11,6 +11,8 @@ book:
   series: Earthseed
   series_position: '1'
   slug: parable-of-the-sower
+  tags:
+  - scifi
   title: Parable of the Sower
 plan:
   date_added: '2018-03-06'

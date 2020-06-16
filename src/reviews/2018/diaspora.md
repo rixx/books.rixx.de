@@ -9,6 +9,8 @@ book:
   pages: '443'
   publication_year: '2000'
   slug: diaspora
+  tags:
+  - scifi
   title: Diaspora
 plan:
   date_added: '2018-07-20'

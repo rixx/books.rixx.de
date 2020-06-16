@@ -9,6 +9,8 @@ book:
   pages: '336'
   publication_year: '2014'
   slug: station-eleven
+  tags:
+  - scifi
   title: Station Eleven
 plan:
   date_added: '2018-08-27'

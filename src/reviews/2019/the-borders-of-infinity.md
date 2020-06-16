@@ -9,6 +9,8 @@ book:
   series: Vorkosigan Saga
   series_position: '5.3'
   slug: the-borders-of-infinity
+  tags:
+  - scifi
   title: The Borders of Infinity
 plan:
   date_added: '2019-03-12'

@@ -11,6 +11,8 @@ book:
   series: Arc of a Scythe
   series_position: '1'
   slug: scythe
+  tags:
+  - scifi
   title: Scythe
 plan:
   date_added: '2019-09-29'

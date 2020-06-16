@@ -7,6 +7,8 @@ book:
   pages: '836'
   publication_year: '2014'
   slug: dhalgren
+  tags:
+  - scifi
   title: Dhalgren
 plan:
   date_added: '2018-11-29'

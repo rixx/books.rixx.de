@@ -9,6 +9,8 @@ book:
   pages: '241'
   publication_year: '2002'
   slug: nova
+  tags:
+  - scifi
   title: Nova
 plan:
   date_added: '2018-09-29'

@@ -11,6 +11,8 @@ book:
   series: Hainish Cycle
   series_position: '8'
   slug: the-telling
+  tags:
+  - scifi
   title: The Telling
 plan:
   date_added: '2018-11-30'

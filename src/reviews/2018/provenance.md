@@ -7,6 +7,8 @@ book:
   pages: '448'
   publication_year: '2017'
   slug: provenance
+  tags:
+  - scifi
   title: Provenance
 plan:
   date_added: '2018-08-23'

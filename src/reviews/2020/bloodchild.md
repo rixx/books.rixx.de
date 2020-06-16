@@ -7,6 +7,8 @@ book:
   pages: '31'
   publication_year: '2014'
   slug: bloodchild
+  tags:
+  - scifi
   title: Bloodchild
 plan:
   date_added: '2019-01-08'

@@ -10,6 +10,8 @@ book:
   series: Vorkosigan Saga
   series_position: '9.1'
   slug: dreamweavers-dilemma
+  tags:
+  - scifi
   title: Dreamweaver's Dilemma
 plan:
   date_added: '2018-11-23'

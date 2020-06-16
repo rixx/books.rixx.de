@@ -9,6 +9,8 @@ book:
   pages: '32'
   publication_year: '1989'
   slug: all-the-troubles-of-the-world
+  tags:
+  - scifi
   title: All the Troubles of the World
 plan:
   date_added: '2018-08-27'

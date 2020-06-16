@@ -11,6 +11,8 @@ book:
   series: The Murderbot Diaries
   series_position: '2'
   slug: artificial-condition
+  tags:
+  - scifi
   title: Artificial Condition
 plan:
   date_added: '2018-09-02'

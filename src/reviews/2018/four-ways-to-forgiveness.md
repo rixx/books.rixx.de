@@ -9,6 +9,8 @@ book:
   pages: '304'
   publication_year: '2004'
   slug: four-ways-to-forgiveness
+  tags:
+  - scifi
   title: Four Ways to Forgiveness
 plan:
   date_added: '2018-08-20'

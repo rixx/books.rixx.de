@@ -4,6 +4,8 @@ book:
   goodreads: '32994565'
   publication_year: '1960'
   slug: trouble-with-time
+  tags:
+  - scifi
   title: Trouble with Time
 plan:
   date_added: '2019-10-13'

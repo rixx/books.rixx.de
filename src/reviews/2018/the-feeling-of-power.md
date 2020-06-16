@@ -6,6 +6,8 @@ book:
   isbn13: '9789998070011'
   publication_year: null
   slug: the-feeling-of-power
+  tags:
+  - scifi
   title: The Feeling of Power
 plan:
   date_added: '2018-07-15'

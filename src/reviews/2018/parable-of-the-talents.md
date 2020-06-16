@@ -11,6 +11,8 @@ book:
   series: Earthseed
   series_position: '2'
   slug: parable-of-the-talents
+  tags:
+  - scifi
   title: Parable of the Talents
 plan:
   date_added: '2018-04-09'

@@ -7,6 +7,8 @@ book:
   pages: '160'
   publication_year: '1989'
   slug: the-word-for-world-is-forest
+  tags:
+  - scifi
   title: The Word for World is Forest
 plan:
   date_added: '2018-02-01'

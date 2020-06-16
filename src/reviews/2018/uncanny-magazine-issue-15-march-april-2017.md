@@ -6,6 +6,8 @@ book:
   goodreads: '34505565'
   publication_year: null
   slug: uncanny-magazine-issue-15-march-april-2017
+  tags:
+  - scifi
   title: 'Uncanny Magazine Issue 15: March/April 2017'
 plan:
   date_added: '2018-02-01'

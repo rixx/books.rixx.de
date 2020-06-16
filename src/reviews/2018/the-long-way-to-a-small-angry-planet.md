@@ -11,6 +11,8 @@ book:
   series: Wayfarers
   series_position: '1'
   slug: the-long-way-to-a-small-angry-planet
+  tags:
+  - scifi
   title: The Long Way to a Small, Angry Planet
 plan:
   date_added: '2017-11-15'

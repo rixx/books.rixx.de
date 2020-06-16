@@ -9,6 +9,8 @@ book:
   pages: '381'
   publication_year: '2007'
   slug: rainbows-end
+  tags:
+  - scifi
   title: Rainbows End
 plan:
   date_added: '2018-02-28'

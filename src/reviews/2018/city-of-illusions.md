@@ -7,6 +7,8 @@ book:
   pages: '160'
   publication_year: '1967'
   slug: city-of-illusions
+  tags:
+  - scifi
   title: City of Illusions
 plan:
   date_added: '2018-07-13'

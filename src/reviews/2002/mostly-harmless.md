@@ -11,6 +11,8 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '5'
   slug: mostly-harmless
+  tags:
+  - scifi
   title: Mostly Harmless
 plan:
   date_added: '2015-07-02'

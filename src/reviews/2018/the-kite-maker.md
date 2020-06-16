@@ -9,6 +9,8 @@ book:
   pages: '28'
   publication_year: '2018'
   slug: the-kite-maker
+  tags:
+  - scifi
   title: The Kite Maker
 plan:
   date_added: '2018-10-31'

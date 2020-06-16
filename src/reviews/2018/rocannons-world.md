@@ -8,6 +8,8 @@ book:
   isbn13: '9780441732968'
   publication_year: '1984'
   slug: rocannons-world
+  tags:
+  - scifi
   title: Rocannon's World
 plan:
   date_added: '2018-02-21'

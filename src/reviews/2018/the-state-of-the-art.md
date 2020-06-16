@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '4'
   slug: the-state-of-the-art
+  tags:
+  - scifi
   title: The State of the Art
 plan:
   date_added: '2018-03-10'

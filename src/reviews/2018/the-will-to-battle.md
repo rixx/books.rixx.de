@@ -11,6 +11,8 @@ book:
   series: Terra Ignota
   series_position: '3'
   slug: the-will-to-battle
+  tags:
+  - scifi
   title: The Will to Battle
 plan:
   date_added: '2018-04-17'

@@ -9,6 +9,8 @@ book:
   series: The Expanse
   series_position: '5'
   slug: nemesis-games
+  tags:
+  - scifi
   title: Nemesis Games
 plan:
   date_added: '2018-08-01'

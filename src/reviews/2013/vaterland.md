@@ -9,6 +9,8 @@ book:
   pages: '378'
   publication_year: '1994'
   slug: vaterland
+  tags:
+  - scifi
   title: Vaterland
 plan:
   date_added: '2016-05-08'

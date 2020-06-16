@@ -7,6 +7,8 @@ book:
   pages: '5'
   publication_year: '2010'
   slug: sweetheart
+  tags:
+  - scifi
   title: Sweetheart
 plan:
   date_added: '2018-09-20'

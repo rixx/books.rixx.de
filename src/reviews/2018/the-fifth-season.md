@@ -11,6 +11,7 @@ book:
   slug: the-fifth-season
   tags:
   - fantasy
+  - scifi
   title: The Fifth Season
 plan:
   date_added: '2018-03-19'

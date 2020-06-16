@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '3'
   slug: ethan-of-athos
+  tags:
+  - scifi
   title: Ethan of Athos
 plan:
   date_added: '2018-02-23'

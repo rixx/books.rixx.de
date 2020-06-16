@@ -11,6 +11,8 @@ book:
   series: Terra Ignota
   series_position: '1'
   slug: too-like-the-lightning
+  tags:
+  - scifi
   title: Too Like the Lightning
 plan:
   date_added: '2018-02-19'

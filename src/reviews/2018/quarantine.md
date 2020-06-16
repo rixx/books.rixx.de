@@ -11,6 +11,8 @@ book:
   series: Subjective Cosmology
   series_position: '1'
   slug: quarantine
+  tags:
+  - scifi
   title: Quarantine
 plan:
   date_added: '2018-02-21'

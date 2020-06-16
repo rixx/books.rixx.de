@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '5'
   slug: brothers-in-arms
+  tags:
+  - scifi
   title: Brothers in Arms
 plan:
   date_added: '2018-04-11'

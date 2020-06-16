@@ -9,6 +9,8 @@ book:
   series: Vorkosigan Saga
   series_position: '4'
   slug: falling-free
+  tags:
+  - scifi
   title: Falling Free
 plan:
   date_added: '2018-03-10'

@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '6'
   slug: inversions
+  tags:
+  - scifi
   title: Inversions
 plan:
   date_added: '2018-07-02'

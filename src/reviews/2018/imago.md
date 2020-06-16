@@ -11,6 +11,8 @@ book:
   series: Xenogenesis
   series_position: '3'
   slug: imago
+  tags:
+  - scifi
   title: Imago
 plan:
   date_added: '2018-02-20'

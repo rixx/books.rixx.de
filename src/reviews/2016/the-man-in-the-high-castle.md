@@ -9,6 +9,8 @@ book:
   pages: '259'
   publication_year: null
   slug: the-man-in-the-high-castle
+  tags:
+  - scifi
   title: The Man in the High Castle
 plan:
   date_added: '2016-12-08'

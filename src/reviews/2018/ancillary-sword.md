@@ -11,6 +11,8 @@ book:
   series: Imperial Radch
   series_position: '2'
   slug: ancillary-sword
+  tags:
+  - scifi
   title: Ancillary Sword
 plan:
   date_added: '2018-03-13'

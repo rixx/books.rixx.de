@@ -11,6 +11,8 @@ book:
   series: The Saga of Seven Suns
   series_position: '1'
   slug: hidden-empire
+  tags:
+  - scifi
   title: Hidden Empire
 plan:
   date_added: '2018-02-18'

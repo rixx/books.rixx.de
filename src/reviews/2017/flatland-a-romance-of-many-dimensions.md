@@ -9,6 +9,8 @@ book:
   pages: '96'
   publication_year: '1992'
   slug: flatland-a-romance-of-many-dimensions
+  tags:
+  - scifi
   title: 'Flatland: A Romance of Many Dimensions'
 plan:
   date_added: '2017-06-01'

@@ -9,6 +9,8 @@ book:
   pages: '369'
   publication_year: '2014'
   slug: the-martian
+  tags:
+  - scifi
   title: The Martian
 plan:
   date_added: '2015-04-08'

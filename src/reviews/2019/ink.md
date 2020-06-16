@@ -9,6 +9,8 @@ book:
   pages: '230'
   publication_year: '2012'
   slug: ink
+  tags:
+  - scifi
   title: Ink
 plan:
   date_added: '2019-03-17'

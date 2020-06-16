@@ -9,6 +9,8 @@ book:
   pages: '288'
   publication_year: '1998'
   slug: brave-new-world
+  tags:
+  - scifi
   title: Brave New World
 plan:
   date_added: '2015-04-08'

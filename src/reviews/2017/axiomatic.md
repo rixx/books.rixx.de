@@ -8,6 +8,8 @@ book:
   isbn13: '9780061052651'
   publication_year: '1997'
   slug: axiomatic
+  tags:
+  - scifi
   title: Axiomatic
 plan:
   date_added: '2017-01-13'

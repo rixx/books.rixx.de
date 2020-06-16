@@ -9,6 +9,8 @@ book:
   pages: '132'
   publication_year: '1983'
   slug: empire-star
+  tags:
+  - scifi
   title: Empire Star
 plan:
   date_added: '2018-08-16'

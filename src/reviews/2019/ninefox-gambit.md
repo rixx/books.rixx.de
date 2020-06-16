@@ -9,6 +9,8 @@ book:
   series: The Machineries of Empire
   series_position: '1'
   slug: ninefox-gambit
+  tags:
+  - scifi
   title: Ninefox Gambit
 plan:
   date_added: '2018-08-22'

@@ -11,6 +11,8 @@ book:
   series: Patternmaster
   series_position: '2'
   slug: mind-of-my-mind
+  tags:
+  - scifi
   title: Mind of My Mind
 plan:
   date_added: '2018-08-26'

@@ -7,6 +7,8 @@ book:
   pages: '314'
   publication_year: '1998'
   slug: the-handmaids-tale
+  tags:
+  - scifi
   title: The Handmaid's Tale
 plan:
   date_added: '2017-11-15'

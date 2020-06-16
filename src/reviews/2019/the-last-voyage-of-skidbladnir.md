@@ -9,6 +9,8 @@ book:
   pages: '21'
   publication_year: '2018'
   slug: the-last-voyage-of-skidbladnir
+  tags:
+  - scifi
   title: The Last Voyage of Skidbladnir
 plan:
   date_added: '2019-01-24'

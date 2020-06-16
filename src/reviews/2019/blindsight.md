@@ -11,6 +11,8 @@ book:
   series: Firefall
   series_position: '1'
   slug: blindsight
+  tags:
+  - scifi
   title: Blindsight
 plan:
   date_added: '2015-04-09'

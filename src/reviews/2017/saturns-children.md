@@ -11,6 +11,8 @@ book:
   series: Freyaverse
   series_position: '1'
   slug: saturns-children
+  tags:
+  - scifi
   title: Saturn's Children
 plan:
   date_added: '2015-04-09'

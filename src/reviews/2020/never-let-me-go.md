@@ -9,6 +9,8 @@ book:
   pages: '288'
   publication_year: '2010'
   slug: never-let-me-go
+  tags:
+  - scifi
   title: Never Let Me Go
 plan:
   date_added: '2017-03-07'

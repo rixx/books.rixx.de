@@ -11,6 +11,8 @@ book:
   series: Empire Games
   series_position: '2'
   slug: dark-state
+  tags:
+  - scifi
   title: Dark State
 plan:
   date_added: '2018-03-03'

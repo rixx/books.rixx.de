@@ -9,6 +9,8 @@ book:
   pages: '227'
   publication_year: '2013'
   slug: fahrenheit-451
+  tags:
+  - scifi
   title: Fahrenheit 451
 plan:
   date_added: '2015-04-08'

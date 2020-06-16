@@ -11,6 +11,8 @@ book:
   series: Wayfarers
   series_position: '3'
   slug: record-of-a-spaceborn-few
+  tags:
+  - scifi
   title: Record of a Spaceborn Few
 plan:
   date_added: '2019-03-07'

@@ -11,6 +11,8 @@ book:
   series: The Sparrow
   series_position: '1'
   slug: the-sparrow
+  tags:
+  - scifi
   title: The Sparrow
 plan:
   date_added: '2018-03-13'

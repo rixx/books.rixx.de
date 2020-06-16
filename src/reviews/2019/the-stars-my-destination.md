@@ -9,6 +9,8 @@ book:
   pages: '258'
   publication_year: null
   slug: the-stars-my-destination
+  tags:
+  - scifi
   title: The Stars My Destination
 plan:
   date_added: '2018-09-12'

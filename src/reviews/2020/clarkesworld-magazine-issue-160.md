@@ -6,6 +6,8 @@ book:
   goodreads: '50267857'
   publication_year: '2020'
   slug: clarkesworld-magazine-issue-160
+  tags:
+  - scifi
   title: Clarkesworld Magazine, Issue 160
 plan:
   date_added: '2020-01-11'

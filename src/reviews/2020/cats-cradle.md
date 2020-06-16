@@ -9,6 +9,8 @@ book:
   pages: '306'
   publication_year: '1999'
   slug: cats-cradle
+  tags:
+  - scifi
   title: Cat's Cradle
 plan:
   date_added: '2018-03-13'
@@ -33,4 +35,3 @@ people your light is tangled up with for no very logical reason. Bokonon, of cou
 - "Peculiar travel suggestions are dancing lessons from God."
 - "Maturity," Bokonon tells us, "is a bitter disappointment for which no remedy exists, unless laughter can be said to
   remedy anything."
-

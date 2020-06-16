@@ -11,6 +11,8 @@ book:
   series: Hyperion Cantos
   series_position: '1'
   slug: hyperion
+  tags:
+  - scifi
   title: Hyperion
 plan:
   date_added: '2017-02-01'

@@ -11,6 +11,8 @@ book:
   series: Xenogenesis
   series_position: '1'
   slug: dawn
+  tags:
+  - scifi
   title: Dawn
 plan:
   date_added: '2018-02-01'

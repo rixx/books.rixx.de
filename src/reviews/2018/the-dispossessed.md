@@ -9,6 +9,8 @@ book:
   pages: '387'
   publication_year: '1994'
   slug: the-dispossessed
+  tags:
+  - scifi
   title: The Dispossessed
 plan:
   date_added: '2017-11-21'

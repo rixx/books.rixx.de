@@ -9,6 +9,8 @@ book:
   series: Lady Astronaut
   series_position: '1'
   slug: the-calculating-stars
+  tags:
+  - scifi
   title: The Calculating Stars
 plan:
   date_added: '2018-07-25'

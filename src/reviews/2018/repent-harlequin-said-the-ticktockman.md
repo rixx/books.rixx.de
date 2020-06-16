@@ -8,6 +8,8 @@ book:
   isbn13: '9781887424356'
   publication_year: '1997'
   slug: repent-harlequin-said-the-ticktockman
+  tags:
+  - scifi
   title: '"Repent, Harlequin!" Said the Ticktockman'
 plan:
   date_added: '2018-03-13'

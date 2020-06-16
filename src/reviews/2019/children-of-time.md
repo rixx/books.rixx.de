@@ -11,6 +11,8 @@ book:
   series: Children of Time
   series_position: '1'
   slug: children-of-time
+  tags:
+  - scifi
   title: Children of Time
 plan:
   date_added: '2018-09-12'

@@ -9,6 +9,8 @@ book:
   pages: '320'
   publication_year: '2012'
   slug: redshirts
+  tags:
+  - scifi
   title: Redshirts
 plan:
   date_added: '2015-04-08'

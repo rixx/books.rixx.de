@@ -11,6 +11,8 @@ book:
   series: Empire Games
   series_position: '1'
   slug: empire-games
+  tags:
+  - scifi
   title: Empire Games
 plan:
   date_added: '2018-02-19'

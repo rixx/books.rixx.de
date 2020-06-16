@@ -7,6 +7,8 @@ book:
   isbn13: '9781942302735'
   publication_year: '2018'
   slug: nussia
+  tags:
+  - scifi
   title: Nussia
 plan:
   date_added: '2019-01-14'

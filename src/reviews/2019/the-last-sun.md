@@ -8,6 +8,8 @@ book:
   series: The Tarot Sequence
   series_position: '1'
   slug: the-last-sun
+  tags:
+  - scifi
   title: The Last Sun
 plan:
   date_added: '2019-11-20'

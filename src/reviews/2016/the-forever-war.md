@@ -11,6 +11,8 @@ book:
   series: The Forever War
   series_position: '1'
   slug: the-forever-war
+  tags:
+  - scifi
   title: The Forever War
 plan:
   date_added: '2016-11-12'

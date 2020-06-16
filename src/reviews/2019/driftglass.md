@@ -9,6 +9,8 @@ book:
   pages: '278'
   publication_year: '1971'
   slug: driftglass
+  tags:
+  - scifi
   title: Driftglass
 plan:
   date_added: '2018-10-04'

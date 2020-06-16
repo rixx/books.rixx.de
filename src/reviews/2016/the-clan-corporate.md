@@ -11,6 +11,8 @@ book:
   series: The Merchant Princes
   series_position: '3'
   slug: the-clan-corporate
+  tags:
+  - scifi
   title: The Clan Corporate
 plan:
   date_added: '2015-07-02'

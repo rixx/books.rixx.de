@@ -9,6 +9,8 @@ book:
   pages: '182'
   publication_year: '1967'
   slug: the-last-starship-from-earth
+  tags:
+  - scifi
   title: The Last Starship from Earth
 plan:
   date_added: 2020-06-09

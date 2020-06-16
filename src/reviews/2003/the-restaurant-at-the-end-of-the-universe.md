@@ -9,6 +9,8 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '2'
   slug: the-restaurant-at-the-end-of-the-universe
+  tags:
+  - scifi
   title: The Restaurant at the End of the Universe
 plan:
   date_added: '2015-04-08'

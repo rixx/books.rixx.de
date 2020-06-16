@@ -7,6 +7,8 @@ book:
   pages: '6'
   publication_year: null
   slug: the-star
+  tags:
+  - scifi
   title: The Star
 plan:
   date_added: '2018-03-13'

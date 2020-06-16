@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '8'
   slug: matter
+  tags:
+  - scifi
   title: Matter
 plan:
   date_added: '2018-09-10'

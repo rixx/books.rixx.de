@@ -9,6 +9,8 @@ book:
   series: Sprawl
   series_position: '1'
   slug: neuromancer
+  tags:
+  - scifi
   title: Neuromancer
 plan:
   date_added: '2017-05-10'

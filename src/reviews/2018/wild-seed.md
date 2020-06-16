@@ -11,6 +11,8 @@ book:
   series: Patternmaster
   series_position: '1'
   slug: wild-seed
+  tags:
+  - scifi
   title: Wild Seed
 plan:
   date_added: '2018-05-31'

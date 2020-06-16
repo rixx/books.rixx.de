@@ -11,6 +11,8 @@ book:
   series: Little Brother
   series_position: '1'
   slug: little-brother
+  tags:
+  - scifi
   title: Little Brother
 plan:
   date_added: '2015-04-09'

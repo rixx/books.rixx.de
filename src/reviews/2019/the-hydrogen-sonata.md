@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '10'
   slug: the-hydrogen-sonata
+  tags:
+  - scifi
   title: The Hydrogen Sonata
 plan:
   date_added: '2019-02-08'

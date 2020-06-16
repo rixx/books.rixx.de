@@ -11,6 +11,8 @@ book:
   series: Old Man's War
   series_position: '1'
   slug: old-mans-war
+  tags:
+  - scifi
   title: Old Man's War
 plan:
   date_added: '2015-04-08'

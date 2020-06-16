@@ -11,6 +11,7 @@ book:
   slug: the-obelisk-gate
   tags:
   - fantasy
+  - scifi
   title: The Obelisk Gate
 plan:
   date_added: '2018-09-10'

@@ -9,6 +9,8 @@ book:
   series: Imperial Radch
   series_position: '0.5'
   slug: nights-slow-poison
+  tags:
+  - scifi
   title: Night's Slow Poison
 plan:
   date_added: '2018-07-13'

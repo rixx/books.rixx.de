@@ -11,6 +11,8 @@ book:
   series: Metro
   series_position: '1'
   slug: metro-2033
+  tags:
+  - scifi
   title: Metro 2033
 plan:
   date_added: '2016-12-01'

@@ -11,6 +11,8 @@ book:
   series: Culture
   series_position: '1'
   slug: consider-phlebas
+  tags:
+  - scifi
   title: Consider Phlebas
 plan:
   date_added: '2016-05-08'

@@ -11,6 +11,8 @@ book:
   series: Ender’s Saga
   series_position: '2'
   slug: speaker-for-the-dead
+  tags:
+  - scifi
   title: Speaker for the Dead
 plan:
   date_added: '2015-04-09'

@@ -7,6 +7,8 @@ book:
   series: Freyaverse
   series_position: '1.5'
   slug: bit-rot
+  tags:
+  - scifi
   title: Bit Rot
 plan:
   date_added: '2017-11-28'

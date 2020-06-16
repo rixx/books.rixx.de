@@ -11,6 +11,8 @@ book:
   series: Oxford Time Travel
   series_position: '1'
   slug: doomsday-book
+  tags:
+  - scifi
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'

@@ -9,6 +9,8 @@ book:
   series: Silo
   series_position: '1'
   slug: wool-omnibus
+  tags:
+  - scifi
   title: Wool Omnibus
 plan:
   date_added: '2018-07-11'

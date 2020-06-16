@@ -9,6 +9,8 @@ book:
   pages: '204'
   publication_year: '2001'
   slug: flow-my-tears-the-policeman-said
+  tags:
+  - scifi
   title: Flow My Tears, the Policeman Said
 plan:
   date_added: '2016-12-08'

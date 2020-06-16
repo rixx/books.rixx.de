@@ -11,6 +11,8 @@ book:
   series: Vorkosigan Saga
   series_position: '5.2'
   slug: labyrinth
+  tags:
+  - scifi
   title: Labyrinth
 plan:
   date_added: '2018-11-26'

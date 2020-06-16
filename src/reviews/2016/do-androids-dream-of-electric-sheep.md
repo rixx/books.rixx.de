@@ -11,6 +11,8 @@ book:
   series: Blade Runner
   series_position: '1'
   slug: do-androids-dream-of-electric-sheep
+  tags:
+  - scifi
   title: Do Androids Dream of Electric Sheep?
 plan:
   date_added: '2015-04-09'

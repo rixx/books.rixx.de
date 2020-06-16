@@ -11,6 +11,8 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '4'
   slug: so-long-and-thanks-for-all-the-fish
+  tags:
+  - scifi
   title: So Long, and Thanks for All the Fish
 plan:
   date_added: '2016-05-05'

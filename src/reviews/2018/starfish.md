@@ -11,6 +11,8 @@ book:
   series: Rifters
   series_position: '1'
   slug: starfish
+  tags:
+  - scifi
   title: Starfish
 plan:
   date_added: '2015-04-09'

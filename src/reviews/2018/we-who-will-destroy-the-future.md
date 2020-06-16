@@ -7,6 +7,8 @@ book:
   pages: '15'
   publication_year: '2018'
   slug: we-who-will-destroy-the-future
+  tags:
+  - scifi
   title: We Who Will Destroy the Future
 plan:
   date_added: '2018-07-31'

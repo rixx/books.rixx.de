@@ -11,6 +11,8 @@ book:
   series: The Expanse
   series_position: '2'
   slug: calibans-war
+  tags:
+  - scifi
   title: Caliban's War
 plan:
   date_added: '2017-07-11'

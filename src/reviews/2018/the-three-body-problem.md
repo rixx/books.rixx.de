@@ -11,6 +11,8 @@ book:
   series: Remembrance of Earth’s Past
   series_position: '1'
   slug: the-three-body-problem
+  tags:
+  - scifi
   title: The Three-Body Problem
 plan:
   date_added: '2018-02-13'

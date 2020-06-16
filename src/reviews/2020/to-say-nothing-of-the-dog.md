@@ -11,6 +11,8 @@ book:
   series: Oxford Time Travel
   series_position: '2'
   slug: to-say-nothing-of-the-dog
+  tags:
+  - scifi
   title: To Say Nothing of the Dog
 plan:
   date_added: '2019-11-20'
