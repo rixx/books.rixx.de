@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '7'
   slug: 4-50-from-paddington
+  tags:
+  - mystery
   title: 4:50 from Paddington
 plan:
   date_added: '2016-05-08'

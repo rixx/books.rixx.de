@@ -6,6 +6,8 @@ book:
   goodreads: '6599565'
   publication_year: '2007'
   slug: a-study-in-emerald
+  tags:
+  - mystery
   title: A Study in Emerald
 plan:
   date_added: '2017-11-28'

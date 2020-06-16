@@ -9,6 +9,8 @@ book:
   pages: '261'
   publication_year: '1987'
   slug: paper-money
+  tags:
+  - mystery
   title: Paper Money
 plan:
   date_added: '2017-01-08'

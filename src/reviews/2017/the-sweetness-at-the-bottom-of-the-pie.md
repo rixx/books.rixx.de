@@ -11,6 +11,8 @@ book:
   series: Flavia de Luce
   series_position: '1'
   slug: the-sweetness-at-the-bottom-of-the-pie
+  tags:
+  - mystery
   title: The Sweetness at the Bottom of the Pie
 plan:
   date_added: '2016-12-05'

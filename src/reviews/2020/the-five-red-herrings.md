@@ -9,6 +9,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '7'
   slug: the-five-red-herrings
+  tags:
+  - mystery
   title: The Five Red Herrings
 plan:
   date_added: '2020-01-10'

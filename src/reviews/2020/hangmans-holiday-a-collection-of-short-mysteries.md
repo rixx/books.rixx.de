@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '9'
   slug: hangmans-holiday-a-collection-of-short-mysteries
+  tags:
+  - mystery
   title: 'Hangman''s Holiday: A Collection of Short Mysteries'
 plan:
   date_added: '2020-01-23'

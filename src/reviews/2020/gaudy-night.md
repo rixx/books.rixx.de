@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '12'
   slug: gaudy-night
+  tags:
+  - mystery
   title: Gaudy Night
 plan:
   date_added: '2020-02-04'

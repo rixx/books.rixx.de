@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '12'
   slug: nemesis
+  tags:
+  - mystery
   title: Nemesis
 plan:
   date_added: '2016-05-08'

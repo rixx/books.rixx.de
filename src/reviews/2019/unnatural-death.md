@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '3'
   slug: unnatural-death
+  tags:
+  - mystery
   title: Unnatural Death
 plan:
   date_added: '2019-12-19'

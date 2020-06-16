@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '10'
   slug: murder-must-advertise
+  tags:
+  - mystery
   title: Murder Must Advertise
 plan:
   date_added: '2016-05-07'

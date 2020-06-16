@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '11'
   slug: the-nine-tailors
+  tags:
+  - mystery
   title: The Nine Tailors
 plan:
   date_added: '2016-05-07'

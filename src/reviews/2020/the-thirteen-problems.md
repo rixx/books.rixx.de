@@ -8,10 +8,12 @@ book:
   isbn13: '9780007120864'
   pages: '315'
   publication_year: '1932'
-  slug: the-thirteen-problems
-  title: 'The Thirteen Problems'
   series: Miss Marple
   series_position: 2
+  slug: the-thirteen-problems
+  tags:
+  - mystery
+  title: The Thirteen Problems
 plan:
   date_added: 2020-06-16
 review:

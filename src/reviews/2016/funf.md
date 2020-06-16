@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: funf
   tags:
+  - mystery
   - scifi
   title: Fünf
 plan:

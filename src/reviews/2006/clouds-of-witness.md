@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '2'
   slug: clouds-of-witness
+  tags:
+  - mystery
   title: Clouds of Witness
 plan:
   date_added: '2016-05-07'

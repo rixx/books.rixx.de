@@ -11,6 +11,8 @@ book:
   series: Hercule Poirot
   series_position: '10'
   slug: murder-on-the-orient-express
+  tags:
+  - mystery
   title: Murder on the Orient Express
 plan:
   date_added: '2016-05-08'

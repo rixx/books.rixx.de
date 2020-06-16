@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '1'
   slug: whose-body
+  tags:
+  - mystery
   title: Whose Body?
 plan:
   date_added: '2019-09-29'

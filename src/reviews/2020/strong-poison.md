@@ -10,6 +10,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '6'
   slug: strong-poison
+  tags:
+  - mystery
   title: Strong Poison
 plan:
   date_added: '2020-01-06'

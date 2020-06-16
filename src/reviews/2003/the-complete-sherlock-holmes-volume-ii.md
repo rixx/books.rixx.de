@@ -9,6 +9,8 @@ book:
   pages: '709'
   publication_year: '2004'
   slug: the-complete-sherlock-holmes-volume-ii
+  tags:
+  - mystery
   title: 'The Complete Sherlock Holmes: Volume II'
 plan:
   date_added: '2015-04-08'

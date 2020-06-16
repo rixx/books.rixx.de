@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '1'
   slug: murder-at-the-vicarage
+  tags:
+  - mystery
   title: Murder at the Vicarage
 plan:
   date_added: '2016-05-08'

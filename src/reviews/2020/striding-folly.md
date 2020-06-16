@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '15'
   slug: striding-folly
+  tags:
+  - mystery
   title: Striding Folly
 plan:
   date_added: '2020-02-22'

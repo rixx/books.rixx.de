@@ -11,6 +11,8 @@ book:
   series: Flavia de Luce
   series_position: '6'
   slug: the-dead-in-their-vaulted-arches
+  tags:
+  - mystery
   title: The Dead in Their Vaulted Arches
 plan:
   date_added: '2017-11-26'

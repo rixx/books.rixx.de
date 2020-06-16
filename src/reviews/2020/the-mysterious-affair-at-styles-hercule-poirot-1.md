@@ -11,6 +11,8 @@ book:
   series: Hercule Poirot
   series_position: 1
   slug: the-mysterious-affair-at-styles-hercule-poirot-1
+  tags:
+  - mystery
   title: The Mysterious Affair at Styles
 plan:
   date_added: 2020-06-14

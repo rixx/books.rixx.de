@@ -10,6 +10,7 @@ book:
   series_position: '1'
   slug: dirk-gentlys-holistic-detective-agency
   tags:
+  - mystery
   - scifi
   title: Dirk Gently's Holistic Detective Agency
 plan:

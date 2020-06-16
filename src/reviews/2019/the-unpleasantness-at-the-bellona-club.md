@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '5'
   slug: the-unpleasantness-at-the-bellona-club
+  tags:
+  - mystery
   title: The Unpleasantness at the Bellona Club
 plan:
   date_added: '2019-12-30'

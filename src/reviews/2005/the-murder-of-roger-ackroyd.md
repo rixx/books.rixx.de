@@ -11,6 +11,8 @@ book:
   series: Hercule Poirot
   series_position: '4'
   slug: the-murder-of-roger-ackroyd
+  tags:
+  - mystery
   title: The Murder of Roger Ackroyd
 plan:
   date_added: '2016-05-08'

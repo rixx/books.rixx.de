@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '13'
   slug: sleeping-murder
+  tags:
+  - mystery
   title: Sleeping Murder
 plan:
   date_added: '2016-05-08'

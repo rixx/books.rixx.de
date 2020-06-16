@@ -11,6 +11,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '13'
   slug: busmans-honeymoon
+  tags:
+  - mystery
   title: Busman's Honeymoon
 plan:
   date_added: '2020-02-08'

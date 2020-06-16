@@ -11,6 +11,8 @@ book:
   series: Flavia de Luce
   series_position: '4'
   slug: i-am-half-sick-of-shadows
+  tags:
+  - mystery
   title: I Am Half-Sick of Shadows
 plan:
   date_added: '2017-11-25'

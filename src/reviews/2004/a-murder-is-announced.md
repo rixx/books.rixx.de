@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '4'
   slug: a-murder-is-announced
+  tags:
+  - mystery
   title: A Murder Is Announced
 plan:
   date_added: '2016-05-08'

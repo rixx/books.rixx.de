@@ -11,6 +11,8 @@ book:
   series: Miss Marple
   series_position: '2'
   slug: the-body-in-the-library
+  tags:
+  - mystery
   title: The Body in the Library
 plan:
   date_added: '2016-05-08'

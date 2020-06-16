@@ -11,6 +11,8 @@ book:
   series: Erast Fandorin Mysteries
   series_position: '1'
   slug: the-winter-queen
+  tags:
+  - mystery
   title: The Winter Queen
 plan:
   date_added: '2015-07-02'

@@ -9,6 +9,8 @@ book:
   series: Lord Peter Wimsey
   series_position: '8'
   slug: have-his-carcase
+  tags:
+  - mystery
   title: Have His Carcase
 plan:
   date_added: '2020-01-22'

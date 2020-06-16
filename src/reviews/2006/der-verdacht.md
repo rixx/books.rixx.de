@@ -7,6 +7,8 @@ book:
   pages: '120'
   publication_year: '2004'
   slug: der-verdacht
+  tags:
+  - mystery
   title: Der Verdacht
 plan:
   date_added: '2015-06-28'

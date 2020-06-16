@@ -9,6 +9,8 @@ book:
   pages: '208'
   publication_year: '1972'
   slug: der-richter-und-sein-henker
+  tags:
+  - mystery
   title: Der Richter und sein Henker
 plan:
   date_added: '2015-08-06'
