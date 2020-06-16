@@ -581,21 +581,28 @@ def change_tags(**kwargs):
         load_reviews(),
         key=lambda r: (r.metadata["book"]["author"], r.metadata["book"]["title"]),
     )
-    tags = [path.stem for path in Path("src/tags").glob("*.md")]
+    tags = sorted([path.stem for path in Path("src/tags").glob("*.md")])
 
     tag = inquirer.list_input(message="Which tag do you want to work on?", choices=tags)
+    longest_author = max(len(r.metadata["book"]["author"]) for r in reviews) + 2
+    longest_title = max(len(r.metadata["book"]["title"]) for r in reviews) + 2
+
+    def review_string(r):
+        result = r.metadata["book"]["author"].ljust(longest_author) + r.metadata[
+            "book"
+        ]["title"].ljust(longest_title)
+        tags = r.metadata["book"].get("tags")
+        if tags:
+            tag_string = "".join([f"[{tag}]" for tag in tags])
+            result = f"{result} {tag_string}"
+        return result
+
     tagged = inquirer.prompt(
         [
             inquirer.Checkbox(
                 name="tagged",
                 message=f"Books tagged as {tag}",
-                choices=[
-                    (
-                        f"{r.metadata['book']['author']}: {r.metadata['book']['title']}",
-                        r,
-                    )
-                    for r in reviews
-                ],
+                choices=[(review_string(r), r) for r in reviews],
                 default=[
                     r for r in reviews if tag in r.metadata["book"].get("tags", [])
                 ],
