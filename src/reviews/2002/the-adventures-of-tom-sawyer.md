@@ -9,6 +9,8 @@ book:
   pages: '244'
   publication_year: '2006'
   slug: the-adventures-of-tom-sawyer
+  tags:
+  - kids
   title: The Adventures of Tom Sawyer
 plan:
   date_added: '2015-04-08'

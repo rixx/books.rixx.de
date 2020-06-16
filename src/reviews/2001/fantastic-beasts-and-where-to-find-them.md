@@ -9,6 +9,8 @@ book:
   pages: '128'
   publication_year: '2001'
   slug: fantastic-beasts-and-where-to-find-them
+  tags:
+  - kids
   title: Fantastic Beasts and Where to Find Them
 plan:
   date_added: '2015-04-08'

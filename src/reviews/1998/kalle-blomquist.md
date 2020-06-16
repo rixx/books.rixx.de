@@ -10,6 +10,8 @@ book:
   publication_year: 1953
   series_position: '1'
   slug: kalle-blomquist
+  tags:
+  - kids
   title: Kalle Blomquist
 plan:
   date_added: '2016-05-05'

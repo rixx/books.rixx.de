@@ -9,6 +9,8 @@ book:
   pages: '208'
   publication_year: '1997'
   slug: the-witches
+  tags:
+  - kids
   title: The Witches
 plan:
   date_added: '2015-08-04'

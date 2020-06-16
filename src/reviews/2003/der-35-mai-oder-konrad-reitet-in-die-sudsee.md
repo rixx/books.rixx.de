@@ -7,6 +7,8 @@ book:
   pages: '160'
   publication_year: null
   slug: der-35-mai-oder-konrad-reitet-in-die-sudsee
+  tags:
+  - kids
   title: Der 35. Mai oder Konrad reitet in die Südsee
 plan:
   date_added: '2015-08-06'

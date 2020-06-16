@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '1998'
   slug: matilda
+  tags:
+  - kids
   title: Matilda
 plan:
   date_added: '2016-05-18'

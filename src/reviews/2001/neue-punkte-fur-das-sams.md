@@ -10,6 +10,8 @@ book:
   series: Sams
   series_position: '3'
   slug: neue-punkte-fur-das-sams
+  tags:
+  - kids
   title: Neue Punkte für das Sams
 plan:
   date_added: '2016-05-05'

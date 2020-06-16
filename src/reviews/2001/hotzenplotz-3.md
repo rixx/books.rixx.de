@@ -10,6 +10,8 @@ book:
   series: Hotzenplotz
   series_position: '3'
   slug: hotzenplotz-3
+  tags:
+  - kids
   title: Hotzenplotz 3
 plan:
   date_added: '2016-05-05'

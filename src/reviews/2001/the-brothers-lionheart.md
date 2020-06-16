@@ -9,6 +9,8 @@ book:
   pages: '231'
   publication_year: '2004'
   slug: the-brothers-lionheart
+  tags:
+  - kids
   title: The Brothers Lionheart
 plan:
   date_added: '2015-07-02'

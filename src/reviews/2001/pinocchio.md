@@ -9,6 +9,8 @@ book:
   pages: '262'
   publication_year: '1996'
   slug: pinocchio
+  tags:
+  - kids
   title: Pinocchio
 plan:
   date_added: '2015-04-08'

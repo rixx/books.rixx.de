@@ -11,6 +11,8 @@ book:
   series: Die Wilden Hühner
   series_position: '3'
   slug: die-wilden-huhner-fuchsalarm
+  tags:
+  - kids
   title: 'Die Wilden Hühner: Fuchsalarm'
 plan:
   date_added: '2015-08-04'

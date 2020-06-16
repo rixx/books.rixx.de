@@ -7,10 +7,12 @@ book:
   isbn10: '3522149904'
   isbn13: '9783522149907'
   publication_year: 1962
-  slug: jim-knopf-und-die-wilde-13
-  title: Jim Button and the Wild 13
   series: Jim Knopf
   series_position: '2'
+  slug: jim-knopf-und-die-wilde-13
+  tags:
+  - kids
+  title: Jim Button and the Wild 13
 plan:
   date_added: '2015-04-08'
 review:

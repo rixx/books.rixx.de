@@ -8,10 +8,12 @@ book:
   isbn13: '9780670557110'
   pages: '126'
   publication_year: '1959'
-  slug: pippi-in-the-south-seas
-  title: Pippi in the South Seas
   series: Pippi Langstrumpf
   series_position: '3'
+  slug: pippi-in-the-south-seas
+  tags:
+  - kids
+  title: Pippi in the South Seas
 plan:
   date_added: '2016-05-05'
 review:

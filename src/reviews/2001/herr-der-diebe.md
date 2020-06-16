@@ -7,6 +7,8 @@ book:
   isbn10: '3841501974'
   publication_year: 2000
   slug: herr-der-diebe
+  tags:
+  - kids
   title: Herr der Diebe
 plan:
   date_added: '2016-05-05'
@@ -33,5 +35,5 @@ the worldbuilding was top notch.
 ## Further Reading
 
 The [Unfortunate Events](https://books.rixx.de/reviews/2017/the-bad-beginning) series does something similar in places,
-but is more cruel. [Kalle Blomquist](https://books.rixx.de/reviews/1998/kalle-blomquist-meisterdetektiv) has a similar
+but is more cruel. [Kalle Blomquist](https://books.rixx.de/reviews/1998/kalle-blomquist) has a similar
 feeling of children taking care of things in a serious way.

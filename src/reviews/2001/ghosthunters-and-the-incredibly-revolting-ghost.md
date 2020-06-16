@@ -11,6 +11,8 @@ book:
   series: Ghosthunters
   series_position: '1'
   slug: ghosthunters-and-the-incredibly-revolting-ghost
+  tags:
+  - kids
   title: Ghosthunters and the Incredibly Revolting Ghost
 plan:
   date_added: '2015-08-04'

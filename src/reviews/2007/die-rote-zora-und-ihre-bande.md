@@ -9,6 +9,8 @@ book:
   pages: '383'
   publication_year: '2003'
   slug: die-rote-zora-und-ihre-bande
+  tags:
+  - kids
   title: Die rote Zora und ihre Bande
 plan:
   date_added: '2015-04-08'

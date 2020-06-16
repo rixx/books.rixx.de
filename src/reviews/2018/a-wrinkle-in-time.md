@@ -11,6 +11,8 @@ book:
   series: Time Quintet
   series_position: '1'
   slug: a-wrinkle-in-time
+  tags:
+  - kids
   title: A Wrinkle in Time
 plan:
   date_added: '2018-02-07'

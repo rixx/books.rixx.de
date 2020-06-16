@@ -11,6 +11,8 @@ book:
   series: Die Wilden Hühner
   series_position: '4'
   slug: die-wilden-huhner-und-das-gluck-der-erde
+  tags:
+  - kids
   title: Die Wilden Hühner und das Glück der Erde
 plan:
   date_added: '2015-08-04'

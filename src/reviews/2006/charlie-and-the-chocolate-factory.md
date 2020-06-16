@@ -7,6 +7,8 @@ book:
   pages: '155'
   publication_year: '2007'
   slug: charlie-and-the-chocolate-factory
+  tags:
+  - kids
   title: Charlie and the Chocolate Factory
 plan:
   date_added: '2015-06-28'

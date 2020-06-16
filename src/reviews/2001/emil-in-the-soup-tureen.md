@@ -9,6 +9,8 @@ book:
   pages: '96'
   publication_year: '1963'
   slug: emil-in-the-soup-tureen
+  tags:
+  - kids
   title: Emil in the Soup Tureen
 plan:
   date_added: '2015-07-02'

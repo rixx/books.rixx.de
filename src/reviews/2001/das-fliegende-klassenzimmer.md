@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '1933'
   slug: das-fliegende-klassenzimmer
+  tags:
+  - kids
   title: Das fliegende Klassenzimmer
 plan:
   date_added: '2015-08-06'

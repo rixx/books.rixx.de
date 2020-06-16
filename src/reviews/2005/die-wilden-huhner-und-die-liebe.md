@@ -10,6 +10,8 @@ book:
   series: Die Wilden Hühner
   series_position: '5'
   slug: die-wilden-huhner-und-die-liebe
+  tags:
+  - kids
   title: Die Wilden Hühner und die Liebe
 plan:
   date_added: '2015-08-04'

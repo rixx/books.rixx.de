@@ -8,6 +8,8 @@ book:
   isbn13: '9783789129476'
   publication_year: '1989'
   slug: marchen
+  tags:
+  - kids
   title: Märchen
 plan:
   date_added: '2015-07-02'

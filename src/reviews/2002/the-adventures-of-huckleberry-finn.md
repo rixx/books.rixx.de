@@ -8,6 +8,8 @@ book:
   pages: '48'
   publication_year: '2001'
   slug: the-adventures-of-huckleberry-finn
+  tags:
+  - kids
   title: The Adventures of Huckleberry Finn
 plan:
   date_added: '2015-04-08'

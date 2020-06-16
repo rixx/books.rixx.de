@@ -8,6 +8,8 @@ book:
   isbn13: '9783789129469'
   publication_year: null
   slug: immer-dieser-michel
+  tags:
+  - kids
   title: Immer dieser Michel
 plan:
   date_added: '2015-04-08'

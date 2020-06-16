@@ -11,6 +11,8 @@ book:
   series: Sams
   series_position: '1'
   slug: eine-woche-voller-samstage
+  tags:
+  - kids
   title: Eine Woche voller Samstage
 plan:
   date_added: '2015-04-08'

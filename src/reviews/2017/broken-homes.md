@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '4'
   slug: broken-homes
+  tags:
+  - urban-fantasy
   title: Broken Homes
 plan:
   date_added: '2017-12-12'

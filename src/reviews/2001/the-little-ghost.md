@@ -8,6 +8,8 @@ book:
   isbn13: '9783522174404'
   publication_year: null
   slug: the-little-ghost
+  tags:
+  - kids
   title: The Little Ghost
 plan:
   date_added: '2015-04-08'

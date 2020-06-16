@@ -9,6 +9,8 @@ book:
   pages: '162'
   publication_year: '2002'
   slug: coraline
+  tags:
+  - kids
   title: Coraline
 plan:
   date_added: '2015-04-08'

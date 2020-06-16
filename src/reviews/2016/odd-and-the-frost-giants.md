@@ -9,6 +9,8 @@ book:
   pages: '97'
   publication_year: '2008'
   slug: odd-and-the-frost-giants
+  tags:
+  - kids
   title: Odd and the Frost Giants
 plan:
   date_added: '2015-07-02'

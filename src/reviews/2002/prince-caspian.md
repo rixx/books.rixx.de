@@ -11,6 +11,8 @@ book:
   series: Chronicles of Narnia
   series_position: '2'
   slug: prince-caspian
+  tags:
+  - kids
   title: Prince Caspian
 plan:
   date_added: '2015-04-09'

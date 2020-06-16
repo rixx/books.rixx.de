@@ -8,10 +8,12 @@ book:
   isbn13: '9783522176507'
   pages: '256'
   publication_year: '1960'
-  slug: jim-knopf-und-lukas-der-lokomotivfuhrer
-  title: Jim Button and Luke the Engine Driver
   series: Jim Knopf
   series_position: '1'
+  slug: jim-knopf-und-lukas-der-lokomotivfuhrer
+  tags:
+  - kids
+  title: Jim Button and Luke the Engine Driver
 plan:
   date_added: '2015-04-08'
 review:

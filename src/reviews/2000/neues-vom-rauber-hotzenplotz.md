@@ -11,6 +11,8 @@ book:
   series: Hotzenplotz
   series_position: '2'
   slug: neues-vom-rauber-hotzenplotz
+  tags:
+  - kids
   title: Neues vom Räuber Hotzenplotz
 plan:
   date_added: '2016-05-05'

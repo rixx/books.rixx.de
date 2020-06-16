@@ -9,6 +9,8 @@ book:
   pages: '212'
   publication_year: '2007'
   slug: igraine-the-brave
+  tags:
+  - kids
   title: Igraine the Brave
 plan:
   date_added: '2015-08-04'

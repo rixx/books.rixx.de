@@ -9,6 +9,8 @@ book:
   series: Harry Potter
   series_position: '1'
   slug: harry-potter-and-the-sorcerers-stone
+  tags:
+  - kids
   title: Harry Potter and the Sorcerer's Stone
 plan:
   date_added: '2015-04-08'

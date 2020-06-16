@@ -9,6 +9,8 @@ book:
   pages: '222'
   publication_year: '2007'
   slug: madita
+  tags:
+  - kids
   title: Madita
 plan:
   date_added: '2015-07-02'

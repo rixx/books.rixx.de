@@ -9,6 +9,8 @@ book:
   pages: '32'
   publication_year: '1985'
   slug: tomte-tummetott
+  tags:
+  - kids
   title: Tomte Tummetott
 plan:
   date_added: '2015-07-02'

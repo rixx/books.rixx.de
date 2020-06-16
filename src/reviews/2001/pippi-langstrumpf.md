@@ -9,6 +9,8 @@ book:
   pages: '140'
   publication_year: '2007'
   slug: pippi-langstrumpf
+  tags:
+  - kids
   title: Pippi Langstrumpf
 plan:
   date_added: '2015-06-28'

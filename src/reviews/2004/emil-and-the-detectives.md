@@ -9,6 +9,8 @@ book:
   pages: '224'
   publication_year: '2001'
   slug: emil-and-the-detectives
+  tags:
+  - kids
   title: Emil and the Detectives
 plan:
   date_added: '2015-08-06'

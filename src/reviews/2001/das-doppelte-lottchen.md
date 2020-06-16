@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '1949'
   slug: das-doppelte-lottchen
+  tags:
+  - kids
   title: Das doppelte Lottchen
 plan:
   date_added: '2015-08-06'

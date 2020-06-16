@@ -10,6 +10,8 @@ book:
   series: Die Wilden Hühner
   series_position: '1'
   slug: die-wilden-huhner
+  tags:
+  - kids
   title: Die Wilden Hühner
 plan:
   date_added: '2015-04-08'

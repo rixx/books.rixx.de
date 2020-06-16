@@ -9,6 +9,8 @@ book:
   pages: '32'
   publication_year: '1865'
   slug: max-und-moritz-eine-bubengeschichte-in-sieben-streichen
+  tags:
+  - kids
   title: Max und Moritz. Eine Bubengeschichte in sieben Streichen
 plan:
   date_added: '2015-04-08'

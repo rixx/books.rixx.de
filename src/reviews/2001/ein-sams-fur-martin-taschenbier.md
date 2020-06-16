@@ -11,6 +11,8 @@ book:
   series: Sams
   series_position: '4'
   slug: ein-sams-fur-martin-taschenbier
+  tags:
+  - kids
   title: Ein Sams für Martin Taschenbier
 plan:
   date_added: '2016-05-05'

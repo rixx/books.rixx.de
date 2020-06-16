@@ -9,6 +9,8 @@ book:
   series: Chronicles of Narnia
   series_position: '1'
   slug: the-lion-the-witch-and-the-wardrobe
+  tags:
+  - kids
   title: The Lion, the Witch and the Wardrobe
 plan:
   date_added: '2015-04-08'

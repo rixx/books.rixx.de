@@ -11,11 +11,13 @@ book:
   series: Discworld
   series_position: '39.5'
   slug: the-world-of-poo-discworld
+  tags:
+  - kids
   title: The World of Poo
+plan:
+  date_added: 2020-05-24
 review:
   date_read: 2020-04-23
   date_started: 2020-04-23
   rating: 3
-plan:
-  date_added: 2020-05-24
 ---

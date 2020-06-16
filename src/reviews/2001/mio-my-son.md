@@ -9,6 +9,8 @@ book:
   pages: '178'
   publication_year: '2003'
   slug: mio-my-son
+  tags:
+  - kids
   title: Mio, My Son
 plan:
   date_added: '2015-07-02'

@@ -11,6 +11,8 @@ book:
   series: Dragon Rider
   series_position: '1'
   slug: dragon-rider
+  tags:
+  - kids
   title: Dragon Rider
 plan:
   date_added: '2015-08-04'

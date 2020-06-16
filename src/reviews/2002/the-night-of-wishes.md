@@ -9,6 +9,8 @@ book:
   pages: '216'
   publication_year: '1995'
   slug: the-night-of-wishes
+  tags:
+  - kids
   title: The Night of Wishes
 plan:
   date_added: '2015-04-08'

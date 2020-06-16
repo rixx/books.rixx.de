@@ -8,6 +8,8 @@ book:
   isbn13: '9783423071338'
   publication_year: '1995'
   slug: die-feuerrote-friederike
+  tags:
+  - kids
   title: Die feuerrote Friederike
 plan:
   date_added: '2015-07-02'

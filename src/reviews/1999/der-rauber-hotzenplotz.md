@@ -11,6 +11,8 @@ book:
   series: Hotzenplotz
   series_position: '1'
   slug: der-rauber-hotzenplotz
+  tags:
+  - kids
   title: Der Räuber Hotzenplotz
 plan:
   date_added: '2015-04-08'

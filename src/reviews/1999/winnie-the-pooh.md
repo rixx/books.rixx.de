@@ -11,6 +11,8 @@ book:
   series: Winnie-the-Pooh
   series_position: '1'
   slug: winnie-the-pooh
+  tags:
+  - kids
   title: Winnie ille Pu
 plan:
   date_added: '2016-05-19'

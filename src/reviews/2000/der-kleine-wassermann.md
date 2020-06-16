@@ -8,6 +8,8 @@ book:
   isbn13: '9783522106207'
   publication_year: '1956'
   slug: der-kleine-wassermann
+  tags:
+  - kids
   title: Der kleine Wassermann
 plan:
   date_added: '2016-05-05'

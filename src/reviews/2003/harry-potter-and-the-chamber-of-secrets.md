@@ -11,6 +11,8 @@ book:
   series: Harry Potter
   series_position: '2'
   slug: harry-potter-and-the-chamber-of-secrets
+  tags:
+  - kids
   title: Harry Potter and the Chamber of Secrets
 plan:
   date_added: '2016-05-05'

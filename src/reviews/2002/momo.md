@@ -8,6 +8,8 @@ book:
   isbn13: '9783522168571'
   publication_year: null
   slug: momo
+  tags:
+  - kids
   title: Momo
 plan:
   date_added: '2015-04-09'

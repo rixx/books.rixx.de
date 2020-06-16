@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '1985'
   slug: ronia-the-robbers-daughter
+  tags:
+  - kids
   title: Ronia, the Robber's Daughter
 plan:
   date_added: '2015-04-08'

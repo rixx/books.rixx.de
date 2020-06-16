@@ -9,6 +9,8 @@ book:
   pages: '358'
   publication_year: '1978'
   slug: die-dampfenden-halse-der-pferde-im-turm-von-babel
+  tags:
+  - kids
   title: Die dampfenden Hälse der Pferde im Turm von Babel
 plan:
   date_added: '2016-05-03'
@@ -18,6 +20,7 @@ review:
   did_not_finish: false
   rating: 5
 ---
+
 Five stars mean a book changed my life. This book changed my life several times, and I'm not sure it's done with me yet.
 It's about language. It's about philosophy. It's about linguistics. It's about playing with language, and it's about
 heritage and tradition, and – look, it's pretty perfect for me.

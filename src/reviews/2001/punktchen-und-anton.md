@@ -9,6 +9,8 @@ book:
   pages: '160'
   publication_year: '2002'
   slug: punktchen-und-anton
+  tags:
+  - kids
   title: Pünktchen und Anton
 plan:
   date_added: '2015-04-08'
