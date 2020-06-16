@@ -1,7 +1,9 @@
 import json
 import pathlib
+import sys
 
 import click
+import inquirer
 from rauth.service import OAuth1Service
 
 from .books import change_book, create_book
@@ -9,10 +11,21 @@ from .goodreads import get_shelves
 from .renderer import build_site
 
 
-@click.group()
+@click.group(invoke_without_command=True)
 @click.version_option()
-def cli():
+def cli(*lol, **trololol):
     "Interact with the data fueling books.rixx.de"
+    if len(sys.argv) > 1:
+        return
+    auth_data = json.load(open("auth.json"))  # no customising here, sorry
+    inquirer.list_input(
+        message="What do you want to do?",
+        choices=(
+            ("Add a new book", create_book),
+            ("Edit an existing book", change_book),
+            ("Build the site", build_site),
+        ),
+    )(auth=auth_data)
 
 
 @cli.command()

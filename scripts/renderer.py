@@ -130,7 +130,7 @@ def median_year(reviews):
     return int(statistics.median(years))
 
 
-def build_site():
+def build_site(**kwargs):
     env = Environment(
         loader=FileSystemLoader("templates"),
         autoescape=select_autoescape(["html", "xml"]),
@@ -376,7 +376,7 @@ def build_site():
         (
             "Reviews without cross-reference",
             len(
-                [b for b in all_reviews if b.text.strip() and not "https://" in b.text]
+                [b for b in all_reviews if b.text.strip() and "https://" not in b.text]
             ),
         ),
         (
