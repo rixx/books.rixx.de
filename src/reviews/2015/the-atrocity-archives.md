@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '1'
   slug: the-atrocity-archives
+  tags:
+  - urban-fantasy
   title: The Atrocity Archives
 plan:
   date_added: '2015-04-09'

@@ -9,6 +9,8 @@ book:
   series: Rivers of London
   series_position: '1.5'
   slug: the-home-crowd-advantage
+  tags:
+  - urban-fantasy
   title: The Home Crowd Advantage
 plan:
   date_added: '2017-12-20'

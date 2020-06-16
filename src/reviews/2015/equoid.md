@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '2.9'
   slug: equoid
+  tags:
+  - urban-fantasy
   title: Equoid
 plan:
   date_added: '2015-07-02'

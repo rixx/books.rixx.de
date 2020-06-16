@@ -8,6 +8,8 @@ book:
   series: Laundry Files
   series_position: '8'
   slug: the-delirium-brief
+  tags:
+  - urban-fantasy
   title: The Delirium Brief
 plan:
   date_added: '2018-03-19'

@@ -13,6 +13,7 @@ book:
   slug: a-wizard-alone
   tags:
   - fantasy
+  - urban-fantasy
   title: A Wizard Alone
 plan:
   date_added: '2016-05-03'

@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '3'
   slug: the-fuller-memorandum
+  tags:
+  - urban-fantasy
   title: The Fuller Memorandum
 plan:
   date_added: '2015-04-08'

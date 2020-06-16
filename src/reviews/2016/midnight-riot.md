@@ -9,6 +9,8 @@ book:
   series: Peter Grant
   series_position: '1'
   slug: midnight-riot
+  tags:
+  - urban-fantasy
   title: Midnight Riot
 plan:
   date_added: '2015-07-02'

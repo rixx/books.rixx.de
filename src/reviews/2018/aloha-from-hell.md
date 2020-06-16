@@ -11,6 +11,8 @@ book:
   series: Sandman Slim
   series_position: '3'
   slug: aloha-from-hell
+  tags:
+  - urban-fantasy
   title: Aloha from Hell
 plan:
   date_added: '2018-04-05'

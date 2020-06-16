@@ -11,6 +11,8 @@ book:
   series: Sandman Slim
   series_position: '2'
   slug: kill-the-dead
+  tags:
+  - urban-fantasy
   title: Kill the Dead
 plan:
   date_added: '2018-02-19'

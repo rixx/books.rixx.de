@@ -11,6 +11,8 @@ book:
   series: Mercy Thompson
   series_position: '3'
   slug: iron-kissed
+  tags:
+  - urban-fantasy
   title: Iron Kissed
 plan:
   date_added: '2016-12-31'

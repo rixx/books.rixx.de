@@ -13,6 +13,7 @@ book:
   slug: a-wizard-abroad
   tags:
   - fantasy
+  - urban-fantasy
   title: A Wizard Abroad
 plan:
   date_added: '2016-05-03'

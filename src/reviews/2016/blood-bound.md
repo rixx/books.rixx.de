@@ -11,6 +11,8 @@ book:
   series: Mercy Thompson
   series_position: '2'
   slug: blood-bound
+  tags:
+  - urban-fantasy
   title: Blood Bound
 plan:
   date_added: '2016-12-31'

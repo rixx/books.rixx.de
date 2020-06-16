@@ -13,6 +13,7 @@ book:
   slug: wizards-holiday
   tags:
   - fantasy
+  - urban-fantasy
   title: Wizard's Holiday
 plan:
   date_added: '2016-05-03'

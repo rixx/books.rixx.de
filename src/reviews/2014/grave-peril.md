@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '3'
   slug: grave-peril
+  tags:
+  - urban-fantasy
   title: Grave Peril
 plan:
   date_added: '2015-04-13'

@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '3'
   slug: whispers-under-ground
+  tags:
+  - urban-fantasy
   title: Whispers Under Ground
 plan:
   date_added: '2015-04-08'

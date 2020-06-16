@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '2'
   slug: the-jennifer-morgue
+  tags:
+  - urban-fantasy
   title: The Jennifer Morgue
 plan:
   date_added: '2015-04-09'

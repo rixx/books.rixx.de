@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '10'
   slug: small-favor
+  tags:
+  - urban-fantasy
   title: Small Favor
 plan:
   date_added: '2015-04-13'

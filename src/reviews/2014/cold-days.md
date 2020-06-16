@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '14'
   slug: cold-days
+  tags:
+  - urban-fantasy
   title: Cold Days
 plan:
   date_added: '2015-04-13'

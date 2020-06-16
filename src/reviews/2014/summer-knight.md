@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '4'
   slug: summer-knight
+  tags:
+  - urban-fantasy
   title: Summer Knight
 plan:
   date_added: '2015-04-13'

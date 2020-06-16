@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '6'
   slug: the-annihilation-score
+  tags:
+  - urban-fantasy
   title: The Annihilation Score
 plan:
   date_added: '2015-07-03'

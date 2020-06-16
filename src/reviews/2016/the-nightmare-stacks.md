@@ -11,6 +11,8 @@ book:
   series: Laundry Files
   series_position: '7'
   slug: the-nightmare-stacks
+  tags:
+  - urban-fantasy
   title: The Nightmare Stacks
 plan:
   date_added: '2015-07-03'

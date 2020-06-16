@@ -11,6 +11,8 @@ book:
   series: Mercy Thompson
   series_position: '1'
   slug: moon-called
+  tags:
+  - urban-fantasy
   title: Moon Called
 plan:
   date_added: '2016-05-23'

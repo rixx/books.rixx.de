@@ -10,6 +10,8 @@ book:
   series: Laundry Files
   series_position: '5'
   slug: the-rhesus-chart
+  tags:
+  - urban-fantasy
   title: The Rhesus Chart
 plan:
   date_added: '2015-04-08'

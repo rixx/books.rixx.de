@@ -9,6 +9,8 @@ book:
   series: Laundry Files
   series_position: '3.5'
   slug: overtime
+  tags:
+  - urban-fantasy
   title: Overtime
 plan:
   date_added: '2015-07-02'

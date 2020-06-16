@@ -13,6 +13,7 @@ book:
   slug: inkspell
   tags:
   - fantasy
+  - urban-fantasy
   title: Inkspell
 plan:
   date_added: '2015-08-04'

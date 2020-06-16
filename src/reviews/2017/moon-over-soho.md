@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '2'
   slug: moon-over-soho
+  tags:
+  - urban-fantasy
   title: Moon Over Soho
 plan:
   date_added: '2017-12-11'

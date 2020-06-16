@@ -13,6 +13,7 @@ book:
   slug: inkdeath
   tags:
   - fantasy
+  - urban-fantasy
   title: Inkdeath
 plan:
   date_added: '2015-08-04'

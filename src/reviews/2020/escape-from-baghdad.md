@@ -9,6 +9,8 @@ book:
   pages: '304'
   publication_year: '2012'
   slug: escape-from-baghdad
+  tags:
+  - urban-fantasy
   title: Escape from Baghdad!
 plan:
   date_added: 2020-06-15

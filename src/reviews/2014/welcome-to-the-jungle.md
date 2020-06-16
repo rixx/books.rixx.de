@@ -9,6 +9,8 @@ book:
   pages: '168'
   publication_year: '2008'
   slug: welcome-to-the-jungle
+  tags:
+  - urban-fantasy
   title: Welcome to the Jungle
 plan:
   date_added: '2015-04-08'

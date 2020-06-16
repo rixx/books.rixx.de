@@ -9,6 +9,8 @@ book:
   series: Laundry Files
   series_position: '2.5'
   slug: down-on-the-farm
+  tags:
+  - urban-fantasy
   title: Down on the Farm
 plan:
   date_added: '2015-04-09'

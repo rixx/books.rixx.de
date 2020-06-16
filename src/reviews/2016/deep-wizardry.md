@@ -13,6 +13,7 @@ book:
   slug: deep-wizardry
   tags:
   - fantasy
+  - urban-fantasy
   title: Deep Wizardry
 plan:
   date_added: '2016-05-03'

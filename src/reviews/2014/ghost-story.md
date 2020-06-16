@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '13'
   slug: ghost-story
+  tags:
+  - urban-fantasy
   title: Ghost Story
 plan:
   date_added: '2015-04-13'

@@ -9,6 +9,8 @@ book:
   pages: '32'
   publication_year: '2019'
   slug: how-to-move-spheres-and-influence-people
+  tags:
+  - urban-fantasy
   title: How to Move Spheres and Influence People
 plan:
   date_added: '2019-04-04'

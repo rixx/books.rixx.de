@@ -13,6 +13,7 @@ book:
   slug: the-wizards-dilemma
   tags:
   - fantasy
+  - urban-fantasy
   title: The Wizard's Dilemma
 plan:
   date_added: '2016-05-03'

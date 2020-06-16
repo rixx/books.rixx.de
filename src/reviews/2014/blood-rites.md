@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '6'
   slug: blood-rites
+  tags:
+  - urban-fantasy
   title: Blood Rites
 plan:
   date_added: '2015-04-13'

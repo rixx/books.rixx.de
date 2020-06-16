@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '8'
   slug: proven-guilty
+  tags:
+  - urban-fantasy
   title: Proven Guilty
 plan:
   date_added: '2015-04-13'

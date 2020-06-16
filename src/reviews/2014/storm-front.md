@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '1'
   slug: storm-front
+  tags:
+  - urban-fantasy
   title: Storm Front
 plan:
   date_added: '2015-04-13'

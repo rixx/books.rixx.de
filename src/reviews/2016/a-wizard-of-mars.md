@@ -13,6 +13,7 @@ book:
   slug: a-wizard-of-mars
   tags:
   - fantasy
+  - urban-fantasy
   title: A Wizard of Mars
 plan:
   date_added: '2016-05-03'

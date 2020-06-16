@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '5'
   slug: death-masks
+  tags:
+  - urban-fantasy
   title: Death Masks
 plan:
   date_added: '2015-04-13'

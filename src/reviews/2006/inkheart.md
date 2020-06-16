@@ -13,6 +13,7 @@ book:
   slug: inkheart
   tags:
   - fantasy
+  - urban-fantasy
   title: Inkheart
 plan:
   date_added: '2015-08-04'

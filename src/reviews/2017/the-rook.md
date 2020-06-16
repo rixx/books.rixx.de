@@ -11,6 +11,8 @@ book:
   series: The Checquy Files
   series_position: '1'
   slug: the-rook
+  tags:
+  - urban-fantasy
   title: The Rook
 plan:
   date_added: '2017-05-23'

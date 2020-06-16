@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '5.5'
   slug: the-furthest-station
+  tags:
+  - urban-fantasy
   title: The Furthest Station
 plan:
   date_added: '2017-12-20'

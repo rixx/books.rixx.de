@@ -11,6 +11,8 @@ book:
   series: Every Day
   series_position: '1'
   slug: every-day
+  tags:
+  - urban-fantasy
   title: Every Day
 plan:
   date_added: '2018-06-06'

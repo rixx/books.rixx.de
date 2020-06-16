@@ -13,6 +13,7 @@ book:
   slug: so-you-want-to-be-a-wizard
   tags:
   - fantasy
+  - urban-fantasy
   title: So You Want to Be a Wizard
 plan:
   date_added: '2016-05-03'

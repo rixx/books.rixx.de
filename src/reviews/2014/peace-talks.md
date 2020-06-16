@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '16'
   slug: peace-talks
+  tags:
+  - urban-fantasy
   title: Peace Talks
 plan:
   date_added: '2015-04-13'

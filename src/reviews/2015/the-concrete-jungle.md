@@ -9,6 +9,8 @@ book:
   series: Laundry Files
   series_position: '1.5'
   slug: the-concrete-jungle
+  tags:
+  - urban-fantasy
   title: The Concrete Jungle
 plan:
   date_added: '2015-07-02'

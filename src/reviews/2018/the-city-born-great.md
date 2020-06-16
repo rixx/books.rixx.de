@@ -9,6 +9,8 @@ book:
   pages: '22'
   publication_year: '2016'
   slug: the-city-born-great
+  tags:
+  - urban-fantasy
   title: The City Born Great
 plan:
   date_added: '2018-12-17'

@@ -11,6 +11,8 @@ book:
   series: Sandman Slim
   series_position: '3.5'
   slug: devil-in-the-dollhouse
+  tags:
+  - urban-fantasy
   title: Devil in the Dollhouse
 plan:
   date_added: '2018-04-30'

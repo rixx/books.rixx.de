@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '7'
   slug: dead-beat
+  tags:
+  - urban-fantasy
   title: Dead Beat
 plan:
   date_added: '2015-04-13'

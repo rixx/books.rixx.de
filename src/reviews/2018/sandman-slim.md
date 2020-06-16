@@ -11,6 +11,8 @@ book:
   series: Sandman Slim
   series_position: '1'
   slug: sandman-slim
+  tags:
+  - urban-fantasy
   title: Sandman Slim
 plan:
   date_added: '2016-06-08'

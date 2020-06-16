@@ -9,6 +9,8 @@ book:
   series: Laundry Files
   series_position: '9'
   slug: the-labyrinth-index
+  tags:
+  - urban-fantasy
   title: The Labyrinth Index
 plan:
   date_added: '2018-10-16'

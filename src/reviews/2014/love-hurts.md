@@ -8,6 +8,8 @@ book:
   series: The Dresden Files
   series_position: '11.5'
   slug: love-hurts
+  tags:
+  - urban-fantasy
   title: Love Hurts
 plan:
   date_added: '2015-04-08'

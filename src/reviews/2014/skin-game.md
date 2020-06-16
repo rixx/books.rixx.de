@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '15'
   slug: skin-game
+  tags:
+  - urban-fantasy
   title: Skin Game
 plan:
   date_added: '2015-04-13'

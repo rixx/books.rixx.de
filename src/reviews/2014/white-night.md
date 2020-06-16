@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '9'
   slug: white-night
+  tags:
+  - urban-fantasy
   title: White Night
 plan:
   date_added: '2015-04-13'

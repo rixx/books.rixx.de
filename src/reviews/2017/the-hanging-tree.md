@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '6'
   slug: the-hanging-tree
+  tags:
+  - urban-fantasy
   title: The Hanging Tree
 plan:
   date_added: '2017-12-20'

@@ -9,6 +9,8 @@ book:
   series: Laundry Files
   series_position: '4'
   slug: the-apocalypse-codex
+  tags:
+  - urban-fantasy
   title: The Apocalypse Codex
 plan:
   date_added: '2015-07-02'

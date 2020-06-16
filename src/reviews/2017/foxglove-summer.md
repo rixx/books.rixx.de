@@ -11,6 +11,8 @@ book:
   series: Rivers of London
   series_position: '5'
   slug: foxglove-summer
+  tags:
+  - urban-fantasy
   title: Foxglove Summer
 plan:
   date_added: '2015-04-08'

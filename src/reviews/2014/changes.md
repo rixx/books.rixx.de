@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '12'
   slug: changes
+  tags:
+  - urban-fantasy
   title: Changes
 plan:
   date_added: '2015-04-13'

@@ -13,6 +13,7 @@ book:
   slug: high-wizardry
   tags:
   - fantasy
+  - urban-fantasy
   title: High Wizardry
 plan:
   date_added: '2016-05-03'

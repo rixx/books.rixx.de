@@ -11,6 +11,7 @@ book:
   slug: der-herr-der-unruhe
   tags:
   - fantasy
+  - urban-fantasy
   title: Der Herr der Unruhe
 plan:
   date_added: '2016-05-03'

@@ -9,6 +9,8 @@ book:
   pages: '99'
   publication_year: '2007'
   slug: missile-gap
+  tags:
+  - urban-fantasy
   title: Missile Gap
 plan:
   date_added: '2018-09-20'

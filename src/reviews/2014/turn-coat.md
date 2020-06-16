@@ -11,6 +11,8 @@ book:
   series: The Dresden Files
   series_position: '11'
   slug: turn-coat
+  tags:
+  - urban-fantasy
   title: Turn Coat
 plan:
   date_added: '2015-04-13'
