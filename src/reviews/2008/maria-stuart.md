@@ -9,6 +9,8 @@ book:
   pages: '168'
   publication_year: '2001'
   slug: maria-stuart
+  tags:
+  - stage-play
   title: Maria Stuart
 plan:
   date_added: '2015-04-08'

@@ -9,6 +9,8 @@ book:
   pages: '124'
   publication_year: '1994'
   slug: the-threepenny-opera
+  tags:
+  - stage-play
   title: The Threepenny Opera
 plan:
   date_added: '2016-05-03'

@@ -6,6 +6,8 @@ book:
   goodreads: '452220'
   publication_year: '2001'
   slug: die-physiker
+  tags:
+  - stage-play
   title: Die Physiker
 plan:
   date_added: '2015-04-08'

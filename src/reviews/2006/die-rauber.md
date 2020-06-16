@@ -9,6 +9,8 @@ book:
   pages: '176'
   publication_year: '1986'
   slug: die-rauber
+  tags:
+  - stage-play
   title: Die Räuber
 plan:
   date_added: '2015-04-08'

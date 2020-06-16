@@ -9,6 +9,8 @@ book:
   pages: '79'
   publication_year: '1986'
   slug: iphigenie-auf-tauris
+  tags:
+  - stage-play
   title: Iphigenie auf Tauris
 plan:
   date_added: '2015-04-08'

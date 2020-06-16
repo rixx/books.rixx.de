@@ -7,6 +7,8 @@ book:
   pages: '143'
   publication_year: '2001'
   slug: kabale-und-liebe
+  tags:
+  - stage-play
   title: Kabale und Liebe
 plan:
   date_added: '2015-04-08'

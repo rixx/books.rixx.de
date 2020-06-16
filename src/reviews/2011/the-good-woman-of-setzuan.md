@@ -9,6 +9,8 @@ book:
   pages: '112'
   publication_year: '1999'
   slug: the-good-woman-of-setzuan
+  tags:
+  - stage-play
   title: The Good Woman of Setzuan
 plan:
   date_added: '2016-05-03'

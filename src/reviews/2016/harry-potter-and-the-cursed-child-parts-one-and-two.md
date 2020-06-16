@@ -11,6 +11,8 @@ book:
   series: Harry Potter
   series_position: '8'
   slug: harry-potter-and-the-cursed-child-parts-one-and-two
+  tags:
+  - stage-play
   title: 'Harry Potter and the Cursed Child: Parts One and Two'
 plan:
   date_added: '2016-08-16'

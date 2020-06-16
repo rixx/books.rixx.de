@@ -9,6 +9,8 @@ book:
   pages: '160'
   publication_year: '1993'
   slug: nathan-der-weise
+  tags:
+  - stage-play
   title: Nathan der Weise
 plan:
   date_added: '2015-04-08'

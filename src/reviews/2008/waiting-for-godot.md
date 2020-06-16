@@ -9,6 +9,8 @@ book:
   pages: '109'
   publication_year: '1953'
   slug: waiting-for-godot
+  tags:
+  - stage-play
   title: Waiting for Godot
 plan:
   date_added: 2020-05-29
@@ -17,6 +19,7 @@ review:
   date_started: 2008-04-03
   rating: 3
 ---
+
 Waiting for Godot showed me how free literature was, and the things a determined author can do with and through (and
 arguably to) a group of actors. I like it for this learning impact, a lot.
 

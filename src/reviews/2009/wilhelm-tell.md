@@ -7,6 +7,8 @@ book:
   pages: '144'
   publication_year: '2000'
   slug: wilhelm-tell
+  tags:
+  - stage-play
   title: Wilhelm Tell
 plan:
   date_added: '2015-04-08'

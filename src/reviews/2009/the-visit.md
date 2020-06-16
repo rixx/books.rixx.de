@@ -9,6 +9,8 @@ book:
   pages: '112'
   publication_year: '1994'
   slug: the-visit
+  tags:
+  - stage-play
   title: The Visit
 plan:
   date_added: '2016-05-03'
