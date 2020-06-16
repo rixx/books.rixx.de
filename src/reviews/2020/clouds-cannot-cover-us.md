@@ -8,6 +8,8 @@ book:
   isbn13: '9781912745104'
   publication_year: null
   slug: clouds-cannot-cover-us
+  tags:
+  - poetry
   title: Clouds Cannot Cover Us
 plan:
   date_added: '2020-01-03'

@@ -9,6 +9,8 @@ book:
   pages: '174'
   publication_year: '2011'
   slug: gedichte
+  tags:
+  - poetry
   title: Gedichte
 plan:
   date_added: '2015-08-06'

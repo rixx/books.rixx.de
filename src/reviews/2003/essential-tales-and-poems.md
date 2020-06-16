@@ -9,6 +9,8 @@ book:
   pages: '688'
   publication_year: '2004'
   slug: essential-tales-and-poems
+  tags:
+  - poetry
   title: Essential Tales and Poems
 plan:
   date_added: '2015-04-08'

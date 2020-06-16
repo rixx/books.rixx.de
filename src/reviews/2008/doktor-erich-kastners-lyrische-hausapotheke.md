@@ -9,6 +9,8 @@ book:
   pages: '224'
   publication_year: null
   slug: doktor-erich-kastners-lyrische-hausapotheke
+  tags:
+  - poetry
   title: Doktor Erich Kästners Lyrische Hausapotheke
 plan:
   date_added: '2016-05-03'

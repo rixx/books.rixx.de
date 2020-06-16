@@ -9,6 +9,8 @@ book:
   pages: '86'
   publication_year: '1998'
   slug: baal
+  tags:
+  - poetry
   title: Baal
 plan:
   date_added: '2016-05-03'

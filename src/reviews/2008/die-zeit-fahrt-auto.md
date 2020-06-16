@@ -6,6 +6,8 @@ book:
   goodreads: '7745958'
   publication_year: null
   slug: die-zeit-fahrt-auto
+  tags:
+  - poetry
   title: Die Zeit fährt Auto
 plan:
   date_added: '2015-08-06'
