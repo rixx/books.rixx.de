@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '6'
   slug: a-song-in-time-of-revolution
+  tags:
+  - fanfic
   title: A Song In Time of Revolution
 plan:
   date_added: '2018-01-23'

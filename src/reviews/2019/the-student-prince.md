@@ -9,6 +9,8 @@ book:
   series: The Student Prince
   series_position: '1'
   slug: the-student-prince
+  tags:
+  - fanfic
   title: The Student Prince
 plan:
   date_added: '2019-10-18'

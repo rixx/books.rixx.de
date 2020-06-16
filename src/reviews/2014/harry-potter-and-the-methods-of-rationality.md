@@ -7,6 +7,8 @@ book:
   pages: '2184'
   publication_year: '2015'
   slug: harry-potter-and-the-methods-of-rationality
+  tags:
+  - fanfic
   title: Harry Potter and the Methods of Rationality
 plan:
   date_added: '2015-04-09'
@@ -16,6 +18,7 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
 HPMOR is both the best and the worst of rationalist fiction. Terrible, terrible writing, in a physically painful stilted
 style, and oh-so-fucking superior. There aren't even characters in this story, only symbols.
 

@@ -9,6 +9,8 @@ book:
   series: Tennis
   series_position: '2'
   slug: a-study-in-doubles
+  tags:
+  - fanfic
   title: A Study in Doubles
 plan:
   date_added: '2020-02-24'

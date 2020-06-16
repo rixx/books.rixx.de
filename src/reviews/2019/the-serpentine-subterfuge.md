@@ -9,6 +9,8 @@ book:
   series: Rigel Black
   series_position: '2'
   slug: the-serpentine-subterfuge
+  tags:
+  - fanfic
   title: The Serpentine Subterfuge
 plan:
   date_added: '2019-02-01'

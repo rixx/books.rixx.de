@@ -9,6 +9,8 @@ book:
   series: Like None Other
   series_position: '1'
   slug: a-year-like-none-other
+  tags:
+  - fanfic
   title: A Year Like None Other
 plan:
   date_added: '2020-02-28'

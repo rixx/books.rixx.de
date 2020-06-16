@@ -5,6 +5,8 @@ book:
   pages: '1777'
   publication_year: '2017'
   slug: sansukh
+  tags:
+  - fanfic
   title: Sansûkh
 plan:
   date_added: '2019-01-30'

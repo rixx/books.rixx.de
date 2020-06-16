@@ -9,6 +9,8 @@ book:
   series: Rigel Black
   series_position: '1'
   slug: the-pureblood-pretense
+  tags:
+  - fanfic
   title: The Pureblood Pretense
 plan:
   date_added: '2019-02-01'

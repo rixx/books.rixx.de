@@ -6,6 +6,8 @@ book:
   series: Rigel Black
   series_position: '4'
   slug: the-futile-facade
+  tags:
+  - fanfic
   title: The Futile Facade
 plan:
   date_added: '2019-02-07'

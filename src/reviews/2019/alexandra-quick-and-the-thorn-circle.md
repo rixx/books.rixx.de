@@ -9,6 +9,8 @@ book:
   series: Alexandra Quick
   series_position: '1'
   slug: alexandra-quick-and-the-thorn-circle
+  tags:
+  - fanfic
   title: Alexandra Quick and the Thorn Circle
 plan:
   date_added: '2019-02-08'

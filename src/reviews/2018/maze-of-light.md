@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '3.5'
   slug: maze-of-light
+  tags:
+  - fanfic
   title: Maze of Light
 plan:
   date_added: '2018-02-10'

@@ -7,6 +7,8 @@ book:
   pages: '241'
   publication_year: '2014'
   slug: the-metropolitan-man
+  tags:
+  - fanfic
   title: The Metropolitan Man
 plan:
   date_added: '2018-03-06'

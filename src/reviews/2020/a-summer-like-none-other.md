@@ -9,6 +9,8 @@ book:
   series: Like None Other
   series_position: '2'
   slug: a-summer-like-none-other
+  tags:
+  - fanfic
   title: A Summer Like None Other
 plan:
   date_added: '2020-02-28'

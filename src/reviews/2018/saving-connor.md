@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '1'
   slug: saving-connor
+  tags:
+  - fanfic
   title: Saving Connor
 plan:
   date_added: '2018-01-23'

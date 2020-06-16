@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '7'
   slug: i-am-also-thy-brother
+  tags:
+  - fanfic
   title: I Am Also Thy Brother
 plan:
   date_added: '2018-02-01'

@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '4'
   slug: freedom-and-not-peace
+  tags:
+  - fanfic
   title: Freedom And Not Peace
 plan:
   date_added: '2018-01-23'

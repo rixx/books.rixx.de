@@ -11,6 +11,8 @@ book:
   series: Thessaly
   series_position: '1'
   slug: the-just-city
+  tags:
+  - fanfic
   title: The Just City
 plan:
   date_added: '2019-09-28'

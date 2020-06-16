@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '2'
   slug: no-mouth-but-some-serpents
+  tags:
+  - fanfic
   title: No Mouth But Some Serpent's
 plan:
   date_added: '2018-01-23'

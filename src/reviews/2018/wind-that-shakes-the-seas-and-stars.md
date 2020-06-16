@@ -9,6 +9,8 @@ book:
   series: Sacrifices Arc
   series_position: '5'
   slug: wind-that-shakes-the-seas-and-stars
+  tags:
+  - fanfic
   title: Wind That Shakes the Seas and Stars
 plan:
   date_added: '2018-01-23'

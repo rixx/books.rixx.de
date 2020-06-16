@@ -9,6 +9,8 @@ book:
   series: Tennis
   series_position: '1'
   slug: a-study-in-winning
+  tags:
+  - fanfic
   title: A Study in Winning
 plan:
   date_added: '2020-02-23'

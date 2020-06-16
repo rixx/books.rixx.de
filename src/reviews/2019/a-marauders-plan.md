@@ -9,6 +9,8 @@ book:
   series: A Marauder's Plan
   series_position: '1'
   slug: a-marauders-plan
+  tags:
+  - fanfic
   title: A Marauder's Plan
 plan:
   date_added: '2019-02-17'

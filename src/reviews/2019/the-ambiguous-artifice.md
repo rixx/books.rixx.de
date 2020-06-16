@@ -9,6 +9,8 @@ book:
   series: Rigel Black
   series_position: '3'
   slug: the-ambiguous-artifice
+  tags:
+  - fanfic
   title: The Ambiguous Artifice
 plan:
   date_added: '2019-02-01'

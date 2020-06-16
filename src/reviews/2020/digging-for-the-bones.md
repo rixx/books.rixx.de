@@ -5,6 +5,8 @@ book:
   pages: '850'
   publication_year: '2014'
   slug: digging-for-the-bones
+  tags:
+  - fanfic
   title: Digging for the Bones
 plan:
   date_added: '2020-02-25'
