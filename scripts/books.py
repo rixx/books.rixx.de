@@ -592,23 +592,36 @@ def change_tags(**kwargs):
                 carousel=True,
             ),
             inquirer.Checkbox(
-                name="limit",
+                name="include",
                 message="Show only books with these tags (empty for all)",
                 choices=tags + ["no tags"],
+            ),
+            inquirer.Checkbox(
+                name="exclude",
+                message="Exclude books with these tags",
+                choices=tags,
             ),
         ]
     )
 
     tag = answers["tag"]
-    limit = answers["limit"]
+    include = answers["include"]
+    exclude = answers["exclude"]
 
-    if limit:
-        include_empty = "no tags" in limit
+    if include:
+        include_empty = "no tags" in include
         reviews = [
             r
             for r in reviews
             if (include_empty and not r.metadata["book"].get("tags"))
-            or any(tag in limit for tag in r.metadata["book"].get("tags", []))
+            or any(tag in include for tag in r.metadata["book"].get("tags", []))
+        ]
+
+    if exclude:
+        reviews = [
+            r
+            for r in reviews
+            if not any(tag in exclude for tag in r.metadata["book"].get("tags", []))
         ]
 
     longest_author = max(len(r.metadata["book"]["author"]) for r in reviews) + 2
