@@ -11,6 +11,7 @@ book:
   slug: just-for-fun-the-story-of-an-accidental-revolutionary
   tags:
   - nonfiction
+  - tech
   title: 'Just for Fun: The Story of an Accidental Revolutionary'
 plan:
   date_added: '2015-04-09'

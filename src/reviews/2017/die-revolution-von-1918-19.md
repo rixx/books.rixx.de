@@ -10,6 +10,7 @@ book:
   slug: die-revolution-von-1918-19
   tags:
   - german
+  - history
   - nonfiction
   title: Die Revolution Von 1918/19
 plan:

@@ -10,6 +10,8 @@ book:
   series_position: '1'
   slug: unsouled
   title: Unsouled
+  tags:
+  - fantasy
 plan:
   date_added: '2018-08-20'
 review:

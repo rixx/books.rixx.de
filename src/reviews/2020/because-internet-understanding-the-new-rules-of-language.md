@@ -10,7 +10,9 @@ book:
   publication_year: '2019'
   slug: because-internet-understanding-the-new-rules-of-language
   tags:
+  - language
   - nonfiction
+  - tech
   title: 'Because Internet: Understanding the New Rules of Language'
 plan:
   date_added: '2020-04-18'

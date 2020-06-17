@@ -11,6 +11,7 @@ book:
   slug: intelligence-a-very-short-introduction
   tags:
   - nonfiction
+  - psychology
   title: 'Intelligence: A Very Short Introduction'
 plan:
   date_added: '2020-05-09'

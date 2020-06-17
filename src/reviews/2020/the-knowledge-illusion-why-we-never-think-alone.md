@@ -11,6 +11,8 @@ book:
   slug: the-knowledge-illusion-why-we-never-think-alone
   tags:
   - nonfiction
+  - personal-development
+  - psychology
   title: 'The Knowledge Illusion: Why We Never Think Alone'
 plan:
   date_added: '2019-12-19'

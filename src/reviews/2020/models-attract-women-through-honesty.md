@@ -11,6 +11,7 @@ book:
   slug: models-attract-women-through-honesty
   tags:
   - nonfiction
+  - personal-development
   title: 'Models: Attract Women Through Honesty'
 plan:
   date_added: '2020-04-16'

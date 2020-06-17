@@ -8,6 +8,7 @@ book:
   slug: das-dritte-reich-geschichte-einer-diktatur
   tags:
   - german
+  - history
   - nonfiction
   title: 'Das Dritte Reich: Geschichte einer Diktatur'
 plan:

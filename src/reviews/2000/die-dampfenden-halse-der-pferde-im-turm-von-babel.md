@@ -12,6 +12,8 @@ book:
   tags:
   - german
   - kids
+  - language
+  - nonfiction
   title: Die dampfenden Hälse der Pferde im Turm von Babel
 plan:
   date_added: '2016-05-03'

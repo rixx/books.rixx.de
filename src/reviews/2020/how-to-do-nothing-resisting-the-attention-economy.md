@@ -10,6 +10,7 @@ book:
   slug: how-to-do-nothing-resisting-the-attention-economy
   tags:
   - nonfiction
+  - psychology
   title: 'How to Do Nothing: Resisting the Attention Economy'
 plan:
   date_added: '2020-01-26'

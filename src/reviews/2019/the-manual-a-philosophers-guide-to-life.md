@@ -10,6 +10,8 @@ book:
   slug: the-manual-a-philosophers-guide-to-life
   tags:
   - nonfiction
+  - personal-development
+  - philosophy
   title: 'The Manual: A Philosopher''s Guide to Life'
 plan:
   date_added: '2019-09-28'

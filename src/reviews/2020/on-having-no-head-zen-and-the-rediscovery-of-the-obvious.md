@@ -11,6 +11,7 @@ book:
   slug: on-having-no-head-zen-and-the-rediscovery-of-the-obvious
   tags:
   - nonfiction
+  - philosophy
   title: 'On Having No Head: Zen and the Rediscovery of the Obvious'
 plan:
   date_added: '2020-05-09'

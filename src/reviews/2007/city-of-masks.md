@@ -12,6 +12,8 @@ book:
   series_position: '1'
   slug: city-of-masks
   title: City of Masks
+  tags:
+  - fantasy
 plan:
   date_added: '2015-08-06'
 review:

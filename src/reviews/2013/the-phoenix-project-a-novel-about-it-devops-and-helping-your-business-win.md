@@ -11,6 +11,7 @@ book:
   slug: the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win
   tags:
   - nonfiction
+  - tech
   title: 'The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business
     Win'
 plan:

@@ -10,6 +10,7 @@ book:
   publication_year: '1999'
   slug: the-victorian-internet
   tags:
+  - history
   - nonfiction
   title: The Victorian Internet
 plan:

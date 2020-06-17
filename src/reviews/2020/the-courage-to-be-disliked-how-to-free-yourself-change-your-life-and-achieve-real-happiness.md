@@ -10,6 +10,7 @@ book:
   slug: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness
   tags:
   - nonfiction
+  - personal-development
   title: 'The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve
     Real Happiness'
 plan:

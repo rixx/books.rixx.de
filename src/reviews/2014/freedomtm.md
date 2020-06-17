@@ -12,6 +12,8 @@ book:
   series_position: '2'
   slug: freedomtm
   title: Freedom™
+  tags:
+  - scifi
 plan:
   date_added: '2018-02-13'
 review:

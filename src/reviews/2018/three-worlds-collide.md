@@ -7,6 +7,8 @@ book:
   publication_year: '2009'
   slug: three-worlds-collide
   title: Three Worlds Collide
+  tags:
+  - scifi
 plan:
   date_added: '2018-06-30'
 review:

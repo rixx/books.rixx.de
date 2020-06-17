@@ -10,6 +10,7 @@ book:
   publication_year: '1985'
   slug: 100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-ith-style-and-power
   tags:
+  - language
   - nonfiction
   title: '100 Ways to Improve Your Writing: Proven Professional Techniques for Writing
     Ith Style and Power'

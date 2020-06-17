@@ -12,6 +12,8 @@ book:
   series_position: '1'
   slug: mary-poppins
   title: Mary Poppins
+  tags:
+  - kids
 plan:
   date_added: '2016-05-19'
 review:

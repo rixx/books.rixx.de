@@ -11,6 +11,7 @@ book:
   slug: descartes-error-emotion-reason-and-the-human-brain
   tags:
   - nonfiction
+  - psychology
   title: 'Descartes'' Error: Emotion, Reason and the Human Brain'
 plan:
   date_added: '2020-04-17'

@@ -8,6 +8,7 @@ book:
   slug: a-study-in-emerald
   tags:
   - mystery
+  - fanfic
   title: A Study in Emerald
 plan:
   date_added: '2017-11-28'

@@ -11,6 +11,7 @@ book:
   slug: where-good-ideas-come-from-the-natural-history-of-innovation
   tags:
   - nonfiction
+  - psychology
   title: 'Where Good Ideas Come from: The Natural History of Innovation'
 plan:
   date_added: '2019-07-21'

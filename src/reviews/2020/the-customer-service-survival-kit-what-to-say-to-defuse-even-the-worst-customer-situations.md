@@ -11,6 +11,7 @@ book:
   slug: the-customer-service-survival-kit-what-to-say-to-defuse-even-the-worst-customer-situations
   tags:
   - nonfiction
+  - personal-development
   title: 'The Customer Service Survival Kit: What to Say to Defuse Even the Worst
     Customer Situations'
 plan:

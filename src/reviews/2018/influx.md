@@ -10,6 +10,8 @@ book:
   publication_year: '2015'
   slug: influx
   title: Influx
+  tags:
+  - scifi
 plan:
   date_added: '2018-02-13'
 review:

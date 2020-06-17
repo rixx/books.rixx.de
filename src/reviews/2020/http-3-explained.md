@@ -8,6 +8,7 @@ book:
   slug: http-3-explained
   tags:
   - nonfiction
+  - tech
   title: HTTP/3 explained
 plan:
   date_added: '2020-01-11'

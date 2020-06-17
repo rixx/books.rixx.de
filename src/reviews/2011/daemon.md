@@ -12,6 +12,8 @@ book:
   series_position: '1'
   slug: daemon
   title: Daemon
+  tags:
+  - scifi
 plan:
   date_added: '2015-04-09'
 review:

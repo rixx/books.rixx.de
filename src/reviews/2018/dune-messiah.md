@@ -12,6 +12,8 @@ book:
   series_position: '2'
   slug: dune-messiah
   title: Dune Messiah
+  tags:
+  - scifi
 plan:
   date_added: '2018-07-09'
 review:

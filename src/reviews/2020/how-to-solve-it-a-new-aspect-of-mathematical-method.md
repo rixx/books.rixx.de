@@ -11,6 +11,7 @@ book:
   slug: how-to-solve-it-a-new-aspect-of-mathematical-method
   tags:
   - nonfiction
+  - tech
   title: 'How to Solve It: A New Aspect of Mathematical Method'
 plan:
   date_added: '2020-03-31'

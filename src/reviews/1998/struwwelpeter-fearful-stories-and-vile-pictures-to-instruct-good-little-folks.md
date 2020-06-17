@@ -11,6 +11,7 @@ book:
   slug: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks
   tags:
   - german
+  - kids
   title: 'Struwwelpeter: Fearful Stories and Vile Pictures to Instruct Good Little
     Folks'
 plan:

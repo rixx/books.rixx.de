@@ -11,6 +11,7 @@ book:
   slug: thinking-fast-and-slow
   tags:
   - nonfiction
+  - psychology
   title: Thinking, Fast and Slow
 plan:
   date_added: '2015-04-09'

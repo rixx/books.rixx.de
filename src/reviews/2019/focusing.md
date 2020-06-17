@@ -11,6 +11,8 @@ book:
   slug: focusing
   tags:
   - nonfiction
+  - personal-development
+  - psychology
   title: Focusing
 plan:
   date_added: '2019-07-15'

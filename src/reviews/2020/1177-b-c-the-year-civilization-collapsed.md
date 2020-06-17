@@ -10,6 +10,7 @@ book:
   publication_year: '2014'
   slug: 1177-b-c-the-year-civilization-collapsed
   tags:
+  - history
   - nonfiction
   title: '1177 B.C.: The Year Civilization Collapsed'
 plan:

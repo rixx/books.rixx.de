@@ -12,6 +12,8 @@ book:
   series_position: '1'
   slug: dune
   title: Dune
+  tags:
+  - scifi
 plan:
   date_added: '2018-02-19'
 review:

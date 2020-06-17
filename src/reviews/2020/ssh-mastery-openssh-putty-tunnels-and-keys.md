@@ -9,6 +9,7 @@ book:
   slug: ssh-mastery-openssh-putty-tunnels-and-keys
   tags:
   - nonfiction
+  - tech
   title: 'SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys'
 plan:
   date_added: '2020-02-04'

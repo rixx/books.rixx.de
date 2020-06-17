@@ -12,6 +12,7 @@ book:
   tags:
   - german
   - nonfiction
+  - philosophy
   title: Twilight of the Idols
 plan:
   date_added: 2020-05-24

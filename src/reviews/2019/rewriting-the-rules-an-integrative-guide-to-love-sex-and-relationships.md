@@ -11,6 +11,7 @@ book:
   slug: rewriting-the-rules-an-integrative-guide-to-love-sex-and-relationships
   tags:
   - nonfiction
+  - personal-development
   title: 'Rewriting the Rules: An Integrative Guide to Love, Sex and Relationships'
 plan:
   date_added: '2019-10-02'

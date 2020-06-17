@@ -9,6 +9,7 @@ book:
   slug: complex-ptsd-from-surviving-to-thriving
   tags:
   - nonfiction
+  - psychology
   title: 'Complex PTSD: From Surviving to Thriving'
 plan:
   date_added: '2020-02-16'

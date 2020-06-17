@@ -11,6 +11,7 @@ book:
   slug: an-astronauts-guide-to-life-on-earth
   tags:
   - nonfiction
+  - personal-development
   title: An Astronaut's Guide to Life on Earth
 plan:
   date_added: '2018-07-20'

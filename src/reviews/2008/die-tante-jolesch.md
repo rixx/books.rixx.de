@@ -11,6 +11,7 @@ book:
   slug: die-tante-jolesch
   tags:
   - german
+  - history
   - nonfiction
   title: Die Tante Jolesch
 plan:

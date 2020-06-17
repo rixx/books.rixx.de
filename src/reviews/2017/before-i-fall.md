@@ -10,6 +10,8 @@ book:
   publication_year: '2010'
   slug: before-i-fall
   title: Before I Fall
+  tags:
+  - scifi
 plan:
   date_added: '2015-06-28'
 review:

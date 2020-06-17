@@ -11,6 +11,7 @@ book:
   slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
   tags:
   - nonfiction
+  - personal-development
   title: 'Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict'
 plan:
   date_added: 2020-05-26

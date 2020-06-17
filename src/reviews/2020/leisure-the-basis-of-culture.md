@@ -12,6 +12,7 @@ book:
   tags:
   - german
   - nonfiction
+  - philosophy
   title: 'Leisure: The Basis of Culture'
 plan:
   date_added: 2020-05-24

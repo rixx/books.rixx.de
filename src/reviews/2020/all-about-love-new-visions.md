@@ -11,6 +11,7 @@ book:
   slug: all-about-love-new-visions
   tags:
   - nonfiction
+  - personal-development
   title: 'All About Love: New Visions'
 plan:
   date_added: '2020-03-15'

@@ -13,6 +13,7 @@ book:
   tags:
   - german
   - kids
+  - mystery
   title: Kalle Blomquist
 plan:
   date_added: '2016-05-05'
