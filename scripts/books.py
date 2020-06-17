@@ -72,7 +72,12 @@ class Review:
             self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
 
     def _load_data_from_file(self, path=None):
-        post = frontmatter.load(path or self.path)
+        try:
+            post = frontmatter.load(path or self.path)
+        except Exception as e:
+            raise Exception(
+                f"Error while loading review from {path or self.path}!\n{e}"
+            )
         self.metadata = post.metadata
         self.text = post.content
         if not self.entry_type:
@@ -597,9 +602,7 @@ def change_tags(**kwargs):
                 choices=tags + ["no tags"],
             ),
             inquirer.Checkbox(
-                name="exclude",
-                message="Exclude books with these tags",
-                choices=tags,
+                name="exclude", message="Exclude books with these tags", choices=tags,
             ),
         ]
     )
