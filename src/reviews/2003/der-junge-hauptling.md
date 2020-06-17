@@ -11,6 +11,7 @@ book:
   slug: der-junge-hauptling
   tags:
   - german
+  - historical-fiction
   title: Der junge Häuptling
 plan:
   date_added: '2015-07-03'

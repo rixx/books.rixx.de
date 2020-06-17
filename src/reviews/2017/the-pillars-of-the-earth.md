@@ -9,6 +9,8 @@ book:
   series: Kingsbridge
   series_position: '1'
   slug: the-pillars-of-the-earth
+  tags:
+  - historical-fiction
   title: The Pillars of the Earth
 plan:
   date_added: '2016-05-03'

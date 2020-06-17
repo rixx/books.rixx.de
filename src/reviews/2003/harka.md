@@ -13,6 +13,7 @@ book:
   slug: harka
   tags:
   - german
+  - historical-fiction
   title: Harka
 plan:
   date_added: '2015-07-03'

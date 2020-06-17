@@ -10,6 +10,7 @@ book:
   slug: borgia
   tags:
   - german
+  - historical-fiction
   title: Borgia
 plan:
   date_added: 2020-05-24

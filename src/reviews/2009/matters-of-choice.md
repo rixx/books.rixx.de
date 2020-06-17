@@ -11,6 +11,8 @@ book:
   series: Cole Family Trilogy
   series_position: '3'
   slug: matters-of-choice
+  tags:
+  - historical-fiction
   title: Matters of Choice
 plan:
   date_added: '2016-05-06'

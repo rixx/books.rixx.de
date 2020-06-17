@@ -11,6 +11,7 @@ book:
   slug: uprooted
   tags:
   - fantasy
+  - myths-legends
   title: Uprooted
 plan:
   date_added: '2018-07-20'

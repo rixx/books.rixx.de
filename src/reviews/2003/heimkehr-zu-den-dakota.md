@@ -12,6 +12,7 @@ book:
   slug: heimkehr-zu-den-dakota
   tags:
   - german
+  - historical-fiction
   title: Heimkehr zu den Dakota
 plan:
   date_added: '2015-07-03'

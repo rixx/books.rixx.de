@@ -9,6 +9,8 @@ book:
   pages: '240'
   publication_year: '2002'
   slug: the-prince-and-the-pauper
+  tags:
+  - historical-fiction
   title: The Prince and the Pauper
 plan:
   date_added: '2015-04-08'

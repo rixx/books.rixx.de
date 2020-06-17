@@ -13,6 +13,7 @@ book:
   slug: die-hohle-in-den-schwarzen-bergen
   tags:
   - german
+  - historical-fiction
   title: Die Höhle in den schwarzen Bergen
 plan:
   date_added: '2015-07-03'

@@ -11,6 +11,8 @@ book:
   series: Cole Family Trilogy
   series_position: '1'
   slug: the-physician
+  tags:
+  - historical-fiction
   title: The Physician
 plan:
   date_added: '2016-05-06'

@@ -13,6 +13,7 @@ book:
   slug: the-bear-and-the-nightingale
   tags:
   - fantasy
+  - myths-legends
   title: The Bear and the Nightingale
 plan:
   date_added: '2018-08-27'

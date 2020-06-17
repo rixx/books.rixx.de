@@ -10,6 +10,8 @@ book:
   publication_year: '1995'
   slug: the-reawakening
   title: The Reawakening
+  tags:
+  - history
 plan:
   date_added: '2020-04-15'
 review:

@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: the-sweetness-at-the-bottom-of-the-pie
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: The Sweetness at the Bottom of the Pie

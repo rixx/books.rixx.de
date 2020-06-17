@@ -12,6 +12,7 @@ book:
   slug: der-weg-in-die-verbannung
   tags:
   - german
+  - historical-fiction
   title: Der Weg in die Verbannung
 plan:
   date_added: '2015-07-03'

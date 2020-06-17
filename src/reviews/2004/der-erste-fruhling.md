@@ -10,6 +10,7 @@ book:
   slug: der-erste-fruhling
   tags:
   - german
+  - historical-fiction
   - ya
   title: Der erste Frühling
 plan:

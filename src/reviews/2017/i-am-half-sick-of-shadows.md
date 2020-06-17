@@ -12,6 +12,7 @@ book:
   series_position: '4'
   slug: i-am-half-sick-of-shadows
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: I Am Half-Sick of Shadows

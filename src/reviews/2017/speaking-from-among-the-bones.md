@@ -12,6 +12,7 @@ book:
   series_position: '5'
   slug: speaking-from-among-the-bones
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: Speaking from Among the Bones

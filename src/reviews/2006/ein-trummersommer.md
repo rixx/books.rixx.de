@@ -10,6 +10,7 @@ book:
   slug: ein-trummersommer
   tags:
   - german
+  - historical-fiction
   - ya
   title: Ein Trümmersommer
 plan:

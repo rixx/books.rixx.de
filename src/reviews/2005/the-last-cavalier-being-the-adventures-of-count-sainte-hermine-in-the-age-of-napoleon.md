@@ -9,6 +9,8 @@ book:
   pages: '864'
   publication_year: '2007'
   slug: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon
+  tags:
+  - historical-fiction
   title: 'The Last Cavalier: Being the Adventures of Count Sainte-Hermine in the Age
     of Napoleon'
 plan:

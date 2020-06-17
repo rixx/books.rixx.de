@@ -12,6 +12,7 @@ book:
   series_position: '6'
   slug: the-dead-in-their-vaulted-arches
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: The Dead in Their Vaulted Arches

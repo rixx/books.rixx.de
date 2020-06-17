@@ -10,6 +10,7 @@ book:
   slug: desiree
   tags:
   - german
+  - historical-fiction
   title: Désirée
 plan:
   date_added: '2015-04-09'

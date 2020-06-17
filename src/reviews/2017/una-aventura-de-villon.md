@@ -9,6 +9,8 @@ book:
   pages: '80'
   publication_year: '1979'
   slug: una-aventura-de-villon
+  tags:
+  - historical-fiction
   title: Una aventura de Villón
 plan:
   date_added: '2017-07-20'

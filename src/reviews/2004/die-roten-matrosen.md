@@ -11,6 +11,7 @@ book:
   slug: die-roten-matrosen
   tags:
   - german
+  - historical-fiction
   - ya
   title: Die roten Matrosen
 plan:

@@ -12,6 +12,7 @@ book:
   series_position: '7'
   slug: as-chimney-sweepers-come-to-dust
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: As Chimney Sweepers Come to Dust

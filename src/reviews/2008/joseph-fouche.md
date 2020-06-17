@@ -8,6 +8,7 @@ book:
   slug: joseph-fouche
   tags:
   - german
+  - historical-fiction
   title: Joseph Fouché
 plan:
   date_added: '2015-07-02'

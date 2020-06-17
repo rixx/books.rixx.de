@@ -10,6 +10,7 @@ book:
   publication_year: '1889'
   slug: a-connecticut-yankee-in-king-arthurs-court
   tags:
+  - historical-fiction
   - myths-legends
   title: A Connecticut Yankee in King Arthur's Court
 plan:

@@ -9,6 +9,8 @@ book:
   pages: '1276'
   publication_year: '2003'
   slug: the-count-of-monte-cristo
+  tags:
+  - historical-fiction
   title: The Count of Monte Cristo
 plan:
   date_added: '2015-04-08'

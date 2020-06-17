@@ -9,6 +9,8 @@ book:
   pages: '320'
   publication_year: '2006'
   slug: the-english-patient
+  tags:
+  - historical-fiction
   title: The English Patient
 plan:
   date_added: '2019-11-20'

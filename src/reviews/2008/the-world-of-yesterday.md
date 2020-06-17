@@ -11,6 +11,7 @@ book:
   slug: the-world-of-yesterday
   tags:
   - german
+  - historical-fiction
   title: The World of Yesterday
 plan:
   date_added: '2016-05-08'

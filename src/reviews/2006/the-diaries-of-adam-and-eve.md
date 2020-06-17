@@ -9,6 +9,8 @@ book:
   pages: '95'
   publication_year: '2002'
   slug: the-diaries-of-adam-and-eve
+  tags:
+  - historical-fiction
   title: The Diaries of Adam and Eve
 plan:
   date_added: '2015-04-17'

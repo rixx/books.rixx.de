@@ -12,6 +12,7 @@ book:
   series_position: '3'
   slug: a-red-herring-without-mustard
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: A Red Herring Without Mustard

@@ -10,6 +10,7 @@ book:
   publication_year: '2012'
   slug: escape-from-baghdad
   tags:
+  - historical-fiction
   - urban-fantasy
   title: Escape from Baghdad!
 plan:

@@ -11,6 +11,8 @@ book:
   series: Montague Siblings
   series_position: '1'
   slug: the-gentlemans-guide-to-vice-and-virtue
+  tags:
+  - historical-fiction
   title: The Gentleman's Guide to Vice and Virtue
 plan:
   date_added: '2018-11-03'

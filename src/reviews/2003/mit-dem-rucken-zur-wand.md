@@ -11,6 +11,7 @@ book:
   slug: mit-dem-rucken-zur-wand
   tags:
   - german
+  - historical-fiction
   - ya
   title: Mit dem Rücken zur Wand
 plan:

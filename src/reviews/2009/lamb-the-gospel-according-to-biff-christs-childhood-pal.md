@@ -9,6 +9,8 @@ book:
   pages: '444'
   publication_year: '2004'
   slug: lamb-the-gospel-according-to-biff-christs-childhood-pal
+  tags:
+  - historical-fiction
   title: 'Lamb: The Gospel According to Biff, Christ''s Childhood Pal'
 plan:
   date_added: '2016-05-18'

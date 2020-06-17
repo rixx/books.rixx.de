@@ -10,6 +10,8 @@ book:
   publication_year: '1995'
   slug: survival-in-auschwitz
   title: Survival in Auschwitz
+  tags:
+  - history
 plan:
   date_added: '2020-04-14'
 review:

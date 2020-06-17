@@ -9,6 +9,7 @@ book:
   slug: wilhelm-tell
   tags:
   - german
+  - historical-fiction
   - stage-play
   title: Wilhelm Tell
 plan:

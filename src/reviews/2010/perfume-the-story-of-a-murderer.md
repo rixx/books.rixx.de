@@ -11,6 +11,7 @@ book:
   slug: perfume-the-story-of-a-murderer
   tags:
   - german
+  - historical-fiction
   title: 'Perfume: The Story of a Murderer'
 plan:
   date_added: '2015-04-09'

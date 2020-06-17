@@ -12,6 +12,7 @@ book:
   series_position: '8'
   slug: thrice-the-brinded-cat-hath-mewd
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: Thrice the Brinded Cat Hath Mew'd

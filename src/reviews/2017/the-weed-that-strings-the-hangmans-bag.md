@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: the-weed-that-strings-the-hangmans-bag
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: The Weed That Strings the Hangman's Bag

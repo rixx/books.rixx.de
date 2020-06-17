@@ -11,6 +11,7 @@ book:
   slug: the-time-of-our-singing
   tags:
   - german
+  - historical-fiction
   title: The Time of Our Singing
 plan:
   date_added: '2015-04-09'

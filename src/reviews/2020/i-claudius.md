@@ -11,6 +11,8 @@ book:
   series: Claudius
   series_position: '1'
   slug: i-claudius
+  tags:
+  - historical-fiction
   title: I, Claudius
 plan:
   date_added: '2018-09-30'

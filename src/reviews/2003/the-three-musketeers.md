@@ -9,6 +9,8 @@ book:
   series: The D'Artagnan Romances
   series_position: '1'
   slug: the-three-musketeers
+  tags:
+  - historical-fiction
   title: The Three Musketeers
 plan:
   date_added: '2015-04-08'

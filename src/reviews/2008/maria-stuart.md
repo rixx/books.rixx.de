@@ -11,6 +11,7 @@ book:
   slug: maria-stuart
   tags:
   - german
+  - historical-fiction
   - stage-play
   title: Maria Stuart
 plan:

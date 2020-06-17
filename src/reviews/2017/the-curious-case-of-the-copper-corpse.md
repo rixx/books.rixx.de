@@ -9,6 +9,7 @@ book:
   series_position: '6.5'
   slug: the-curious-case-of-the-copper-corpse
   tags:
+  - historical-fiction
   - mystery
   - ya
   title: The Curious Case of the Copper Corpse

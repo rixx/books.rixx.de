@@ -10,6 +10,8 @@ book:
   series: Cole Family Trilogy
   series_position: '2'
   slug: shaman
+  tags:
+  - historical-fiction
   title: Shaman
 plan:
   date_added: '2016-05-06'

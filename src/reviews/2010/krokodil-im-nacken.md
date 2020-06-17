@@ -11,6 +11,7 @@ book:
   slug: krokodil-im-nacken
   tags:
   - german
+  - historical-fiction
   - ya
   title: Krokodil im Nacken
 plan:

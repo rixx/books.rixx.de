@@ -13,6 +13,7 @@ book:
   slug: uber-den-missouri
   tags:
   - german
+  - historical-fiction
   title: Über den Missouri
 plan:
   date_added: '2015-07-03'
