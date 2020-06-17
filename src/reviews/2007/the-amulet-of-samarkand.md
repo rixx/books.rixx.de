@@ -13,6 +13,7 @@ book:
   slug: the-amulet-of-samarkand
   tags:
   - fantasy
+  - german
   title: The Amulet of Samarkand
 plan:
   date_added: '2015-07-02'

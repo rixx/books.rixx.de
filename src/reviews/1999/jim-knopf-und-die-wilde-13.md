@@ -11,6 +11,7 @@ book:
   series_position: '2'
   slug: jim-knopf-und-die-wilde-13
   tags:
+  - german
   - kids
   title: Jim Button and the Wild 13
 plan:

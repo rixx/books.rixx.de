@@ -13,6 +13,7 @@ book:
   slug: ptolemys-gate
   tags:
   - fantasy
+  - german
   title: Ptolemy's Gate
 plan:
   date_added: '2015-07-02'

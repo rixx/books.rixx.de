@@ -13,6 +13,7 @@ book:
   slug: das-schwert-in-der-stille
   tags:
   - fantasy
+  - german
   title: Das Schwert in der Stille
 plan:
   date_added: '2015-07-03'

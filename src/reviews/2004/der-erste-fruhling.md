@@ -8,6 +8,8 @@ book:
   isbn13: '9783407788023'
   publication_year: null
   slug: der-erste-fruhling
+  tags:
+  - german
   title: Der erste Frühling
 plan:
   date_added: '2015-06-28'

@@ -9,6 +9,8 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '5'
   slug: der-junge-hauptling
+  tags:
+  - german
   title: Der junge Häuptling
 plan:
   date_added: '2015-07-03'

@@ -13,6 +13,7 @@ book:
   slug: die-drachenkampferin-der-auftrag-des-magiers
   tags:
   - fantasy
+  - german
   title: Der Auftrag des Magiers
 plan:
   date_added: '2015-07-03'

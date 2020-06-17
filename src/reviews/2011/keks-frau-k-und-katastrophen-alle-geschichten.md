@@ -6,6 +6,8 @@ book:
   isbn13: '9783861505358'
   publication_year: null
   slug: keks-frau-k-und-katastrophen-alle-geschichten
+  tags:
+  - german
   title: 'Keks, Frau K. und Katastrophen : alle Geschichten'
 plan:
   date_added: '2015-04-09'

@@ -9,6 +9,8 @@ book:
   pages: '552'
   publication_year: '2006'
   slug: the-book-thief
+  tags:
+  - german
   title: The Book Thief
 plan:
   date_added: '2015-04-08'

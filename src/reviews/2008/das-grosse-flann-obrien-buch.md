@@ -8,6 +8,8 @@ book:
   isbn13: '9783251201983'
   publication_year: null
   slug: das-grosse-flann-obrien-buch
+  tags:
+  - german
   title: Das grosse Flann-O'Brien-Buch
 plan:
   date_added: '2015-04-09'

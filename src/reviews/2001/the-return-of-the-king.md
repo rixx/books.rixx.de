@@ -11,6 +11,7 @@ book:
   slug: the-return-of-the-king
   tags:
   - fantasy
+  - german
   title: The Return of the King
 plan:
   date_added: '2015-07-02'

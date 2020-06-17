@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: der-rauber-hotzenplotz
   tags:
+  - german
   - kids
   title: Der Räuber Hotzenplotz
 plan:

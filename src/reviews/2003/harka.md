@@ -11,6 +11,8 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '1'
   slug: harka
+  tags:
+  - german
   title: Harka
 plan:
   date_added: '2015-07-03'

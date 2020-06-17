@@ -9,6 +9,8 @@ book:
   pages: '452'
   publication_year: '2003'
   slug: mit-dem-rucken-zur-wand
+  tags:
+  - german
   title: Mit dem Rücken zur Wand
 plan:
   date_added: '2015-06-28'

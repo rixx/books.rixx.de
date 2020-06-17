@@ -13,6 +13,7 @@ book:
   slug: harry-potter-and-the-chamber-of-secrets
   tags:
   - fantasy
+  - german
   - kids
   title: Harry Potter and the Chamber of Secrets
 plan:

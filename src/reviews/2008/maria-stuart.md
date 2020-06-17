@@ -10,6 +10,7 @@ book:
   publication_year: '2001'
   slug: maria-stuart
   tags:
+  - german
   - stage-play
   title: Maria Stuart
 plan:

@@ -11,6 +11,7 @@ book:
   slug: die-herrscherin-der-eismark
   tags:
   - fantasy
+  - german
   title: Die Herrscherin der Eismark
 plan:
   date_added: '2016-05-08'

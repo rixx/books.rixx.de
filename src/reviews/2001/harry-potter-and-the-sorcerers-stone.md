@@ -11,6 +11,7 @@ book:
   slug: harry-potter-and-the-sorcerers-stone
   tags:
   - fantasy
+  - german
   - kids
   title: Harry Potter and the Sorcerer's Stone
 plan:

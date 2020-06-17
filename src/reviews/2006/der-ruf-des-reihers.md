@@ -13,6 +13,7 @@ book:
   slug: der-ruf-des-reihers
   tags:
   - fantasy
+  - german
   title: Der Ruf des Reihers
 plan:
   date_added: '2015-07-03'

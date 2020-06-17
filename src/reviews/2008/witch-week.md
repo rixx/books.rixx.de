@@ -13,6 +13,7 @@ book:
   slug: witch-week
   tags:
   - fantasy
+  - german
   title: Witch Week
 plan:
   date_added: '2016-05-06'

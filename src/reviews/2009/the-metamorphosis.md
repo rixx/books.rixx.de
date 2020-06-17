@@ -7,6 +7,8 @@ book:
   pages: '201'
   publication_year: '1972'
   slug: the-metamorphosis
+  tags:
+  - german
   title: The Metamorphosis
 plan:
   date_added: '2015-04-08'

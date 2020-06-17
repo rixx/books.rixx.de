@@ -10,6 +10,7 @@ book:
   publication_year: '1998'
   slug: matilda
   tags:
+  - german
   - kids
   title: Matilda
 plan:

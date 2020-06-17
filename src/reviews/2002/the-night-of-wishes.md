@@ -10,6 +10,7 @@ book:
   publication_year: '1995'
   slug: the-night-of-wishes
   tags:
+  - german
   - kids
   title: The Night of Wishes
 plan:

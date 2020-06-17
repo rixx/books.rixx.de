@@ -13,6 +13,7 @@ book:
   slug: the-city-of-dreaming-books
   tags:
   - fantasy
+  - german
   title: The City of Dreaming Books
 plan:
   date_added: '2015-04-08'

@@ -11,6 +11,7 @@ book:
   series_position: '3'
   slug: neue-punkte-fur-das-sams
   tags:
+  - german
   - kids
   title: Neue Punkte für das Sams
 plan:

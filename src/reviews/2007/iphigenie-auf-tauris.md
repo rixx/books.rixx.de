@@ -10,6 +10,7 @@ book:
   publication_year: '1986'
   slug: iphigenie-auf-tauris
   tags:
+  - german
   - stage-play
   title: Iphigenie auf Tauris
 plan:

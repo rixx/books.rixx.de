@@ -9,6 +9,8 @@ book:
   pages: '311'
   publication_year: '2001'
   slug: treasure-island
+  tags:
+  - german
   title: Treasure Island
 plan:
   date_added: '2015-04-08'

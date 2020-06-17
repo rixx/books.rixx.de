@@ -9,6 +9,7 @@ book:
   publication_year: null
   slug: the-little-ghost
   tags:
+  - german
   - kids
   title: The Little Ghost
 plan:

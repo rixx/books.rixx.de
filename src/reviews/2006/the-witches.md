@@ -10,6 +10,7 @@ book:
   publication_year: '1997'
   slug: the-witches
   tags:
+  - german
   - kids
   title: The Witches
 plan:

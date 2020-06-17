@@ -12,6 +12,7 @@ book:
   series_position: '11'
   slug: the-nine-tailors
   tags:
+  - german
   - mystery
   title: The Nine Tailors
 plan:

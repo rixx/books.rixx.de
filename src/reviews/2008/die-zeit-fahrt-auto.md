@@ -7,6 +7,7 @@ book:
   publication_year: null
   slug: die-zeit-fahrt-auto
   tags:
+  - german
   - poetry
   title: Die Zeit fährt Auto
 plan:

@@ -11,6 +11,7 @@ book:
   slug: coraline
   tags:
   - fantasy
+  - german
   - kids
   title: Coraline
 plan:

@@ -11,6 +11,7 @@ book:
   slug: fantastic-beasts-and-where-to-find-them
   tags:
   - fantasy
+  - german
   - kids
   title: Fantastic Beasts and Where to Find Them
 plan:

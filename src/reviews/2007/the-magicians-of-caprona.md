@@ -13,6 +13,7 @@ book:
   slug: the-magicians-of-caprona
   tags:
   - fantasy
+  - german
   title: The Magicians of Caprona
 plan:
   date_added: '2016-05-06'

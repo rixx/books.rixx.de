@@ -10,6 +10,7 @@ book:
   publication_year: '1993'
   slug: nathan-der-weise
   tags:
+  - german
   - stage-play
   title: Nathan der Weise
 plan:

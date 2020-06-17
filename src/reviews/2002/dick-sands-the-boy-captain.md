@@ -9,6 +9,8 @@ book:
   series: The Extraordinary Voyages
   series_position: '17'
   slug: dick-sands-the-boy-captain
+  tags:
+  - german
   title: Dick Sands the Boy Captain
 plan:
   date_added: '2016-05-08'

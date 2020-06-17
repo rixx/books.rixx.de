@@ -10,6 +10,7 @@ book:
   series_position: '1'
   slug: the-hitchhikers-guide-to-the-galaxy
   tags:
+  - german
   - scifi
   title: The Hitchhiker's Guide to the Galaxy
 plan:

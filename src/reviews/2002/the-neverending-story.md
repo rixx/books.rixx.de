@@ -11,6 +11,7 @@ book:
   slug: the-neverending-story
   tags:
   - fantasy
+  - german
   - kids
   title: The Neverending Story
 plan:

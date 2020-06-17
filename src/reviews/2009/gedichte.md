@@ -10,6 +10,7 @@ book:
   publication_year: '2011'
   slug: gedichte
   tags:
+  - german
   - poetry
   title: Gedichte
 plan:

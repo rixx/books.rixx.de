@@ -10,6 +10,7 @@ book:
   publication_year: '2001'
   slug: emil-and-the-detectives
   tags:
+  - german
   - kids
   title: Emil and the Detectives
 plan:

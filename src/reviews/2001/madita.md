@@ -10,6 +10,7 @@ book:
   publication_year: '2007'
   slug: madita
   tags:
+  - german
   - kids
   title: Madita
 plan:

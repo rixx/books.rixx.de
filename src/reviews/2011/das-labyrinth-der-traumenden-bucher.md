@@ -13,6 +13,7 @@ book:
   slug: das-labyrinth-der-traumenden-bucher
   tags:
   - fantasy
+  - german
   title: Das Labyrinth der Träumenden Bücher
 plan:
   date_added: '2015-04-09'

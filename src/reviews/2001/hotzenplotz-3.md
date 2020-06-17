@@ -11,6 +11,7 @@ book:
   series_position: '3'
   slug: hotzenplotz-3
   tags:
+  - german
   - kids
   title: Hotzenplotz 3
 plan:

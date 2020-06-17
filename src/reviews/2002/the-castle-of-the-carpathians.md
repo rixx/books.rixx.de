@@ -9,6 +9,8 @@ book:
   series: Extraordinary Voyages
   series_position: '37'
   slug: the-castle-of-the-carpathians
+  tags:
+  - german
   title: The Castle of the Carpathians
 plan:
   date_added: '2016-05-08'

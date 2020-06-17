@@ -11,6 +11,8 @@ book:
   series: Die Känguru-Chroniken
   series_position: '2'
   slug: das-kanguru-manifest
+  tags:
+  - german
   title: Das Känguru-Manifest
 plan:
   date_added: '2018-02-19'

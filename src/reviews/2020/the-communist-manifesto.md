@@ -10,6 +10,7 @@ book:
   publication_year: '2002'
   slug: the-communist-manifesto
   tags:
+  - german
   - nonfiction
   title: The Communist Manifesto
 plan:

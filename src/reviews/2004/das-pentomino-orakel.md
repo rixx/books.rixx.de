@@ -9,6 +9,8 @@ book:
   pages: '256'
   publication_year: null
   slug: das-pentomino-orakel
+  tags:
+  - german
   title: Das Pentomino-Orakel
 plan:
   date_added: '2016-05-08'

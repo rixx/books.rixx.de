@@ -13,6 +13,7 @@ book:
   slug: the-well-of-lost-plots
   tags:
   - fantasy
+  - german
   title: The Well of Lost Plots
 plan:
   date_added: '2015-04-08'

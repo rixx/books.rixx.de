@@ -11,6 +11,8 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '3'
   slug: die-hohle-in-den-schwarzen-bergen
+  tags:
+  - german
   title: Die Höhle in den schwarzen Bergen
 plan:
   date_added: '2015-07-03'

@@ -7,6 +7,7 @@ book:
   publication_year: null
   slug: mit-rechten-reden-ein-leitfaden
   tags:
+  - german
   - nonfiction
   title: 'Mit Rechten reden: Ein Leitfaden'
 plan:

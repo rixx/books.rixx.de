@@ -12,6 +12,7 @@ book:
   series_position: '4'
   slug: ein-sams-fur-martin-taschenbier
   tags:
+  - german
   - kids
   title: Ein Sams für Martin Taschenbier
 plan:

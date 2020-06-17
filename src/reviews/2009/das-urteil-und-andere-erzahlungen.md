@@ -9,6 +9,8 @@ book:
   pages: '137'
   publication_year: '1989'
   slug: das-urteil-und-andere-erzahlungen
+  tags:
+  - german
   title: Das Urteil und andere Erzählungen
 plan:
   date_added: '2015-04-08'

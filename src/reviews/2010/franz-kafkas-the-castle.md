@@ -9,6 +9,8 @@ book:
   pages: '59'
   publication_year: null
   slug: franz-kafkas-the-castle
+  tags:
+  - german
   title: Franz Kafka's The Castle
 plan:
   date_added: '2015-04-08'

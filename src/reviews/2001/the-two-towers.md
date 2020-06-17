@@ -13,6 +13,7 @@ book:
   slug: the-two-towers
   tags:
   - fantasy
+  - german
   title: The Two Towers
 plan:
   date_added: '2015-04-09'

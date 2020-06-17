@@ -13,6 +13,7 @@ book:
   slug: the-eternity-code
   tags:
   - fantasy
+  - german
   title: The Eternity Code
 plan:
   date_added: '2016-05-03'

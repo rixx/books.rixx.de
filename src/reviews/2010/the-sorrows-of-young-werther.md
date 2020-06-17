@@ -9,6 +9,8 @@ book:
   pages: '149'
   publication_year: '2005'
   slug: the-sorrows-of-young-werther
+  tags:
+  - german
   title: The Sorrows of Young Werther
 plan:
   date_added: '2015-04-08'

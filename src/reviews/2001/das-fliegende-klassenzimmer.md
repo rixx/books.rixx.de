@@ -10,6 +10,7 @@ book:
   publication_year: '1933'
   slug: das-fliegende-klassenzimmer
   tags:
+  - german
   - kids
   title: Das fliegende Klassenzimmer
 plan:

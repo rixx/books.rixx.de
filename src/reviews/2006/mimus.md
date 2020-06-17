@@ -8,6 +8,8 @@ book:
   pages: '381'
   publication_year: '2014'
   slug: mimus
+  tags:
+  - german
   title: Mimus
 plan:
   date_added: '2015-07-02'

@@ -11,6 +11,7 @@ book:
   slug: the-silmarillion
   tags:
   - fantasy
+  - german
   title: The Silmarillion
 plan:
   date_added: '2015-04-09'

@@ -8,6 +8,7 @@ book:
   publication_year: '2000'
   slug: wilhelm-tell
   tags:
+  - german
   - stage-play
   title: Wilhelm Tell
 plan:

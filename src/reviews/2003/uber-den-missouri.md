@@ -11,6 +11,8 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '6'
   slug: uber-den-missouri
+  tags:
+  - german
   title: Über den Missouri
 plan:
   date_added: '2015-07-03'

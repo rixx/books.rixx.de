@@ -11,6 +11,7 @@ book:
   series_position: '5'
   slug: die-wilden-huhner-und-die-liebe
   tags:
+  - german
   - kids
   title: Die Wilden Hühner und die Liebe
 plan:

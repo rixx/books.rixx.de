@@ -8,6 +8,8 @@ book:
   isbn13: '9781842552827'
   publication_year: null
   slug: the-christmas-mystery
+  tags:
+  - german
   title: The Christmas Mystery
 plan:
   date_added: '2015-08-06'

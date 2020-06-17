@@ -11,6 +11,7 @@ book:
   series_position: '1'
   slug: kalle-blomquist
   tags:
+  - german
   - kids
   title: Kalle Blomquist
 plan:

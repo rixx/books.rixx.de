@@ -13,6 +13,7 @@ book:
   slug: der-schrecksenmeister
   tags:
   - fantasy
+  - german
   title: Der Schrecksenmeister
 plan:
   date_added: '2015-04-09'

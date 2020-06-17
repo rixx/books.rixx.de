@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: funf
   tags:
+  - german
   - mystery
   - scifi
   title: Fünf

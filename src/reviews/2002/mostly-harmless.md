@@ -12,6 +12,7 @@ book:
   series_position: '5'
   slug: mostly-harmless
   tags:
+  - german
   - scifi
   title: Mostly Harmless
 plan:

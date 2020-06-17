@@ -12,6 +12,7 @@ book:
   series_position: '3'
   slug: life-the-universe-and-everything
   tags:
+  - german
   - scifi
   title: Life, the Universe and Everything
 plan:

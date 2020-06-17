@@ -9,6 +9,7 @@ book:
   publication_year: '1989'
   slug: marchen
   tags:
+  - german
   - kids
   title: Märchen
 plan:

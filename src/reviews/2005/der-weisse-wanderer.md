@@ -13,6 +13,7 @@ book:
   slug: der-weisse-wanderer
   tags:
   - fantasy
+  - german
   title: Der weiße Wanderer
 plan:
   date_added: '2015-06-28'

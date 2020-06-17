@@ -9,6 +9,8 @@ book:
   pages: '488'
   publication_year: '1986'
   slug: dracula
+  tags:
+  - german
   title: Dracula
 plan:
   date_added: '2015-04-08'

@@ -9,6 +9,7 @@ book:
   publication_year: '2016'
   slug: elanus
   tags:
+  - german
   - scifi
   title: Elanus
 plan:

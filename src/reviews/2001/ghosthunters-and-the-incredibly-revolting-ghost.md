@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: ghosthunters-and-the-incredibly-revolting-ghost
   tags:
+  - german
   - kids
   title: Ghosthunters and the Incredibly Revolting Ghost
 plan:

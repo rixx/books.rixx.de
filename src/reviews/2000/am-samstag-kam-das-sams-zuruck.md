@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: am-samstag-kam-das-sams-zuruck
   tags:
+  - german
   - kids
   title: Am Samstag kam das Sams zurück
 plan:

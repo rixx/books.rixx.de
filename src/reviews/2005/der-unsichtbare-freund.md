@@ -13,6 +13,7 @@ book:
   slug: der-unsichtbare-freund
   tags:
   - fantasy
+  - german
   title: Der unsichtbare Freund
 plan:
   date_added: '2015-06-28'

@@ -9,6 +9,7 @@ book:
   publication_year: '1956'
   slug: der-kleine-wassermann
   tags:
+  - german
   - kids
   title: Der kleine Wassermann
 plan:

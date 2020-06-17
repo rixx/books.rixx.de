@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: neues-vom-rauber-hotzenplotz
   tags:
+  - german
   - kids
   title: Neues vom Räuber Hotzenplotz
 plan:

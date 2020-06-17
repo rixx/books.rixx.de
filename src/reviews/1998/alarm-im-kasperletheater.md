@@ -9,9 +9,10 @@ book:
   pages: '28'
   publication_year: '1958'
   slug: alarm-im-kasperletheater
-  title: Alarm im Kasperletheater
   tags:
-   - kids
+  - german
+  - kids
+  title: Alarm im Kasperletheater
 plan:
   date_added: 2020-05-24
 review:
@@ -19,6 +20,7 @@ review:
   date_started: 1998-12-31
   rating: 5
 ---
+
 And this is how I learnt to read: Too early, to general displeasure, and by this book. It's a beautifully illustrated
 story with the characters of a Punch-and-Judy show. It's grandma's birthday, and Kasperle (the traditional protagonist)
 buys doughnuts to celebrate. But! the little devil swings by and steals them, with the wonderful reasoning of "I'm sure

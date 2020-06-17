@@ -10,6 +10,7 @@ book:
   publication_year: '1949'
   slug: das-doppelte-lottchen
   tags:
+  - german
   - kids
   title: Das doppelte Lottchen
 plan:

@@ -7,6 +7,8 @@ book:
   pages: '331'
   publication_year: '1995'
   slug: lolita
+  tags:
+  - german
   title: Lolita
 plan:
   date_added: '2015-04-08'

@@ -6,6 +6,8 @@ book:
   goodreads: '25442918'
   publication_year: null
   slug: joseph-fouche
+  tags:
+  - german
   title: Joseph Fouché
 plan:
   date_added: '2015-07-02'

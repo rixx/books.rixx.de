@@ -10,6 +10,8 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '2'
   slug: der-weg-in-die-verbannung
+  tags:
+  - german
   title: Der Weg in die Verbannung
 plan:
   date_added: '2015-07-03'

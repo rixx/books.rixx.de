@@ -9,6 +9,8 @@ book:
   pages: '126'
   publication_year: '1887'
   slug: the-canterville-ghost
+  tags:
+  - german
   title: The Canterville Ghost
 plan:
   date_added: 2020-06-14

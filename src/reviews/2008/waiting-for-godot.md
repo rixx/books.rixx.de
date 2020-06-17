@@ -10,6 +10,7 @@ book:
   publication_year: '1953'
   slug: waiting-for-godot
   tags:
+  - german
   - stage-play
   title: Waiting for Godot
 plan:

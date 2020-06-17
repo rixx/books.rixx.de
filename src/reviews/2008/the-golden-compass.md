@@ -13,6 +13,7 @@ book:
   slug: the-golden-compass
   tags:
   - fantasy
+  - german
   title: The Golden Compass
 plan:
   date_added: '2015-04-08'

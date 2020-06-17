@@ -12,6 +12,7 @@ book:
   slug: ensel-und-krete-ein-marchen-aus-zamonien
   tags:
   - fantasy
+  - german
   title: Ensel und Krete. Ein Märchen aus Zamonien
 plan:
   date_added: '2015-04-09'

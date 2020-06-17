@@ -10,6 +10,7 @@ book:
   publication_year: '1889'
   slug: twilight-of-the-idols
   tags:
+  - german
   - nonfiction
   title: Twilight of the Idols
 plan:

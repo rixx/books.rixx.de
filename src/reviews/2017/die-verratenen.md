@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: die-verratenen
   tags:
+  - german
   - scifi
   title: Die Verratenen
 plan:

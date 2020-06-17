@@ -10,6 +10,7 @@ book:
   publication_year: '1985'
   slug: ronia-the-robbers-daughter
   tags:
+  - german
   - kids
   title: Ronia, the Robber's Daughter
 plan:

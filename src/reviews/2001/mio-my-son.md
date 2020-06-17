@@ -10,6 +10,7 @@ book:
   publication_year: '2003'
   slug: mio-my-son
   tags:
+  - german
   - kids
   title: Mio, My Son
 plan:

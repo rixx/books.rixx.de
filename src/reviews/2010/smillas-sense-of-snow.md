@@ -9,6 +9,8 @@ book:
   pages: '469'
   publication_year: '1995'
   slug: smillas-sense-of-snow
+  tags:
+  - german
   title: Smilla's Sense of Snow
 plan:
   date_added: '2016-05-08'

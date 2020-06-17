@@ -13,6 +13,7 @@ book:
   slug: the-arctic-incident
   tags:
   - fantasy
+  - german
   title: The Arctic Incident
 plan:
   date_added: '2016-05-03'

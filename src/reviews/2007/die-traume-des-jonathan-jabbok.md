@@ -13,6 +13,7 @@ book:
   slug: die-traume-des-jonathan-jabbok
   tags:
   - fantasy
+  - german
   title: Die Träume des Jonathan Jabbok
 plan:
   date_added: '2015-06-28'

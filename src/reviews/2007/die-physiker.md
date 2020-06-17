@@ -7,6 +7,7 @@ book:
   publication_year: '2001'
   slug: die-physiker
   tags:
+  - german
   - stage-play
   title: Die Physiker
 plan:

@@ -9,6 +9,8 @@ book:
   pages: '80'
   publication_year: '2006'
   slug: deutschland-ein-wintermarchen
+  tags:
+  - german
   title: Deutschland. Ein Wintermärchen
 plan:
   date_added: '2015-04-08'

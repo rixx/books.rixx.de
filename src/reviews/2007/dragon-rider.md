@@ -13,6 +13,7 @@ book:
   slug: dragon-rider
   tags:
   - fantasy
+  - german
   - kids
   title: Dragon Rider
 plan:

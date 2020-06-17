@@ -10,6 +10,7 @@ book:
   series_position: '14'
   slug: in-the-teeth-of-the-evidence
   tags:
+  - german
   - mystery
   title: In the Teeth of the Evidence
 plan:

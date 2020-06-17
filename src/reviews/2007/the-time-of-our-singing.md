@@ -9,6 +9,8 @@ book:
   pages: '631'
   publication_year: '2004'
   slug: the-time-of-our-singing
+  tags:
+  - german
   title: The Time of Our Singing
 plan:
   date_added: '2015-04-09'

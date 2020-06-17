@@ -8,6 +8,8 @@ book:
   isbn13: '9783499101700'
   publication_year: null
   slug: draussen-vor-der-tur
+  tags:
+  - german
   title: Draußen vor der Tür
 plan:
   date_added: '2015-04-08'

@@ -10,6 +10,7 @@ book:
   series_position: '2'
   slug: the-restaurant-at-the-end-of-the-universe
   tags:
+  - german
   - scifi
   title: The Restaurant at the End of the Universe
 plan:

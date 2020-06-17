@@ -12,6 +12,7 @@ book:
   series_position: '4'
   slug: so-long-and-thanks-for-all-the-fish
   tags:
+  - german
   - scifi
   title: So Long, and Thanks for All the Fish
 plan:

@@ -13,6 +13,7 @@ book:
   slug: prince-caspian
   tags:
   - fantasy
+  - german
   - kids
   title: Prince Caspian
 plan:

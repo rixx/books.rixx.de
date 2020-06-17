@@ -11,6 +11,8 @@ book:
   series: Extraordinary Voyages
   series_position: '11'
   slug: around-the-world-in-eighty-days
+  tags:
+  - german
   title: Around the World in Eighty Days
 plan:
   date_added: '2015-04-08'

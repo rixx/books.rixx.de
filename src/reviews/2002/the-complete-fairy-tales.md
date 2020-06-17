@@ -9,6 +9,8 @@ book:
   pages: '803'
   publication_year: '1996'
   slug: the-complete-fairy-tales
+  tags:
+  - german
   title: The Complete Fairy Tales
 plan:
   date_added: '2016-05-19'

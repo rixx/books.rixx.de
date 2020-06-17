@@ -13,6 +13,7 @@ book:
   slug: the-golems-eye
   tags:
   - fantasy
+  - german
   title: The Golem's Eye
 plan:
   date_added: '2015-04-08'

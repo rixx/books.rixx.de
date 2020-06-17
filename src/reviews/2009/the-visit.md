@@ -10,6 +10,7 @@ book:
   publication_year: '1994'
   slug: the-visit
   tags:
+  - german
   - stage-play
   title: The Visit
 plan:

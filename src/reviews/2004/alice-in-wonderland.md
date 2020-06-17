@@ -7,6 +7,8 @@ book:
   pages: '51'
   publication_year: '1898'
   slug: alice-in-wonderland
+  tags:
+  - german
   title: Alice in Wonderland
 plan:
   date_added: '2015-04-09'

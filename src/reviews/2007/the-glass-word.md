@@ -13,6 +13,7 @@ book:
   slug: the-glass-word
   tags:
   - fantasy
+  - german
   title: The Glass Word
 plan:
   date_added: '2015-04-09'

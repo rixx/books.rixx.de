@@ -10,6 +10,7 @@ book:
   slug: momo
   tags:
   - fantasy
+  - german
   - kids
   title: Momo
 plan:

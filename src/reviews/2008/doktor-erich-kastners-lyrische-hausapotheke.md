@@ -10,6 +10,7 @@ book:
   publication_year: null
   slug: doktor-erich-kastners-lyrische-hausapotheke
   tags:
+  - german
   - poetry
   title: Doktor Erich Kästners Lyrische Hausapotheke
 plan:

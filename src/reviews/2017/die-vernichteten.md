@@ -12,6 +12,7 @@ book:
   series_position: '3'
   slug: die-vernichteten
   tags:
+  - german
   - scifi
   title: Die Vernichteten
 plan:

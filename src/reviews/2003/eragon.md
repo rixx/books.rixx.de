@@ -13,6 +13,7 @@ book:
   slug: eragon
   tags:
   - fantasy
+  - german
   title: Eragon
 plan:
   date_added: '2015-04-08'

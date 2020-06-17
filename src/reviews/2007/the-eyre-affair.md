@@ -13,6 +13,7 @@ book:
   slug: the-eyre-affair
   tags:
   - fantasy
+  - german
   title: The Eyre Affair
 plan:
   date_added: '2015-07-02'

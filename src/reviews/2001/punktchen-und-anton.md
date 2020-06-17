@@ -10,6 +10,7 @@ book:
   publication_year: '2002'
   slug: punktchen-und-anton
   tags:
+  - german
   - kids
   title: Pünktchen und Anton
 plan:

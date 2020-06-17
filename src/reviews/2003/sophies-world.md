@@ -9,6 +9,8 @@ book:
   pages: '403'
   publication_year: '1995'
   slug: sophies-world
+  tags:
+  - german
   title: Sophie's World
 plan:
   date_added: '2015-04-09'

@@ -13,6 +13,7 @@ book:
   slug: inkdeath
   tags:
   - fantasy
+  - german
   - urban-fantasy
   title: Inkdeath
 plan:

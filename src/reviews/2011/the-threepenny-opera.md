@@ -10,6 +10,7 @@ book:
   publication_year: '1994'
   slug: the-threepenny-opera
   tags:
+  - german
   - stage-play
   title: The Threepenny Opera
 plan:

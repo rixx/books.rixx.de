@@ -10,6 +10,7 @@ book:
   publication_year: '1985'
   slug: tomte-tummetott
   tags:
+  - german
   - kids
   title: Tomte Tummetott
 plan:

@@ -8,6 +8,8 @@ book:
   isbn13: '9783522144100'
   publication_year: '1988'
   slug: krabat
+  tags:
+  - german
   title: Krabat
 plan:
   date_added: '2015-04-08'

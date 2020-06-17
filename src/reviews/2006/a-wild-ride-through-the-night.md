@@ -11,6 +11,7 @@ book:
   slug: a-wild-ride-through-the-night
   tags:
   - fantasy
+  - german
   title: A Wild Ride Through the Night
 plan:
   date_added: '2016-05-06'

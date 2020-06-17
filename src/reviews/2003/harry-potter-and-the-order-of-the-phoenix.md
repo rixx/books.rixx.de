@@ -13,6 +13,7 @@ book:
   slug: harry-potter-and-the-order-of-the-phoenix
   tags:
   - fantasy
+  - german
   title: Harry Potter and the Order of the Phoenix
 plan:
   date_added: '2015-04-09'

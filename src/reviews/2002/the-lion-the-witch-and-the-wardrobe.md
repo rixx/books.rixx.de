@@ -11,6 +11,7 @@ book:
   slug: the-lion-the-witch-and-the-wardrobe
   tags:
   - fantasy
+  - german
   - kids
   title: The Lion, the Witch and the Wardrobe
 plan:

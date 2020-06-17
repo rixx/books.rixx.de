@@ -12,6 +12,7 @@ book:
   series_position: '9'
   slug: hangmans-holiday-a-collection-of-short-mysteries
   tags:
+  - german
   - mystery
   title: 'Hangman''s Holiday: A Collection of Short Mysteries'
 plan:

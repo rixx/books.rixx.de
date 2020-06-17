@@ -7,10 +7,12 @@ book:
   isbn10: '3357003686'
   isbn13: '9783357003689'
   publication_year: '1993'
-  slug: heimkehr-zu-den-dakota
-  title: Heimkehr zu den Dakota
   series: Die Söhne der Großen Bärin
   series_position: '4'
+  slug: heimkehr-zu-den-dakota
+  tags:
+  - german
+  title: Heimkehr zu den Dakota
 plan:
   date_added: '2015-07-03'
 review:

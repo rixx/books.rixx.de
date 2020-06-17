@@ -10,6 +10,7 @@ book:
   publication_year: '1972'
   slug: der-richter-und-sein-henker
   tags:
+  - german
   - mystery
   title: Der Richter und sein Henker
 plan:

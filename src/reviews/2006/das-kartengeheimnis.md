@@ -8,6 +8,8 @@ book:
   isbn13: '9783423125000'
   publication_year: '1999'
   slug: das-kartengeheimnis
+  tags:
+  - german
   title: Das Kartengeheimnis
 plan:
   date_added: '2015-06-28'

@@ -10,6 +10,7 @@ book:
   publication_year: '1986'
   slug: die-rauber
   tags:
+  - german
   - stage-play
   title: Die Räuber
 plan:

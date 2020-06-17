@@ -13,6 +13,7 @@ book:
   slug: the-fellowship-of-the-ring
   tags:
   - fantasy
+  - german
   title: The Fellowship of the Ring
 plan:
   date_added: '2015-07-02'

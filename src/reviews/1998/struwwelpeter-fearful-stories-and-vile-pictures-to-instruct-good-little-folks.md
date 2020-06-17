@@ -9,6 +9,8 @@ book:
   pages: '124'
   publication_year: '1850'
   slug: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks
+  tags:
+  - german
   title: 'Struwwelpeter: Fearful Stories and Vile Pictures to Instruct Good Little
     Folks'
 plan:

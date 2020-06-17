@@ -9,6 +9,8 @@ book:
   pages: '120'
   publication_year: '2001'
   slug: stories-of-mr-keuner
+  tags:
+  - german
   title: Stories of Mr. Keuner
 plan:
   date_added: '2016-05-03'

@@ -8,6 +8,7 @@ book:
   publication_year: '2004'
   slug: der-verdacht
   tags:
+  - german
   - mystery
   title: Der Verdacht
 plan:

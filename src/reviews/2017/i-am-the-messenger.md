@@ -9,6 +9,8 @@ book:
   pages: '357'
   publication_year: '2006'
   slug: i-am-the-messenger
+  tags:
+  - german
   title: I Am the Messenger
 plan:
   date_added: '2015-06-28'

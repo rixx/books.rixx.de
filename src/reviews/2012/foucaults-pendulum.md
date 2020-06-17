@@ -9,6 +9,8 @@ book:
   pages: '623'
   publication_year: '2007'
   slug: foucaults-pendulum
+  tags:
+  - german
   title: Foucault's Pendulum
 plan:
   date_added: '2018-07-23'

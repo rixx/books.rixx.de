@@ -9,6 +9,7 @@ book:
   publication_year: '1995'
   slug: die-feuerrote-friederike
   tags:
+  - german
   - kids
   title: Die feuerrote Friederike
 plan:

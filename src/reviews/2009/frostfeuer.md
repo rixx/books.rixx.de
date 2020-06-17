@@ -11,6 +11,7 @@ book:
   slug: frostfeuer
   tags:
   - fantasy
+  - german
   title: Frostfeuer
 plan:
   date_added: '2015-04-09'

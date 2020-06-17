@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: die-verschworenen
   tags:
+  - german
   - scifi
   title: Die Verschworenen
 plan:

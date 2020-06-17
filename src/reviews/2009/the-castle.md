@@ -9,6 +9,8 @@ book:
   pages: '316'
   publication_year: '1998'
   slug: the-castle
+  tags:
+  - german
   title: The Castle
 plan:
   date_added: '2015-04-08'

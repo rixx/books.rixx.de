@@ -11,6 +11,7 @@ book:
   slug: meg-finn-und-die-liste-der-vier-wunsche
   tags:
   - fantasy
+  - german
   title: Meg Finn und die Liste der vier Wünsche
 plan:
   date_added: '2016-05-03'

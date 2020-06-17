@@ -13,6 +13,7 @@ book:
   slug: inkspell
   tags:
   - fantasy
+  - german
   - urban-fantasy
   title: Inkspell
 plan:

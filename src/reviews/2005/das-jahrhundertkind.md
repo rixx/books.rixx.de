@@ -13,6 +13,7 @@ book:
   slug: das-jahrhundertkind
   tags:
   - fantasy
+  - german
   - urban-fantasy
   title: Das Jahrhundertkind
 plan:

@@ -10,6 +10,7 @@ book:
   publication_year: '1963'
   slug: emil-in-the-soup-tureen
   tags:
+  - german
   - kids
   title: Emil in the Soup Tureen
 plan:

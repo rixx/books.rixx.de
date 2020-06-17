@@ -10,6 +10,7 @@ book:
   publication_year: '2007'
   slug: pippi-langstrumpf
   tags:
+  - german
   - kids
   title: Pippi Langstrumpf
 plan:

@@ -10,6 +10,7 @@ book:
   publication_year: '2004'
   slug: the-brothers-lionheart
   tags:
+  - german
   - kids
   title: The Brothers Lionheart
 plan:

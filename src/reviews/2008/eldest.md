@@ -13,6 +13,7 @@ book:
   slug: eldest
   tags:
   - fantasy
+  - german
   title: Eldest
 plan:
   date_added: '2016-05-03'

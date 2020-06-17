@@ -11,6 +11,7 @@ book:
   slug: harry-potter-and-the-half-blood-prince
   tags:
   - fantasy
+  - german
   title: Harry Potter and the Half-Blood Prince
 plan:
   date_added: '2016-05-05'

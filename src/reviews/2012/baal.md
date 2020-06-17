@@ -10,6 +10,7 @@ book:
   publication_year: '1998'
   slug: baal
   tags:
+  - german
   - poetry
   title: Baal
 plan:

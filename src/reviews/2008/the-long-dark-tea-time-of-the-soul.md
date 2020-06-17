@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: the-long-dark-tea-time-of-the-soul
   tags:
+  - german
   - scifi
   title: The Long Dark Tea-Time of the Soul
 plan:

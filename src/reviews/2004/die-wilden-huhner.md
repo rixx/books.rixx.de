@@ -11,6 +11,7 @@ book:
   series_position: '1'
   slug: die-wilden-huhner
   tags:
+  - german
   - kids
   title: Die Wilden Hühner
 plan:

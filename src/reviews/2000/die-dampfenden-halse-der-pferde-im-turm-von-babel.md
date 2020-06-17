@@ -10,6 +10,7 @@ book:
   publication_year: '1978'
   slug: die-dampfenden-halse-der-pferde-im-turm-von-babel
   tags:
+  - german
   - kids
   title: Die dampfenden Hälse der Pferde im Turm von Babel
 plan:

@@ -9,6 +9,8 @@ book:
   pages: '83'
   publication_year: '1986'
   slug: der-sandmann
+  tags:
+  - german
   title: Der Sandmann
 plan:
   date_added: '2015-04-08'

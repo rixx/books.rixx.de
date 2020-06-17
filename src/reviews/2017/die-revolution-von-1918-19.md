@@ -9,6 +9,7 @@ book:
   publication_year: null
   slug: die-revolution-von-1918-19
   tags:
+  - german
   - nonfiction
   title: Die Revolution Von 1918/19
 plan:

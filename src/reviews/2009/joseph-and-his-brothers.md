@@ -9,6 +9,8 @@ book:
   pages: '1492'
   publication_year: '2005'
   slug: joseph-and-his-brothers
+  tags:
+  - german
   title: Joseph and His Brothers
 plan:
   date_added: '2015-04-08'

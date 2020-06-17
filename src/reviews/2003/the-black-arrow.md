@@ -9,6 +9,8 @@ book:
   pages: '242'
   publication_year: '2001'
   slug: the-black-arrow
+  tags:
+  - german
   title: The Black Arrow
 plan:
   date_added: '2015-04-08'

@@ -11,6 +11,7 @@ book:
   slug: the-hobbit-or-there-and-back-again
   tags:
   - fantasy
+  - german
   title: The Hobbit, or There and Back Again
 plan:
   date_added: '2015-04-08'

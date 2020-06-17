@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: the-winter-queen
   tags:
+  - german
   - mystery
   title: The Winter Queen
 plan:

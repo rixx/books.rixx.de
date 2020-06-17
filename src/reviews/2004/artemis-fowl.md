@@ -13,6 +13,7 @@ book:
   slug: artemis-fowl
   tags:
   - fantasy
+  - german
   title: Artemis Fowl
 plan:
   date_added: '2015-04-08'

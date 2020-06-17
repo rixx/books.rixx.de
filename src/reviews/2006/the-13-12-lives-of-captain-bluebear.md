@@ -13,6 +13,7 @@ book:
   slug: the-13-12-lives-of-captain-bluebear
   tags:
   - fantasy
+  - german
   title: The 13½ Lives of Captain Bluebear
 plan:
   date_added: '2015-04-09'

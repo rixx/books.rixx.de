@@ -12,6 +12,7 @@ book:
   series_position: '2'
   slug: clouds-of-witness
   tags:
+  - german
   - mystery
   title: Clouds of Witness
 plan:

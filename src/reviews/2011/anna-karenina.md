@@ -7,6 +7,8 @@ book:
   pages: '964'
   publication_year: '2012'
   slug: anna-karenina
+  tags:
+  - german
   title: Anna Karenina
 plan:
   date_added: '2015-04-08'

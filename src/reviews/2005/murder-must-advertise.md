@@ -12,6 +12,7 @@ book:
   series_position: '10'
   slug: murder-must-advertise
   tags:
+  - german
   - mystery
   title: Murder Must Advertise
 plan:

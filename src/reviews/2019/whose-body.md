@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: whose-body
   tags:
+  - german
   - mystery
   title: Whose Body?
 plan:

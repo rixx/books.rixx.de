@@ -9,6 +9,8 @@ book:
   pages: '104'
   publication_year: '2005'
   slug: chess-story
+  tags:
+  - german
   title: Chess Story
 plan:
   date_added: '2016-05-08'

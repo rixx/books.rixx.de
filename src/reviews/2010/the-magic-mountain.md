@@ -9,6 +9,8 @@ book:
   pages: '706'
   publication_year: '1996'
   slug: the-magic-mountain
+  tags:
+  - german
   title: The Magic Mountain
 plan:
   date_added: '2015-04-08'

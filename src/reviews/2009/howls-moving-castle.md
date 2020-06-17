@@ -13,6 +13,7 @@ book:
   slug: howls-moving-castle
   tags:
   - fantasy
+  - german
   title: Howl's Moving Castle
 plan:
   date_added: '2016-05-06'

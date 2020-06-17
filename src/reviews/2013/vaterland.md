@@ -10,6 +10,7 @@ book:
   publication_year: '1994'
   slug: vaterland
   tags:
+  - german
   - scifi
   title: Vaterland
 plan:

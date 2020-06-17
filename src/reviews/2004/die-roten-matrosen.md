@@ -9,6 +9,8 @@ book:
   pages: '462'
   publication_year: '2005'
   slug: die-roten-matrosen
+  tags:
+  - german
   title: Die roten Matrosen
 plan:
   date_added: '2015-06-28'

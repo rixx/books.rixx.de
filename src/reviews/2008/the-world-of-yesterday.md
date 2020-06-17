@@ -9,6 +9,8 @@ book:
   pages: '461'
   publication_year: '1964'
   slug: the-world-of-yesterday
+  tags:
+  - german
   title: The World of Yesterday
 plan:
   date_added: '2016-05-08'

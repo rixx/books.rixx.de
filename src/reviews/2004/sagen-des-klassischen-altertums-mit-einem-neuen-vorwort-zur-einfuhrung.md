@@ -8,6 +8,8 @@ book:
   pages: '1332'
   publication_year: '2012'
   slug: sagen-des-klassischen-altertums-mit-einem-neuen-vorwort-zur-einfuhrung
+  tags:
+  - german
   title: Sagen des klassischen Altertums - Mit einem neuen Vorwort zur Einführung
 plan:
   date_added: '2015-04-09'

@@ -9,6 +9,8 @@ book:
   pages: '536'
   publication_year: '1994'
   slug: the-name-of-the-rose
+  tags:
+  - german
   title: The Name of the Rose
 plan:
   date_added: '2015-04-08'

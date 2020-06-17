@@ -12,6 +12,7 @@ book:
   slug: the-opal-deception
   tags:
   - fantasy
+  - german
   title: The Opal Deception
 plan:
   date_added: '2015-04-08'

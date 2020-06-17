@@ -9,6 +9,8 @@ book:
   pages: '320'
   publication_year: '2001'
   slug: robinson-crusoe
+  tags:
+  - german
   title: Robinson Crusoe
 plan:
   date_added: '2015-04-08'

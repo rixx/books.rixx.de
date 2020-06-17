@@ -13,6 +13,7 @@ book:
   slug: der-glanz-des-mondes
   tags:
   - fantasy
+  - german
   title: Der Glanz des Mondes
 plan:
   date_added: '2015-07-03'

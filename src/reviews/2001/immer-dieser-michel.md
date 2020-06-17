@@ -9,6 +9,7 @@ book:
   publication_year: null
   slug: immer-dieser-michel
   tags:
+  - german
   - kids
   title: Immer dieser Michel
 plan:

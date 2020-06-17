@@ -10,6 +10,7 @@ book:
   publication_year: '2001'
   slug: lotta-on-troublemaker-street
   tags:
+  - german
   - kids
   title: Lotta on Troublemaker Street
 plan:

@@ -13,6 +13,7 @@ book:
   slug: lost-in-a-good-book
   tags:
   - fantasy
+  - german
   title: Lost in a Good Book
 plan:
   date_added: '2015-04-08'

@@ -8,6 +8,8 @@ book:
   isbn13: '9788493388331'
   publication_year: null
   slug: desiree
+  tags:
+  - german
   title: Désirée
 plan:
   date_added: '2015-04-09'

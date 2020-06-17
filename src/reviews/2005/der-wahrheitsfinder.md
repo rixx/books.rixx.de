@@ -13,6 +13,7 @@ book:
   slug: der-wahrheitsfinder
   tags:
   - fantasy
+  - german
   title: Der Wahrheitsfinder
 plan:
   date_added: '2015-06-28'

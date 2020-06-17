@@ -10,6 +10,7 @@ book:
   publication_year: '2003'
   slug: die-rote-zora-und-ihre-bande
   tags:
+  - german
   - kids
   title: Die rote Zora und ihre Bande
 plan:

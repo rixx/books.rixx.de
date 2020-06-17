@@ -11,6 +11,7 @@ book:
   slug: der-herr-der-unruhe
   tags:
   - fantasy
+  - german
   - urban-fantasy
   title: Der Herr der Unruhe
 plan:

@@ -13,6 +13,7 @@ book:
   slug: inkheart
   tags:
   - fantasy
+  - german
   - urban-fantasy
   title: Inkheart
 plan:

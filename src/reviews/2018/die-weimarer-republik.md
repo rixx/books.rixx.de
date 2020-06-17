@@ -7,6 +7,7 @@ book:
   publication_year: null
   slug: die-weimarer-republik
   tags:
+  - german
   - nonfiction
   title: Die Weimarer Republik
 plan:

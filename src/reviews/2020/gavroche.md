@@ -7,6 +7,8 @@ book:
   pages: '142'
   publication_year: '1957'
   slug: gavroche
+  tags:
+  - german
   title: Gavroche
 plan:
   date_added: '2020-04-12'

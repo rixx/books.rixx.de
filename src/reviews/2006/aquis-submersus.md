@@ -9,6 +9,8 @@ book:
   pages: '86'
   publication_year: null
   slug: aquis-submersus
+  tags:
+  - german
   title: Aquis Submersus
 plan:
   date_added: '2015-04-09'

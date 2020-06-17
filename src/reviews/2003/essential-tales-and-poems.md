@@ -10,6 +10,7 @@ book:
   publication_year: '2004'
   slug: essential-tales-and-poems
   tags:
+  - german
   - poetry
   title: Essential Tales and Poems
 plan:

@@ -10,6 +10,7 @@ book:
   publication_year: '1948'
   slug: leisure-the-basis-of-culture
   tags:
+  - german
   - nonfiction
   title: 'Leisure: The Basis of Culture'
 plan:

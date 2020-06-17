@@ -12,6 +12,7 @@ book:
   series_position: '3'
   slug: die-wilden-huhner-fuchsalarm
   tags:
+  - german
   - kids
   title: 'Die Wilden Hühner: Fuchsalarm'
 plan:

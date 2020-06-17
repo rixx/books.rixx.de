@@ -9,6 +9,8 @@ book:
   pages: '138'
   publication_year: '2005'
   slug: the-wave
+  tags:
+  - german
   title: The Wave
 plan:
   date_added: '2016-05-03'

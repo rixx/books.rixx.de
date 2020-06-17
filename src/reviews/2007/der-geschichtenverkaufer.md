@@ -9,6 +9,8 @@ book:
   pages: '272'
   publication_year: '2004'
   slug: der-geschichtenverkaufer
+  tags:
+  - german
   title: Der Geschichtenverkäufer
 plan:
   date_added: '2015-08-06'

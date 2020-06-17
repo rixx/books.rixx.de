@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: erebos
   tags:
+  - german
   - scifi
   title: Erebos
 plan:

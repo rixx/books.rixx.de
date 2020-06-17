@@ -8,6 +8,8 @@ book:
   isbn13: '9783407784322'
   publication_year: null
   slug: ein-trummersommer
+  tags:
+  - german
   title: Ein Trümmersommer
 plan:
   date_added: '2015-06-28'

@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: jim-knopf-und-lukas-der-lokomotivfuhrer
   tags:
+  - german
   - kids
   title: Jim Button and Luke the Engine Driver
 plan:

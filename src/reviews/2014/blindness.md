@@ -9,6 +9,8 @@ book:
   pages: '326'
   publication_year: '1995'
   slug: blindness
+  tags:
+  - german
   title: Blindness
 plan:
   date_added: 2020-05-29

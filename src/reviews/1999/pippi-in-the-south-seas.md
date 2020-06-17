@@ -12,6 +12,7 @@ book:
   series_position: '3'
   slug: pippi-in-the-south-seas
   tags:
+  - german
   - kids
   title: Pippi in the South Seas
 plan:

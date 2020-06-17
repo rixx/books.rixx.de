@@ -12,6 +12,7 @@ book:
   series_position: '1'
   slug: eine-woche-voller-samstage
   tags:
+  - german
   - kids
   title: Eine Woche voller Samstage
 plan:

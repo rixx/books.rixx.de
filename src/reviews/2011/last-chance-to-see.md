@@ -10,6 +10,7 @@ book:
   publication_year: '1992'
   slug: last-chance-to-see
   tags:
+  - german
   - nonfiction
   title: Last Chance to See
 plan:

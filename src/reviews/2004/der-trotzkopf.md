@@ -9,6 +9,8 @@ book:
   pages: '222'
   publication_year: '1996'
   slug: der-trotzkopf
+  tags:
+  - german
   title: Der Trotzkopf
 plan:
   date_added: '2015-04-08'

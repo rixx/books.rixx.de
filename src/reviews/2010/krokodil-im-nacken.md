@@ -9,6 +9,8 @@ book:
   pages: '796'
   publication_year: '2003'
   slug: krokodil-im-nacken
+  tags:
+  - german
   title: Krokodil im Nacken
 plan:
   date_added: '2015-06-28'

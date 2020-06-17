@@ -13,6 +13,7 @@ book:
   slug: first-among-sequels
   tags:
   - fantasy
+  - german
   title: First Among Sequels
 plan:
   date_added: '2015-07-02'

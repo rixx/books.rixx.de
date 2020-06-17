@@ -8,6 +8,7 @@ book:
   publication_year: '2001'
   slug: kabale-und-liebe
   tags:
+  - german
   - stage-play
   title: Kabale und Liebe
 plan:

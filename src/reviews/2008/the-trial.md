@@ -9,6 +9,8 @@ book:
   pages: '255'
   publication_year: '1925'
   slug: the-trial
+  tags:
+  - german
   title: The Trial
 plan:
   date_added: '2016-05-03'

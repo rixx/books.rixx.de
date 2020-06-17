@@ -11,6 +11,8 @@ book:
   series: Extraordinary Voyages
   series_position: '3'
   slug: journey-to-the-center-of-the-earth
+  tags:
+  - german
   title: Journey to the Center of the Earth
 plan:
   date_added: '2015-04-09'

@@ -9,6 +9,8 @@ book:
   pages: '272'
   publication_year: '1976'
   slug: effi-briest
+  tags:
+  - german
   title: Effi Briest
 plan:
   date_added: '2015-04-08'

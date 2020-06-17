@@ -12,6 +12,7 @@ book:
   slug: merle-und-die-fliessende-konigin
   tags:
   - fantasy
+  - german
   title: Merle und die Fließende Königin
 plan:
   date_added: '2015-04-09'

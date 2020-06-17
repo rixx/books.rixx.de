@@ -8,6 +8,7 @@ book:
   publication_year: 2000
   slug: herr-der-diebe
   tags:
+  - german
   - kids
   title: Herr der Diebe
 plan:

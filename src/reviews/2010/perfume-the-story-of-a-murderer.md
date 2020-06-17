@@ -9,6 +9,8 @@ book:
   pages: '263'
   publication_year: '1987'
   slug: perfume-the-story-of-a-murderer
+  tags:
+  - german
   title: 'Perfume: The Story of a Murderer'
 plan:
   date_added: '2015-04-09'

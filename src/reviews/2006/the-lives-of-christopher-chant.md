@@ -13,6 +13,7 @@ book:
   slug: the-lives-of-christopher-chant
   tags:
   - fantasy
+  - german
   title: The Lives of Christopher Chant
 plan:
   date_added: '2016-05-06'

@@ -9,6 +9,8 @@ book:
   pages: '237'
   publication_year: '1992'
   slug: the-notebooks-of-malte-laurids-brigge
+  tags:
+  - german
   title: The Notebooks of Malte Laurids Brigge
 plan:
   date_added: '2015-04-08'

@@ -13,6 +13,7 @@ book:
   slug: brisingr
   tags:
   - fantasy
+  - german
   title: Brisingr
 plan:
   date_added: '2016-05-03'

@@ -9,6 +9,8 @@ book:
   pages: '94'
   publication_year: '2006'
   slug: rheinsberg-ein-bilderbuch-fur-verliebte
+  tags:
+  - german
   title: 'Rheinsberg: ein Bilderbuch für Verliebte'
 plan:
   date_added: '2015-04-09'

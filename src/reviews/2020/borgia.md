@@ -8,13 +8,15 @@ book:
   pages: 122
   publication_year: 1928
   slug: borgia
+  tags:
+  - german
   title: Borgia
+plan:
+  date_added: 2020-05-24
 review:
   date_read: 2020-05-11
   date_started: 2020-05-11
   rating: 2
-plan:
-  date_added: 2020-05-24
 ---
 
 This was nice, but not more than nice. The book tells episodes of the life of the Borgias, without much connecting

@@ -13,6 +13,7 @@ book:
   slug: something-rotten
   tags:
   - fantasy
+  - german
   title: Something Rotten
 plan:
   date_added: '2015-04-08'

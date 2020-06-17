@@ -10,6 +10,7 @@ book:
   publication_year: '1977'
   slug: die-tante-jolesch
   tags:
+  - german
   - nonfiction
   title: Die Tante Jolesch
 plan:

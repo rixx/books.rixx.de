@@ -10,6 +10,7 @@ book:
   publication_year: '2007'
   slug: igraine-the-brave
   tags:
+  - german
   - kids
   title: Igraine the Brave
 plan:
