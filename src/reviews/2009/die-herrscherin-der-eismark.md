@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Die Herrscherin der Eismark
 plan:
   date_added: '2016-05-08'

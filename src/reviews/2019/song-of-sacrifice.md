@@ -10,6 +10,8 @@ book:
   series_position: '1'
   slug: song-of-sacrifice
   title: Song of Sacrifice
+  tags:
+  - myths-legends
 plan:
   date_added: '2019-04-10'
 review:

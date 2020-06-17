@@ -13,6 +13,7 @@ book:
   slug: city-of-ashes
   tags:
   - fantasy
+  - ya
   title: City of Ashes
 plan:
   date_added: '2016-11-20'

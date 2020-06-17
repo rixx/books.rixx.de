@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Frostfeuer
 plan:
   date_added: '2015-04-09'

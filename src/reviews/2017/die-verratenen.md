@@ -14,6 +14,7 @@ book:
   tags:
   - german
   - scifi
+  - ya
   title: Die Verratenen
 plan:
   date_added: '2017-01-08'

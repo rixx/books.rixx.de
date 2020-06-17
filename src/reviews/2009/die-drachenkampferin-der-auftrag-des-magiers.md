@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Der Auftrag des Magiers
 plan:
   date_added: '2015-07-03'

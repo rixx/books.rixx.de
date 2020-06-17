@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - ya
   title: Wizard's Holiday
 plan:
   date_added: '2016-05-03'

@@ -13,6 +13,7 @@ book:
   slug: as-chimney-sweepers-come-to-dust
   tags:
   - mystery
+  - ya
   title: As Chimney Sweepers Come to Dust
 plan:
   date_added: '2017-11-26'

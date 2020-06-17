@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Die Träume des Jonathan Jabbok
 plan:
   date_added: '2015-06-28'

@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: The Water Mirror
 plan:
   date_added: '2015-04-09'

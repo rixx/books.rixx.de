@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Harry Potter and the Half-Blood Prince
 plan:
   date_added: '2016-05-05'

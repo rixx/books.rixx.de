@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - ya
   title: Deep Wizardry
 plan:
   date_added: '2016-05-03'

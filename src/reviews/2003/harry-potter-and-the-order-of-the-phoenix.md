@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Harry Potter and the Order of the Phoenix
 plan:
   date_added: '2015-04-09'

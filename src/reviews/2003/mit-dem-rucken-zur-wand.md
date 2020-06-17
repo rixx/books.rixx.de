@@ -11,6 +11,7 @@ book:
   slug: mit-dem-rucken-zur-wand
   tags:
   - german
+  - ya
   title: Mit dem Rücken zur Wand
 plan:
   date_added: '2015-06-28'

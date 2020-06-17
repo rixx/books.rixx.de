@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '6'
   slug: the-ersatz-elevator
+  tags:
+  - ya
   title: The Ersatz Elevator
 plan:
   date_added: '2017-02-07'

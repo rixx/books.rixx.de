@@ -13,6 +13,7 @@ book:
   slug: ready-player-one
   tags:
   - scifi
+  - ya
   title: Ready Player One
 plan:
   date_added: '2015-04-08'

@@ -13,6 +13,7 @@ book:
   slug: the-weed-that-strings-the-hangmans-bag
   tags:
   - mystery
+  - ya
   title: The Weed That Strings the Hangman's Bag
 plan:
   date_added: '2017-11-23'

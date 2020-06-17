@@ -12,6 +12,7 @@ book:
   tags:
   - german
   - kids
+  - ya
   title: Die rote Zora und ihre Bande
 plan:
   date_added: '2015-04-08'

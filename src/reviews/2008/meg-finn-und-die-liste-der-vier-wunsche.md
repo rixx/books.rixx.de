@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Meg Finn und die Liste der vier Wünsche
 plan:
   date_added: '2016-05-03'

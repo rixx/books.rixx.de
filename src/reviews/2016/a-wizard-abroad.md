@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - ya
   title: A Wizard Abroad
 plan:
   date_added: '2016-05-03'

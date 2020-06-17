@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '10'
   slug: the-slippery-slope
+  tags:
+  - ya
   title: The Slippery Slope
 plan:
   date_added: '2017-02-09'

@@ -9,6 +9,9 @@ book:
   series_position: '1'
   slug: starships-mage-omnibus
   title: 'Starship''s Mage: Omnibus'
+  tags:
+  - fantasy
+  - scifi
 plan:
   date_added: '2019-11-22'
 review:

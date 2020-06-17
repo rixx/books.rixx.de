@@ -11,6 +11,7 @@ book:
   slug: die-roten-matrosen
   tags:
   - german
+  - ya
   title: Die roten Matrosen
 plan:
   date_added: '2015-06-28'

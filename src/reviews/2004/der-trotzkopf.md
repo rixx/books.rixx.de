@@ -11,6 +11,7 @@ book:
   slug: der-trotzkopf
   tags:
   - german
+  - ya
   title: Der Trotzkopf
 plan:
   date_added: '2015-04-08'

@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Witch Week
 plan:
   date_added: '2016-05-06'

@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '8'
   slug: the-hostile-hospital
+  tags:
+  - ya
   title: The Hostile Hospital
 plan:
   date_added: '2017-02-09'

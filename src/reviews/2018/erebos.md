@@ -14,6 +14,7 @@ book:
   tags:
   - german
   - scifi
+  - ya
   title: Erebos
 plan:
   date_added: '2016-05-03'

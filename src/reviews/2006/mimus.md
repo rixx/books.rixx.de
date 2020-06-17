@@ -10,6 +10,7 @@ book:
   slug: mimus
   tags:
   - german
+  - ya
   title: Mimus
 plan:
   date_added: '2015-07-02'

@@ -11,6 +11,7 @@ book:
   slug: the-last-starfighter
   tags:
   - scifi
+  - ya
   title: The Last Starfighter
 plan:
   date_added: '2018-04-05'

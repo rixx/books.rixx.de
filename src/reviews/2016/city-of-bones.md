@@ -13,6 +13,7 @@ book:
   slug: city-of-bones
   tags:
   - fantasy
+  - ya
   title: City of Bones
 plan:
   date_added: '2016-05-08'

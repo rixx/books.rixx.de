@@ -13,6 +13,7 @@ book:
   slug: binti
   tags:
   - scifi
+  - ya
   title: Binti
 plan:
   date_added: '2018-02-18'

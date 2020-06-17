@@ -15,6 +15,7 @@ book:
   - fantasy
   - german
   - urban-fantasy
+  - ya
   title: Inkspell
 plan:
   date_added: '2015-08-04'

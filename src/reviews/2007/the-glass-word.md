@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: The Glass Word
 plan:
   date_added: '2015-04-09'

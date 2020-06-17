@@ -13,6 +13,7 @@ book:
   slug: divergent
   tags:
   - fantasy
+  - ya
   title: Divergent
 plan:
   date_added: '2016-05-08'

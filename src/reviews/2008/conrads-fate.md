@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Conrad's Fate
 plan:
   date_added: '2016-05-06'

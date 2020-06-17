@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '1'
   slug: the-bad-beginning
+  tags:
+  - ya
   title: The Bad Beginning
 plan:
   date_added: '2017-02-02'

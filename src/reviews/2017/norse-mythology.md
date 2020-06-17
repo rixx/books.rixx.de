@@ -9,6 +9,8 @@ book:
   pages: '299'
   publication_year: '2017'
   slug: norse-mythology
+  tags:
+  - myths-legends
   title: Norse Mythology
 plan:
   date_added: '2017-02-27'

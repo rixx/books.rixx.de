@@ -10,6 +10,7 @@ book:
   slug: krabat
   tags:
   - german
+  - myths-legends
   title: Krabat
 plan:
   date_added: '2015-04-08'

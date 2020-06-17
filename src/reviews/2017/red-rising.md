@@ -11,6 +11,8 @@ book:
   series: Red Rising Saga
   series_position: '1'
   slug: red-rising
+  tags:
+  - ya
   title: Red Rising
 plan:
   date_added: '2016-11-03'

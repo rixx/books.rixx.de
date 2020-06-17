@@ -13,6 +13,7 @@ book:
   slug: harry-potter-and-the-deathly-hallows
   tags:
   - fantasy
+  - ya
   title: Harry Potter and the Deathly Hallows
 plan:
   date_added: '2016-05-05'

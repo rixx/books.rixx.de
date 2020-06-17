@@ -9,6 +9,8 @@ book:
   pages: '480'
   publication_year: '1889'
   slug: a-connecticut-yankee-in-king-arthurs-court
+  tags:
+  - myths-legends
   title: A Connecticut Yankee in King Arthur's Court
 plan:
   date_added: 2020-06-09

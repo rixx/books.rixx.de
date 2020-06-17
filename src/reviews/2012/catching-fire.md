@@ -11,6 +11,8 @@ book:
   series: The Hunger Games
   series_position: '2'
   slug: catching-fire
+  tags:
+  - ya
   title: Catching Fire
 plan:
   date_added: '2015-06-28'

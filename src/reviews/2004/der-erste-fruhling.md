@@ -10,6 +10,7 @@ book:
   slug: der-erste-fruhling
   tags:
   - german
+  - ya
   title: Der erste Frühling
 plan:
   date_added: '2015-06-28'

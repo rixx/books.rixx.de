@@ -12,6 +12,8 @@ book:
   series_position: '2'
   slug: the-silkworm
   title: The Silkworm
+  tags:
+  - mystery
 plan:
   date_added: '2017-01-16'
 review:

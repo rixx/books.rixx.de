@@ -13,6 +13,7 @@ book:
   slug: city-of-glass
   tags:
   - fantasy
+  - ya
   title: City of Glass
 plan:
   date_added: '2016-11-22'

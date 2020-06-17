@@ -13,6 +13,7 @@ book:
   slug: i-am-half-sick-of-shadows
   tags:
   - mystery
+  - ya
   title: I Am Half-Sick of Shadows
 plan:
   date_added: '2017-11-25'

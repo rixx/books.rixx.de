@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: The Golem's Eye
 plan:
   date_added: '2015-04-08'

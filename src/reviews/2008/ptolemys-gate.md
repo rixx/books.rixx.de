@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Ptolemy's Gate
 plan:
   date_added: '2015-07-02'

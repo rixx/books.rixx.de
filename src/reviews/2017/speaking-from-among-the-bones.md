@@ -13,6 +13,7 @@ book:
   slug: speaking-from-among-the-bones
   tags:
   - mystery
+  - ya
   title: Speaking from Among the Bones
 plan:
   date_added: '2017-11-25'

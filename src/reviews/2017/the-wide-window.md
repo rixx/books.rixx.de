@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '3'
   slug: the-wide-window
+  tags:
+  - ya
   title: The Wide Window
 plan:
   date_added: '2017-02-04'

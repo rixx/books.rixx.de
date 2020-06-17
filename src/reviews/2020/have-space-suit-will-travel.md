@@ -11,6 +11,7 @@ book:
   slug: have-space-suit-will-travel
   tags:
   - scifi
+  - ya
   title: Have Space Suit—Will Travel
 plan:
   date_added: 2020-06-02

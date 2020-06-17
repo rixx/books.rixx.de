@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Pala und die seltsame Verflüchtigung der Worte
 plan:
   date_added: '2015-06-28'

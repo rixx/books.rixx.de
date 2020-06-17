@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '4'
   slug: the-miserable-mill
+  tags:
+  - ya
   title: The Miserable Mill
 plan:
   date_added: '2017-02-04'

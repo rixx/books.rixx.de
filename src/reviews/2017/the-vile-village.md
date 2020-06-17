@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '7'
   slug: the-vile-village
+  tags:
+  - ya
   title: The Vile Village
 plan:
   date_added: '2017-02-07'

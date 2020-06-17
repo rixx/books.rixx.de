@@ -10,6 +10,10 @@ book:
   publication_year: '1998'
   slug: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way
   title: 'Lao Tzu: Tao Te Ching: A Book about the Way and the Power of the Way'
+  tags:
+  - nonfiction
+  - personal-development
+  - philosophy
 plan:
   date_added: '2020-03-26'
 review:

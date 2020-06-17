@@ -13,6 +13,7 @@ book:
   slug: sabriel
   tags:
   - fantasy
+  - ya
   title: Sabriel
 plan:
   date_added: '2016-05-08'

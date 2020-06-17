@@ -10,6 +10,8 @@ book:
   series: Aunare Chronicles
   series_position: '1'
   slug: off-planet
+  tags:
+  - ya
   title: Off Planet
 plan:
   date_added: '2019-03-17'

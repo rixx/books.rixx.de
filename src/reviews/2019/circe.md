@@ -9,6 +9,8 @@ book:
   pages: '393'
   publication_year: '2018'
   slug: circe
+  tags:
+  - myths-legends
   title: Circe
 plan:
   date_added: '2018-11-14'

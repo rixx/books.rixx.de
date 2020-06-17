@@ -13,6 +13,7 @@ book:
   slug: lirael
   tags:
   - fantasy
+  - ya
   title: Lirael
 plan:
   date_added: '2017-05-16'

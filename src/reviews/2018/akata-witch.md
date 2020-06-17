@@ -13,6 +13,7 @@ book:
   slug: akata-witch
   tags:
   - fantasy
+  - ya
   title: Akata Witch
 plan:
   date_added: '2018-02-18'

@@ -11,6 +11,8 @@ book:
   series: Alcatraz
   series_position: '2'
   slug: alcatraz-versus-the-scriveners-bones
+  tags:
+  - ya
   title: Alcatraz Versus the Scrivener's Bones
 plan:
   date_added: '2015-04-09'

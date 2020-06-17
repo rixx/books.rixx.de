@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: The Lives of Christopher Chant
 plan:
   date_added: '2016-05-06'

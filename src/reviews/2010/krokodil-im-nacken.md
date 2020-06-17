@@ -11,6 +11,7 @@ book:
   slug: krokodil-im-nacken
   tags:
   - german
+  - ya
   title: Krokodil im Nacken
 plan:
   date_added: '2015-06-28'

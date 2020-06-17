@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '5'
   slug: the-austere-academy
+  tags:
+  - ya
   title: The Austere Academy
 plan:
   date_added: '2017-02-07'

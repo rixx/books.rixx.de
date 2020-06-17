@@ -13,6 +13,7 @@ book:
   slug: the-ring-of-solomon
   tags:
   - fantasy
+  - ya
   title: The Ring of Solomon
 plan:
   date_added: '2015-04-08'

@@ -13,6 +13,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Der Pfad im Schnee
 plan:
   date_added: '2015-07-03'

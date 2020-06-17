@@ -13,6 +13,7 @@ book:
   slug: thrice-the-brinded-cat-hath-mewd
   tags:
   - mystery
+  - ya
   title: Thrice the Brinded Cat Hath Mew'd
 plan:
   date_added: '2017-11-28'

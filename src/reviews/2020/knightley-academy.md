@@ -13,6 +13,7 @@ book:
   slug: knightley-academy
   tags:
   - fantasy
+  - ya
   title: Knightley Academy
 plan:
   date_added: '2017-11-21'

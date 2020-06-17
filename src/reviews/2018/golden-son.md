@@ -11,6 +11,8 @@ book:
   series: Red Rising
   series_position: '2'
   slug: golden-son
+  tags:
+  - ya
   title: Golden Son
 plan:
   date_added: '2016-05-14'

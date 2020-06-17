@@ -14,6 +14,7 @@ book:
   tags:
   - german
   - scifi
+  - ya
   title: Die Vernichteten
 plan:
   date_added: '2017-01-09'

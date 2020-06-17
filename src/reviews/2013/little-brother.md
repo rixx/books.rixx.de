@@ -13,6 +13,7 @@ book:
   slug: little-brother
   tags:
   - scifi
+  - ya
   title: Little Brother
 plan:
   date_added: '2015-04-09'

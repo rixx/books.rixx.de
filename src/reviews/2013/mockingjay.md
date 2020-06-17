@@ -11,6 +11,8 @@ book:
   series: The Hunger Games
   series_position: '3'
   slug: mockingjay
+  tags:
+  - ya
   title: Mockingjay
 plan:
   date_added: '2015-06-28'

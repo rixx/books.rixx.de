@@ -13,6 +13,7 @@ book:
   slug: the-strange-case-of-the-alchemists-daughter
   tags:
   - fantasy
+  - ya
   title: The Strange Case of the Alchemist's Daughter
 plan:
   date_added: '2018-03-23'

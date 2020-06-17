@@ -13,6 +13,7 @@ book:
   slug: abhorsen
   tags:
   - fantasy
+  - ya
   title: Abhorsen
 plan:
   date_added: '2017-12-24'

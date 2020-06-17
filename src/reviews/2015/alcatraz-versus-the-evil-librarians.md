@@ -11,6 +11,8 @@ book:
   series: Alcatraz
   series_position: '1'
   slug: alcatraz-versus-the-evil-librarians
+  tags:
+  - ya
   title: Alcatraz Versus the Evil Librarians
 plan:
   date_added: '2015-04-09'

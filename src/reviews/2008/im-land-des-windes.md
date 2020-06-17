@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Im Land des Windes
 plan:
   date_added: '2015-07-03'

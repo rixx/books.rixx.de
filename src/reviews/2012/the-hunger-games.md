@@ -11,6 +11,8 @@ book:
   series: The Hunger Games
   series_position: '1'
   slug: the-hunger-games
+  tags:
+  - ya
   title: The Hunger Games
 plan:
   date_added: '2015-04-08'

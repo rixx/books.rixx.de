@@ -11,6 +11,7 @@ book:
   slug: das-pentomino-orakel
   tags:
   - german
+  - ya
   title: Das Pentomino-Orakel
 plan:
   date_added: '2016-05-08'

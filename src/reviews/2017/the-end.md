@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '13'
   slug: the-end
+  tags:
+  - ya
   title: The End
 plan:
   date_added: '2017-02-21'

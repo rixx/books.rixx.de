@@ -13,6 +13,7 @@ book:
   slug: a-red-herring-without-mustard
   tags:
   - mystery
+  - ya
   title: A Red Herring Without Mustard
 plan:
   date_added: '2017-11-25'

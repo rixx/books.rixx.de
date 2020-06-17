@@ -13,6 +13,7 @@ book:
   slug: the-lightning-thief
   tags:
   - fantasy
+  - myths-legends
   title: The Lightning Thief
 plan:
   date_added: '2015-08-06'

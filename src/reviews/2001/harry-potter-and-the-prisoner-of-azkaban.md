@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Harry Potter and the Prisoner of Azkaban
 plan:
   date_added: '2015-04-09'

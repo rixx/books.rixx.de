@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Der Talisman der Macht
 plan:
   date_added: '2015-07-03'

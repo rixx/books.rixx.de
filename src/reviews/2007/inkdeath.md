@@ -15,6 +15,7 @@ book:
   - fantasy
   - german
   - urban-fantasy
+  - ya
   title: Inkdeath
 plan:
   date_added: '2015-08-04'

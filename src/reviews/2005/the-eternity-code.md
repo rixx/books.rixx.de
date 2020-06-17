@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: The Eternity Code
 plan:
   date_added: '2016-05-03'

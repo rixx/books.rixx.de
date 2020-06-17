@@ -9,6 +9,8 @@ book:
   pages: '617'
   publication_year: '2003'
   slug: battle-royale
+  tags:
+  - ya
   title: Battle Royale
 plan:
   date_added: '2018-08-07'

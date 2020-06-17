@@ -11,6 +11,7 @@ book:
   slug: american-gods
   tags:
   - fantasy
+  - myths-legends
   title: American Gods
 plan:
   date_added: '2015-04-08'

@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '9'
   slug: the-carnivorous-carnival
+  tags:
+  - ya
   title: The Carnivorous Carnival
 plan:
   date_added: '2017-02-09'

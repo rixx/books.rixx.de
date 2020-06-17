@@ -12,6 +12,8 @@ book:
   series_position: '1'
   slug: the-cuckoos-calling
   title: The Cuckoo's Calling
+  tagsL
+  - mystery
 plan:
   date_added: '2016-05-08'
 review:

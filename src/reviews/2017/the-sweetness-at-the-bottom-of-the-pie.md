@@ -13,6 +13,7 @@ book:
   slug: the-sweetness-at-the-bottom-of-the-pie
   tags:
   - mystery
+  - ya
   title: The Sweetness at the Bottom of the Pie
 plan:
   date_added: '2016-12-05'

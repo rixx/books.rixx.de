@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - ya
   title: The Wizard's Dilemma
 plan:
   date_added: '2016-05-03'

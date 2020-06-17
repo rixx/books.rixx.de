@@ -11,6 +11,7 @@ book:
   slug: the-complete-fairy-tales
   tags:
   - german
+  - myths-legends
   title: The Complete Fairy Tales
 plan:
   date_added: '2016-05-19'

@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '2'
   slug: the-reptile-room
+  tags:
+  - ya
   title: The Reptile Room
 plan:
   date_added: '2017-02-03'

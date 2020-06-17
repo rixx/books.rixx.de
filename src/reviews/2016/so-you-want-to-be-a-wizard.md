@@ -14,6 +14,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - ya
   title: So You Want to Be a Wizard
 plan:
   date_added: '2016-05-03'

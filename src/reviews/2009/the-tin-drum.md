@@ -10,6 +10,8 @@ book:
   publication_year: '2005'
   slug: the-tin-drum
   title: The Tin Drum
+  tags:
+  - german
 plan:
   date_added: '2015-04-08'
 review:

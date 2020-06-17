@@ -7,6 +7,8 @@ book:
   pages: '421'
   publication_year: '2019'
   slug: red-white-royal-blue
+  tags:
+  - ya
   title: Red, White & Royal Blue
 plan:
   date_added: '2019-06-08'

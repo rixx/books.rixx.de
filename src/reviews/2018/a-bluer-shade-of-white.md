@@ -7,6 +7,8 @@ book:
   pages: '65'
   publication_year: '2014'
   slug: a-bluer-shade-of-white
+  tags:
+  - ya
   title: A Bluer Shade of White
 plan:
   date_added: '2018-06-30'

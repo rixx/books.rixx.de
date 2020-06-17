@@ -10,6 +10,7 @@ book:
   slug: ein-trummersommer
   tags:
   - german
+  - ya
   title: Ein Trümmersommer
 plan:
   date_added: '2015-06-28'

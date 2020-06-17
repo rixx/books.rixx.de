@@ -11,6 +11,7 @@ book:
   tags:
   - german
   - scifi
+  - ya
   title: Elanus
 plan:
   date_added: '2019-04-04'

@@ -10,6 +10,7 @@ book:
   slug: sagen-des-klassischen-altertums-mit-einem-neuen-vorwort-zur-einfuhrung
   tags:
   - german
+  - myths-legends
   title: Sagen des klassischen Altertums - Mit einem neuen Vorwort zur Einführung
 plan:
   date_added: '2015-04-09'

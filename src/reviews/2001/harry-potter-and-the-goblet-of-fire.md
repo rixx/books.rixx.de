@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   - german
+  - ya
   title: Harry Potter and the Goblet of Fire
 plan:
   date_added: '2015-04-09'

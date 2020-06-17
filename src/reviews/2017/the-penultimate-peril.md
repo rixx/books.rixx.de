@@ -11,6 +11,8 @@ book:
   series: A Series of Unfortunate Events
   series_position: '12'
   slug: the-penultimate-peril
+  tags:
+  - ya
   title: The Penultimate Peril
 plan:
   date_added: '2017-02-21'
