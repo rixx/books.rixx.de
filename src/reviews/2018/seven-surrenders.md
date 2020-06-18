@@ -13,6 +13,7 @@ book:
   slug: seven-surrenders
   tags:
   - scifi
+  - space-monks
   title: Seven Surrenders
 plan:
   date_added: '2018-03-19'

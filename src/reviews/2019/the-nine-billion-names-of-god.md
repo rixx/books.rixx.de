@@ -11,6 +11,7 @@ book:
   slug: the-nine-billion-names-of-god
   tags:
   - scifi
+  - space-monks
   title: The Nine Billion Names of God
 plan:
   date_added: '2019-02-19'

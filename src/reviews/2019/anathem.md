@@ -11,6 +11,7 @@ book:
   slug: anathem
   tags:
   - scifi
+  - space-monks
   title: Anathem
 plan:
   date_added: '2015-04-09'

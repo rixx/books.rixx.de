@@ -13,6 +13,7 @@ book:
   slug: the-will-to-battle
   tags:
   - scifi
+  - space-monks
   title: The Will to Battle
 plan:
   date_added: '2018-04-17'

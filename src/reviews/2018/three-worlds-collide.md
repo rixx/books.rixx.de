@@ -6,9 +6,10 @@ book:
   goodreads: '15744759'
   publication_year: '2009'
   slug: three-worlds-collide
-  title: Three Worlds Collide
   tags:
   - scifi
+  - space-monks
+  title: Three Worlds Collide
 plan:
   date_added: '2018-06-30'
 review:

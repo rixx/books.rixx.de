@@ -9,6 +9,8 @@ book:
   pages: '345'
   publication_year: '2011'
   slug: embassytown
+  tags:
+  - fantasy
   title: Embassytown
 plan:
   date_added: '2018-11-14'

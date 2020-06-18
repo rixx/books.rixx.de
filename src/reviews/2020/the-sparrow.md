@@ -13,6 +13,7 @@ book:
   slug: the-sparrow
   tags:
   - scifi
+  - space-monks
   title: The Sparrow
 plan:
   date_added: '2018-03-13'

@@ -13,6 +13,7 @@ book:
   slug: too-like-the-lightning
   tags:
   - scifi
+  - space-monks
   title: Too Like the Lightning
 plan:
   date_added: '2018-02-19'

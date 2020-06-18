@@ -11,9 +11,10 @@ book:
   series: Dune Chronicles
   series_position: '2'
   slug: dune-messiah
-  title: Dune Messiah
   tags:
   - scifi
+  - space-monks
+  title: Dune Messiah
 plan:
   date_added: '2018-07-09'
 review:

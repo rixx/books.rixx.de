@@ -11,6 +11,8 @@ book:
   series: New Crobuzon
   series_position: '2'
   slug: the-scar
+  tags:
+  - fantasy
   title: The Scar
 plan:
   date_added: '2018-06-19'

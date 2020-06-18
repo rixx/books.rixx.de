@@ -9,6 +9,8 @@ book:
   pages: '432'
   publication_year: '2007'
   slug: un-lun-dun
+  tags:
+  - fantasy
   title: Un Lun Dun
 plan:
   date_added: '2019-03-12'

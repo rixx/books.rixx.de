@@ -11,6 +11,8 @@ book:
   series: New Crobuzon
   series_position: '1'
   slug: perdido-street-station
+  tags:
+  - fantasy
   title: Perdido Street Station
 plan:
   date_added: '2018-02-19'

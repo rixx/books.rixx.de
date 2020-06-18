@@ -9,6 +9,8 @@ book:
   pages: '312'
   publication_year: '2009'
   slug: the-city-the-city
+  tags:
+  - fantasy
   title: The City & the City
 plan:
   date_added: '2018-09-02'

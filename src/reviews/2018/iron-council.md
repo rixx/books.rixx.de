@@ -11,6 +11,8 @@ book:
   series: New Crobuzon
   series_position: '3'
   slug: iron-council
+  tags:
+  - fantasy
   title: Iron Council
 plan:
   date_added: '2018-07-24'

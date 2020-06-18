@@ -13,6 +13,7 @@ book:
   slug: speaker-for-the-dead
   tags:
   - scifi
+  - space-monks
   title: Speaker for the Dead
 plan:
   date_added: '2015-04-09'

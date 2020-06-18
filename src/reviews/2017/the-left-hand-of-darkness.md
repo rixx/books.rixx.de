@@ -11,6 +11,7 @@ book:
   slug: the-left-hand-of-darkness
   tags:
   - scifi
+  - space-monks
   title: The Left Hand of Darkness
 plan:
   date_added: '2016-10-13'
