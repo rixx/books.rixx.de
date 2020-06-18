@@ -29,7 +29,7 @@ device got boring and even annoying when I read most of the Miss Marple books in
 works very well.
 
 After reading this book [and a Poirot
-one](https://books.rixx.de/reviews/2020/the-mysterious-affair-at-styles-hercule-poirot-1) back to back, my current
+one](https://books.rixx.de/reviews/2020/the-mysterious-affair-at-styles) back to back, my current
 preference of the [Detection Club](https://en.wikipedia.org/wiki/Detection_Club) era that I've read is: Dorothy Sayers,
 Agatha Christie, Arthur Conan Doyle, Chesterton. And I think it's no accident that female writers are leading my list:
 First off, to be recognised as a good writer as a woman you had to perform to higher standards than men, of course. But

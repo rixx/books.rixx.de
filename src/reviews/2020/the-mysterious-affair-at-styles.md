@@ -10,7 +10,7 @@ book:
   publication_year: '1920'
   series: Hercule Poirot
   series_position: 1
-  slug: the-mysterious-affair-at-styles-hercule-poirot-1
+  slug: the-mysterious-affair-at-styles
   tags:
   - mystery
   title: The Mysterious Affair at Styles
