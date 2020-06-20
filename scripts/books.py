@@ -164,6 +164,7 @@ class Review:
     def edit(self):
         subprocess.check_call([os.environ.get("EDITOR", "vim"), self.path])
         self._load_data_from_file()
+        self.save()
 
     def clean(self):
         if not self.metadata["book"].get("slug"):
