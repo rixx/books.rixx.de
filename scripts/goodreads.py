@@ -105,11 +105,14 @@ def get_book_data_from_xml(book):
     )
     title_series = book.find("title").text
     try:
-        data["title"] = book.find("title_without_series").text
+        data["title"] = book.find("work").find("original_title").text
     except Exception:
-        data["title"] = title_series
+        try:
+            data["title"] = book.find("title_without_series").text
+        except Exception:
+            data["title"] = title_series
     if data["title"] != title_series:
-        series_with_position = title_series[len(data["title"]) :].strip(" ()")
+        series_with_position = title_series.rsplit("(", maxsplit=1)[-1].strip(" ()")
         if "#" in series_with_position:
             series, series_position = series_with_position.split("#", maxsplit=1)
         elif "Book" in series_with_position:
