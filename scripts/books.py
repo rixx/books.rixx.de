@@ -293,7 +293,13 @@ class Review:
         for provider in order:
             result = getattr(self, f"find_{provider}_cover")(force_new=force_new)
             if result is not False:
+                self.show_cover()
                 return result
+
+    def show_cover(self):
+        subprocess.check_call(
+            ["xdg-open", Path("src/covers") / self.metadata["book"]["cover_image"]]
+        )
 
 
 def _load_entries(dirpath):
@@ -412,6 +418,9 @@ def create_book(auth, search_term=None):
     review = Review(metadata=metadata, text="", entry_type=entry_type)
     if review.metadata["book"]["cover_image_url"]:
         review.download_cover()
+        review.show_cover()
+        if not inquirer.list_input(message="Cover ok?", choices=(True, False), carousel=True):
+            review.find_cover()
     else:
         review.find_cover()
     review.save()
@@ -534,14 +543,12 @@ def _change_cover(review, push_to_goodreads, auth):
     if source == "manually":
         url = inquirer.text(message="Cover image URL")
         review.download_cover(url, force_new=True)
+        review.show_cover()
     else:
         review.find_cover(source, force_new=True)
     if review.metadata["book"]["cover_image_url"] != old_cover_url:
         click.echo(click.style("Successfully downloaded new cover image!", fg="green"))
         review.save()
-        subprocess.check_call(
-            ["xdg-open", Path("src/covers") / review.metadata["book"]["cover_image"]]
-        )
     else:
         click.echo(click.style("Couldn't find a new cover, sorry!", fg="red"))
 
