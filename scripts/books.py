@@ -420,7 +420,7 @@ def create_book(auth, search_term=None):
         review.download_cover()
         review.show_cover()
         if not inquirer.list_input(message="Cover ok?", choices=(True, False), carousel=True):
-            review.find_cover()
+            review.find_cover(force_new=True)
     else:
         review.find_cover()
     review.save()
