@@ -12,36 +12,57 @@
 
 <div id="stats">
   <div id="book-stats" class="stats">
-    <svg style="width: {{ 23 * 18 }}px; height: {{ 13 * 18 }}px">
+    <svg style="width: {{ 25 * 18 }}px; height: {{ 23 * 18 }}px">
       {% for year in stats %}
-        {% set column = loop.index %}
+        {% set row = loop.index %}
+        <text
+          x="0"
+          y="{{ (row - 1) * 18 + 12 }}"
+        >
+          {{ year.year }}
+        </text>
         {% for month in year.months %}
         <rect
             width="15"
             height="15"
-            x="{{ (column - 1) * 18 }}"
-            y="{{ loop.index * 18 }}"
+            x="{{ loop.index * 18 + 27 }}"
+            y="{{ (row - 1) * 18 }}"
             fill="{% if month.total_books %}rgba(153,0,0, {{ (month.total_books + 1) / (most_books) }}){% else %}#ebedf0{% endif %}"
             class="month"
-            data-title="{{ month.date }}"
           >
           <title>{{ month.date }}: {{ month.total_books }} books</title>
         </rect>
         {% endfor %}
+        <rect
+          width="{{ year.total_books }}"
+          height="15"
+          x="{{ (12 + 1) * 18 + 27 }}"
+          y="{{ (row - 1) * 18 }}"
+          fill="rgba(0,113,113,0.42)"
+          class="total"
+        >
+          <title>{{ year.year }}: {{ year.total_books }} books</title>
+        </rect>
       {% endfor %}
     </svg>
   </div>
 
   <div id="page-stats" class="stats">
-    <svg style="width: {{ 23 * 18 }}px; height: {{ 13 * 18 }}px">
+    <svg style="width: {{ 25 * 18 }}px; height: {{ 23 * 18 }}px">
       {% for year in stats %}
-        {% set column = loop.index %}
+        {% set row = loop.index %}
+        <text
+          x="0"
+          y="{{ (row - 1) * 18 + 12 }}"
+        >
+          {{ year.year }}
+        </text>
         {% for month in year.months %}
         <rect
             width="15"
             height="15"
-            x="{{ (column - 1) * 18 }}"
-            y="{{ loop.index * 18 }}"
+            x="{{ loop.index * 18 + 27 }}"
+            y="{{ (row - 1) * 18 }}"
             fill="{% if month.total_pages %}rgba(0, 113, 113, {{ (month.total_pages + 1000) / (most_pages) }}){% else %}#ebedf0{% endif %}"
             class="month"
             data-title="{{ month.date }}"
@@ -49,6 +70,16 @@
           <title>{{ month.date }}: {{ month.total_pages }} pages</title>
         </rect>
         {% endfor %}
+        <rect
+          width="{{ year.total_pages / 350 }}"
+          height="15"
+          x="{{ (12 + 1) * 18 + 27 }}"
+          y="{{ (row - 1) * 18 }}"
+          fill="rgba(153,0,0,0.42)"
+          class="total"
+        >
+          <title>{{ year.year }}: {{ year.total_pages }} pages</title>
+        </rect>
       {% endfor %}
     </svg>
   </div>

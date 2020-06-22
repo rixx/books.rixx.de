@@ -322,7 +322,7 @@ def build_site(**kwargs):
     most_books = 0
     most_pages = 0
     stats = []
-    for year in all_years[::-1]:
+    for year in all_years:
         total_pages = 0
         total_books = 0
         months = []
