@@ -386,10 +386,7 @@ def create_book(auth, search_term=None):
     )
     entry_type = inquirer.list_input(
         message="What type of book is this?",
-        choices=[
-            ("One I’ve read", "reviews"),
-            ("One I want to read", "to-read"),
-        ],
+        choices=[("One I’ve read", "reviews"), ("One I want to read", "to-read"),],
         carousel=True,
     )
 
@@ -410,7 +407,9 @@ def create_book(auth, search_term=None):
     if review.metadata["book"]["cover_image_url"]:
         review.download_cover()
         review.show_cover()
-        if not inquirer.list_input(message="Cover ok?", choices=(True, False), carousel=True):
+        if not inquirer.list_input(
+            message="Cover ok?", choices=(True, False), carousel=True
+        ):
             review.find_cover(force_new=True)
     else:
         review.find_cover()
