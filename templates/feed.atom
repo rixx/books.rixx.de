@@ -18,14 +18,6 @@
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
       <content type="html">I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | e }}</content>
     </entry>
-    {%- elif event.entry_type == "currently-reading" -%}
-    <entry>
-      <title>{{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/reading" rel="alternate"/>
-      <id>urn:uuid:{{ event.feed_uuid }}</id>
-      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <content type="html">I started reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | e }}</content>
-    </entry>
     {%- else -%}
     <entry>
       <title>{{ event.metadata.book.title }}</title>

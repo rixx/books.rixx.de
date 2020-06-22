@@ -102,7 +102,7 @@ def import_books():
         entry_type = {
             "read": "reviews",
             "to-read": "to-read",
-            "currently-reading": "currently-reading",
+            "currently-reading": "to-read",
         }[book["name"]]
         review = Review(metadata=metadata, text=text, entry_type=entry_type)
         review.download_cover()

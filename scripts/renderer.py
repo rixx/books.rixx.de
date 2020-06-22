@@ -35,8 +35,6 @@ def render_date(date_value):
 def get_relevant_date(review):
     if review.entry_type == "reviews":
         result = review.metadata["review"]["date_read"]
-    elif review.entry_type == "currently-reading":
-        result = review.metadata["review"]["date_started"]
     else:
         result = review.metadata["plan"]["date_added"]
     if isinstance(result, dt.date):
@@ -148,15 +146,13 @@ def build_site(**kwargs):
 
     this_year = dt.datetime.now().year
     all_reviews = list(books.load_reviews())
-    all_reading = list(books.load_currently_reading())
     all_plans = list(books.load_to_read())
-    all_events = all_plans + all_reading + all_reviews
+    all_events = all_plans + all_reviews
 
     for element in all_events:
         element.relevant_date = get_relevant_date(element)
 
     all_reviews = sorted(all_reviews, key=lambda x: x.relevant_date, reverse=True)
-    all_reading = sorted(all_reading, key=lambda x: x.relevant_date, reverse=True)
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
     all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
 
@@ -292,16 +288,6 @@ def build_site(**kwargs):
         title="Books by series",
         active="read",
         year="by-series",
-    )
-
-    # Render the "currently reading" page
-
-    render(
-        "list_reading.html",
-        "reading/index.html",
-        all_reading=all_reading,
-        title="Books I’m currently reading",
-        active="reading",
     )
 
     # Render the "want to read" page

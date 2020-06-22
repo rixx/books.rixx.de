@@ -3,7 +3,6 @@
 This is where I valiantly try to keep track of
 
 * the [books I’ve read](/reviews/), and my opinions on them
-* what I'm [currently reading](/reading/)
 * which books [I want to read](/to-read/), and why
 * useless but fun [statistics](/stats/)
 

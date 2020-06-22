@@ -88,7 +88,7 @@ class Review:
         return self.metadata["book"].get("isbn13") or self.metadata["book"].get("isbn9")
 
     def entry_type_from_path(self):
-        valid_entry_types = ("reviews", "to-read", "currently-reading")
+        valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.name
         if entry_type not in valid_entry_types:
             entry_type = self.path.parent.parent.name
@@ -101,14 +101,12 @@ class Review:
     ):
         old_path = self.path or ""
         if entry_type != self.entry_type:
-            if entry_type not in ("reviews", "to-read", "currently-reading"):
+            if entry_type not in ("reviews", "to-read"):
                 raise Exception(f"Invalid entry_type {entry_type}")
             if entry_type == "reviews" and not self.metadata.get("review", {}).get(
                 "date_read"
             ):
                 raise Exception("Cannot become a review, no date_read provided!")
-            elif entry_type == "currently-reading":
-                self.metadata["review"]["date_started"] = dt.datetime.now().date()
             self.entry_type = entry_type
         if save:
             self.save()
@@ -122,8 +120,6 @@ class Review:
             out_dir = f"reviews/{year}"
         elif self.entry_type == "to-read":
             out_dir = "to-read"
-        else:
-            out_dir = "currently-reading"
         return Path(out_dir) / self.metadata["book"]["slug"]
 
     def get_path(self):
@@ -311,10 +307,6 @@ def load_reviews():
     return _load_entries(dirpath="src/reviews")
 
 
-def load_currently_reading():
-    return _load_entries(dirpath="src/currently-reading")
-
-
 def load_to_read():
     return _load_entries(dirpath="src/to-read")
 
@@ -396,7 +388,6 @@ def create_book(auth, search_term=None):
         message="What type of book is this?",
         choices=[
             ("One I’ve read", "reviews"),
-            ("One I’m currently reading", "currently-reading"),
             ("One I want to read", "to-read"),
         ],
         carousel=True,
@@ -501,14 +492,6 @@ def _change_rating(review, push_to_goodreads, auth):
         goodreads.push_to_goodreads(review=review, auth=auth)
 
 
-def _change_to_currently_reading(review, push_to_goodreads, auth):
-    review_data = review.metadata.get("review") or {}
-    review_data["date_started"] = dt.datetime.now().date()
-    review.change_entry_type(
-        "currently-reading", save=True, push_to_goodreads=push_to_goodreads, auth=auth
-    )
-
-
 def _change_to_tbr(review, push_to_goodreads, auth):
     review.change_entry_type(
         "to-read", save=True, push_to_goodreads=push_to_goodreads, auth=auth
@@ -560,7 +543,6 @@ def change_book(auth):
             message="What do you want to do with this book?",
             choices=[
                 ("Rate and review", "rating"),
-                ("Mark as currently reading", "to_currently_reading"),
                 ("Mark as to be read", "to_tbr"),
                 ("Remove from library", "remove"),
                 ("Edit manually", "manually"),
