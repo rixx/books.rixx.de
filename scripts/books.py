@@ -144,6 +144,21 @@ class Review:
         if save:
             self.save()
 
+    def update_tags(self):
+        available_tags = sorted([path.stem for path in Path("src/tags").glob("*.md")])
+        current_tags = self.metadata["book"].get("tags", [])
+
+        self.metadata["book"]["tags"] = inquirer.prompt(
+            [
+                inquirer.Checkbox(
+                    name="tags",
+                    message=f"Tags to apply to {self.metadata['book']['title']}",
+                    choices=available_tags,
+                    default=current_tags,
+                ),
+            ]
+        )["tags"]
+
     def save(self):
         self.clean()
         current_path = self.get_path()
@@ -404,6 +419,7 @@ def create_book(auth, search_term=None):
             metadata["review"]["did_not_finish"] = True
 
     review = Review(metadata=metadata, text="", entry_type=entry_type)
+    review.update_tags()
     if review.metadata["book"]["cover_image_url"]:
         review.download_cover()
         review.show_cover()
@@ -483,6 +499,7 @@ def get_review_from_user(auth=None):
 
 def _change_rating(review, push_to_goodreads, auth):
     review.metadata["review"] = get_review_info(review)
+    review.update_tags()
     review.change_entry_type(
         "reviews", save=True, push_to_goodreads=push_to_goodreads, auth=auth
     )
