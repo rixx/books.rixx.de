@@ -128,6 +128,149 @@ def median_year(reviews):
     return int(statistics.median(years))
 
 
+def xml_element(name, content, **kwargs):
+    attribs = " ".join(
+        f'{key.strip("_").replace("_", "-")}="{value}"' for key, value in kwargs.items()
+    ).strip()
+    attribs = f" {attribs}" if attribs else ""
+    content = content or ""
+    return f"<{name}{attribs}>{content}</{name}>"
+
+
+def generate_svg(
+    data, key, max_month, max_year, primary_color, secondary_color, offset
+):
+    current_year = dt.datetime.now().year
+    fallback_color = "#ebedf0"
+    content = ""
+    year_width = 45
+    rect_width = 15
+    gap = 3
+    block_width = rect_width + gap
+    stats_width = 6 * block_width
+    total_width = (block_width * 12) + year_width + stats_width
+    total_height = block_width * len(data)
+    for row, year in enumerate(data):
+        year_content = (
+            xml_element(
+                "text",
+                year["year"],
+                x=year_width - gap * 2,
+                y=row * 18 + 13,
+                width=year_width,
+                text_anchor="end",
+            )
+            + "\n"
+        )
+        for column, month in enumerate(year["months"]):
+            total = month.get(f"total_{key}")
+            title = xml_element("title", f"{month['date']}: {total}")
+            if total:
+                color = primary_color.format((total + offset) / max_month)
+            elif year["year"] == current_year:
+                continue
+            else:
+                color = fallback_color
+            rect = xml_element(
+                "rect",
+                title,
+                width=rect_width,
+                height=rect_width,
+                x=column * block_width + year_width,
+                y=row * block_width,
+                fill=color,
+                _class="month",
+            )
+            year_content += rect + "\n"
+
+        total = year.get(f"total_{key}")
+        title = xml_element("title", f"{year['year']}: {total}")
+        rect = xml_element(
+            "rect",
+            title,
+            width=total * stats_width / max_year,
+            height=rect_width,
+            x=12 * block_width + year_width,
+            y=row * block_width,
+            fill=secondary_color.format(0.42),
+            _class="total",
+        )
+        content += year_content + rect + "\n"
+
+    return xml_element(
+        "svg", content, style=f"width: {total_width}px; height: {total_height}px"
+    )
+
+
+def get_stats(reviews, years):
+    stats = {}
+    time_lookup = defaultdict(list)
+    for review in reviews:
+        key = review.relevant_date.strftime("%Y-%m")
+        time_lookup[key].append(review)
+
+    most_monthly_books = 0
+    most_monthly_pages = 0
+    most_yearly_books = 0
+    most_yearly_pages = 0
+    numbers = []
+    for year in years:
+        total_pages = 0
+        total_books = 0
+        months = []
+        for month in range(12):
+            written_month = f"{month + 1:02}"
+            written_date = f"{year}-{written_month}"
+            reviews = time_lookup[written_date]
+            book_count = len(reviews)
+            page_count = sum(
+                int(review.metadata["book"].get("pages", 0)) for review in reviews
+            )
+            total_pages += page_count
+            total_books += book_count
+            most_monthly_books = max(most_monthly_books, book_count)
+            most_monthly_pages = max(most_monthly_pages, page_count)
+            months.append(
+                {
+                    "month": written_month,
+                    "date": written_date,
+                    "total_books": book_count,
+                    "total_pages": page_count,
+                }
+            )
+        most_yearly_books = max(most_yearly_books, total_books)
+        most_yearly_pages = max(most_yearly_pages, total_pages)
+        numbers.append(
+            {
+                "year": year,
+                "months": months,
+                "total_pages": total_pages,
+                "total_books": total_books,
+            }
+        )
+
+    stats["pages"] = generate_svg(
+        numbers,
+        "pages",
+        max_month=most_monthly_pages,
+        max_year=most_yearly_pages,
+        primary_color="rgba(0, 113, 113, {})",
+        secondary_color="rgba(153, 0, 0, {})",
+        offset=1000,
+    )
+    stats["books"] = generate_svg(
+        numbers,
+        "books",
+        max_month=most_monthly_books,
+        max_year=most_yearly_books,
+        primary_color="rgba(153, 0, 0, {})",
+        secondary_color="rgba(0, 113, 113, {})",
+        offset=1,
+    )
+
+    return stats
+
+
 def build_site(**kwargs):
     env = Environment(
         loader=FileSystemLoader("templates"),
@@ -314,48 +457,9 @@ def build_site(**kwargs):
     )
 
     # Render stats page
-    time_lookup = defaultdict(list)
-    for review in all_reviews:
-        key = review.relevant_date.strftime("%Y-%m")
-        time_lookup[key].append(review)
 
-    most_books = 0
-    most_pages = 0
-    stats = []
-    for year in all_years:
-        total_pages = 0
-        total_books = 0
-        months = []
-        for month in range(12):
-            written_month = f"{month + 1:02}"
-            written_date = f"{year}-{written_month}"
-            reviews = time_lookup[written_date]
-            book_count = len(reviews)
-            page_count = sum(
-                int(review.metadata["book"].get("pages", 0)) for review in reviews
-            )
-            total_pages += page_count
-            total_books += book_count
-            most_books = max(most_books, book_count)
-            most_pages = max(most_pages, page_count)
-            months.append(
-                {
-                    "month": written_month,
-                    "date": written_date,
-                    "total_books": book_count,
-                    "total_pages": page_count,
-                }
-            )
-        stats.append(
-            {
-                "year": year,
-                "months": months,
-                "total_pages": total_pages,
-                "total_books": total_books,
-            }
-        )
-
-    table = [
+    stats = get_stats(reviews=all_reviews, years=all_years)
+    stats["table"] = [
         ("Total books read", len(all_reviews)),
         ("Reading pile", len(all_plans)),
         ("Books without review", len([b for b in all_reviews if not b.text.strip()])),
@@ -376,14 +480,8 @@ def build_site(**kwargs):
         ("Median publication year (reviews)", median_year(all_reviews)),
         ("Median publication year (reading pile)", median_year(all_plans)),
     ]
-
     render(
-        "stats.html",
-        "stats/index.html",
-        stats=stats,
-        most_books=most_books,
-        most_pages=most_pages,
-        table=table,
+        "stats.html", "stats/index.html", stats=stats,
     )
 
     print("✨ Rendered HTML files to _html ✨")

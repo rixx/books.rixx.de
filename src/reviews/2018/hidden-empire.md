@@ -13,6 +13,7 @@ book:
   slug: hidden-empire
   tags:
   - scifi
+  - fantasy
   title: Hidden Empire
 plan:
   date_added: '2018-02-18'
