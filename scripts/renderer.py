@@ -64,7 +64,11 @@ def render_feed(events, path, render):
 
 def render_tag_page(tag, reviews, render):
     render(
-        "tag.html", f"lists/{tag.slug}/index.html", tag=tag, reviews=reviews,
+        "tag.html",
+        f"lists/{tag.slug}/index.html",
+        tag=tag,
+        reviews=reviews,
+        active="lists",
     )
 
 
@@ -512,6 +516,6 @@ def build_site(**kwargs):
         "stats.html", "stats/index.html", stats=stats,
     )
 
-    render("tags.html", "lists/index.html", tags=tags)
+    render("tags.html", "lists/index.html", tags=tags, active="lists")
 
     print("✨ Rendered HTML files to _html ✨")
