@@ -13,6 +13,7 @@ book:
   slug: hyperion
   tags:
   - scifi
+  - space-monks
   title: Hyperion
 plan:
   date_added: '2017-02-01'

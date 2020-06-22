@@ -11,6 +11,7 @@ book:
   slug: the-last-starship-from-earth
   tags:
   - scifi
+  - space-monks
   title: The Last Starship from Earth
 plan:
   date_added: 2020-06-09

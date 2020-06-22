@@ -11,6 +11,7 @@ book:
   slug: ancillary-justice
   tags:
   - scifi
+  - space-monks
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'
