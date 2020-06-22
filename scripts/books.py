@@ -57,6 +57,14 @@ def get_date(prompt, default):
             click.echo(click.style(f"Unrecognised date: {date}", fg="red"))
 
 
+class Tag:
+    def __init__(self, name):
+        data = frontmatter.load(f"src/tags/{name}.md")
+        self.metadata = data.metadata
+        self.text = data.content
+        self.slug = name
+
+
 class Review:
     def __init__(self, entry_type=None, metadata=None, text=None, path=None):
         self.entry_type = entry_type

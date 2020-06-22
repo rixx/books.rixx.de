@@ -9,6 +9,7 @@ import uuid
 from collections import defaultdict
 from functools import partial
 
+import frontmatter
 import markdown
 import smartypants
 from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -59,6 +60,12 @@ def render_feed(events, path, render):
         event.feed_uuid = str(uuid.UUID(m.hexdigest()))
 
     render("feed.atom", path, events=events)
+
+
+def render_tag_page(tag, reviews, render):
+    render(
+        "tag.html", f"lists/{tag.slug}/index.html", tag=tag, reviews=reviews,
+    )
 
 
 def _create_new_thumbnail(src_path, dst_path):
@@ -298,6 +305,7 @@ def build_site(**kwargs):
     all_reviews = sorted(all_reviews, key=lambda x: x.relevant_date, reverse=True)
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
     all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
+    tags = defaultdict(list)
 
     # Render single review pages
 
@@ -309,6 +317,26 @@ def build_site(**kwargs):
             title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
+        for tag in review.metadata["book"].get("tags", []):
+            tags[tag].append(review)
+
+    tags = {
+        books.Tag(tag): sorted(
+            tags[tag],
+            key=lambda rev: (
+                rev.metadata["book"]["author"],
+                rev.metadata["book"].get("series", ""),
+                float(rev.metadata["book"].get("series_position", 0)),
+                rev.metadata["book"]["title"],
+            ),
+        )
+        for tag in sorted(tags.keys())
+    }
+
+    # Render tag pages
+
+    for tag, reviews in tags.items():
+        render_tag_page(tag, reviews, render)
 
     # Render the "all reviews" page
 
@@ -483,5 +511,7 @@ def build_site(**kwargs):
     render(
         "stats.html", "stats/index.html", stats=stats,
     )
+
+    render("tags.html", "lists/index.html", tags=tags)
 
     print("✨ Rendered HTML files to _html ✨")

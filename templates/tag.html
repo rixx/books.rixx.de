@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>List: {{ tag.metadata.title or tag.slug }}</h1>
+
+<section>
+
+{{ tag.text|render_markdown }}
+
+</section>
+<hr>
+
+<section>
+<ul>
+  {% for review in reviews %}
+  <li>
+    <a href="/{{ review.get_core_path() }}">{{ review.metadata.book.title }}</a>
+    by {{ review.metadata.book.author }}
+    {% if review.metadata.book.series %} ({{ review.metadata.book.series }} #{{ review.metadata.book.series_position }}){% endif %}
+  </li>
+  {% endfor %}
+</ul>
+</section>
+{% endblock %}

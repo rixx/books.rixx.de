@@ -6,7 +6,7 @@ import click
 import inquirer
 from rauth.service import OAuth1Service
 
-from .books import change_book, create_book, change_tags
+from .books import change_book, change_tags, create_book
 from .goodreads import get_shelves
 from .renderer import build_site
 
