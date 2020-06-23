@@ -328,6 +328,7 @@ def build_site(**kwargs):
         books.Tag(tag): sorted(
             tags[tag],
             key=lambda rev: (
+                5 - (rev.metadata["review"]["rating"] or 5),
                 rev.metadata["book"]["author"],
                 rev.metadata["book"].get("series", ""),
                 float(rev.metadata["book"].get("series_position", 0)),

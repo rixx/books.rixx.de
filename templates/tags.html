@@ -17,11 +17,25 @@
 
 <section>
 <ul>
-  {% for tag, reviews in tags.items() %}
+  {% for tag, reviews in tags.items() %}{% if not tag.metadata.boring %}
   <li>
     <a href="/lists/{{ tag.slug }}">{{ tag.metadata.title or tag.slug }}</a> ({{ reviews|length }} books)
   </li>
-  {% endfor %}
+  {% endif %}{% endfor %}
+</ul>
+</section>
+<section>
+  <h2>Boring Lists</h2>
+
+  These lists are either so large or at least so thematically broad that they are mostly useful if you're
+  browsing for something to read. Books are sorted by rating, but it's still tricky to find anything in these:
+
+<ul>
+  {% for tag, reviews in tags.items() %}{% if tag.metadata.boring %}
+  <li>
+    <a href="/lists/{{ tag.slug }}">{{ tag.metadata.title or tag.slug }}</a> ({{ reviews|length }} books)
+  </li>
+  {% endif %}{% endfor %}
 </ul>
 </section>
 {% endblock %}
