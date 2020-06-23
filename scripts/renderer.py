@@ -193,7 +193,10 @@ def generate_svg(
                 fill=color,
                 _class="month",
             )
-            year_content += rect + "\n"
+            year_content += (
+                xml_element("a", rect, href=f"/reviews/{year['year']}/#{month['date']}")
+                + "\n"
+            )
 
         total = year.get(f"total_{key}")
         title = xml_element("title", f"{year['year']}: {total}")
