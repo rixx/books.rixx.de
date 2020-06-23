@@ -1,0 +1,4 @@
+---
+title: Psychology
+boring: true
+---

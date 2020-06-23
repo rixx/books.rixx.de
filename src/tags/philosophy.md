@@ -1,0 +1,5 @@
+---
+title: Philosophy
+boring: true
+---
+
