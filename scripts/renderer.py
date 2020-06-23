@@ -69,6 +69,7 @@ def render_tag_page(tag, reviews, render):
         tag=tag,
         reviews=reviews,
         active="lists",
+        title="List: " + (tag.metadata.get("title") or tag.slug),
     )
 
 
