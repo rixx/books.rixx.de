@@ -11,10 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '2'
   slug: the-weed-that-strings-the-hangmans-bag
-  tags:
-  - historical-fiction
-  - mystery
-  - ya
+  tags: []
   title: The Weed That Strings the Hangman's Bag
 plan:
   date_added: '2017-11-23'

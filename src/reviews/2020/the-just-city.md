@@ -14,6 +14,7 @@ book:
   tags:
   - fanfic
   - fantasy
+  - myths-legends
   title: The Just City
 plan:
   date_added: '2019-09-28'

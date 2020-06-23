@@ -11,10 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '5'
   slug: speaking-from-among-the-bones
-  tags:
-  - historical-fiction
-  - mystery
-  - ya
+  tags: []
   title: Speaking from Among the Bones
 plan:
   date_added: '2017-11-25'

@@ -11,10 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '7'
   slug: as-chimney-sweepers-come-to-dust
-  tags:
-  - historical-fiction
-  - mystery
-  - ya
+  tags: []
   title: As Chimney Sweepers Come to Dust
 plan:
   date_added: '2017-11-26'

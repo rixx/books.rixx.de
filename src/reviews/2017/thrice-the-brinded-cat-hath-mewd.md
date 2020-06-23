@@ -11,10 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '8'
   slug: thrice-the-brinded-cat-hath-mewd
-  tags:
-  - historical-fiction
-  - mystery
-  - ya
+  tags: []
   title: Thrice the Brinded Cat Hath Mew'd
 plan:
   date_added: '2017-11-28'

@@ -11,6 +11,7 @@ book:
   slug: babel-17
   tags:
   - scifi
+  - language
   title: Babel-17
 plan:
   date_added: '2018-02-18'

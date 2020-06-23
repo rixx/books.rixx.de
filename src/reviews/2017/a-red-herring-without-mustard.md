@@ -11,10 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '3'
   slug: a-red-herring-without-mustard
-  tags:
-  - historical-fiction
-  - mystery
-  - ya
+  tags: []
   title: A Red Herring Without Mustard
 plan:
   date_added: '2017-11-25'
