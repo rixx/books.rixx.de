@@ -61,6 +61,17 @@
       <th>{{ review.metadata.book.pages }}</th>
     </tr>
     {% endif %}
+    {% if review.metadata.book.tags %}
+    <tr>
+      <td>lists:</td>
+      <th>
+        {% for tag in review.metadata.book.tags %}
+          <a href="/lists/{{ tag }}/">{{ tag }}</a>
+          {{ ", " if not loop.last }}
+        {% endfor %}
+      </th>
+    </tr>
+    {% endif %}
     {% if review.metadata.review.rating %}
     <tr>
       <td>rating:</td>
