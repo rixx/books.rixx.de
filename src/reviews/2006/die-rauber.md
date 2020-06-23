@@ -2,7 +2,7 @@
 book:
   author: Friedrich Schiller
   cover_image: die-rauber.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652399l/942336.jpg
+  cover_image_url: http://books.google.com/books/content?id=PO7kAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   goodreads: '942336'
   isbn10: '3150000157'
   isbn13: '9783150000151'
