@@ -9,7 +9,6 @@ import uuid
 from collections import defaultdict
 from functools import partial
 
-import frontmatter
 import markdown
 import smartypants
 from jinja2 import Environment, FileSystemLoader, select_autoescape

@@ -105,7 +105,7 @@ class Review:
         return entry_type
 
     def change_entry_type(
-        self, entry_type, save=True, push_to_goodreads=False, auth=None
+        self, entry_type, save=True, push_to_goodreads=False,
     ):
         old_path = self.path or ""
         if entry_type != self.entry_type:
@@ -119,7 +119,7 @@ class Review:
         if save:
             self.save()
         if push_to_goodreads:
-            goodreads.change_shelf(review=self, auth=auth)
+            goodreads.change_shelf(review=self)
         subprocess.check_call(["git", "add", self.path, old_path])
 
     def get_core_path(self):
@@ -400,7 +400,7 @@ def get_review_info(review=None):
     }
 
 
-def create_book(auth, search_term=None):
+def create_book(search_term=None):
     choice = inquirer.list_input(
         "Do you want to get the book data from Goodreads, or input it manually?",
         choices=["goodreads", "manually"],
@@ -416,7 +416,7 @@ def create_book(auth, search_term=None):
     metadata = {
         "book": get_book_from_input()
         if choice == "manually"
-        else goodreads.get_book_from_goodreads(auth=auth, search_term=search_term)
+        else goodreads.get_book_from_goodreads(search_term=search_term)
     }
     if entry_type == "reviews":
         review_info = get_review_info()
@@ -450,7 +450,7 @@ def create_book(auth, search_term=None):
 
     if push_to_goodreads:
         review = Review(path=review.path)  # need to reload
-        goodreads.push_to_goodreads(review, auth=auth)
+        goodreads.push_to_goodreads(review)
 
     subprocess.check_call(
         [
@@ -462,7 +462,7 @@ def create_book(auth, search_term=None):
     )
 
 
-def get_review_from_user(auth=None):
+def get_review_from_user():
     review = None
     while not review:
         original_search = inquirer.text(message="What's the book called?")
@@ -477,7 +477,7 @@ def get_review_from_user(auth=None):
                 choices=[("New book", "new"), ("Continue", "continue")],
             )
             if progress == "new":
-                return create_book(auth=auth, search_term=original_search)
+                return create_book(search_term=original_search)
             continue
 
         reviews = [Review(path=path) for path in files]
@@ -498,43 +498,41 @@ def get_review_from_user(auth=None):
             carousel=True,
         )
         if choice == "new":
-            return create_book(auth=auth, search_term=original_search)
+            return create_book(search_term=original_search)
         if choice == "again":
             continue
         return choice
-    return get_review_from_user(auth=auth)
+    return get_review_from_user()
 
 
-def _change_rating(review, push_to_goodreads, auth):
+def _change_rating(review, push_to_goodreads):
     review.metadata["review"] = get_review_info(review)
     review.update_tags()
-    review.change_entry_type(
-        "reviews", save=True, push_to_goodreads=push_to_goodreads, auth=auth
-    )
+    review.change_entry_type("reviews", save=True, push_to_goodreads=push_to_goodreads)
     review.edit()
     if push_to_goodreads:
-        goodreads.push_to_goodreads(review=review, auth=auth)
+        goodreads.push_to_goodreads(review=review)
 
 
-def _change_to_tbr(review, push_to_goodreads, auth):
+def _change_to_tbr(review, push_to_goodreads):
     review.change_entry_type(
-        "to-read", save=True, push_to_goodreads=push_to_goodreads, auth=auth
+        "to-read", save=True, push_to_goodreads=push_to_goodreads,
     )
 
 
-def _change_remove(review, push_to_goodreads, auth):
+def _change_remove(review, push_to_goodreads):
     review.path.unlink()
     if push_to_goodreads:
-        goodreads.remove_review(review=review, auth=auth)
+        goodreads.remove_review(review=review)
 
 
-def _change_manually(review, push_to_goodreads, auth):
+def _change_manually(review, push_to_goodreads):
     review.edit()
     if push_to_goodreads:
-        goodreads.push_to_goodreads(review=review, auth=auth)
+        goodreads.push_to_goodreads(review=review)
 
 
-def _change_cover(review, push_to_goodreads, auth):
+def _change_cover(review, push_to_goodreads):
     old_cover_url = review.metadata["book"]["cover_image_url"]
     source = inquirer.list_input(
         message="Where do you want to retrieve the cover image from?",
@@ -560,8 +558,8 @@ def _change_cover(review, push_to_goodreads, auth):
         click.echo(click.style("Couldn't find a new cover, sorry!", fg="red"))
 
 
-def change_book(auth):
-    review = get_review_from_user(auth=auth)
+def change_book():
+    review = get_review_from_user()
     while True:
         action = inquirer.list_input(
             message="What do you want to do with this book?",
@@ -579,7 +577,7 @@ def change_book(auth):
         if action == "quit":
             return
         if action == "book":
-            return change_book(auth=auth)
+            return change_book()
         push_to_goodreads = False
         if review.metadata["book"].get("goodreads") and action != "cover":
             push_to_goodreads = inquirer.list_input(
@@ -589,10 +587,10 @@ def change_book(auth):
                 carousel=True,
             )
         globals()[f"_change_{action}"](
-            review=review, push_to_goodreads=push_to_goodreads, auth=auth
+            review=review, push_to_goodreads=push_to_goodreads,
         )
         if action == "remove":
-            return change_book(auth=auth)
+            return change_book()
 
 
 def change_tags(**kwargs):

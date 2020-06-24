@@ -17,7 +17,6 @@ def cli(*lol, **trololol):
     "Interact with the data fueling books.rixx.de"
     if len(sys.argv) > 1:
         return
-    auth_data = json.load(open("auth.json"))  # no customising here, sorry
     inquirer.list_input(
         message="What do you want to do?",
         choices=(
@@ -26,19 +25,13 @@ def cli(*lol, **trololol):
             ("Tag books", change_tags),
             ("Build the site", build_site),
         ),
-    )(auth=auth_data)
+    )()
 
 
 @cli.command()
-@click.option(
-    "-a",
-    "--auth",
-    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
-    default="auth.json",
-    help="Path to save tokens to, defaults to ./auth.json.",
-)
-def auth(auth):
+def auth():
     "Save authentication credentials to a JSON file"
+    auth = "auth.json"
     auth_data = {}
     if pathlib.Path(auth).exists():
         auth_data = json.load(open(auth))
@@ -107,45 +100,21 @@ def build():
 
 
 @cli.command()
-@click.option(
-    "-a",
-    "--auth",
-    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
-    default="auth.json",
-    help="Path to load goodreads credentials from, defaults to auth.json",
-)
-def new(auth):
+def new():
     """ Add a new book """
-    auth_data = json.load(open(auth))
-    create_book(auth=auth_data)
+    create_book()
 
 
 @cli.command()
-@click.option(
-    "-a",
-    "--auth",
-    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
-    default="auth.json",
-    help="Path to load goodreads credentials from, defaults to auth.json",
-)
-def add(auth):
+def add():
     """ Add a new book """
-    auth_data = json.load(open(auth))
-    create_book(auth=auth_data)
+    create_book()
 
 
 @cli.command()
-@click.option(
-    "-a",
-    "--auth",
-    type=click.Path(file_okay=True, dir_okay=False, allow_dash=False),
-    default="auth.json",
-    help="Path to load goodreads credentials from, defaults to auth.json",
-)
-def edit(auth):
+def edit():
     """ Edit a book """
-    auth_data = json.load(open(auth))
-    change_book(auth=auth_data)
+    change_book()
 
 
 @cli.command()

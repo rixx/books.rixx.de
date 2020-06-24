@@ -1,4 +1,5 @@
 import datetime as dt
+import json
 import xml.etree.ElementTree as ET
 from contextlib import suppress
 
@@ -11,7 +12,12 @@ from rauth.service import OAuth1Session
 GOODREADS_URL = "https://www.goodreads.com/"
 
 
-def get_session(auth):
+def get_auth():
+    return json.load(open("auth.json"))
+
+
+def get_session():
+    auth = get_auth()
     return OAuth1Session(
         consumer_key=auth["goodreads_developer_key"],
         consumer_secret=auth["goodreads_developer_secret"],
@@ -20,7 +26,8 @@ def get_session(auth):
     )
 
 
-def get_shelves(auth) -> dict:
+def get_shelves() -> dict:
+    auth = get_auth()
     response = requests.get(
         GOODREADS_URL + f"user/show/{auth['goodreads_user_id']}.xml",
         {"key": auth["goodreads_developer_key"]},
@@ -37,20 +44,22 @@ def get_shelves(auth) -> dict:
     return {shelf.find("name").text: shelf.find("id").text for shelf in shelves}
 
 
-def get_book_data(url, auth):
+def get_book_data(url):
+    auth = get_auth()
     response = requests.get(url, {"key": auth["goodreads_developer_key"]})
     to_root = ET.fromstring(response.content.decode())
     book = to_root.find("book")
     return get_book_data_from_xml(book)
 
 
-def get_book_from_goodreads(auth, search_term=None):
+def get_book_from_goodreads(search_term=None):
+    auth = get_auth()
     search_term = inquirer.text(
         "Give me your best Goodreads search terms – or a URL, if you have one!",
         default=None,
     )
     if "goodreads.com" in search_term:
-        return get_book_data(url=search_term.strip() + ".xml", auth=auth)
+        return get_book_data(url=search_term.strip() + ".xml")
 
     response = requests.get(
         f"{GOODREADS_URL}search/index.xml",
@@ -74,7 +83,7 @@ def get_book_from_goodreads(auth, search_term=None):
         click.style(f"Found {len(options)} possible books:", fg="green", bold=True)
     )
     book = inquirer.list_input(message="Which one did you mean?", choices=options)
-    return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml", auth=auth)
+    return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml")
 
 
 def maybe_date(value):
@@ -110,7 +119,8 @@ def get_book_data_from_xml(book):
         try:
             data["title"] = book.find("title_without_series").text
         except Exception:
-            data["title"] = title_series
+            pass
+    data["title"] = data["title"] or title_series
     if data["title"] != title_series:
         series_with_position = title_series.rsplit("(", maxsplit=1)[-1].strip(" ()")
         if "#" in series_with_position:
@@ -126,7 +136,8 @@ def get_book_data_from_xml(book):
     return data
 
 
-def get_review(review, auth):
+def get_review(review):
+    auth = get_auth()
     data = {
         "key": auth["goodreads_developer_key"],
         "user_id": auth["goodreads_user_id"],
@@ -159,7 +170,7 @@ def get_review(review, auth):
     return review_data
 
 
-def remove_review(review, auth):
+def remove_review(review):
     # Oh goodreads.
     # Both the documented version
     # response = session.delete(GOODREADS_URL + f"review/destroy.xml?id={goodreads_review['id']}")
@@ -183,8 +194,8 @@ def remove_review(review, auth):
     print()
 
 
-def change_shelf(review, auth, session=None):
-    session = session or get_session(auth)
+def change_shelf(review, session=None):
+    session = session or get_session()
     shelf_name = "read" if review.entry_type == "reviews" else review.entry_type
     response = session.post(
         f"{GOODREADS_URL}shelf/add_to_shelf.xml",
@@ -193,12 +204,12 @@ def change_shelf(review, auth, session=None):
     response.raise_for_status()
 
 
-def push_to_goodreads(review, auth):
-    goodreads_review = get_review(review, auth) or {}
+def push_to_goodreads(review):
+    goodreads_review = get_review(review) or {}
     create_review = "id" not in goodreads_review
     shelf_name = "read" if review.entry_type == "reviews" else review.entry_type
     if (not create_review) and shelf_name != goodreads_review["shelf"]:
-        change_shelf(review, auth)
+        change_shelf(review)
 
     review_text = "\n\n".join(
         paragraph.replace("\n", " ") for paragraph in review.text.split("\n\n")
@@ -221,7 +232,7 @@ def push_to_goodreads(review, auth):
     else:
         review_data["finished"] = False
 
-    session = get_session(auth)
+    session = get_session()
 
     if create_review:
         response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
