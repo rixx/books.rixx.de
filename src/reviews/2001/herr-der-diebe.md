@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453425294l/28670585._SY475_.jpg
   goodreads: '28670585'
   isbn10: '3841501974'
-  publication_year: 2000
+  publication_year: '2000'
   slug: herr-der-diebe
   tags:
   - german

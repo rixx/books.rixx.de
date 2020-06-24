@@ -4,7 +4,7 @@ book:
   cover_image: the-delirium-brief.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478673286l/32063117._SX98_.jpg
   goodreads: '32063117'
-  publication_year: null
+  publication_year: '2017'
   series: Laundry Files
   series_position: '8'
   slug: the-delirium-brief

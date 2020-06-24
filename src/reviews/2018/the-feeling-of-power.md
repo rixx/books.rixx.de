@@ -4,7 +4,7 @@ book:
   goodreads: '1931795'
   isbn10: '9998070015'
   isbn13: '9789998070011'
-  publication_year: null
+  publication_year: '1958'
   slug: the-feeling-of-power
   tags:
   - scifi

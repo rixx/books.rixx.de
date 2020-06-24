@@ -7,7 +7,7 @@ book:
   isbn10: 0441002846
   isbn13: '9780441002849'
   pages: '419'
-  publication_year: '1995'
+  publication_year: '1994'
   series: The Academy
   series_position: '1'
   slug: the-engines-of-god

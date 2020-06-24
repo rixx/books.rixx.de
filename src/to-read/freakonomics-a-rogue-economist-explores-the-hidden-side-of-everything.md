@@ -7,7 +7,7 @@ book:
   isbn10: '0061234001'
   isbn13: '9780061234002'
   pages: '320'
-  publication_year: '2006'
+  publication_year: '2005'
   slug: freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything
   title: 'Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'
 plan:

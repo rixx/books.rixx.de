@@ -7,7 +7,7 @@ book:
   isbn10: 0753817594
   isbn13: '9780753817599'
   pages: '256'
-  publication_year: '2004'
+  publication_year: '1998'
   series: Erast Fandorin Mysteries
   series_position: '1'
   slug: the-winter-queen

@@ -7,7 +7,7 @@ book:
   isbn10: '0061020672'
   isbn13: '9780061020674'
   pages: '276'
-  publication_year: '2008'
+  publication_year: '1988'
   series: Discworld
   series_position: '5'
   slug: sourcery

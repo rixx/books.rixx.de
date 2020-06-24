@@ -7,7 +7,7 @@ book:
   isbn10: 0812579844
   isbn13: '9780812579840'
   pages: '416'
-  publication_year: '2003'
+  publication_year: '2002'
   series: Golden Age
   series_position: '1'
   slug: the-golden-age

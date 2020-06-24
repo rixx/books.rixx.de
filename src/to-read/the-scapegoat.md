@@ -7,7 +7,7 @@ book:
   isbn10: 0385047258
   isbn13: '9780385047258'
   pages: '348'
-  publication_year: '1985'
+  publication_year: '1957'
   slug: the-scapegoat
   title: The Scapegoat
 plan:

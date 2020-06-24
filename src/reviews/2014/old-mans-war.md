@@ -7,7 +7,7 @@ book:
   isbn10: 0765348276
   isbn13: '9780765348272'
   pages: '355'
-  publication_year: '2007'
+  publication_year: '2005'
   series: Old Man's War
   series_position: '1'
   slug: old-mans-war

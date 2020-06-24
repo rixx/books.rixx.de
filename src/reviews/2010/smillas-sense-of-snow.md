@@ -7,7 +7,7 @@ book:
   isbn10: 0385315147
   isbn13: '9780385315142'
   pages: '469'
-  publication_year: '1995'
+  publication_year: '1992'
   slug: smillas-sense-of-snow
   tags:
   - german

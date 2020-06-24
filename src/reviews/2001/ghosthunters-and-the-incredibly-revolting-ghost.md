@@ -7,7 +7,7 @@ book:
   isbn10: 0439849586
   isbn13: '9780439849586'
   pages: '144'
-  publication_year: '2006'
+  publication_year: '1993'
   series: Ghosthunters
   series_position: '1'
   slug: ghosthunters-and-the-incredibly-revolting-ghost

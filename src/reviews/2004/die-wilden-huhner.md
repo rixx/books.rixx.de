@@ -6,7 +6,7 @@ book:
   goodreads: '366121'
   isbn10: '3791504452'
   isbn13: '9783791504452'
-  publication_year: null
+  publication_year: '1993'
   series: Die Wilden Hühner
   series_position: '1'
   slug: die-wilden-huhner

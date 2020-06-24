@@ -7,11 +7,11 @@ book:
   isbn10: 0684826356
   isbn13: '9780684826356'
   pages: '230'
-  publication_year: '1995'
+  publication_year: '1963'
   slug: the-reawakening
-  title: The Reawakening
   tags:
   - history
+  title: The Reawakening
 plan:
   date_added: '2020-04-15'
 review:

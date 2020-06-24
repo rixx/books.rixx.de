@@ -7,7 +7,7 @@ book:
   isbn10: 0812550757
   isbn13: '9780812550757'
   pages: '382'
-  publication_year: '1994'
+  publication_year: '1986'
   series: Ender’s Saga
   series_position: '2'
   slug: speaker-for-the-dead

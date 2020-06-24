@@ -7,7 +7,7 @@ book:
   isbn10: '0671540661'
   isbn13: '9780671540661'
   pages: '262'
-  publication_year: '1984'
+  publication_year: '1980'
   series: The Book of the New Sun
   series_position: '1'
   slug: the-shadow-of-the-torturer

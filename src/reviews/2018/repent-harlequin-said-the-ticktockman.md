@@ -6,7 +6,7 @@ book:
   goodreads: '90629'
   isbn10: '1887424350'
   isbn13: '9781887424356'
-  publication_year: '1997'
+  publication_year: '1965'
   slug: repent-harlequin-said-the-ticktockman
   tags:
   - scifi

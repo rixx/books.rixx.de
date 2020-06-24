@@ -7,7 +7,7 @@ book:
   isbn10: 0061186422
   isbn13: '9780061186424'
   pages: '260'
-  publication_year: null
+  publication_year: '2007'
   slug: m-is-for-magic
   tags:
   - fantasy

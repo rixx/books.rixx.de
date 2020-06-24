@@ -6,7 +6,7 @@ book:
   goodreads: '2978113'
   isbn10: '3407784325'
   isbn13: '9783407784322'
-  publication_year: null
+  publication_year: '1982'
   slug: ein-trummersommer
   tags:
   - german

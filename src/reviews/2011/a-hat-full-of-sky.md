@@ -7,7 +7,7 @@ book:
   isbn10: 055255264X
   isbn13: '9780552552646'
   pages: '352'
-  publication_year: '2005'
+  publication_year: '2004'
   series: Discworld
   series_position: '32'
   slug: a-hat-full-of-sky

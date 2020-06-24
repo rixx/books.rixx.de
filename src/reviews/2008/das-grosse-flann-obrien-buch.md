@@ -6,7 +6,7 @@ book:
   goodreads: '6365622'
   isbn10: '3251201980'
   isbn13: '9783251201983'
-  publication_year: null
+  publication_year: '1978'
   slug: das-grosse-flann-obrien-buch
   tags:
   - german

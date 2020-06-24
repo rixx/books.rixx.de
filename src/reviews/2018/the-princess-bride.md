@@ -7,7 +7,7 @@ book:
   isbn10: 0345418263
   isbn13: '9780345418265'
   pages: '456'
-  publication_year: '2003'
+  publication_year: '1973'
   slug: the-princess-bride
   tags:
   - fantasy

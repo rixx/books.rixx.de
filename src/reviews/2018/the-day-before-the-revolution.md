@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430909906l/2506433.jpg
   goodreads: '2506433'
   pages: '20'
-  publication_year: '2007'
+  publication_year: '1974'
   slug: the-day-before-the-revolution
   tags:
   - scifi

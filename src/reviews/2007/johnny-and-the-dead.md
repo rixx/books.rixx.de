@@ -7,7 +7,7 @@ book:
   isbn10: 0060541881
   isbn13: '9780060541880'
   pages: '213'
-  publication_year: null
+  publication_year: '1993'
   series: Johnny Maxwell
   series_position: '2'
   slug: johnny-and-the-dead

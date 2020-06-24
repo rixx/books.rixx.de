@@ -7,7 +7,7 @@ book:
   isbn10: '0156001314'
   isbn13: '9780156001311'
   pages: '536'
-  publication_year: '1994'
+  publication_year: '1980'
   slug: the-name-of-the-rose
   tags:
   - german

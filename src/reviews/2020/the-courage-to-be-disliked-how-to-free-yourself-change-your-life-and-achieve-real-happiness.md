@@ -6,7 +6,7 @@ book:
   goodreads: '43306206'
   isbn10: 176063073X
   isbn13: '9781760630737'
-  publication_year: null
+  publication_year: '2013'
   slug: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness
   tags:
   - nonfiction

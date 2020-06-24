@@ -7,7 +7,7 @@ book:
   isbn10: 0006480098
   isbn13: '9780006480099'
   pages: '460'
-  publication_year: '1996'
+  publication_year: '1995'
   series: Farseer Trilogy
   series_position: '1'
   slug: assassins-apprentice

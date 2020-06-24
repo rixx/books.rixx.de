@@ -7,7 +7,7 @@ book:
   isbn10: 0060590165
   isbn13: '9780060590161'
   pages: '464'
-  publication_year: '2015'
+  publication_year: '2001'
   series: Abhorsen
   series_position: '2'
   slug: lirael

@@ -7,7 +7,7 @@ book:
   isbn10: 0007115865
   isbn13: '9780007115860'
   pages: '256'
-  publication_year: '2001'
+  publication_year: '1986'
   slug: the-songs-of-distant-earth
   tags:
   - scifi

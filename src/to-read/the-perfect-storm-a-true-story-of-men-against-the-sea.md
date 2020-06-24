@@ -7,7 +7,7 @@ book:
   isbn10: 0393337014
   isbn13: '9780393337013'
   pages: '248'
-  publication_year: '2009'
+  publication_year: '1997'
   slug: the-perfect-storm-a-true-story-of-men-against-the-sea
   title: 'The Perfect Storm: A True Story of Men Against the Sea'
 plan:

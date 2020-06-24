@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458388620l/8703973._SX98_.jpg
   goodreads: '8703973'
   isbn13: '9781405911313'
-  publication_year: '2012'
+  publication_year: '1944'
   slug: beware-of-the-dog
   title: Beware of the Dog
 plan:

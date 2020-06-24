@@ -7,7 +7,7 @@ book:
   isbn10: 0553588486
   isbn13: '9780553588484'
   pages: '835'
-  publication_year: '2005'
+  publication_year: '1996'
   series: A Song of Ice and Fire
   series_position: '1'
   slug: a-game-of-thrones

@@ -7,7 +7,7 @@ book:
   isbn10: 0140285601
   isbn13: '9780140285604'
   pages: '306'
-  publication_year: '1999'
+  publication_year: '1963'
   slug: cats-cradle
   tags:
   - scifi

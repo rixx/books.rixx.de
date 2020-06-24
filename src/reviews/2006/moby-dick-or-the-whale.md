@@ -7,7 +7,7 @@ book:
   isbn10: '0142437247'
   isbn13: '9780142437247'
   pages: '654'
-  publication_year: '2003'
+  publication_year: '1851'
   slug: moby-dick-or-the-whale
   title: Moby-Dick or, the Whale
 plan:

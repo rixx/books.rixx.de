@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517810851l/38352077._SY475_.jpg
   goodreads: '38352077'
   pages: '370'
-  publication_year: null
+  publication_year: '2018'
   series: Clocktaur War
   series_position: '2'
   slug: the-wonder-engine

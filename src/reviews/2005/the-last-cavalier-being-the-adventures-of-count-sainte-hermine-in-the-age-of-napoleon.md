@@ -7,7 +7,7 @@ book:
   isbn10: '1933648317'
   isbn13: '9781933648316'
   pages: '864'
-  publication_year: '2007'
+  publication_year: '1870'
   slug: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon
   tags:
   - historical-fiction

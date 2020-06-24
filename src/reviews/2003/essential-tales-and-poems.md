@@ -7,7 +7,7 @@ book:
   isbn10: '1593080646'
   isbn13: '9781593080648'
   pages: '688'
-  publication_year: '2004'
+  publication_year: '1843'
   slug: essential-tales-and-poems
   tags:
   - german

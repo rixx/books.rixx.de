@@ -7,7 +7,7 @@ book:
   isbn10: 044101125X
   isbn13: '9780441011254'
   pages: '211'
-  publication_year: '2003'
+  publication_year: '2001'
   series: Earthsea Cycle
   series_position: '6'
   slug: the-other-wind

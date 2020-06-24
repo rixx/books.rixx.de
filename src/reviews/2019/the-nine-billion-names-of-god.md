@@ -7,7 +7,7 @@ book:
   isbn10: '0451147553'
   isbn13: '9780451147554'
   pages: '240'
-  publication_year: '1974'
+  publication_year: '1967'
   slug: the-nine-billion-names-of-god
   tags:
   - scifi

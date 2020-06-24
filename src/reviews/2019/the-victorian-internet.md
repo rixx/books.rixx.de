@@ -7,7 +7,7 @@ book:
   isbn10: 0425171698
   isbn13: '9780425171691'
   pages: '240'
-  publication_year: '1999'
+  publication_year: '1998'
   slug: the-victorian-internet
   tags:
   - history

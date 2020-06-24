@@ -7,7 +7,7 @@ book:
   isbn10: '1590302257'
   isbn13: '9781590302255'
   pages: '273'
-  publication_year: '2005'
+  publication_year: '-500'
   slug: the-art-of-war
   title: The Art of War
 plan:

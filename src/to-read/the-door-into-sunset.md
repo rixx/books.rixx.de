@@ -6,7 +6,7 @@ book:
   goodreads: '531225'
   isbn10: 0812514319
   isbn13: '9780812514315'
-  publication_year: null
+  publication_year: '1992'
   series: Tale of the Five
   series_position: '3'
   slug: the-door-into-sunset

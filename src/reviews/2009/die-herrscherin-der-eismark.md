@@ -7,7 +7,7 @@ book:
   isbn10: '3423623446'
   isbn13: '9783423623445'
   pages: '528'
-  publication_year: '2008'
+  publication_year: '2005'
   slug: die-herrscherin-der-eismark
   tags:
   - fantasy

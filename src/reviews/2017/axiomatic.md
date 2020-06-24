@@ -6,7 +6,7 @@ book:
   goodreads: '156783'
   isbn10: '0061052655'
   isbn13: '9780061052651'
-  publication_year: '1997'
+  publication_year: '1990'
   slug: axiomatic
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: 0375831002
   isbn13: '9780375831003'
   pages: '552'
-  publication_year: '2006'
+  publication_year: '2005'
   slug: the-book-thief
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: 0812969901
   isbn13: '9780812969900'
   pages: '149'
-  publication_year: '2005'
+  publication_year: '1774'
   slug: the-sorrows-of-young-werther
   tags:
   - german

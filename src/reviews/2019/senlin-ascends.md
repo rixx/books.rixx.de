@@ -7,7 +7,7 @@ book:
   isbn10: 0316517917
   isbn13: '9780316517911'
   pages: '389'
-  publication_year: '2018'
+  publication_year: '2013'
   series: The Books of Babel
   series_position: '1'
   slug: senlin-ascends

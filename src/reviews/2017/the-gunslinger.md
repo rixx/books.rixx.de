@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220416l/43615._SX98_.jpg
   goodreads: '43615'
   pages: '231'
-  publication_year: '2003'
+  publication_year: '1982'
   series: The Dark Tower
   series_position: '1'
   slug: the-gunslinger

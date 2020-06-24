@@ -7,7 +7,7 @@ book:
   isbn10: '0441011241'
   isbn13: '9780441011247'
   pages: '280'
-  publication_year: '2003'
+  publication_year: '2001'
   series: Earthsea Cycle
   series_position: '5'
   slug: tales-from-earthsea

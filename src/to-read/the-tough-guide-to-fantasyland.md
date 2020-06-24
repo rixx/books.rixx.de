@@ -7,7 +7,7 @@ book:
   isbn10: '0142407224'
   isbn13: '9780142407226'
   pages: '234'
-  publication_year: '2006'
+  publication_year: '1996'
   slug: the-tough-guide-to-fantasyland
   title: The Tough Guide to Fantasyland
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 0060298790
   isbn13: '9780060298791'
   pages: '288'
-  publication_year: '2001'
+  publication_year: '1982'
   series: Chrestomanci
   series_position: '3'
   slug: witch-week

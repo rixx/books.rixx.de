@@ -7,7 +7,7 @@ book:
   isbn10: 0451167309
   isbn13: '9780451167309'
   pages: '261'
-  publication_year: '1987'
+  publication_year: '1977'
   slug: paper-money
   tags:
   - mystery

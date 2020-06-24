@@ -7,7 +7,7 @@ book:
   isbn10: 0061020680
   isbn13: '9780061020681'
   pages: '243'
-  publication_year: '2001'
+  publication_year: '1987'
   series: Discworld
   series_position: '4'
   slug: mort

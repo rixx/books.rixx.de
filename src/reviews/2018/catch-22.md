@@ -7,7 +7,7 @@ book:
   isbn10: 0684833395
   isbn13: '9780684833392'
   pages: '453'
-  publication_year: '2004'
+  publication_year: '1961'
   series: Catch-22
   series_position: '1'
   slug: catch-22

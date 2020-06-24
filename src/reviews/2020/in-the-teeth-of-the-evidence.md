@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533082998l/41017496._SX98_.jpg
   goodreads: '41017496'
   pages: '308'
-  publication_year: '2012'
+  publication_year: '1933'
   series: Lord Peter Wimsey
   series_position: '14'
   slug: in-the-teeth-of-the-evidence

@@ -7,13 +7,13 @@ book:
   isbn10: 0152058109
   isbn13: '9780152058104'
   pages: '209'
-  publication_year: '2006'
+  publication_year: '1934'
   series: Mary Poppins
   series_position: '1'
   slug: mary-poppins
-  title: Mary Poppins
   tags:
   - kids
+  title: Mary Poppins
 plan:
   date_added: '2016-05-19'
 review:

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517727674l/38343667._SX98_.jpg
   goodreads: '38343667'
   isbn13: '1230002133621'
-  publication_year: '2018'
+  publication_year: '2010'
   series: Clarkesworld Magazine
   series_position: '137'
   slug: clarkesworld-magazine-issue-137

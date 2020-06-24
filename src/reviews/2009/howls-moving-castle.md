@@ -7,7 +7,7 @@ book:
   isbn10: 006441034X
   isbn13: '9780064410342'
   pages: '329'
-  publication_year: '2001'
+  publication_year: '1986'
   series: Howl's Moving Castle
   series_position: '1'
   slug: howls-moving-castle

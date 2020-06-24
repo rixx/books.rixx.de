@@ -7,7 +7,7 @@ book:
   isbn10: 0099413124
   isbn13: '9780099413127'
   pages: '224'
-  publication_year: '2001'
+  publication_year: '1928'
   slug: emil-and-the-detectives
   tags:
   - german

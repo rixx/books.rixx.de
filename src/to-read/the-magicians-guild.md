@@ -7,7 +7,7 @@ book:
   isbn10: '1841493139'
   isbn13: '9781841493138'
   pages: '467'
-  publication_year: '2004'
+  publication_year: '2001'
   series: Black Magician Trilogy
   series_position: '1'
   slug: the-magicians-guild

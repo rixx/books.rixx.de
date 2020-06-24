@@ -7,7 +7,7 @@ book:
   isbn10: 0316449059
   isbn13: '9780316449052'
   pages: '432'
-  publication_year: '2018'
+  publication_year: '2017'
   series: The Wormwood Trilogy
   series_position: '1'
   slug: rosewater

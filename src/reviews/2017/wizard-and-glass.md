@@ -7,7 +7,7 @@ book:
   isbn10: 0340829788
   isbn13: '9780340829783'
   pages: '845'
-  publication_year: '2003'
+  publication_year: '1997'
   series: The Dark Tower
   series_position: '4'
   slug: wizard-and-glass

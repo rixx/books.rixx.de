@@ -7,7 +7,7 @@ book:
   isbn10: 0060929871
   isbn13: '9780060929879'
   pages: '288'
-  publication_year: '1998'
+  publication_year: '1932'
   slug: brave-new-world
   tags:
   - scifi

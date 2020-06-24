@@ -7,7 +7,7 @@ book:
   isbn10: '3789161306'
   isbn13: '9783789161308'
   pages: '32'
-  publication_year: '1985'
+  publication_year: '1961'
   slug: tomte-tummetott
   tags:
   - german

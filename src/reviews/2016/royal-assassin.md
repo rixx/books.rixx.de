@@ -7,7 +7,7 @@ book:
   isbn10: 0006480101
   isbn13: '9780006480105'
   pages: '752'
-  publication_year: '1997'
+  publication_year: '1996'
   series: Farseer Trilogy
   series_position: '2'
   slug: royal-assassin

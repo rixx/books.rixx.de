@@ -7,7 +7,7 @@ book:
   isbn10: '0375703713'
   isbn13: '9780375703713'
   pages: '186'
-  publication_year: '1999'
+  publication_year: '1953'
   slug: more-than-human
   title: More Than Human
 plan:

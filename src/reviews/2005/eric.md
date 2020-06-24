@@ -7,7 +7,7 @@ book:
   isbn10: 0380821214
   isbn13: '9780380821211'
   pages: '197'
-  publication_year: '2008'
+  publication_year: '1990'
   series: Discworld
   series_position: '9'
   slug: eric

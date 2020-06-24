@@ -7,7 +7,7 @@ book:
   isbn10: '0670557110'
   isbn13: '9780670557110'
   pages: '126'
-  publication_year: '1959'
+  publication_year: '1948'
   series: Pippi Langstrumpf
   series_position: '3'
   slug: pippi-in-the-south-seas

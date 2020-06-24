@@ -7,7 +7,7 @@ book:
   isbn10: 0671578081
   isbn13: '9780671578084'
   pages: '384'
-  publication_year: '1999'
+  publication_year: '1998'
   series: Vorkosigan Saga
   series_position: '11'
   slug: komarr

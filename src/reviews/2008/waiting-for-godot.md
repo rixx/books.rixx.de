@@ -7,7 +7,7 @@ book:
   isbn10: null
   isbn13: null
   pages: '109'
-  publication_year: '1953'
+  publication_year: '1952'
   slug: waiting-for-godot
   tags:
   - german

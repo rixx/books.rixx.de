@@ -7,7 +7,7 @@ book:
   isbn10: 0552154288
   isbn13: '9780552154284'
   pages: '432'
-  publication_year: '2006'
+  publication_year: '1996'
   series: Discworld
   series_position: '20'
   slug: hogfather

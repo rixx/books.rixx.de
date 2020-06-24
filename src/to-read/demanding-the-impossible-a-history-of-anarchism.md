@@ -7,7 +7,7 @@ book:
   isbn10: 0006862454
   isbn13: '9780006862451'
   pages: '767'
-  publication_year: '2007'
+  publication_year: '1992'
   slug: demanding-the-impossible-a-history-of-anarchism
   title: 'Demanding the Impossible: A History of Anarchism'
 plan:

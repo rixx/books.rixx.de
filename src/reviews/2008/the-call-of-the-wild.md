@@ -7,7 +7,7 @@ book:
   isbn10: 0439227143
   isbn13: '9780439227148'
   pages: '172'
-  publication_year: '2001'
+  publication_year: '1903'
   slug: the-call-of-the-wild
   title: The Call of the Wild
 plan:

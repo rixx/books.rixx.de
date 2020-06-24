@@ -7,7 +7,7 @@ book:
   isbn10: 0743468422
   isbn13: '9780743468428'
   pages: '253'
-  publication_year: '2003'
+  publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '1'
   slug: shards-of-honour

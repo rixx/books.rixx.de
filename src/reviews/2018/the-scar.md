@@ -7,7 +7,7 @@ book:
   isbn10: '0345460014'
   isbn13: '9780345460011'
   pages: '578'
-  publication_year: '2004'
+  publication_year: '2002'
   series: New Crobuzon
   series_position: '2'
   slug: the-scar

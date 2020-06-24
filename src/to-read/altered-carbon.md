@@ -6,7 +6,7 @@ book:
   goodreads: '40445'
   isbn10: 0345457692
   pages: '526'
-  publication_year: '2006'
+  publication_year: '2002'
   series: Takeshi Kovacs
   series_position: '1'
   slug: altered-carbon

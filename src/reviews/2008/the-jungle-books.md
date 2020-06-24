@@ -7,7 +7,7 @@ book:
   isbn10: 0451529758
   isbn13: '9780451529756'
   pages: '368'
-  publication_year: '2005'
+  publication_year: '1894'
   slug: the-jungle-books
   title: The Jungle Books
 plan:

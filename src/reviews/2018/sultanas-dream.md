@@ -7,7 +7,7 @@ book:
   isbn10: '8186211837'
   isbn13: '9788186211830'
   pages: '64'
-  publication_year: '2005'
+  publication_year: '1905'
   slug: sultanas-dream
   tags:
   - scifi

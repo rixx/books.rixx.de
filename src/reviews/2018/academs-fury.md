@@ -7,7 +7,7 @@ book:
   isbn10: '0441013406'
   isbn13: '9780441013401'
   pages: '702'
-  publication_year: '2010'
+  publication_year: '2005'
   series: Codex Alera
   series_position: '2'
   slug: academs-fury

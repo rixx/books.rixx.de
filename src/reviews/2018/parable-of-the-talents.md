@@ -7,7 +7,7 @@ book:
   isbn10: 0446610380
   isbn13: '9780446610384'
   pages: '448'
-  publication_year: '2001'
+  publication_year: '1998'
   series: Earthseed
   series_position: '2'
   slug: parable-of-the-talents

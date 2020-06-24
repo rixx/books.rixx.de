@@ -7,7 +7,7 @@ book:
   isbn10: '1595820795'
   isbn13: '9781595820792'
   pages: '208'
-  publication_year: '2006'
+  publication_year: '1970'
   series: Fafhrd and the Gray Mouser
   series_position: '1'
   slug: swords-and-deviltry

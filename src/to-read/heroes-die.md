@@ -7,7 +7,7 @@ book:
   isbn10: '0345421450'
   isbn13: '9780345421456'
   pages: '545'
-  publication_year: '1999'
+  publication_year: '1998'
   series: The Acts of Caine
   series_position: '1'
   slug: heroes-die

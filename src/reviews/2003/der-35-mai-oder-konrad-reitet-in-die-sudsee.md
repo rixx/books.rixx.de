@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172741864l/212196.jpg
   goodreads: '212196'
   pages: '160'
-  publication_year: null
+  publication_year: '1931'
   slug: der-35-mai-oder-konrad-reitet-in-die-sudsee
   tags:
   - german

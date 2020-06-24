@@ -7,7 +7,7 @@ book:
   isbn10: 044101268X
   isbn13: '9780441012688'
   pages: '504'
-  publication_year: '2005'
+  publication_year: '2004'
   series: Codex Alera
   series_position: '1'
   slug: furies-of-calderon

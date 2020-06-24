@@ -7,7 +7,7 @@ book:
   isbn10: '1595141561'
   isbn13: '9781595141569'
   pages: '260'
-  publication_year: null
+  publication_year: '2007'
   series: Into the Wild
   series_position: '1'
   slug: into-the-wild

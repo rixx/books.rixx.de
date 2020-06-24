@@ -6,7 +6,7 @@ book:
   goodreads: '25431044'
   isbn13: '9781485301974'
   pages: '381'
-  publication_year: '2014'
+  publication_year: '2003'
   slug: mimus
   tags:
   - german

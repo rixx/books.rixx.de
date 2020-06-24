@@ -7,7 +7,7 @@ book:
   isbn10: 045146091X
   isbn13: '9780451460912'
   pages: '517'
-  publication_year: '2006'
+  publication_year: '2005'
   series: The Dresden Files
   series_position: '7'
   slug: dead-beat

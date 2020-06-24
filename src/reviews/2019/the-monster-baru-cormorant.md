@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519063144l/38117105._SX98_.jpg
   goodreads: '38117105'
   pages: '464'
-  publication_year: null
+  publication_year: '2018'
   series: The Masquerade
   series_position: '2'
   slug: the-monster-baru-cormorant

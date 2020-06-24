@@ -7,7 +7,7 @@ book:
   isbn10: '0575070536'
   isbn13: '9780575070530'
   pages: '145'
-  publication_year: '2000'
+  publication_year: '1972'
   slug: roadside-picnic
   title: Roadside Picnic
 plan:

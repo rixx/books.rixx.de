@@ -7,7 +7,7 @@ book:
   isbn10: '1582349177'
   isbn13: '9781582349176'
   pages: '345'
-  publication_year: '2004'
+  publication_year: '2002'
   series: Stravaganza
   series_position: '1'
   slug: city-of-masks

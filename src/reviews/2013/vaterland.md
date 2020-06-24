@@ -7,7 +7,7 @@ book:
   isbn10: '3453072057'
   isbn13: '9783453072053'
   pages: '378'
-  publication_year: '1994'
+  publication_year: '1992'
   slug: vaterland
   tags:
   - german

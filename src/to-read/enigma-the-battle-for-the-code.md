@@ -7,7 +7,7 @@ book:
   isbn10: 0471490350
   isbn13: '9780471490357'
   pages: '422'
-  publication_year: '2004'
+  publication_year: '2000'
   slug: enigma-the-battle-for-the-code
   title: 'Enigma: The Battle for the Code'
 plan:

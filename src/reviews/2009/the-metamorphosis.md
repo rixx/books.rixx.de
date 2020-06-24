@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894._SY160_.jpg
   goodreads: '485894'
   pages: '201'
-  publication_year: '1972'
+  publication_year: '1915'
   slug: the-metamorphosis
   tags:
   - german

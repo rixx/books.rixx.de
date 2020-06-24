@@ -7,7 +7,7 @@ book:
   isbn10: '3423712694'
   isbn13: '9783423712699'
   pages: '222'
-  publication_year: '2007'
+  publication_year: '1960'
   slug: madita
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '3551581606'
   isbn13: '9783551581600'
   pages: '798'
-  publication_year: '2007'
+  publication_year: '2006'
   series: Der Clan der Otori
   series_position: '4'
   slug: der-ruf-des-reihers

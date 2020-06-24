@@ -7,7 +7,7 @@ book:
   isbn10: 0812515285
   isbn13: '9780812515282'
   pages: '613'
-  publication_year: '2010'
+  publication_year: '1992'
   series: Zones of Thought
   series_position: '1'
   slug: a-fire-upon-the-deep

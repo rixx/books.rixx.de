@@ -7,7 +7,7 @@ book:
   isbn10: 0345376595
   isbn13: '9780345376596'
   pages: '384'
-  publication_year: '1997'
+  publication_year: '1994'
   slug: pale-blue-dot-a-vision-of-the-human-future-in-space
   title: 'Pale Blue Dot: A Vision of the Human Future in Space'
 plan:

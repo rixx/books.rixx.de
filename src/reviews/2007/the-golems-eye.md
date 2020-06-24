@@ -7,7 +7,7 @@ book:
   isbn10: 0786836547
   isbn13: '9780786836543'
   pages: '562'
-  publication_year: '2006'
+  publication_year: '2004'
   series: Bartimaeus
   series_position: '2'
   slug: the-golems-eye

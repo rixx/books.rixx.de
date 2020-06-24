@@ -6,7 +6,7 @@ book:
   goodreads: '114954'
   isbn13: '9781423103998'
   pages: '416'
-  publication_year: '2009'
+  publication_year: '2005'
   series: Artemis Fowl
   series_position: '4'
   slug: the-opal-deception

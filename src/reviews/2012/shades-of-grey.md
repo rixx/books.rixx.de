@@ -7,7 +7,7 @@ book:
   isbn10: 0670019631
   isbn13: '9780670019632'
   pages: '400'
-  publication_year: null
+  publication_year: '2009'
   series: Shades of Grey
   series_position: '1'
   slug: shades-of-grey

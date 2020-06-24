@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399555963l/99474._SX98_.jpg
   goodreads: '99474'
   pages: '208'
-  publication_year: '2007'
+  publication_year: '1982'
   slug: the-bfg
   title: The BFG
 plan:

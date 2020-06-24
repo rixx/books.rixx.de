@@ -7,7 +7,7 @@ book:
   isbn10: 0061051586
   isbn13: '9780061051586'
   pages: '296'
-  publication_year: '1999'
+  publication_year: '1998'
   series: Discworld
   series_position: '23'
   slug: carpe-jugulum

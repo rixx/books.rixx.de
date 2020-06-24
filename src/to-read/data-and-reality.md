@@ -6,7 +6,7 @@ book:
   goodreads: '1753248'
   isbn10: '1585009709'
   isbn13: '9781585009701'
-  publication_year: null
+  publication_year: '1978'
   slug: data-and-reality
   title: Data and Reality
 plan:

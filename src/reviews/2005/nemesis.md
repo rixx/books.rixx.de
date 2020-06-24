@@ -7,7 +7,7 @@ book:
   isbn10: 0451200187
   isbn13: '9780451200181'
   pages: '224'
-  publication_year: '2000'
+  publication_year: '1971'
   series: Miss Marple
   series_position: '12'
   slug: nemesis

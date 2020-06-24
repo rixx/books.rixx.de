@@ -7,7 +7,7 @@ book:
   isbn10: '3473388777'
   isbn13: '9783473388776'
   pages: '318'
-  publication_year: '1983'
+  publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '6'
   slug: uber-den-missouri

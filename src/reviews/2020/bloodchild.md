@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394278990l/21265321.jpg
   goodreads: '21265321'
   pages: '31'
-  publication_year: '2014'
+  publication_year: '1984'
   slug: bloodchild
   tags:
   - scifi

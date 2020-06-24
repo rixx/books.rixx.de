@@ -7,7 +7,7 @@ book:
   isbn10: '1568581858'
   isbn13: '9781568581859'
   pages: '448'
-  publication_year: '2001'
+  publication_year: '1991'
   slug: synners
   title: Synners
 plan:

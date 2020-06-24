@@ -7,7 +7,7 @@ book:
   isbn10: 0553283685
   isbn13: '9780553283686'
   pages: '482'
-  publication_year: '1990'
+  publication_year: '1989'
   series: Hyperion Cantos
   series_position: '1'
   slug: hyperion

@@ -7,7 +7,7 @@ book:
   isbn10: '0066620732'
   isbn13: '9780066620732'
   pages: '288'
-  publication_year: '2002'
+  publication_year: '2001'
   slug: just-for-fun-the-story-of-an-accidental-revolutionary
   tags:
   - nonfiction

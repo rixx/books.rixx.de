@@ -7,7 +7,7 @@ book:
   isbn10: '3789141615'
   isbn13: '9783789141614'
   pages: '140'
-  publication_year: '2007'
+  publication_year: '1945'
   slug: pippi-langstrumpf
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '0142000655'
   isbn13: '9780142000656'
   pages: '601'
-  publication_year: '2002'
+  publication_year: '1952'
   slug: east-of-eden
   title: East of Eden
 plan:

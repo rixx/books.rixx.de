@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562714384l/36146179._SX98_.jpg
   goodreads: '36146179'
   pages: '2591'
-  publication_year: null
+  publication_year: '2017'
   slug: worth-the-candle
   title: Worth the Candle
 plan:

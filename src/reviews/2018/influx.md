@@ -7,11 +7,11 @@ book:
   isbn10: 0451469445
   isbn13: '9780451469441'
   pages: '528'
-  publication_year: '2015'
+  publication_year: '2014'
   slug: influx
-  title: Influx
   tags:
   - scifi
+  title: Influx
 plan:
   date_added: '2018-02-13'
 review:

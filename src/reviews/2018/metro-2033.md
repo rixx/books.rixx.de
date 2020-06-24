@@ -7,7 +7,7 @@ book:
   isbn10: '1481845705'
   isbn13: '9781481845700'
   pages: '458'
-  publication_year: '2013'
+  publication_year: '2002'
   series: Metro
   series_position: '1'
   slug: metro-2033

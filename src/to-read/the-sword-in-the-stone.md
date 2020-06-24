@@ -7,7 +7,7 @@ book:
   isbn10: 000675399X
   isbn13: '9780006753995'
   pages: '352'
-  publication_year: null
+  publication_year: '1938'
   series: The Once and Future King
   series_position: '1'
   slug: the-sword-in-the-stone

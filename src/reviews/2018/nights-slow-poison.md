@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418606162l/22452306._SX98_.jpg
   goodreads: '22452306'
   pages: '20'
-  publication_year: '2014'
+  publication_year: '2012'
   series: Imperial Radch
   series_position: '0.5'
   slug: nights-slow-poison

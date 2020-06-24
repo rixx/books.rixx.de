@@ -7,7 +7,7 @@ book:
   isbn10: '1400040019'
   isbn13: '9781400040018'
   pages: '1492'
-  publication_year: '2005'
+  publication_year: '1943'
   slug: joseph-and-his-brothers
   tags:
   - german

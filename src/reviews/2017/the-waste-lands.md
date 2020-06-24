@@ -7,7 +7,7 @@ book:
   isbn10: '0670032565'
   isbn13: '9780670032563'
   pages: '422'
-  publication_year: '2003'
+  publication_year: '1991'
   series: The Dark Tower
   series_position: '3'
   slug: the-waste-lands

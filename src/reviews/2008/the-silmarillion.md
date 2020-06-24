@@ -7,7 +7,7 @@ book:
   isbn10: 0618391118
   isbn13: '9780618391110'
   pages: '386'
-  publication_year: '2004'
+  publication_year: '1977'
   slug: the-silmarillion
   tags:
   - fantasy

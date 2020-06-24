@@ -7,7 +7,7 @@ book:
   isbn10: 0812550706
   isbn13: '9780812550702'
   pages: '324'
-  publication_year: '2004'
+  publication_year: '1985'
   series: Ender’s Saga
   series_position: '1'
   slug: enders-game

@@ -7,7 +7,7 @@ book:
   isbn10: 057506689X
   isbn13: '9780575066892'
   pages: '424'
-  publication_year: '1999'
+  publication_year: '1994'
   series: Discworld
   series_position: '16'
   slug: soul-music

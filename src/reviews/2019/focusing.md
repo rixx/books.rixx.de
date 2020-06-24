@@ -7,7 +7,7 @@ book:
   isbn10: 0553278339
   isbn13: '9780553278330'
   pages: '224'
-  publication_year: '1982'
+  publication_year: '1978'
   slug: focusing
   tags:
   - nonfiction

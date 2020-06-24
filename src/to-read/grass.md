@@ -7,7 +7,7 @@ book:
   isbn10: '1857987985'
   isbn13: '9781857987980'
   pages: '544'
-  publication_year: '2002'
+  publication_year: '1989'
   series: Arbai
   series_position: '1'
   slug: grass

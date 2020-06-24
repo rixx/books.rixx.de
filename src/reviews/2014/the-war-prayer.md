@@ -6,7 +6,7 @@ book:
   goodreads: '237050'
   isbn10: 157514266X
   isbn13: '9781575142661'
-  publication_year: null
+  publication_year: '1900'
   slug: the-war-prayer
   title: The War Prayer
 plan:

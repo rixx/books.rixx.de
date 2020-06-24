@@ -7,7 +7,7 @@ book:
   isbn10: 0753453800
   isbn13: '9780753453803'
   pages: '311'
-  publication_year: '2001'
+  publication_year: '1879'
   slug: treasure-island
   tags:
   - german

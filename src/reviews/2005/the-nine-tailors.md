@@ -7,7 +7,7 @@ book:
   isbn10: 0151658978
   isbn13: '9780151658978'
   pages: '397'
-  publication_year: '1989'
+  publication_year: '1934'
   series: Lord Peter Wimsey
   series_position: '11'
   slug: the-nine-tailors

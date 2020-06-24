@@ -7,7 +7,7 @@ book:
   isbn10: '1579126251'
   isbn13: '9781579126254'
   pages: '288'
-  publication_year: '2006'
+  publication_year: '1930'
   series: Miss Marple
   series_position: '1'
   slug: murder-at-the-vicarage

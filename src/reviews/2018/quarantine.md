@@ -7,7 +7,7 @@ book:
   isbn10: '0061054232'
   isbn13: '9780061054235'
   pages: '280'
-  publication_year: '1995'
+  publication_year: '1992'
   series: Subjective Cosmology
   series_position: '1'
   slug: quarantine

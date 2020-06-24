@@ -7,7 +7,7 @@ book:
   isbn10: 0060855924
   isbn13: '9780060855925'
   pages: '228'
-  publication_year: '2005'
+  publication_year: '1983'
   series: Discworld
   series_position: '1'
   slug: the-color-of-magic

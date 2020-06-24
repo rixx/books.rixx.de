@@ -7,7 +7,7 @@ book:
   isbn10: 0618346252
   isbn13: '9780618346257'
   pages: '398'
-  publication_year: '2003'
+  publication_year: '1954'
   series: The Lord of the Rings
   series_position: '1'
   slug: the-fellowship-of-the-ring

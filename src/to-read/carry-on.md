@@ -7,7 +7,7 @@ book:
   isbn10: '1250135028'
   isbn13: '9781250135025'
   pages: '522'
-  publication_year: '2017'
+  publication_year: '2015'
   series: Simon Snow
   series_position: '1'
   slug: carry-on

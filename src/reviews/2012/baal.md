@@ -7,7 +7,7 @@ book:
   isbn10: '1559704195'
   isbn13: '9781559704199'
   pages: '86'
-  publication_year: '1998'
+  publication_year: '1922'
   slug: baal
   tags:
   - german

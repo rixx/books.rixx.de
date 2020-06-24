@@ -7,7 +7,7 @@ book:
   isbn10: 0553296590
   isbn13: '9780553296594'
   pages: '312'
-  publication_year: '1994'
+  publication_year: '1978'
   slug: dreamsnake
   title: Dreamsnake
 plan:

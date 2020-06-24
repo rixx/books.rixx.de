@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SX98_.jpg
   goodreads: '38447'
   pages: '314'
-  publication_year: '1998'
+  publication_year: '1985'
   slug: the-handmaids-tale
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: 141650964X
   isbn13: '9781416509646'
   pages: '259'
-  publication_year: '2004'
+  publication_year: '1972'
   series: Earthsea Cycle
   series_position: '3'
   slug: the-farthest-shore

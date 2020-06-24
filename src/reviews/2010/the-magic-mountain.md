@@ -7,7 +7,7 @@ book:
   isbn10: 0679772871
   isbn13: '9780679772873'
   pages: '706'
-  publication_year: '1996'
+  publication_year: '1924'
   slug: the-magic-mountain
   tags:
   - german

@@ -6,7 +6,7 @@ book:
   goodreads: '17981727'
   isbn13: '9783954180257'
   pages: '1332'
-  publication_year: '2012'
+  publication_year: '1837'
   slug: sagen-des-klassischen-altertums-mit-einem-neuen-vorwort-zur-einfuhrung
   tags:
   - german

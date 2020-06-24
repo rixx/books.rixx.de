@@ -7,7 +7,7 @@ book:
   isbn10: '0450033406'
   isbn13: '9780450033407'
   pages: '176'
-  publication_year: '1973'
+  publication_year: '1972'
   series: Lord Peter Wimsey
   series_position: '15'
   slug: striding-folly

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530289829l/40669974._SX98_.jpg
   goodreads: '40669974'
   pages: '297'
-  publication_year: '2012'
+  publication_year: '1931'
   series: Lord Peter Wimsey
   series_position: '7'
   slug: the-five-red-herrings

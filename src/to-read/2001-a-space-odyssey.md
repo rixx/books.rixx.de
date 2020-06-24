@@ -7,7 +7,7 @@ book:
   isbn10: 0451457994
   isbn13: '9780451457998'
   pages: '297'
-  publication_year: '2000'
+  publication_year: '1968'
   series: Space Odyssey
   series_position: '1'
   slug: 2001-a-space-odyssey

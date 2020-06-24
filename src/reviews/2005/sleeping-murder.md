@@ -7,7 +7,7 @@ book:
   isbn10: 0002317850
   isbn13: '9780002317856'
   pages: '242'
-  publication_year: '2003'
+  publication_year: '1976'
   series: Miss Marple
   series_position: '13'
   slug: sleeping-murder

@@ -7,7 +7,7 @@ book:
   isbn10: 0441017940
   isbn13: '9780441017942'
   pages: '435'
-  publication_year: '2009'
+  publication_year: '1983'
   slug: ariel
   title: Ariel
 plan:

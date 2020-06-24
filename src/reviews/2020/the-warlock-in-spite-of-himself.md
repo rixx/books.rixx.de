@@ -7,7 +7,7 @@ book:
   isbn10: 0441873022
   isbn13: '9780441873029'
   pages: '384'
-  publication_year: '1982'
+  publication_year: '1969'
   series: Warlock
   series_position: '1'
   slug: the-warlock-in-spite-of-himself

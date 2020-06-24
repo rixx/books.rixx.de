@@ -7,7 +7,7 @@ book:
   isbn10: '0553234250'
   isbn13: '9780553234251'
   pages: '132'
-  publication_year: '1983'
+  publication_year: '1966'
   slug: empire-star
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: 0679778314
   isbn13: '9780679778318'
   pages: '134'
-  publication_year: '1997'
+  publication_year: '1974'
   slug: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance
   tags:
   - nonfiction

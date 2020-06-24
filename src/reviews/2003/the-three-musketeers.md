@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320436982l/7190._SX98_.jpg
   goodreads: '7190'
   pages: '625'
-  publication_year: '2001'
+  publication_year: '1844'
   series: The D'Artagnan Romances
   series_position: '1'
   slug: the-three-musketeers

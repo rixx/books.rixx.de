@@ -7,7 +7,7 @@ book:
   isbn10: 000649885X
   isbn13: '9780006498858'
   pages: '880'
-  publication_year: '1999'
+  publication_year: '1998'
   series: Liveship Traders
   series_position: '1'
   slug: ship-of-magic

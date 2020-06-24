@@ -7,7 +7,7 @@ book:
   isbn10: 156865054X
   isbn13: '9781568650548'
   pages: '596'
-  publication_year: '2011'
+  publication_year: '1974'
   series: Moties
   series_position: '1'
   slug: the-mote-in-gods-eye

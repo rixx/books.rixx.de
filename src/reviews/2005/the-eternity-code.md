@@ -7,7 +7,7 @@ book:
   isbn10: 0141321318
   isbn13: '9780141321318'
   pages: '352'
-  publication_year: '2006'
+  publication_year: '2003'
   series: Artemis Fowl
   series_position: '3'
   slug: the-eternity-code

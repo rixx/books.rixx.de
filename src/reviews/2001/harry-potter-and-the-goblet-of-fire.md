@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg
   goodreads: '6'
   pages: '734'
-  publication_year: '2002'
+  publication_year: '2000'
   series: Harry Potter
   series_position: '4'
   slug: harry-potter-and-the-goblet-of-fire

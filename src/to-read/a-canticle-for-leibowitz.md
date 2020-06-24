@@ -7,7 +7,7 @@ book:
   isbn10: 0060892994
   isbn13: '9780060892999'
   pages: '334'
-  publication_year: '2006'
+  publication_year: '1959'
   series: St. Leibowitz
   series_position: '1'
   slug: a-canticle-for-leibowitz

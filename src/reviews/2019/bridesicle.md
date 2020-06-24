@@ -3,7 +3,7 @@ book:
   author: "Will\tMcIntosh"
   goodreads: '18006038'
   pages: '11'
-  publication_year: null
+  publication_year: '2009'
   slug: bridesicle
   tags:
   - scifi

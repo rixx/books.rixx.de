@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550934403l/109089._SX98_.jpg
   goodreads: '109089'
   pages: '155'
-  publication_year: '2007'
+  publication_year: '1964'
   slug: charlie-and-the-chocolate-factory
   tags:
   - kids

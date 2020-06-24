@@ -7,7 +7,7 @@ book:
   isbn10: 0143039970
   isbn13: '9780143039976'
   pages: '146'
-  publication_year: '2006'
+  publication_year: '1962'
   slug: we-have-always-lived-in-the-castle
   title: We Have Always Lived in the Castle
 plan:

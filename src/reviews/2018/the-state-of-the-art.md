@@ -7,7 +7,7 @@ book:
   isbn10: '1597800740'
   isbn13: '9781597800747'
   pages: '188'
-  publication_year: '2007'
+  publication_year: '1991'
   series: Culture
   series_position: '4'
   slug: the-state-of-the-art

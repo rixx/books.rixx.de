@@ -7,7 +7,7 @@ book:
   isbn10: 0886822947
   isbn13: '9780886822941'
   pages: '32'
-  publication_year: '1990'
+  publication_year: '1937'
   slug: by-the-waters-of-babylon
   title: By the Waters of Babylon
 plan:

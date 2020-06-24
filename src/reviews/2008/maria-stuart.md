@@ -7,7 +7,7 @@ book:
   isbn10: '3150000645'
   isbn13: '9783150000649'
   pages: '168'
-  publication_year: '2001'
+  publication_year: '1800'
   slug: maria-stuart
   tags:
   - german

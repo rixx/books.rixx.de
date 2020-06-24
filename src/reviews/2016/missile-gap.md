@@ -7,7 +7,7 @@ book:
   isbn10: '1596060581'
   isbn13: '9781596060586'
   pages: '99'
-  publication_year: '2007'
+  publication_year: '2006'
   slug: missile-gap
   tags:
   - urban-fantasy

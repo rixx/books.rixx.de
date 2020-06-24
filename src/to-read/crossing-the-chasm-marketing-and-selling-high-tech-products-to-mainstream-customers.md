@@ -7,7 +7,7 @@ book:
   isbn10: '0060517123'
   isbn13: '9780060517120'
   pages: '211'
-  publication_year: '2006'
+  publication_year: '1991'
   slug: crossing-the-chasm-marketing-and-selling-high-tech-products-to-mainstream-customers
   title: 'Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream
     Customers'

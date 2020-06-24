@@ -7,7 +7,7 @@ book:
   isbn10: 0345459407
   isbn13: '9780345459404'
   pages: '623'
-  publication_year: '2003'
+  publication_year: '2000'
   series: New Crobuzon
   series_position: '1'
   slug: perdido-street-station

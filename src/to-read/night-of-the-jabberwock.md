@@ -6,7 +6,7 @@ book:
   goodreads: '122556'
   isbn10: 0688031501
   isbn13: '9780688031503'
-  publication_year: null
+  publication_year: '1950'
   slug: night-of-the-jabberwock
   title: Night of the Jabberwock
 plan:

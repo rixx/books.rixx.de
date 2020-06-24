@@ -4,7 +4,7 @@ book:
   cover_image: apex-magazine-december-2018.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543705355l/43073743._SX318_.jpg
   goodreads: '43073743'
-  publication_year: null
+  publication_year: '2018'
   slug: apex-magazine-december-2018
   title: Apex Magazine -- December 2018
 plan:

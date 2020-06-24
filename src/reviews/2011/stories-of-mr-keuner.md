@@ -7,7 +7,7 @@ book:
   isbn10: 0872863832
   isbn13: '9780872863835'
   pages: '120'
-  publication_year: '2001'
+  publication_year: '1958'
   slug: stories-of-mr-keuner
   tags:
   - german

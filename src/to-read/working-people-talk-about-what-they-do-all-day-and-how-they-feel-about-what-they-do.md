@@ -7,7 +7,7 @@ book:
   isbn10: '1565843428'
   isbn13: '9781565843424'
   pages: '640'
-  publication_year: '1997'
+  publication_year: '1974'
   slug: working-people-talk-about-what-they-do-all-day-and-how-they-feel-about-what-they-do
   title: 'Working: People Talk about What They Do All Day and How They Feel about
     What They Do'

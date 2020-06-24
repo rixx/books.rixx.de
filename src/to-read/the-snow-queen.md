@@ -7,7 +7,7 @@ book:
   isbn10: '0446676640'
   isbn13: '9780446676649'
   pages: '448'
-  publication_year: '2001'
+  publication_year: '1980'
   series: The Snow Queen Cycle
   series_position: '1'
   slug: the-snow-queen

@@ -7,7 +7,7 @@ book:
   isbn10: 0345487133
   isbn13: '9780345487131'
   pages: '345'
-  publication_year: '2006'
+  publication_year: '1949'
   slug: earth-abides
   title: Earth Abides
 plan:

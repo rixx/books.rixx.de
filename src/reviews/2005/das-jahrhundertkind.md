@@ -7,7 +7,7 @@ book:
   isbn10: '3404153189'
   isbn13: '9783404153183'
   pages: '750'
-  publication_year: '2007'
+  publication_year: '1999'
   series: Der Kreis der Dämmerung
   series_position: '1'
   slug: das-jahrhundertkind

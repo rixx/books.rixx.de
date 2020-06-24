@@ -7,7 +7,7 @@ book:
   isbn10: '1612184715'
   isbn13: '9781612184715'
   pages: '373'
-  publication_year: '2014'
+  publication_year: '2013'
   series: Magic 2.0
   series_position: '1'
   slug: off-to-be-the-wizard

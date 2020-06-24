@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg
   goodreads: '43352954'
   pages: '209'
-  publication_year: 2019
+  publication_year: '2019'
   slug: this-is-how-you-lose-the-time-war
   tags:
   - scifi

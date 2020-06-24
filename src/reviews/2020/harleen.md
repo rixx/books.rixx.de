@@ -6,7 +6,7 @@ book:
   goodreads: '52713814'
   isbn10: '1779501110'
   isbn13: '9781779501110'
-  publication_year: null
+  publication_year: '2020'
   slug: harleen
   tags:
   - fantasy

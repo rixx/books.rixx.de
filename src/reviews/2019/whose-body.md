@@ -7,7 +7,7 @@ book:
   isbn10: '0061043575'
   isbn13: '9780061043574'
   pages: '212'
-  publication_year: '1995'
+  publication_year: '1923'
   series: Lord Peter Wimsey
   series_position: '1'
   slug: whose-body

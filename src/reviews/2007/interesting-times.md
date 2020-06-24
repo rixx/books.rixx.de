@@ -7,7 +7,7 @@ book:
   isbn10: 0061056901
   isbn13: '9780061056901'
   pages: '368'
-  publication_year: '1998'
+  publication_year: '1994'
   series: Discworld
   series_position: '17'
   slug: interesting-times

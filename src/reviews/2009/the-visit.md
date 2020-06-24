@@ -7,7 +7,7 @@ book:
   isbn10: 0802130666
   isbn13: '9780802130662'
   pages: '112'
-  publication_year: '1994'
+  publication_year: '1980'
   slug: the-visit
   tags:
   - german

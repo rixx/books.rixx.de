@@ -7,7 +7,7 @@ book:
   isbn10: '3150000831'
   isbn13: '9783150000830'
   pages: '79'
-  publication_year: '1986'
+  publication_year: '1786'
   slug: iphigenie-auf-tauris
   tags:
   - german

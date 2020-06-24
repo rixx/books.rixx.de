@@ -7,7 +7,7 @@ book:
   isbn10: '0253212340'
   isbn13: '9780253212344'
   pages: '256'
-  publication_year: '1998'
+  publication_year: '1980'
   slug: riddley-walker
   title: Riddley Walker
 plan:

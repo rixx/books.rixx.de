@@ -7,7 +7,7 @@ book:
   isbn10: 0691174954
   isbn13: '9780691174952'
   pages: '240'
-  publication_year: '2018'
+  publication_year: '2017'
   slug: the-tyranny-of-metrics
   tags:
   - nonfiction

@@ -6,7 +6,7 @@ book:
   goodreads: '246225'
   isbn10: 0060809086
   isbn13: '9780060809089'
-  publication_year: null
+  publication_year: '1930'
   series: Lord Peter Wimsey
   series_position: '6'
   slug: strong-poison

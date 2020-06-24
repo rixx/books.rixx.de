@@ -7,7 +7,7 @@ book:
   isbn10: 0099490579
   isbn13: '9780099490579'
   pages: '461'
-  publication_year: '2007'
+  publication_year: '2004'
   series: Zamonen
   series_position: '4'
   slug: the-city-of-dreaming-books

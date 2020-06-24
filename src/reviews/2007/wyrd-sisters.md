@@ -7,7 +7,7 @@ book:
   isbn10: '0061020664'
   isbn13: '9780061020667'
   pages: '265'
-  publication_year: '2001'
+  publication_year: '1988'
   series: Discworld
   series_position: '6'
   slug: wyrd-sisters

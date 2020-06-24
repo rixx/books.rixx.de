@@ -7,7 +7,7 @@ book:
   isbn10: 0060548258
   isbn13: '9780060548254'
   pages: '494'
-  publication_year: '2003'
+  publication_year: '1970'
   series: Arthurian Saga
   series_position: '1'
   slug: the-crystal-cave

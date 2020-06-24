@@ -7,7 +7,7 @@ book:
   isbn10: 0140382623
   isbn13: '9780140382624'
   pages: '262'
-  publication_year: '1996'
+  publication_year: '1883'
   slug: pinocchio
   tags:
   - kids

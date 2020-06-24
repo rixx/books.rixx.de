@@ -7,7 +7,7 @@ book:
   isbn10: '1400078776'
   isbn13: '9781400078776'
   pages: '288'
-  publication_year: '2010'
+  publication_year: '2005'
   slug: never-let-me-go
   tags:
   - scifi

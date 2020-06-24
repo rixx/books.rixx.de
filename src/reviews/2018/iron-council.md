@@ -7,7 +7,7 @@ book:
   isbn10: 0345458427
   isbn13: '9780345458421'
   pages: '576'
-  publication_year: '2005'
+  publication_year: '2004'
   series: New Crobuzon
   series_position: '3'
   slug: iron-council

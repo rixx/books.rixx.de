@@ -7,7 +7,7 @@ book:
   isbn10: 0786814179
   isbn13: '9780786814176'
   pages: '486'
-  publication_year: '2002'
+  publication_year: '2000'
   series: Wind on Fire
   series_position: '1'
   slug: the-wind-singer

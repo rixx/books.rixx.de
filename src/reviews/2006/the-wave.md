@@ -7,7 +7,7 @@ book:
   isbn10: 0440993717
   isbn13: '9780440993711'
   pages: '138'
-  publication_year: '2005'
+  publication_year: '1981'
   slug: the-wave
   tags:
   - german

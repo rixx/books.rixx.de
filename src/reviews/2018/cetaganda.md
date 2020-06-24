@@ -7,7 +7,7 @@ book:
   isbn10: 0671877445
   isbn13: '9780671877446'
   pages: '302'
-  publication_year: '1996'
+  publication_year: '1995'
   series: Vorkosigan Saga
   series_position: '9'
   slug: cetaganda

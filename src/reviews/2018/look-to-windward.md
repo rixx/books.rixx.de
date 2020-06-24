@@ -7,7 +7,7 @@ book:
   isbn10: 0743421922
   isbn13: '9780743421928'
   pages: '496'
-  publication_year: '2002'
+  publication_year: '2000'
   series: Culture
   series_position: '7'
   slug: look-to-windward

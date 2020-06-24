@@ -7,7 +7,7 @@ book:
   isbn10: 0786838655
   isbn13: '9780786838653'
   pages: '375'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Percy Jackson and the Olympians
   series_position: '1'
   slug: the-lightning-thief

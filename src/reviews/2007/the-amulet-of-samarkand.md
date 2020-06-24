@@ -7,7 +7,7 @@ book:
   isbn10: 0552550299
   isbn13: '9780552550291'
   pages: '480'
-  publication_year: '2004'
+  publication_year: '2003'
   series: Bartimaeus
   series_position: '1'
   slug: the-amulet-of-samarkand

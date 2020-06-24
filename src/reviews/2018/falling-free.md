@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922931l/61915.jpg
   goodreads: '61915'
   isbn13: '9781886778535'
-  publication_year: '2004'
+  publication_year: '1987'
   series: Vorkosigan Saga
   series_position: '4'
   slug: falling-free

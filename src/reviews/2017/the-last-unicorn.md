@@ -7,7 +7,7 @@ book:
   isbn10: '0451450523'
   isbn13: '9780451450524'
   pages: '294'
-  publication_year: '1991'
+  publication_year: '1968'
   series: The Last Unicorn
   series_position: '1'
   slug: the-last-unicorn

@@ -7,7 +7,7 @@ book:
   isbn10: '0345461622'
   isbn13: '9780345461629'
   pages: '768'
-  publication_year: '2005'
+  publication_year: '2004'
   slug: pandoras-star
   title: Pandora's Star
 plan:

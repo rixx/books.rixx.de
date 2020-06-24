@@ -4,7 +4,7 @@ book:
   cover_image: a-study-in-emerald.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1247023701l/6599565.jpg
   goodreads: '6599565'
-  publication_year: '2007'
+  publication_year: '2003'
   slug: a-study-in-emerald
   tags:
   - mystery

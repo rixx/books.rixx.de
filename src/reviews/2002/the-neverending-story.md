@@ -7,7 +7,7 @@ book:
   isbn10: 0525457585
   isbn13: '9780525457589'
   pages: '396'
-  publication_year: '1997'
+  publication_year: '1979'
   slug: the-neverending-story
   tags:
   - fantasy

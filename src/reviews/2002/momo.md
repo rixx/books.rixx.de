@@ -6,7 +6,7 @@ book:
   goodreads: '68811'
   isbn10: '3522168577'
   isbn13: '9783522168571'
-  publication_year: null
+  publication_year: '1973'
   slug: momo
   tags:
   - fantasy

@@ -7,7 +7,7 @@ book:
   isbn10: '0553575376'
   isbn13: '9780553575378'
   pages: '499'
-  publication_year: '1998'
+  publication_year: '1996'
   series: Culture
   series_position: '5'
   slug: excession

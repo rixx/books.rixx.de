@@ -7,7 +7,7 @@ book:
   isbn10: 0152047387
   isbn13: '9780152047382'
   pages: '323'
-  publication_year: '2003'
+  publication_year: '1983'
   series: Young Wizards
   series_position: '1'
   slug: so-you-want-to-be-a-wizard

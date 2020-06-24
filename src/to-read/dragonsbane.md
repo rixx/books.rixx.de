@@ -7,7 +7,7 @@ book:
   isbn10: 0345349393
   isbn13: '9780345349392'
   pages: '352'
-  publication_year: '1987'
+  publication_year: '1985'
   series: Winterlands
   series_position: '1'
   slug: dragonsbane

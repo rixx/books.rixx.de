@@ -7,7 +7,7 @@ book:
   isbn10: 038082020X
   isbn13: '9780380820207'
   pages: '448'
-  publication_year: '2003'
+  publication_year: '2002'
   series: Dread Empire's Fall
   series_position: '1'
   slug: the-praxis

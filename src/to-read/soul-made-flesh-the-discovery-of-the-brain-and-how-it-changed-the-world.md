@@ -7,7 +7,7 @@ book:
   isbn10: '0743272056'
   isbn13: '9780743272056'
   pages: '384'
-  publication_year: '2005'
+  publication_year: '2003'
   slug: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world
   title: 'Soul Made Flesh: The Discovery of the Brain--and How it Changed the World'
 plan:

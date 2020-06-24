@@ -7,7 +7,7 @@ book:
   isbn10: '3522105907'
   isbn13: '9783522105903'
   pages: '128'
-  publication_year: '1970'
+  publication_year: '1962'
   series: Hotzenplotz
   series_position: '1'
   slug: der-rauber-hotzenplotz

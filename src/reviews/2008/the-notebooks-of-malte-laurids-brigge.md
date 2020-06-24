@@ -7,7 +7,7 @@ book:
   isbn10: 0393308812
   isbn13: '9780393308815'
   pages: '237'
-  publication_year: '1992'
+  publication_year: '1910'
   slug: the-notebooks-of-malte-laurids-brigge
   tags:
   - german

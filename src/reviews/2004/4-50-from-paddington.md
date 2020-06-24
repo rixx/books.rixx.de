@@ -7,7 +7,7 @@ book:
   isbn10: '1579126936'
   isbn13: '9781579126933'
   pages: '288'
-  publication_year: '2007'
+  publication_year: '1957'
   series: Miss Marple
   series_position: '7'
   slug: 4-50-from-paddington

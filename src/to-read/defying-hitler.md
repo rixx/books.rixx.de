@@ -7,7 +7,7 @@ book:
   isbn10: '0312421133'
   isbn13: '9780312421137'
   pages: '309'
-  publication_year: '2003'
+  publication_year: '2000'
   slug: defying-hitler
   title: Defying Hitler
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 0064471837
   isbn13: '9780064471831'
   pages: '491'
-  publication_year: '1996'
+  publication_year: '1995'
   series: Abhorsen
   series_position: '1'
   slug: sabriel

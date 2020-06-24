@@ -7,7 +7,7 @@ book:
   isbn10: '0152017666'
   isbn13: '9780152017668'
   pages: '288'
-  publication_year: '1998'
+  publication_year: '1960'
   series: Tales of Alderley
   series_position: '1'
   slug: the-weirdstone-of-brisingamen

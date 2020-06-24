@@ -7,7 +7,7 @@ book:
   isbn10: '0061043540'
   isbn13: '9780061043543'
   pages: '256'
-  publication_year: '1995'
+  publication_year: '1928'
   series: Lord Peter Wimsey
   series_position: '5'
   slug: the-unpleasantness-at-the-bellona-club

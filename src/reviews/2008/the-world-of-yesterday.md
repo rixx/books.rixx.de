@@ -7,7 +7,7 @@ book:
   isbn10: 0803252242
   isbn13: '9780803252240'
   pages: '461'
-  publication_year: '1964'
+  publication_year: '1941'
   slug: the-world-of-yesterday
   tags:
   - german

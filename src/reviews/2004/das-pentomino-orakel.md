@@ -7,7 +7,7 @@ book:
   isbn10: '3596806070'
   isbn13: '9783596806072'
   pages: '256'
-  publication_year: null
+  publication_year: '2004'
   slug: das-pentomino-orakel
   tags:
   - german

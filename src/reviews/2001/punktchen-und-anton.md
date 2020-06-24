@@ -7,7 +7,7 @@ book:
   isbn10: '3423707313'
   isbn13: '9783423707312'
   pages: '160'
-  publication_year: '2002'
+  publication_year: '1931'
   slug: punktchen-und-anton
   tags:
   - german

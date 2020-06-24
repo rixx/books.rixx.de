@@ -6,7 +6,7 @@ book:
   goodreads: '472626'
   isbn10: '3522144104'
   isbn13: '9783522144100'
-  publication_year: '1988'
+  publication_year: '1971'
   slug: krabat
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '0140447571'
   isbn13: '9780140447576'
   pages: '288'
-  publication_year: '2002'
+  publication_year: '1848'
   slug: the-communist-manifesto
   tags:
   - german

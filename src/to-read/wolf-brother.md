@@ -7,7 +7,7 @@ book:
   isbn10: 0060728272
   isbn13: '9780060728274'
   pages: '295'
-  publication_year: '2006'
+  publication_year: '2004'
   series: Chronicles of Ancient Darkness
   series_position: '1'
   slug: wolf-brother

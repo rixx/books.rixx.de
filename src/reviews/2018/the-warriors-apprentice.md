@@ -7,7 +7,7 @@ book:
   isbn10: 0743468406
   isbn13: '9780743468404'
   pages: '372'
-  publication_year: '2003'
+  publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '2'
   slug: the-warriors-apprentice

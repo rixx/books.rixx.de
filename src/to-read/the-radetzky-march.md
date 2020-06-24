@@ -7,7 +7,7 @@ book:
   isbn10: '1862076057'
   isbn13: '9781862076051'
   pages: '363'
-  publication_year: '2003'
+  publication_year: '1932'
   slug: the-radetzky-march
   title: The Radetzky March
 plan:

@@ -7,10 +7,11 @@ book:
   isbn10: 0521529255
   isbn13: '9780521529259'
   pages: '330'
-  publication_year: '2003'
+  publication_year: '1997'
   slug: an-introduction-to-japanese-society
   title: An Introduction to Japanese Society
 plan:
   date_added: 2020-06-07
 ---
+
 [Extremely strong recommendation here](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)

@@ -6,7 +6,7 @@ book:
   goodreads: '1394908'
   isbn10: '3407788029'
   isbn13: '9783407788023'
-  publication_year: null
+  publication_year: '1995'
   slug: der-erste-fruhling
   tags:
   - german

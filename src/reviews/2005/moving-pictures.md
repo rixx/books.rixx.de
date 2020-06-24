@@ -7,7 +7,7 @@ book:
   isbn10: 0552152943
   isbn13: '9780552152945'
   pages: '396'
-  publication_year: '2005'
+  publication_year: '1990'
   series: Discworld
   series_position: '10'
   slug: moving-pictures

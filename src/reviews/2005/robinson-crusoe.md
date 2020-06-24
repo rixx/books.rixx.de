@@ -7,7 +7,7 @@ book:
   isbn10: '0375757325'
   isbn13: '9780375757327'
   pages: '320'
-  publication_year: '2001'
+  publication_year: '1719'
   slug: robinson-crusoe
   tags:
   - german

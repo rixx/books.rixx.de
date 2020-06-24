@@ -7,7 +7,7 @@ book:
   isbn10: '3423012668'
   isbn13: '9783423012669'
   pages: '249'
-  publication_year: '1977'
+  publication_year: '1975'
   slug: die-tante-jolesch
   tags:
   - german

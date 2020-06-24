@@ -7,7 +7,7 @@ book:
   isbn10: 0722192193
   isbn13: '9780722192191'
   pages: '311'
-  publication_year: '1987'
+  publication_year: '1975'
   series: Illuminatus
   series_position: '1'
   slug: the-eye-in-the-pyramid

@@ -7,7 +7,7 @@ book:
   isbn10: 054773848X
   isbn13: '9780547738482'
   pages: '289'
-  publication_year: '2013'
+  publication_year: '2011'
   series: The Last Dragonslayer
   series_position: '2'
   slug: the-song-of-the-quarkbeast

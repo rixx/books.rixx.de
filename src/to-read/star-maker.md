@@ -7,7 +7,7 @@ book:
   isbn10: '1857988078'
   isbn13: '9781857988079'
   pages: '272'
-  publication_year: '1999'
+  publication_year: '1937'
   slug: star-maker
   title: Star Maker
 plan:

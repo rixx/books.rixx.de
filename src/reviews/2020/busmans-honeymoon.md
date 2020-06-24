@@ -7,7 +7,7 @@ book:
   isbn10: '0061043516'
   isbn13: '9780061043512'
   pages: '409'
-  publication_year: '2006'
+  publication_year: '1937'
   series: Lord Peter Wimsey
   series_position: '13'
   slug: busmans-honeymoon

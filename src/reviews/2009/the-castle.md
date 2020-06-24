@@ -7,7 +7,7 @@ book:
   isbn10: 0805211063
   isbn13: '9780805211061'
   pages: '316'
-  publication_year: '1998'
+  publication_year: '1922'
   slug: the-castle
   tags:
   - german

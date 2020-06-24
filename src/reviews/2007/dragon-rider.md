@@ -7,7 +7,7 @@ book:
   isbn10: 190444248X
   isbn13: '9781904442486'
   pages: '527'
-  publication_year: '2005'
+  publication_year: '1997'
   series: Dragon Rider
   series_position: '1'
   slug: dragon-rider

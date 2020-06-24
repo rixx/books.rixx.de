@@ -7,7 +7,7 @@ book:
   isbn10: '1250237564'
   isbn13: '9781250237569'
   pages: '30'
-  publication_year: null
+  publication_year: '2019'
   slug: for-he-can-creep
   title: For He Can Creep
 plan:

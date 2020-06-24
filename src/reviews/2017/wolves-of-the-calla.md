@@ -7,7 +7,7 @@ book:
   isbn10: 141651693X
   isbn13: '9781416516934'
   pages: '931'
-  publication_year: '2006'
+  publication_year: '2003'
   series: The Dark Tower
   series_position: '5'
   slug: wolves-of-the-calla

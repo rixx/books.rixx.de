@@ -7,7 +7,7 @@ book:
   isbn10: 0060733497
   isbn13: '9780060733490'
   pages: '528'
-  publication_year: '2005'
+  publication_year: '1995'
   slug: the-lions-of-al-rassan
   title: The Lions of Al-Rassan
 plan:

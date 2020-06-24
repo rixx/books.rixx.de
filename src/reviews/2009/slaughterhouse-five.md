@@ -7,7 +7,7 @@ book:
   isbn10: 0385333846
   isbn13: '9780385333849'
   pages: '275'
-  publication_year: '1999'
+  publication_year: '1969'
   slug: slaughterhouse-five
   title: Slaughterhouse-Five
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: '1880418738'
   isbn13: '9781880418734'
   pages: '312'
-  publication_year: '2008'
+  publication_year: '1998'
   series: The Dark Tower
   series_position: '0.5'
   slug: the-little-sisters-of-eluria

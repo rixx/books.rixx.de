@@ -7,7 +7,7 @@ book:
   isbn10: 0060515198
   isbn13: '9780060515195'
   pages: '387'
-  publication_year: null
+  publication_year: '2005'
   series: American Gods
   series_position: '2'
   slug: anansi-boys

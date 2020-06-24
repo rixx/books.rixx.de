@@ -7,7 +7,7 @@ book:
   isbn10: 0553418629
   isbn13: '9780553418620'
   pages: '388'
-  publication_year: '2016'
+  publication_year: '2015'
   slug: the-library-at-mount-char
   tags:
   - fantasy

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SX98_.jpg
   goodreads: '4671'
   pages: '200'
-  publication_year: '2004'
+  publication_year: '1925'
   slug: the-great-gatsby
   title: The Great Gatsby
 plan:

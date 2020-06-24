@@ -7,7 +7,7 @@ book:
   isbn10: '0525467564'
   isbn13: '9780525467564'
   pages: '145'
-  publication_year: '1960'
+  publication_year: '1926'
   series: Winnie-the-Pooh
   series_position: '1'
   slug: winnie-the-pooh

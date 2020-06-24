@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389447680l/138516._SX98_.jpg
   goodreads: '138516'
   pages: '51'
-  publication_year: '1898'
+  publication_year: '1981'
   slug: alice-in-wonderland
   tags:
   - german

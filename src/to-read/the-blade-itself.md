@@ -7,7 +7,7 @@ book:
   isbn10: 0575079797
   isbn13: '9780575079793'
   pages: '515'
-  publication_year: '2007'
+  publication_year: '2006'
   series: The First Law
   series_position: '1'
   slug: the-blade-itself

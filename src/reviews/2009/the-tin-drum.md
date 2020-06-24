@@ -7,11 +7,11 @@ book:
   isbn10: 0099483505
   isbn13: '9780099483502'
   pages: '580'
-  publication_year: '2005'
+  publication_year: '1959'
   slug: the-tin-drum
-  title: The Tin Drum
   tags:
   - german
+  title: The Tin Drum
 plan:
   date_added: '2015-04-08'
 review:

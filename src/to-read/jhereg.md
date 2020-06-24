@@ -7,7 +7,7 @@ book:
   isbn10: 360893264X
   isbn13: '9783608932645'
   pages: '307'
-  publication_year: '2005'
+  publication_year: '1983'
   series: Vlad Taltos
   series_position: '1'
   slug: jhereg

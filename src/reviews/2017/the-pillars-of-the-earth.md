@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SX98_.jpg
   goodreads: '5043'
   pages: '976'
-  publication_year: '2002'
+  publication_year: '1989'
   series: Kingsbridge
   series_position: '1'
   slug: the-pillars-of-the-earth

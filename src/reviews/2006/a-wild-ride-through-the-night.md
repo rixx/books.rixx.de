@@ -7,7 +7,7 @@ book:
   isbn10: '0436220547'
   isbn13: '9780436220548'
   pages: '224'
-  publication_year: '2004'
+  publication_year: '2001'
   slug: a-wild-ride-through-the-night
   tags:
   - fantasy

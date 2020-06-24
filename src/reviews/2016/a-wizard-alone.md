@@ -7,7 +7,7 @@ book:
   isbn10: 0152049118
   isbn13: '9780152049119'
   pages: '333'
-  publication_year: '2003'
+  publication_year: '2002'
   series: Young Wizards
   series_position: '6'
   slug: a-wizard-alone

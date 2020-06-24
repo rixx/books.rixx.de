@@ -4,7 +4,7 @@ book:
   cover_image: uncanny-magazine-issue-18-september-october-2017.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504584647l/36184017._SY475_.jpg
   goodreads: '36184017'
-  publication_year: null
+  publication_year: '2017'
   slug: uncanny-magazine-issue-18-september-october-2017
   tags:
   - scifi

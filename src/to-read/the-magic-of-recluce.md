@@ -7,7 +7,7 @@ book:
   isbn10: 0812505182
   isbn13: '9780812505184'
   pages: '501'
-  publication_year: '1992'
+  publication_year: '1991'
   series: The Saga of Recluce
   series_position: '1'
   slug: the-magic-of-recluce

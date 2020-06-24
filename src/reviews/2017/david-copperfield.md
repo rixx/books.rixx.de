@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762l/58696._SX98_.jpg
   goodreads: '58696'
   pages: '882'
-  publication_year: '2004'
+  publication_year: '1850'
   slug: david-copperfield
   title: David Copperfield
 plan:

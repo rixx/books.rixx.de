@@ -7,7 +7,7 @@ book:
   isbn10: '3522115201'
   isbn13: '9783522115209'
   pages: '124'
-  publication_year: '1979'
+  publication_year: '1969'
   series: Hotzenplotz
   series_position: '2'
   slug: neues-vom-rauber-hotzenplotz

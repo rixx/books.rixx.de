@@ -7,7 +7,7 @@ book:
   isbn10: '0446675504'
   isbn13: '9780446675505'
   pages: '345'
-  publication_year: '2000'
+  publication_year: '1993'
   series: Earthseed
   series_position: '1'
   slug: parable-of-the-sower

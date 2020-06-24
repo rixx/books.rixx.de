@@ -7,7 +7,7 @@ book:
   isbn10: 0441669514
   isbn13: '9780441669516'
   pages: '126'
-  publication_year: '1971'
+  publication_year: '1966'
   series: Hainish Cycle
   series_position: '2'
   slug: planet-of-exile

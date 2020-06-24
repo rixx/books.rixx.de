@@ -7,7 +7,7 @@ book:
   isbn10: 0886822335
   isbn13: '9780886822330'
   pages: '32'
-  publication_year: '1989'
+  publication_year: '1958'
   slug: all-the-troubles-of-the-world
   tags:
   - scifi

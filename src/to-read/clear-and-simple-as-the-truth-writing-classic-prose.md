@@ -7,7 +7,7 @@ book:
   isbn10: 0691029172
   isbn13: '9780691029177'
   pages: '240'
-  publication_year: '1996'
+  publication_year: '1994'
   slug: clear-and-simple-as-the-truth-writing-classic-prose
   title: 'Clear and Simple as the Truth: Writing Classic Prose'
 plan:

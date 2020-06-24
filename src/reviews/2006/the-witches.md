@@ -7,7 +7,7 @@ book:
   isbn10: 0590032496
   isbn13: '9780590032490'
   pages: '208'
-  publication_year: '1997'
+  publication_year: '1983'
   slug: the-witches
   tags:
   - german

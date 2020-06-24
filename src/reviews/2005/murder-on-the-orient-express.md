@@ -7,7 +7,7 @@ book:
   isbn10: '0425200450'
   isbn13: '9780425200452'
   pages: '322'
-  publication_year: '2004'
+  publication_year: '1934'
   series: Hercule Poirot
   series_position: '10'
   slug: murder-on-the-orient-express

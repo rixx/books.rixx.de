@@ -7,7 +7,7 @@ book:
   isbn10: 014303622X
   isbn13: '9780143036227'
   pages: '336'
-  publication_year: '2005'
+  publication_year: '1994'
   slug: descartes-error-emotion-reason-and-the-human-brain
   tags:
   - nonfiction

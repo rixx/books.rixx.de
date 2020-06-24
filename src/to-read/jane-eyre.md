@@ -7,7 +7,7 @@ book:
   isbn10: '0142437204'
   isbn13: '9780142437209'
   pages: '532'
-  publication_year: '2003'
+  publication_year: '1847'
   slug: jane-eyre
   title: Jane Eyre
 plan:

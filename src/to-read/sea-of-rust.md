@@ -7,7 +7,7 @@ book:
   isbn10: '1473212782'
   isbn13: '9781473212787'
   pages: '365'
-  publication_year: null
+  publication_year: '2017'
   slug: sea-of-rust
   title: Sea of Rust
 plan:

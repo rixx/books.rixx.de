@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357027589l/14201._SY160_.jpg
   goodreads: '14201'
   pages: '1006'
-  publication_year: '2006'
+  publication_year: '2004'
   slug: jonathan-strange-mr-norrell
   tags:
   - fantasy

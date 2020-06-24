@@ -7,7 +7,7 @@ book:
   isbn10: 0060813261
   isbn13: '9780060813260'
   pages: '881'
-  publication_year: '2006'
+  publication_year: '2004'
   slug: the-swarm
   title: The Swarm
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 0060541873
   isbn13: '9780060541873'
   pages: '210'
-  publication_year: '2006'
+  publication_year: '1992'
   series: Johnny Maxwell
   series_position: '1'
   slug: only-you-can-save-mankind

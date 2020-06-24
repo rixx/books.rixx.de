@@ -7,7 +7,7 @@ book:
   isbn10: 157912626X
   isbn13: '9781579126261'
   pages: '191'
-  publication_year: '2006'
+  publication_year: '1942'
   series: Miss Marple
   series_position: '2'
   slug: the-body-in-the-library

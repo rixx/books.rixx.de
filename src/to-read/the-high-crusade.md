@@ -6,7 +6,7 @@ book:
   goodreads: '338325'
   isbn10: 0743475283
   isbn13: '9780743475280'
-  publication_year: null
+  publication_year: '1960'
   slug: the-high-crusade
   title: The High Crusade
 plan:

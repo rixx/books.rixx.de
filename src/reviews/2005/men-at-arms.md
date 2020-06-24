@@ -7,7 +7,7 @@ book:
   isbn10: 0061092193
   isbn13: '9780061092190'
   pages: '377'
-  publication_year: '2003'
+  publication_year: '1993'
   series: Discworld
   series_position: '15'
   slug: men-at-arms

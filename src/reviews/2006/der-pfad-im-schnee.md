@@ -6,7 +6,7 @@ book:
   goodreads: '1864637'
   isbn10: 355158110X
   isbn13: '9783551581105'
-  publication_year: null
+  publication_year: '2003'
   series: Der Clan der Otori
   series_position: '2'
   slug: der-pfad-im-schnee

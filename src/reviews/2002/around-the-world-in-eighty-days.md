@@ -7,7 +7,7 @@ book:
   isbn10: 014044906X
   isbn13: '9780140449068'
   pages: '252'
-  publication_year: '2004'
+  publication_year: '1873'
   series: Extraordinary Voyages
   series_position: '11'
   slug: around-the-world-in-eighty-days

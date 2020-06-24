@@ -7,7 +7,7 @@ book:
   isbn10: 0720612683
   isbn13: '9780720612684'
   pages: '158'
-  publication_year: '2016'
+  publication_year: '1967'
   slug: ice
   title: Ice
 plan:

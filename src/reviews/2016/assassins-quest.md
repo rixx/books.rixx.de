@@ -7,7 +7,7 @@ book:
   isbn10: 0553565699
   isbn13: '9780553565690'
   pages: '757'
-  publication_year: '1998'
+  publication_year: '1997'
   series: Farseer Trilogy
   series_position: '3'
   slug: assassins-quest

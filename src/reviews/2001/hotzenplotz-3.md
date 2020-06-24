@@ -6,7 +6,7 @@ book:
   goodreads: '1527165'
   isbn10: '3522119800'
   isbn13: '9783522119801'
-  publication_year: null
+  publication_year: '1973'
   series: Hotzenplotz
   series_position: '3'
   slug: hotzenplotz-3

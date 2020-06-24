@@ -7,7 +7,7 @@ book:
   isbn10: 0439709105
   isbn13: '9780439709101'
   pages: '563'
-  publication_year: '2005'
+  publication_year: '2003'
   series: Inkworld
   series_position: '1'
   slug: inkheart

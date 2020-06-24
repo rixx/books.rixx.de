@@ -7,13 +7,13 @@ book:
   isbn10: '1570623953'
   isbn13: '9781570623950'
   pages: '125'
-  publication_year: '1998'
+  publication_year: '-600'
   slug: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way
-  title: 'Lao Tzu: Tao Te Ching: A Book about the Way and the Power of the Way'
   tags:
   - nonfiction
   - personal-development
   - philosophy
+  title: 'Lao Tzu: Tao Te Ching: A Book about the Way and the Power of the Way'
 plan:
   date_added: '2020-03-26'
 review:

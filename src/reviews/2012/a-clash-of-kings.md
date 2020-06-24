@@ -7,7 +7,7 @@ book:
   isbn10: 0553381695
   isbn13: '9780553381696'
   pages: '969'
-  publication_year: '2002'
+  publication_year: '1998'
   series: A Song of Ice and Fire
   series_position: '2'
   slug: a-clash-of-kings

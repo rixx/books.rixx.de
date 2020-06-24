@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg
   goodreads: '157993'
   pages: '93'
-  publication_year: '2000'
+  publication_year: '1943'
   slug: the-little-prince
   title: The Little Prince
 plan:

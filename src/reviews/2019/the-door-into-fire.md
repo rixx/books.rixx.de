@@ -6,7 +6,7 @@ book:
   goodreads: '176506'
   isbn10: 0812536711
   isbn13: '9780812536713'
-  publication_year: null
+  publication_year: '1979'
   series: Tale of the Five
   series_position: '1'
   slug: the-door-into-fire

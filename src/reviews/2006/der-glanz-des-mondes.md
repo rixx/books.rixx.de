@@ -7,7 +7,7 @@ book:
   isbn10: '3551581118'
   isbn13: '9783551581112'
   pages: '492'
-  publication_year: '2005'
+  publication_year: '2004'
   series: Der Clan der Otori
   series_position: '3'
   slug: der-glanz-des-mondes

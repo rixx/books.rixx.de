@@ -7,7 +7,7 @@ book:
   isbn10: '0142402516'
   isbn13: '9780142402511'
   pages: '221'
-  publication_year: '2006'
+  publication_year: '2005'
   slug: looking-for-alaska
   title: Looking for Alaska
 plan:

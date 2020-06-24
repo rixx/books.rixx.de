@@ -7,11 +7,11 @@ book:
   isbn10: 0380017490
   isbn13: '9780380017492'
   pages: '147'
-  publication_year: '1977'
-  slug: an-alien-heat
-  title: 'An Alien Heat'
+  publication_year: '1972'
   series: Dancers at the End of Time
   series_position: 1
+  slug: an-alien-heat
+  title: An Alien Heat
 plan:
   date_added: 2020-06-07
 ---

@@ -7,7 +7,7 @@ book:
   isbn10: '1559702524'
   isbn13: '9781559702522'
   pages: '124'
-  publication_year: '1994'
+  publication_year: '1928'
   slug: the-threepenny-opera
   tags:
   - german

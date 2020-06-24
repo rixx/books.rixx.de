@@ -7,7 +7,7 @@ book:
   isbn10: '1596063173'
   isbn13: '9781596063174'
   pages: '150'
-  publication_year: null
+  publication_year: '2010'
   slug: the-lifecycle-of-software-objects
   title: The Lifecycle of Software Objects
 plan:

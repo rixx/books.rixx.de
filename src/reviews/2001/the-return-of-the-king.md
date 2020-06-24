@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520258755l/18512._SY160_.jpg
   goodreads: '18512'
   pages: '404'
-  publication_year: '2003'
+  publication_year: '1955'
   series: The Lord of the Rings
   series_position: '3'
   slug: the-return-of-the-king

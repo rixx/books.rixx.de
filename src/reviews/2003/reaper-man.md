@@ -7,7 +7,7 @@ book:
   isbn10: 0552152951
   isbn13: '9780552152952'
   pages: '352'
-  publication_year: '2005'
+  publication_year: '1991'
   series: Discworld
   series_position: '11'
   slug: reaper-man

@@ -7,7 +7,7 @@ book:
   isbn10: 0679740678
   isbn13: '9780679740674'
   pages: '259'
-  publication_year: null
+  publication_year: '1962'
   slug: the-man-in-the-high-castle
   tags:
   - scifi

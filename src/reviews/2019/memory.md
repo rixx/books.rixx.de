@@ -7,7 +7,7 @@ book:
   isbn10: '2290052302'
   isbn13: '9782290052303'
   pages: '509'
-  publication_year: '2005'
+  publication_year: '1996'
   series: Vorkosigan Saga
   series_position: '10'
   slug: memory

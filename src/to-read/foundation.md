@@ -7,7 +7,7 @@ book:
   isbn10: 0553803719
   isbn13: '9780553803716'
   pages: '244'
-  publication_year: '2004'
+  publication_year: '1951'
   series: Foundation
   series_position: '1'
   slug: foundation

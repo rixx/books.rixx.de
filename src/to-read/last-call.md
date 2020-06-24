@@ -6,7 +6,7 @@ book:
   goodreads: '209690'
   isbn10: 038072846X
   isbn13: '9780380728466'
-  publication_year: null
+  publication_year: '1992'
   series: Fault Lines
   series_position: '1'
   slug: last-call

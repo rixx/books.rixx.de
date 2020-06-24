@@ -7,7 +7,7 @@ book:
   isbn10: '3401046918'
   isbn13: '9783401046914'
   pages: '222'
-  publication_year: '1996'
+  publication_year: '1883'
   slug: der-trotzkopf
   tags:
   - german

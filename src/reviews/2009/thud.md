@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY160_.jpg
   goodreads: '62530'
   pages: '439'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Discworld
   series_position: '34'
   slug: thud

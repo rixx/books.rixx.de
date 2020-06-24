@@ -7,7 +7,7 @@ book:
   isbn10: '0441014151'
   isbn13: '9780441014156'
   pages: '415'
-  publication_year: '2006'
+  publication_year: '2005'
   slug: accelerando
   title: Accelerando
 plan:

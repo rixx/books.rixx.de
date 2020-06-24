@@ -7,7 +7,7 @@ book:
   isbn10: 0156027593
   isbn13: '9780156027595'
   pages: '295'
-  publication_year: '2002'
+  publication_year: '1965'
   slug: the-cyberiad
   title: The Cyberiad
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: '3453161815'
   isbn13: '9783453161818'
   pages: '443'
-  publication_year: '2000'
+  publication_year: '1997'
   slug: diaspora
   tags:
   - scifi

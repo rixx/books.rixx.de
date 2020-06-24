@@ -7,7 +7,7 @@ book:
   isbn10: 0810117312
   isbn13: '9780810117310'
   pages: '199'
-  publication_year: '1999'
+  publication_year: '1968'
   slug: his-masters-voice
   title: His Master's Voice
 plan:

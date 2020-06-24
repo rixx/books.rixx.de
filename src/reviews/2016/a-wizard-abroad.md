@@ -7,7 +7,7 @@ book:
   isbn10: '0152055037'
   isbn13: '9780152055035'
   pages: '372'
-  publication_year: '2005'
+  publication_year: '1993'
   series: Young Wizards
   series_position: '4'
   slug: a-wizard-abroad

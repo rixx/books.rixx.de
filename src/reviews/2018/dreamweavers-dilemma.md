@@ -6,7 +6,7 @@ book:
   goodreads: '990089'
   isbn10: 0915368536
   isbn13: '9780915368532'
-  publication_year: null
+  publication_year: '1995'
   series: Vorkosigan Saga
   series_position: '9.1'
   slug: dreamweavers-dilemma

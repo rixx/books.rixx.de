@@ -7,7 +7,7 @@ book:
   isbn10: '3423026642'
   isbn13: '9783423026642'
   pages: '94'
-  publication_year: '2006'
+  publication_year: '1912'
   slug: rheinsberg-ein-bilderbuch-fur-verliebte
   tags:
   - german

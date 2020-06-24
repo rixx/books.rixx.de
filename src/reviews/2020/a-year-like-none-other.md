@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158195l/16171495._SX98_.jpg
   goodreads: '16171495'
   pages: '3160'
-  publication_year: '2013'
+  publication_year: '2006'
   series: Like None Other
   series_position: '1'
   slug: a-year-like-none-other

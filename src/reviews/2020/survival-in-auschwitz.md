@@ -7,11 +7,11 @@ book:
   isbn10: 0684826801
   isbn13: '9780684826806'
   pages: '187'
-  publication_year: '1995'
+  publication_year: '1947'
   slug: survival-in-auschwitz
-  title: Survival in Auschwitz
   tags:
   - history
+  title: Survival in Auschwitz
 plan:
   date_added: '2020-04-14'
 review:

@@ -7,7 +7,7 @@ book:
   isbn10: 0446603708
   isbn13: '9780446603706'
   pages: '213'
-  publication_year: '1996'
+  publication_year: '1984'
   series: Patternmaster
   series_position: '3'
   slug: clays-ark

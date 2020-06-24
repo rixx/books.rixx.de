@@ -7,7 +7,7 @@ book:
   isbn10: '1590171691'
   isbn13: '9781590171691'
   pages: '104'
-  publication_year: '2005'
+  publication_year: '1942'
   slug: chess-story
   tags:
   - german

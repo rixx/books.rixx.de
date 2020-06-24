@@ -7,7 +7,7 @@ book:
   isbn10: 0451187261
   isbn13: '9780451187260'
   pages: '448'
-  publication_year: '1997'
+  publication_year: '1995'
   series: Cole Family Trilogy
   series_position: '3'
   slug: matters-of-choice

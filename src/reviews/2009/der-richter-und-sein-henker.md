@@ -7,7 +7,7 @@ book:
   isbn10: 0395044995
   isbn13: '9780395044995'
   pages: '208'
-  publication_year: '1972'
+  publication_year: '1951'
   slug: der-richter-und-sein-henker
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: 0060824972
   isbn13: '9780060824976'
   pages: '280'
-  publication_year: '2005'
+  publication_year: '1996'
   series: The Queen's Thief
   series_position: '1'
   slug: the-thief

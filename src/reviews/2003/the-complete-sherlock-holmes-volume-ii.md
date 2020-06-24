@@ -7,7 +7,7 @@ book:
   isbn10: '1593082045'
   isbn13: '9781593082048'
   pages: '709'
-  publication_year: '2004'
+  publication_year: '1914'
   slug: the-complete-sherlock-holmes-volume-ii
   tags:
   - mystery

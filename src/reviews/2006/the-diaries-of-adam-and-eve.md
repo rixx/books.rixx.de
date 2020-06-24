@@ -7,7 +7,7 @@ book:
   isbn10: '1843910055'
   isbn13: '9781843910053'
   pages: '95'
-  publication_year: '2002'
+  publication_year: '1906'
   slug: the-diaries-of-adam-and-eve
   tags:
   - historical-fiction

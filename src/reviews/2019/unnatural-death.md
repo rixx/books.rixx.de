@@ -7,7 +7,7 @@ book:
   isbn10: 0061043583
   isbn13: '9780061043581'
   pages: '264'
-  publication_year: '1995'
+  publication_year: '1927'
   series: Lord Peter Wimsey
   series_position: '3'
   slug: unnatural-death

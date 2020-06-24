@@ -7,7 +7,7 @@ book:
   isbn10: 0441203981
   isbn13: '9780441203987'
   pages: '181'
-  publication_year: '1987'
+  publication_year: '1972'
   series: The Elric Saga
   series_position: '1'
   slug: elric-of-melnibone

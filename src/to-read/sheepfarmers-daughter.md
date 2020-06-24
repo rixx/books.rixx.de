@@ -7,7 +7,7 @@ book:
   isbn10: 0671319647
   isbn13: '9780671319649'
   pages: '506'
-  publication_year: '2000'
+  publication_year: '1988'
   series: The Deed of Paksenarrion
   series_position: '1'
   slug: sheepfarmers-daughter

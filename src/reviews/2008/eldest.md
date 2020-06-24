@@ -7,7 +7,7 @@ book:
   isbn10: 0375840400
   isbn13: '9780375840401'
   pages: '704'
-  publication_year: '2007'
+  publication_year: '2005'
   series: The Inheritance Cycle
   series_position: '2'
   slug: eldest

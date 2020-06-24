@@ -7,7 +7,7 @@ book:
   isbn10: '0142437174'
   isbn13: '9780142437179'
   pages: '327'
-  publication_year: '2002'
+  publication_year: '1884'
   slug: the-adventures-of-huckleberry-finn
   tags:
   - kids

@@ -7,7 +7,7 @@ book:
   isbn10: 0671876465
   isbn13: '9780671876463'
   pages: '560'
-  publication_year: '1995'
+  publication_year: '1994'
   series: Vorkosigan Saga
   series_position: '8'
   slug: mirror-dance

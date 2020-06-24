@@ -6,7 +6,7 @@ book:
   goodreads: '21417137'
   isbn10: 0140046984
   isbn13: '9780140046984'
-  publication_year: '1980'
+  publication_year: '1949'
   slug: brat-farrar
   title: Brat Farrar
 plan:

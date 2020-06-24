@@ -7,7 +7,7 @@ book:
   isbn10: 076533027X
   isbn13: '9780765330277'
   pages: '402'
-  publication_year: '2013'
+  publication_year: '2012'
   series: Shadow Police
   series_position: '1'
   slug: london-falling

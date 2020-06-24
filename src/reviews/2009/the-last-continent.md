@@ -7,7 +7,7 @@ book:
   isbn10: 0552154180
   isbn13: '9780552154185'
   pages: '416'
-  publication_year: '2006'
+  publication_year: '1998'
   series: Discworld
   series_position: '22'
   slug: the-last-continent

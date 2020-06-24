@@ -7,7 +7,7 @@ book:
   isbn10: 0439358078
   isbn13: '9780439358071'
   pages: '870'
-  publication_year: '2004'
+  publication_year: '2003'
   series: Harry Potter
   series_position: '5'
   slug: harry-potter-and-the-order-of-the-phoenix

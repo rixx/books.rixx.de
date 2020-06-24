@@ -7,7 +7,7 @@ book:
   isbn10: 0312863276
   isbn13: '9780312863272'
   pages: '288'
-  publication_year: '1997'
+  publication_year: '1996'
   slug: the-fortunate-fall
   title: The Fortunate Fall
 plan:

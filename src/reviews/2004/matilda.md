@@ -7,7 +7,7 @@ book:
   isbn10: '0141301066'
   isbn13: '9780141301068'
   pages: '240'
-  publication_year: '1998'
+  publication_year: '1988'
   slug: matilda
   tags:
   - german

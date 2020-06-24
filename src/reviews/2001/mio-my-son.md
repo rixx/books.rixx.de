@@ -7,7 +7,7 @@ book:
   isbn10: '1930900236'
   isbn13: '9781930900233'
   pages: '178'
-  publication_year: '2003'
+  publication_year: '1954'
   slug: mio-my-son
   tags:
   - german

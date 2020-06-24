@@ -7,7 +7,7 @@ book:
   isbn10: '1416509631'
   isbn13: '9781416509639'
   pages: '281'
-  publication_year: '2004'
+  publication_year: '1990'
   series: Earthsea Cycle
   series_position: '4'
   slug: tehanu

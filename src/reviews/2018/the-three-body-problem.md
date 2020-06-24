@@ -7,7 +7,7 @@ book:
   isbn10: '0765377063'
   isbn13: '9780765377067'
   pages: '399'
-  publication_year: '2014'
+  publication_year: '2006'
   series: Remembrance of Earth’s Past
   series_position: '1'
   slug: the-three-body-problem

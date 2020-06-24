@@ -7,7 +7,7 @@ book:
   isbn10: 0099453835
   isbn13: '9780099453833'
   pages: '631'
-  publication_year: '2004'
+  publication_year: '2002'
   slug: the-time-of-our-singing
   tags: []
   title: The Time of Our Singing

@@ -7,7 +7,7 @@ book:
   isbn10: '1905802137'
   isbn13: '9781905802135'
   pages: '306'
-  publication_year: '2009'
+  publication_year: '2008'
   series: Chronicles of Isambard Smith
   series_position: '1'
   slug: space-captain-smith

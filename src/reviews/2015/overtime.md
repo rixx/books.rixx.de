@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX98_.jpg
   goodreads: '8420932'
   pages: '30'
-  publication_year: '2010'
+  publication_year: '2009'
   series: Laundry Files
   series_position: '3.5'
   slug: overtime

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY160_.jpg
   goodreads: '11'
   pages: '216'
-  publication_year: '2005'
+  publication_year: '1979'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '1'
   slug: the-hitchhikers-guide-to-the-galaxy

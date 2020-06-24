@@ -7,7 +7,7 @@ book:
   isbn10: 0345371984
   isbn13: '9780345371980'
   pages: '256'
-  publication_year: '1992'
+  publication_year: '1990'
   slug: last-chance-to-see
   tags:
   - german

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269778275l/7927173._SX98_.jpg
   goodreads: '7927173'
   pages: '255'
-  publication_year: '1984'
+  publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '5'
   slug: der-junge-hauptling

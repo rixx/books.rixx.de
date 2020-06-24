@@ -7,7 +7,7 @@ book:
   isbn10: 068987121X
   isbn13: '9780689871214'
   pages: '196'
-  publication_year: '2004'
+  publication_year: '1965'
   series: The Dark is Rising
   series_position: '1'
   slug: over-sea-under-stone

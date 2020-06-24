@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554401296l/365._SY160_.jpg
   goodreads: '365'
   pages: '306'
-  publication_year: '2002'
+  publication_year: '1987'
   series: Dirk Gently
   series_position: '1'
   slug: dirk-gentlys-holistic-detective-agency

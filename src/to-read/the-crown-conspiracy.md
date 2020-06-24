@@ -7,7 +7,7 @@ book:
   isbn10: 0980003431
   isbn13: '9780980003437'
   pages: '296'
-  publication_year: null
+  publication_year: '2008'
   series: The Riyria Revelations
   series_position: '1'
   slug: the-crown-conspiracy

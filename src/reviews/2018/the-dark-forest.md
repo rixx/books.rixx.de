@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
   goodreads: '23168817'
   pages: '512'
-  publication_year: '2015'
+  publication_year: '2008'
   series: Remembrance of Earth’s Past
   series_position: '2'
   slug: the-dark-forest

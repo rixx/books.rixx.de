@@ -7,7 +7,7 @@ book:
   isbn10: '1405206128'
   isbn13: '9781405206129'
   pages: '272'
-  publication_year: '2003'
+  publication_year: '2001'
   series: A Series of Unfortunate Events
   series_position: '8'
   slug: the-hostile-hospital

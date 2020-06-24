@@ -7,7 +7,7 @@ book:
   isbn10: '0061020656'
   isbn13: '9780061020650'
   pages: '341'
-  publication_year: '2008'
+  publication_year: '1989'
   series: Discworld
   series_position: '7'
   slug: pyramids

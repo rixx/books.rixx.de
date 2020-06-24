@@ -7,7 +7,7 @@ book:
   isbn10: 0140389024
   isbn13: '9780140389029'
   pages: '38'
-  publication_year: '1995'
+  publication_year: '1752'
   slug: micromegas
   tags:
   - scifi

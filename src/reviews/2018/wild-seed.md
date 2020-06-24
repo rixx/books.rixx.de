@@ -7,7 +7,7 @@ book:
   isbn10: 0446676977
   isbn13: '9780446676977'
   pages: '306'
-  publication_year: '2001'
+  publication_year: '1980'
   series: Patternmaster
   series_position: '1'
   slug: wild-seed

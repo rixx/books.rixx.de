@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356028113l/9305362._SX98_.jpg
   goodreads: '9305362'
   pages: '240'
-  publication_year: '2012'
+  publication_year: '2013'
   series: Captive Prince
   series_position: '1'
   slug: captive-prince

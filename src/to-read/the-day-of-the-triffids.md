@@ -7,7 +7,7 @@ book:
   isbn10: 0812967127
   isbn13: '9780812967128'
   pages: '228'
-  publication_year: '2003'
+  publication_year: '1951'
   slug: the-day-of-the-triffids
   title: The Day of the Triffids
 plan:

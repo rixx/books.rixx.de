@@ -7,7 +7,7 @@ book:
   isbn10: '0156030306'
   isbn13: '9780156030304'
   pages: '311'
-  publication_year: '2005'
+  publication_year: '1966'
   slug: flowers-for-algernon
   title: Flowers for Algernon
 plan:

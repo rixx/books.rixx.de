@@ -7,7 +7,7 @@ book:
   isbn10: '3789141305'
   isbn13: '9783789141300'
   pages: '473'
-  publication_year: 1953
+  publication_year: '1946'
   series_position: '1'
   slug: kalle-blomquist
   tags:

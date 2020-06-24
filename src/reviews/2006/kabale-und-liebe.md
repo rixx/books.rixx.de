@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652398l/942335.jpg
   goodreads: '942335'
   pages: '143'
-  publication_year: '2001'
+  publication_year: '1784'
   slug: kabale-und-liebe
   tags:
   - german

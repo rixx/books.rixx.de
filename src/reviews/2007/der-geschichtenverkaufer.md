@@ -7,7 +7,7 @@ book:
   isbn10: '3423132507'
   isbn13: '9783423132503'
   pages: '272'
-  publication_year: '2004'
+  publication_year: '2000'
   slug: der-geschichtenverkaufer
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: 0440498058
   isbn13: '9780440498056'
   pages: '211'
-  publication_year: '1973'
+  publication_year: '1962'
   series: Time Quintet
   series_position: '1'
   slug: a-wrinkle-in-time

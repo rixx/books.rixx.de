@@ -7,7 +7,7 @@ book:
   isbn10: '0446603775'
   isbn13: '9780446603775'
   pages: '248'
-  publication_year: '1997'
+  publication_year: '1987'
   series: Xenogenesis
   series_position: '1'
   slug: dawn

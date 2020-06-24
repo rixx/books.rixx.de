@@ -7,7 +7,7 @@ book:
   isbn10: '1857983416'
   isbn13: '9781857983418'
   pages: '204'
-  publication_year: '2001'
+  publication_year: '1974'
   slug: flow-my-tears-the-policeman-said
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: 0451528956
   isbn13: '9780451528957'
   pages: '144'
-  publication_year: '2003'
+  publication_year: '1886'
   slug: the-strange-case-of-dr-jekyll-and-mr-hyde
   title: The Strange Case of Dr. Jekyll and Mr. Hyde
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 043965548X
   isbn13: '9780439655484'
   pages: '435'
-  publication_year: '2004'
+  publication_year: '1999'
   series: Harry Potter
   series_position: '3'
   slug: harry-potter-and-the-prisoner-of-azkaban

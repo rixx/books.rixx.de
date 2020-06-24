@@ -7,7 +7,7 @@ book:
   isbn10: 0060298782
   isbn13: '9780060298784'
   pages: '288'
-  publication_year: '2001'
+  publication_year: '1980'
   series: Chrestomanci
   series_position: '4'
   slug: the-magicians-of-caprona

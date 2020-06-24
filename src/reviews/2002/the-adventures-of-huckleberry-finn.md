@@ -6,7 +6,7 @@ book:
   isbn10: 0816772347
   isbn13: '9780816772346'
   pages: '48'
-  publication_year: '2001'
+  publication_year: '1990'
   slug: the-adventures-of-huckleberry-finn
   tags:
   - kids

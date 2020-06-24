@@ -7,7 +7,7 @@ book:
   isbn10: 0553213970
   isbn13: '9780553213973'
   pages: '240'
-  publication_year: '2006'
+  publication_year: '1864'
   series: Extraordinary Voyages
   series_position: '3'
   slug: journey-to-the-center-of-the-earth

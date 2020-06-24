@@ -7,7 +7,7 @@ book:
   isbn10: '0062024035'
   isbn13: '9780062024039'
   pages: '487'
-  publication_year: '2012'
+  publication_year: '2011'
   series: Divergent
   series_position: '1'
   slug: divergent

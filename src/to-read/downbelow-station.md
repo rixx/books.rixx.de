@@ -7,7 +7,7 @@ book:
   isbn10: 0756400597
   isbn13: '9780756400590'
   pages: '526'
-  publication_year: '2001'
+  publication_year: '1981'
   series: The Company Wars
   series_position: '1'
   slug: downbelow-station

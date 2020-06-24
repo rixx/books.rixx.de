@@ -7,7 +7,7 @@ book:
   isbn10: '0552153257'
   isbn13: '9780552153256'
   pages: '411'
-  publication_year: '2005'
+  publication_year: '1996'
   series: Discworld
   series_position: '19'
   slug: feet-of-clay

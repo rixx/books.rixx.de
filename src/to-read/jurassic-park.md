@@ -7,7 +7,7 @@ book:
   isbn10: '0345370775'
   isbn13: '9780345370778'
   pages: '399'
-  publication_year: '1991'
+  publication_year: '1990'
   series: Jurassic Park
   series_position: '1'
   slug: jurassic-park

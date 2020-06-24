@@ -7,7 +7,7 @@ book:
   isbn10: 006105481X
   isbn13: '9780061054815'
   pages: '352'
-  publication_year: '1995'
+  publication_year: '1994'
   series: Subjective Cosmology
   series_position: '2'
   slug: permutation-city

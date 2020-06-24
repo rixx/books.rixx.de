@@ -7,7 +7,7 @@ book:
   isbn10: '0060567236'
   isbn13: '9780060567231'
   pages: '296'
-  publication_year: '2010'
+  publication_year: '1967'
   slug: lord-of-light
   title: Lord of Light
 plan:

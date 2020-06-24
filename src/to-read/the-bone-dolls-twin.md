@@ -7,7 +7,7 @@ book:
   isbn10: 0553577239
   isbn13: '9780553577235'
   pages: '524'
-  publication_year: '2009'
+  publication_year: '2001'
   series: The Tamír Triad
   series_position: '1'
   slug: the-bone-dolls-twin

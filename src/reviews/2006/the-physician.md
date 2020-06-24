@@ -7,7 +7,7 @@ book:
   isbn10: 0751503894
   isbn13: '9780751503890'
   pages: '714'
-  publication_year: '2001'
+  publication_year: '1986'
   series: Cole Family Trilogy
   series_position: '1'
   slug: the-physician

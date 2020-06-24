@@ -6,7 +6,7 @@ book:
   goodreads: '12629234'
   isbn10: 340656254X
   isbn13: '9783406562549'
-  publication_year: null
+  publication_year: '2009'
   slug: die-revolution-von-1918-19
   tags:
   - german

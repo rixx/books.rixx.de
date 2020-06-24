@@ -7,7 +7,7 @@ book:
   isbn10: '0152052070'
   isbn13: '9780152052072'
   pages: '416'
-  publication_year: '2005'
+  publication_year: '2003'
   series: Young Wizards
   series_position: '7'
   slug: wizards-holiday

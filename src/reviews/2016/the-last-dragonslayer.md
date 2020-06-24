@@ -7,7 +7,7 @@ book:
   isbn10: 0547738471
   isbn13: '9780547738475'
   pages: '296'
-  publication_year: '2012'
+  publication_year: '2010'
   series: The Last Dragonslayer
   series_position: '1'
   slug: the-last-dragonslayer

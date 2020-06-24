@@ -7,7 +7,7 @@ book:
   isbn10: 0900384204
   isbn13: '9780900384202'
   pages: '144'
-  publication_year: '2007'
+  publication_year: '1973'
   slug: anarchy-in-action
   title: Anarchy in Action
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 088184991X
   isbn13: '9780881849912'
   pages: '160'
-  publication_year: '1993'
+  publication_year: '1962'
   slug: the-great-explosion
   tags:
   - scifi

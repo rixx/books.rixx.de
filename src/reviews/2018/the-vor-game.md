@@ -7,7 +7,7 @@ book:
   isbn10: '0671720147'
   isbn13: '9780671720148'
   pages: '346'
-  publication_year: '2002'
+  publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '6'
   slug: the-vor-game

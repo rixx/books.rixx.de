@@ -7,7 +7,7 @@ book:
   isbn10: 0804138680
   isbn13: '9780804138680'
   pages: '441'
-  publication_year: '2014'
+  publication_year: '2012'
   series: Dark Eden
   series_position: '1'
   slug: dark-eden

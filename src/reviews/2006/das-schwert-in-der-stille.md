@@ -7,7 +7,7 @@ book:
   isbn10: '3551581061'
   isbn13: '9783551581068'
   pages: '376'
-  publication_year: null
+  publication_year: '2002'
   series: Der Clan der Otori
   series_position: '1'
   slug: das-schwert-in-der-stille

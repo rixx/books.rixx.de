@@ -7,7 +7,7 @@ book:
   isbn10: 0141185260
   isbn13: '9780141185262'
   pages: '246'
-  publication_year: '2000'
+  publication_year: '1962'
   slug: pale-fire
   title: Pale Fire
 plan:

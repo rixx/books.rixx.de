@@ -7,7 +7,7 @@ book:
   isbn10: '3453532899'
   isbn13: '9783453532892'
   pages: '398'
-  publication_year: '2008'
+  publication_year: '2004'
   series: Die Drachenkämpferin
   series_position: '2'
   slug: die-drachenkampferin-der-auftrag-des-magiers

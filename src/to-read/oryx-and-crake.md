@@ -7,7 +7,7 @@ book:
   isbn10: 0385721676
   isbn13: '9780385721677'
   pages: '389'
-  publication_year: '2004'
+  publication_year: '2003'
   series: MaddAddam
   series_position: '1'
   slug: oryx-and-crake

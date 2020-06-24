@@ -7,7 +7,7 @@ book:
   isbn10: 0987824899
   isbn13: '9780987824899'
   pages: '252'
-  publication_year: '2013'
+  publication_year: '2012'
   slug: what-kings-ate-and-wizards-drank
   title: What Kings Ate and Wizards Drank
 plan:

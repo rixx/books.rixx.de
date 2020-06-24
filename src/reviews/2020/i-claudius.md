@@ -7,7 +7,7 @@ book:
   isbn10: 067972477X
   isbn13: '9780679724773'
   pages: '468'
-  publication_year: '1989'
+  publication_year: '1934'
   series: Claudius
   series_position: '1'
   slug: i-claudius

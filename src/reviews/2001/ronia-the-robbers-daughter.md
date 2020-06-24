@@ -7,7 +7,7 @@ book:
   isbn10: '0140317201'
   isbn13: '9780140317206'
   pages: '176'
-  publication_year: '1985'
+  publication_year: '1981'
   slug: ronia-the-robbers-daughter
   tags:
   - german

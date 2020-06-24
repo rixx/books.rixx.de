@@ -7,7 +7,7 @@ book:
   isbn10: 0393307050
   isbn13: '9780393307054'
   pages: '464'
-  publication_year: '1990'
+  publication_year: '1970'
   series: Aubrey & Maturin
   series_position: '1'
   slug: master-and-commander

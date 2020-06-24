@@ -7,7 +7,7 @@ book:
   isbn10: 015204941X
   isbn13: '9780152049416'
   pages: '372'
-  publication_year: '2003'
+  publication_year: '1990'
   series: Young Wizards
   series_position: '3'
   slug: high-wizardry

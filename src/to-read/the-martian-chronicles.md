@@ -7,7 +7,7 @@ book:
   isbn10: 0553278223
   isbn13: '9780553278224'
   pages: '182'
-  publication_year: '1984'
+  publication_year: '1949'
   slug: the-martian-chronicles
   title: The Martian Chronicles
 plan:

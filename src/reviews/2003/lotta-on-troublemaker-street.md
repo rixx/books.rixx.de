@@ -7,7 +7,7 @@ book:
   isbn10: 0689846738
   isbn13: '9780689846731'
   pages: '55'
-  publication_year: '2001'
+  publication_year: '1958'
   slug: lotta-on-troublemaker-street
   tags:
   - german

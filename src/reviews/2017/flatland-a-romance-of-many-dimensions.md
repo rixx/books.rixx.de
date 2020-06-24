@@ -7,7 +7,7 @@ book:
   isbn10: 048627263X
   isbn13: '9780486272634'
   pages: '96'
-  publication_year: '1992'
+  publication_year: '1884'
   slug: flatland-a-romance-of-many-dimensions
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: 0679879242
   isbn13: '9780679879244'
   pages: '399'
-  publication_year: '1996'
+  publication_year: '1995'
   series: His Dark Materials
   series_position: '1'
   slug: the-golden-compass

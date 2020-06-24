@@ -6,7 +6,7 @@ book:
   goodreads: '2453546'
   isbn10: '3357003686'
   isbn13: '9783357003689'
-  publication_year: '1993'
+  publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '4'
   slug: heimkehr-zu-den-dakota

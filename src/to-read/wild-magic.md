@@ -7,7 +7,7 @@ book:
   isbn10: '1416903437'
   isbn13: '9781416903437'
   pages: '362'
-  publication_year: '2005'
+  publication_year: '1992'
   series: Immortals
   series_position: '1'
   slug: wild-magic

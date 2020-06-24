@@ -7,7 +7,7 @@ book:
   isbn10: 0689845367
   isbn13: '9780689845369'
   pages: '180'
-  publication_year: '2001'
+  publication_year: '1970'
   series: Earthsea Cycle
   series_position: '2'
   slug: the-tombs-of-atuan

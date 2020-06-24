@@ -6,7 +6,7 @@ book:
   goodreads: '1458525'
   isbn10: '3548606113'
   isbn13: '9783548606118'
-  publication_year: '2006'
+  publication_year: '1961'
   slug: solaris
   tags:
   - scifi

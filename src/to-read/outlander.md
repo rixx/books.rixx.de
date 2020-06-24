@@ -7,7 +7,7 @@ book:
   isbn10: 0440242940
   isbn13: '9780440242949'
   pages: '850'
-  publication_year: '2005'
+  publication_year: '1991'
   series: Outlander
   series_position: '1'
   slug: outlander

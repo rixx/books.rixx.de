@@ -7,7 +7,7 @@ book:
   isbn10: '3407808933'
   isbn13: '9783407808936'
   pages: '796'
-  publication_year: '2003'
+  publication_year: '2009'
   slug: krokodil-im-nacken
   tags:
   - german

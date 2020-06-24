@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327917017l/5073782._SX98_.jpg
   goodreads: '5073782'
   pages: '78'
-  publication_year: null
+  publication_year: '1987'
   series: Vorkosigan Saga
   series_position: '5.3'
   slug: the-borders-of-infinity

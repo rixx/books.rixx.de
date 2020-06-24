@@ -7,7 +7,7 @@ book:
   isbn10: 0345484266
   isbn13: '9780345484260'
   pages: '299'
-  publication_year: '2005'
+  publication_year: '1968'
   series: Dragonriders of Pern
   series_position: '1'
   slug: dragonflight

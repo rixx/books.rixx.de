@@ -7,7 +7,7 @@ book:
   isbn10: 0007491565
   isbn13: '9780007491568'
   pages: '227'
-  publication_year: '2013'
+  publication_year: '1953'
   slug: fahrenheit-451
   tags:
   - scifi

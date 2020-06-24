@@ -7,7 +7,7 @@ book:
   isbn10: 0819567590
   isbn13: '9780819567598'
   pages: '144'
-  publication_year: '2005'
+  publication_year: '1976'
   slug: we-who-are-about-to-
   title: We Who Are About To...
 plan:

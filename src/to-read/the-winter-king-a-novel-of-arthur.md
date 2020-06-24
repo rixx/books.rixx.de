@@ -7,7 +7,7 @@ book:
   isbn10: 0312156960
   isbn13: '9780312156961'
   pages: '433'
-  publication_year: '1997'
+  publication_year: '1995'
   series: The Warlord Chronicles
   series_position: '1'
   slug: the-winter-king-a-novel-of-arthur

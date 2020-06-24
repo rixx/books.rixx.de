@@ -7,7 +7,7 @@ book:
   isbn10: 0345476875
   isbn13: '9780345476876'
   pages: '342'
-  publication_year: '2004'
+  publication_year: '1976'
   series: The Vampire Chronicles
   series_position: '1'
   slug: interview-with-the-vampire

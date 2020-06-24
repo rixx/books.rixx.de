@@ -7,7 +7,7 @@ book:
   isbn10: 0060502932
   isbn13: '9780060502935'
   pages: '394'
-  publication_year: '2005'
+  publication_year: '2004'
   series: Discworld
   series_position: '33'
   slug: going-postal

@@ -7,7 +7,7 @@ book:
   isbn10: 0670886580
   isbn13: '9780670886586'
   pages: '224'
-  publication_year: '1999'
+  publication_year: '1990'
   series: Khalifa Brothers
   series_position: '1'
   slug: haroun-and-the-sea-of-stories

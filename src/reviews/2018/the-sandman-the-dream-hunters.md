@@ -7,7 +7,7 @@ book:
   isbn10: '1840232048'
   isbn13: '9781840232042'
   pages: '128'
-  publication_year: '2000'
+  publication_year: '1999'
   slug: the-sandman-the-dream-hunters
   tags:
   - fantasy

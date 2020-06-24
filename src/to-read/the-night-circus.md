@@ -7,7 +7,7 @@ book:
   isbn10: '0307744434'
   isbn13: '9780307744432'
   pages: '516'
-  publication_year: '2012'
+  publication_year: '2011'
   slug: the-night-circus
   title: The Night Circus
 plan:

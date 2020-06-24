@@ -4,7 +4,7 @@ book:
   cover_image: joseph-fouche.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430213948l/25442918.jpg
   goodreads: '25442918'
-  publication_year: null
+  publication_year: '1929'
   slug: joseph-fouche
   tags:
   - german

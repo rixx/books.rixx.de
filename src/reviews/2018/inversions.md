@@ -7,7 +7,7 @@ book:
   isbn10: 074341196X
   isbn13: '9780743411967'
   pages: '343'
-  publication_year: '2001'
+  publication_year: '1998'
   series: Culture
   series_position: '6'
   slug: inversions

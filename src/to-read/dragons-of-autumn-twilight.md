@@ -7,7 +7,7 @@ book:
   isbn10: 0786915749
   isbn13: '9780786915743'
   pages: '444'
-  publication_year: '2000'
+  publication_year: '1984'
   series: 'Dragonlance: Chronicles'
   series_position: '1'
   slug: dragons-of-autumn-twilight

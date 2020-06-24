@@ -7,7 +7,7 @@ book:
   isbn10: '0413771164'
   isbn13: '9780413771162'
   pages: '336'
-  publication_year: '2002'
+  publication_year: '2000'
   series: Discworld
   series_position: '25'
   slug: the-truth

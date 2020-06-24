@@ -6,7 +6,7 @@ book:
   goodreads: '47989'
   isbn10: 055215430X
   isbn13: '9780552154307'
-  publication_year: null
+  publication_year: '2002'
   series: Discworld
   series_position: '29'
   slug: night-watch

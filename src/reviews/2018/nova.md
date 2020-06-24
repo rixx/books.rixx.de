@@ -7,7 +7,7 @@ book:
   isbn10: '0375706704'
   isbn13: '9780375706707'
   pages: '241'
-  publication_year: '2002'
+  publication_year: '1968'
   slug: nova
   tags:
   - scifi

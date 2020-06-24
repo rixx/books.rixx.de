@@ -7,7 +7,7 @@ book:
   isbn10: null
   isbn13: null
   pages: null
-  publication_year: null
+  publication_year: '2016'
   slug: boy-of-fire-and-earth
   title: Boy of Fire and Earth
 plan:

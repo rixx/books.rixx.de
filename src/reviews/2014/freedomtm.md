@@ -7,13 +7,13 @@ book:
   isbn10: 0451231899
   isbn13: '9780451231895'
   pages: '486'
-  publication_year: '2011'
+  publication_year: '2010'
   series: Daemon
   series_position: '2'
   slug: freedomtm
-  title: Freedom™
   tags:
   - scifi
+  title: Freedom™
 plan:
   date_added: '2018-02-13'
 review:

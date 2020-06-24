@@ -7,7 +7,7 @@ book:
   isbn10: 0689877870
   isbn13: '9780689877872'
   pages: '250'
-  publication_year: '2005'
+  publication_year: '2001'
   series: Dark Reflections
   series_position: '1'
   slug: the-water-mirror

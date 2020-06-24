@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SX98_.jpg
   goodreads: '8695'
   pages: '250'
-  publication_year: '2005'
+  publication_year: '1980'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '2'
   slug: the-restaurant-at-the-end-of-the-universe

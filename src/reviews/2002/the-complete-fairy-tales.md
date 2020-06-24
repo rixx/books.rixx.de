@@ -7,7 +7,7 @@ book:
   isbn10: 0517092913
   isbn13: '9780517092910'
   pages: '803'
-  publication_year: '1996'
+  publication_year: '1913'
   slug: the-complete-fairy-tales
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '0142004030'
   isbn13: '9780142004036'
   pages: '399'
-  publication_year: '2004'
+  publication_year: '2002'
   series: Thursday Next
   series_position: '2'
   slug: lost-in-a-good-book

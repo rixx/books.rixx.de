@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281419771l/888628._SY160_.jpg
   goodreads: '888628'
   pages: '320'
-  publication_year: '2000'
+  publication_year: '1984'
   series: Sprawl
   series_position: '1'
   slug: neuromancer

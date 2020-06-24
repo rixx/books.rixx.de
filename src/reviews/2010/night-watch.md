@@ -7,7 +7,7 @@ book:
   isbn10: '1401359795'
   isbn13: '9781401359799'
   pages: '455'
-  publication_year: '2006'
+  publication_year: '1998'
   series: Watch
   series_position: '1'
   slug: night-watch

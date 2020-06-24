@@ -7,7 +7,7 @@ book:
   isbn10: '0061020613'
   isbn13: '9780061020612'
   pages: '374'
-  publication_year: '2002'
+  publication_year: '1991'
   series: Discworld
   series_position: '12'
   slug: witches-abroad

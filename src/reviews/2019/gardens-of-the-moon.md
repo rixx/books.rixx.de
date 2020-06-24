@@ -7,7 +7,7 @@ book:
   isbn10: 0765348780
   isbn13: '9780765348784'
   pages: '657'
-  publication_year: '2005'
+  publication_year: '1999'
   series: Malazan Book of the Fallen
   series_position: '1'
   slug: gardens-of-the-moon

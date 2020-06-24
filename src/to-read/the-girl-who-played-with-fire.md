@@ -7,7 +7,7 @@ book:
   isbn10: 0307269981
   isbn13: '9780307269980'
   pages: '503'
-  publication_year: '2009'
+  publication_year: '2006'
   series: Millennium
   series_position: '2'
   slug: the-girl-who-played-with-fire

@@ -7,7 +7,7 @@ book:
   isbn10: 0805080481
   isbn13: '9780805080483'
   pages: '190'
-  publication_year: '2006'
+  publication_year: '1964'
   series: The Chronicles of Prydain
   series_position: '1'
   slug: the-book-of-three

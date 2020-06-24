@@ -7,7 +7,7 @@ book:
   isbn10: 0330493744
   isbn13: '9780330493741'
   pages: '1015'
-  publication_year: '2003'
+  publication_year: '2001'
   series: Phèdre's Trilogy
   series_position: '1'
   slug: kushiels-dart

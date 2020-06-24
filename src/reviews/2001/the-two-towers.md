@@ -7,7 +7,7 @@ book:
   isbn10: 0618346260
   isbn13: '9780618346264'
   pages: '322'
-  publication_year: '2003'
+  publication_year: '1954'
   series: The Lord of the Rings
   series_position: '2'
   slug: the-two-towers

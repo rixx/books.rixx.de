@@ -7,7 +7,7 @@ book:
   isbn10: '0553565214'
   isbn13: '9780553565218'
   pages: '454'
-  publication_year: '1993'
+  publication_year: '1986'
   series: Deverry
   series_position: '1'
   slug: daggerspell

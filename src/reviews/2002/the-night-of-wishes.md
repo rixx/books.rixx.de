@@ -7,7 +7,7 @@ book:
   isbn10: '0374455031'
   isbn13: '9780374455033'
   pages: '216'
-  publication_year: '1995'
+  publication_year: '1989'
   slug: the-night-of-wishes
   tags:
   - german

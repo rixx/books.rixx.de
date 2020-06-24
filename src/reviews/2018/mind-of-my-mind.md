@@ -7,7 +7,7 @@ book:
   isbn10: 0446361887
   isbn13: '9780446361880'
   pages: '224'
-  publication_year: '1994'
+  publication_year: '1977'
   series: Patternmaster
   series_position: '2'
   slug: mind-of-my-mind

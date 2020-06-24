@@ -7,7 +7,7 @@ book:
   isbn10: '1579126278'
   isbn13: '9781579126278'
   pages: '288'
-  publication_year: '2006'
+  publication_year: '1926'
   series: Hercule Poirot
   series_position: '4'
   slug: the-murder-of-roger-ackroyd

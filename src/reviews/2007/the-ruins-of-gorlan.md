@@ -7,7 +7,7 @@ book:
   isbn10: '0142406635'
   isbn13: '9780142406632'
   pages: '249'
-  publication_year: '2006'
+  publication_year: '2004'
   series: Ranger's Apprentice
   series_position: '1'
   slug: the-ruins-of-gorlan

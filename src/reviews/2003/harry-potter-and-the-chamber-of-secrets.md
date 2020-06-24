@@ -7,7 +7,7 @@ book:
   isbn10: 0439064864
   isbn13: '9780439064866'
   pages: '341'
-  publication_year: '1999'
+  publication_year: '1998'
   series: Harry Potter
   series_position: '2'
   slug: harry-potter-and-the-chamber-of-secrets

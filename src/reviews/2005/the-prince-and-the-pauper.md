@@ -7,7 +7,7 @@ book:
   isbn10: 0451528352
   isbn13: '9780451528353'
   pages: '240'
-  publication_year: '2002'
+  publication_year: '1881'
   slug: the-prince-and-the-pauper
   tags:
   - historical-fiction

@@ -7,7 +7,7 @@ book:
   isbn10: '0743452615'
   isbn13: '9780743452618'
   pages: '592'
-  publication_year: '2002'
+  publication_year: '1967'
   slug: dangerous-visions
   title: Dangerous Visions
 plan:

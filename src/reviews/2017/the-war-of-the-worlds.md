@@ -7,7 +7,7 @@ book:
   isbn10: 0375759239
   isbn13: '9780375759239'
   pages: '192'
-  publication_year: '2002'
+  publication_year: '1898'
   slug: the-war-of-the-worlds
   tags:
   - scifi

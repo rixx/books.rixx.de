@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575744653l/8488439._SX98_.jpg
   goodreads: '8488439'
   pages: '57'
-  publication_year: '2010'
+  publication_year: '2004'
   series: Laundry Files
   series_position: '1.5'
   slug: the-concrete-jungle

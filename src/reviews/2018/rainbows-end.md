@@ -7,7 +7,7 @@ book:
   isbn10: 0812536363
   isbn13: '9780812536362'
   pages: '381'
-  publication_year: '2007'
+  publication_year: '2006'
   slug: rainbows-end
   tags:
   - scifi

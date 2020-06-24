@@ -7,7 +7,7 @@ book:
   isbn10: 0393970124
   isbn13: '9780393970128'
   pages: '488'
-  publication_year: '1986'
+  publication_year: '1897'
   slug: dracula
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: 0380813815
   isbn13: '9780380813810'
   pages: '444'
-  publication_year: '2004'
+  publication_year: '2002'
   slug: lamb-the-gospel-according-to-biff-christs-childhood-pal
   tags:
   - historical-fiction

@@ -7,7 +7,7 @@ book:
   isbn10: 0441068804
   isbn13: '9780441068807'
   pages: '256'
-  publication_year: '1987'
+  publication_year: '1982'
   series: Damar
   series_position: '1'
   slug: the-blue-sword

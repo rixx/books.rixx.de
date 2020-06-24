@@ -7,7 +7,7 @@ book:
   isbn10: 055358202X
   isbn13: '9780553582024'
   pages: '1061'
-  publication_year: '2011'
+  publication_year: '2005'
   series: A Song of Ice and Fire
   series_position: '4'
   slug: a-feast-for-crows

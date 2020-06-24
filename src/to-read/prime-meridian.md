@@ -7,7 +7,7 @@ book:
   isbn10: '1927990211'
   isbn13: '9781927990216'
   pages: '122'
-  publication_year: null
+  publication_year: '2017'
   slug: prime-meridian
   title: Prime Meridian
 plan:

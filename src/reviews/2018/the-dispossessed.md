@@ -7,7 +7,7 @@ book:
   isbn10: 0061054887
   isbn13: '9780061054884'
   pages: '387'
-  publication_year: '1994'
+  publication_year: '1974'
   slug: the-dispossessed
   tags:
   - scifi

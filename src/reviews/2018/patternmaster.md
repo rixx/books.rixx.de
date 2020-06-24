@@ -7,7 +7,7 @@ book:
   isbn10: 0446362816
   isbn13: '9780446362818'
   pages: '202'
-  publication_year: '1995'
+  publication_year: '1976'
   series: Patternmaster
   series_position: '4'
   slug: patternmaster

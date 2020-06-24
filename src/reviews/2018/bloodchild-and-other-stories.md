@@ -7,7 +7,7 @@ book:
   isbn10: '1583226982'
   isbn13: '9781583226988'
   pages: '214'
-  publication_year: '2005'
+  publication_year: '1995'
   slug: bloodchild-and-other-stories
   title: Bloodchild and Other Stories
 plan:

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg
   goodreads: '3'
   pages: '309'
-  publication_year: '2003'
+  publication_year: '1997'
   series: Harry Potter
   series_position: '1'
   slug: harry-potter-and-the-sorcerers-stone

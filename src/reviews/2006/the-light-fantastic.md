@@ -7,7 +7,7 @@ book:
   isbn10: '0061020702'
   isbn13: '9780061020704'
   pages: '277'
-  publication_year: '2000'
+  publication_year: '1986'
   series: Discworld
   series_position: '2'
   slug: the-light-fantastic

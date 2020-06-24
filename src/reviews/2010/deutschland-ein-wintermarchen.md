@@ -7,7 +7,7 @@ book:
   isbn10: '3938484144'
   isbn13: '9783938484142'
   pages: '80'
-  publication_year: '2006'
+  publication_year: '1844'
   slug: deutschland-ein-wintermarchen
   tags:
   - german

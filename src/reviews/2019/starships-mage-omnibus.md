@@ -4,14 +4,14 @@ book:
   cover_image: starships-mage-omnibus.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425613194l/23848809.jpg
   goodreads: '23848809'
-  publication_year: null
+  publication_year: '2014'
   series: Starship's Mage
   series_position: '1'
   slug: starships-mage-omnibus
-  title: 'Starship''s Mage: Omnibus'
   tags:
   - fantasy
   - scifi
+  title: 'Starship''s Mage: Omnibus'
 plan:
   date_added: '2019-11-22'
 review:

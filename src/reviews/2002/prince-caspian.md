@@ -7,7 +7,7 @@ book:
   isbn10: 000720230X
   isbn13: '9780007202300'
   pages: '240'
-  publication_year: '2005'
+  publication_year: '1951'
   series: Chronicles of Narnia
   series_position: '2'
   slug: prince-caspian

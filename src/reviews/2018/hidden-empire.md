@@ -7,7 +7,7 @@ book:
   isbn10: '0446610577'
   isbn13: '9780446610575'
   pages: '654'
-  publication_year: '2003'
+  publication_year: '2002'
   series: The Saga of Seven Suns
   series_position: '1'
   slug: hidden-empire

@@ -7,7 +7,7 @@ book:
   isbn10: '0446603635'
   isbn13: '9780446603638'
   pages: '224'
-  publication_year: '1997'
+  publication_year: '1989'
   series: Xenogenesis
   series_position: '3'
   slug: imago

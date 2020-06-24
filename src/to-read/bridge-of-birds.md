@@ -7,7 +7,7 @@ book:
   isbn10: 0345321383
   isbn13: '9780345321381'
   pages: '278'
-  publication_year: '1985'
+  publication_year: '1984'
   series: The Chronicles of Master Li and Number Ten Ox
   series_position: '1'
   slug: bridge-of-birds

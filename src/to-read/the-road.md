@@ -7,7 +7,7 @@ book:
   isbn10: 0307476308
   isbn13: '9780307476302'
   pages: '287'
-  publication_year: '2007'
+  publication_year: '2006'
   slug: the-road
   title: The Road
 plan:

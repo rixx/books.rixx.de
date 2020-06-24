@@ -7,7 +7,7 @@ book:
   isbn10: '0553560735'
   isbn13: '9780553560732'
   pages: '572'
-  publication_year: '1993'
+  publication_year: '1992'
   series: Mars Trilogy
   series_position: '1'
   slug: red-mars

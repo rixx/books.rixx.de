@@ -7,7 +7,7 @@ book:
   isbn10: 0374239665
   isbn13: '9780374239664'
   pages: '320'
-  publication_year: '2010'
+  publication_year: '2003'
   slug: dance-of-the-photons-from-einstein-to-quantum-teleportation
   title: 'Dance of the Photons: From Einstein to Quantum Teleportation'
 plan:

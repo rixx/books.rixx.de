@@ -7,7 +7,7 @@ book:
   isbn10: '1250192447'
   isbn13: '9781250192448'
   pages: '21'
-  publication_year: '2018'
+  publication_year: '2019'
   slug: the-last-voyage-of-skidbladnir
   tags:
   - scifi

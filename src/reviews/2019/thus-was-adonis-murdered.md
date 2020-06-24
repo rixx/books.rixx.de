@@ -7,7 +7,7 @@ book:
   isbn10: '0440212316'
   isbn13: '9780440212317'
   pages: '314'
-  publication_year: '1994'
+  publication_year: '1981'
   series: Hilary Tamar
   series_position: '1'
   slug: thus-was-adonis-murdered

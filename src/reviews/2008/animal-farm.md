@@ -7,7 +7,7 @@ book:
   isbn10: 0452284244
   isbn13: '9780452284241'
   pages: '122'
-  publication_year: '2003'
+  publication_year: '1945'
   slug: animal-farm
   title: Animal Farm
 plan:

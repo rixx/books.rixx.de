@@ -6,7 +6,7 @@ book:
   goodreads: '316808'
   isbn10: '3522174402'
   isbn13: '9783522174404'
-  publication_year: null
+  publication_year: '1966'
   slug: the-little-ghost
   tags:
   - german

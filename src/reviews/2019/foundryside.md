@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SX98_.jpg
   goodreads: '37173847'
   pages: '512'
-  publication_year: null
+  publication_year: '2018'
   series: The Founders Trilogy
   series_position: '1'
   slug: foundryside

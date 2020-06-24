@@ -7,7 +7,7 @@ book:
   isbn10: '3351033494'
   isbn13: '9783351033491'
   pages: '704'
-  publication_year: '2011'
+  publication_year: '1947'
   slug: jeder-stirbt-fur-sich-allein
   title: Jeder stirbt für sich allein
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 0446603783
   isbn13: '9780446603782'
   pages: '277'
-  publication_year: '1997'
+  publication_year: '1988'
   series: Xenogenesis
   series_position: '2'
   slug: adulthood-rites

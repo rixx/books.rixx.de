@@ -7,7 +7,7 @@ book:
   isbn10: 0671697994
   isbn13: '9780671697990'
   pages: '338'
-  publication_year: '2001'
+  publication_year: '1989'
   series: Vorkosigan Saga
   series_position: '5'
   slug: brothers-in-arms

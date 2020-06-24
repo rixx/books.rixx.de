@@ -7,7 +7,7 @@ book:
   isbn10: 0553383043
   isbn13: '9780553383041'
   pages: '183'
-  publication_year: null
+  publication_year: '1968'
   series: Earthsea Cycle
   series_position: '1'
   slug: a-wizard-of-earthsea

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328341796l/8605343.jpg
   goodreads: '8605343'
   pages: '32'
-  publication_year: '2010'
+  publication_year: '2008'
   series: Laundry Files
   series_position: '2.5'
   slug: down-on-the-farm

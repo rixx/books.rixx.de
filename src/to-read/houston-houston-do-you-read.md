@@ -7,7 +7,7 @@ book:
   isbn10: '1568652518'
   isbn13: '9781568652511'
   pages: '150'
-  publication_year: '1996'
+  publication_year: '1976'
   slug: houston-houston-do-you-read
   title: Houston, Houston, Do You Read?
 plan:

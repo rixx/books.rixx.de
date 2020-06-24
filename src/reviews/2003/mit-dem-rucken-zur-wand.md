@@ -7,7 +7,7 @@ book:
   isbn10: 340778922X
   isbn13: '9783407789228'
   pages: '452'
-  publication_year: '2003'
+  publication_year: '1990'
   slug: mit-dem-rucken-zur-wand
   tags:
   - german

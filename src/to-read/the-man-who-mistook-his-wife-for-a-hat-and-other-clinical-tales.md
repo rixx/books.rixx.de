@@ -7,7 +7,7 @@ book:
   isbn10: 0684853949
   isbn13: '9780684853949'
   pages: '243'
-  publication_year: '1998'
+  publication_year: '1985'
   slug: the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales
   title: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
 plan:

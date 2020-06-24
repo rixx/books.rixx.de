@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389830032l/20556323.jpg
   goodreads: '20556323'
   pages: '376'
-  publication_year: null
+  publication_year: '2013'
   slug: complex-ptsd-from-surviving-to-thriving
   tags:
   - nonfiction

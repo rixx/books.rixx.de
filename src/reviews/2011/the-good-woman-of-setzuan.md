@@ -7,7 +7,7 @@ book:
   isbn10: 0816635277
   isbn13: '9780816635276'
   pages: '112'
-  publication_year: '1999'
+  publication_year: '1953'
   slug: the-good-woman-of-setzuan
   tags:
   - german

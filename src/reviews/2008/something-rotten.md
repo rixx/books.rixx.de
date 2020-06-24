@@ -7,7 +7,7 @@ book:
   isbn10: 014303541X
   isbn13: '9780143035411'
   pages: '385'
-  publication_year: '2005'
+  publication_year: '2004'
   series: Thursday Next
   series_position: '4'
   slug: something-rotten

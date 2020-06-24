@@ -7,7 +7,7 @@ book:
   isbn10: 0195024028
   isbn13: '9780195024029'
   pages: '552'
-  publication_year: '1979'
+  publication_year: '1978'
   slug: the-timeless-way-of-building
   title: The Timeless Way of Building
 plan:

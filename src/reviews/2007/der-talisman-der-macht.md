@@ -7,7 +7,7 @@ book:
   isbn10: '3453533038'
   isbn13: '9783453533035'
   pages: '510'
-  publication_year: '2009'
+  publication_year: '2005'
   series: Die Drachenkämpferin
   series_position: '3'
   slug: der-talisman-der-macht

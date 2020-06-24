@@ -7,7 +7,7 @@ book:
   isbn10: '0061043532'
   isbn13: '9780061043536'
   pages: '288'
-  publication_year: '1995'
+  publication_year: '1926'
   series: Lord Peter Wimsey
   series_position: '2'
   slug: clouds-of-witness

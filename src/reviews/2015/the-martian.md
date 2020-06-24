@@ -7,7 +7,7 @@ book:
   isbn10: 0804139024
   isbn13: '9780804139021'
   pages: '369'
-  publication_year: '2014'
+  publication_year: '2012'
   slug: the-martian
   tags:
   - scifi

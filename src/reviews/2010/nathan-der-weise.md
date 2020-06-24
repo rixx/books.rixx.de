@@ -7,7 +7,7 @@ book:
   isbn10: '3150000033'
   isbn13: '9783150000038'
   pages: '160'
-  publication_year: '1993'
+  publication_year: '1779'
   slug: nathan-der-weise
   tags:
   - german

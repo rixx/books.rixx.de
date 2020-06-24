@@ -7,10 +7,11 @@ book:
   isbn10: 0679744479
   isbn13: '9780679744474'
   pages: '192'
-  publication_year: '1994'
+  publication_year: '1992'
   slug: written-on-the-body
   title: Written on the Body
 plan:
   date_added: 2020-06-07
 ---
+
 via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)

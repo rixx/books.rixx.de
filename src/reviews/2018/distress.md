@@ -6,7 +6,7 @@ book:
   goodreads: '156781'
   isbn10: '0061057274'
   pages: '456'
-  publication_year: '1998'
+  publication_year: '1995'
   series: Subjective Cosmology
   series_position: '3'
   slug: distress

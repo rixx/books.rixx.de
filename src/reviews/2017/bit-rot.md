@@ -3,7 +3,7 @@ book:
   author: Charles Stross
   goodreads: '18078713'
   pages: '22'
-  publication_year: '2013'
+  publication_year: '2010'
   series: Freyaverse
   series_position: '1.5'
   slug: bit-rot

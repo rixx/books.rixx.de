@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519256229l/223620._SX98_.jpg
   goodreads: '223620'
   pages: '120'
-  publication_year: '2004'
+  publication_year: '1952'
   slug: der-verdacht
   tags:
   - german

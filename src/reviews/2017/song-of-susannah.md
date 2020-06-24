@@ -6,7 +6,7 @@ book:
   goodreads: '5093'
   isbn10: '1416521496'
   pages: '544'
-  publication_year: '2006'
+  publication_year: '2004'
   series: The Dark Tower
   series_position: '6'
   slug: song-of-susannah

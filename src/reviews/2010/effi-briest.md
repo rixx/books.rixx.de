@@ -7,7 +7,7 @@ book:
   isbn10: 0140441905
   isbn13: '9780140441901'
   pages: '272'
-  publication_year: '1976'
+  publication_year: '1894'
   slug: effi-briest
   tags:
   - german

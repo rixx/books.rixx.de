@@ -7,7 +7,7 @@ book:
   isbn10: '0441011233'
   isbn13: '9780441011230'
   pages: '231'
-  publication_year: '2003'
+  publication_year: '2000'
   series: Hainish Cycle
   series_position: '8'
   slug: the-telling

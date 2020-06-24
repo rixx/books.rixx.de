@@ -7,7 +7,7 @@ book:
   isbn10: 0689877897
   isbn13: '9780689877896'
   pages: '350'
-  publication_year: '2006'
+  publication_year: '2002'
   series: Dark Reflections
   series_position: '2'
   slug: the-stone-light

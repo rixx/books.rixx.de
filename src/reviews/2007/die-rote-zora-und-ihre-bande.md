@@ -7,7 +7,7 @@ book:
   isbn10: '3794101227'
   isbn13: '9783794101221'
   pages: '383'
-  publication_year: '2003'
+  publication_year: '1941'
   slug: die-rote-zora-und-ihre-bande
   tags:
   - german

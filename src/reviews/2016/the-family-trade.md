@@ -7,7 +7,7 @@ book:
   isbn10: 0765348217
   isbn13: '9780765348210'
   pages: '308'
-  publication_year: '2005'
+  publication_year: '2004'
   series: The Merchant Princes
   series_position: '1'
   slug: the-family-trade

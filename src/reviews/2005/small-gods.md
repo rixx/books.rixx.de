@@ -7,7 +7,7 @@ book:
   isbn10: 0552152978
   isbn13: '9780552152976'
   pages: '400'
-  publication_year: '2005'
+  publication_year: '1992'
   series: Discworld
   series_position: '13'
   slug: small-gods

@@ -4,7 +4,7 @@ book:
   cover_image: clockwork-boys.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511019840l/36618062._SY475_.jpg
   goodreads: '36618062'
-  publication_year: null
+  publication_year: '2017'
   series: Clocktaur War
   series_position: '1'
   slug: clockwork-boys

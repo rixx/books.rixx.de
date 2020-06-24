@@ -6,7 +6,7 @@ book:
   goodreads: '92610'
   isbn10: 0441732968
   isbn13: '9780441732968'
-  publication_year: '1984'
+  publication_year: '1966'
   slug: rocannons-world
   tags:
   - scifi

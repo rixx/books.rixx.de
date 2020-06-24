@@ -4,7 +4,7 @@ book:
   cover_image: die-weimarer-republik.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515502827l/11397051._SX98_.jpg
   goodreads: '11397051'
-  publication_year: null
+  publication_year: '2009'
   slug: die-weimarer-republik
   tags:
   - german

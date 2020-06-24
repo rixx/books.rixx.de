@@ -7,7 +7,7 @@ book:
   isbn10: '1411602196'
   isbn13: '9781411602199'
   pages: '176'
-  publication_year: '2010'
+  publication_year: '2006'
   slug: the-metamorphosis-of-prime-intellect
   title: The Metamorphosis of Prime Intellect
 plan:

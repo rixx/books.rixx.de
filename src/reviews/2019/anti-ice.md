@@ -7,7 +7,7 @@ book:
   isbn10: '0061054216'
   isbn13: '9780061054211'
   pages: '289'
-  publication_year: '1994'
+  publication_year: '1993'
   slug: anti-ice
   tags:
   - scifi

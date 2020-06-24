@@ -7,7 +7,7 @@ book:
   isbn10: '0552154164'
   isbn13: '9780552154161'
   pages: '461'
-  publication_year: '2006'
+  publication_year: '1997'
   series: Discworld
   series_position: '21'
   slug: jingo

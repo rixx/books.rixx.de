@@ -7,7 +7,7 @@ book:
   isbn10: '3866151101'
   isbn13: '9783866151109'
   pages: '462'
-  publication_year: '2005'
+  publication_year: '1994'
   slug: die-roten-matrosen
   tags:
   - german

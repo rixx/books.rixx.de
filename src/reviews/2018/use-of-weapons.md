@@ -7,7 +7,7 @@ book:
   isbn10: 185723135X
   isbn13: '9781857231359'
   pages: '411'
-  publication_year: null
+  publication_year: '1990'
   series: Culture
   series_position: '3'
   slug: use-of-weapons

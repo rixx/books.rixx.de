@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158403l/16171523._SX98_.jpg
   goodreads: '16171523'
   pages: '898'
-  publication_year: '2013'
+  publication_year: '2008'
   series: Like None Other
   series_position: '2'
   slug: a-summer-like-none-other

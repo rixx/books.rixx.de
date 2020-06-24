@@ -7,7 +7,7 @@ book:
   isbn10: 0449210820
   isbn13: '9780449210826'
   pages: '376'
-  publication_year: '1985'
+  publication_year: '1976'
   slug: woman-on-the-edge-of-time
   title: Woman on the Edge of Time
 plan:

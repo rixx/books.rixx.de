@@ -7,7 +7,7 @@ book:
   isbn10: 0316067938
   isbn13: '9780316067935'
   pages: '757'
-  publication_year: '2010'
+  publication_year: '2008'
   series: Twilight
   series_position: '4'
   slug: breaking-dawn

@@ -7,7 +7,7 @@ book:
   isbn10: 0886825016
   isbn13: '9780886825010'
   pages: '32'
-  publication_year: '1997'
+  publication_year: '1973'
   slug: the-ones-who-walk-away-from-omelas
   tags:
   - scifi

@@ -7,7 +7,7 @@ book:
   isbn10: '1492654418'
   isbn13: '9781492654414'
   pages: '320'
-  publication_year: '2017'
+  publication_year: '2012'
   slug: blackout
   title: Blackout
 plan:

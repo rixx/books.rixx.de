@@ -7,13 +7,13 @@ book:
   isbn10: 0525951113
   isbn13: '9780525951117'
   pages: '432'
-  publication_year: null
+  publication_year: '2006'
   series: Daemon
   series_position: '1'
   slug: daemon
-  title: Daemon
   tags:
   - scifi
+  title: Daemon
 plan:
   date_added: '2015-04-09'
 review:

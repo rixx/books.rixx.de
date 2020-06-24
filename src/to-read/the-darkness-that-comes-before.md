@@ -7,7 +7,7 @@ book:
   isbn10: '1585676772'
   isbn13: '9781585676774'
   pages: '608'
-  publication_year: '2005'
+  publication_year: '2003'
   series: The Prince of Nothing
   series_position: '1'
   slug: the-darkness-that-comes-before

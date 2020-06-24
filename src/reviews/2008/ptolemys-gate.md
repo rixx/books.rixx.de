@@ -7,7 +7,7 @@ book:
   isbn10: 0552550280
   isbn13: '9780552550284'
   pages: '515'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Bartimaeus
   series_position: '3'
   slug: ptolemys-gate

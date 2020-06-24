@@ -4,7 +4,7 @@ book:
   cover_image: the-daughter-of-odren.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422929380l/23380894.jpg
   goodreads: '23380894'
-  publication_year: null
+  publication_year: '2014'
   series: Earthsea Cycle
   series_position: '6.5'
   slug: the-daughter-of-odren

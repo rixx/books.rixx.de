@@ -7,7 +7,7 @@ book:
   isbn10: '0451461037'
   isbn13: '9780451461032'
   pages: '489'
-  publication_year: '2007'
+  publication_year: '2006'
   series: The Dresden Files
   series_position: '8'
   slug: proven-guilty

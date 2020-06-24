@@ -7,7 +7,7 @@ book:
   isbn10: 0553564943
   isbn13: '9780553564945'
   pages: '485'
-  publication_year: '1994'
+  publication_year: '1982'
   series: The Riftwar Saga
   series_position: '1'
   slug: magician-apprentice

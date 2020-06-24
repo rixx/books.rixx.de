@@ -7,7 +7,7 @@ book:
   isbn10: '0061031321'
   isbn13: '9780061031328'
   pages: '378'
-  publication_year: '2008'
+  publication_year: '2001'
   series: Discworld
   series_position: '26'
   slug: thief-of-time

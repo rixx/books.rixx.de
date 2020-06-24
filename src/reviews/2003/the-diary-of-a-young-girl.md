@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg
   goodreads: '48855'
   pages: '283'
-  publication_year: '1993'
+  publication_year: '1947'
   slug: the-diary-of-a-young-girl
   tags:
   - german

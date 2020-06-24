@@ -7,7 +7,7 @@ book:
   isbn10: '0441013651'
   isbn13: '9780441013654'
   pages: '345'
-  publication_year: '2006'
+  publication_year: '2004'
   series: Laundry Files
   series_position: '1'
   slug: the-atrocity-archives

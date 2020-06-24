@@ -7,7 +7,7 @@ book:
   isbn10: '0061053562'
   isbn13: '9780061053566'
   pages: '293'
-  publication_year: '1997'
+  publication_year: '1988'
   series: Culture
   series_position: '2'
   slug: the-player-of-games

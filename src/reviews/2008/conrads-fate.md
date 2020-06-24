@@ -7,7 +7,7 @@ book:
   isbn10: '0060747455'
   isbn13: '9780060747459'
   pages: '400'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Chrestomanci
   series_position: '5'
   slug: conrads-fate

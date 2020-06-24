@@ -7,7 +7,7 @@ book:
   isbn10: '0671742515'
   isbn13: '9780671742515'
   pages: '307'
-  publication_year: '1991'
+  publication_year: '1988'
   series: Dirk Gently
   series_position: '2'
   slug: the-long-dark-tea-time-of-the-soul

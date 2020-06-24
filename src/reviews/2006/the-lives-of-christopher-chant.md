@@ -7,7 +7,7 @@ book:
   isbn10: 0688163653
   isbn13: '9780688163655'
   pages: '240'
-  publication_year: '1998'
+  publication_year: '1988'
   series: Chrestomanci
   series_position: '2'
   slug: the-lives-of-christopher-chant

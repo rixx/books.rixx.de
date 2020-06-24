@@ -6,7 +6,7 @@ book:
   goodreads: '62035'
   isbn10: '3442450179'
   pages: '256'
-  publication_year: null
+  publication_year: '2000'
   series: Zamonien
   series_position: '2'
   slug: ensel-und-krete-ein-marchen-aus-zamonien

@@ -7,7 +7,7 @@ book:
   isbn10: 0060510862
   isbn13: '9780060510862'
   pages: '278'
-  publication_year: '2003'
+  publication_year: '1974'
   series: The Forever War
   series_position: '1'
   slug: the-forever-war

@@ -7,7 +7,7 @@ book:
   isbn10: 038039586X
   isbn13: '9780380395866'
   pages: '478'
-  publication_year: '1975'
+  publication_year: '1972'
   series: Watership Down
   series_position: '1'
   slug: watership-down

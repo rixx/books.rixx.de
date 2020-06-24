@@ -7,7 +7,7 @@ book:
   isbn10: 055215315X
   isbn13: '9780552153157'
   pages: '400'
-  publication_year: '2005'
+  publication_year: '1992'
   series: Discworld
   series_position: '14'
   slug: lords-and-ladies

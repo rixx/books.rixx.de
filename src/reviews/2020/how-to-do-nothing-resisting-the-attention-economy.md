@@ -6,7 +6,7 @@ book:
   goodreads: '42771901'
   isbn10: '1612197493'
   isbn13: '9781612197494'
-  publication_year: null
+  publication_year: '2019'
   slug: how-to-do-nothing-resisting-the-attention-economy
   tags:
   - nonfiction

@@ -7,7 +7,7 @@ book:
   isbn10: 0898702682
   isbn13: '9780898702682'
   pages: '293'
-  publication_year: '1989'
+  publication_year: '1896'
   slug: joan-of-arc
   title: Joan of Arc
 plan:

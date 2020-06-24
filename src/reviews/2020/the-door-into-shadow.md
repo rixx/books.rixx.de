@@ -7,7 +7,7 @@ book:
   isbn10: 0812523695
   isbn13: '9780812523690'
   pages: '298'
-  publication_year: '1985'
+  publication_year: '1984'
   series: Tale of the Five
   series_position: '2'
   slug: the-door-into-shadow

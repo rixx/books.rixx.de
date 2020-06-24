@@ -7,7 +7,7 @@ book:
   isbn10: '3596200199'
   isbn13: '9783596200191'
   pages: '137'
-  publication_year: '1989'
+  publication_year: '1912'
   slug: das-urteil-und-andere-erzahlungen
   tags:
   - german

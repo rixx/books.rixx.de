@@ -7,7 +7,7 @@ book:
   isbn10: '3150000157'
   isbn13: '9783150000151'
   pages: '176'
-  publication_year: '1986'
+  publication_year: '1781'
   slug: die-rauber
   tags:
   - german

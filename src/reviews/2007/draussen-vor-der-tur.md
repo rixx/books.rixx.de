@@ -6,7 +6,7 @@ book:
   goodreads: '484436'
   isbn10: 349910170X
   isbn13: '9783499101700'
-  publication_year: null
+  publication_year: '1947'
   slug: draussen-vor-der-tur
   tags:
   - german

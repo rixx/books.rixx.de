@@ -7,7 +7,7 @@ book:
   isbn10: 0152049428
   isbn13: '9780152049423'
   pages: '384'
-  publication_year: '2003'
+  publication_year: '1985'
   series: Young Wizards
   series_position: '2'
   slug: deep-wizardry

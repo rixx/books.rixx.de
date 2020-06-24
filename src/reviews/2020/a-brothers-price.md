@@ -7,7 +7,7 @@ book:
   isbn10: 0451460383
   isbn13: '9780451460387'
   pages: '310'
-  publication_year: null
+  publication_year: '2005'
   slug: a-brothers-price
   tags:
   - fantasy

@@ -7,7 +7,7 @@ book:
   isbn10: 0786817879
   isbn13: '9780786817870'
   pages: '396'
-  publication_year: '2003'
+  publication_year: '2001'
   series: Artemis Fowl
   series_position: '1'
   slug: artemis-fowl

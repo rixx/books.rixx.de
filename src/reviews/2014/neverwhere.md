@@ -7,7 +7,7 @@ book:
   isbn10: 0060557818
   isbn13: '9780060557812'
   pages: '370'
-  publication_year: '2003'
+  publication_year: '1996'
   series: London Below
   series_position: '1'
   slug: neverwhere

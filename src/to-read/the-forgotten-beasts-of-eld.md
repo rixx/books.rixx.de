@@ -7,7 +7,7 @@ book:
   isbn10: '0152055363'
   isbn13: '9780152055363'
   pages: '343'
-  publication_year: '2006'
+  publication_year: '1974'
   slug: the-forgotten-beasts-of-eld
   title: The Forgotten Beasts of Eld
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: '3473388491'
   isbn13: '9783473388493'
   pages: '270'
-  publication_year: '1983'
+  publication_year: '1962'
   series: Die Söhne der Großen Bärin
   series_position: '1'
   slug: harka

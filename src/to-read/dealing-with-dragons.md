@@ -7,7 +7,7 @@ book:
   isbn10: 015204566X
   isbn13: '9780152045661'
   pages: '212'
-  publication_year: '2002'
+  publication_year: '1990'
   series: Enchanted Forest Chronicles
   series_position: '1'
   slug: dealing-with-dragons

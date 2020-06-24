@@ -7,7 +7,7 @@ book:
   isbn10: 006076029X
   isbn13: '9780060760298'
   pages: '304'
-  publication_year: '2004'
+  publication_year: '1994'
   slug: four-ways-to-forgiveness
   tags:
   - scifi

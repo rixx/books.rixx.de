@@ -7,7 +7,7 @@ book:
   isbn10: 0061043494
   isbn13: '9780061043499'
   pages: '501'
-  publication_year: '1995'
+  publication_year: '1935'
   series: Lord Peter Wimsey
   series_position: '12'
   slug: gaudy-night

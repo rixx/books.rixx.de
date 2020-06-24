@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587697303l/1._SX98_.jpg
   goodreads: '1'
   pages: '652'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Harry Potter
   series_position: '6'
   slug: harry-potter-and-the-half-blood-prince

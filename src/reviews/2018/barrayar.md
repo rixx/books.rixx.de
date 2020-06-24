@@ -7,7 +7,7 @@ book:
   isbn10: 0743468414
   isbn13: '9780743468411'
   pages: '336'
-  publication_year: '2003'
+  publication_year: '1991'
   series: Vorkosigan Saga
   series_position: '7'
   slug: barrayar

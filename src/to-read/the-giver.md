@@ -7,7 +7,7 @@ book:
   isbn10: 0385732554
   isbn13: '9780385732550'
   pages: '208'
-  publication_year: '2006'
+  publication_year: '1993'
   series: The Giver
   series_position: '1'
   slug: the-giver

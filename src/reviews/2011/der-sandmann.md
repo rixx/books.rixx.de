@@ -7,7 +7,7 @@ book:
   isbn10: '3458326340'
   isbn13: '9783458326342'
   pages: '83'
-  publication_year: '1986'
+  publication_year: '1816'
   slug: der-sandmann
   tags:
   - german

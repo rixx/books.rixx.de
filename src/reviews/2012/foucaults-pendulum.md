@@ -7,7 +7,7 @@ book:
   isbn10: 015603297X
   isbn13: '9780156032971'
   pages: '623'
-  publication_year: '2007'
+  publication_year: '1988'
   slug: foucaults-pendulum
   tags:
   - german

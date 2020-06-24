@@ -7,7 +7,7 @@ book:
   isbn10: '0765327546'
   isbn13: '9780765327543'
   pages: '334'
-  publication_year: null
+  publication_year: '2012'
   series: Eternal Sky
   series_position: '1'
   slug: range-of-ghosts

@@ -7,7 +7,7 @@ book:
   isbn10: 0689877919
   isbn13: '9780689877919'
   pages: '282'
-  publication_year: '2008'
+  publication_year: '2002'
   series: Dark Reflections
   series_position: '3'
   slug: the-glass-word

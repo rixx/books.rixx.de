@@ -7,7 +7,7 @@ book:
   isbn10: 0345475836
   isbn13: '9780345475831'
   pages: '278'
-  publication_year: '2004'
+  publication_year: '1977'
   series: Heechee Saga
   series_position: '1'
   slug: gateway

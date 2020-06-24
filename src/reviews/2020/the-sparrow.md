@@ -7,7 +7,7 @@ book:
   isbn10: 0449912558
   isbn13: '9780449912553'
   pages: '516'
-  publication_year: '1997'
+  publication_year: '1996'
   series: The Sparrow
   series_position: '1'
   slug: the-sparrow

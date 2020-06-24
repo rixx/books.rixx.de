@@ -7,7 +7,7 @@ book:
   isbn10: 0020248717
   isbn13: '9780020248712'
   pages: '210'
-  publication_year: '1992'
+  publication_year: '1963'
   slug: way-station
   title: Way Station
 plan:

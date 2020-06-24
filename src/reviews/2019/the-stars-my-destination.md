@@ -7,7 +7,7 @@ book:
   isbn10: 0679767800
   isbn13: '9780679767800'
   pages: '258'
-  publication_year: null
+  publication_year: '1955'
   slug: the-stars-my-destination
   tags:
   - scifi

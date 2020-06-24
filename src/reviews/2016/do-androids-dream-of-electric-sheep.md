@@ -7,7 +7,7 @@ book:
   isbn10: '0345404475'
   isbn13: '9780345404473'
   pages: '244'
-  publication_year: '1996'
+  publication_year: '1968'
   series: Blade Runner
   series_position: '1'
   slug: do-androids-dream-of-electric-sheep

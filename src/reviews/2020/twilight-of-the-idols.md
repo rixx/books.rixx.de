@@ -7,7 +7,7 @@ book:
   isbn10: 0872203549
   isbn13: '9780872203549'
   pages: '209'
-  publication_year: '1889'
+  publication_year: '1888'
   slug: twilight-of-the-idols
   tags:
   - german

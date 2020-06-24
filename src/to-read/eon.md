@@ -7,7 +7,7 @@ book:
   isbn10: 0812520475
   isbn13: '9780812520477'
   pages: '512'
-  publication_year: '1991'
+  publication_year: '1985'
   series: The Way
   series_position: '1'
   slug: eon

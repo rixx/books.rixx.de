@@ -7,7 +7,7 @@ book:
   isbn10: 0765349159
   isbn13: '9780765349156'
   pages: '336'
-  publication_year: '2004'
+  publication_year: '1987'
   slug: war-for-the-oaks
   title: War for the Oaks
 plan:

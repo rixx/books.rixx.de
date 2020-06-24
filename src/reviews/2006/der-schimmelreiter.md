@@ -7,7 +7,7 @@ book:
   isbn10: 315006015X
   isbn13: '9783150060155'
   pages: '159'
-  publication_year: '2001'
+  publication_year: '1888'
   slug: der-schimmelreiter
   tags:
   - german

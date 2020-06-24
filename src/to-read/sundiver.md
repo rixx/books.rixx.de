@@ -7,7 +7,7 @@ book:
   isbn10: 0553269828
   isbn13: '9780553269826'
   pages: '340'
-  publication_year: '2010'
+  publication_year: '1980'
   series: The Uplift Saga
   series_position: '1'
   slug: sundiver

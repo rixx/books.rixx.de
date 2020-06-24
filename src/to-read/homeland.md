@@ -7,7 +7,7 @@ book:
   isbn10: 0786939532
   isbn13: '9780786939534'
   pages: '343'
-  publication_year: '2005'
+  publication_year: '1990'
   series: 'Forgotten Realms: The Dark Elf Trilogy'
   series_position: '1; Legend of Drizzt, #1'
   slug: homeland

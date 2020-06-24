@@ -7,7 +7,7 @@ book:
   isbn10: 156931778X
   isbn13: '9781569317785'
   pages: '617'
-  publication_year: '2003'
+  publication_year: '1999'
   slug: battle-royale
   tags:
   - ya

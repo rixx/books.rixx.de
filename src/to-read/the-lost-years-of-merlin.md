@@ -7,7 +7,7 @@ book:
   isbn10: 0441010288
   isbn13: '9780441010288'
   pages: '304'
-  publication_year: '2002'
+  publication_year: '1996'
   slug: the-lost-years-of-merlin
   title: The Lost Years of Merlin
 plan:

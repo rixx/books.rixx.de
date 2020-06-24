@@ -7,7 +7,7 @@ book:
   isbn10: 0575099127
   isbn13: '9780575099128'
   pages: '512'
-  publication_year: '2010'
+  publication_year: '2008'
   slug: house-of-suns
   title: House of Suns
 plan:

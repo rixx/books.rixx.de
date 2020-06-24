@@ -7,7 +7,7 @@ book:
   isbn10: 0839823282
   isbn13: '9780839823285'
   pages: '192'
-  publication_year: '1978'
+  publication_year: '1966'
   slug: babel-17
   tags:
   - scifi

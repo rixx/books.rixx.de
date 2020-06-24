@@ -7,7 +7,7 @@ book:
   isbn10: '1420928198'
   isbn13: '9781420928198'
   pages: '140'
-  publication_year: '2007'
+  publication_year: '1922'
   slug: my-life-and-work
   title: My Life And Work
 plan:

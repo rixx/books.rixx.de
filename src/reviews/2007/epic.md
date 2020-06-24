@@ -6,7 +6,7 @@ book:
   goodreads: '1003985'
   isbn10: 0670061794
   isbn13: '9780670061792'
-  publication_year: null
+  publication_year: '2004'
   series: Epic
   series_position: '1'
   slug: epic

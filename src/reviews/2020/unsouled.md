@@ -5,13 +5,13 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465881128l/30558257._SY475_.jpg
   goodreads: '30558257'
   pages: '294'
-  publication_year: null
+  publication_year: '2016'
   series: Cradle
   series_position: '1'
   slug: unsouled
-  title: Unsouled
   tags:
   - fantasy
+  title: Unsouled
 plan:
   date_added: '2018-08-20'
 review:

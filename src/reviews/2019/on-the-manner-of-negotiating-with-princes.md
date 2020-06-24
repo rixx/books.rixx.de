@@ -7,7 +7,7 @@ book:
   isbn10: 0618055126
   isbn13: '9780618055128'
   pages: '110'
-  publication_year: '2000'
+  publication_year: '1983'
   slug: on-the-manner-of-negotiating-with-princes
   tags:
   - nonfiction

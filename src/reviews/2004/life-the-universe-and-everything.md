@@ -7,7 +7,7 @@ book:
   isbn10: 0345418905
   isbn13: '9780345418906'
   pages: '224'
-  publication_year: '2005'
+  publication_year: '1982'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '3'
   slug: life-the-universe-and-everything

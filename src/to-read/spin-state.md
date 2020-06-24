@@ -7,7 +7,7 @@ book:
   isbn10: 0553586246
   isbn13: '9780553586244'
   pages: '642'
-  publication_year: '2004'
+  publication_year: '2003'
   series: Spin Trilogy
   series_position: '1'
   slug: spin-state

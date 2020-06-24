@@ -7,7 +7,7 @@ book:
   isbn10: 0345418778
   isbn13: '9780345418777'
   pages: '240'
-  publication_year: '2000'
+  publication_year: '1992'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '5'
   slug: mostly-harmless

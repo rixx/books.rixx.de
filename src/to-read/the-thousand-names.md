@@ -7,7 +7,7 @@ book:
   isbn10: '0451465105'
   isbn13: '9780451465108'
   pages: '513'
-  publication_year: null
+  publication_year: '2013'
   series: The Shadow Campaigns
   series_position: '1'
   slug: the-thousand-names

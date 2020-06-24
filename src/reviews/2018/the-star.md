@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451214185l/13598725._SX98_.jpg
   goodreads: '13598725'
   pages: '6'
-  publication_year: null
+  publication_year: '1955'
   slug: the-star
   tags:
   - scifi

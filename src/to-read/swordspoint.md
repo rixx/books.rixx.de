@@ -7,7 +7,7 @@ book:
   isbn10: 0553585495
   isbn13: '9780553585490'
   pages: '329'
-  publication_year: '2003'
+  publication_year: '1987'
   series: Riverside
   series_position: '1'
   slug: swordspoint

@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515620585l/37906597._SX98_.jpg
   goodreads: '37906597'
   pages: '499'
-  publication_year: '2012'
+  publication_year: '1932'
   series: Lord Peter Wimsey
   series_position: '8'
   slug: have-his-carcase

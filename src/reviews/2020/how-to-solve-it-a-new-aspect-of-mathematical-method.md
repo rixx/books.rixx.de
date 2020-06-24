@@ -7,7 +7,7 @@ book:
   isbn10: 069111966X
   isbn13: '9780691119663'
   pages: '288'
-  publication_year: '2015'
+  publication_year: '1944'
   slug: how-to-solve-it-a-new-aspect-of-mathematical-method
   tags:
   - nonfiction

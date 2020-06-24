@@ -7,7 +7,7 @@ book:
   isbn10: 0440178002
   isbn13: '9780440178002'
   pages: '1152'
-  publication_year: '2009'
+  publication_year: '1975'
   series: Asian Saga
   series_position: '1'
   slug: shogun

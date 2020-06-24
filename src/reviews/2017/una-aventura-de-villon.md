@@ -7,7 +7,7 @@ book:
   isbn10: '8470800566'
   isbn13: '9788470800566'
   pages: '80'
-  publication_year: '1979'
+  publication_year: '1877'
   slug: una-aventura-de-villon
   tags:
   - historical-fiction

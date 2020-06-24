@@ -7,7 +7,7 @@ book:
   isbn10: '1590623827'
   isbn13: '9781590623824'
   pages: '91'
-  publication_year: '2009'
+  publication_year: '1989'
   series: Vorkosigan Saga
   series_position: '5.2'
   slug: labyrinth

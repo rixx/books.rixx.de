@@ -7,7 +7,7 @@ book:
   isbn10: 0140449264
   isbn13: '9780140449266'
   pages: '1276'
-  publication_year: '2003'
+  publication_year: '1844'
   slug: the-count-of-monte-cristo
   tags:
   - historical-fiction

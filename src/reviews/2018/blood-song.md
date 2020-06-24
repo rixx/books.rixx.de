@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421573407l/13569581._SX98_.jpg
   goodreads: '13569581'
   pages: '591'
-  publication_year: '2012'
+  publication_year: '2011'
   series: Raven's Shadow
   series_position: '1'
   slug: blood-song

@@ -7,7 +7,7 @@ book:
   isbn10: '1878019198'
   isbn13: '9781878019196'
   pages: '123'
-  publication_year: '2002'
+  publication_year: '1961'
   slug: on-having-no-head-zen-and-the-rediscovery-of-the-obvious
   tags:
   - nonfiction

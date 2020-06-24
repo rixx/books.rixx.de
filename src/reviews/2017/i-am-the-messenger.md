@@ -7,7 +7,7 @@ book:
   isbn10: 0375836675
   isbn13: '9780375836671'
   pages: '357'
-  publication_year: '2006'
+  publication_year: '2002'
   slug: i-am-the-messenger
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '3150060141'
   isbn13: '9783150060148'
   pages: '86'
-  publication_year: null
+  publication_year: '1876'
   slug: aquis-submersus
   tags:
   - german

@@ -6,7 +6,7 @@ book:
   goodreads: '37677'
   isbn10: '1587263890'
   isbn13: '9781587263897'
-  publication_year: null
+  publication_year: '1903'
   slug: the-call-of-the-wild-white-fang
   title: The Call of the Wild/White Fang
 plan:

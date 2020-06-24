@@ -7,7 +7,7 @@ book:
   isbn10: 0765342286
   isbn13: '9780765342287'
   pages: '345'
-  publication_year: '2002'
+  publication_year: '1992'
   series: Jumper
   series_position: '1'
   slug: jumper

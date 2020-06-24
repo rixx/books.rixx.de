@@ -7,7 +7,7 @@ book:
   isbn10: 0140120831
   isbn13: '9780140120837'
   pages: '263'
-  publication_year: '1987'
+  publication_year: '1985'
   slug: perfume-the-story-of-a-murderer
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: 0060541911
   isbn13: '9780060541910'
   pages: '246'
-  publication_year: '2007'
+  publication_year: '1996'
   series: Johnny Maxwell
   series_position: '3'
   slug: johnny-and-the-bomb

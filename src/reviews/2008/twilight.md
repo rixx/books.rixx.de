@@ -7,7 +7,7 @@ book:
   isbn10: 0316015849
   isbn13: '9780316015844'
   pages: '501'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Twilight
   series_position: '1'
   slug: twilight

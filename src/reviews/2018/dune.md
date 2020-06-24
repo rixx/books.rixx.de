@@ -7,7 +7,7 @@ book:
   isbn10: 0340839937
   isbn13: '9780340839935'
   pages: '604'
-  publication_year: '2006'
+  publication_year: '1965'
   series: Dune Chronicles
   series_position: '1'
   slug: dune

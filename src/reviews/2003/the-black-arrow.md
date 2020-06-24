@@ -7,7 +7,7 @@ book:
   isbn10: 0543896609
   isbn13: '9780543896605'
   pages: '242'
-  publication_year: '2001'
+  publication_year: '1883'
   slug: the-black-arrow
   tags:
   - german

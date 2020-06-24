@@ -3,7 +3,7 @@ book:
   author: paganaidd
   goodreads: '28431251'
   pages: '850'
-  publication_year: '2014'
+  publication_year: '2011'
   slug: digging-for-the-bones
   tags:
   - fanfic

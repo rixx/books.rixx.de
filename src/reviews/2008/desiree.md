@@ -6,7 +6,7 @@ book:
   goodreads: '84049'
   isbn10: '8493388335'
   isbn13: '9788493388331'
-  publication_year: null
+  publication_year: '1951'
   slug: desiree
   tags:
   - german

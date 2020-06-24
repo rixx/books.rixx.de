@@ -7,9 +7,9 @@ book:
   isbn10: 0674840313
   isbn13: '9780674840317'
   pages: '328'
-  publication_year: '1981'
+  publication_year: '1960'
   slug: the-strategy-of-conflict
-  title: 'The Strategy of Conflict'
+  title: The Strategy of Conflict
 plan:
   date_added: 2020-06-06
 ---

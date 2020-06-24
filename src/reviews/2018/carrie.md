@@ -7,7 +7,7 @@ book:
   isbn10: '1416524304'
   isbn13: '9781416524304'
   pages: '253'
-  publication_year: '2005'
+  publication_year: '1974'
   slug: carrie
   title: Carrie
 plan:

@@ -7,7 +7,7 @@ book:
   isbn10: 0345483855
   isbn13: '9780345483850'
   pages: '496'
-  publication_year: '2005'
+  publication_year: '2002'
   series: Conan the Cimmerian
   series_position: '1'
   slug: the-coming-of-conan-the-cimmerian

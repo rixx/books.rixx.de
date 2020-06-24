@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392528568l/12067._SY160_.jpg
   goodreads: '12067'
   pages: '491'
-  publication_year: '2006'
+  publication_year: '1990'
   slug: good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
   tags:
   - fantasy

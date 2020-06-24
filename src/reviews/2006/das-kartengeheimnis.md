@@ -6,7 +6,7 @@ book:
   goodreads: '329743'
   isbn10: '3423125004'
   isbn13: '9783423125000'
-  publication_year: '1999'
+  publication_year: '1990'
   slug: das-kartengeheimnis
   tags:
   - german

@@ -7,7 +7,7 @@ book:
   isbn10: '1473222052'
   isbn13: '9781473222052'
   pages: '414'
-  publication_year: null
+  publication_year: '2018'
   series: Raven's Mark
   series_position: '2'
   slug: ravencry

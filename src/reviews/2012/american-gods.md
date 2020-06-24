@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258417001l/4407._SX98_.jpg
   goodreads: '4407'
   pages: '635'
-  publication_year: '2005'
+  publication_year: '2001'
   series: American Gods
   series_position: '1'
   slug: american-gods

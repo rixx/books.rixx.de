@@ -7,7 +7,7 @@ book:
   isbn10: 015205491X
   isbn13: '9780152054915'
   pages: '432'
-  publication_year: '2005'
+  publication_year: '2001'
   series: Young Wizards
   series_position: '5'
   slug: the-wizards-dilemma

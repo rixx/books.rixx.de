@@ -7,7 +7,7 @@ book:
   isbn10: 0375826696
   isbn13: '9780375826696'
   pages: '503'
-  publication_year: '2005'
+  publication_year: '2002'
   series: The Inheritance Cycle
   series_position: '1'
   slug: eragon

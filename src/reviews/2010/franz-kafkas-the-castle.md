@@ -7,7 +7,7 @@ book:
   isbn10: 082221900X
   isbn13: '9780822219002'
   pages: '59'
-  publication_year: null
+  publication_year: '2003'
   slug: franz-kafkas-the-castle
   tags:
   - german

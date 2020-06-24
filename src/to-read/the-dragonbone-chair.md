@@ -7,7 +7,7 @@ book:
   isbn10: 0756402697
   isbn13: '9780756402693'
   pages: '672'
-  publication_year: '2005'
+  publication_year: '1988'
   series: Memory, Sorrow, and Thorn
   series_position: '1'
   slug: the-dragonbone-chair

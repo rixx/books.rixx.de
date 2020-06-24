@@ -7,7 +7,7 @@ book:
   isbn10: 0786851473
   isbn13: '9780786851478'
   pages: '398'
-  publication_year: '2004'
+  publication_year: '2002'
   series: Artemis Fowl
   series_position: '2'
   slug: the-arctic-incident

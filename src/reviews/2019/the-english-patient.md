@@ -7,7 +7,7 @@ book:
   isbn10: 0771068719
   isbn13: '9780771068713'
   pages: '320'
-  publication_year: '2006'
+  publication_year: '1992'
   slug: the-english-patient
   tags:
   - historical-fiction

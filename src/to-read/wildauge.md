@@ -7,7 +7,7 @@ book:
   isbn10: '3869710829'
   isbn13: '9783869710822'
   pages: '414'
-  publication_year: '2014'
+  publication_year: '2011'
   slug: wildauge
   title: Wildauge
 plan:

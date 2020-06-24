@@ -7,7 +7,7 @@ book:
   isbn10: 0060012382
   isbn13: '9780060012380'
   pages: '375'
-  publication_year: '2004'
+  publication_year: '2003'
   series: Discworld
   series_position: '30'
   slug: the-wee-free-men

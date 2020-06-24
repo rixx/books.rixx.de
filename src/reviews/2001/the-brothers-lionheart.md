@@ -7,7 +7,7 @@ book:
   isbn10: '1930900244'
   isbn13: '9781930900240'
   pages: '231'
-  publication_year: '2004'
+  publication_year: '1973'
   slug: the-brothers-lionheart
   tags:
   - german

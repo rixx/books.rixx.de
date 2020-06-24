@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302671871l/11058951.jpg
   goodreads: '11058951'
   isbn13: '2940012396303'
-  publication_year: null
+  publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '5.4'
   slug: weatherman

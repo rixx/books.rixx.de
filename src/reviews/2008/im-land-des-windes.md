@@ -7,7 +7,7 @@ book:
   isbn10: '3453530284'
   isbn13: '9783453530287'
   pages: '384'
-  publication_year: null
+  publication_year: '2004'
   series: Die Drachenkämpferin
   series_position: '1'
   slug: im-land-des-windes

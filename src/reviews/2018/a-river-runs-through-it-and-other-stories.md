@@ -7,7 +7,7 @@ book:
   isbn10: '0226500667'
   isbn13: '9780226500669'
   pages: '217'
-  publication_year: '2001'
+  publication_year: '1976'
   slug: a-river-runs-through-it-and-other-stories
   title: A River Runs Through it and Other Stories
 plan:

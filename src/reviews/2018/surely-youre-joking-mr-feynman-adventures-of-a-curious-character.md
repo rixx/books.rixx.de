@@ -7,7 +7,7 @@ book:
   isbn10: 0393316041
   isbn13: '9780393316049'
   pages: '391'
-  publication_year: '1997'
+  publication_year: '1985'
   slug: surely-youre-joking-mr-feynman-adventures-of-a-curious-character
   title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
 plan:

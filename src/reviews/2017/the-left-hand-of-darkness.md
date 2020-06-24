@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
   goodreads: '18423'
   pages: '304'
-  publication_year: '2000'
+  publication_year: '1969'
   series: Hainish Cycle
   series_position: '4'
   slug: the-left-hand-of-darkness

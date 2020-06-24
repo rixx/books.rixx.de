@@ -7,7 +7,7 @@ book:
   isbn10: 0515034797
   isbn13: '9780515034790'
   pages: '174'
-  publication_year: '1974'
+  publication_year: '1954'
   slug: mission-of-gravity
   title: Mission of Gravity
 plan:

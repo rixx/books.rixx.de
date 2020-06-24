@@ -7,7 +7,7 @@ book:
   isbn10: 0060923962
   isbn13: '9780060923969'
   pages: '191'
-  publication_year: '1993'
+  publication_year: '1933'
   series: Lord Peter Wimsey
   series_position: '9'
   slug: hangmans-holiday-a-collection-of-short-mysteries

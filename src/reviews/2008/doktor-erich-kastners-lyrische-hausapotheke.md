@@ -7,7 +7,7 @@ book:
   isbn10: '3423110015'
   isbn13: '9783423110013'
   pages: '224'
-  publication_year: null
+  publication_year: '1936'
   slug: doktor-erich-kastners-lyrische-hausapotheke
   tags:
   - german

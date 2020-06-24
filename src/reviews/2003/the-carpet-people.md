@@ -7,7 +7,7 @@ book:
   isbn10: 0544212479
   isbn13: '9780544212473'
   pages: '296'
-  publication_year: '2013'
+  publication_year: '1971'
   slug: the-carpet-people
   title: The Carpet People
 plan:

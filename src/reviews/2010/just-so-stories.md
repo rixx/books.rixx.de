@@ -7,7 +7,7 @@ book:
   isbn10: '0517266555'
   isbn13: '9780517266557'
   pages: '210'
-  publication_year: '2003'
+  publication_year: '1902'
   slug: just-so-stories
   title: Just So Stories
 plan:

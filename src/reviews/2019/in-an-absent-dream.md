@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525436165l/38244358._SX98_.jpg
   goodreads: '38244358'
   pages: '187'
-  publication_year: null
+  publication_year: '2019'
   series: Wayward Children
   series_position: '4'
   slug: in-an-absent-dream

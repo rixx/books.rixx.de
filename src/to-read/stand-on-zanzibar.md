@@ -7,7 +7,7 @@ book:
   isbn10: '1857988361'
   isbn13: '9781857988369'
   pages: '672'
-  publication_year: '1999'
+  publication_year: '1968'
   slug: stand-on-zanzibar
   title: Stand on Zanzibar
 plan:

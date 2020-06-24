@@ -5,7 +5,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531243413l/40776219._SX98_.jpg
   goodreads: '40776219'
   pages: '320'
-  publication_year: '2012'
+  publication_year: '1928'
   series: Lord Peter Wimsey
   series_position: '4'
   slug: lord-peter-views-the-body

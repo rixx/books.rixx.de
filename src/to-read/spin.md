@@ -7,7 +7,7 @@ book:
   isbn10: 076534825X
   isbn13: '9780765348258'
   pages: '464'
-  publication_year: '2006'
+  publication_year: '2005'
   series: Spin
   series_position: '1'
   slug: spin

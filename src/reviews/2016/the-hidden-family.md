@@ -7,7 +7,7 @@ book:
   isbn10: '0765352052'
   isbn13: '9780765352057'
   pages: '309'
-  publication_year: '2006'
+  publication_year: '2005'
   series: The Merchant Princes
   series_position: '2'
   slug: the-hidden-family

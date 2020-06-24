@@ -7,7 +7,7 @@ book:
   isbn10: '1857231384'
   isbn13: '9781857231380'
   pages: '471'
-  publication_year: '1988'
+  publication_year: '1987'
   series: Culture
   series_position: '1'
   slug: consider-phlebas

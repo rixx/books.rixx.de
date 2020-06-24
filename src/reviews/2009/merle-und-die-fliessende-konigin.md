@@ -6,7 +6,7 @@ book:
   goodreads: '135887'
   isbn10: '3785539282'
   isbn13: '9783785539286'
-  publication_year: null
+  publication_year: '2003'
   series: Merle-Trilogie
   series_position: '1'
   slug: merle-und-die-fliessende-konigin

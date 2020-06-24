@@ -7,7 +7,7 @@ book:
   isbn10: '0544236041'
   isbn13: '9780544236042'
   pages: '272'
-  publication_year: '2014'
+  publication_year: '2013'
   slug: stuff-matters-exploring-the-marvelous-materials-that-shape-our-man-made-world
   title: 'Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made
     World'

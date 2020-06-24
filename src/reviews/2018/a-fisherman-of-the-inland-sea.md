@@ -7,7 +7,7 @@ book:
   isbn10: '0060763515'
   isbn13: '9780060763510'
   pages: '207'
-  publication_year: '2005'
+  publication_year: '1994'
   slug: a-fisherman-of-the-inland-sea
   tags:
   - fantasy

@@ -7,7 +7,7 @@ book:
   isbn10: 0007287755
   isbn13: '9780007287758'
   pages: '416'
-  publication_year: '2009'
+  publication_year: '2008'
   series: Demon Cycle
   series_position: '1'
   slug: the-painted-man

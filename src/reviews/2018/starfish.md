@@ -7,7 +7,7 @@ book:
   isbn10: 0812575857
   isbn13: '9780812575859'
   pages: '384'
-  publication_year: '2000'
+  publication_year: '1999'
   series: Rifters
   series_position: '1'
   slug: starfish

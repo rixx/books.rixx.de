@@ -7,7 +7,7 @@ book:
   isbn10: '1579126294'
   isbn13: '9781579126292'
   pages: '288'
-  publication_year: '2006'
+  publication_year: '1950'
   series: Miss Marple
   series_position: '4'
   slug: a-murder-is-announced

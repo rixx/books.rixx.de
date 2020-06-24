@@ -7,7 +7,7 @@ book:
   isbn10: '1857993284'
   isbn13: '9781857993288'
   pages: '403'
-  publication_year: '1995'
+  publication_year: '1991'
   slug: sophies-world
   tags:
   - german

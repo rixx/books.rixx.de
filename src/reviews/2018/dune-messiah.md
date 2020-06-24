@@ -7,7 +7,7 @@ book:
   isbn10: 0441172695
   isbn13: '9780441172696'
   pages: '331'
-  publication_year: '1987'
+  publication_year: '1969'
   series: Dune Chronicles
   series_position: '2'
   slug: dune-messiah

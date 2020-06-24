@@ -7,7 +7,7 @@ book:
   isbn10: 0143039563
   isbn13: '9780143039563'
   pages: '244'
-  publication_year: '2006'
+  publication_year: '1875'
   slug: the-adventures-of-tom-sawyer
   tags:
   - kids

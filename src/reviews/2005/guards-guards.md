@@ -7,7 +7,7 @@ book:
   isbn10: 0061020648
   isbn13: '9780061020643'
   pages: '376'
-  publication_year: '2001'
+  publication_year: '1989'
   series: Discworld
   series_position: '8'
   slug: guards-guards

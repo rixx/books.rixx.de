@@ -6,7 +6,7 @@ book:
   goodreads: '1440148'
   isbn10: 0843959118
   isbn13: '9780843959116'
-  publication_year: null
+  publication_year: '1962'
   series: Fuzzy Sapiens
   series_position: '1'
   slug: little-fuzzy

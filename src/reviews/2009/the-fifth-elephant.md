@@ -7,7 +7,7 @@ book:
   isbn10: 0552154229
   isbn13: '9780552154222'
   pages: '464'
-  publication_year: '2008'
+  publication_year: '1999'
   series: Discworld
   series_position: '24'
   slug: the-fifth-elephant
