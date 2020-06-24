@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2018-09-25'
 ---
+
+On this list since 2018, seconded by [joXn](https://twitter.com/joXn/status/1275424740430102529)

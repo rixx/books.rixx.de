@@ -15,3 +15,4 @@ book:
 plan:
   date_added: '2018-09-15'
 ---
+seconded [via](https://www.reddit.com/r/Fantasy/comments/hazt57/oddly_specific_fantasy_recommendation_requests/fv67p9o/)
