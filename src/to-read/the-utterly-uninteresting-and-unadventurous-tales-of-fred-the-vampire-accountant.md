@@ -8,10 +8,11 @@ book:
   isbn13: null
   pages: '300'
   publication_year: '2014'
-  slug: the-utterly-uninteresting-and-unadventurous-tales-of-fred-the-vampire-accountant-fred-the-vampire-accountant-1
+  slug: the-utterly-uninteresting-and-unadventurous-tales-of-fred-the-vampire-accountant
   tags: []
-  title: 'The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant
-    (Fred, the Vampire Accountant, #1)'
+  title: 'The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant'
+  series: 'Fred, the Vampire Accountant'
+  series_position: 1
 plan:
   date_added: 2020-06-25
 ---

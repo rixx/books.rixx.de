@@ -240,7 +240,7 @@ def push_to_goodreads(review):
         response = session.post(f"{GOODREADS_URL}review.xml", data=review_data)
         if shelf_name != "read":
             change_shelf(
-                review, None, session=session
+                review, session=session
             )  # Somehow, the shelf gets always set to read, so we update it
     else:
         review_data["id"] = goodreads_review["id"]
