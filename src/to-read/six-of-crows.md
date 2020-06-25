@@ -15,3 +15,5 @@ book:
 plan:
   date_added: '2018-07-04'
 ---
+
+Topped the 2019 /r/fantasy bingo in "A SFF Novel Featuring a Character With a Disability"

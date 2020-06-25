@@ -13,3 +13,4 @@ book:
 plan:
   date_added: '2018-08-08'
 ---
+Second place in "Novel Featuring an AI Character" in 2019 /r/fantasy bingo.

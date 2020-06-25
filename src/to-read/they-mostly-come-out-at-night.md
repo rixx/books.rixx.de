@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2018-09-21'
 ---
+
+Hyped on /r/fantasy
