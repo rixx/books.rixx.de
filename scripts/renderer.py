@@ -32,16 +32,6 @@ def render_date(date_value):
     return date_value
 
 
-def get_relevant_date(review):
-    if review.entry_type == "reviews":
-        result = review.metadata["review"]["date_read"]
-    else:
-        result = review.metadata["plan"]["date_added"]
-    if isinstance(result, dt.date):
-        return result
-    return dt.datetime.strptime(result, "%Y-%m-%d").date()
-
-
 def render_page(template_name, path, env=None, **context):
     template = env.get_template(template_name)
     html = template.render(**context)
@@ -305,9 +295,6 @@ def build_site(**kwargs):
     all_reviews = list(books.load_reviews())
     all_plans = list(books.load_to_read())
     all_events = all_plans + all_reviews
-
-    for element in all_events:
-        element.relevant_date = get_relevant_date(element)
 
     all_reviews = sorted(all_reviews, key=lambda x: x.relevant_date, reverse=True)
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)

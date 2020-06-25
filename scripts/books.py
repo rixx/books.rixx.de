@@ -95,6 +95,16 @@ class Review:
     def isbn(self):
         return self.metadata["book"].get("isbn13") or self.metadata["book"].get("isbn9")
 
+    @property
+    def relevant_date(self):
+        if self.entry_type == "reviews":
+            result = self.metadata["review"]["date_read"]
+        else:
+            result = self.metadata["plan"]["date_added"]
+        if isinstance(result, dt.date):
+            return result
+        return dt.datetime.strptime(result, "%Y-%m-%d").date()
+
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.name
@@ -214,7 +224,14 @@ class Review:
             if not self.metadata["review"].get("date_read"):
                 raise Exception("A review needs a date_read.")
             superflous = set(self.metadata["review"].keys()) - set(
-                ("date_read", "date_started", "format", "rating", "did_not_finish")
+                (
+                    "date_read",
+                    "date_started",
+                    "format",
+                    "rating",
+                    "did_not_finish",
+                    "tldr",
+                )
             )
             if superflous:
                 raise Exception(f"Superflous keys in post review data: {superflous}")
@@ -226,6 +243,11 @@ class Review:
                 raise Exception("Unknown keys in post plan data.")
         else:
             self.metadata["plan"] = {"date_added": dt.datetime.now().date()}
+
+        if "social" in self.metadata:
+            superflous = set(self.metadata["social"].keys()) - set(
+                "twitter", "mastodon"
+            )
 
     def download_cover(self, cover_image_url=None, force_new=False):
         destination = Path("src") / "covers"
