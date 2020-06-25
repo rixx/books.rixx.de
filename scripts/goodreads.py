@@ -93,6 +93,8 @@ def maybe_date(value):
 
 
 def get_book_data_from_xml(book):
+    if not book:
+        return
     keys = {
         "id": "goodreads",
         "isbn": "isbn10",
