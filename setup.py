@@ -17,6 +17,7 @@ setup(
         "inquirer==2.6.*",
         "jinja2==2.11.*",
         "markdown==3.1.*",
+        "mastodon.py",
         "pillow==7.0.*",
         "python-dateutil",
         "python-frontmatter==0.5.*",
@@ -24,5 +25,6 @@ setup(
         "requests",
         "smartypants==2.0.*",
         "unidecode==1.1.*",
+        "tweepy",
     ],
 )

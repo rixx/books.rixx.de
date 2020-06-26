@@ -123,3 +123,12 @@ def load():
     from .importer import import_books
 
     import_books()
+
+
+@cli.command()
+@click.option("--dry-run", "dry_run", default=False, type=bool, is_flag=True)
+def social(dry_run):
+    """ Import book data from a goodreads-to-sqlite database. """
+    from .social import post_next
+
+    post_next(dry_run=dry_run)
