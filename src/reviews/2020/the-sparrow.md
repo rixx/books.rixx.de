@@ -22,6 +22,28 @@ review:
   date_started: 2020-01-03
   did_not_finish: false
   rating: 4
+  tldr: "Alien life is discovered, and the Jesuits make First Contact because they
+    have their shit together. Well-told with strong characters. Humanoid aliens \U0001F644
+    and anything re:sexuality was predictably disappointing."
+social:
+  mastodon:
+    datetime: 2020-06-27 01:21:09.617443
+    id: 104412851039994590
+    in_reply_to: 104412214334496404
+    text: "3/ The Sparrow by Mary Doria Russell. Alien life is discovered, and the
+      Jesuits make First Contact because they have their shit together. Well-told
+      with strong characters. Humanoid aliens \U0001F644 and anything re:sexuality
+      was predictably disappointing.\nhttps://books.rixx.de/reviews/2020/the-sparrow/
+      #rixxReads"
+  number: 3
+  twitter:
+    datetime: 2020-06-27 01:21:09.280241
+    id: 1276656775622729729
+    in_reply_to: 1276616026151665664
+    text: "3/ The Sparrow by Mary Doria Russell. Alien life is discovered, and the
+      Jesuits make First Contact because they have their shit together. Well-told
+      with strong characters. Humanoid aliens \U0001F644 and anything re:sexuality
+      was predictably disappointing.\nhttps://books.rixx.de/reviews/2020/the-sparrow/"
 ---
 
 I liked The Sparrow a whole lot. Part of that is just that I like the premise: Jesuit First Contact? Hell yes! The Jesuits are the science-minded and intellectual ones among the Catholic orders, and at the same time very capable of actions and decision-making.
