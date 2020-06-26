@@ -468,11 +468,15 @@ header a {
   content: "Pages"
 }
 #social-article input + #social #label:before {
-  content: "Twitter"
+  content: "Twitter";
+  font-family: sans-serif;
+  font-size: 14px;
 }
 #social-article input:checked + #social #label:before {
   content: "Fedi";
   margin-right: 8px;
+  font-family: sans-serif;
+  font-size: 14px;
 }
 
 #stats-section label#toggle:active:after, #social-article label#toggle:active:after {
@@ -492,7 +496,7 @@ header a {
   margin-right: 2px;
 }
 #social label#toggle, #social #label {
-  top: 0px;
+  top: 12px;
   right: 6px;
   margin-right: 4px;
   position: absolute;
@@ -500,14 +504,14 @@ header a {
 #social #label {
   position: absolute;
   right: 6px;
-  top: 30px;
+  top: 42px;
 }
 #social-article {
   margin-top: 18px;
 }
 #social #twitter, #social #mastodon {
   width: 500px;
-  max-width: 100%;
+  max-width: 90%;
   margin-left: auto;
   margin-right: auto;
   border: 1px solid #e1e8ed;
@@ -515,9 +519,9 @@ header a {
   font-family: sans-serif;
   font-size: 16px;
   font-weight: normal;
-}
-#social #twitter blockquote, #social #mastodon blockquote {
-  width: 100%;
+  padding: 16px 32px;
+  display: flex;
+  flex-direction: column;
 }
 #social .header a {
   margin: 8px 0;
@@ -653,5 +657,19 @@ header a {
 @media (max-width: 700px) {
   #sidenav-left {
     display: none;
+  }
+  #social-article {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #social #twitter, #social #mastodon {
+    width: auto;
+  }
+  #social-article input:checked + #social #label:before {
+    color: white;
+    padding-top: 2px;
+  }
+  #social-article input:checked + #social label#toggle {
+    border: 1px solid white;
   }
 }
