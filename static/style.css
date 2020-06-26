@@ -401,25 +401,32 @@ header a {
 #stats-section table th {
   text-align: right;
 }
-#stats-section input[type=checkbox]{
+#stats-section input[type=checkbox], #social-article input[type=checkbox] {
     height: 0;
     width: 0;
     visibility: hidden;
     position: absolute;
 }
 
-#stats-section label#toggle {
+#stats-section label#toggle, #social-article label#toggle {
     cursor: pointer;
     text-indent: -9999px;
     width: 50px;
     height: 28px;
-    background: #990000;
     display: block;
     border-radius: 100px;
     position: relative;
 }
 
-#stats-section label#toggle:after {
+#stats-section label#toggle {
+    background: #990000;
+}
+
+#social-article label#toggle {
+  background: rgb(29, 161, 242)
+}
+
+#stats-section label#toggle:after, #social-article label#toggle:after {
     content: '';
     position: absolute;
     top: 5px;
@@ -435,16 +442,22 @@ header a {
     background: #007171;
 }
 
-#stats-section input:checked + #stats label:after {
+#social-article input:checked + #social label {
+    background: #444b5d;
+}
+
+#stats-section input:checked + #stats label:after, #social-article input:checked + #social label:after {
     left: calc(100% - 5px);
     transform: translateX(-100%);
 }
 
-#stats-section input + #stats #book-stats, #stats-section input:checked + #stats #page-stats {
+#stats-section input + #stats #book-stats, #stats-section input:checked + #stats #page-stats,
+#social-article input + #social #twitter, #social-article input:checked + #social #mastodon {
   display: flex
 }
 
-#stats-section input + #stats #page-stats, #stats-section input:checked + #stats #book-stats {
+#stats-section input + #stats #page-stats, #stats-section input:checked + #stats #book-stats,
+#social-article input + #social #mastodon, #social-article input:checked + #social #twitter {
   display: none
 }
 #stats-section input + #stats #label:before {
@@ -454,12 +467,19 @@ header a {
 #stats-section input:checked + #stats #label:before {
   content: "Pages"
 }
+#social-article input + #social #label:before {
+  content: "Twitter"
+}
+#social-article input:checked + #social #label:before {
+  content: "Fedi";
+  margin-right: 8px;
+}
 
-#stats-section label#toggle:active:after {
+#stats-section label#toggle:active:after, #social-article label#toggle:active:after {
     width: 30px;
 }
 
-#stats {
+#stats, #social {
   position: relative;
 }
 #stats label#toggle, #stats #label {
@@ -470,6 +490,111 @@ header a {
 #stats #label {
   top: -16px;
   margin-right: 2px;
+}
+#social label#toggle, #social #label {
+  top: 0px;
+  right: 6px;
+  margin-right: 4px;
+  position: absolute;
+}
+#social #label {
+  position: absolute;
+  right: 6px;
+  top: 30px;
+}
+#social-article {
+  margin-top: 18px;
+}
+#social #twitter, #social #mastodon {
+  width: 500px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #e1e8ed;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+#social #twitter blockquote, #social #mastodon blockquote {
+  width: 100%;
+}
+#social .header a {
+  margin: 8px 0;
+  display: flex;
+  font-weight: normal;
+}
+#social .header img {
+  width: 47px;
+  height: 47px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+#social .header .author {
+  display: flex;
+  flex-direction: column;
+}
+#social .header .author-name {
+  font-weight: bold;
+  font-size: 18px;
+}
+#social .footer {
+  border-top: 1px solid #e1e8ed;
+  padding-top: 12px;
+  margin-top: 12px;
+}
+#social .footer a {
+  display: flex;
+  justify-content: space-around;
+}
+#social .footer svg {
+  width: 1.25em;
+  height: 1.25em;
+  padding: 0 50px;
+}
+#social .footer svg#twitter-reply:hover path {
+  fill: rgb(29, 161, 242);
+}
+#social .footer svg#twitter-fav:hover path {
+  fill: rgb(224, 36, 94);
+}
+#social .footer svg#twitter-rt:hover path {
+  fill: rgb(23, 191, 99);
+}
+
+#social #twitter {
+  color: rgb(20, 23, 26);
+  background-color: white;
+  line-height: 1.5;
+}
+#social #twitter .header a {
+  color: #1c2022;
+}
+#social #twitter .header a:hover .author-name {
+  color: #3b94d9;
+}
+#social #twitter .header .author-nick {
+  color: #697882
+}
+#social #twitter .footer svg path {
+  fill: rgb(101, 119, 134);
+}
+
+#social #mastodon {
+  color: rgb(217, 225, 232);
+  background-color: #282c37;
+}
+#social #mastodon .header a {
+  color: rgb(217, 225, 232);
+}
+#social #mastodon .header a:hover .author-name {
+  text-decoration: underline;
+}
+#social #mastodon .header .author-nick {
+  color: rgb(217, 225, 232);
+}
+#social #mastodon .footer svg path {
+  fill: rgb(96, 105, 132);;
 }
 
 .spoiler, .spoilers {
