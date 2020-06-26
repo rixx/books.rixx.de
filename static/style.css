@@ -531,7 +531,6 @@ header a {
 #social .header img {
   width: 47px;
   height: 47px;
-  border-radius: 50%;
   margin-right: 12px;
 }
 #social .header .author {
@@ -583,6 +582,9 @@ header a {
 #social #twitter .footer svg path {
   fill: rgb(101, 119, 134);
 }
+#social #twitter .header img {
+  border-radius: 50%;
+}
 
 #social #mastodon {
   color: rgb(217, 225, 232);
@@ -598,7 +600,10 @@ header a {
   color: rgb(217, 225, 232);
 }
 #social #mastodon .footer svg path {
-  fill: rgb(96, 105, 132);;
+  fill: rgb(96, 105, 132);
+}
+#social #mastodon .header img {
+  border-radius: 4px;
 }
 
 .spoiler, .spoilers {
