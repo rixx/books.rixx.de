@@ -21,6 +21,32 @@ review:
   date_started: 2019-12-19
   did_not_finish: false
   rating: 5
+  tldr: 'Useful discussion of knowledge scope and storage: We think in groups, and
+    we store information in our surroundings and in others. Changed how I think about
+    information and about grief.'
+social:
+  mastodon:
+    datetime: 2020-06-26 22:32:20.578533
+    id: 104412187225160131
+    in_reply_to: null
+    text: '1/ The Knowledge Illusion: Why We Never Think Alone by Steven Sloman. Useful
+      discussion of knowledge scope and storage: We think in groups, and we store
+      information in our surroundings and in others. Changed how I think about information
+      and about grief.
+
+      https://books.rixx.de/reviews/2020/the-knowledge-illusion-why-we-never-think-alone/
+      #rixxReads'
+  number: 1
+  twitter:
+    datetime: 2020-06-26 22:32:20.304243
+    id: 1276614291735666691
+    in_reply_to: null
+    text: '1/ The Knowledge Illusion: Why We Never Think Alone by Steven Sloman. Useful
+      discussion of knowledge scope and storage: We think in groups, and we store
+      information in our surroundings and in others. Changed how I think about information
+      and about grief.
+
+      https://books.rixx.de/reviews/2020/the-knowledge-illusion-why-we-never-think-alone/'
 ---
 
 I finally finished The Knowledge Illusion. The five stars here are given *despite* the writing: It annoyed me a lot, but the thoughts in the book are important enough that they changed my thinking on some issues, so five stars are appropriate.
