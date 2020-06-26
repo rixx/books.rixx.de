@@ -244,11 +244,6 @@ class Review:
         else:
             self.metadata["plan"] = {"date_added": dt.datetime.now().date()}
 
-        if "social" in self.metadata:
-            superflous = set(self.metadata["social"].keys()) - set(
-                "twitter", "mastodon"
-            )
-
     def download_cover(self, cover_image_url=None, force_new=False):
         destination = Path("src") / "covers"
         destination.mkdir(parents=True, exist_ok=True)

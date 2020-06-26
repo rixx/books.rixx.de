@@ -7,9 +7,9 @@ import tweepy
 from mastodon import Mastodon
 
 
-def _print_tweet(tweet):
-    text = tweet["text"]
-    media = tweet.get("media")
+def _print_tweet(tweet_data):
+    text = tweet_data["text"]
+    media = tweet_data.get("media")
     print_lines = []
     lines = text.split("\n")
     if media:
@@ -27,79 +27,88 @@ def _print_tweet(tweet):
     print("┗" + "━" * buffer_width + "┛")
 
 
-def _send_tweet(tweet):
-    auth = json.load(open("auth.json"))["twitter"]
-    auth = tweepy.OAuthHandler(auth["api_key"], auth["api_secret"])
-    auth.set_access_token(auth["access_token_key"], auth["access_token_secret"])
+def _send_tweet(tweet_data):
+    auth_data = json.load(open("auth.json"))["twitter"]
+    auth = tweepy.OAuthHandler(auth_data["api_key"], auth_data["api_secret"])
+    auth.set_access_token(
+        auth_data["access_token_key"], auth_data["access_token_secret"]
+    )
     api = tweepy.API(auth)
-    if tweet.get("media"):  # currently unused, cover image quality is too inconsistent
+    if tweet_data.get(
+        "media"
+    ):  # currently unused, cover image quality is too inconsistent
         result = api.update_with_media(
-            tweet["media"],
-            tweet["text"],
-            in_reply_to_status_id=tweet.get("in_reply_to") or "1276612774735511552",
+            tweet_data["media"],
+            tweet_data["text"],
+            in_reply_to_status_id=tweet_data.get(
+                "in_reply_to"
+            ),  # or "1276612774735511552",
         )
     else:
         result = api.update_status(
-            tweet["text"], in_reply_to_status_id=tweet.get("in_reply_to") or "1276612774735511552"
+            tweet_data["text"],
+            in_reply_to_status_id=tweet_data.get(
+                "in_reply_to"
+            ),  # or "1276612774735511552"
         )
     return result
 
 
-def _send_toot(toot):
+def _send_toot(toot_data):
     auth = json.load(open("auth.json"))
     mastodon = Mastodon(
         access_token=auth["mastodon"]["access_token"],
         api_base_url="https://chaos.social",
     )
-    result = mastodon.status_post(toot["text"], in_reply_to_id=toot.get("in_reply_to") or "104412156609066689")
+    result = mastodon.status_post(
+        toot_data["text"], in_reply_to_id=toot_data.get("in_reply_to")
+    )  # or "104412156609066689"
     return result
 
 
-def tweet(review, tweet, dry_run=False):
+def tweet(review, tweet_data, dry_run=False):
     if review.metadata.get("social", {}).get("twitter", {}).get("id"):
         raise Exception("Already tweeted, aborting.")
 
-    _print_tweet(tweet)
+    _print_tweet(tweet_data)
     if dry_run:
         return
-    result = _send_tweet(tweet)
-    tweet["id"] = result.id
-    tweet["datetime"] = dt.datetime.now()
-    review.metadata["social"]["twitter"] = tweet
+    result = _send_tweet(tweet_data)
+    tweet_data["id"] = result.id
+    tweet_data["datetime"] = dt.datetime.now()
+    review.metadata["social"]["twitter"] = tweet_data
     review.save()
 
 
-def toot(review, toot, dry_run=False):
-    toot["text"] += " #rixxReads"
+def toot(review, toot_data, dry_run=False):
+    toot_data["text"] += " #rixxReads"
     if review.metadata.get("social", {}).get("mastodon", {}).get("id"):
         raise Exception("Already tooted, aborting.")
 
-    _print_tweet(toot)
+    _print_tweet(toot_data)
     if dry_run:
         return
-    result = _send_toot(toot)
-    toot["id"] = result["id"]
-    tweet["datetime"] = dt.datetime.now()
-    review.metadata["social"]["mastodon"] = tweet
+    result = _send_toot(toot_data)
+    toot_data["id"] = result["id"]
+    toot_data["datetime"] = dt.datetime.now()
+    review.metadata["social"]["mastodon"] = toot_data
     review.save()
 
 
-def post(review, number=None, in_reply_to=None, dry_run=False):
+def post(review, number, in_reply_to=None, dry_run=False):
     text = review.metadata.get("review", {}).get("tldr")
     if not text:
         raise Exception("No tl;dr text found, aborting.")
-    text = f"{review.metadata['book']['title']} by {review.metadata['book']['author']}. {text}"
-    if number:
-        text = f"{number}/ {text}"
+    text = f"{number}/ {review.metadata['book']['title']} by {review.metadata['book']['author']}. {text}"
     print(f"Tweet length: {len(text) + 24}/280")
     if len(text) > (280 - 1 - 23):  # URLs are always 23 chars
         raise Exception("tl;dr too long")
     text = f"{text}\nhttps://books.rixx.de/{review.get_core_path()}/"
+
     if not review.metadata.get("social"):
         review.metadata["social"] = {}
+    review.metadata["social"]["number"] = number
 
-    if number:
-        review.metadata["social"]["number"] = number
     tweet_data = {
         "text": text,
         "in_reply_to": in_reply_to.metadata.get("social", {}).get("twitter", {})["id"]
