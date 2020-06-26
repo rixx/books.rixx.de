@@ -71,6 +71,7 @@ def tweet(review, tweet_data, dry_run=False):
         raise Exception("Already tweeted, aborting.")
 
     _print_tweet(tweet_data)
+    print(f"Replying to https://twitter.com/rixxtr/status/{tweet_data['in_reply_to']}")
     if dry_run:
         return
     result = _send_tweet(tweet_data)
@@ -86,6 +87,7 @@ def toot(review, toot_data, dry_run=False):
         raise Exception("Already tooted, aborting.")
 
     _print_tweet(toot_data)
+    print(f"Replying to https://chaos.social/web/statuses/{toot_data['in_reply_to']}")
     if dry_run:
         return
     result = _send_toot(toot_data)
