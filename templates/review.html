@@ -88,6 +88,12 @@
       </th>
     </tr>
     {% endif %}
+    {% if review.metadata.book.source %}
+    <tr>
+      <td>available:</td>
+      <th><a href="{{ review.metadata.book.source }}" target=_blank>online</a></th>
+    </tr>
+    {% endif %}
   </table>
 
   <article>

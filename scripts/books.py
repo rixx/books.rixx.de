@@ -212,6 +212,7 @@ class Review:
             "isbn10",
             "isbn13",
             "tags",
+            "source",
         )
 
         if any(not self.metadata["book"].get(key) for key in required):
