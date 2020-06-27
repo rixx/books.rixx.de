@@ -18,6 +18,29 @@ review:
   date_started: 2020-01-03
   did_not_finish: false
   rating: 4
+  tldr: A collection of modern poems. Some were not for me at all, but one or two
+    dropkicked me in the feelings. Imo the best possible outcome of reading a selection
+    of poems.
+social:
+  mastodon:
+    datetime: 2020-06-27 18:14:01.441070
+    id: 104416833784682041
+    in_reply_to: 104415159176876375
+    text: '6/ Clouds Cannot Cover Us by Jay Hulme. A collection of modern poems. Some
+      were not for me at all, but one or two dropkicked me in the feelings. Imo the
+      best possible outcome of reading a selection of poems.
+
+      https://books.rixx.de/reviews/2020/clouds-cannot-cover-us/ #rixxReads'
+  number: 6
+  twitter:
+    datetime: 2020-06-27 18:14:01.167736
+    id: 1276911671404122112
+    in_reply_to: 1276804495943405569
+    text: '6/ Clouds Cannot Cover Us by Jay Hulme. A collection of modern poems. Some
+      were not for me at all, but one or two dropkicked me in the feelings. Imo the
+      best possible outcome of reading a selection of poems.
+
+      https://books.rixx.de/reviews/2020/clouds-cannot-cover-us/'
 ---
 
 Rilke-style modern poetry, targeted to adolescents and adults. I don't read much poetry, but I *am* a fan of Rilke, for reference.

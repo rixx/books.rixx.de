@@ -20,6 +20,28 @@ review:
   date_started: 2020-01-06
   did_not_finish: false
   rating: 4
+  tldr: Another Lord Peter Wimsey mystery. As always, meh plot, but brilliant character
+    writing. This one introduces Harriet, leading up to several books of fun.
+social:
+  mastodon:
+    datetime: 2020-06-27 10:56:41.763750
+    id: 104415114120449037
+    in_reply_to: 104412851039994590
+    text: '4/ Strong Poison by Dorothy L. Sayers. Another Lord Peter Wimsey mystery.
+      As always, meh plot, but brilliant character writing. This one introduces Harriet,
+      leading up to several books of fun.
+
+      https://books.rixx.de/reviews/2020/strong-poison/ #rixxReads'
+  number: 4
+  twitter:
+    datetime: 2020-06-27 10:56:41.056708
+    id: 1276801612271382528
+    in_reply_to: 1276656775622729729
+    text: '4/ Strong Poison by Dorothy L. Sayers. Another Lord Peter Wimsey mystery.
+      As always, meh plot, but brilliant character writing. This one introduces Harriet,
+      leading up to several books of fun.
+
+      https://books.rixx.de/reviews/2020/strong-poison/'
 ---
 
 I like Strong Poison a whole lot – Peter meets Harriet for the first time, and behaves like a bit of an idiot, which feels realistic and is appreciated. Lots of terrible things about society in those days are displayed ostensibly without judgement, but with lots of judgement just by the looks Mrs Sayers throws at said society. It's delightful.
