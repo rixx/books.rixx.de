@@ -75,7 +75,7 @@ def tweet(review, tweet_data, dry_run=False):
     if dry_run:
         return
     result = _send_tweet(tweet_data)
-    tweet_data["id"] = result.id
+    tweet_data["id"] = str(result.id)
     tweet_data["datetime"] = dt.datetime.now()
     review.metadata["social"]["twitter"] = tweet_data
     review.save()
@@ -91,7 +91,7 @@ def toot(review, toot_data, dry_run=False):
     if dry_run:
         return
     result = _send_toot(toot_data)
-    toot_data["id"] = result["id"]
+    toot_data["id"] = str(result["id"])
     toot_data["datetime"] = dt.datetime.now()
     review.metadata["social"]["mastodon"] = toot_data
     review.save()

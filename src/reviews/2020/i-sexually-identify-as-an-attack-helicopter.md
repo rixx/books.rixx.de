@@ -22,7 +22,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-27 18:13:49.032688
-    id: 104416832971821401
+    id: '104416832971821401'
     in_reply_to: 104415114120449037
     text: '5/ I Sexually Identify As An Attack Helicopter by Isabel Fall. Brutal-yet-touching
       scifi take on gender. Loved the story, hated the aftermath – it got taken down,
@@ -33,7 +33,7 @@ social:
   number: 5
   twitter:
     datetime: 2020-06-27 18:13:48.740600
-    id: 1276911619281469442
+    id: '1276911619281469442'
     in_reply_to: 1276801612271382528
     text: '5/ I Sexually Identify As An Attack Helicopter by Isabel Fall. Brutal-yet-touching
       scifi take on gender. Loved the story, hated the aftermath – it got taken down,

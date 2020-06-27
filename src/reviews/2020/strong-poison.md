@@ -25,7 +25,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-27 10:56:41.763750
-    id: 104415114120449037
+    id: '104415114120449037'
     in_reply_to: 104412851039994590
     text: '4/ Strong Poison by Dorothy L. Sayers. Another Lord Peter Wimsey mystery.
       As always, meh plot, but brilliant character writing. This one introduces Harriet,
@@ -35,7 +35,7 @@ social:
   number: 4
   twitter:
     datetime: 2020-06-27 10:56:41.056708
-    id: 1276801612271382528
+    id: '1276801612271382528'
     in_reply_to: 1276656775622729729
     text: '4/ Strong Poison by Dorothy L. Sayers. Another Lord Peter Wimsey mystery.
       As always, meh plot, but brilliant character writing. This one introduces Harriet,

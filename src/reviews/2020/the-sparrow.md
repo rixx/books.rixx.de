@@ -28,7 +28,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-27 01:21:09.617443
-    id: 104412851039994590
+    id: '104412851039994590'
     in_reply_to: 104412214334496404
     text: "3/ The Sparrow by Mary Doria Russell. Alien life is discovered, and the
       Jesuits make First Contact because they have their shit together. Well-told
@@ -38,7 +38,7 @@ social:
   number: 3
   twitter:
     datetime: 2020-06-27 01:21:09.280241
-    id: 1276656775622729729
+    id: '1276656775622729729'
     in_reply_to: 1276616026151665664
     text: "3/ The Sparrow by Mary Doria Russell. Alien life is discovered, and the
       Jesuits make First Contact because they have their shit together. Well-told

@@ -22,7 +22,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-28 00:28:55.994539
-    id: 104418307987392441
+    id: '104418307987392441'
     in_reply_to: 104418302173064716
     text: '10/ Bloodchild by Octavia E. Butler. Short story that could not be more
       Octavia Butler: Aliens and humans being wildly different, but cohabitating,
@@ -32,7 +32,7 @@ social:
   number: 10
   twitter:
     datetime: 2020-06-28 00:28:55.700220
-    id: 1277006020376748040
+    id: '1277006020376748040'
     in_reply_to: 1277005647972876289
     text: '10/ Bloodchild by Octavia E. Butler. Short story that could not be more
       Octavia Butler: Aliens and humans being wildly different, but cohabitating,

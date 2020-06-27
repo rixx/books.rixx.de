@@ -27,7 +27,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-26 22:32:20.578533
-    id: 104412187225160131
+    id: '104412187225160131'
     in_reply_to: null
     text: '1/ The Knowledge Illusion: Why We Never Think Alone by Steven Sloman. Useful
       discussion of knowledge scope and storage: We think in groups, and we store
@@ -39,7 +39,7 @@ social:
   number: 1
   twitter:
     datetime: 2020-06-26 22:32:20.304243
-    id: 1276614291735666691
+    id: '1276614291735666691'
     in_reply_to: null
     text: '1/ The Knowledge Illusion: Why We Never Think Alone by Steven Sloman. Useful
       discussion of knowledge scope and storage: We think in groups, and we store

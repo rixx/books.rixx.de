@@ -24,7 +24,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-27 11:08:08.977181
-    id: 104415159176876375
+    id: '104415159176876375'
     in_reply_to: 104415114120449037
     text: '5/ HTTP/3 explained by Daniel Stenberg. An overview over HTTP/3 by the
       developer of curl. Fairly short and informative, and includes a helpful amount
@@ -35,7 +35,7 @@ social:
   number: 5
   twitter:
     datetime: 2020-06-27 11:08:08.651293
-    id: 1276804495943405569
+    id: '1276804495943405569'
     in_reply_to: 1276801612271382528
     text: '5/ HTTP/3 explained by Daniel Stenberg. An overview over HTTP/3 by the
       developer of curl. Fairly short and informative, and includes a helpful amount

@@ -25,7 +25,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-28 00:27:27.307691
-    id: 104418302173064716
+    id: '104418302173064716'
     in_reply_to: 104418283278967755
     text: '9/ The Songs of Distant Earth by Arthur C. Clarke. A calm, optimistic story
       of the last humans leaving Earth, visiting another human settlement. Infuriatingly
@@ -35,7 +35,7 @@ social:
   number: 9
   twitter:
     datetime: 2020-06-28 00:27:26.922222
-    id: 1277005647972876289
+    id: '1277005647972876289'
     in_reply_to: 1277004438935343104
     text: '9/ The Songs of Distant Earth by Arthur C. Clarke. A calm, optimistic story
       of the last humans leaving Earth, visiting another human settlement. Infuriatingly

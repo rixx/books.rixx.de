@@ -25,7 +25,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-28 00:22:39.006006
-    id: 104418283278967755
+    id: '104418283278967755'
     in_reply_to: 104418276130521920
     text: '8/ Have His Carcase by Dorothy L. Sayers. I went on a bit of a mystery
       streak here. This one is mostly character building for Peter and Harriet and
@@ -36,7 +36,7 @@ social:
   number: 8
   twitter:
     datetime: 2020-06-28 00:22:38.661019
-    id: 1277004438935343104
+    id: '1277004438935343104'
     in_reply_to: 1277003981181640704
     text: '8/ Have His Carcase by Dorothy L. Sayers. I went on a bit of a mystery
       streak here. This one is mostly character building for Peter and Harriet and

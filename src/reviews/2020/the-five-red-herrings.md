@@ -24,7 +24,7 @@ review:
 social:
   mastodon:
     datetime: 2020-06-28 00:20:49.921291
-    id: 104418276130521920
+    id: '104418276130521920'
     in_reply_to: 104416833784682041
     text: '7/ The Five Red Herrings by Dorothy L. Sayers. The tedious Lord Peter mystery
       – focused on a very boring plot, little in terms of dialogue and characters.
@@ -34,7 +34,7 @@ social:
   number: 7
   twitter:
     datetime: 2020-06-28 00:20:49.520651
-    id: 1277003981181640704
+    id: '1277003981181640704'
     in_reply_to: 1276911671404122112
     text: '7/ The Five Red Herrings by Dorothy L. Sayers. The tedious Lord Peter mystery
       – focused on a very boring plot, little in terms of dialogue and characters.
