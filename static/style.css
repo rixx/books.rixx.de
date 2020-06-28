@@ -617,6 +617,36 @@ header a {
   filter: none;
 }
 
+#shelf {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+#shelf .spine {
+  position: relative;
+  border-right: 1px solid rgba(0, 0, 0, 0.03);
+  border-left: 1px solid rgba(0, 0, 0, 0.03);
+}
+
+#shelf .spine:after {
+  display: none;
+  position: absolute;
+  z-index: 100;
+  content: " ";
+  height: 100%;
+  width: 100px;
+  left: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#shelf .spine:hover:after {
+  display: block;
+  background-image: var(--cover-img);
+}
+
 
 @media (max-width: 480px) {
   main {

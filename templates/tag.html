@@ -4,6 +4,9 @@
 
 <h1>List: {{ tag.metadata.title or tag.slug }}</h1>
 
+  {% set shelf_books = reviews %}
+  {% include "_shelf.html" %}
+
 <section>
 
 {{ tag.text|render_markdown|safe }}

@@ -1,0 +1,9 @@
+<div id="shelf">
+  {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
+  <a href="{{ review.get_core_path() }}/">
+    <div class="spine" style="background-color: {{ review.metadata.book.spine_color }}; width: {{ review.get_spine_width() }}px; height: {{ review.get_spine_height() }}px; margin-top: {{ 110 - review.get_spine_height() }}px; --cover-img: url('/thumbnails/{{ review.metadata.book.cover_image }}')">
+
+    </div>
+  </a>
+  {% endif %}{% endfor %}
+</div>

@@ -1,7 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-{{ text | render_markdown | safe }}
+
+{% include "_shelf.html" %}
 
 <p>Here are a few of the books I&rsquo;ve read recently:</p>
 
@@ -10,4 +11,7 @@
     {% include "_review_list_entry.html" %}
   {% endfor %}
 </div>
+
+{{ text | render_markdown | safe }}
+
 {% endblock %}
