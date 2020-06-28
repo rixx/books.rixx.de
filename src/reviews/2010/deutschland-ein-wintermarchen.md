@@ -9,6 +9,7 @@ book:
   pages: '80'
   publication_year: '1844'
   slug: deutschland-ein-wintermarchen
+  spine_color: '#763224'
   tags:
   - german
   title: Deutschland. Ein Wintermärchen

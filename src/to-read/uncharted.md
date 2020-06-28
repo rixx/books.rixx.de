@@ -11,6 +11,7 @@ book:
   series: Arcane America
   series_position: '1'
   slug: uncharted
+  spine_color: '#aa9988'
   title: Uncharted
 plan:
   date_added: '2018-09-05'

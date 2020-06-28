@@ -13,6 +13,7 @@ book:
   pages: 384
   publication_year: '2003'
   slug: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world
+  spine_color: '#b19167'
   title: 'Soul Made Flesh: The Discovery of the Brain--and How it Changed the World'
 plan:
   date_added: '2020-03-08'

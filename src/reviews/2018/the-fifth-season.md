@@ -9,6 +9,7 @@ book:
   series: The Broken Earth
   series_position: '1'
   slug: the-fifth-season
+  spine_color: '#445754'
   tags:
   - fantasy
   - scifi

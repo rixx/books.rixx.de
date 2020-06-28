@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '8'
   slug: guards-guards
+  spine_color: '#12a26f'
   title: Guards! Guards!
 plan:
   date_added: '2015-04-08'

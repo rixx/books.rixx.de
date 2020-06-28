@@ -13,6 +13,7 @@ book:
   pages: 352
   publication_year: '1879'
   slug: treasure-island
+  spine_color: '#974937'
   tags:
   - german
   title: Treasure Island

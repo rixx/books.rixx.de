@@ -13,6 +13,7 @@ book:
   pages: 672
   publication_year: '1968'
   slug: stand-on-zanzibar
+  spine_color: '#d0c86a'
   title: Stand on Zanzibar
 plan:
   date_added: '2018-09-03'

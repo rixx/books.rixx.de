@@ -11,6 +11,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '1'
   slug: harka
+  spine_color: '#afa541'
   tags:
   - german
   - historical-fiction

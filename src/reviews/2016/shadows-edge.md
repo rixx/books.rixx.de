@@ -11,6 +11,7 @@ book:
   series: Night Angel
   series_position: '2'
   slug: shadows-edge
+  spine_color: '#bd675d'
   tags:
   - fantasy
   title: Shadow's Edge

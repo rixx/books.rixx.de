@@ -10,6 +10,7 @@ book:
   series: The Reborn Empire
   series_position: '1'
   slug: we-ride-the-storm
+  spine_color: '#c1b482'
   title: We Ride the Storm
 plan:
   date_added: '2018-11-03'

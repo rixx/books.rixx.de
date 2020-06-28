@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '2'
   slug: fool-moon
+  spine_color: '#3d4f64'
   tags:
   - urban-fantasy
   title: Fool Moon

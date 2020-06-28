@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '3.5'
   slug: maze-of-light
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: Maze of Light

@@ -13,6 +13,7 @@ book:
   pages: 210
   publication_year: '1963'
   slug: way-station
+  spine_color: '#3a091e'
   title: Way Station
 plan:
   date_added: '2018-09-29'

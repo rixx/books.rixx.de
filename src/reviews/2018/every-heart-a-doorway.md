@@ -15,6 +15,7 @@ book:
   series: Wayward Children
   series_position: '1'
   slug: every-heart-a-doorway
+  spine_color: '#c4ac92'
   tags:
   - fantasy
   title: Every Heart a Doorway

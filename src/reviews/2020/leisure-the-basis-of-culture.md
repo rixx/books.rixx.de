@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '1948'
   slug: leisure-the-basis-of-culture
+  spine_color: '#6e6e6e'
   tags:
   - german
   - nonfiction

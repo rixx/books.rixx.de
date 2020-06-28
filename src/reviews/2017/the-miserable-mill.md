@@ -13,6 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '4'
   slug: the-miserable-mill
+  spine_color: '#edce98'
   tags:
   - ya
   title: The Miserable Mill

@@ -8,6 +8,7 @@ book:
   pages: '416'
   publication_year: '2016'
   slug: elanus
+  spine_color: '#b9c196'
   tags:
   - german
   - scifi

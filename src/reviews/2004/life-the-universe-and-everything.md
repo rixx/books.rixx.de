@@ -15,6 +15,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '3'
   slug: life-the-universe-and-everything
+  spine_color: '#80784e'
   tags:
   - german
   - scifi

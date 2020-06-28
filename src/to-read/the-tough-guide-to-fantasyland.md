@@ -13,6 +13,7 @@ book:
   pages: 234
   publication_year: '1996'
   slug: the-tough-guide-to-fantasyland
+  spine_color: '#6d5354'
   title: The Tough Guide to Fantasyland
 plan:
   date_added: '2018-07-04'

@@ -13,6 +13,7 @@ book:
   pages: 306
   publication_year: '1963'
   slug: cats-cradle
+  spine_color: '#3c4059'
   tags:
   - scifi
   title: Cat's Cradle

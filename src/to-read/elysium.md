@@ -13,6 +13,7 @@ book:
   pages: 199
   publication_year: '2014'
   slug: elysium
+  spine_color: '#adb5c2'
   title: Elysium
 plan:
   date_added: '2019-03-09'

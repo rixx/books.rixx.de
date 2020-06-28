@@ -6,6 +6,7 @@ book:
   goodreads: '27396199'
   publication_year: null
   slug: the-last-christmas
+  spine_color: '#8e7571'
   title: The Last Christmas
 plan:
   date_added: '2018-09-20'

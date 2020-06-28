@@ -13,6 +13,7 @@ book:
   pages: 243
   publication_year: '1985'
   slug: the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales
+  spine_color: '#f8f6b3'
   title: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
 plan:
   date_added: '2016-05-18'

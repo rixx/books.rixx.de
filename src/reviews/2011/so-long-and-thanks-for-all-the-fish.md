@@ -11,6 +11,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '4'
   slug: so-long-and-thanks-for-all-the-fish
+  spine_color: '#0b2f36'
   tags:
   - german
   - scifi

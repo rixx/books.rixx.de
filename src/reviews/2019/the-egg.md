@@ -7,6 +7,7 @@ book:
   pages: '3'
   publication_year: '2009'
   slug: the-egg
+  spine_color: '#4e5043'
   title: The Egg
 plan:
   date_added: '2019-01-26'

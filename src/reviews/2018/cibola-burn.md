@@ -9,6 +9,7 @@ book:
   series: The Expanse
   series_position: '4'
   slug: cibola-burn
+  spine_color: '#8f9651'
   tags:
   - scifi
   title: Cibola Burn

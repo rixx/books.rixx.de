@@ -9,6 +9,7 @@ book:
   pages: '704'
   publication_year: '2005'
   slug: the-historian
+  spine_color: '#ab9157'
   tags: []
   title: The Historian
 plan:

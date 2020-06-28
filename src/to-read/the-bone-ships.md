@@ -15,6 +15,7 @@ book:
   series: The Tide Child
   series_position: '1'
   slug: the-bone-ships
+  spine_color: '#f2efdb'
   title: The Bone Ships
 plan:
   date_added: '2019-07-26'

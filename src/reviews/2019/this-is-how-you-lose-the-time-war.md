@@ -7,6 +7,7 @@ book:
   pages: '209'
   publication_year: '2019'
   slug: this-is-how-you-lose-the-time-war
+  spine_color: '#532b30'
   tags:
   - scifi
   title: This Is How You Lose the Time War

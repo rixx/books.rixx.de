@@ -9,6 +9,7 @@ book:
   pages: '302'
   publication_year: '2010'
   slug: the-sorcerers-house
+  spine_color: '#437889'
   title: The Sorcerer's House
 plan:
   date_added: '2016-05-08'

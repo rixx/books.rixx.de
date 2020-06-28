@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '2012'
   slug: redshirts
+  spine_color: '#ad1e22'
   tags:
   - scifi
   title: Redshirts

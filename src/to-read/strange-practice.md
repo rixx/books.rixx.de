@@ -9,6 +9,7 @@ book:
   series: Dr. Greta Helsing
   series_position: '1'
   slug: strange-practice
+  spine_color: '#c50a0b'
   title: Strange Practice
 plan:
   date_added: '2019-02-04'

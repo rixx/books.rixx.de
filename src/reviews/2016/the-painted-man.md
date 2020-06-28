@@ -12,6 +12,7 @@ book:
   series: Demon Cycle
   series_position: '1'
   slug: the-painted-man
+  spine_color: '#bc6e42'
   tags:
   - fantasy
   title: The Painted Man

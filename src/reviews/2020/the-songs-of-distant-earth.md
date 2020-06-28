@@ -12,6 +12,7 @@ book:
   pages: 256
   publication_year: '1986'
   slug: the-songs-of-distant-earth
+  spine_color: '#59719a'
   tags:
   - scifi
   title: The Songs of Distant Earth

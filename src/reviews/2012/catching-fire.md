@@ -15,6 +15,7 @@ book:
   series: The Hunger Games
   series_position: '2'
   slug: catching-fire
+  spine_color: '#c14f2c'
   tags:
   - ya
   title: Catching Fire

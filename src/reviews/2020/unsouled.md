@@ -9,6 +9,7 @@ book:
   series: Cradle
   series_position: '1'
   slug: unsouled
+  spine_color: '#710806'
   tags:
   - fantasy
   title: Unsouled

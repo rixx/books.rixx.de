@@ -11,6 +11,7 @@ book:
   series: Erebos
   series_position: '1'
   slug: erebos
+  spine_color: '#a52023'
   tags:
   - german
   - scifi

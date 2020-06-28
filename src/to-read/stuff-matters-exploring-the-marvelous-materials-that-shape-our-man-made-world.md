@@ -13,6 +13,7 @@ book:
   pages: 272
   publication_year: '2013'
   slug: stuff-matters-exploring-the-marvelous-materials-that-shape-our-man-made-world
+  spine_color: '#634f3f'
   title: 'Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made
     World'
 plan:

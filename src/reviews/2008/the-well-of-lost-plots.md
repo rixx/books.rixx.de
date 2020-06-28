@@ -15,6 +15,7 @@ book:
   series: Thursday Next
   series_position: '3'
   slug: the-well-of-lost-plots
+  spine_color: '#a0bdde'
   tags:
   - fantasy
   - german

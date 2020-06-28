@@ -15,6 +15,7 @@ book:
   series: Chronicles of Ancient Darkness
   series_position: '1'
   slug: wolf-brother
+  spine_color: '#b28f74'
   title: Wolf Brother
 plan:
   date_added: '2016-05-19'

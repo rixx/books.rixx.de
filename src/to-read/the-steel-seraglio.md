@@ -13,6 +13,7 @@ book:
   pages: 424
   publication_year: '2012'
   slug: the-steel-seraglio
+  spine_color: '#e1501b'
   title: The Steel Seraglio
 plan:
   date_added: '2019-04-04'

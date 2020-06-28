@@ -11,6 +11,7 @@ book:
   series: Die Verratenen
   series_position: '3'
   slug: die-vernichteten
+  spine_color: '#868785'
   tags:
   - german
   - scifi

@@ -15,6 +15,7 @@ book:
   series: Southern Reach
   series_position: '1'
   slug: annihilation
+  spine_color: '#9db057'
   tags:
   - scifi
   title: Annihilation

@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '5'
   slug: the-unpleasantness-at-the-bellona-club
+  spine_color: '#dba68e'
   tags:
   - mystery
   title: The Unpleasantness at the Bellona Club

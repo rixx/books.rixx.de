@@ -13,6 +13,7 @@ book:
   pages: 148
   publication_year: '2001'
   slug: intelligence-a-very-short-introduction
+  spine_color: '#aac145'
   tags:
   - nonfiction
   - psychology

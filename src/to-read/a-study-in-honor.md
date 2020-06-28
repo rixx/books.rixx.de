@@ -15,6 +15,7 @@ book:
   series: The Janet Watson Chronicles
   series_position: '1'
   slug: a-study-in-honor
+  spine_color: '#5d619c'
   title: A Study in Honor
 plan:
   date_added: '2019-01-14'

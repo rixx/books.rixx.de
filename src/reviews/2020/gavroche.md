@@ -7,6 +7,7 @@ book:
   pages: '142'
   publication_year: '1957'
   slug: gavroche
+  spine_color: '#928271'
   tags:
   - german
   title: Gavroche

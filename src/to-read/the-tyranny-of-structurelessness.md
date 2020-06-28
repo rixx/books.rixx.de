@@ -9,6 +9,7 @@ book:
   pages: '14'
   publication_year: '1970'
   slug: the-tyranny-of-structurelessness
+  spine_color: '#934931'
   title: The Tyranny Of Structurelessness
 plan:
   date_added: '2019-11-15'

@@ -13,6 +13,7 @@ book:
   pages: 264
   publication_year: '2014'
   slug: 1177-b-c-the-year-civilization-collapsed
+  spine_color: '#d7b56b'
   tags:
   - history
   - nonfiction

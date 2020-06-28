@@ -8,6 +8,7 @@ book:
   series: Gods of Men
   series_position: '1'
   slug: the-gods-of-men
+  spine_color: '#5f7d93'
   title: The Gods of Men
 plan:
   date_added: '2018-12-10'

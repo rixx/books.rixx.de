@@ -13,6 +13,7 @@ book:
   pages: 336
   publication_year: '1987'
   slug: war-for-the-oaks
+  spine_color: '#dd8d2e'
   title: War for the Oaks
 plan:
   date_added: '2018-09-12'

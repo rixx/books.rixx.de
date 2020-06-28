@@ -9,6 +9,7 @@ book:
   pages: '768'
   publication_year: '2004'
   slug: pandoras-star
+  spine_color: '#3c3359'
   title: Pandora's Star
 plan:
   date_added: '2018-03-07'

@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '1'
   slug: whose-body
+  spine_color: '#a18b87'
   tags:
   - german
   - mystery

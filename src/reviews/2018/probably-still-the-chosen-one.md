@@ -7,6 +7,7 @@ book:
   pages: '17'
   publication_year: '2017'
   slug: probably-still-the-chosen-one
+  spine_color: '#cfa156'
   title: Probably Still the Chosen One
 plan:
   date_added: '2018-12-06'

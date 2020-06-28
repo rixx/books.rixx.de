@@ -11,6 +11,7 @@ book:
   series: Demon Cycle
   series_position: '4'
   slug: the-skull-throne
+  spine_color: '#beb7a2'
   tags:
   - fantasy
   title: The Skull Throne

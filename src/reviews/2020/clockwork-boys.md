@@ -8,6 +8,7 @@ book:
   series: Clocktaur War
   series_position: '1'
   slug: clockwork-boys
+  spine_color: '#dcbd7a'
   tags:
   - fantasy
   title: Clockwork Boys

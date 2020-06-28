@@ -9,6 +9,7 @@ book:
   series: Clocktaur War
   series_position: '2'
   slug: the-wonder-engine
+  spine_color: '#d2b16d'
   title: The Wonder Engine
 plan:
   date_added: '2020-01-26'

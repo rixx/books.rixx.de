@@ -15,6 +15,7 @@ book:
   series: Tao
   series_position: '1'
   slug: the-lives-of-tao
+  spine_color: '#f5cc11'
   title: The Lives of Tao
 plan:
   date_added: '2018-08-27'

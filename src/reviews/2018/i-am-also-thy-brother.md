@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '7'
   slug: i-am-also-thy-brother
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: I Am Also Thy Brother

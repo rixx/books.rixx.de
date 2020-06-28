@@ -15,6 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '1'
   slug: the-way-of-kings
+  spine_color: '#cc704b'
   tags:
   - fantasy
   title: The Way of Kings

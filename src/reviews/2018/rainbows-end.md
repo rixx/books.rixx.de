@@ -13,6 +13,7 @@ book:
   pages: 381
   publication_year: '2006'
   slug: rainbows-end
+  spine_color: '#8388cc'
   tags:
   - scifi
   title: Rainbows End

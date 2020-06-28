@@ -13,6 +13,7 @@ book:
   pages: 48
   publication_year: '1965'
   slug: repent-harlequin-said-the-ticktockman
+  spine_color: '#4f4a27'
   tags:
   - scifi
   title: '"Repent, Harlequin!" Said the Ticktockman'

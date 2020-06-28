@@ -13,6 +13,7 @@ book:
   pages: 343
   publication_year: '1974'
   slug: the-forgotten-beasts-of-eld
+  spine_color: '#dbaa56'
   title: The Forgotten Beasts of Eld
 plan:
   date_added: '2018-09-15'

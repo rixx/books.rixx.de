@@ -13,6 +13,7 @@ book:
   pages: 208
   publication_year: '2008'
   slug: sherlock-holmes-was-wrong-reopening-the-case-of-the-hound-of-the-baskervilles
+  spine_color: '#ed4625'
   title: 'Sherlock Holmes Was Wrong: Reopening the Case of The Hound of the Baskervilles'
 plan:
   date_added: '2019-07-17'

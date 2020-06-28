@@ -15,6 +15,7 @@ book:
   series: Enchanted Forest Chronicles
   series_position: '1'
   slug: dealing-with-dragons
+  spine_color: '#977c74'
   title: Dealing with Dragons
 plan:
   date_added: '2016-05-19'

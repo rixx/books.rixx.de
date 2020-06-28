@@ -15,6 +15,7 @@ book:
   series: Inda
   series_position: '1'
   slug: inda
+  spine_color: '#efc89b'
   title: Inda
 plan:
   date_added: '2018-09-15'

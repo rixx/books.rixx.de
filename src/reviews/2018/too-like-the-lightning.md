@@ -15,6 +15,7 @@ book:
   series: Terra Ignota
   series_position: '1'
   slug: too-like-the-lightning
+  spine_color: '#eeba8d'
   tags:
   - scifi
   - space-monks

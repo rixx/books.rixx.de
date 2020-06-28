@@ -14,6 +14,7 @@ book:
   series: Vorkosigan Saga
   series_position: '4'
   slug: falling-free
+  spine_color: '#6a5b54'
   tags:
   - scifi
   title: Falling Free

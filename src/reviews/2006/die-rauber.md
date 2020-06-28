@@ -11,6 +11,7 @@ book:
   pages: 176
   publication_year: '1781'
   slug: die-rauber
+  spine_color: '#fefefe'
   tags:
   - german
   - stage-play

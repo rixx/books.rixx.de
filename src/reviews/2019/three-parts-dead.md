@@ -15,6 +15,7 @@ book:
   series: Craft Sequence
   series_position: '1'
   slug: three-parts-dead
+  spine_color: '#d29466'
   tags:
   - fantasy
   title: Three Parts Dead

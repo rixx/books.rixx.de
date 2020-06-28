@@ -11,6 +11,7 @@ book:
   pages: 304
   publication_year: '2005'
   slug: frostfeuer
+  spine_color: '#61afbe'
   tags:
   - fantasy
   - german

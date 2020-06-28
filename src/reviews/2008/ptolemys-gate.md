@@ -11,6 +11,7 @@ book:
   series: Bartimaeus
   series_position: '3'
   slug: ptolemys-gate
+  spine_color: '#b7160a'
   tags:
   - fantasy
   - german

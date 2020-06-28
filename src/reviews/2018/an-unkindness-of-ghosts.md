@@ -13,6 +13,7 @@ book:
   pages: 351
   publication_year: '2017'
   slug: an-unkindness-of-ghosts
+  spine_color: '#354a50'
   tags:
   - scifi
   title: An Unkindness of Ghosts

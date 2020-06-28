@@ -11,6 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '8'
   slug: thrice-the-brinded-cat-hath-mewd
+  spine_color: '#c9902a'
   tags: []
   title: Thrice the Brinded Cat Hath Mew'd
 plan:

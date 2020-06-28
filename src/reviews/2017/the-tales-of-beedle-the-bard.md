@@ -13,6 +13,7 @@ book:
   pages: 109
   publication_year: '2008'
   slug: the-tales-of-beedle-the-bard
+  spine_color: '#546d8d'
   tags:
   - fantasy
   title: The Tales of Beedle the Bard

@@ -13,6 +13,7 @@ book:
   pages: 272
   publication_year: '1937'
   slug: star-maker
+  spine_color: '#7b4e43'
   title: Star Maker
 plan:
   date_added: '2018-08-28'

@@ -11,6 +11,7 @@ book:
   series: Vorkosigan Saga
   series_position: '5.2'
   slug: labyrinth
+  spine_color: '#6d0305'
   tags:
   - scifi
   title: Labyrinth

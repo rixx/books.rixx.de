@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1999'
   slug: all-about-love-new-visions
+  spine_color: '#821c1d'
   tags:
   - nonfiction
   - personal-development

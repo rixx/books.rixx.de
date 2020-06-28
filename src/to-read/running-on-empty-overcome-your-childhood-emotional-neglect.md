@@ -13,6 +13,7 @@ book:
   pages: 250
   publication_year: '2012'
   slug: running-on-empty-overcome-your-childhood-emotional-neglect
+  spine_color: '#c42c2a'
   title: 'Running on Empty: Overcome Your Childhood Emotional Neglect'
 plan:
   date_added: 2020-05-25

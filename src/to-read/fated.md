@@ -15,6 +15,7 @@ book:
   series: Alex Verus
   series_position: '1'
   slug: fated
+  spine_color: '#c35e28'
   title: Fated
 plan:
   date_added: '2018-10-07'

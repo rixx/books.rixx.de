@@ -13,6 +13,7 @@ book:
   pages: 560
   publication_year: '2019'
   slug: the-wolf-in-the-whale
+  spine_color: '#a47679'
   tags:
   - fantasy
   title: The Wolf in the Whale

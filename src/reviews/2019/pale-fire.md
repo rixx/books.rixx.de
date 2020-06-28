@@ -13,6 +13,7 @@ book:
   pages: 248
   publication_year: '1962'
   slug: pale-fire
+  spine_color: '#c9d3d5'
   title: Pale Fire
 plan:
   date_added: '2019-11-15'

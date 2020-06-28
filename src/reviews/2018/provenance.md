@@ -7,6 +7,7 @@ book:
   pages: '448'
   publication_year: '2017'
   slug: provenance
+  spine_color: '#b8b6a6'
   tags:
   - scifi
   title: Provenance

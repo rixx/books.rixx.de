@@ -15,6 +15,7 @@ book:
   series: Young Wizards
   series_position: '7'
   slug: wizards-holiday
+  spine_color: '#ebb965'
   tags:
   - fantasy
   - urban-fantasy

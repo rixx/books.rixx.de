@@ -11,6 +11,7 @@ book:
   series: The Dark Tower
   series_position: '4'
   slug: wizard-and-glass
+  spine_color: '#5a4a72'
   title: Wizard and Glass
 plan:
   date_added: '2017-06-05'

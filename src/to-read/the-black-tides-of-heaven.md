@@ -15,6 +15,7 @@ book:
   series: Tensorate
   series_position: '1'
   slug: the-black-tides-of-heaven
+  spine_color: '#151f31'
   title: The Black Tides of Heaven
 plan:
   date_added: '2019-03-17'

@@ -13,6 +13,7 @@ book:
   pages: 200
   publication_year: '1993'
   slug: the-books-of-magic
+  spine_color: '#67384c'
   title: The Books of Magic
 plan:
   date_added: '2015-07-02'

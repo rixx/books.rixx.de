@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '1'
   slug: consider-phlebas
+  spine_color: '#41a2bd'
   tags:
   - scifi
   title: Consider Phlebas

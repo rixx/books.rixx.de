@@ -9,6 +9,7 @@ book:
   pages: '132'
   publication_year: '1966'
   slug: empire-star
+  spine_color: '#346483'
   tags:
   - scifi
   title: Empire Star

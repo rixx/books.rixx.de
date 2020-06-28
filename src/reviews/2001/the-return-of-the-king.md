@@ -9,6 +9,7 @@ book:
   series: The Lord of the Rings
   series_position: '3'
   slug: the-return-of-the-king
+  spine_color: '#baad96'
   tags:
   - fantasy
   - german

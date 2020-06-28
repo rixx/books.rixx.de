@@ -13,6 +13,7 @@ book:
   pages: 192
   publication_year: '2002'
   slug: coraline
+  spine_color: '#3d3d3d'
   tags:
   - fantasy
   - german

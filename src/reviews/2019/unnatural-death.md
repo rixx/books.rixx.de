@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '3'
   slug: unnatural-death
+  spine_color: '#99a48a'
   tags:
   - mystery
   title: Unnatural Death

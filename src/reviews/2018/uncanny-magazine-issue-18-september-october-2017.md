@@ -6,6 +6,7 @@ book:
   goodreads: '36184017'
   publication_year: '2017'
   slug: uncanny-magazine-issue-18-september-october-2017
+  spine_color: '#997f84'
   tags:
   - scifi
   title: 'Uncanny Magazine Issue 18: September/October 2017'

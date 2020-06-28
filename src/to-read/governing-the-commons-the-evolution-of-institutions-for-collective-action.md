@@ -13,6 +13,7 @@ book:
   pages: 298
   publication_year: '1990'
   slug: governing-the-commons-the-evolution-of-institutions-for-collective-action
+  spine_color: '#1d5192'
   title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
 plan:
   date_added: '2018-06-10'

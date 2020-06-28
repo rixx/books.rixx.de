@@ -15,6 +15,7 @@ book:
   series: The Academy
   series_position: '1'
   slug: the-engines-of-god
+  spine_color: '#db902b'
   title: The Engines of God
 plan:
   date_added: '2018-08-12'

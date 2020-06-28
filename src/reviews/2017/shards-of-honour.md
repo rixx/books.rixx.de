@@ -11,6 +11,7 @@ book:
   series: Vorkosigan Saga
   series_position: '1'
   slug: shards-of-honour
+  spine_color: '#c93022'
   tags:
   - scifi
   title: Shards of Honour

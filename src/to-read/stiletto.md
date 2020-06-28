@@ -15,6 +15,7 @@ book:
   series: The Checquy Files
   series_position: '2'
   slug: stiletto
+  spine_color: '#642a29'
   title: Stiletto
 plan:
   date_added: '2018-09-15'

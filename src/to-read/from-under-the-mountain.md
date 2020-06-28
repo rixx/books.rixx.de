@@ -15,6 +15,7 @@ book:
   series: Trident Chronicles
   series_position: '1'
   slug: from-under-the-mountain
+  spine_color: '#5e2d31'
   title: From Under the Mountain
 plan:
   date_added: '2018-09-28'

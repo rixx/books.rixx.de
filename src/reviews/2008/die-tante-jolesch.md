@@ -13,6 +13,7 @@ book:
   pages: 249
   publication_year: '1975'
   slug: die-tante-jolesch
+  spine_color: '#7a6635'
   tags:
   - german
   - history

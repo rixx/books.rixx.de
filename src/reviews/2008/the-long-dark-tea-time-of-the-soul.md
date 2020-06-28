@@ -15,6 +15,7 @@ book:
   series: Dirk Gently
   series_position: '2'
   slug: the-long-dark-tea-time-of-the-soul
+  spine_color: '#918d4d'
   tags:
   - german
   - scifi

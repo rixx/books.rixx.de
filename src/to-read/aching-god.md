@@ -10,6 +10,7 @@ book:
   series: Iconoclasts
   series_position: '1'
   slug: aching-god
+  spine_color: '#6b4f42'
   title: Aching God
 plan:
   date_added: '2018-10-05'

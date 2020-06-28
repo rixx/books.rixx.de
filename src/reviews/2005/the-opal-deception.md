@@ -14,6 +14,7 @@ book:
   series: Artemis Fowl
   series_position: '4'
   slug: the-opal-deception
+  spine_color: '#e1b962'
   tags:
   - fantasy
   - german

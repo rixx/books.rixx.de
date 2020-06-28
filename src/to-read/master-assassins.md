@@ -9,6 +9,7 @@ book:
   series: The Fire Sacraments
   series_position: '1'
   slug: master-assassins
+  spine_color: '#99725b'
   title: Master Assassins
 plan:
   date_added: '2018-11-05'

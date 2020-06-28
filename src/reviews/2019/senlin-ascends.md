@@ -11,6 +11,7 @@ book:
   series: The Books of Babel
   series_position: '1'
   slug: senlin-ascends
+  spine_color: '#422121'
   tags:
   - fantasy
   title: Senlin Ascends

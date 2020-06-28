@@ -9,6 +9,7 @@ book:
   pages: '110'
   publication_year: '1983'
   slug: on-the-manner-of-negotiating-with-princes
+  spine_color: '#7d572c'
   tags:
   - nonfiction
   title: On the Manner of Negotiating with Princes

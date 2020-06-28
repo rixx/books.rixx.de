@@ -13,6 +13,7 @@ book:
   pages: 327
   publication_year: '2019'
   slug: because-internet-understanding-the-new-rules-of-language
+  spine_color: '#f8ee09'
   tags:
   - language
   - nonfiction

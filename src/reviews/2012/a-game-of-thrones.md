@@ -11,6 +11,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '1'
   slug: a-game-of-thrones
+  spine_color: '#cb9e4f'
   tags:
   - fantasy
   title: A Game of Thrones

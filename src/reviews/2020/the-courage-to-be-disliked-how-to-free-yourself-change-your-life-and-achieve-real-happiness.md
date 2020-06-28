@@ -8,6 +8,7 @@ book:
   isbn13: '9781760630737'
   publication_year: '2013'
   slug: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness
+  spine_color: '#ba3939'
   tags:
   - nonfiction
   - personal-development

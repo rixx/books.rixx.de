@@ -15,6 +15,7 @@ book:
   series: The Warlord Chronicles
   series_position: '1'
   slug: the-winter-king-a-novel-of-arthur
+  spine_color: '#191c25'
   title: 'The Winter King: A Novel of Arthur'
 plan:
   date_added: '2018-09-19'

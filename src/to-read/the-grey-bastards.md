@@ -9,6 +9,7 @@ book:
   series: The Lot Lands
   series_position: '1'
   slug: the-grey-bastards
+  spine_color: '#dabf8e'
   title: The Grey Bastards
 plan:
   date_added: '2018-10-28'

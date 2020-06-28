@@ -11,6 +11,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '6'
   slug: uber-den-missouri
+  spine_color: '#677a23'
   tags:
   - german
   - historical-fiction

@@ -15,6 +15,7 @@ book:
   series: Divergent
   series_position: '1'
   slug: divergent
+  spine_color: '#dbc991'
   tags:
   - fantasy
   - ya

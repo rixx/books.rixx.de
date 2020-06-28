@@ -11,6 +11,7 @@ book:
   series: Abhorsen
   series_position: '3'
   slug: abhorsen
+  spine_color: '#dee7cb'
   tags:
   - fantasy
   - ya

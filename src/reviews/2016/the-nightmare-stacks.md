@@ -15,6 +15,7 @@ book:
   series: Laundry Files
   series_position: '7'
   slug: the-nightmare-stacks
+  spine_color: '#8f2d73'
   tags:
   - urban-fantasy
   title: The Nightmare Stacks

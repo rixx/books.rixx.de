@@ -15,6 +15,7 @@ book:
   series: The Forever War
   series_position: '1'
   slug: the-forever-war
+  spine_color: '#a2d2d8'
   tags:
   - scifi
   title: The Forever War

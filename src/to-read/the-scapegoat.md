@@ -9,6 +9,7 @@ book:
   pages: '348'
   publication_year: '1957'
   slug: the-scapegoat
+  spine_color: '#5fa9c0'
   title: The Scapegoat
 plan:
   date_added: '2019-05-05'

@@ -13,6 +13,7 @@ book:
   pages: 299
   publication_year: '2017'
   slug: norse-mythology
+  spine_color: '#b6a69a'
   tags:
   - myths-legends
   title: Norse Mythology

@@ -15,6 +15,7 @@ book:
   series: Halting State
   series_position: '1'
   slug: halting-state
+  spine_color: '#c1c38f'
   tags:
   - scifi
   title: Halting State

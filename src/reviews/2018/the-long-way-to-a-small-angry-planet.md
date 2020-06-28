@@ -11,6 +11,7 @@ book:
   series: Wayfarers
   series_position: '1'
   slug: the-long-way-to-a-small-angry-planet
+  spine_color: '#6f4634'
   tags:
   - scifi
   title: The Long Way to a Small, Angry Planet

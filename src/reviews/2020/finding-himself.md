@@ -9,6 +9,7 @@ book:
   series: Finding Himself
   series_position: '1'
   slug: finding-himself
+  spine_color: '#ae7335'
   title: FINDING HIMSELF
 plan:
   date_added: '2020-02-25'

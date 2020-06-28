@@ -15,6 +15,7 @@ book:
   series: Dark Reflections
   series_position: '2'
   slug: the-stone-light
+  spine_color: '#9aa6b4'
   tags:
   - fantasy
   - german

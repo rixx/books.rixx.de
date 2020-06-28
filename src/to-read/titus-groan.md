@@ -11,6 +11,7 @@ book:
   series: Gormenghast
   series_position: '1'
   slug: titus-groan
+  spine_color: '#466152'
   title: Titus Groan
 plan:
   date_added: '2018-07-24'

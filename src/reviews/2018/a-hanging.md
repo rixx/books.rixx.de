@@ -7,6 +7,7 @@ book:
   pages: '9'
   publication_year: '1931'
   slug: a-hanging
+  spine_color: '#cba972'
   title: A Hanging
 plan:
   date_added: '2018-10-31'

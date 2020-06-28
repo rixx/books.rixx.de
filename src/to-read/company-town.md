@@ -9,6 +9,7 @@ book:
   pages: '285'
   publication_year: '2016'
   slug: company-town
+  spine_color: '#e3d2a8'
   title: Company Town
 plan:
   date_added: '2016-06-05'

@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '2008'
   slug: the-graveyard-book
+  spine_color: '#336786'
   tags:
   - fantasy
   title: The Graveyard Book

@@ -11,6 +11,7 @@ book:
   series: Young Wizards
   series_position: '8'
   slug: wizards-at-war
+  spine_color: '#a29642'
   tags:
   - fantasy
   - urban-fantasy

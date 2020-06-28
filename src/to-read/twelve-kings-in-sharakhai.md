@@ -11,6 +11,7 @@ book:
   series: The Song of the Shattered Sands
   series_position: '1'
   slug: twelve-kings-in-sharakhai
+  spine_color: '#86554c'
   title: Twelve Kings in Sharakhai
 plan:
   date_added: '2018-09-15'

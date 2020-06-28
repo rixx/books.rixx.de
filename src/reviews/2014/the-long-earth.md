@@ -11,6 +11,7 @@ book:
   series: The Long Earth
   series_position: '1'
   slug: the-long-earth
+  spine_color: '#899ea1'
   title: The Long Earth
 plan:
   date_added: '2015-04-08'

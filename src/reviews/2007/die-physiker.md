@@ -6,6 +6,7 @@ book:
   goodreads: '452220'
   publication_year: '1962'
   slug: die-physiker
+  spine_color: '#aba069'
   tags:
   - german
   - stage-play

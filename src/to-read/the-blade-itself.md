@@ -15,6 +15,7 @@ book:
   series: The First Law
   series_position: '1'
   slug: the-blade-itself
+  spine_color: '#b37e4f'
   title: The Blade Itself
 plan:
   date_added: '2015-04-08'

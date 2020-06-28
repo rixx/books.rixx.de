@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2018'
   slug: bringing-columbia-home-the-untold-story-of-a-lost-space-shuttle-and-her-crew
+  spine_color: '#57554f'
   tags:
   - history
   - nonfiction

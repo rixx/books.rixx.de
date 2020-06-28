@@ -15,6 +15,7 @@ book:
   series: The Chronicles of Prydain
   series_position: '1'
   slug: the-book-of-three
+  spine_color: '#a32c31'
   title: The Book of Three
 plan:
   date_added: '2019-02-19'

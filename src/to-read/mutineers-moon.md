@@ -15,6 +15,7 @@ book:
   series: Dahak
   series_position: '1'
   slug: mutineers-moon
+  spine_color: '#bf7538'
   title: Mutineers' Moon
 plan:
   date_added: '2018-08-25'

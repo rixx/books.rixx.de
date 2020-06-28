@@ -15,6 +15,7 @@ book:
   series: Raven's Shadow
   series_position: '2'
   slug: tower-lord
+  spine_color: '#b4a9a8'
   tags:
   - fantasy
   title: Tower Lord

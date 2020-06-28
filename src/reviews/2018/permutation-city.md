@@ -15,6 +15,7 @@ book:
   series: Subjective Cosmology
   series_position: '2'
   slug: permutation-city
+  spine_color: '#e6c378'
   tags:
   - scifi
   title: Permutation City

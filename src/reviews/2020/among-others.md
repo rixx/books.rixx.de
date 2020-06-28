@@ -9,6 +9,7 @@ book:
   pages: '304'
   publication_year: '2011'
   slug: among-others
+  spine_color: '#de512d'
   tags:
   - fantasy
   title: Among Others

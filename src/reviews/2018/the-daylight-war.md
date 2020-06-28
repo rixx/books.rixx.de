@@ -15,6 +15,7 @@ book:
   series: Demon Cycle
   series_position: '3'
   slug: the-daylight-war
+  spine_color: '#98221e'
   tags:
   - fantasy
   title: The Daylight War

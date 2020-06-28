@@ -8,6 +8,7 @@ book:
   series: The Dresden Files
   series_position: '11.5'
   slug: love-hurts
+  spine_color: '#cdb18b'
   tags:
   - urban-fantasy
   title: Love Hurts

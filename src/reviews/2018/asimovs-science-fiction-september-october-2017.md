@@ -7,6 +7,7 @@ book:
   pages: '212'
   publication_year: '2017'
   slug: asimovs-science-fiction-september-october-2017
+  spine_color: '#e1e9df'
   title: Asimov's Science Fiction, September/October 2017
 plan:
   date_added: '2018-02-24'

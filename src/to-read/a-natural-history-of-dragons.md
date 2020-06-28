@@ -15,6 +15,7 @@ book:
   series: The Memoirs of Lady Trent
   series_position: '1'
   slug: a-natural-history-of-dragons
+  spine_color: '#bcaea3'
   title: A Natural History of Dragons
 plan:
   date_added: '2018-09-15'

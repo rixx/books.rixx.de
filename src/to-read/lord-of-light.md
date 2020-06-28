@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '1967'
   slug: lord-of-light
+  spine_color: '#9bc2b8'
   title: Lord of Light
 plan:
   date_added: '2018-02-19'

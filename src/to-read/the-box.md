@@ -9,6 +9,7 @@ book:
   pages: '376'
   publication_year: '2006'
   slug: the-box
+  spine_color: '#dbd3bf'
   title: The Box
 plan:
   date_added: 2020-06-14

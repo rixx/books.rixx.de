@@ -15,6 +15,7 @@ book:
   series: Knightley Academy
   series_position: '1'
   slug: knightley-academy
+  spine_color: '#6e652f'
   tags:
   - fantasy
   - ya

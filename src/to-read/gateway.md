@@ -15,6 +15,7 @@ book:
   series: Heechee Saga
   series_position: '1'
   slug: gateway
+  spine_color: '#d0d8a6'
   title: Gateway
 plan:
   date_added: '2018-08-25'

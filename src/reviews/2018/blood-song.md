@@ -9,6 +9,7 @@ book:
   series: Raven's Shadow
   series_position: '1'
   slug: blood-song
+  spine_color: '#c2ab95'
   tags:
   - fantasy
   title: Blood Song

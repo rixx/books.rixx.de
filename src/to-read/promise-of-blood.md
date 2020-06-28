@@ -11,6 +11,7 @@ book:
   series: Powder Mage
   series_position: '1'
   slug: promise-of-blood
+  spine_color: '#6b554b'
   title: Promise of Blood
 plan:
   date_added: '2018-08-20'

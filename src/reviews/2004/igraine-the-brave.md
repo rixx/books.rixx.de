@@ -13,6 +13,7 @@ book:
   pages: 212
   publication_year: '1998'
   slug: igraine-the-brave
+  spine_color: '#b49363'
   tags:
   - german
   - kids

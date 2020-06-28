@@ -9,6 +9,7 @@ book:
   pages: '296'
   publication_year: '1971'
   slug: the-carpet-people
+  spine_color: '#ab3f41'
   title: The Carpet People
 plan:
   date_added: '2015-04-08'

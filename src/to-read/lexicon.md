@@ -9,6 +9,7 @@ book:
   pages: '390'
   publication_year: '2013'
   slug: lexicon
+  spine_color: '#bab765'
   title: Lexicon
 plan:
   date_added: '2018-09-30'

@@ -11,6 +11,7 @@ book:
   series: The Last Dragonslayer
   series_position: '2'
   slug: the-song-of-the-quarkbeast
+  spine_color: '#2e5e81'
   title: The Song of the Quarkbeast
 plan:
   date_added: '2018-07-04'

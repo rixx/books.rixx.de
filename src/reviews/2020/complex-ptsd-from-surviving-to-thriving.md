@@ -7,6 +7,7 @@ book:
   pages: '376'
   publication_year: '2013'
   slug: complex-ptsd-from-surviving-to-thriving
+  spine_color: '#4e5787'
   tags:
   - nonfiction
   - psychology

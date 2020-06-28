@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '8'
   slug: proven-guilty
+  spine_color: '#4f7851'
   tags:
   - urban-fantasy
   title: Proven Guilty

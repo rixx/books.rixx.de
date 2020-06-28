@@ -9,6 +9,7 @@ book:
   pages: '631'
   publication_year: '2002'
   slug: the-time-of-our-singing
+  spine_color: '#9c9c9c'
   tags: []
   title: The Time of Our Singing
 plan:

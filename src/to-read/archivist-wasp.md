@@ -15,6 +15,7 @@ book:
   series: Archivist Wasp Saga
   series_position: '1'
   slug: archivist-wasp
+  spine_color: '#ab1a31'
   title: Archivist Wasp
 plan:
   date_added: '2018-08-27'

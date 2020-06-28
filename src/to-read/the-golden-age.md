@@ -15,6 +15,7 @@ book:
   series: Golden Age
   series_position: '1'
   slug: the-golden-age
+  spine_color: '#1d3a6f'
   title: The Golden Age
 plan:
   date_added: '2018-09-03'

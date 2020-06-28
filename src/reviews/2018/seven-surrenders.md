@@ -15,6 +15,7 @@ book:
   series: Terra Ignota
   series_position: '2'
   slug: seven-surrenders
+  spine_color: '#31527a'
   tags:
   - scifi
   - space-monks

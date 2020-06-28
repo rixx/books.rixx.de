@@ -13,6 +13,7 @@ book:
   pages: 623
   publication_year: '1988'
   slug: foucaults-pendulum
+  spine_color: '#196068'
   tags:
   - german
   title: Foucault's Pendulum

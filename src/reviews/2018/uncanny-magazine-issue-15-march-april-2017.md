@@ -6,6 +6,7 @@ book:
   goodreads: '34505565'
   publication_year: '2017'
   slug: uncanny-magazine-issue-15-march-april-2017
+  spine_color: '#598f8c'
   tags:
   - scifi
   title: 'Uncanny Magazine Issue 15: March/April 2017'

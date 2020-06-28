@@ -13,6 +13,7 @@ book:
   pages: 752
   publication_year: '1914'
   slug: the-complete-sherlock-holmes-volume-ii
+  spine_color: '#ce413d'
   tags:
   - mystery
   title: 'The Complete Sherlock Holmes: Volume II'

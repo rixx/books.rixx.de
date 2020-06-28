@@ -13,6 +13,7 @@ book:
   series: Zamonien
   series_position: '5'
   slug: der-schrecksenmeister
+  spine_color: '#283f69'
   tags:
   - fantasy
   - german

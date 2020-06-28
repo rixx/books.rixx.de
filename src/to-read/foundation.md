@@ -15,6 +15,7 @@ book:
   series: Foundation
   series_position: '1'
   slug: foundation
+  spine_color: '#f1791c'
   title: Foundation
 plan:
   date_added: '2018-02-18'

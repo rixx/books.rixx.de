@@ -15,6 +15,7 @@ book:
   series: Tale of the Five
   series_position: '1'
   slug: the-door-into-fire
+  spine_color: '#e6d557'
   tags:
   - fantasy
   title: The Door Into Fire

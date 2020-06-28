@@ -7,6 +7,7 @@ book:
   pages: '318'
   publication_year: '1970'
   slug: nine-hundred-grandmothers
+  spine_color: '#efe6d9'
   title: Nine Hundred Grandmothers
 plan:
   date_added: '2016-05-18'

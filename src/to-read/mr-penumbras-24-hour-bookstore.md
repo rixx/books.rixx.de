@@ -15,6 +15,7 @@ book:
   series: Mr. Penumbra's 24-Hour Bookstore
   series_position: '1'
   slug: mr-penumbras-24-hour-bookstore
+  spine_color: '#f3ec45'
   title: Mr. Penumbra's 24-Hour Bookstore
 plan:
   date_added: '2018-03-19'

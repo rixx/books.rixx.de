@@ -9,6 +9,7 @@ book:
   series: Rigel Black
   series_position: '1'
   slug: the-pureblood-pretense
+  spine_color: '#7c7267'
   tags:
   - fanfic
   title: The Pureblood Pretense

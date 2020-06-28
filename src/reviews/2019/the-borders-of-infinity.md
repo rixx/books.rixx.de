@@ -9,6 +9,7 @@ book:
   series: Vorkosigan Saga
   series_position: '5.3'
   slug: the-borders-of-infinity
+  spine_color: '#1d1214'
   tags:
   - scifi
   title: The Borders of Infinity

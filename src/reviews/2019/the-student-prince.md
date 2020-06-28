@@ -9,6 +9,7 @@ book:
   series: The Student Prince
   series_position: '1'
   slug: the-student-prince
+  spine_color: '#c17240'
   tags:
   - fanfic
   title: The Student Prince

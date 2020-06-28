@@ -8,6 +8,7 @@ book:
   pages: '312'
   publication_year: '2018'
   slug: street-freaks
+  spine_color: '#84aabc'
   title: Street Freaks
 plan:
   date_added: '2018-06-19'

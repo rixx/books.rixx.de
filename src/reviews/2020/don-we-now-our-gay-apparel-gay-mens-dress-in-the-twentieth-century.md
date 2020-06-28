@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '2000'
   slug: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century
+  spine_color: '#e97590'
   tags:
   - history
   - nonfiction

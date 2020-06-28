@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '2004'
   slug: bring-me-the-rhinoceros
+  spine_color: '#fefccc'
   tags:
   - nonfiction
   - personal-development

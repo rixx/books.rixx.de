@@ -13,6 +13,7 @@ book:
   pages: 298
   publication_year: '2019'
   slug: the-hierophants-daughter
+  spine_color: '#cad2d4'
   tags:
   - scifi
   title: The Hierophant's Daughter

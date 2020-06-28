@@ -15,6 +15,7 @@ book:
   series: Harry Potter
   series_position: '7'
   slug: harry-potter-and-the-deathly-hallows
+  spine_color: '#eea95c'
   tags:
   - fantasy
   - ya

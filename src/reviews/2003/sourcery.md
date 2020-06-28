@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '5'
   slug: sourcery
+  spine_color: '#582b0f'
   title: Sourcery
 plan:
   date_added: '2015-04-08'

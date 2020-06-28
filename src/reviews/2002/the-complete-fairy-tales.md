@@ -13,6 +13,7 @@ book:
   pages: 803
   publication_year: '1913'
   slug: the-complete-fairy-tales
+  spine_color: '#b6a969'
   tags:
   - german
   - myths-legends

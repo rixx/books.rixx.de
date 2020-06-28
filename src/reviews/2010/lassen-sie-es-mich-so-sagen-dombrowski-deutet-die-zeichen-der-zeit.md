@@ -12,6 +12,7 @@ book:
   pages: 268
   publication_year: '2007'
   slug: lassen-sie-es-mich-so-sagen-dombrowski-deutet-die-zeichen-der-zeit
+  spine_color: '#999ea1'
   tags:
   - german
   - nonfiction

@@ -8,6 +8,7 @@ book:
   series: Flavia de Luce
   series_position: '6.5'
   slug: the-curious-case-of-the-copper-corpse
+  spine_color: '#c89e71'
   tags: []
   title: The Curious Case of the Copper Corpse
 plan:

@@ -13,6 +13,7 @@ book:
   pages: 452
   publication_year: '1990'
   slug: mit-dem-rucken-zur-wand
+  spine_color: '#757c98'
   tags:
   - german
   - historical-fiction

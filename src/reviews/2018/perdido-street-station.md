@@ -15,6 +15,7 @@ book:
   series: New Crobuzon
   series_position: '1'
   slug: perdido-street-station
+  spine_color: '#a87c23'
   tags:
   - fantasy
   title: Perdido Street Station

@@ -8,6 +8,7 @@ book:
   isbn13: '9781575142661'
   publication_year: '1900'
   slug: the-war-prayer
+  spine_color: '#cea58a'
   title: The War Prayer
 plan:
   date_added: '2015-04-17'

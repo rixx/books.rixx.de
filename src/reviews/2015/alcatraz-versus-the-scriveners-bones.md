@@ -15,6 +15,7 @@ book:
   series: Alcatraz
   series_position: '2'
   slug: alcatraz-versus-the-scriveners-bones
+  spine_color: '#b7bccf'
   tags:
   - ya
   title: Alcatraz Versus the Scrivener's Bones

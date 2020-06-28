@@ -13,6 +13,7 @@ book:
   pages: 138
   publication_year: '1981'
   slug: the-wave
+  spine_color: '#ec1a0b'
   tags:
   - german
   title: The Wave

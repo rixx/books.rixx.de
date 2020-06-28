@@ -11,6 +11,7 @@ book:
   series: The Dresden Files
   series_position: '15'
   slug: skin-game
+  spine_color: '#b66033'
   tags:
   - urban-fantasy
   title: Skin Game

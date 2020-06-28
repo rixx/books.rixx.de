@@ -11,6 +11,7 @@ book:
   pages: 378
   publication_year: '1992'
   slug: vaterland
+  spine_color: '#7f4252'
   tags:
   - german
   - scifi

@@ -13,6 +13,7 @@ book:
   pages: 292
   publication_year: '2017'
   slug: lost-boy-the-true-story-of-captain-hook
+  spine_color: '#b9c1ca'
   title: 'Lost Boy: The True Story of Captain Hook'
 plan:
   date_added: '2018-07-24'

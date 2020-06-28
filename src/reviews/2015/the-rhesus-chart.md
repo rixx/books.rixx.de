@@ -10,6 +10,7 @@ book:
   series: Laundry Files
   series_position: '5'
   slug: the-rhesus-chart
+  spine_color: '#964c4e'
   tags:
   - urban-fantasy
   title: The Rhesus Chart

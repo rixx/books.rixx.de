@@ -15,6 +15,7 @@ book:
   series: Night Angel
   series_position: '3'
   slug: beyond-the-shadows
+  spine_color: '#738480'
   tags:
   - fantasy
   title: Beyond the Shadows

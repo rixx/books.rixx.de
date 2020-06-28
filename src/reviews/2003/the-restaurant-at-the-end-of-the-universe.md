@@ -9,6 +9,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '2'
   slug: the-restaurant-at-the-end-of-the-universe
+  spine_color: '#a17342'
   tags:
   - german
   - scifi

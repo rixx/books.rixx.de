@@ -11,6 +11,7 @@ book:
   series: Chrestomanci
   series_position: '3'
   slug: witch-week
+  spine_color: '#846051'
   tags:
   - fantasy
   - german

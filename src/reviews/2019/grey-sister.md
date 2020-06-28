@@ -11,6 +11,7 @@ book:
   series: Book of the Ancestor
   series_position: '2'
   slug: grey-sister
+  spine_color: '#c5d5da'
   tags:
   - fantasy
   title: Grey Sister

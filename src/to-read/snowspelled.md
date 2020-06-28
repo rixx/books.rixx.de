@@ -9,6 +9,7 @@ book:
   series: The Harwood Spellbook
   series_position: '1'
   slug: snowspelled
+  spine_color: '#9297b2'
   title: Snowspelled
 plan:
   date_added: '2019-02-11'

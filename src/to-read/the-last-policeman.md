@@ -15,6 +15,7 @@ book:
   series: The Last Policeman
   series_position: '1'
   slug: the-last-policeman
+  spine_color: '#89574d'
   title: The Last Policeman
 plan:
   date_added: '2018-08-27'

@@ -13,6 +13,7 @@ book:
   pages: 199
   publication_year: '1968'
   slug: his-masters-voice
+  spine_color: '#dbd3bf'
   title: His Master's Voice
 plan:
   date_added: 2020-06-07

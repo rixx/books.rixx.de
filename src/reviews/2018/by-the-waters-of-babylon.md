@@ -9,6 +9,7 @@ book:
   pages: '32'
   publication_year: '1937'
   slug: by-the-waters-of-babylon
+  spine_color: '#3a2d29'
   title: By the Waters of Babylon
 plan:
   date_added: '2018-02-11'

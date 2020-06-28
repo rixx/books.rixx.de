@@ -11,6 +11,7 @@ book:
   series: Legion
   series_position: '1'
   slug: legion
+  spine_color: '#303246'
   tags:
   - fantasy
   title: Legion

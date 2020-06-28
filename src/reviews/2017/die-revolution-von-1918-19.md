@@ -8,6 +8,7 @@ book:
   isbn13: '9783406562549'
   publication_year: '2009'
   slug: die-revolution-von-1918-19
+  spine_color: '#ab141c'
   tags:
   - german
   - history

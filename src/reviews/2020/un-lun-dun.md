@@ -13,6 +13,7 @@ book:
   pages: 432
   publication_year: '2007'
   slug: un-lun-dun
+  spine_color: '#c97e44'
   tags:
   - fantasy
   title: Un Lun Dun

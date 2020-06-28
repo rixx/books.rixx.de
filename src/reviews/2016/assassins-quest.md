@@ -15,6 +15,7 @@ book:
   series: Farseer Trilogy
   series_position: '3'
   slug: assassins-quest
+  spine_color: '#eed134'
   tags:
   - fantasy
   title: Assassin's Quest

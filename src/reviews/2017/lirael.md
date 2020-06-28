@@ -15,6 +15,7 @@ book:
   series: Abhorsen
   series_position: '2'
   slug: lirael
+  spine_color: '#82b1c8'
   tags:
   - fantasy
   - ya

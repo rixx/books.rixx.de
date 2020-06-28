@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '13'
   slug: busmans-honeymoon
+  spine_color: '#815e5f'
   tags:
   - mystery
   title: Busman's Honeymoon

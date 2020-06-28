@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2017'
   slug: six-wakes
+  spine_color: '#4f546a'
   tags:
   - scifi
   title: Six Wakes

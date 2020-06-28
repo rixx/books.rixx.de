@@ -15,6 +15,7 @@ book:
   series: The Nevernight Chronicle
   series_position: '1'
   slug: nevernight
+  spine_color: '#99918e'
   tags:
   - fantasy
   title: Nevernight

@@ -13,6 +13,7 @@ book:
   pages: 276
   publication_year: '1958'
   slug: have-space-suit-will-travel
+  spine_color: '#aa0908'
   tags:
   - scifi
   - ya

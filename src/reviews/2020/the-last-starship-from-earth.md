@@ -9,6 +9,7 @@ book:
   pages: '182'
   publication_year: '1967'
   slug: the-last-starship-from-earth
+  spine_color: '#d9af64'
   tags:
   - scifi
   - space-monks

@@ -13,6 +13,7 @@ book:
   pages: 327
   publication_year: '2012'
   slug: consider-the-fork-a-history-of-how-we-cook-and-eat
+  spine_color: '#b5b2ab'
   title: 'Consider the Fork: A History of How We Cook and Eat'
 plan:
   date_added: '2018-09-30'

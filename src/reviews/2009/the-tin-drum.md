@@ -9,6 +9,7 @@ book:
   pages: '580'
   publication_year: '1959'
   slug: the-tin-drum
+  spine_color: '#8c826f'
   tags:
   - german
   title: The Tin Drum

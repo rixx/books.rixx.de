@@ -15,6 +15,7 @@ book:
   series: Ranger's Apprentice
   series_position: '2'
   slug: the-burning-bridge
+  spine_color: '#894f43'
   tags:
   - fantasy
   title: The Burning Bridge

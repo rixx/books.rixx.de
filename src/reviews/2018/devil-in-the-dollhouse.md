@@ -11,6 +11,7 @@ book:
   series: Sandman Slim
   series_position: '3.5'
   slug: devil-in-the-dollhouse
+  spine_color: '#e1c27a'
   tags:
   - urban-fantasy
   title: Devil in the Dollhouse

@@ -13,6 +13,7 @@ book:
   pages: 198
   publication_year: '2012'
   slug: two-cheers-for-anarchism-six-easy-pieces-on-autonomy-dignity-and-meaningful-work-and-play
+  spine_color: '#a29498'
   title: 'Two Cheers for Anarchism: Six Easy Pieces on Autonomy, Dignity and Meaningful
     Work and Play'
 plan:

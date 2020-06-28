@@ -11,6 +11,7 @@ book:
   series: Moties
   series_position: '1'
   slug: the-mote-in-gods-eye
+  spine_color: '#4bd1e0'
   title: The Mote in God's Eye
 plan:
   date_added: '2018-09-12'

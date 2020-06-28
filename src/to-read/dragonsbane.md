@@ -15,6 +15,7 @@ book:
   series: Winterlands
   series_position: '1'
   slug: dragonsbane
+  spine_color: '#bf1623'
   title: Dragonsbane
 plan:
   date_added: '2018-09-03'

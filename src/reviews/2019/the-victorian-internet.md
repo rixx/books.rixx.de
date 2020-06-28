@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1998'
   slug: the-victorian-internet
+  spine_color: '#94928c'
   tags:
   - history
   - nonfiction

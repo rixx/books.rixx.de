@@ -15,6 +15,7 @@ book:
   series: The Century Trilogy
   series_position: '1'
   slug: fall-of-giants
+  spine_color: '#a06c3f'
   title: Fall of Giants
 plan:
   date_added: '2016-05-19'

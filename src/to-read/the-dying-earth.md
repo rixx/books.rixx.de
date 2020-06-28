@@ -11,6 +11,7 @@ book:
   series: The Dying Earth
   series_position: '1'
   slug: the-dying-earth
+  spine_color: '#a8977e'
   title: The Dying Earth
 plan:
   date_added: '2018-09-12'

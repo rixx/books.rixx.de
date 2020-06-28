@@ -13,6 +13,7 @@ book:
   series: Twilight
   series_position: '1'
   slug: twilight
+  spine_color: '#8d484d'
   tags:
   - fantasy
   title: Twilight

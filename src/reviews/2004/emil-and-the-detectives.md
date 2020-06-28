@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '1928'
   slug: emil-and-the-detectives
+  spine_color: '#6895d6'
   tags:
   - german
   - kids

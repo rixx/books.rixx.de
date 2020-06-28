@@ -13,6 +13,7 @@ book:
   pages: 231
   publication_year: '1963'
   slug: the-reawakening
+  spine_color: '#3f4046'
   tags:
   - history
   title: The Reawakening

@@ -11,6 +11,7 @@ book:
   series: Immortals
   series_position: '1'
   slug: wild-magic
+  spine_color: '#86735c'
   title: Wild Magic
 plan:
   date_added: '2016-10-05'

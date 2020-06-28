@@ -13,6 +13,7 @@ book:
   pages: 342
   publication_year: '2006'
   slug: world-war-z-an-oral-history-of-the-zombie-war
+  spine_color: '#db8138'
   title: 'World War Z: An Oral History of the Zombie War'
 plan:
   date_added: '2018-03-19'

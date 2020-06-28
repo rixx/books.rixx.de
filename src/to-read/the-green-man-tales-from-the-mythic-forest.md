@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2002'
   slug: the-green-man-tales-from-the-mythic-forest
+  spine_color: '#e4e3a8'
   title: 'The Green Man: Tales from the Mythic Forest'
 plan:
   date_added: '2016-05-18'

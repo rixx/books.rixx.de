@@ -13,6 +13,7 @@ book:
   pages: 528
   publication_year: '2014'
   slug: influx
+  spine_color: '#e2bf74'
   tags:
   - scifi
   title: Influx

@@ -15,6 +15,7 @@ book:
   series: Akata Witch
   series_position: '1'
   slug: akata-witch
+  spine_color: '#c0b797'
   tags:
   - fantasy
   - ya

@@ -15,6 +15,7 @@ book:
   series: Earthseed
   series_position: '1'
   slug: parable-of-the-sower
+  spine_color: '#c1bca6'
   tags:
   - scifi
   title: Parable of the Sower

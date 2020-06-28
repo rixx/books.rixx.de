@@ -9,6 +9,7 @@ book:
   series: The D'Artagnan Romances
   series_position: '1'
   slug: the-three-musketeers
+  spine_color: '#d0c599'
   tags:
   - historical-fiction
   title: The Three Musketeers

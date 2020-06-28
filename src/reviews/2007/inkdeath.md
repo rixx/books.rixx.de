@@ -11,6 +11,7 @@ book:
   series: Inkworld
   series_position: '3'
   slug: inkdeath
+  spine_color: '#6e6042'
   tags:
   - fantasy
   - german

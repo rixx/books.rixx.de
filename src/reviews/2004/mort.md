@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '4'
   slug: mort
+  spine_color: '#d29149'
   title: Mort
 plan:
   date_added: '2015-04-08'

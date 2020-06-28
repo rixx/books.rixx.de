@@ -15,6 +15,7 @@ book:
   series: His Dark Materials
   series_position: '1'
   slug: the-golden-compass
+  spine_color: '#152348'
   tags:
   - fantasy
   - german

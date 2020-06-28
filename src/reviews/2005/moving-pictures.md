@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '10'
   slug: moving-pictures
+  spine_color: '#9a948d'
   title: Moving Pictures
 plan:
   date_added: '2015-04-08'

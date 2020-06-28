@@ -9,6 +9,7 @@ book:
   series: Planetfall
   series_position: '1'
   slug: planetfall
+  spine_color: '#b3353c'
   title: Planetfall
 plan:
   date_added: '2019-03-09'

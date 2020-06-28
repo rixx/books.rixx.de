@@ -13,6 +13,7 @@ book:
   pages: 396
   publication_year: '1979'
   slug: the-neverending-story
+  spine_color: '#ab8053'
   tags:
   - fantasy
   - german

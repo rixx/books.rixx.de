@@ -15,6 +15,7 @@ book:
   series: Mistborn
   series_position: '1'
   slug: the-final-empire
+  spine_color: '#442f54'
   tags:
   - fantasy
   title: The Final Empire

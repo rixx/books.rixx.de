@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '2019'
   slug: how-to-do-nothing-resisting-the-attention-economy
+  spine_color: '#a63b5c'
   tags:
   - nonfiction
   - psychology

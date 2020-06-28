@@ -9,6 +9,7 @@ book:
   series: Discworld
   series_position: '31'
   slug: monstrous-regiment
+  spine_color: '#c6bdbc'
   title: Monstrous Regiment
 plan:
   date_added: '2015-04-08'

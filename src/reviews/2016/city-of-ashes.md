@@ -15,6 +15,7 @@ book:
   series: The Mortal Instruments
   series_position: '2'
   slug: city-of-ashes
+  spine_color: '#c3d2cf'
   tags:
   - fantasy
   - ya

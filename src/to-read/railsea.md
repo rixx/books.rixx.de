@@ -13,6 +13,7 @@ book:
   pages: 424
   publication_year: '2012'
   slug: railsea
+  spine_color: '#242727'
   title: Railsea
 plan:
   date_added: '2020-05-01'

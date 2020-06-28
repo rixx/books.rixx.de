@@ -13,6 +13,7 @@ book:
   pages: 182
   publication_year: '1954'
   slug: lord-of-the-flies
+  spine_color: '#c97c52'
   title: Lord of the Flies
 plan:
   date_added: '2015-04-17'

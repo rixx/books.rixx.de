@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '23'
   slug: carpe-jugulum
+  spine_color: '#109b06'
   title: Carpe Jugulum
 plan:
   date_added: '2015-04-08'

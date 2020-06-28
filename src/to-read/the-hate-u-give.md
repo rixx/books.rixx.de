@@ -13,6 +13,7 @@ book:
   pages: 464
   publication_year: '2017'
   slug: the-hate-u-give
+  spine_color: '#40261d'
   title: The Hate U Give
 plan:
   date_added: '2017-11-15'

@@ -8,6 +8,7 @@ book:
   isbn13: '9788493388331'
   publication_year: '1951'
   slug: desiree
+  spine_color: '#c99579'
   tags:
   - german
   - historical-fiction

@@ -12,6 +12,7 @@ book:
   series: Asian Saga
   series_position: '1'
   slug: shogun
+  spine_color: '#e21314'
   title: Shōgun
 plan:
   date_added: '2018-08-27'

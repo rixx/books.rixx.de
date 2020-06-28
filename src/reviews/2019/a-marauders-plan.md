@@ -9,6 +9,7 @@ book:
   series: A Marauder's Plan
   series_position: '1'
   slug: a-marauders-plan
+  spine_color: '#d5d5d5'
   tags:
   - fanfic
   title: A Marauder's Plan

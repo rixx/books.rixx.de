@@ -15,6 +15,7 @@ book:
   series: Dark Reflections
   series_position: '1'
   slug: the-water-mirror
+  spine_color: '#8eae9f'
   tags:
   - fantasy
   - german

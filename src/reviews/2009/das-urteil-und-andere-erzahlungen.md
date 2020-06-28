@@ -13,6 +13,7 @@ book:
   pages: 188
   publication_year: '1912'
   slug: das-urteil-und-andere-erzahlungen
+  spine_color: '#f6f7ed'
   tags:
   - german
   title: Das Urteil und andere Erzählungen

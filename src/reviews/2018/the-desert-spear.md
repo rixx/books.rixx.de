@@ -15,6 +15,7 @@ book:
   series: Demon Cycle
   series_position: '2'
   slug: the-desert-spear
+  spine_color: '#7c7b65'
   tags:
   - fantasy
   title: The Desert Spear

@@ -15,6 +15,7 @@ book:
   series: Harry Potter
   series_position: '2'
   slug: harry-potter-and-the-chamber-of-secrets
+  spine_color: '#875662'
   tags:
   - fantasy
   - german

@@ -11,6 +11,7 @@ book:
   series: The Girl With All the Gifts
   series_position: '1'
   slug: the-girl-with-all-the-gifts
+  spine_color: '#f9b913'
   title: The Girl With All the Gifts
 plan:
   date_added: '2017-08-16'

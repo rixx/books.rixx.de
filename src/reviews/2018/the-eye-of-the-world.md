@@ -11,6 +11,7 @@ book:
   series: The Wheel of Time
   series_position: '1'
   slug: the-eye-of-the-world
+  spine_color: '#44557c'
   tags:
   - fantasy
   title: The Eye of the World

@@ -15,6 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '3'
   slug: oathbringer
+  spine_color: '#94866c'
   tags:
   - fantasy
   title: Oathbringer

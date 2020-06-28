@@ -13,6 +13,7 @@ book:
   pages: 370
   publication_year: '2010'
   slug: the-immortal-life-of-henrietta-lacks
+  spine_color: '#e76438'
   title: The Immortal Life of Henrietta Lacks
 plan:
   date_added: '2018-10-06'

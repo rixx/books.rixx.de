@@ -9,6 +9,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '7'
   slug: the-five-red-herrings
+  spine_color: '#9e4b49'
   tags:
   - mystery
   title: The Five Red Herrings

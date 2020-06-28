@@ -13,6 +13,7 @@ book:
   pages: 415
   publication_year: '2005'
   slug: accelerando
+  spine_color: '#b95a4c'
   title: Accelerando
 plan:
   date_added: '2018-10-16'

@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: 2
   slug: the-thirteen-problems
+  spine_color: '#866e62'
   tags:
   - mystery
   title: The Thirteen Problems

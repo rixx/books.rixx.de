@@ -15,6 +15,7 @@ book:
   series: The Mortal Instruments
   series_position: '3'
   slug: city-of-glass
+  spine_color: '#bda886'
   tags:
   - fantasy
   - ya

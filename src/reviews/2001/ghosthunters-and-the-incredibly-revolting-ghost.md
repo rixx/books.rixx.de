@@ -11,6 +11,7 @@ book:
   series: Ghosthunters
   series_position: '1'
   slug: ghosthunters-and-the-incredibly-revolting-ghost
+  spine_color: '#bca890'
   tags:
   - german
   - kids

@@ -12,6 +12,7 @@ book:
   series: The Poppy War
   series_position: '1'
   slug: the-poppy-war
+  spine_color: '#b29f9f'
   title: The Poppy War
 plan:
   date_added: '2018-08-27'

@@ -9,6 +9,7 @@ book:
   pages: '242'
   publication_year: '1883'
   slug: the-black-arrow
+  spine_color: '#dcb81f'
   tags:
   - german
   title: The Black Arrow

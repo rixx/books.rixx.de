@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '1981'
   slug: ronia-the-robbers-daughter
+  spine_color: '#aeab71'
   tags:
   - german
   - kids

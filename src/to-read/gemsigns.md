@@ -11,6 +11,7 @@ book:
   series: ®Evolution
   series_position: '1'
   slug: gemsigns
+  spine_color: '#6c1a1d'
   title: Gemsigns
 plan:
   date_added: '2019-03-09'

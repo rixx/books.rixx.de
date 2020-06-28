@@ -15,6 +15,7 @@ book:
   series: Temeraire
   series_position: '1'
   slug: his-majestys-dragon
+  spine_color: '#a3201b'
   title: His Majesty's Dragon
 plan:
   date_added: '2018-07-21'

@@ -15,6 +15,7 @@ book:
   series: The Expanse
   series_position: '6'
   slug: babylons-ashes
+  spine_color: '#698d8c'
   tags:
   - scifi
   title: Babylon's Ashes

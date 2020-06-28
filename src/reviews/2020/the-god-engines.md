@@ -9,6 +9,7 @@ book:
   pages: '136'
   publication_year: '2009'
   slug: the-god-engines
+  spine_color: '#cfb452'
   tags:
   - fantasy
   - scifi

@@ -15,6 +15,7 @@ book:
   series: Chrestomanci
   series_position: '4'
   slug: the-magicians-of-caprona
+  spine_color: '#735347'
   tags:
   - fantasy
   - german

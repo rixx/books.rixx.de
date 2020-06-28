@@ -13,6 +13,7 @@ book:
   pages: 334
   publication_year: '2010'
   slug: packing-for-mars-the-curious-science-of-life-in-the-void
+  spine_color: '#81554a'
   title: 'Packing for Mars: The Curious Science of Life in the Void'
 plan:
   date_added: '2016-05-19'

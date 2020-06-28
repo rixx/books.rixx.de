@@ -15,6 +15,7 @@ book:
   series: Harry Potter
   series_position: '8'
   slug: harry-potter-and-the-cursed-child-parts-one-and-two
+  spine_color: '#bf9954'
   tags:
   - stage-play
   title: 'Harry Potter and the Cursed Child: Parts One and Two'

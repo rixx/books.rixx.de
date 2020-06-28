@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '4'
   slug: freedom-and-not-peace
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: Freedom And Not Peace

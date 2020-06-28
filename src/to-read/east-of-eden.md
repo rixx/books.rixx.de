@@ -13,6 +13,7 @@ book:
   pages: 601
   publication_year: '1952'
   slug: east-of-eden
+  spine_color: '#dcddcf'
   title: East of Eden
 plan:
   date_added: '2018-04-03'

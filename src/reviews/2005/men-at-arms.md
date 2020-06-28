@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '15'
   slug: men-at-arms
+  spine_color: '#bac475'
   title: Men at Arms
 plan:
   date_added: '2015-04-08'

@@ -13,6 +13,7 @@ book:
   pages: 736
   publication_year: '2000'
   slug: house-of-leaves
+  spine_color: '#6e6861'
   title: House of Leaves
 plan:
   date_added: '2016-05-19'

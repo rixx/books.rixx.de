@@ -7,6 +7,7 @@ book:
   pages: '120'
   publication_year: '1952'
   slug: der-verdacht
+  spine_color: '#3d868f'
   tags:
   - german
   - mystery

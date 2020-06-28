@@ -13,6 +13,7 @@ book:
   pages: 227
   publication_year: '1953'
   slug: fahrenheit-451
+  spine_color: '#c23f29'
   tags:
   - scifi
   title: Fahrenheit 451

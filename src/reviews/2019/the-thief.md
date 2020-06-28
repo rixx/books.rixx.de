@@ -11,6 +11,7 @@ book:
   series: The Queen's Thief
   series_position: '1'
   slug: the-thief
+  spine_color: '#76655e'
   tags:
   - fantasy
   title: The Thief

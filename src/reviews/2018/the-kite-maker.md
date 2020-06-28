@@ -9,6 +9,7 @@ book:
   pages: '28'
   publication_year: '2018'
   slug: the-kite-maker
+  spine_color: '#c6ba6d'
   tags:
   - scifi
   title: The Kite Maker

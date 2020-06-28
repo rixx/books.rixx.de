@@ -15,6 +15,7 @@ book:
   series: Mercy Thompson
   series_position: '1'
   slug: moon-called
+  spine_color: '#252c33'
   tags:
   - urban-fantasy
   title: Moon Called

@@ -11,6 +11,7 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '4'
   slug: der-unsichtbare-freund
+  spine_color: '#956e57'
   tags:
   - fantasy
   - german

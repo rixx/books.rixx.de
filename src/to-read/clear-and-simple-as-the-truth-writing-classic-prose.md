@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1994'
   slug: clear-and-simple-as-the-truth-writing-classic-prose
+  spine_color: '#c4664e'
   title: 'Clear and Simple as the Truth: Writing Classic Prose'
 plan:
   date_added: '2019-11-15'

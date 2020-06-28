@@ -13,6 +13,7 @@ book:
   pages: 312
   publication_year: '1965'
   slug: the-cyberiad
+  spine_color: '#c93b20'
   title: The Cyberiad
 plan:
   date_added: '2018-10-16'

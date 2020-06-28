@@ -11,6 +11,7 @@ book:
   pages: 208
   publication_year: '1983'
   slug: the-witches
+  spine_color: '#e67659'
   tags:
   - german
   - kids

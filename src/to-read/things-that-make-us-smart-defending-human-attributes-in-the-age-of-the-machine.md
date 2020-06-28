@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '1993'
   slug: things-that-make-us-smart-defending-human-attributes-in-the-age-of-the-machine
+  spine_color: '#2d2036'
   title: 'Things That Make Us Smart: Defending Human Attributes In The Age Of The
     Machine'
 plan:

@@ -13,6 +13,7 @@ book:
   pages: 96
   publication_year: '1963'
   slug: emil-in-the-soup-tureen
+  spine_color: '#f2de77'
   tags:
   - german
   - kids

@@ -15,6 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '4'
   slug: tehanu
+  spine_color: '#bcc99d'
   tags:
   - fantasy
   title: Tehanu

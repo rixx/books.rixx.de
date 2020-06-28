@@ -7,6 +7,7 @@ book:
   pages: '46'
   publication_year: '2018'
   slug: the-ghoul-goes-west
+  spine_color: '#eeecf3'
   title: The Ghoul Goes West
 plan:
   date_added: '2019-02-05'

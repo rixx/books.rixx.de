@@ -11,6 +11,7 @@ book:
   series: Young Wizards
   series_position: '1'
   slug: so-you-want-to-be-a-wizard
+  spine_color: '#c3976d'
   tags:
   - fantasy
   - urban-fantasy

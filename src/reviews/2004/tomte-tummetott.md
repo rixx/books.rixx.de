@@ -9,6 +9,7 @@ book:
   pages: '32'
   publication_year: '1961'
   slug: tomte-tummetott
+  spine_color: '#d1f3d6'
   tags:
   - german
   - kids

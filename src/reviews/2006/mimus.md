@@ -8,6 +8,7 @@ book:
   pages: '381'
   publication_year: '2003'
   slug: mimus
+  spine_color: '#c7af7f'
   tags:
   - german
   - ya

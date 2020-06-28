@@ -9,6 +9,7 @@ book:
   pages: '416'
   publication_year: '2018'
   slug: theory-of-bastards
+  spine_color: '#8483a1'
   title: Theory of Bastards
 plan:
   date_added: '2019-02-04'

@@ -11,6 +11,7 @@ book:
   series: Vorkosigan Saga
   series_position: '10'
   slug: memory
+  spine_color: '#b55339'
   tags:
   - scifi
   title: Memory

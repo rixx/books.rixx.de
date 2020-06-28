@@ -15,6 +15,7 @@ book:
   series: The Sparrow
   series_position: '1'
   slug: the-sparrow
+  spine_color: '#111e9b'
   tags:
   - scifi
   - space-monks

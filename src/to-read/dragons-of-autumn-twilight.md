@@ -12,6 +12,7 @@ book:
   series: 'Dragonlance: Chronicles'
   series_position: '1'
   slug: dragons-of-autumn-twilight
+  spine_color: '#dac8b8'
   title: Dragons of Autumn Twilight
 plan:
   date_added: '2020-05-07'

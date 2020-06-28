@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '5'
   slug: excession
+  spine_color: '#c19b41'
   tags:
   - scifi
   title: Excession

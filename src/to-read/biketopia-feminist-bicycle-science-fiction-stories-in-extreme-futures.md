@@ -13,6 +13,7 @@ book:
   pages: 128
   publication_year: '2017'
   slug: biketopia-feminist-bicycle-science-fiction-stories-in-extreme-futures
+  spine_color: '#f4c84c'
   title: 'Biketopia: Feminist Bicycle Science Fiction Stories in Extreme Futures'
 plan:
   date_added: '2018-01-27'

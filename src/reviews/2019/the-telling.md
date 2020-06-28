@@ -15,6 +15,7 @@ book:
   series: Hainish Cycle
   series_position: '8'
   slug: the-telling
+  spine_color: '#d0b783'
   tags:
   - scifi
   title: The Telling

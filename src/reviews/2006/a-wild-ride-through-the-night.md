@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '2001'
   slug: a-wild-ride-through-the-night
+  spine_color: '#ecc906'
   tags:
   - fantasy
   - german

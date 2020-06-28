@@ -11,6 +11,7 @@ book:
   series: Young Wizards
   series_position: '4'
   slug: a-wizard-abroad
+  spine_color: '#aacf9d'
   tags:
   - fantasy
   - urban-fantasy

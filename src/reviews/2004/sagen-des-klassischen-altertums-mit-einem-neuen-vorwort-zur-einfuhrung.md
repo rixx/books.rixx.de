@@ -8,6 +8,7 @@ book:
   pages: '1332'
   publication_year: '1837'
   slug: sagen-des-klassischen-altertums-mit-einem-neuen-vorwort-zur-einfuhrung
+  spine_color: '#ca7721'
   tags:
   - german
   - myths-legends

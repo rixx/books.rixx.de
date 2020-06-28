@@ -9,6 +9,7 @@ book:
   series: Legion
   series_position: '2'
   slug: skin-deep
+  spine_color: '#52392e'
   tags:
   - fantasy
   title: Skin Deep

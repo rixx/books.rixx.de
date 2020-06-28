@@ -15,6 +15,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '4'
   slug: a-feast-for-crows
+  spine_color: '#bd412e'
   tags:
   - fantasy
   title: A Feast for Crows

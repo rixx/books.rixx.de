@@ -9,6 +9,7 @@ book:
   pages: '516'
   publication_year: '2013'
   slug: doctor-who-eleven-doctors-eleven-stories
+  spine_color: '#282354'
   tags:
   - fanfic
   title: 'Doctor Who: Eleven Doctors, Eleven Stories'

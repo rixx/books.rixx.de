@@ -11,6 +11,7 @@ book:
   series: Paradox
   series_position: '1'
   slug: fortunes-pawn
+  spine_color: '#182841'
   title: Fortune's Pawn
 plan:
   date_added: '2017-07-17'

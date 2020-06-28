@@ -10,6 +10,7 @@ book:
   publication_year: '1946'
   series_position: '1'
   slug: kalle-blomquist
+  spine_color: '#f2c310'
   tags:
   - german
   - kids

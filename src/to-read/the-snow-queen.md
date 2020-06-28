@@ -15,6 +15,7 @@ book:
   series: The Snow Queen Cycle
   series_position: '1'
   slug: the-snow-queen
+  spine_color: '#666885'
   title: The Snow Queen
 plan:
   date_added: '2018-08-28'

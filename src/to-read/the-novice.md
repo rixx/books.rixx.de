@@ -9,6 +9,7 @@ book:
   series: Summoner
   series_position: '1'
   slug: the-novice
+  spine_color: '#618894'
   title: The Novice
 plan:
   date_added: '2018-09-21'

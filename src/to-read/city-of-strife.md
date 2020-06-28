@@ -11,6 +11,7 @@ book:
   series: City of Spires
   series_position: '1'
   slug: city-of-strife
+  spine_color: '#a4927b'
   title: City of Strife
 plan:
   date_added: '2018-09-28'

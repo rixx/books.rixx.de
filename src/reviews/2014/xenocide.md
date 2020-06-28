@@ -15,6 +15,7 @@ book:
   series: Ender’s Saga
   series_position: '3'
   slug: xenocide
+  spine_color: '#775041'
   tags:
   - scifi
   title: Xenocide

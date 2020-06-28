@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '13'
   slug: small-gods
+  spine_color: '#7c7155'
   title: Small Gods
 plan:
   date_added: '2015-04-08'

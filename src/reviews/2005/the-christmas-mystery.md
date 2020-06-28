@@ -8,6 +8,7 @@ book:
   isbn13: '9781842552827'
   publication_year: '1992'
   slug: the-christmas-mystery
+  spine_color: '#c44141'
   tags:
   - german
   title: The Christmas Mystery

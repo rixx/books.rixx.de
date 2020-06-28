@@ -15,6 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '3'
   slug: the-wide-window
+  spine_color: '#eed999'
   tags:
   - ya
   title: The Wide Window

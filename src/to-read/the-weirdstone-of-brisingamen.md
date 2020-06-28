@@ -15,6 +15,7 @@ book:
   series: Tales of Alderley
   series_position: '1'
   slug: the-weirdstone-of-brisingamen
+  spine_color: '#3b528b'
   title: The Weirdstone of Brisingamen
 plan:
   date_added: '2018-01-29'

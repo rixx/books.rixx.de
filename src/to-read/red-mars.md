@@ -11,6 +11,7 @@ book:
   series: Mars Trilogy
   series_position: '1'
   slug: red-mars
+  spine_color: '#8a412e'
   title: Red Mars
 plan:
   date_added: '2018-03-13'

@@ -9,6 +9,7 @@ book:
   series: Golden Age of the Solar Clipper
   series_position: '1'
   slug: quarter-share
+  spine_color: '#ad946c'
   title: Quarter Share
 plan:
   date_added: '2018-09-30'

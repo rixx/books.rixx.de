@@ -15,6 +15,7 @@ book:
   series: Unwind
   series_position: '1'
   slug: unwind
+  spine_color: '#4f5e7d'
   title: Unwind
 plan:
   date_added: '2018-08-27'

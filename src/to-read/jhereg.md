@@ -15,6 +15,7 @@ book:
   series: Vlad Taltos
   series_position: '1'
   slug: jhereg
+  spine_color: '#454a5f'
   title: Jhereg
 plan:
   date_added: '2018-09-15'

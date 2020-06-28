@@ -13,6 +13,7 @@ book:
   pages: 149
   publication_year: '1774'
   slug: the-sorrows-of-young-werther
+  spine_color: '#a56d48'
   tags:
   - german
   title: The Sorrows of Young Werther

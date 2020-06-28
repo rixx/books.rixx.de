@@ -15,6 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '1'
   slug: artemis-fowl
+  spine_color: '#d38326'
   tags:
   - fantasy
   - german

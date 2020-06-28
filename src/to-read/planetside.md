@@ -11,6 +11,7 @@ book:
   series: Planetside
   series_position: '1'
   slug: planetside
+  spine_color: '#666e7e'
   title: Planetside
 plan:
   date_added: '2018-08-07'

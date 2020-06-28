@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: '2'
   slug: the-body-in-the-library
+  spine_color: '#f898d1'
   tags:
   - mystery
   title: The Body in the Library

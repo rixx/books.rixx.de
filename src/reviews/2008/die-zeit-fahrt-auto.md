@@ -6,6 +6,7 @@ book:
   goodreads: '7745958'
   publication_year: null
   slug: die-zeit-fahrt-auto
+  spine_color: '#3e3f44'
   tags:
   - german
   - poetry

@@ -9,6 +9,7 @@ book:
   series: The Dark Profit Saga
   series_position: '1'
   slug: orconomics
+  spine_color: '#e4ba77'
   title: Orconomics
 plan:
   date_added: '2018-10-21'

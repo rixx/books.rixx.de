@@ -13,6 +13,7 @@ book:
   pages: 137
   publication_year: '1966'
   slug: the-little-ghost
+  spine_color: '#b19c62'
   tags:
   - german
   - kids

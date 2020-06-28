@@ -13,6 +13,7 @@ book:
   series: The Expanse
   series_position: '7'
   slug: persepolis-rising
+  spine_color: '#ab7c47'
   tags:
   - scifi
   title: Persepolis Rising

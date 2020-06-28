@@ -15,6 +15,7 @@ book:
   series: Wayward Children
   series_position: '5'
   slug: come-tumbling-down
+  spine_color: '#506590'
   tags:
   - fantasy
   title: Come Tumbling Down

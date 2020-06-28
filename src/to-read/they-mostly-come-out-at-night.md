@@ -9,6 +9,7 @@ book:
   series: Yarnsworld
   series_position: '1'
   slug: they-mostly-come-out-at-night
+  spine_color: '#c8c293'
   title: They Mostly Come Out at Night
 plan:
   date_added: '2018-09-21'

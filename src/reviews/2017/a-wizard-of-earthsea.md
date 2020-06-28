@@ -15,6 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '1'
   slug: a-wizard-of-earthsea
+  spine_color: '#eceabc'
   tags:
   - fantasy
   title: A Wizard of Earthsea

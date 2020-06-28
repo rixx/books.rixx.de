@@ -11,6 +11,7 @@ book:
   pages: 160
   publication_year: '1779'
   slug: nathan-der-weise
+  spine_color: '#f1e019'
   tags:
   - german
   - stage-play

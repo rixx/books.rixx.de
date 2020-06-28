@@ -9,6 +9,7 @@ book:
   pages: '128'
   publication_year: '1999'
   slug: the-sandman-the-dream-hunters
+  spine_color: '#a2694b'
   tags:
   - fantasy
   title: 'The Sandman: The Dream Hunters'

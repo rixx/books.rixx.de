@@ -11,6 +11,7 @@ book:
   series: Miss Marple
   series_position: '13'
   slug: sleeping-murder
+  spine_color: '#d5ddba'
   tags:
   - mystery
   title: Sleeping Murder

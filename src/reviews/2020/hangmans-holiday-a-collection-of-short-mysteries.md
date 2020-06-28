@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '9'
   slug: hangmans-holiday-a-collection-of-short-mysteries
+  spine_color: '#41adb2'
   tags:
   - german
   - mystery

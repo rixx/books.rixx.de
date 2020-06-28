@@ -15,6 +15,7 @@ book:
   series: Thessaly
   series_position: '1'
   slug: the-just-city
+  spine_color: '#baa286'
   tags:
   - fanfic
   - fantasy

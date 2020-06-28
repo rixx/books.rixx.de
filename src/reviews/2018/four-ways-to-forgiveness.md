@@ -9,6 +9,7 @@ book:
   pages: '304'
   publication_year: '1994'
   slug: four-ways-to-forgiveness
+  spine_color: '#7a9272'
   tags:
   - scifi
   title: Four Ways to Forgiveness

@@ -6,6 +6,7 @@ book:
   goodreads: '32186940'
   publication_year: null
   slug: das-dritte-reich-geschichte-einer-diktatur
+  spine_color: '#804937'
   tags:
   - german
   - history

@@ -10,6 +10,7 @@ book:
   pages: 464
   publication_year: '2016'
   slug: the-paper-menagerie-and-other-stories
+  spine_color: '#784332'
   title: The Paper Menagerie and Other Stories
 plan:
   date_added: '2018-03-13'

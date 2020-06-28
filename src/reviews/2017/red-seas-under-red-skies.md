@@ -15,6 +15,7 @@ book:
   series: Gentleman Bastard
   series_position: '2'
   slug: red-seas-under-red-skies
+  spine_color: '#c86c20'
   tags:
   - fantasy
   title: Red Seas Under Red Skies

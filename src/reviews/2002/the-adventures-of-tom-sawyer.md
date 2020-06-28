@@ -13,6 +13,7 @@ book:
   pages: 244
   publication_year: '1875'
   slug: the-adventures-of-tom-sawyer
+  spine_color: '#e0d1b4'
   tags:
   - kids
   title: The Adventures of Tom Sawyer

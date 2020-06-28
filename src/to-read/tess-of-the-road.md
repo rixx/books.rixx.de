@@ -11,6 +11,7 @@ book:
   series: Tess of the Road
   series_position: '1'
   slug: tess-of-the-road
+  spine_color: '#5a6978'
   title: Tess of the Road
 plan:
   date_added: '2019-01-14'

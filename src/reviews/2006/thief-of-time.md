@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '26'
   slug: thief-of-time
+  spine_color: '#a7614a'
   title: Thief of Time
 plan:
   date_added: '2015-04-08'

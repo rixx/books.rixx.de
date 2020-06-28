@@ -9,6 +9,7 @@ book:
   series: Hainish Cycle
   series_position: '4'
   slug: the-left-hand-of-darkness
+  spine_color: '#3792b5'
   tags:
   - scifi
   - space-monks

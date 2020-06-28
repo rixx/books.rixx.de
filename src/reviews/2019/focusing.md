@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '1978'
   slug: focusing
+  spine_color: '#c08645'
   tags:
   - nonfiction
   - personal-development

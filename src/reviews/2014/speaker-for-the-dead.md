@@ -11,6 +11,7 @@ book:
   series: Ender’s Saga
   series_position: '2'
   slug: speaker-for-the-dead
+  spine_color: '#776b9f'
   tags:
   - scifi
   - space-monks

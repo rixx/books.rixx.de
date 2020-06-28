@@ -11,6 +11,7 @@ book:
   series: Winnie-the-Pooh
   series_position: '1'
   slug: winnie-the-pooh
+  spine_color: '#d44a19'
   tags:
   - kids
   title: Winnie ille Pu

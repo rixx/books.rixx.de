@@ -13,6 +13,7 @@ book:
   pages: 168
   publication_year: '2008'
   slug: welcome-to-the-jungle
+  spine_color: '#7ca993'
   tags:
   - urban-fantasy
   title: Welcome to the Jungle

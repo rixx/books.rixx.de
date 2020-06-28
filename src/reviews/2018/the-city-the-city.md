@@ -13,6 +13,7 @@ book:
   pages: 312
   publication_year: '2009'
   slug: the-city-the-city
+  spine_color: '#729acd'
   tags:
   - fantasy
   title: The City & the City

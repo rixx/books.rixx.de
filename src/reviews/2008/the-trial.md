@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '1925'
   slug: the-trial
+  spine_color: '#817978'
   tags:
   - german
   title: The Trial

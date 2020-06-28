@@ -15,6 +15,7 @@ book:
   series: InterWorld
   series_position: '1'
   slug: interworld
+  spine_color: '#a27a64'
   tags:
   - fantasy
   title: InterWorld

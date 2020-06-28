@@ -9,6 +9,7 @@ book:
   pages: '251'
   publication_year: '1976'
   slug: where-late-the-sweet-birds-sang
+  spine_color: '#8b4f5d'
   title: Where Late the Sweet Birds Sang
 plan:
   date_added: '2018-09-03'

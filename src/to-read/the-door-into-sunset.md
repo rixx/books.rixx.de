@@ -10,6 +10,7 @@ book:
   series: Tale of the Five
   series_position: '3'
   slug: the-door-into-sunset
+  spine_color: '#ad6b3f'
   title: The Door into Sunset
 plan:
   date_added: '2020-04-30'

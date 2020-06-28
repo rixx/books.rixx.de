@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '2018'
   slug: x-y-z-the-real-story-of-how-enigma-was-broken
+  spine_color: '#996169'
   title: 'X, Y & Z: The Real Story of How Enigma Was Broken'
 plan:
   date_added: '2019-05-03'

@@ -9,6 +9,7 @@ book:
   pages: '352'
   publication_year: '2014'
   slug: atomic-accidents-a-history-of-nuclear-meltdowns-and-disasters-from-the-ozark-mountains-to-fukushima
+  spine_color: '#b4b145'
   title: 'Atomic Accidents: A History of Nuclear Meltdowns and Disasters: From the
     Ozark Mountains to Fukushima'
 plan:

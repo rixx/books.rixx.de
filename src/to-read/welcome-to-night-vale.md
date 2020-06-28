@@ -11,6 +11,7 @@ book:
   series: Welcome to Night Vale
   series_position: '1'
   slug: welcome-to-night-vale
+  spine_color: '#8e3973'
   title: Welcome to Night Vale
 plan:
   date_added: '2016-11-13'

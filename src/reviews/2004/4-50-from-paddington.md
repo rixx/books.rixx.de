@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: '7'
   slug: 4-50-from-paddington
+  spine_color: '#f9ef0d'
   tags:
   - mystery
   title: 4:50 from Paddington

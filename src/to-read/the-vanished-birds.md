@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2020'
   slug: the-vanished-birds
+  spine_color: '#b1814d'
   title: The Vanished Birds
 plan:
   date_added: '2020-01-03'

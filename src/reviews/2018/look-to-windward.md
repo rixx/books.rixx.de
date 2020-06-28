@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '7'
   slug: look-to-windward
+  spine_color: '#33444a'
   tags:
   - scifi
   title: Look to Windward

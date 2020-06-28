@@ -11,6 +11,7 @@ book:
   series: Rivers of London
   series_position: '4'
   slug: broken-homes
+  spine_color: '#efdb52'
   tags:
   - urban-fantasy
   title: Broken Homes

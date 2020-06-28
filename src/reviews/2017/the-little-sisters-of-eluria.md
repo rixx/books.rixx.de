@@ -13,6 +13,7 @@ book:
   series: The Dark Tower
   series_position: '0.5'
   slug: the-little-sisters-of-eluria
+  spine_color: '#837434'
   tags:
   - fantasy
   title: The Little Sisters of Eluria

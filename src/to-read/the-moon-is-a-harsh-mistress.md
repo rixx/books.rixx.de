@@ -9,6 +9,7 @@ book:
   pages: '288'
   publication_year: '1966'
   slug: the-moon-is-a-harsh-mistress
+  spine_color: '#b3422c'
   title: The Moon is a Harsh Mistress
 plan:
   date_added: '2018-03-13'

@@ -13,6 +13,7 @@ book:
   pages: 186
   publication_year: '1953'
   slug: more-than-human
+  spine_color: '#a0472d'
   title: More Than Human
 plan:
   date_added: '2018-09-12'

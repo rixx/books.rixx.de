@@ -11,6 +11,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '8'
   slug: the-hostile-hospital
+  spine_color: '#388ce3'
   tags:
   - ya
   title: The Hostile Hospital

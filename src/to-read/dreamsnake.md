@@ -13,6 +13,7 @@ book:
   pages: 312
   publication_year: '1978'
   slug: dreamsnake
+  spine_color: '#b86a2b'
   title: Dreamsnake
 plan:
   date_added: '2018-09-03'

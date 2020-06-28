@@ -10,6 +10,7 @@ book:
   series: Subjective Cosmology
   series_position: '3'
   slug: distress
+  spine_color: '#a0694e'
   tags:
   - scifi
   title: Distress

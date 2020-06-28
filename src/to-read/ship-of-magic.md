@@ -15,6 +15,7 @@ book:
   series: Liveship Traders
   series_position: '1'
   slug: ship-of-magic
+  spine_color: '#ad9f88'
   title: Ship of Magic
 plan:
   date_added: '2017-02-01'

@@ -11,6 +11,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '12'
   slug: gaudy-night
+  spine_color: '#372a3e'
   tags:
   - mystery
   title: Gaudy Night

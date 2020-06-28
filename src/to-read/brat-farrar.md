@@ -8,6 +8,7 @@ book:
   isbn13: '9780140046984'
   publication_year: '1949'
   slug: brat-farrar
+  spine_color: '#77624a'
   title: Brat Farrar
 plan:
   date_added: '2018-09-03'

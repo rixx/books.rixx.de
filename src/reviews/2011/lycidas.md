@@ -11,6 +11,7 @@ book:
   series: Uralte Metropole
   series_position: '1'
   slug: lycidas
+  spine_color: '#18345e'
   tags:
   - fantasy
   - german

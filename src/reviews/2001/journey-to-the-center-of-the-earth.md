@@ -11,6 +11,7 @@ book:
   series: Extraordinary Voyages
   series_position: '3'
   slug: journey-to-the-center-of-the-earth
+  spine_color: '#9f8eb5'
   tags:
   - german
   title: Journey to the Center of the Earth

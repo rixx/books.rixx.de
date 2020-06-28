@@ -11,6 +11,7 @@ book:
   series: Terra Ignota
   series_position: '3'
   slug: the-will-to-battle
+  spine_color: '#6d91c0'
   tags:
   - scifi
   - space-monks

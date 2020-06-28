@@ -7,6 +7,7 @@ book:
   pages: '15'
   publication_year: '2018'
   slug: we-who-will-destroy-the-future
+  spine_color: '#e0ba69'
   tags:
   - scifi
   title: We Who Will Destroy the Future

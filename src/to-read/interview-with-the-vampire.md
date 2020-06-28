@@ -15,6 +15,7 @@ book:
   series: The Vampire Chronicles
   series_position: '1'
   slug: interview-with-the-vampire
+  spine_color: '#715a2c'
   title: Interview with the Vampire
 plan:
   date_added: '2018-10-12'

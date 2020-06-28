@@ -11,6 +11,7 @@ book:
   series: Patternmaster
   series_position: '1'
   slug: wild-seed
+  spine_color: '#877e55'
   tags:
   - scifi
   title: Wild Seed

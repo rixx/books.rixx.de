@@ -15,6 +15,7 @@ book:
   series: Patternmaster
   series_position: '4'
   slug: patternmaster
+  spine_color: '#a83a27'
   tags:
   - fantasy
   title: Patternmaster

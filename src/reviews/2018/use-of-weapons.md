@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '3'
   slug: use-of-weapons
+  spine_color: '#84748b'
   tags:
   - scifi
   title: Use of Weapons

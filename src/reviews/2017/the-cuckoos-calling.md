@@ -11,9 +11,10 @@ book:
   series: Cormoran Strike
   series_position: '1'
   slug: the-cuckoos-calling
-  title: The Cuckoo's Calling
+  spine_color: '#927258'
   tags:
   - mystery
+  title: The Cuckoo's Calling
 plan:
   date_added: '2016-05-08'
 review:

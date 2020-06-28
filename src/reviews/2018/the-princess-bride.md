@@ -13,6 +13,7 @@ book:
   pages: 456
   publication_year: '1973'
   slug: the-princess-bride
+  spine_color: '#66694f'
   tags:
   - fantasy
   title: The Princess Bride

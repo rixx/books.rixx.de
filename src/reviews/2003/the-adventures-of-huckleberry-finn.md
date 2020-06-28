@@ -13,6 +13,7 @@ book:
   pages: 327
   publication_year: '1884'
   slug: the-adventures-of-huckleberry-finn
+  spine_color: '#a68768'
   tags:
   - kids
   title: The Adventures of Huckleberry Finn

@@ -15,6 +15,7 @@ book:
   series: Thursday Next
   series_position: '5'
   slug: first-among-sequels
+  spine_color: '#5a4032'
   tags:
   - fantasy
   - german

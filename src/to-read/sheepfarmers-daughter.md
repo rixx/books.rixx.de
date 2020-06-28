@@ -11,6 +11,7 @@ book:
   series: The Deed of Paksenarrion
   series_position: '1'
   slug: sheepfarmers-daughter
+  spine_color: '#a78356'
   title: Sheepfarmer's Daughter
 plan:
   date_added: '2018-09-03'

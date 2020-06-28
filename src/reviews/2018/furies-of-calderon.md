@@ -15,6 +15,7 @@ book:
   series: Codex Alera
   series_position: '1'
   slug: furies-of-calderon
+  spine_color: '#212f4c'
   tags:
   - fantasy
   title: Furies of Calderon

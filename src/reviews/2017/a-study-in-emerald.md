@@ -6,6 +6,7 @@ book:
   goodreads: '6599565'
   publication_year: '2003'
   slug: a-study-in-emerald
+  spine_color: '#e13f0d'
   tags:
   - mystery
   - fanfic

@@ -13,6 +13,7 @@ book:
   pages: 123
   publication_year: '1961'
   slug: on-having-no-head-zen-and-the-rediscovery-of-the-obvious
+  spine_color: '#f9e17c'
   tags:
   - nonfiction
   - philosophy

@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '6'
   slug: blood-rites
+  spine_color: '#494637'
   tags:
   - urban-fantasy
   title: Blood Rites

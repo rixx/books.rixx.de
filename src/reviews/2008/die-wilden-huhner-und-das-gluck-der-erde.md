@@ -15,6 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '4'
   slug: die-wilden-huhner-und-das-gluck-der-erde
+  spine_color: '#9aa082'
   tags:
   - german
   - kids

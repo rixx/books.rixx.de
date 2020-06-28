@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '24'
   slug: the-fifth-elephant
+  spine_color: '#908864'
   title: The Fifth Elephant
 plan:
   date_added: '2015-04-08'

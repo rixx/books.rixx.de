@@ -7,6 +7,7 @@ book:
   pages: '31'
   publication_year: '1984'
   slug: bloodchild
+  spine_color: '#0bb89f'
   tags:
   - scifi
   title: Bloodchild

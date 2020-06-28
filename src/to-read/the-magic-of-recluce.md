@@ -15,6 +15,7 @@ book:
   series: The Saga of Recluce
   series_position: '1'
   slug: the-magic-of-recluce
+  spine_color: '#452e27'
   title: The Magic of Recluce
 plan:
   date_added: '2018-09-03'

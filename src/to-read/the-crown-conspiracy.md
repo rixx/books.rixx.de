@@ -15,6 +15,7 @@ book:
   series: The Riyria Revelations
   series_position: '1'
   slug: the-crown-conspiracy
+  spine_color: '#9e692b'
   title: The Crown Conspiracy
 plan:
   date_added: '2018-07-04'

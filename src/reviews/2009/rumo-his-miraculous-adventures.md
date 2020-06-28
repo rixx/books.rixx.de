@@ -15,6 +15,7 @@ book:
   series: Zamonien
   series_position: '3'
   slug: rumo-his-miraculous-adventures
+  spine_color: '#d0c046'
   tags:
   - fantasy
   - german

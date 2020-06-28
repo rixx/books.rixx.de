@@ -15,6 +15,7 @@ book:
   series: The Last Dragonslayer
   series_position: '1'
   slug: the-last-dragonslayer
+  spine_color: '#d8d45f'
   tags:
   - fantasy
   title: The Last Dragonslayer

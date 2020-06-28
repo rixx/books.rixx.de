@@ -11,6 +11,7 @@ book:
   series: Magic Ex Libris
   series_position: '1'
   slug: libriomancer
+  spine_color: '#beac6b'
   title: Libriomancer
 plan:
   date_added: '2016-06-08'

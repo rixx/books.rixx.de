@@ -13,6 +13,7 @@ book:
   series: The Book of the New Sun
   series_position: '1'
   slug: the-shadow-of-the-torturer
+  spine_color: '#c6bdb8'
   tags:
   - fantasy
   title: The Shadow of the Torturer

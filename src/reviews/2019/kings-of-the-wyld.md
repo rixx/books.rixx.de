@@ -15,6 +15,7 @@ book:
   series: The Band
   series_position: '1'
   slug: kings-of-the-wyld
+  spine_color: '#572e2c'
   tags:
   - fantasy
   title: Kings of the Wyld

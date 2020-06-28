@@ -9,6 +9,7 @@ book:
   series: The Founders Trilogy
   series_position: '1'
   slug: foundryside
+  spine_color: '#c87924'
   tags:
   - fantasy
   title: Foundryside

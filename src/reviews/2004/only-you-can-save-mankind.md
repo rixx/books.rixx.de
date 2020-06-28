@@ -11,6 +11,7 @@ book:
   series: Johnny Maxwell
   series_position: '1'
   slug: only-you-can-save-mankind
+  spine_color: '#cbb083'
   tags:
   - fantasy
   title: Only You Can Save Mankind

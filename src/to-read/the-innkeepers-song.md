@@ -9,6 +9,7 @@ book:
   pages: '346'
   publication_year: '1993'
   slug: the-innkeepers-song
+  spine_color: '#ddc8ca'
   title: The Innkeeper's Song
 plan:
   date_added: '2018-10-05'

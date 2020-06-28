@@ -9,6 +9,7 @@ book:
   pages: '40'
   publication_year: '2011'
   slug: the-butcher-of-anderson-station-the-expanse-1-5
+  spine_color: '#b85938'
   title: 'The Butcher of Anderson Station (The Expanse, #1.5)'
 plan:
   date_added: 2020-06-21

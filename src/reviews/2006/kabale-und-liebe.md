@@ -7,6 +7,7 @@ book:
   pages: '143'
   publication_year: '1784'
   slug: kabale-und-liebe
+  spine_color: '#fbd407'
   tags:
   - german
   - stage-play

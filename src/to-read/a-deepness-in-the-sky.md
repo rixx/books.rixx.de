@@ -15,6 +15,7 @@ book:
   series: Zones of Thought
   series_position: '2'
   slug: a-deepness-in-the-sky
+  spine_color: '#9a242b'
   title: A Deepness in the Sky
 plan:
   date_added: '2019-03-03'

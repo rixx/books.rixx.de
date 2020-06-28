@@ -15,6 +15,7 @@ book:
   series: Patternmaster
   series_position: '2'
   slug: mind-of-my-mind
+  spine_color: '#b79776'
   tags:
   - scifi
   title: Mind of My Mind

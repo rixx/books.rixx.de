@@ -9,6 +9,7 @@ book:
   pages: '22'
   publication_year: '2016'
   slug: the-city-born-great
+  spine_color: '#3a8684'
   tags:
   - urban-fantasy
   title: The City Born Great

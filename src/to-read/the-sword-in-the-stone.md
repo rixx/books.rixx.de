@@ -15,6 +15,7 @@ book:
   series: The Once and Future King
   series_position: '1'
   slug: the-sword-in-the-stone
+  spine_color: '#b25a22'
   title: The Sword in the Stone
 plan:
   date_added: '2018-09-25'

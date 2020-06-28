@@ -15,6 +15,7 @@ book:
   series: Johnny Maxwell
   series_position: '2'
   slug: johnny-and-the-dead
+  spine_color: '#dbd7b5'
   tags:
   - fantasy
   title: Johnny and the Dead

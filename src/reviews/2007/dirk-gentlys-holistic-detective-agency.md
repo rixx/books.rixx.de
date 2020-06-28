@@ -9,6 +9,7 @@ book:
   series: Dirk Gently
   series_position: '1'
   slug: dirk-gentlys-holistic-detective-agency
+  spine_color: '#8a7545'
   tags:
   - german
   - mystery

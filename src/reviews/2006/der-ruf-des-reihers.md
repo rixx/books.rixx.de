@@ -11,6 +11,7 @@ book:
   series: Der Clan der Otori
   series_position: '4'
   slug: der-ruf-des-reihers
+  spine_color: '#e18221'
   tags:
   - fantasy
   - german

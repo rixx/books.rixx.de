@@ -13,6 +13,7 @@ book:
   pages: 335
   publication_year: null
   slug: immer-dieser-michel
+  spine_color: '#f9be1c'
   tags:
   - german
   - kids

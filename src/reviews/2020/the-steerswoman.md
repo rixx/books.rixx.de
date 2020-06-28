@@ -11,9 +11,10 @@ book:
   series: The Steerswoman
   series_position: '1'
   slug: the-steerswoman
-  title: The Steerswoman
+  spine_color: '#b78a46'
   tags:
   - fantasy
+  title: The Steerswoman
 plan:
   date_added: '2018-09-15'
 review:

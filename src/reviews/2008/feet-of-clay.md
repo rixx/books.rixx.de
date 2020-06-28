@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '19'
   slug: feet-of-clay
+  spine_color: '#5a5851'
   title: Feet of Clay
 plan:
   date_added: '2015-04-08'

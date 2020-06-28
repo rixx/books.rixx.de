@@ -11,6 +11,7 @@ book:
   series: Die Drachenkämpferin
   series_position: '2'
   slug: die-drachenkampferin-der-auftrag-des-magiers
+  spine_color: '#445f88'
   tags:
   - fantasy
   - german

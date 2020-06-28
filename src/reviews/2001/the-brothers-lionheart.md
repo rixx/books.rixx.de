@@ -13,6 +13,7 @@ book:
   pages: 231
   publication_year: '1973'
   slug: the-brothers-lionheart
+  spine_color: '#94c2cb'
   tags:
   - german
   - kids

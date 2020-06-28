@@ -9,6 +9,7 @@ book:
   series: Laundry Files
   series_position: '3.5'
   slug: overtime
+  spine_color: '#abbd73'
   tags:
   - urban-fantasy
   title: Overtime

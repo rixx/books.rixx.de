@@ -13,6 +13,7 @@ book:
   pages: 351
   publication_year: '2012'
   slug: the-rapture-of-the-nerds
+  spine_color: '#9d9c9c'
   title: The Rapture of the Nerds
 plan:
   date_added: '2016-05-07'

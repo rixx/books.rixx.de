@@ -11,6 +11,7 @@ book:
   series: The Alchemy Wars
   series_position: '1'
   slug: the-mechanical
+  spine_color: '#ca2b30'
   title: The Mechanical
 plan:
   date_added: '2018-10-20'

@@ -15,6 +15,7 @@ book:
   series: Thursday Next
   series_position: '1'
   slug: the-eyre-affair
+  spine_color: '#458a75'
   tags:
   - fantasy
   - german

@@ -15,6 +15,7 @@ book:
   series: Mercy Thompson
   series_position: '2'
   slug: blood-bound
+  spine_color: '#9c4326'
   tags:
   - urban-fantasy
   title: Blood Bound

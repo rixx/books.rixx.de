@@ -7,6 +7,7 @@ book:
   pages: '384'
   publication_year: '2008'
   slug: pride-and-prometheus
+  spine_color: '#aab7c4'
   title: Pride and Prometheus
 plan:
   date_added: '2019-02-04'

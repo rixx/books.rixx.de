@@ -9,6 +9,7 @@ book:
   series: Harry Potter
   series_position: '4'
   slug: harry-potter-and-the-goblet-of-fire
+  spine_color: '#c1824c'
   tags:
   - fantasy
   - german

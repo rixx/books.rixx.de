@@ -9,6 +9,7 @@ book:
   pages: '455'
   publication_year: '1995'
   slug: whit
+  spine_color: '#0e0d0f'
   title: Whit
 plan:
   date_added: 2020-06-12

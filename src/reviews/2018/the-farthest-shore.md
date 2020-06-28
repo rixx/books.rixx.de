@@ -15,6 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '3'
   slug: the-farthest-shore
+  spine_color: '#597b6d'
   tags:
   - fantasy
   title: The Farthest Shore

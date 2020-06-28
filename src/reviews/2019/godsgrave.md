@@ -15,6 +15,7 @@ book:
   series: The Nevernight Chronicle
   series_position: '2'
   slug: godsgrave
+  spine_color: '#32201f'
   tags:
   - fantasy
   title: Godsgrave

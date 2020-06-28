@@ -11,6 +11,7 @@ book:
   series: Daughter of Smoke & Bone
   series_position: '1'
   slug: daughter-of-smoke-bone
+  spine_color: '#406f86'
   title: Daughter of Smoke & Bone
 plan:
   date_added: '2016-06-08'

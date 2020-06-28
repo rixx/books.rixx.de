@@ -8,6 +8,7 @@ book:
   isbn13: '9783423071338'
   publication_year: '1970'
   slug: die-feuerrote-friederike
+  spine_color: '#b33a46'
   tags:
   - german
   - kids

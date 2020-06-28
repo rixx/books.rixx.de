@@ -13,6 +13,7 @@ book:
   pages: 345
   publication_year: '2013'
   slug: the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win
+  spine_color: '#acaba2'
   tags:
   - nonfiction
   - tech

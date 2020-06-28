@@ -9,6 +9,7 @@ book:
   pages: '30'
   publication_year: '2019'
   slug: for-he-can-creep
+  spine_color: '#c5a98a'
   title: For He Can Creep
 plan:
   date_added: '2020-02-12'

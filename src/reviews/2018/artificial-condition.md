@@ -15,6 +15,7 @@ book:
   series: The Murderbot Diaries
   series_position: '2'
   slug: artificial-condition
+  spine_color: '#c7935f'
   tags:
   - scifi
   title: Artificial Condition

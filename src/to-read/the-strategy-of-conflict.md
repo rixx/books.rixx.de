@@ -13,6 +13,7 @@ book:
   pages: 328
   publication_year: '1960'
   slug: the-strategy-of-conflict
+  spine_color: '#dbd3bf'
   title: The Strategy of Conflict
 plan:
   date_added: 2020-06-06

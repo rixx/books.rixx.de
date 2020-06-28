@@ -15,6 +15,7 @@ book:
   series: New Crobuzon
   series_position: '3'
   slug: iron-council
+  spine_color: '#863f47'
   tags:
   - fantasy
   title: Iron Council

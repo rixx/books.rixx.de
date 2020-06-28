@@ -11,6 +11,7 @@ book:
   series: The Prince of Nothing
   series_position: '1'
   slug: the-darkness-that-comes-before
+  spine_color: '#c6a787'
   title: The Darkness That Comes Before
 plan:
   date_added: '2015-04-17'

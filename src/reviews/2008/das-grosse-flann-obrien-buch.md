@@ -8,6 +8,7 @@ book:
   isbn13: '9783251201983'
   publication_year: '1978'
   slug: das-grosse-flann-obrien-buch
+  spine_color: '#c2be25'
   tags:
   - german
   title: Das grosse Flann-O'Brien-Buch

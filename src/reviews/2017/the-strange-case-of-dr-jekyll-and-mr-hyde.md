@@ -13,6 +13,7 @@ book:
   pages: 144
   publication_year: '1886'
   slug: the-strange-case-of-dr-jekyll-and-mr-hyde
+  spine_color: '#573637'
   title: The Strange Case of Dr. Jekyll and Mr. Hyde
 plan:
   date_added: '2015-04-17'

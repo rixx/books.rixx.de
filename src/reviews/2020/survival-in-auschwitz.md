@@ -13,6 +13,7 @@ book:
   pages: 187
   publication_year: '1947'
   slug: survival-in-auschwitz
+  spine_color: '#555562'
   tags:
   - history
   title: Survival in Auschwitz

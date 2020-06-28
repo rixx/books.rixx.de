@@ -9,6 +9,7 @@ book:
   series: Bobiverse
   series_position: '1'
   slug: we-are-legion-we-are-bob
+  spine_color: '#be8f60'
   title: We Are Legion (We Are Bob)
 plan:
   date_added: '2018-08-25'

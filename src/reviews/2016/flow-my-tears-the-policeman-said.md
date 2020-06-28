@@ -9,6 +9,7 @@ book:
   pages: '204'
   publication_year: '1974'
   slug: flow-my-tears-the-policeman-said
+  spine_color: '#d3933e'
   tags:
   - scifi
   title: Flow My Tears, the Policeman Said

@@ -9,6 +9,7 @@ book:
   series: Millennium
   series_position: '1'
   slug: the-girl-with-the-dragon-tattoo
+  spine_color: '#ede73e'
   title: The Girl with the Dragon Tattoo
 plan:
   date_added: '2015-04-08'

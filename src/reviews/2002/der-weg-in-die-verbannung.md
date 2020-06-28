@@ -10,6 +10,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '2'
   slug: der-weg-in-die-verbannung
+  spine_color: '#969c44'
   tags:
   - german
   - historical-fiction

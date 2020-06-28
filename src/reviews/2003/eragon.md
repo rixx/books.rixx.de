@@ -15,6 +15,7 @@ book:
   series: The Inheritance Cycle
   series_position: '1'
   slug: eragon
+  spine_color: '#3e4f73'
   tags:
   - fantasy
   - german

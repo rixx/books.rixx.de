@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '2006'
   slug: the-metamorphosis-of-prime-intellect
+  spine_color: '#cbcccc'
   title: The Metamorphosis of Prime Intellect
 plan:
   date_added: '2018-09-03'

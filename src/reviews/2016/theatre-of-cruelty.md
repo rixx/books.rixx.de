@@ -9,6 +9,7 @@ book:
   series: Discworld
   series_position: '14.5'
   slug: theatre-of-cruelty
+  spine_color: '#e9c443'
   title: Theatre of Cruelty
 plan:
   date_added: '2016-06-08'

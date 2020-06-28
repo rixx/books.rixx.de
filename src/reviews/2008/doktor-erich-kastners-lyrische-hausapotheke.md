@@ -9,6 +9,7 @@ book:
   pages: '224'
   publication_year: '1936'
   slug: doktor-erich-kastners-lyrische-hausapotheke
+  spine_color: '#f3e08e'
   tags:
   - german
   - poetry

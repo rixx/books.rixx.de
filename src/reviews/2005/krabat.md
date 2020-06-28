@@ -11,6 +11,7 @@ book:
   pages: 296
   publication_year: '1971'
   slug: krabat
+  spine_color: '#6886cd'
   tags:
   - german
   - myths-legends

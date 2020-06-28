@@ -15,6 +15,7 @@ book:
   series: Every Day
   series_position: '1'
   slug: every-day
+  spine_color: '#eae2c1'
   tags:
   - urban-fantasy
   title: Every Day

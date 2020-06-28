@@ -15,6 +15,7 @@ book:
   series: Chronicles of Isambard Smith
   series_position: '1'
   slug: space-captain-smith
+  spine_color: '#a27f60'
   title: Space Captain Smith
 plan:
   date_added: '2018-02-19'

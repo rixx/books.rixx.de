@@ -11,6 +11,7 @@ book:
   series: Khalifa Brothers
   series_position: '1'
   slug: haroun-and-the-sea-of-stories
+  spine_color: '#f0e127'
   title: Haroun and the Sea of Stories
 plan:
   date_added: '2016-05-19'

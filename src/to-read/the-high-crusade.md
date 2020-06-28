@@ -13,6 +13,7 @@ book:
   pages: 181
   publication_year: '1960'
   slug: the-high-crusade
+  spine_color: '#b8bad0'
   title: The High Crusade
 plan:
   date_added: '2018-09-12'

@@ -7,6 +7,7 @@ book:
   pages: '331'
   publication_year: '1955'
   slug: lolita
+  spine_color: '#947928'
   tags:
   - german
   title: Lolita

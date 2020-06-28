@@ -13,6 +13,7 @@ book:
   pages: 182
   publication_year: '1949'
   slug: the-martian-chronicles
+  spine_color: '#66c0eb'
   title: The Martian Chronicles
 plan:
   date_added: '2018-07-23'

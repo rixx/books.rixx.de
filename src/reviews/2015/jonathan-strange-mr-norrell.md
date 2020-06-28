@@ -7,6 +7,7 @@ book:
   pages: '1006'
   publication_year: '2004'
   slug: jonathan-strange-mr-norrell
+  spine_color: '#040404'
   tags:
   - fantasy
   title: Jonathan Strange & Mr Norrell

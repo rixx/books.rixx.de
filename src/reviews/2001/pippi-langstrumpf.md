@@ -13,6 +13,7 @@ book:
   pages: 140
   publication_year: '1945'
   slug: pippi-langstrumpf
+  spine_color: '#147ce6'
   tags:
   - german
   - kids

@@ -15,6 +15,7 @@ book:
   series: The Checquy Files
   series_position: '1'
   slug: the-rook
+  spine_color: '#6d6c6b'
   tags:
   - urban-fantasy
   title: The Rook

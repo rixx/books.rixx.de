@@ -7,6 +7,7 @@ book:
   pages: '160'
   publication_year: '1972'
   slug: the-word-for-world-is-forest
+  spine_color: '#89b9b8'
   tags:
   - scifi
   title: The Word for World is Forest

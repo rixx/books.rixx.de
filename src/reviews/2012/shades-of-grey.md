@@ -11,6 +11,7 @@ book:
   series: Shades of Grey
   series_position: '1'
   slug: shades-of-grey
+  spine_color: '#8b785e'
   tags:
   - fantasy
   title: Shades of Grey

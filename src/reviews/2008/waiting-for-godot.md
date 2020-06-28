@@ -9,6 +9,7 @@ book:
   pages: '109'
   publication_year: '1952'
   slug: waiting-for-godot
+  spine_color: '#bcd6e6'
   tags:
   - german
   - stage-play

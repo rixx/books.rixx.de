@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '2014'
   slug: neanderthal-man-in-search-of-lost-genomes
+  spine_color: '#e7d6a9'
   title: 'Neanderthal Man: In Search of Lost Genomes'
 plan:
   date_added: '2018-09-28'

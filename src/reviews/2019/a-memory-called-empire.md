@@ -11,6 +11,7 @@ book:
   series: Teixcalaan
   series_position: '1'
   slug: a-memory-called-empire
+  spine_color: '#c8c2b0'
   tags:
   - fantasy
   title: A Memory Called Empire

@@ -15,6 +15,7 @@ book:
   series: Mistborn
   series_position: '3'
   slug: the-hero-of-ages
+  spine_color: '#4c343e'
   title: The Hero of Ages
 plan:
   date_added: '2019-07-15'

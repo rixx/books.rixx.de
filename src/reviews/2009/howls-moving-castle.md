@@ -15,6 +15,7 @@ book:
   series: Howl's Moving Castle
   series_position: '1'
   slug: howls-moving-castle
+  spine_color: '#bea667'
   tags:
   - fantasy
   - german

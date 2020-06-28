@@ -13,6 +13,7 @@ book:
   pages: 86
   publication_year: '1922'
   slug: baal
+  spine_color: '#969798'
   tags:
   - german
   - poetry

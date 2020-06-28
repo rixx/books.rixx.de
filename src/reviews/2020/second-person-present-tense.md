@@ -7,6 +7,7 @@ book:
   pages: '32'
   publication_year: '2005'
   slug: second-person-present-tense
+  spine_color: '#03018c'
   title: Second Person, Present Tense
 plan:
   date_added: '2020-04-23'

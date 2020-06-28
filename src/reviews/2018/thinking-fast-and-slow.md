@@ -13,6 +13,7 @@ book:
   pages: 499
   publication_year: '2011'
   slug: thinking-fast-and-slow
+  spine_color: '#786c60'
   tags:
   - nonfiction
   - psychology

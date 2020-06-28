@@ -11,6 +11,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '13'
   slug: the-end
+  spine_color: '#ddbc89'
   tags:
   - ya
   title: The End

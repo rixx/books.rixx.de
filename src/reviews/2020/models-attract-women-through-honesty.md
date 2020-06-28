@@ -13,6 +13,7 @@ book:
   pages: 262
   publication_year: '2011'
   slug: models-attract-women-through-honesty
+  spine_color: '#7d1f24'
   tags:
   - nonfiction
   - personal-development

@@ -11,6 +11,7 @@ book:
   series: Imperial Radch
   series_position: '2'
   slug: ancillary-sword
+  spine_color: '#7c7264'
   tags:
   - scifi
   title: Ancillary Sword

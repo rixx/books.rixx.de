@@ -11,6 +11,7 @@ book:
   series: Nexus
   series_position: '1'
   slug: nexus
+  spine_color: '#cbcdd0'
   title: Nexus
 plan:
   date_added: '2018-08-12'

@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '1848'
   slug: the-communist-manifesto
+  spine_color: '#d4bf9a'
   tags:
   - german
   - nonfiction

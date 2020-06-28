@@ -15,6 +15,7 @@ book:
   series: Heralds of Valdemar
   series_position: '1'
   slug: arrows-of-the-queen
+  spine_color: '#b4877d'
   title: Arrows of the Queen
 plan:
   date_added: '2018-09-15'

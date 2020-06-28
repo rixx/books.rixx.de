@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '2'
   slug: the-player-of-games
+  spine_color: '#ba3a19'
   tags:
   - scifi
   title: The Player of Games

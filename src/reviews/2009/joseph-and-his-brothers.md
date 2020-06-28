@@ -13,6 +13,7 @@ book:
   pages: 1492
   publication_year: '1943'
   slug: joseph-and-his-brothers
+  spine_color: '#7d6f62'
   tags:
   - german
   title: Joseph and His Brothers

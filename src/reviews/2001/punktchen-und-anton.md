@@ -9,6 +9,7 @@ book:
   pages: '160'
   publication_year: '1931'
   slug: punktchen-und-anton
+  spine_color: '#fced04'
   tags:
   - german
   - kids

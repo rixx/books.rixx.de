@@ -15,6 +15,7 @@ book:
   series: Hercule Poirot
   series_position: '10'
   slug: murder-on-the-orient-express
+  spine_color: '#8fb1bc'
   tags:
   - mystery
   title: Murder on the Orient Express

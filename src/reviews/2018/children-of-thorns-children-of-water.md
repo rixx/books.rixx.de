@@ -11,6 +11,7 @@ book:
   series: Dominion of the Fallen
   series_position: '1.5'
   slug: children-of-thorns-children-of-water
+  spine_color: '#3e4c53'
   title: Children of Thorns, Children of Water
 plan:
   date_added: '2018-09-20'

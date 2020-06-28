@@ -9,6 +9,7 @@ book:
   series: Sorcery Ascendant Sequence
   series_position: '1'
   slug: a-crucible-of-souls
+  spine_color: '#385e77'
   title: A Crucible of Souls
 plan:
   date_added: '2018-10-09'

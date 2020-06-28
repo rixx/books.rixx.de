@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '14'
   slug: lords-and-ladies
+  spine_color: '#b4ab77'
   title: Lords and Ladies
 plan:
   date_added: '2015-04-08'

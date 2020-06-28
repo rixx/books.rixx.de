@@ -15,6 +15,7 @@ book:
   series: Firefall
   series_position: '2'
   slug: echopraxia
+  spine_color: '#efc561'
   title: Echopraxia
 plan:
   date_added: '2019-01-14'

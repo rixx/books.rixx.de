@@ -11,6 +11,7 @@ book:
   series: Codex Alera
   series_position: '3'
   slug: cursors-fury
+  spine_color: '#98b1bc'
   tags:
   - fantasy
   title: Cursor's Fury

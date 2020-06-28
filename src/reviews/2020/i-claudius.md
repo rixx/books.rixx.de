@@ -15,6 +15,7 @@ book:
   series: Claudius
   series_position: '1'
   slug: i-claudius
+  spine_color: '#e8e3a0'
   tags:
   - historical-fiction
   title: I, Claudius

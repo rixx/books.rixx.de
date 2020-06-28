@@ -13,6 +13,7 @@ book:
   pages: 259
   publication_year: '1962'
   slug: the-man-in-the-high-castle
+  spine_color: '#b37043'
   tags:
   - scifi
   title: The Man in the High Castle

@@ -13,6 +13,7 @@ book:
   pages: 327
   publication_year: '1995'
   slug: blindness
+  spine_color: '#aaadaf'
   tags:
   - german
   title: Blindness

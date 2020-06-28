@@ -11,6 +11,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '15'
   slug: striding-folly
+  spine_color: '#d9c9ad'
   tags:
   - mystery
   title: Striding Folly

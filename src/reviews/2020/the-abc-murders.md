@@ -15,6 +15,7 @@ book:
   series: Hercule Poirot
   series_position: '13'
   slug: the-abc-murders
+  spine_color: '#2a56c3'
   title: The ABC Murders
 plan:
   date_added: 2020-06-21

@@ -6,6 +6,7 @@ book:
   goodreads: '25442918'
   publication_year: '1929'
   slug: joseph-fouche
+  spine_color: '#995b58'
   tags:
   - german
   - historical-fiction

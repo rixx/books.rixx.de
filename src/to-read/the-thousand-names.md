@@ -15,6 +15,7 @@ book:
   series: The Shadow Campaigns
   series_position: '1'
   slug: the-thousand-names
+  spine_color: '#afac6b'
   title: The Thousand Names
 plan:
   date_added: '2018-09-12'

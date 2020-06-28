@@ -15,6 +15,7 @@ book:
   series: The Last Unicorn
   series_position: '1'
   slug: the-last-unicorn
+  spine_color: '#8c764e'
   tags:
   - fantasy
   title: The Last Unicorn

@@ -13,6 +13,7 @@ book:
   pages: 59
   publication_year: '2001'
   slug: franz-kafkas-the-castle
+  spine_color: '#bfeac6'
   tags:
   - german
   title: Franz Kafka's The Castle

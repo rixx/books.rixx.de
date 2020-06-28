@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '39.5'
   slug: the-world-of-poo-discworld
+  spine_color: '#eed6ad'
   tags:
   - kids
   title: The World of Poo

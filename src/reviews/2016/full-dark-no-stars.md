@@ -9,6 +9,7 @@ book:
   pages: '368'
   publication_year: '2010'
   slug: full-dark-no-stars
+  spine_color: '#883f37'
   title: Full Dark, No Stars
 plan:
   date_added: '2016-05-08'

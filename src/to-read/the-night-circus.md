@@ -9,6 +9,7 @@ book:
   pages: '516'
   publication_year: '2011'
   slug: the-night-circus
+  spine_color: '#854346'
   title: The Night Circus
 plan:
   date_added: '2018-03-19'

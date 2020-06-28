@@ -13,6 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '2'
   slug: the-reptile-room
+  spine_color: '#e0c290'
   tags:
   - ya
   title: The Reptile Room

@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '3'
   slug: equal-rites
+  spine_color: '#b9754d'
   title: Equal Rites
 plan:
   date_added: '2018-03-19'

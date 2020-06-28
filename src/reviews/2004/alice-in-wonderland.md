@@ -7,6 +7,7 @@ book:
   pages: '51'
   publication_year: '1981'
   slug: alice-in-wonderland
+  spine_color: '#a09a85'
   tags:
   - german
   title: Alice in Wonderland

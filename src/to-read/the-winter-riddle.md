@@ -7,6 +7,7 @@ book:
   pages: '276'
   publication_year: '2016'
   slug: the-winter-riddle
+  spine_color: '#387488'
   title: The Winter Riddle
 plan:
   date_added: '2019-01-14'

@@ -15,6 +15,7 @@ book:
   series: London Below
   series_position: '1'
   slug: neverwhere
+  spine_color: '#a4957f'
   tags:
   - fantasy
   title: Neverwhere

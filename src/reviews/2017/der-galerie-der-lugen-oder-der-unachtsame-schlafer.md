@@ -13,6 +13,7 @@ book:
   pages: 637
   publication_year: '2005'
   slug: der-galerie-der-lugen-oder-der-unachtsame-schlafer
+  spine_color: '#104a6b'
   tags:
   - fantasy
   - german

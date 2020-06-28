@@ -13,6 +13,7 @@ book:
   series: The Chronicles of Master Li and Number Ten Ox
   series_position: '1'
   slug: bridge-of-birds
+  spine_color: '#f0eeb3'
   title: Bridge of Birds
 plan:
   date_added: '2018-08-28'

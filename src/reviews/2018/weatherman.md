@@ -9,6 +9,7 @@ book:
   series: Vorkosigan Saga
   series_position: '5.4'
   slug: weatherman
+  spine_color: '#536681'
   tags:
   - scifi
   title: Weatherman

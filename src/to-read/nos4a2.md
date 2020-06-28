@@ -9,6 +9,7 @@ book:
   pages: '18'
   publication_year: '2013'
   slug: nos4a2
+  spine_color: '#5e201d'
   title: NOS4A2
 plan:
   date_added: '2018-10-17'

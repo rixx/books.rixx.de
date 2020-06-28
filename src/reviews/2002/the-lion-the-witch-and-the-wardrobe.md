@@ -9,6 +9,7 @@ book:
   series: Chronicles of Narnia
   series_position: '1'
   slug: the-lion-the-witch-and-the-wardrobe
+  spine_color: '#af9b6e'
   tags:
   - fantasy
   - german

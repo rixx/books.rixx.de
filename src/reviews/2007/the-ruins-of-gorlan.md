@@ -15,6 +15,7 @@ book:
   series: Ranger's Apprentice
   series_position: '1'
   slug: the-ruins-of-gorlan
+  spine_color: '#2f3e51'
   tags:
   - fantasy
   title: The Ruins of Gorlan

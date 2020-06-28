@@ -9,6 +9,7 @@ book:
   series: Peter Grant
   series_position: '1'
   slug: midnight-riot
+  spine_color: '#9b5545'
   tags:
   - urban-fantasy
   title: Midnight Riot

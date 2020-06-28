@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '4'
   slug: summer-knight
+  spine_color: '#d5c644'
   tags:
   - urban-fantasy
   title: Summer Knight

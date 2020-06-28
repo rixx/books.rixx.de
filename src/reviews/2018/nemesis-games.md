@@ -9,6 +9,7 @@ book:
   series: The Expanse
   series_position: '5'
   slug: nemesis-games
+  spine_color: '#866a64'
   tags:
   - scifi
   title: Nemesis Games

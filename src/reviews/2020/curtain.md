@@ -11,6 +11,7 @@ book:
   series: Hercule Poirot
   series_position: 42
   slug: curtain
+  spine_color: '#5c1819'
   tags:
   - mystery
   title: Curtain

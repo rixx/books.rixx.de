@@ -9,6 +9,7 @@ book:
   pages: '256'
   publication_year: '2004'
   slug: das-pentomino-orakel
+  spine_color: '#b38d43'
   tags:
   - german
   - ya

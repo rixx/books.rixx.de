@@ -11,6 +11,7 @@ book:
   series: The Lost Queen Trilogy
   series_position: '1'
   slug: the-lost-queen
+  spine_color: '#8e4e43'
   title: The Lost Queen
 plan:
   date_added: '2018-11-26'

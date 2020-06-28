@@ -13,6 +13,7 @@ book:
   pages: 937
   publication_year: '2008'
   slug: anathem
+  spine_color: '#706142'
   tags:
   - scifi
   - space-monks

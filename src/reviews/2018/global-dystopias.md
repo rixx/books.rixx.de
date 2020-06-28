@@ -9,6 +9,7 @@ book:
   pages: '208'
   publication_year: '2017'
   slug: global-dystopias
+  spine_color: '#cc4d88'
   title: Global Dystopias
 plan:
   date_added: '2018-02-13'

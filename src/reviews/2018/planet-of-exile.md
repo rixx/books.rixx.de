@@ -11,6 +11,7 @@ book:
   series: Hainish Cycle
   series_position: '2'
   slug: planet-of-exile
+  spine_color: '#c08c3e'
   tags:
   - scifi
   title: Planet of Exile

@@ -11,6 +11,7 @@ book:
   series: Vorkosigan Saga
   series_position: '9'
   slug: cetaganda
+  spine_color: '#604448'
   tags:
   - scifi
   title: Cetaganda

@@ -15,6 +15,7 @@ book:
   series: Wayward Children
   series_position: '2'
   slug: down-among-the-sticks-and-bones
+  spine_color: '#2c2730'
   tags:
   - fantasy
   title: Down Among the Sticks and Bones

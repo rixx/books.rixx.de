@@ -15,6 +15,7 @@ book:
   series: Cormoran Strike
   series_position: '3'
   slug: career-of-evil
+  spine_color: '#9b654b'
   title: Career of Evil
 plan:
   date_added: '2017-07-11'

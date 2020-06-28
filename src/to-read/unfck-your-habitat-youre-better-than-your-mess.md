@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '2017'
   slug: unfck-your-habitat-youre-better-than-your-mess
+  spine_color: '#c1bc6a'
   title: 'Unf*ck Your Habitat: You''re Better Than Your Mess'
 plan:
   date_added: 2020-06-07

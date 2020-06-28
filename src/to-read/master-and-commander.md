@@ -15,6 +15,7 @@ book:
   series: Aubrey & Maturin
   series_position: '1'
   slug: master-and-commander
+  spine_color: '#a78244'
   title: Master and Commander
 plan:
   date_added: '2018-09-30'

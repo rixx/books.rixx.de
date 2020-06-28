@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '9'
   slug: white-night
+  spine_color: '#969fa8'
   tags:
   - urban-fantasy
   title: White Night

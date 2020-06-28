@@ -15,6 +15,7 @@ book:
   series: Bartimaeus
   series_position: '2'
   slug: the-golems-eye
+  spine_color: '#1b335e'
   tags:
   - fantasy
   - german

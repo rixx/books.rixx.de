@@ -15,6 +15,7 @@ book:
   series: Oxford Time Travel
   series_position: '2'
   slug: to-say-nothing-of-the-dog
+  spine_color: '#977855'
   tags:
   - scifi
   title: To Say Nothing of the Dog

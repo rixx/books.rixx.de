@@ -11,6 +11,7 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '2'
   slug: der-wahrheitsfinder
+  spine_color: '#aa5a2b'
   tags:
   - fantasy
   - german

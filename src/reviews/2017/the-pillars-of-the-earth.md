@@ -9,6 +9,7 @@ book:
   series: Kingsbridge
   series_position: '1'
   slug: the-pillars-of-the-earth
+  spine_color: '#c6a87c'
   tags:
   - historical-fiction
   title: The Pillars of the Earth

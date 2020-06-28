@@ -9,6 +9,7 @@ book:
   pages: '145'
   publication_year: '1972'
   slug: roadside-picnic
+  spine_color: '#f7f445'
   title: Roadside Picnic
 plan:
   date_added: '2018-07-24'

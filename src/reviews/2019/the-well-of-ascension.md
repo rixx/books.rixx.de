@@ -15,6 +15,7 @@ book:
   series: Mistborn
   series_position: '2'
   slug: the-well-of-ascension
+  spine_color: '#b8ae9c'
   tags:
   - fantasy
   title: The Well of Ascension

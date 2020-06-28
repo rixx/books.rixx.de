@@ -11,6 +11,7 @@ book:
   series: Binti
   series_position: '1'
   slug: binti
+  spine_color: '#7a5140'
   tags:
   - scifi
   - ya

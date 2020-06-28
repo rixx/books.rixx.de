@@ -6,6 +6,7 @@ book:
   goodreads: '43073743'
   publication_year: '2018'
   slug: apex-magazine-december-2018
+  spine_color: '#96857d'
   title: Apex Magazine -- December 2018
 plan:
   date_added: '2019-02-05'

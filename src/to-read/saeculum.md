@@ -9,6 +9,7 @@ book:
   pages: '496'
   publication_year: '2011'
   slug: saeculum
+  spine_color: '#8e8d8e'
   title: Saeculum
 plan:
   date_added: '2017-02-01'

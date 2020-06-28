@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '28'
   slug: the-amazing-maurice-and-his-educated-rodents
+  spine_color: '#dbc07a'
   title: The Amazing Maurice and His Educated Rodents
 plan:
   date_added: '2015-04-08'

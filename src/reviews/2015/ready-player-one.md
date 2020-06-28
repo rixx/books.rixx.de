@@ -15,6 +15,7 @@ book:
   series: Ready Player One
   series_position: '1'
   slug: ready-player-one
+  spine_color: '#e71731'
   tags:
   - scifi
   - ya

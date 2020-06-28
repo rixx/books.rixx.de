@@ -9,6 +9,7 @@ book:
   pages: '290'
   publication_year: '2015'
   slug: so-youve-been-publicly-shamed
+  spine_color: '#d94579'
   title: So You've Been Publicly Shamed
 plan:
   date_added: '2018-06-06'

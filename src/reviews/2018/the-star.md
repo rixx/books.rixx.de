@@ -7,6 +7,7 @@ book:
   pages: '6'
   publication_year: '1955'
   slug: the-star
+  spine_color: '#2b90b9'
   tags:
   - scifi
   title: The Star

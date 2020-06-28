@@ -7,6 +7,7 @@ book:
   pages: '2591'
   publication_year: '2017'
   slug: worth-the-candle
+  spine_color: '#b69ea0'
   title: Worth the Candle
 plan:
   date_added: '2018-07-12'

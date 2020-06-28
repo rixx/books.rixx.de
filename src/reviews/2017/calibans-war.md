@@ -15,6 +15,7 @@ book:
   series: The Expanse
   series_position: '2'
   slug: calibans-war
+  spine_color: '#432229'
   tags:
   - scifi
   title: Caliban's War

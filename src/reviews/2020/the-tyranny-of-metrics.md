@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '2017'
   slug: the-tyranny-of-metrics
+  spine_color: '#b69f57'
   tags:
   - nonfiction
   title: The Tyranny of Metrics

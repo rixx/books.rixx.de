@@ -15,6 +15,7 @@ book:
   series: Spin
   series_position: '1'
   slug: spin
+  spine_color: '#656d77'
   title: Spin
 plan:
   date_added: '2018-08-28'

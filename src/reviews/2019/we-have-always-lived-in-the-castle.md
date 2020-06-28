@@ -13,6 +13,7 @@ book:
   pages: 146
   publication_year: '1962'
   slug: we-have-always-lived-in-the-castle
+  spine_color: '#c1c1c1'
   title: We Have Always Lived in the Castle
 plan:
   date_added: '2018-10-28'

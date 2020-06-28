@@ -15,6 +15,7 @@ book:
   series: Riverside
   series_position: '1'
   slug: swordspoint
+  spine_color: '#7e674b'
   title: Swordspoint
 plan:
   date_added: '2018-09-15'

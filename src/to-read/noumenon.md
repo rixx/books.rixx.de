@@ -13,6 +13,7 @@ book:
   pages: 432
   publication_year: '2017'
   slug: noumenon
+  spine_color: '#328595'
   title: Noumenon
 plan:
   date_added: '2018-07-23'

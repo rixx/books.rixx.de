@@ -15,6 +15,7 @@ book:
   series: Remembrance of Earth’s Past
   series_position: '1'
   slug: the-three-body-problem
+  spine_color: '#c6d58d'
   tags:
   - scifi
   title: The Three-Body Problem

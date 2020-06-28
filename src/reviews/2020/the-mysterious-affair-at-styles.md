@@ -11,6 +11,7 @@ book:
   series: Hercule Poirot
   series_position: 1
   slug: the-mysterious-affair-at-styles
+  spine_color: '#973c28'
   tags:
   - mystery
   title: The Mysterious Affair at Styles

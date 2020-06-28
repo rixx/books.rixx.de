@@ -11,6 +11,7 @@ book:
   series: Der Clan der Otori
   series_position: '3'
   slug: der-glanz-des-mondes
+  spine_color: '#8a6983'
   tags:
   - fantasy
   - german

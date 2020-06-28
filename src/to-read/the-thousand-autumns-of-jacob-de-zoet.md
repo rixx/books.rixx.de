@@ -9,6 +9,7 @@ book:
   pages: '479'
   publication_year: '2010'
   slug: the-thousand-autumns-of-jacob-de-zoet
+  spine_color: '#b19659'
   title: The Thousand Autumns of Jacob de Zoet
 plan:
   date_added: '2016-05-11'

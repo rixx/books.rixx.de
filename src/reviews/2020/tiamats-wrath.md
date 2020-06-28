@@ -15,6 +15,7 @@ book:
   series: The Expanse
   series_position: '8'
   slug: tiamats-wrath
+  spine_color: '#9b704a'
   tags:
   - scifi
   title: Tiamat's Wrath

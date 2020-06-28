@@ -15,6 +15,7 @@ book:
   series: Harry Potter
   series_position: '5'
   slug: harry-potter-and-the-order-of-the-phoenix
+  spine_color: '#1f78ac'
   tags:
   - fantasy
   - german

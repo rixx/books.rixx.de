@@ -15,6 +15,7 @@ book:
   series: Rifters
   series_position: '1'
   slug: starfish
+  spine_color: '#36718f'
   tags:
   - scifi
   title: Starfish

@@ -13,6 +13,7 @@ book:
   pages: 454
   publication_year: '2009'
   slug: the-improbable-adventures-of-sherlock-holmes
+  spine_color: '#806d49'
   title: The Improbable Adventures of Sherlock Holmes
 plan:
   date_added: '2017-11-21'

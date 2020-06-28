@@ -15,6 +15,7 @@ book:
   series: Subjective Cosmology
   series_position: '1'
   slug: quarantine
+  spine_color: '#7b5489'
   tags:
   - scifi
   title: Quarantine

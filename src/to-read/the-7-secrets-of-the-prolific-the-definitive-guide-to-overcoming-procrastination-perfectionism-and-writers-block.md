@@ -9,6 +9,7 @@ book:
   pages: '188'
   publication_year: '2011'
   slug: the-7-secrets-of-the-prolific-the-definitive-guide-to-overcoming-procrastination-perfectionism-and-writers-block
+  spine_color: '#ebd791'
   title: 'The 7 Secrets of the Prolific: The Definitive Guide to Overcoming Procrastination,
     Perfectionism, and Writer''s Block'
 plan:

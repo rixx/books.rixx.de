@@ -12,6 +12,7 @@ book:
   pages: 704
   publication_year: '1947'
   slug: jeder-stirbt-fur-sich-allein
+  spine_color: '#8091a6'
   title: Jeder stirbt für sich allein
 plan:
   date_added: '2018-07-24'

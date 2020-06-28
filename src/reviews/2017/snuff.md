@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '39'
   slug: snuff
+  spine_color: '#1f717c'
   title: Snuff
 plan:
   date_added: '2015-04-08'

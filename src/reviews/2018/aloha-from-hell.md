@@ -11,6 +11,7 @@ book:
   series: Sandman Slim
   series_position: '3'
   slug: aloha-from-hell
+  spine_color: '#d29f62'
   tags:
   - urban-fantasy
   title: Aloha from Hell

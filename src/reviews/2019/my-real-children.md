@@ -9,6 +9,7 @@ book:
   pages: '320'
   publication_year: '2014'
   slug: my-real-children
+  spine_color: '#a48f7c'
   tags:
   - scifi
   title: My Real Children

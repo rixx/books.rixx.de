@@ -15,6 +15,7 @@ book:
   series: The Inheritance Cycle
   series_position: '2'
   slug: eldest
+  spine_color: '#ca4b45'
   tags:
   - fantasy
   - german

@@ -15,6 +15,7 @@ book:
   series: Epic
   series_position: '1'
   slug: epic
+  spine_color: '#6f614a'
   tags:
   - fantasy
   - scifi

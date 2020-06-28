@@ -13,6 +13,7 @@ book:
   pages: 567
   publication_year: '2005'
   slug: the-book-thief
+  spine_color: '#b07840'
   tags:
   - german
   title: The Book Thief

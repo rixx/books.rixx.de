@@ -13,6 +13,7 @@ book:
   pages: 309
   publication_year: '2000'
   slug: defying-hitler
+  spine_color: '#ce885f'
   title: Defying Hitler
 plan:
   date_added: '2018-08-19'

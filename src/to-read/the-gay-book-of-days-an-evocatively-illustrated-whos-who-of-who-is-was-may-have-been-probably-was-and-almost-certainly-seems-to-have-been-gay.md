@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '1982'
   slug: the-gay-book-of-days-an-evocatively-illustrated-whos-who-of-who-is-was-may-have-been-probably-was-and-almost-certainly-seems-to-have-been-gay
+  spine_color: '#534845'
   title: 'The Gay Book of Days: An Evocatively Illustrated Who''s Who of Who Is, Was,
     May Have Been, Probably Was, and Almost Certainly Seems to Have Been Gay'
 plan:

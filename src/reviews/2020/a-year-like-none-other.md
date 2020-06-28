@@ -9,6 +9,7 @@ book:
   series: Like None Other
   series_position: '1'
   slug: a-year-like-none-other
+  spine_color: '#18330d'
   tags:
   - fanfic
   title: A Year Like None Other

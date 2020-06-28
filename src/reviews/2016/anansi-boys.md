@@ -15,6 +15,7 @@ book:
   series: American Gods
   series_position: '2'
   slug: anansi-boys
+  spine_color: '#e1d5a5'
   tags:
   - fantasy
   title: Anansi Boys

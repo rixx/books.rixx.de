@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '2018'
   slug: unholy-land
+  spine_color: '#1b7580'
   title: Unholy Land
 plan:
   date_added: '2018-10-06'

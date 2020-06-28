@@ -11,6 +11,7 @@ book:
   series: The Innsmouth Legacy
   series_position: '1'
   slug: winter-tide
+  spine_color: '#ab9b89'
   title: Winter Tide
 plan:
   date_added: '2019-02-04'

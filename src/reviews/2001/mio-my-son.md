@@ -13,6 +13,7 @@ book:
   pages: 178
   publication_year: '1954'
   slug: mio-my-son
+  spine_color: '#ec8927'
   tags:
   - german
   - kids

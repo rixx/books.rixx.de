@@ -15,6 +15,7 @@ book:
   series: Simon Snow
   series_position: '1'
   slug: carry-on
+  spine_color: '#79556e'
   title: Carry On
 plan:
   date_added: '2018-09-15'

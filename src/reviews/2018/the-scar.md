@@ -15,6 +15,7 @@ book:
   series: New Crobuzon
   series_position: '2'
   slug: the-scar
+  spine_color: '#c7d05f'
   tags:
   - fantasy
   title: The Scar

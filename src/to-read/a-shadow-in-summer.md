@@ -15,6 +15,7 @@ book:
   series: Long Price Quartet
   series_position: '1'
   slug: a-shadow-in-summer
+  spine_color: '#9ca078'
   title: A Shadow in Summer
 plan:
   date_added: '2019-10-12'

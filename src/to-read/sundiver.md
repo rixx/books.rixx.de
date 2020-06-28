@@ -15,6 +15,7 @@ book:
   series: The Uplift Saga
   series_position: '1'
   slug: sundiver
+  spine_color: '#c9984f'
   title: Sundiver
 plan:
   date_added: '2018-09-12'

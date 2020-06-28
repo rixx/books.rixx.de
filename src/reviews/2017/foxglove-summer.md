@@ -15,6 +15,7 @@ book:
   series: Rivers of London
   series_position: '5'
   slug: foxglove-summer
+  spine_color: '#992215'
   tags:
   - urban-fantasy
   title: Foxglove Summer

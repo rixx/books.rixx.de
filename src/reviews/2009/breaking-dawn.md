@@ -15,6 +15,7 @@ book:
   series: Twilight
   series_position: '4'
   slug: breaking-dawn
+  spine_color: '#6b5e5a'
   tags:
   - fantasy
   title: Breaking Dawn

@@ -13,6 +13,7 @@ book:
   pages: 208
   publication_year: '2015'
   slug: george
+  spine_color: '#e27e35'
   title: George
 plan:
   date_added: '2016-05-11'

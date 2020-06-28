@@ -7,6 +7,7 @@ book:
   pages: '118'
   publication_year: '1895'
   slug: the-time-machine
+  spine_color: '#1986b8'
   title: The Time Machine
 plan:
   date_added: '2018-09-03'

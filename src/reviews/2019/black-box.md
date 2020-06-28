@@ -7,6 +7,7 @@ book:
   pages: '50'
   publication_year: '2012'
   slug: black-box
+  spine_color: '#eab885'
   title: Black Box
 plan:
   date_added: '2019-09-20'

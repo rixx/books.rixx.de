@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '1980'
   slug: riddley-walker
+  spine_color: '#8a2825'
   title: Riddley Walker
 plan:
   date_added: '2018-09-03'

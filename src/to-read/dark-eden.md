@@ -11,6 +11,7 @@ book:
   series: Dark Eden
   series_position: '1'
   slug: dark-eden
+  spine_color: '#691258'
   title: Dark Eden
 plan:
   date_added: '2019-02-07'

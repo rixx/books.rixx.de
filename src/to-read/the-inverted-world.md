@@ -8,6 +8,7 @@ book:
   isbn13: '9780060134211'
   publication_year: '1974'
   slug: the-inverted-world
+  spine_color: '#cac89e'
   title: The Inverted World
 plan:
   date_added: '2018-02-19'

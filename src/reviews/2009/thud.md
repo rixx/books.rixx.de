@@ -9,6 +9,7 @@ book:
   series: Discworld
   series_position: '34'
   slug: thud
+  spine_color: '#58596f'
   title: Thud!
 plan:
   date_added: '2015-04-08'

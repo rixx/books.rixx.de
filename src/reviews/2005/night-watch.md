@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '29'
   slug: night-watch
+  spine_color: '#d8d1b7'
   title: Night Watch
 plan:
   date_added: '2015-04-08'

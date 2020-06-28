@@ -9,6 +9,7 @@ book:
   series: The Drenai Saga
   series_position: '1'
   slug: legend
+  spine_color: '#867361'
   title: Legend
 plan:
   date_added: '2016-06-08'

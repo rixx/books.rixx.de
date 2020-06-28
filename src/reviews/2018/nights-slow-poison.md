@@ -9,6 +9,7 @@ book:
   series: Imperial Radch
   series_position: '0.5'
   slug: nights-slow-poison
+  spine_color: '#a6200d'
   tags:
   - scifi
   title: Night's Slow Poison

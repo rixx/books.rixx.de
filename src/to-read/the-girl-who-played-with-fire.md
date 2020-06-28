@@ -11,6 +11,7 @@ book:
   series: Millennium
   series_position: '2'
   slug: the-girl-who-played-with-fire
+  spine_color: '#da5d3c'
   title: The Girl Who Played with Fire
 plan:
   date_added: '2017-02-01'

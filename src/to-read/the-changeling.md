@@ -13,6 +13,7 @@ book:
   pages: 431
   publication_year: '2017'
   slug: the-changeling
+  spine_color: '#4e5783'
   title: The Changeling
 plan:
   date_added: '2018-11-04'

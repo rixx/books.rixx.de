@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '14'
   slug: cold-days
+  spine_color: '#5d728e'
   tags:
   - urban-fantasy
   title: Cold Days

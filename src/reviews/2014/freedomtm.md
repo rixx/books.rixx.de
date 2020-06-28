@@ -15,6 +15,7 @@ book:
   series: Daemon
   series_position: '2'
   slug: freedomtm
+  spine_color: '#eb8f2c'
   tags:
   - scifi
   title: Freedom™

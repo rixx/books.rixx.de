@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '6'
   slug: inversions
+  spine_color: '#cebfc4'
   tags:
   - scifi
   title: Inversions

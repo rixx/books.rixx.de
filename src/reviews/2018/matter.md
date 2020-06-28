@@ -11,6 +11,7 @@ book:
   series: Culture
   series_position: '8'
   slug: matter
+  spine_color: '#a45b22'
   tags:
   - scifi
   title: Matter

@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '6'
   slug: wyrd-sisters
+  spine_color: '#b4bd4a'
   title: Wyrd Sisters
 plan:
   date_added: '2015-04-08'

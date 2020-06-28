@@ -7,6 +7,7 @@ book:
   isbn10: '3841501974'
   publication_year: '2000'
   slug: herr-der-diebe
+  spine_color: '#5cb3de'
   tags:
   - german
   - kids

@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '1'
   slug: storm-front
+  spine_color: '#b9576f'
   tags:
   - urban-fantasy
   title: Storm Front

@@ -11,6 +11,7 @@ book:
   series: Watership Down
   series_position: '1'
   slug: watership-down
+  spine_color: '#f8e46b'
   title: Watership Down
 plan:
   date_added: '2018-09-30'

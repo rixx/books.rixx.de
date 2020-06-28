@@ -11,6 +11,7 @@ book:
   series: The Vagrant
   series_position: '1'
   slug: the-vagrant
+  spine_color: '#9fa8ae'
   title: The Vagrant
 plan:
   date_added: '2018-08-04'

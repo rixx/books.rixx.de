@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '10'
   slug: small-favor
+  spine_color: '#e4c56d'
   tags:
   - urban-fantasy
   title: Small Favor

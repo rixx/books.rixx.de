@@ -15,6 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '2'
   slug: words-of-radiance
+  spine_color: '#aa8048'
   tags:
   - fantasy
   title: Words of Radiance

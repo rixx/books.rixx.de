@@ -9,6 +9,7 @@ book:
   series: The Extraordinary Voyages
   series_position: '17'
   slug: dick-sands-the-boy-captain
+  spine_color: '#5d5d5d'
   tags:
   - german
   title: Dick Sands the Boy Captain

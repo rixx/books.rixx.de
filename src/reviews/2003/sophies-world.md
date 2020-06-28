@@ -11,6 +11,7 @@ book:
   pages: 403
   publication_year: '1991'
   slug: sophies-world
+  spine_color: '#ba3e2c'
   tags:
   - german
   title: Sophie's World

@@ -15,6 +15,7 @@ book:
   series: The Merchant Princes
   series_position: '1'
   slug: the-family-trade
+  spine_color: '#76665c'
   tags:
   - scifi
   title: The Family Trade

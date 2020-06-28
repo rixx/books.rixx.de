@@ -15,6 +15,7 @@ book:
   series: The Hunger Games
   series_position: '1'
   slug: the-hunger-games
+  spine_color: '#ae8652'
   tags:
   - ya
   title: The Hunger Games

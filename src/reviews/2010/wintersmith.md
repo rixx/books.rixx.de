@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '35'
   slug: wintersmith
+  spine_color: '#311c19'
   title: Wintersmith
 plan:
   date_added: '2015-04-08'

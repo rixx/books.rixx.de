@@ -7,6 +7,7 @@ book:
   pages: '417'
   publication_year: '1967'
   slug: one-hundred-years-of-solitude
+  spine_color: '#eae20e'
   title: One Hundred Years of Solitude
 plan:
   date_added: '2019-04-02'

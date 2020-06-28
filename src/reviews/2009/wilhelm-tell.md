@@ -7,6 +7,7 @@ book:
   pages: '144'
   publication_year: '1804'
   slug: wilhelm-tell
+  spine_color: '#f5f407'
   tags:
   - german
   - historical-fiction

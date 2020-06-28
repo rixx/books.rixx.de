@@ -15,6 +15,7 @@ book:
   series: Warlock
   series_position: '1'
   slug: the-warlock-in-spite-of-himself
+  spine_color: '#ce997f'
   tags:
   - fantasy
   title: The Warlock in Spite of Himself

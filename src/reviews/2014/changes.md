@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '12'
   slug: changes
+  spine_color: '#84623a'
   tags:
   - urban-fantasy
   title: Changes

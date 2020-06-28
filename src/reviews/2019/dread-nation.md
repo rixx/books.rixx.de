@@ -11,6 +11,7 @@ book:
   series: Dread Nation
   series_position: '1'
   slug: dread-nation
+  spine_color: '#6e5e4f'
   title: Dread Nation
 plan:
   date_added: '2019-07-21'

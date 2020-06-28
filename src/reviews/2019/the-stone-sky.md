@@ -9,6 +9,7 @@ book:
   series: The Broken Earth
   series_position: '3'
   slug: the-stone-sky
+  spine_color: '#6ea59e'
   tags:
   - fantasy
   - scifi

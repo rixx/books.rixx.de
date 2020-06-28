@@ -11,6 +11,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '6'
   slug: the-ersatz-elevator
+  spine_color: '#c57064'
   tags:
   - ya
   title: The Ersatz Elevator

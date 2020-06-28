@@ -15,6 +15,7 @@ book:
   series: Mercy Thompson
   series_position: '3'
   slug: iron-kissed
+  spine_color: '#c2c5b8'
   tags:
   - urban-fantasy
   title: Iron Kissed

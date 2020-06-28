@@ -13,6 +13,7 @@ book:
   pages: 231
   publication_year: '2017'
   slug: exit-west
+  spine_color: '#6494d0'
   title: Exit West
 plan:
   date_added: '2018-08-15'

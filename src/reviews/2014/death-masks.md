@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '5'
   slug: death-masks
+  spine_color: '#568390'
   tags:
   - urban-fantasy
   title: Death Masks

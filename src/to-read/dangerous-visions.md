@@ -9,6 +9,7 @@ book:
   pages: '592'
   publication_year: '1967'
   slug: dangerous-visions
+  spine_color: '#5e4731'
   title: Dangerous Visions
 plan:
   date_added: '2018-02-19'

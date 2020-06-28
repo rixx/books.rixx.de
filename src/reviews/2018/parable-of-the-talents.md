@@ -15,6 +15,7 @@ book:
   series: Earthseed
   series_position: '2'
   slug: parable-of-the-talents
+  spine_color: '#d6c480'
   tags:
   - scifi
   title: Parable of the Talents

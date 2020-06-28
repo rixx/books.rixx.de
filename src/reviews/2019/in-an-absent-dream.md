@@ -9,6 +9,7 @@ book:
   series: Wayward Children
   series_position: '4'
   slug: in-an-absent-dream
+  spine_color: '#3f575a'
   tags:
   - fantasy
   title: In an Absent Dream

@@ -9,6 +9,7 @@ book:
   series: The Dark Tower
   series_position: '1'
   slug: the-gunslinger
+  spine_color: '#e3a852'
   tags:
   - fantasy
   title: The Gunslinger

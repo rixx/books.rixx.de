@@ -15,6 +15,7 @@ book:
   series: MaddAddam
   series_position: '1'
   slug: oryx-and-crake
+  spine_color: '#807949'
   title: Oryx and Crake
 plan:
   date_added: '2018-07-23'

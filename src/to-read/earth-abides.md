@@ -13,6 +13,7 @@ book:
   pages: 345
   publication_year: '1949'
   slug: earth-abides
+  spine_color: '#c8eea5'
   title: Earth Abides
 plan:
   date_added: '2018-09-29'

@@ -9,6 +9,7 @@ book:
   pages: '128'
   publication_year: '2017'
   slug: the-martian-obelisk
+  spine_color: '#dd7d4c'
   tags:
   - scifi
   title: The Martian Obelisk

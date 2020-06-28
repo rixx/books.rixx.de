@@ -11,6 +11,7 @@ book:
   series: The Dresden Files
   series_position: '7'
   slug: dead-beat
+  spine_color: '#53646e'
   tags:
   - urban-fantasy
   title: Dead Beat

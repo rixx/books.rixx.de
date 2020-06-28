@@ -8,6 +8,7 @@ book:
   series: Easytown Novels
   series_position: '1'
   slug: the-immorality-clause
+  spine_color: '#5a7082'
   title: The Immorality Clause
 plan:
   date_added: '2018-10-21'

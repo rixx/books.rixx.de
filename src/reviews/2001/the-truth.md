@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '25'
   slug: the-truth
+  spine_color: '#ecd3b3'
   title: The Truth
 plan:
   date_added: '2015-04-08'

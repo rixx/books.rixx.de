@@ -11,6 +11,7 @@ book:
   series: Die Drachenkämpferin
   series_position: '1'
   slug: im-land-des-windes
+  spine_color: '#e07825'
   tags:
   - fantasy
   - german

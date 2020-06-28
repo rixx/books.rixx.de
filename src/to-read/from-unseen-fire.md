@@ -15,6 +15,7 @@ book:
   series: Aven Cycle
   series_position: '1'
   slug: from-unseen-fire
+  spine_color: '#b7986f'
   title: From Unseen Fire
 plan:
   date_added: '2018-09-28'

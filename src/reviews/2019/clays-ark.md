@@ -11,6 +11,7 @@ book:
   series: Patternmaster
   series_position: '3'
   slug: clays-ark
+  spine_color: '#e3d096'
   tags:
   - fantasy
   title: Clay's Ark

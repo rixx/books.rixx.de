@@ -13,6 +13,7 @@ book:
   series: Neschan-Trilogie
   series_position: '1'
   slug: die-traume-des-jonathan-jabbok
+  spine_color: '#1d1b6e'
   tags:
   - fantasy
   - german

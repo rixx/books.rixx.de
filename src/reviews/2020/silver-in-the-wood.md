@@ -15,6 +15,7 @@ book:
   series: The Greenhollow Duology
   series_position: '1'
   slug: silver-in-the-wood
+  spine_color: '#4e4733'
   tags:
   - fantasy
   title: Silver in the Wood

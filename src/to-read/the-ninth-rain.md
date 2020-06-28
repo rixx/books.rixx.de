@@ -11,6 +11,7 @@ book:
   series: The Winnowing Flame Trilogy
   series_position: '1'
   slug: the-ninth-rain
+  spine_color: '#6a728e'
   title: The Ninth Rain
 plan:
   date_added: '2018-11-03'

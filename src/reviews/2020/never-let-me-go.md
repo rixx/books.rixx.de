@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '2005'
   slug: never-let-me-go
+  spine_color: '#a8897d'
   tags:
   - scifi
   title: Never Let Me Go

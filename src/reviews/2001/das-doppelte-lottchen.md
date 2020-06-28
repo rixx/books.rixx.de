@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '1949'
   slug: das-doppelte-lottchen
+  spine_color: '#f6e50f'
   tags:
   - german
   - kids

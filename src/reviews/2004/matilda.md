@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1988'
   slug: matilda
+  spine_color: '#baae96'
   tags:
   - german
   - kids

@@ -15,6 +15,7 @@ book:
   series: Loom Saga
   series_position: '1'
   slug: the-alchemists-of-loom
+  spine_color: '#745e4b'
   tags:
   - fantasy
   title: The Alchemists of Loom

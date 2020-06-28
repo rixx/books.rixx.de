@@ -7,6 +7,7 @@ book:
   pages: '882'
   publication_year: '1850'
   slug: david-copperfield
+  spine_color: '#e7e2de'
   title: David Copperfield
 plan:
   date_added: '2015-04-08'

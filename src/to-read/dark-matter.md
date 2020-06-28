@@ -13,6 +13,7 @@ book:
   pages: 342
   publication_year: '2016'
   slug: dark-matter
+  spine_color: '#f44245'
   title: Dark Matter
 plan:
   date_added: '2018-08-20'

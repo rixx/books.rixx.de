@@ -9,6 +9,7 @@ book:
   pages: '229'
   publication_year: '2016'
   slug: tournament-of-losers
+  spine_color: '#dca869'
   tags:
   - fantasy
   title: Tournament of Losers

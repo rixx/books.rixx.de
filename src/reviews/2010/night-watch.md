@@ -15,6 +15,7 @@ book:
   series: Watch
   series_position: '1'
   slug: night-watch
+  spine_color: '#b36968'
   tags:
   - german
   title: Night Watch

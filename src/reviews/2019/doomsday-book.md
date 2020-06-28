@@ -15,6 +15,7 @@ book:
   series: Oxford Time Travel
   series_position: '1'
   slug: doomsday-book
+  spine_color: '#602a1e'
   tags:
   - scifi
   title: Doomsday Book

@@ -7,6 +7,7 @@ book:
   publication_year: '2020'
   slug: i-sexually-identify-as-an-attack-helicopter
   source: https://web.archive.org/web/20200101232918/http://clarkesworldmagazine.com/fall_01_20/
+  spine_color: '#d0c47f'
   tags:
   - scifi
   title: I Sexually Identify As An Attack Helicopter

@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '2'
   slug: the-light-fantastic
+  spine_color: '#d2e062'
   title: The Light Fantastic
 plan:
   date_added: '2015-04-08'

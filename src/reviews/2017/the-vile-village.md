@@ -11,6 +11,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '7'
   slug: the-vile-village
+  spine_color: '#ceb48a'
   tags:
   - ya
   title: The Vile Village

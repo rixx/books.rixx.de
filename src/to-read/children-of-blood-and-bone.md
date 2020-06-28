@@ -15,6 +15,7 @@ book:
   series: Legacy of Orïsha
   series_position: '1'
   slug: children-of-blood-and-bone
+  spine_color: '#201313'
   title: Children of Blood and Bone
 plan:
   date_added: '2018-08-15'

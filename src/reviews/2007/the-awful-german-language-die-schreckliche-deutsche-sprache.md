@@ -9,6 +9,7 @@ book:
   pages: '81'
   publication_year: '2010'
   slug: the-awful-german-language-die-schreckliche-deutsche-sprache
+  spine_color: '#f73a14'
   title: The Awful German Language / Die schreckliche deutsche Sprache
 plan:
   date_added: '2015-04-17'

@@ -15,6 +15,7 @@ book:
   series: Codex Alera
   series_position: '4'
   slug: captains-fury
+  spine_color: '#d5804d'
   tags:
   - fantasy
   title: Captain's Fury

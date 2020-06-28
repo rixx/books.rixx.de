@@ -13,6 +13,7 @@ book:
   pages: 368
   publication_year: '2019'
   slug: the-city-in-the-middle-of-the-night
+  spine_color: '#bdb4a6'
   title: The City in the Middle of the Night
 plan:
   date_added: '2019-07-15'

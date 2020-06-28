@@ -11,6 +11,7 @@ book:
   series: Die Drachenkämpferin
   series_position: '3'
   slug: der-talisman-der-macht
+  spine_color: '#34d62d'
   tags:
   - fantasy
   - german

@@ -9,6 +9,7 @@ book:
   series: Extraordinary Voyages
   series_position: '37'
   slug: the-castle-of-the-carpathians
+  spine_color: '#cdbb8c'
   tags:
   - german
   title: The Castle of the Carpathians

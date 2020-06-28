@@ -13,6 +13,7 @@ book:
   pages: 282
   publication_year: '1961'
   slug: solaris
+  spine_color: '#784a36'
   tags:
   - scifi
   title: Solaris

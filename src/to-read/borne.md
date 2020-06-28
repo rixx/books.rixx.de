@@ -15,6 +15,7 @@ book:
   series: Borne
   series_position: '1'
   slug: borne
+  spine_color: '#c8f6eb'
   title: Borne
 plan:
   date_added: '2018-07-31'

@@ -9,6 +9,7 @@ book:
   pages: '293'
   publication_year: '1981'
   slug: the-soul-of-a-new-machine
+  spine_color: '#a03460'
   title: The Soul of a New Machine
 plan:
   date_added: '2018-08-26'

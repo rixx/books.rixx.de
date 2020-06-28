@@ -15,6 +15,7 @@ book:
   series: Mary Poppins
   series_position: '1'
   slug: mary-poppins
+  spine_color: '#ac5d5f'
   tags:
   - kids
   title: Mary Poppins

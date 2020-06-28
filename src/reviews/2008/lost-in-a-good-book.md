@@ -15,6 +15,7 @@ book:
   series: Thursday Next
   series_position: '2'
   slug: lost-in-a-good-book
+  spine_color: '#93695e'
   tags:
   - fantasy
   - german

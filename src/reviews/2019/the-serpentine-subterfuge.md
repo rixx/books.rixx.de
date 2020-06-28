@@ -9,6 +9,7 @@ book:
   series: Rigel Black
   series_position: '2'
   slug: the-serpentine-subterfuge
+  spine_color: '#91897e'
   tags:
   - fanfic
   title: The Serpentine Subterfuge

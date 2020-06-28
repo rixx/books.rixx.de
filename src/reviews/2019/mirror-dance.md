@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '8'
   slug: mirror-dance
+  spine_color: '#7c5855'
   tags:
   - scifi
   title: Mirror Dance

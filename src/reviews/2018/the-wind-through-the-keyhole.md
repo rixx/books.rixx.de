@@ -9,6 +9,7 @@ book:
   series: The Dark Tower
   series_position: '4.5'
   slug: the-wind-through-the-keyhole
+  spine_color: '#86adb6'
   tags:
   - fantasy
   title: The Wind Through the Keyhole

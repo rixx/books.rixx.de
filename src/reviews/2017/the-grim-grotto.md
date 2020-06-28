@@ -14,6 +14,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '11'
   slug: the-grim-grotto
+  spine_color: '#ecca8b'
   tags:
   - ya
   title: The Grim Grotto

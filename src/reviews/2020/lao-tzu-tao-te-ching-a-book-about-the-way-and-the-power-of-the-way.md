@@ -13,6 +13,7 @@ book:
   pages: 125
   publication_year: '-600'
   slug: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way
+  spine_color: '#0f4358'
   tags:
   - nonfiction
   - personal-development

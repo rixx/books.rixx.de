@@ -15,6 +15,7 @@ book:
   series: Codex Alera
   series_position: '6'
   slug: first-lords-fury
+  spine_color: '#adbccc'
   tags:
   - fantasy
   title: First Lord's Fury

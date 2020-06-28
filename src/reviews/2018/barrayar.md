@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '7'
   slug: barrayar
+  spine_color: '#c2532d'
   tags:
   - scifi
   title: Barrayar

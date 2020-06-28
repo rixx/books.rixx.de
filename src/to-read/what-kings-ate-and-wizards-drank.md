@@ -9,6 +9,7 @@ book:
   pages: '252'
   publication_year: '2012'
   slug: what-kings-ate-and-wizards-drank
+  spine_color: '#deb38c'
   title: What Kings Ate and Wizards Drank
 plan:
   date_added: '2019-02-19'

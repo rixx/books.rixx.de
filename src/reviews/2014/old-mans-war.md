@@ -15,6 +15,7 @@ book:
   series: Old Man's War
   series_position: '1'
   slug: old-mans-war
+  spine_color: '#dac98c'
   tags:
   - scifi
   title: Old Man's War

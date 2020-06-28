@@ -15,6 +15,7 @@ book:
   series: The Locked Tomb
   series_position: '1'
   slug: gideon-the-ninth
+  spine_color: '#6b635e'
   tags:
   - fantasy
   title: Gideon the Ninth

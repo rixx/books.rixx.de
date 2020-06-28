@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '2012'
   slug: a-blink-of-the-screen-collected-shorter-fiction
+  spine_color: '#8e8266'
   tags:
   - fantasy
   title: 'A Blink of the Screen: Collected Shorter Fiction'

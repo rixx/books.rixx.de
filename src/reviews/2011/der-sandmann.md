@@ -9,6 +9,7 @@ book:
   pages: '83'
   publication_year: '1816'
   slug: der-sandmann
+  spine_color: '#222f46'
   tags:
   - german
   title: Der Sandmann

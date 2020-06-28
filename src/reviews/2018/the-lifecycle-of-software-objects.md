@@ -13,6 +13,7 @@ book:
   pages: 150
   publication_year: '2010'
   slug: the-lifecycle-of-software-objects
+  spine_color: '#b6b2b2'
   title: The Lifecycle of Software Objects
 plan:
   date_added: '2018-10-31'

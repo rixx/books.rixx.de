@@ -13,6 +13,7 @@ book:
   pages: 140
   publication_year: '2019'
   slug: walking-to-aldebaran
+  spine_color: '#c6c0a1'
   tags:
   - scifi
   title: Walking to Aldebaran

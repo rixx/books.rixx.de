@@ -15,6 +15,7 @@ book:
   series: Dread Empire's Fall
   series_position: '1'
   slug: the-praxis
+  spine_color: '#783a2a'
   title: The Praxis
 plan:
   date_added: '2018-10-07'

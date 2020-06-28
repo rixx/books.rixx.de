@@ -13,6 +13,7 @@ book:
   pages: 528
   publication_year: '1995'
   slug: the-lions-of-al-rassan
+  spine_color: '#a62c06'
   title: The Lions of Al-Rassan
 plan:
   date_added: '2018-09-15'

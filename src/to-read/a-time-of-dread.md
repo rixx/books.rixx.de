@@ -11,6 +11,7 @@ book:
   series: Of Blood and Bone
   series_position: '1'
   slug: a-time-of-dread
+  spine_color: '#bb9886'
   title: A Time of Dread
 plan:
   date_added: '2019-04-03'

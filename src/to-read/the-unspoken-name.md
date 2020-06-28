@@ -8,6 +8,7 @@ book:
   series: The Serpent Gates
   series_position: '1'
   slug: the-unspoken-name
+  spine_color: '#b49a76'
   title: The Unspoken Name
 plan:
   date_added: '2020-03-26'

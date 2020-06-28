@@ -15,6 +15,7 @@ book:
   series: The Lord of the Rings
   series_position: '1'
   slug: the-fellowship-of-the-ring
+  spine_color: '#bfb695'
   tags:
   - fantasy
   - german

@@ -8,6 +8,7 @@ book:
   series: Laundry Files
   series_position: '8'
   slug: the-delirium-brief
+  spine_color: '#828a8b'
   tags:
   - urban-fantasy
   title: The Delirium Brief

@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '1989'
   slug: the-night-of-wishes
+  spine_color: '#e1d6a6'
   tags:
   - german
   - kids

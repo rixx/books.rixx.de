@@ -6,6 +6,7 @@ book:
   goodreads: '15744759'
   publication_year: '2009'
   slug: three-worlds-collide
+  spine_color: '#d99c68'
   tags:
   - scifi
   - space-monks

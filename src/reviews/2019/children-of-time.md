@@ -15,6 +15,7 @@ book:
   series: Children of Time
   series_position: '1'
   slug: children-of-time
+  spine_color: '#4a8264'
   tags:
   - scifi
   title: Children of Time

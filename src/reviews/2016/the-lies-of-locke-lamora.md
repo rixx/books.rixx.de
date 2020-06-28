@@ -15,6 +15,7 @@ book:
   series: Gentleman Bastard
   series_position: '1'
   slug: the-lies-of-locke-lamora
+  spine_color: '#3b1d41'
   tags:
   - fantasy
   title: The Lies of Locke Lamora

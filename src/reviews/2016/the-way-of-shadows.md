@@ -11,6 +11,7 @@ book:
   series: Night Angel
   series_position: '1'
   slug: the-way-of-shadows
+  spine_color: '#8f7c7e'
   tags:
   - fantasy
   title: The Way of Shadows

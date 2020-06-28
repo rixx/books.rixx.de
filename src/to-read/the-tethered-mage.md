@@ -15,6 +15,7 @@ book:
   series: Swords and Fire
   series_position: '1'
   slug: the-tethered-mage
+  spine_color: '#cd7618'
   title: The Tethered Mage
 plan:
   date_added: '2019-11-15'

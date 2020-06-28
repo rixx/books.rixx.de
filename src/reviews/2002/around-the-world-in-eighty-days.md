@@ -15,6 +15,7 @@ book:
   series: Extraordinary Voyages
   series_position: '11'
   slug: around-the-world-in-eighty-days
+  spine_color: '#494745'
   tags:
   - german
   title: Around the World in Eighty Days

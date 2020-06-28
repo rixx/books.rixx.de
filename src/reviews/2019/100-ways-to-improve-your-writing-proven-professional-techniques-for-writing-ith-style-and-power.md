@@ -13,6 +13,7 @@ book:
   pages: 158
   publication_year: '1985'
   slug: 100-ways-to-improve-your-writing-proven-professional-techniques-for-writing-ith-style-and-power
+  spine_color: '#f9f63d'
   tags:
   - language
   - nonfiction

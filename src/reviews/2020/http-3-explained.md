@@ -7,6 +7,7 @@ book:
   publication_year: 2018
   slug: http-3-explained
   source: https://http3-explained.haxx.se/en/
+  spine_color: '#e38e2a'
   tags:
   - nonfiction
   - tech

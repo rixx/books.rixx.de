@@ -15,6 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '6'
   slug: the-dead-in-their-vaulted-arches
+  spine_color: '#e19b34'
   tags: []
   title: The Dead in Their Vaulted Arches
 plan:

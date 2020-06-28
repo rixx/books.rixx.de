@@ -13,6 +13,7 @@ book:
   pages: 654
   publication_year: '1851'
   slug: moby-dick-or-the-whale
+  spine_color: '#726e43'
   title: Moby-Dick or, the Whale
 plan:
   date_added: '2015-04-08'

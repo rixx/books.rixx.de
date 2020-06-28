@@ -15,6 +15,7 @@ book:
   series: Harry Potter
   series_position: '3'
   slug: harry-potter-and-the-prisoner-of-azkaban
+  spine_color: '#bf866f'
   tags:
   - fantasy
   - german

@@ -9,6 +9,7 @@ book:
   pages: '32'
   publication_year: '1865'
   slug: max-und-moritz-eine-bubengeschichte-in-sieben-streichen
+  spine_color: '#f5e32e'
   tags:
   - german
   - kids

@@ -15,6 +15,7 @@ book:
   series: Young Wizards
   series_position: '6'
   slug: a-wizard-alone
+  spine_color: '#765445'
   tags:
   - fantasy
   - urban-fantasy

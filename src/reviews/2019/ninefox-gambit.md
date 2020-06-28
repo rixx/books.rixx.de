@@ -9,6 +9,7 @@ book:
   series: The Machineries of Empire
   series_position: '1'
   slug: ninefox-gambit
+  spine_color: '#307c99'
   tags:
   - scifi
   title: Ninefox Gambit

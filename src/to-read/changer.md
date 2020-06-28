@@ -8,6 +8,7 @@ book:
   series: KESTREL
   series_position: '1'
   slug: changer
+  spine_color: '#43256c'
   title: Changer
 plan:
   date_added: '2016-07-14'

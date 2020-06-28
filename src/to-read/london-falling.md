@@ -15,6 +15,7 @@ book:
   series: Shadow Police
   series_position: '1'
   slug: london-falling
+  spine_color: '#acba96'
   title: London Falling
 plan:
   date_added: '2018-09-03'

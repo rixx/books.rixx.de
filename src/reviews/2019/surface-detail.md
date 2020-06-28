@@ -15,6 +15,7 @@ book:
   series: Culture
   series_position: '9'
   slug: surface-detail
+  spine_color: '#c6b571'
   tags:
   - scifi
   title: Surface Detail

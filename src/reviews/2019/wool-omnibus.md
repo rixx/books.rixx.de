@@ -9,6 +9,7 @@ book:
   series: Silo
   series_position: '1'
   slug: wool-omnibus
+  spine_color: '#8a8649'
   tags:
   - scifi
   title: Wool Omnibus

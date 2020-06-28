@@ -9,6 +9,7 @@ book:
   pages: '232'
   publication_year: '2000'
   slug: meg-finn-und-die-liste-der-vier-wunsche
+  spine_color: '#c3bb91'
   tags:
   - fantasy
   - german

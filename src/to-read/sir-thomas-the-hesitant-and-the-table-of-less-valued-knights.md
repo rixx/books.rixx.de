@@ -8,6 +8,7 @@ book:
   series: Less Valued Knights
   series_position: '1'
   slug: sir-thomas-the-hesitant-and-the-table-of-less-valued-knights
+  spine_color: '#af4e43'
   title: Sir Thomas the Hesitant and the Table of Less Valued Knights
 plan:
   date_added: '2019-01-23'

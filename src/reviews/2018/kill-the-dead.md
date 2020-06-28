@@ -15,6 +15,7 @@ book:
   series: Sandman Slim
   series_position: '2'
   slug: kill-the-dead
+  spine_color: '#9da06d'
   tags:
   - urban-fantasy
   title: Kill the Dead

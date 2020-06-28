@@ -13,6 +13,7 @@ book:
   pages: 328
   publication_year: '1922'
   slug: the-castle
+  spine_color: '#04b0e4'
   tags:
   - german
   title: The Castle

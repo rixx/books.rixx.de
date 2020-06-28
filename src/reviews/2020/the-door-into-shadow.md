@@ -11,6 +11,7 @@ book:
   series: Tale of the Five
   series_position: '2'
   slug: the-door-into-shadow
+  spine_color: '#cdcdbc'
   tags:
   - fantasy
   title: The Door Into Shadow

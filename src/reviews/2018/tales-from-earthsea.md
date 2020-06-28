@@ -15,6 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '5'
   slug: tales-from-earthsea
+  spine_color: '#4562ab'
   tags:
   - fantasy
   title: Tales from Earthsea

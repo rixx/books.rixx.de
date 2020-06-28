@@ -13,6 +13,7 @@ book:
   pages: 310
   publication_year: '2005'
   slug: a-brothers-price
+  spine_color: '#da904d'
   tags:
   - fantasy
   title: A Brother's Price

@@ -9,6 +9,7 @@ book:
   series: Imperial Radch
   series_position: '1'
   slug: ancillary-justice
+  spine_color: '#737e77'
   tags:
   - scifi
   - space-monks

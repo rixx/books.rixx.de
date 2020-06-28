@@ -6,6 +6,7 @@ book:
   goodreads: '50003099'
   publication_year: '2019'
   slug: i-28m-created-a-deepfake-girlfriend-and-now-my-parents-think-were-getting-married
+  spine_color: '#877971'
   tags:
   - scifi
   title: I (28M) created a deepfake girlfriend and now my parents think we’re getting

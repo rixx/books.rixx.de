@@ -11,6 +11,7 @@ book:
   series: Rivers of London
   series_position: '6'
   slug: the-hanging-tree
+  spine_color: '#b03448'
   tags:
   - urban-fantasy
   title: The Hanging Tree

@@ -15,6 +15,7 @@ book:
   series: The Magicians
   series_position: '1'
   slug: the-magicians
+  spine_color: '#919562'
   tags:
   - fantasy
   title: The Magicians

@@ -11,6 +11,7 @@ book:
   series: Peter Grant
   series_position: '7'
   slug: lies-sleeping
+  spine_color: '#8a2f5a'
   title: Lies Sleeping
 plan:
   date_added: '2018-12-04'

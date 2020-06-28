@@ -15,6 +15,7 @@ book:
   series: Phèdre's Trilogy
   series_position: '1'
   slug: kushiels-dart
+  spine_color: '#6590ae'
   title: Kushiel's Dart
 plan:
   date_added: '2018-09-15'

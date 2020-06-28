@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '11'
   slug: komarr
+  spine_color: '#d5771d'
   title: Komarr
 plan:
   date_added: '2019-08-07'

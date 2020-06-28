@@ -9,6 +9,7 @@ book:
   pages: '240'
   publication_year: '1967'
   slug: the-nine-billion-names-of-god
+  spine_color: '#dba65b'
   tags:
   - scifi
   - space-monks

@@ -15,6 +15,7 @@ book:
   series: Shades of Magic
   series_position: '1'
   slug: a-darker-shade-of-magic
+  spine_color: '#db5c4e'
   title: A Darker Shade of Magic
 plan:
   date_added: '2016-05-14'

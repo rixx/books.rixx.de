@@ -9,6 +9,7 @@ book:
   pages: '28'
   publication_year: '1958'
   slug: alarm-im-kasperletheater
+  spine_color: '#bc1d20'
   tags:
   - german
   - kids

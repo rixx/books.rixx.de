@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '16'
   slug: soul-music
+  spine_color: '#d97b28'
   title: Soul Music
 plan:
   date_added: '2015-04-08'

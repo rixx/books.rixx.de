@@ -11,6 +11,7 @@ book:
   series: The Dresden Files
   series_position: '16'
   slug: peace-talks
+  spine_color: '#91b7a1'
   tags:
   - urban-fantasy
   title: Peace Talks

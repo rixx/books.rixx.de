@@ -11,6 +11,7 @@ book:
   series: Wayfarers
   series_position: '3'
   slug: record-of-a-spaceborn-few
+  spine_color: '#3b7697'
   tags:
   - scifi
   title: Record of a Spaceborn Few

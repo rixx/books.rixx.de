@@ -9,6 +9,7 @@ book:
   pages: '160'
   publication_year: '2011'
   slug: jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
+  spine_color: '#e1a036'
   tags:
   - urban-fantasy
   title: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'

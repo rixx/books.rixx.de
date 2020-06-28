@@ -7,6 +7,7 @@ book:
   pages: '421'
   publication_year: '2019'
   slug: red-white-royal-blue
+  spine_color: '#cf332e'
   tags:
   - ya
   title: Red, White & Royal Blue

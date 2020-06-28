@@ -15,6 +15,7 @@ book:
   series: The Way
   series_position: '1'
   slug: eon
+  spine_color: '#a6b5c5'
   title: Eon
 plan:
   date_added: '2018-08-28'

@@ -13,6 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '10'
   slug: the-slippery-slope
+  spine_color: '#f0d08e'
   tags:
   - ya
   title: The Slippery Slope

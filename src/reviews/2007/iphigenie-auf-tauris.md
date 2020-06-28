@@ -9,6 +9,7 @@ book:
   pages: '79'
   publication_year: '1786'
   slug: iphigenie-auf-tauris
+  spine_color: '#f0e01a'
   tags:
   - german
   - stage-play

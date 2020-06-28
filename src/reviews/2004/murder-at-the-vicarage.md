@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: '1'
   slug: murder-at-the-vicarage
+  spine_color: '#3e6a74'
   tags:
   - mystery
   title: Murder at the Vicarage

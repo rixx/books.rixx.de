@@ -15,6 +15,7 @@ book:
   series: Jurassic Park
   series_position: '1'
   slug: jurassic-park
+  spine_color: '#a32c32'
   title: Jurassic Park
 plan:
   date_added: '2017-11-15'

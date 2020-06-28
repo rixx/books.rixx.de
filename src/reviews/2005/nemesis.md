@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: '12'
   slug: nemesis
+  spine_color: '#556f8d'
   tags:
   - mystery
   title: Nemesis

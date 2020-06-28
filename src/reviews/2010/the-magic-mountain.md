@@ -13,6 +13,7 @@ book:
   pages: 706
   publication_year: '1924'
   slug: the-magic-mountain
+  spine_color: '#c1ae90'
   tags:
   - german
   title: The Magic Mountain

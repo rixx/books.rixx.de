@@ -9,6 +9,7 @@ book:
   series: The Witcher
   series_position: '0.5'
   slug: the-last-wish
+  spine_color: '#b23b2c'
   title: The Last Wish
 plan:
   date_added: '2018-09-15'

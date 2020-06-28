@@ -9,6 +9,7 @@ book:
   pages: '128'
   publication_year: '2014'
   slug: black-hat-jack
+  spine_color: '#8e745e'
   title: Black Hat Jack
 plan:
   date_added: '2016-06-08'

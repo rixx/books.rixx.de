@@ -11,6 +11,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '12'
   slug: the-penultimate-peril
+  spine_color: '#d73015'
   tags:
   - ya
   title: The Penultimate Peril

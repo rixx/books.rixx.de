@@ -11,6 +11,7 @@ book:
   series: Culture
   series_position: '10'
   slug: the-hydrogen-sonata
+  spine_color: '#2c6679'
   tags:
   - scifi
   title: The Hydrogen Sonata

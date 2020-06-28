@@ -13,6 +13,7 @@ book:
   pages: 237
   publication_year: '1910'
   slug: the-notebooks-of-malte-laurids-brigge
+  spine_color: '#50375a'
   tags:
   - german
   title: The Notebooks of Malte Laurids Brigge

@@ -11,6 +11,7 @@ book:
   series: The Hunger Games
   series_position: '3'
   slug: mockingjay
+  spine_color: '#91a9d2'
   tags:
   - ya
   title: Mockingjay

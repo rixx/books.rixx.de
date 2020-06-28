@@ -7,6 +7,7 @@ book:
   pages: '150'
   publication_year: '2012'
   slug: ssh-mastery-openssh-putty-tunnels-and-keys
+  spine_color: '#a6875f'
   tags:
   - nonfiction
   - tech

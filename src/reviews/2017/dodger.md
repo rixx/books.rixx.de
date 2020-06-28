@@ -9,6 +9,7 @@ book:
   pages: '360'
   publication_year: '2012'
   slug: dodger
+  spine_color: '#e4cb8d'
   title: Dodger
 plan:
   date_added: '2015-04-08'

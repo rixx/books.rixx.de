@@ -10,6 +10,7 @@ book:
   series: Hotzenplotz
   series_position: '3'
   slug: hotzenplotz-3
+  spine_color: '#d4aa42'
   tags:
   - german
   - kids

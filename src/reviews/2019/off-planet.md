@@ -10,6 +10,7 @@ book:
   series: Aunare Chronicles
   series_position: '1'
   slug: off-planet
+  spine_color: '#3b102f'
   tags:
   - ya
   title: Off Planet

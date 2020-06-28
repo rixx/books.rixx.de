@@ -13,6 +13,7 @@ book:
   pages: 1276
   publication_year: '1844'
   slug: the-count-of-monte-cristo
+  spine_color: '#c2c1c8'
   tags:
   - historical-fiction
   title: The Count of Monte Cristo

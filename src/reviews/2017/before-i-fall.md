@@ -9,9 +9,10 @@ book:
   pages: '470'
   publication_year: '2010'
   slug: before-i-fall
-  title: Before I Fall
+  spine_color: '#6a492c'
   tags:
   - scifi
+  title: Before I Fall
 plan:
   date_added: '2015-06-28'
 review:

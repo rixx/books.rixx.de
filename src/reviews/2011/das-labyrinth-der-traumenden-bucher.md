@@ -15,6 +15,7 @@ book:
   series: Zamonien
   series_position: '6'
   slug: das-labyrinth-der-traumenden-bucher
+  spine_color: '#c09e5b'
   tags:
   - fantasy
   - german

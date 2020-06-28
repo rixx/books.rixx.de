@@ -15,6 +15,7 @@ book:
   series: Ship Breaker
   series_position: '1'
   slug: ship-breaker
+  spine_color: '#71635e'
   title: Ship Breaker
 plan:
   date_added: '2016-06-08'

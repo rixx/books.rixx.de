@@ -13,6 +13,7 @@ book:
   pages: 368
   publication_year: '2019'
   slug: the-light-brigade
+  spine_color: '#22c2b5'
   tags:
   - fantasy
   title: The Light Brigade

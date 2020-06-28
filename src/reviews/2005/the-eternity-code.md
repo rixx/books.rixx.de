@@ -15,6 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '3'
   slug: the-eternity-code
+  spine_color: '#ab3a2e'
   tags:
   - fantasy
   - german

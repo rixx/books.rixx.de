@@ -9,9 +9,10 @@ book:
   series: Homeric Chronicles
   series_position: '1'
   slug: song-of-sacrifice
-  title: Song of Sacrifice
+  spine_color: '#c1a868'
   tags:
   - myths-legends
+  title: Song of Sacrifice
 plan:
   date_added: '2019-04-10'
 review:

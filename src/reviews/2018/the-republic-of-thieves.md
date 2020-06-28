@@ -15,6 +15,7 @@ book:
   series: Gentleman Bastard
   series_position: '3'
   slug: the-republic-of-thieves
+  spine_color: '#534b3a'
   tags:
   - fantasy
   title: The Republic of Thieves

@@ -13,6 +13,7 @@ book:
   pages: 432
   publication_year: '2007'
   slug: the-yiddish-policemens-union
+  spine_color: '#cc3e3b'
   title: The Yiddish Policemen's Union
 plan:
   date_added: '2017-02-01'

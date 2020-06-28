@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '1'
   slug: the-color-of-magic
+  spine_color: '#89cdbb'
   title: The Color of Magic
 plan:
   date_added: '2015-04-08'

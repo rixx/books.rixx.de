@@ -15,6 +15,7 @@ book:
   series: Raven's Mark
   series_position: '1'
   slug: blackwing
+  spine_color: '#b24733'
   tags:
   - fantasy
   title: Blackwing

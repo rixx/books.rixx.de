@@ -10,6 +10,7 @@ book:
   series: Jim Knopf
   series_position: '2'
   slug: jim-knopf-und-die-wilde-13
+  spine_color: '#7a544a'
   tags:
   - german
   - kids

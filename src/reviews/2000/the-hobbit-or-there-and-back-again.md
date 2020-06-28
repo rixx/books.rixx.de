@@ -11,6 +11,7 @@ book:
   pages: 366
   publication_year: '1937'
   slug: the-hobbit-or-there-and-back-again
+  spine_color: '#bd7442'
   tags:
   - fantasy
   - german

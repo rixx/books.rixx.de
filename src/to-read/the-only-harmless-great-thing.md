@@ -13,6 +13,7 @@ book:
   pages: 96
   publication_year: '2018'
   slug: the-only-harmless-great-thing
+  spine_color: '#f3eba9'
   title: The Only Harmless Great Thing
 plan:
   date_added: '2018-11-22'

@@ -11,6 +11,7 @@ book:
   series: A Charm of Magpies
   series_position: '1'
   slug: the-magpie-lord
+  spine_color: '#737e71'
   tags: []
   title: The Magpie Lord
 plan:

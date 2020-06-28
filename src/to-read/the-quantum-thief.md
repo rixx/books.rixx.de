@@ -11,6 +11,7 @@ book:
   series: Jean le Flambeur
   series_position: '1'
   slug: the-quantum-thief
+  spine_color: '#af2f26'
   title: The Quantum Thief
 plan:
   date_added: '2018-07-12'

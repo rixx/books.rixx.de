@@ -13,6 +13,7 @@ book:
   pages: 208
   publication_year: '2020'
   slug: harleen
+  spine_color: '#816f61'
   tags:
   - fantasy
   title: Harleen

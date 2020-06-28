@@ -15,6 +15,7 @@ book:
   series: Thursday Next
   series_position: '4'
   slug: something-rotten
+  spine_color: '#a0988e'
   tags:
   - fantasy
   - german

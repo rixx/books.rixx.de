@@ -9,6 +9,7 @@ book:
   series: Captive Prince
   series_position: '1'
   slug: captive-prince
+  spine_color: '#91544f'
   title: Captive Prince
 plan:
   date_added: '2019-02-04'

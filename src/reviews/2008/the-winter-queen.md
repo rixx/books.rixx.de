@@ -15,6 +15,7 @@ book:
   series: Erast Fandorin Mysteries
   series_position: '1'
   slug: the-winter-queen
+  spine_color: '#ebcfa9'
   tags:
   - german
   - mystery

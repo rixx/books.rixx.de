@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '1933'
   slug: das-fliegende-klassenzimmer
+  spine_color: '#f4df18'
   tags:
   - german
   - kids

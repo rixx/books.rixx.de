@@ -11,6 +11,7 @@ book:
   series: The Acts of Caine
   series_position: '1'
   slug: heroes-die
+  spine_color: '#827064'
   title: Heroes Die
 plan:
   date_added: '2018-09-15'

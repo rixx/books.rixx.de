@@ -10,6 +10,7 @@ book:
   pages: 512
   publication_year: '2012'
   slug: the-casual-vacancy
+  spine_color: '#f6c411'
   title: The Casual Vacancy
 plan:
   date_added: '2016-05-08'

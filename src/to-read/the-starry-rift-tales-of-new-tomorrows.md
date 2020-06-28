@@ -13,6 +13,7 @@ book:
   pages: 530
   publication_year: '2008'
   slug: the-starry-rift-tales-of-new-tomorrows
+  spine_color: '#a08d76'
   title: 'The Starry Rift: Tales of New Tomorrows'
 plan:
   date_added: '2016-05-18'

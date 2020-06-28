@@ -13,6 +13,7 @@ book:
   pages: 617
   publication_year: '1999'
   slug: battle-royale
+  spine_color: '#ba0606'
   tags:
   - ya
   title: Battle Royale

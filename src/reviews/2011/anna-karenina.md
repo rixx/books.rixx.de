@@ -7,6 +7,7 @@ book:
   pages: '964'
   publication_year: '1877'
   slug: anna-karenina
+  spine_color: '#887662'
   tags:
   - german
   title: Anna Karenina

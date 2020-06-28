@@ -13,6 +13,7 @@ book:
   pages: 128
   publication_year: '2013'
   slug: fortunately-the-milk
+  spine_color: '#c54d3e'
   tags:
   - fantasy
   title: Fortunately, the Milk

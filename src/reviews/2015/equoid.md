@@ -11,6 +11,7 @@ book:
   series: Laundry Files
   series_position: '2.9'
   slug: equoid
+  spine_color: '#b9b2b4'
   tags:
   - urban-fantasy
   title: Equoid

@@ -13,6 +13,7 @@ book:
   pages: 134
   publication_year: '1974'
   slug: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance
+  spine_color: '#ddc737'
   tags:
   - nonfiction
   - personal-development

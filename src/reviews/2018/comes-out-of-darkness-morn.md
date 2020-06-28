@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '3'
   slug: comes-out-of-darkness-morn
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: Comes Out of Darkness Morn

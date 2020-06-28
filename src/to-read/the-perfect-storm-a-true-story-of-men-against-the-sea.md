@@ -13,6 +13,7 @@ book:
   pages: 248
   publication_year: '1997'
   slug: the-perfect-storm-a-true-story-of-men-against-the-sea
+  spine_color: '#1b6663'
   title: 'The Perfect Storm: A True Story of Men Against the Sea'
 plan:
   date_added: '2017-11-21'

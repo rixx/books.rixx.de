@@ -7,6 +7,7 @@ book:
   pages: '317'
   publication_year: '2014'
   slug: europe-in-autumn
+  spine_color: '#996241'
   title: Europe in Autumn
 plan:
   date_added: '2018-11-02'

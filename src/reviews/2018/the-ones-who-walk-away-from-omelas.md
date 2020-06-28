@@ -13,6 +13,7 @@ book:
   pages: 32
   publication_year: '1973'
   slug: the-ones-who-walk-away-from-omelas
+  spine_color: '#b87e6c'
   tags:
   - scifi
   title: The Ones Who Walk Away from Omelas

@@ -13,6 +13,7 @@ book:
   pages: 311
   publication_year: '1966'
   slug: flowers-for-algernon
+  spine_color: '#c69f5b'
   title: Flowers for Algernon
 plan:
   date_added: '2017-11-15'

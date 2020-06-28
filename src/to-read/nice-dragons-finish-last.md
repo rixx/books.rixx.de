@@ -9,6 +9,7 @@ book:
   series: Heartstrikers
   series_position: '1'
   slug: nice-dragons-finish-last
+  spine_color: '#695d52'
   title: Nice Dragons Finish Last
 plan:
   date_added: '2018-09-15'

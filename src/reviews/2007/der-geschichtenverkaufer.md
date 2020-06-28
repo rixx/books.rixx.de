@@ -9,6 +9,7 @@ book:
   pages: '272'
   publication_year: '2000'
   slug: der-geschichtenverkaufer
+  spine_color: '#d8b1a4'
   tags:
   - german
   title: Der Geschichtenverkäufer

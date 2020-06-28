@@ -15,6 +15,7 @@ book:
   series: Sams
   series_position: '1'
   slug: eine-woche-voller-samstage
+  spine_color: '#ae7e52'
   tags:
   - german
   - kids

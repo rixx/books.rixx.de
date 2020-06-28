@@ -13,6 +13,7 @@ book:
   pages: 95
   publication_year: '1906'
   slug: the-diaries-of-adam-and-eve
+  spine_color: '#fbefd5'
   tags:
   - historical-fiction
   title: The Diaries of Adam and Eve

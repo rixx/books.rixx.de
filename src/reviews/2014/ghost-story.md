@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '13'
   slug: ghost-story
+  spine_color: '#a29591'
   tags:
   - urban-fantasy
   title: Ghost Story

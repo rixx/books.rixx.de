@@ -15,6 +15,7 @@ book:
   series: The Shadow
   series_position: '1'
   slug: wake-of-vultures
+  spine_color: '#593c3f'
   title: Wake of Vultures
 plan:
   date_added: '2016-06-08'

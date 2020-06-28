@@ -15,6 +15,7 @@ book:
   series: The Tamír Triad
   series_position: '1'
   slug: the-bone-dolls-twin
+  spine_color: '#d6c0a7'
   title: The Bone Doll's Twin
 plan:
   date_added: '2018-09-15'

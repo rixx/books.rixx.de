@@ -7,6 +7,7 @@ book:
   pages: '5'
   publication_year: '2010'
   slug: sweetheart
+  spine_color: '#957d5f'
   tags:
   - scifi
   title: Sweetheart

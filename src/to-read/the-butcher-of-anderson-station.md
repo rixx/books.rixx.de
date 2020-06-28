@@ -9,6 +9,7 @@ book:
   series: The Expanse
   series_position: '1.5'
   slug: the-butcher-of-anderson-station
+  spine_color: '#b85938'
   title: The Butcher of Anderson Station
 plan:
   date_added: '2020-02-11'

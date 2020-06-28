@@ -15,6 +15,7 @@ book:
   series: The Daevabad Trilogy
   series_position: '1'
   slug: the-city-of-brass
+  spine_color: '#d5a242'
   title: The City of Brass
 plan:
   date_added: '2018-08-27'

@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '6'
   slug: the-vor-game
+  spine_color: '#73595b'
   tags:
   - scifi
   title: The Vor Game

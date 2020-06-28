@@ -11,6 +11,7 @@ book:
   series: Die Verratenen
   series_position: '2'
   slug: die-verschworenen
+  spine_color: '#787674'
   tags:
   - german
   - scifi

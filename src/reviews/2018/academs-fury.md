@@ -15,6 +15,7 @@ book:
   series: Codex Alera
   series_position: '2'
   slug: academs-fury
+  spine_color: '#b18142'
   tags:
   - fantasy
   title: Academ's Fury

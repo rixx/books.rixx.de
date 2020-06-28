@@ -11,6 +11,7 @@ book:
   series: The Company Wars
   series_position: '1'
   slug: downbelow-station
+  spine_color: '#403b49'
   title: Downbelow Station
 plan:
   date_added: '2018-08-28'

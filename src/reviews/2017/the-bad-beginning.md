@@ -13,6 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '1'
   slug: the-bad-beginning
+  spine_color: '#dfc08f'
   tags:
   - ya
   title: The Bad Beginning

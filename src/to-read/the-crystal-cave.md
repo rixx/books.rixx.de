@@ -15,6 +15,7 @@ book:
   series: Arthurian Saga
   series_position: '1'
   slug: the-crystal-cave
+  spine_color: '#cfb761'
   title: The Crystal Cave
 plan:
   date_added: '2018-10-12'

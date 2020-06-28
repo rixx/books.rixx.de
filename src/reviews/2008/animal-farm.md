@@ -13,6 +13,7 @@ book:
   pages: 122
   publication_year: '1945'
   slug: animal-farm
+  spine_color: '#f1eedc'
   title: Animal Farm
 plan:
   date_added: '2015-04-08'

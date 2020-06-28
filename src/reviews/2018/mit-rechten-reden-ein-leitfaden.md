@@ -6,6 +6,7 @@ book:
   goodreads: '36410682'
   publication_year: null
   slug: mit-rechten-reden-ein-leitfaden
+  spine_color: '#e97b0b'
   tags:
   - german
   - nonfiction

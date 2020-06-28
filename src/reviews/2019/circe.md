@@ -9,6 +9,7 @@ book:
   pages: '393'
   publication_year: '2018'
   slug: circe
+  spine_color: '#dd833a'
   tags:
   - myths-legends
   title: Circe

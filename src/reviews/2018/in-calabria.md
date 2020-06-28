@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '2017'
   slug: in-calabria
+  spine_color: '#c9ac6b'
   tags:
   - fantasy
   title: In Calabria

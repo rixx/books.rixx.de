@@ -9,6 +9,7 @@ book:
   series: Laundry Files
   series_position: '2.5'
   slug: down-on-the-farm
+  spine_color: '#b6a573'
   tags:
   - urban-fantasy
   title: Down on the Farm

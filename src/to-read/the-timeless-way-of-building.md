@@ -13,6 +13,7 @@ book:
   pages: 552
   publication_year: '1978'
   slug: the-timeless-way-of-building
+  spine_color: '#e2c992'
   title: The Timeless Way of Building
 plan:
   date_added: '2018-07-02'

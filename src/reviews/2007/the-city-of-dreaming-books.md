@@ -15,6 +15,7 @@ book:
   series: Zamonen
   series_position: '4'
   slug: the-city-of-dreaming-books
+  spine_color: '#b0d2ed'
   tags:
   - fantasy
   - german

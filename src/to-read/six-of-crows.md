@@ -15,6 +15,7 @@ book:
   series: Six of Crows
   series_position: '1'
   slug: six-of-crows
+  spine_color: '#64717b'
   title: Six of Crows
 plan:
   date_added: '2018-07-04'

@@ -15,6 +15,7 @@ book:
   series: Stravaganza
   series_position: '1'
   slug: city-of-masks
+  spine_color: '#6d6596'
   tags:
   - fantasy
   - ya

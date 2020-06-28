@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '3'
   slug: grave-peril
+  spine_color: '#d6b688'
   tags:
   - urban-fantasy
   title: Grave Peril

@@ -11,6 +11,7 @@ book:
   series: Spires
   series_position: '2'
   slug: waiting-for-the-flood
+  spine_color: '#cbc0aa'
   title: Waiting for the Flood
 plan:
   date_added: '2018-09-29'

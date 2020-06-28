@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '2012'
   slug: escape-from-baghdad
+  spine_color: '#65232d'
   tags:
   - historical-fiction
   - urban-fantasy

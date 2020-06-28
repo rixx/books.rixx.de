@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '1'
   slug: saving-connor
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: Saving Connor

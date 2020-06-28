@@ -15,6 +15,7 @@ book:
   series: Chrestomanci
   series_position: '2'
   slug: the-lives-of-christopher-chant
+  spine_color: '#7d5b49'
   tags:
   - fantasy
   - german

@@ -13,6 +13,7 @@ book:
   pages: 272
   publication_year: '1894'
   slug: effi-briest
+  spine_color: '#f0e99d'
   tags:
   - german
   title: Effi Briest

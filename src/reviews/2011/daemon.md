@@ -15,6 +15,7 @@ book:
   series: Daemon
   series_position: '1'
   slug: daemon
+  spine_color: '#7eb1c3'
   tags:
   - scifi
   title: Daemon

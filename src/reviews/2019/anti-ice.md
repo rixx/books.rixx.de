@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '1993'
   slug: anti-ice
+  spine_color: '#ad841e'
   tags:
   - scifi
   title: Anti-Ice

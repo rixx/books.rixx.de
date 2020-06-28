@@ -15,6 +15,7 @@ book:
   series: Rivers of London
   series_position: '2'
   slug: moon-over-soho
+  spine_color: '#7b85ae'
   tags:
   - urban-fantasy
   title: Moon Over Soho

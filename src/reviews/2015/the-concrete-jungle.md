@@ -9,6 +9,7 @@ book:
   series: Laundry Files
   series_position: '1.5'
   slug: the-concrete-jungle
+  spine_color: '#858a49'
   tags:
   - urban-fantasy
   title: The Concrete Jungle

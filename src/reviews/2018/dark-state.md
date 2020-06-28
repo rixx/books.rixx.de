@@ -15,6 +15,7 @@ book:
   series: Empire Games
   series_position: '2'
   slug: dark-state
+  spine_color: '#ed0a0c'
   tags:
   - scifi
   title: Dark State

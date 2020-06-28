@@ -15,6 +15,7 @@ book:
   series: Book of the Ancestor
   series_position: '1'
   slug: red-sister
+  spine_color: '#977e69'
   tags:
   - fantasy
   title: Red Sister

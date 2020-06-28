@@ -13,6 +13,7 @@ book:
   pages: 214
   publication_year: '1999'
   slug: voices-the-educational-formation-of-conscience
+  spine_color: '#a7c6af'
   title: 'Voices: The Educational Formation Of Conscience'
 plan:
   date_added: 2020-05-25

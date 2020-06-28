@@ -11,9 +11,10 @@ book:
   series: Jump 225
   series_position: '1'
   slug: infoquake
-  title: Infoquake
+  spine_color: '#166382'
   tags:
   - scifi
+  title: Infoquake
 plan:
   date_added: '2015-04-09'
 review:

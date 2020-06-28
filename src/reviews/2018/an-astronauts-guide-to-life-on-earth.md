@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '2013'
   slug: an-astronauts-guide-to-life-on-earth
+  spine_color: '#4f627c'
   tags:
   - nonfiction
   - personal-development

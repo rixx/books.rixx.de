@@ -9,6 +9,7 @@ book:
   series: Sevenwaters
   series_position: '1'
   slug: daughter-of-the-forest
+  spine_color: '#70221a'
   title: Daughter of the Forest
 plan:
   date_added: '2018-09-28'

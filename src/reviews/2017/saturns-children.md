@@ -15,6 +15,7 @@ book:
   series: Freyaverse
   series_position: '1'
   slug: saturns-children
+  spine_color: '#4c3f5d'
   tags:
   - scifi
   title: Saturn's Children

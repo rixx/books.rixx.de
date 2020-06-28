@@ -11,6 +11,7 @@ book:
   pages: 174
   publication_year: '1954'
   slug: mission-of-gravity
+  spine_color: '#cb7f3e'
   title: Mission of Gravity
 plan:
   date_added: '2018-02-19'

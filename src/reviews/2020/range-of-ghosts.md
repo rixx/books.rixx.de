@@ -15,6 +15,7 @@ book:
   series: Eternal Sky
   series_position: '1'
   slug: range-of-ghosts
+  spine_color: '#414360'
   tags:
   - fantasy
   title: Range of Ghosts

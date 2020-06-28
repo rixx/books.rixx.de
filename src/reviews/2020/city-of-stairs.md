@@ -15,6 +15,7 @@ book:
   series: The Divine Cities
   series_position: '1'
   slug: city-of-stairs
+  spine_color: '#717780'
   tags:
   - fantasy
   title: City of Stairs

@@ -13,6 +13,7 @@ book:
   pages: 120
   publication_year: '1947'
   slug: draussen-vor-der-tur
+  spine_color: '#848d9b'
   tags:
   - german
   title: Draußen vor der Tür

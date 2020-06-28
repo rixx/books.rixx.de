@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2015'
   slug: the-library-at-mount-char
+  spine_color: '#cfb694'
   tags:
   - fantasy
   title: The Library at Mount Char

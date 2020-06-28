@@ -9,6 +9,7 @@ book:
   pages: '80'
   publication_year: '1877'
   slug: una-aventura-de-villon
+  spine_color: '#a6341f'
   tags:
   - historical-fiction
   title: Una aventura de Villón

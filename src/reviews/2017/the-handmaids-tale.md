@@ -7,6 +7,7 @@ book:
   pages: '314'
   publication_year: '1985'
   slug: the-handmaids-tale
+  spine_color: '#c09b5b'
   tags:
   - scifi
   title: The Handmaid's Tale

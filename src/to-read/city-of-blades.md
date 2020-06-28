@@ -11,6 +11,7 @@ book:
   series: The Divine Cities
   series_position: '2'
   slug: city-of-blades
+  spine_color: '#949075'
   title: City of Blades
 plan:
   date_added: '2020-05-07'

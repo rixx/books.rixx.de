@@ -9,6 +9,7 @@ book:
   series: The Murderbot Diaries
   series_position: '4'
   slug: exit-strategy
+  spine_color: '#9e9993'
   tags:
   - scifi
   title: Exit Strategy

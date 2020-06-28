@@ -15,6 +15,7 @@ book:
   series: Miss Marple
   series_position: '4'
   slug: a-murder-is-announced
+  spine_color: '#f2ad23'
   tags:
   - mystery
   title: A Murder Is Announced

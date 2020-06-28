@@ -9,6 +9,7 @@ book:
   pages: '386'
   publication_year: '1977'
   slug: the-silmarillion
+  spine_color: '#90b3d7'
   tags:
   - fantasy
   - german

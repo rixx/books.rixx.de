@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '18'
   slug: maskerade
+  spine_color: '#c79a5d'
   title: Maskerade
 plan:
   date_added: '2015-04-08'

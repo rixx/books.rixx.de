@@ -15,6 +15,7 @@ book:
   series: Deverry
   series_position: '1'
   slug: daggerspell
+  spine_color: '#edd083'
   title: Daggerspell
 plan:
   date_added: '2018-09-28'

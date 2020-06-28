@@ -9,6 +9,7 @@ book:
   series: The Paternus Trilogy
   series_position: '1'
   slug: paternus-rise-of-gods
+  spine_color: '#bfc8b4'
   title: 'Paternus: Rise of Gods'
 plan:
   date_added: '2018-09-21'

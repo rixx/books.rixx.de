@@ -9,6 +9,7 @@ book:
   series: Rivers of London
   series_position: '1.5'
   slug: the-home-crowd-advantage
+  spine_color: '#e9d6b3'
   tags:
   - urban-fantasy
   title: The Home Crowd Advantage

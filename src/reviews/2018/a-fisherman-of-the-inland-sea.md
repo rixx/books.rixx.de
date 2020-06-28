@@ -13,6 +13,7 @@ book:
   pages: 224
   publication_year: '1994'
   slug: a-fisherman-of-the-inland-sea
+  spine_color: '#5c383b'
   tags:
   - fantasy
   title: A Fisherman of the Inland Sea

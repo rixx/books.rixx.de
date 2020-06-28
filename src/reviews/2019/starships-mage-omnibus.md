@@ -8,6 +8,7 @@ book:
   series: Starship's Mage
   series_position: '1'
   slug: starships-mage-omnibus
+  spine_color: '#314958'
   tags:
   - fantasy
   - scifi

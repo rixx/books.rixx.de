@@ -13,6 +13,7 @@ book:
   pages: 200
   publication_year: '2018'
   slug: forge-your-future-with-open-source
+  spine_color: '#a4918b'
   tags:
   - nonfiction
   - tech

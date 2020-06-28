@@ -15,6 +15,7 @@ book:
   series: The Merchant Princes
   series_position: '2'
   slug: the-hidden-family
+  spine_color: '#6cb7d0'
   tags:
   - scifi
   title: The Hidden Family

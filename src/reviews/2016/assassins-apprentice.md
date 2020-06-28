@@ -15,6 +15,7 @@ book:
   series: Farseer Trilogy
   series_position: '1'
   slug: assassins-apprentice
+  spine_color: '#808978'
   tags:
   - fantasy
   title: Assassin's Apprentice

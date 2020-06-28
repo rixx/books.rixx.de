@@ -11,6 +11,7 @@ book:
   series: Red Rising Saga
   series_position: '1'
   slug: red-rising
+  spine_color: '#921619'
   tags:
   - ya
   title: Red Rising

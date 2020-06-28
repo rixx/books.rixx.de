@@ -15,6 +15,7 @@ book:
   series: Dark Reflections
   series_position: '3'
   slug: the-glass-word
+  spine_color: '#a38c38'
   tags:
   - fantasy
   - german

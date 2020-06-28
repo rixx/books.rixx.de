@@ -13,6 +13,7 @@ book:
   pages: 287
   publication_year: '2012'
   slug: daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead
+  spine_color: '#52bdd0'
   tags:
   - nonfiction
   - personal-development

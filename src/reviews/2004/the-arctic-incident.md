@@ -15,6 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '2'
   slug: the-arctic-incident
+  spine_color: '#6b7075'
   tags:
   - fantasy
   - german

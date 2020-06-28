@@ -15,6 +15,7 @@ book:
   series: Blade Runner
   series_position: '1'
   slug: do-androids-dream-of-electric-sheep
+  spine_color: '#9c9c95'
   tags:
   - scifi
   title: Do Androids Dream of Electric Sheep?

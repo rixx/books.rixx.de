@@ -15,6 +15,7 @@ book:
   series: The Dark Tower
   series_position: '3'
   slug: the-waste-lands
+  spine_color: '#7e6d7c'
   tags:
   - fantasy
   title: The Waste Lands

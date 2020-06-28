@@ -10,6 +10,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '6'
   slug: strong-poison
+  spine_color: '#f3dab6'
   tags:
   - mystery
   title: Strong Poison

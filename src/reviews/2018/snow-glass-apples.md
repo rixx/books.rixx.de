@@ -7,6 +7,7 @@ book:
   pages: '25'
   publication_year: '1995'
   slug: snow-glass-apples
+  spine_color: '#d0b7b6'
   tags:
   - fantasy
   title: Snow, Glass, Apples

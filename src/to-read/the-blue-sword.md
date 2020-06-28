@@ -15,6 +15,7 @@ book:
   series: Damar
   series_position: '1'
   slug: the-blue-sword
+  spine_color: '#a44c21'
   title: The Blue Sword
 plan:
   date_added: '2016-10-05'

@@ -8,6 +8,7 @@ book:
   isbn13: '9780441732968'
   publication_year: '1966'
   slug: rocannons-world
+  spine_color: '#a14234'
   tags:
   - scifi
   title: Rocannon's World

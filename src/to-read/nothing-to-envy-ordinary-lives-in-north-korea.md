@@ -13,6 +13,7 @@ book:
   pages: 316
   publication_year: '2009'
   slug: nothing-to-envy-ordinary-lives-in-north-korea
+  spine_color: '#404042'
   title: 'Nothing to Envy: Ordinary Lives in North Korea'
 plan:
   date_added: '2016-05-19'

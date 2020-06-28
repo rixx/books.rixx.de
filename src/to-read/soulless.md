@@ -11,6 +11,7 @@ book:
   series: Parasol Protectorate
   series_position: '1'
   slug: soulless
+  spine_color: '#805e68'
   title: Soulless
 plan:
   date_added: '2018-08-27'

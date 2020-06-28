@@ -6,6 +6,7 @@ book:
   goodreads: '11397051'
   publication_year: '2009'
   slug: die-weimarer-republik
+  spine_color: '#921417'
   tags:
   - german
   - history

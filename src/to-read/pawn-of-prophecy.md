@@ -15,6 +15,7 @@ book:
   series: The Belgariad
   series_position: '1'
   slug: pawn-of-prophecy
+  spine_color: '#d1a258'
   title: Pawn of Prophecy
 plan:
   date_added: '2016-10-05'

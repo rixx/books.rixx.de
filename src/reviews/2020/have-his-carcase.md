@@ -9,6 +9,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '8'
   slug: have-his-carcase
+  spine_color: '#70a8a7'
   tags:
   - mystery
   title: Have His Carcase

@@ -8,6 +8,7 @@ book:
   isbn13: '9783407788023'
   publication_year: '1995'
   slug: der-erste-fruhling
+  spine_color: '#bdc6a0'
   tags:
   - german
   - historical-fiction

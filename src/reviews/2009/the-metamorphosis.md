@@ -7,6 +7,7 @@ book:
   pages: '201'
   publication_year: '1915'
   slug: the-metamorphosis
+  spine_color: '#e2ca92'
   tags:
   - german
   title: The Metamorphosis

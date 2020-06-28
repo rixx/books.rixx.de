@@ -11,6 +11,7 @@ book:
   series: Malazan Book of the Fallen
   series_position: '1'
   slug: gardens-of-the-moon
+  spine_color: '#446457'
   tags:
   - fantasy
   title: Gardens of the Moon

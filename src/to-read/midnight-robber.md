@@ -13,6 +13,7 @@ book:
   pages: 329
   publication_year: '2000'
   slug: midnight-robber
+  spine_color: '#c8bc8e'
   title: Midnight Robber
 plan:
   date_added: '2018-08-28'

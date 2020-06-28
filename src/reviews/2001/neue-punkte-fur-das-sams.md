@@ -15,6 +15,7 @@ book:
   series: Sams
   series_position: '3'
   slug: neue-punkte-fur-das-sams
+  spine_color: '#9ea73a'
   tags:
   - german
   - kids

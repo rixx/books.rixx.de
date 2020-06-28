@@ -11,6 +11,7 @@ book:
   series: Illuminatus
   series_position: '1'
   slug: the-eye-in-the-pyramid
+  spine_color: '#daa038'
   title: The Eye in the Pyramid
 plan:
   date_added: '2018-10-16'

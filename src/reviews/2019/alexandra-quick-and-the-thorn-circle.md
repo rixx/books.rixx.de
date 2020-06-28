@@ -9,6 +9,7 @@ book:
   series: Alexandra Quick
   series_position: '1'
   slug: alexandra-quick-and-the-thorn-circle
+  spine_color: '#8ea27c'
   tags:
   - fanfic
   title: Alexandra Quick and the Thorn Circle

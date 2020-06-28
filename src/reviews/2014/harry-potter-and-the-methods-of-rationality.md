@@ -7,6 +7,7 @@ book:
   pages: '2184'
   publication_year: '2015'
   slug: harry-potter-and-the-methods-of-rationality
+  spine_color: '#c8bcac'
   tags:
   - fanfic
   - fantasy

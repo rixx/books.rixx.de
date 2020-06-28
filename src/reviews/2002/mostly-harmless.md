@@ -15,6 +15,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '5'
   slug: mostly-harmless
+  spine_color: '#9eaf8a'
   tags:
   - german
   - scifi

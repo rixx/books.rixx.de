@@ -15,6 +15,7 @@ book:
   series: Jim Knopf
   series_position: '1'
   slug: jim-knopf-und-lukas-der-lokomotivfuhrer
+  spine_color: '#c4a243'
   tags:
   - german
   - kids

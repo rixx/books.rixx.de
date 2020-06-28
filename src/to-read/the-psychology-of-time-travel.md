@@ -9,6 +9,7 @@ book:
   pages: '336'
   publication_year: '2018'
   slug: the-psychology-of-time-travel
+  spine_color: '#8c9474'
   title: The Psychology of Time Travel
 plan:
   date_added: '2019-03-09'

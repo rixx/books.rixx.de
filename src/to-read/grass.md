@@ -11,6 +11,7 @@ book:
   series: Arbai
   series_position: '1'
   slug: grass
+  spine_color: '#c0c4b9'
   title: Grass
 plan:
   date_added: '2019-01-28'

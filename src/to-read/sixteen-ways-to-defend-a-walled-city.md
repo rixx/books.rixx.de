@@ -13,6 +13,7 @@ book:
   pages: 384
   publication_year: '2019'
   slug: sixteen-ways-to-defend-a-walled-city
+  spine_color: '#d2ccad'
   title: Sixteen Ways to Defend a Walled City
 plan:
   date_added: '2020-05-07'

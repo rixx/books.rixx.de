@@ -7,6 +7,7 @@ book:
   pages: '160'
   publication_year: '1931'
   slug: der-35-mai-oder-konrad-reitet-in-die-sudsee
+  spine_color: '#f5e313'
   tags:
   - german
   - kids

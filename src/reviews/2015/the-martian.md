@@ -9,6 +9,7 @@ book:
   pages: '369'
   publication_year: '2012'
   slug: the-martian
+  spine_color: '#e0954a'
   tags:
   - scifi
   title: The Martian

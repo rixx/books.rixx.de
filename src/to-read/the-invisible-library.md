@@ -9,6 +9,7 @@ book:
   series: The Invisible Library
   series_position: '1'
   slug: the-invisible-library
+  spine_color: '#b7a12f'
   title: The Invisible Library
 plan:
   date_added: '2019-03-09'

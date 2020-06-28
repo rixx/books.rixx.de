@@ -15,6 +15,7 @@ book:
   series: Sorcerer Royal
   series_position: '1'
   slug: sorcerer-to-the-crown
+  spine_color: '#8d2422'
   tags:
   - fantasy
   title: Sorcerer to the Crown

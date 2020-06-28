@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '10'
   slug: murder-must-advertise
+  spine_color: '#594e61'
   tags:
   - german
   - mystery

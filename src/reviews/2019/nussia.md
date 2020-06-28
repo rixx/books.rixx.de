@@ -7,6 +7,7 @@ book:
   isbn13: '9781942302735'
   publication_year: '2018'
   slug: nussia
+  spine_color: '#beafae'
   tags:
   - scifi
   title: Nussia

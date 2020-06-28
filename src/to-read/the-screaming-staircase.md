@@ -11,6 +11,7 @@ book:
   series: Lockwood & Co.
   series_position: '1'
   slug: the-screaming-staircase
+  spine_color: '#376c8e'
   title: The Screaming Staircase
 plan:
   date_added: '2017-11-21'

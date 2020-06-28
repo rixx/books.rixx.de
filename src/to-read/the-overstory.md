@@ -13,6 +13,7 @@ book:
   pages: 502
   publication_year: '2018'
   slug: the-overstory
+  spine_color: '#8e6124'
   title: The Overstory
 plan:
   date_added: '2019-02-04'

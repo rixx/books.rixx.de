@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '7'
   slug: pyramids
+  spine_color: '#57bbb4'
   title: Pyramids
 plan:
   date_added: '2015-04-08'

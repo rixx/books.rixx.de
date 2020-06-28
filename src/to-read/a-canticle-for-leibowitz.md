@@ -15,6 +15,7 @@ book:
   series: St. Leibowitz
   series_position: '1'
   slug: a-canticle-for-leibowitz
+  spine_color: '#e3be36'
   title: A Canticle for Leibowitz
 plan:
   date_added: '2018-09-25'

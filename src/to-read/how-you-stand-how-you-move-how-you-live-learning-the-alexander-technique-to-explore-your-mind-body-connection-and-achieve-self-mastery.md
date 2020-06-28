@@ -13,6 +13,7 @@ book:
   pages: 336
   publication_year: '2007'
   slug: how-you-stand-how-you-move-how-you-live-learning-the-alexander-technique-to-explore-your-mind-body-connection-and-achieve-self-mastery
+  spine_color: '#dbd3bf'
   title: 'How You Stand, How You Move, How You Live: Learning the Alexander Technique
     to Explore Your Mind-Body Connection and Achieve Self-Mastery'
 plan:

@@ -11,6 +11,7 @@ book:
   pages: 202
   publication_year: '1950'
   slug: night-of-the-jabberwock
+  spine_color: '#175876'
   title: Night of the Jabberwock
 plan:
   date_added: '2018-09-12'

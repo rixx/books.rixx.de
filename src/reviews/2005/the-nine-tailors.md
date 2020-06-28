@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '11'
   slug: the-nine-tailors
+  spine_color: '#848b7b'
   tags:
   - german
   - mystery

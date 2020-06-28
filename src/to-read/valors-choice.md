@@ -15,6 +15,7 @@ book:
   series: Confederation
   series_position: '1'
   slug: valors-choice
+  spine_color: '#da865a'
   title: Valor's Choice
 plan:
   date_added: '2018-10-07'

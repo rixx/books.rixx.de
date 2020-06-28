@@ -13,6 +13,7 @@ book:
   pages: 200
   publication_year: '2013'
   slug: two-boys-kissing
+  spine_color: '#3d5b64'
   title: Two Boys Kissing
 plan:
   date_added: '2019-01-23'

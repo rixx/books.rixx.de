@@ -13,6 +13,7 @@ book:
   pages: 469
   publication_year: '1992'
   slug: smillas-sense-of-snow
+  spine_color: '#867f7c'
   tags:
   - german
   title: Smilla's Sense of Snow

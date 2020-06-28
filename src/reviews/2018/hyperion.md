@@ -15,6 +15,7 @@ book:
   series: Hyperion Cantos
   series_position: '1'
   slug: hyperion
+  spine_color: '#7b634a'
   tags:
   - scifi
   - space-monks

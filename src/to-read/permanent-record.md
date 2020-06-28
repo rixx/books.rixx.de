@@ -13,6 +13,7 @@ book:
   pages: 352
   publication_year: '2019'
   slug: permanent-record
+  spine_color: '#8c8c89'
   title: Permanent Record
 plan:
   date_added: '2020-01-02'

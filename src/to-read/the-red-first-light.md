@@ -15,6 +15,7 @@ book:
   series: The Red
   series_position: '1'
   slug: the-red-first-light
+  spine_color: '#b83935'
   title: 'The Red: First Light'
 plan:
   date_added: '2018-07-12'

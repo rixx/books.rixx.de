@@ -13,6 +13,7 @@ book:
   pages: 124
   publication_year: '2017'
   slug: prime-meridian
+  spine_color: '#875e65'
   title: Prime Meridian
 plan:
   date_added: '2019-03-09'

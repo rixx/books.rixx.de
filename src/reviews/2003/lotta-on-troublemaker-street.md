@@ -13,6 +13,7 @@ book:
   pages: 55
   publication_year: '1958'
   slug: lotta-on-troublemaker-street
+  spine_color: '#f6c517'
   tags:
   - german
   - kids

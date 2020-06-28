@@ -13,6 +13,7 @@ book:
   series: Young Wizards
   series_position: '5'
   slug: the-wizards-dilemma
+  spine_color: '#6589b0'
   tags:
   - fantasy
   - urban-fantasy

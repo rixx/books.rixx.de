@@ -15,6 +15,7 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2'
   slug: the-wise-mans-fear
+  spine_color: '#4d614f'
   tags:
   - fantasy
   title: The Wise Man's Fear

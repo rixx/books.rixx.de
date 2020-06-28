@@ -9,6 +9,7 @@ book:
   series: Lady Astronaut
   series_position: '1'
   slug: the-calculating-stars
+  spine_color: '#80bbd5'
   tags:
   - scifi
   title: The Calculating Stars

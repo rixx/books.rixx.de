@@ -15,6 +15,7 @@ book:
   series: Bobby Dollar
   series_position: '1'
   slug: the-dirty-streets-of-heaven
+  spine_color: '#a19c8b'
   tags:
   - fantasy
   title: The Dirty Streets of Heaven

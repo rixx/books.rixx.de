@@ -13,6 +13,7 @@ book:
   pages: 568
   publication_year: '2017'
   slug: energy-and-civilization-a-history
+  spine_color: '#bcc4a8'
   title: 'Energy and Civilization: A History'
 plan:
   date_added: '2018-08-07'

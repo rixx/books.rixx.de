@@ -13,6 +13,7 @@ book:
   pages: 357
   publication_year: '2002'
   slug: i-am-the-messenger
+  spine_color: '#d4b96c'
   tags:
   - german
   title: I Am the Messenger

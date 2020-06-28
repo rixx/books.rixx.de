@@ -11,6 +11,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '3'
   slug: die-hohle-in-den-schwarzen-bergen
+  spine_color: '#778111'
   tags:
   - german
   - historical-fiction

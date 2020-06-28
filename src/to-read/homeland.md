@@ -15,6 +15,7 @@ book:
   series: 'Forgotten Realms: The Dark Elf Trilogy'
   series_position: '1; Legend of Drizzt, #1'
   slug: homeland
+  spine_color: '#1d1135'
   title: Homeland
 plan:
   date_added: '2018-09-15'

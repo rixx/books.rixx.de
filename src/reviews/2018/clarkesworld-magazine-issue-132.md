@@ -9,6 +9,7 @@ book:
   series: Clarkesworld Magazine
   series_position: '132'
   slug: clarkesworld-magazine-issue-132
+  spine_color: '#d6a57b'
   tags:
   - scifi
   title: Clarkesworld Magazine, Issue 132

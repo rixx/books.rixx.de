@@ -15,6 +15,7 @@ book:
   series: The Dark Tower
   series_position: '5'
   slug: wolves-of-the-calla
+  spine_color: '#9f7d43'
   tags:
   - fantasy
   title: Wolves of the Calla

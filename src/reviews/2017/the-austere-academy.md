@@ -15,6 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '5'
   slug: the-austere-academy
+  spine_color: '#f1d78a'
   tags:
   - ya
   title: The Austere Academy

@@ -9,6 +9,7 @@ book:
   pages: '509'
   publication_year: '2004'
   slug: der-herr-der-unruhe
+  spine_color: '#a79136'
   tags:
   - fantasy
   - german

@@ -13,6 +13,7 @@ book:
   pages: 289
   publication_year: '2004'
   slug: camouflage
+  spine_color: '#138bc4'
   title: Camouflage
 plan:
   date_added: '2015-08-04'

@@ -13,6 +13,7 @@ book:
   pages: 210
   publication_year: '1902'
   slug: just-so-stories
+  spine_color: '#f0d415'
   title: Just So Stories
 plan:
   date_added: '2016-05-19'

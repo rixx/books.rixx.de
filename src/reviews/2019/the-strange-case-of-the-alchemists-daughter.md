@@ -11,6 +11,7 @@ book:
   series: The Extraordinary Adventures of the Athena Club
   series_position: '1'
   slug: the-strange-case-of-the-alchemists-daughter
+  spine_color: '#d5cfb9'
   tags:
   - fantasy
   - ya

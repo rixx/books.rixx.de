@@ -11,6 +11,7 @@ book:
   series: The Saga of Seven Suns
   series_position: '1'
   slug: hidden-empire
+  spine_color: '#ba8037'
   tags:
   - scifi
   - fantasy

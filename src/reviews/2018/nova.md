@@ -13,6 +13,7 @@ book:
   pages: 241
   publication_year: '1968'
   slug: nova
+  spine_color: '#8f5e54'
   tags:
   - scifi
   title: Nova

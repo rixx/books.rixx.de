@@ -9,6 +9,7 @@ book:
   series: Discworld
   series_position: '10.5'
   slug: death-and-what-comes-next
+  spine_color: '#c27854'
   title: Death and What Comes Next
 plan:
   date_added: '2016-06-08'

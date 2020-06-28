@@ -15,6 +15,7 @@ book:
   series: Shattered Sigil
   series_position: '1'
   slug: the-whitefire-crossing
+  spine_color: '#9491a4'
   title: The Whitefire Crossing
 plan:
   date_added: '2018-09-15'

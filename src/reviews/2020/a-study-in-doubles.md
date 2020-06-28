@@ -9,6 +9,7 @@ book:
   series: Tennis
   series_position: '2'
   slug: a-study-in-doubles
+  spine_color: '#a38062'
   tags:
   - fanfic
   title: A Study in Doubles

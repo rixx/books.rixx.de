@@ -7,6 +7,7 @@ book:
   pages: '283'
   publication_year: '1947'
   slug: the-diary-of-a-young-girl
+  spine_color: '#490e11'
   tags:
   - german
   - nonfiction

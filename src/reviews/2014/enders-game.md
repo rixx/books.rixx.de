@@ -15,6 +15,7 @@ book:
   series: Ender’s Saga
   series_position: '1'
   slug: enders-game
+  spine_color: '#4c5559'
   tags:
   - scifi
   title: Ender’s Game

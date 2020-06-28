@@ -13,6 +13,7 @@ book:
   pages: 124
   publication_year: '1845'
   slug: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks
+  spine_color: '#8d8479'
   tags:
   - german
   - kids

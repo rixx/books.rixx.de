@@ -9,6 +9,7 @@ book:
   pages: '261'
   publication_year: '1977'
   slug: paper-money
+  spine_color: '#634b47'
   tags:
   - mystery
   title: Paper Money

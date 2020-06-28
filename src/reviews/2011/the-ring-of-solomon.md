@@ -11,6 +11,7 @@ book:
   series: Bartimaeus
   series_position: '0.5'
   slug: the-ring-of-solomon
+  spine_color: '#c94722'
   tags:
   - fantasy
   - ya

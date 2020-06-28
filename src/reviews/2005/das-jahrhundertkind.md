@@ -11,6 +11,7 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '1'
   slug: das-jahrhundertkind
+  spine_color: '#a86047'
   tags:
   - fantasy
   - german

@@ -9,6 +9,7 @@ book:
   series: Saga of Pliocene Exile
   series_position: '1'
   slug: the-many-coloured-land
+  spine_color: '#8b999e'
   title: The Many-Coloured Land
 plan:
   date_added: '2018-10-05'

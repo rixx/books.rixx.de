@@ -9,6 +9,7 @@ book:
   series: Cradle
   series_position: '2'
   slug: soulsmith
+  spine_color: '#3e5a82'
   title: Soulsmith
 plan:
   date_added: '2020-04-30'

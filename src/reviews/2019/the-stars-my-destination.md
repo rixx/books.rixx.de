@@ -13,6 +13,7 @@ book:
   pages: 258
   publication_year: '1955'
   slug: the-stars-my-destination
+  spine_color: '#a86a23'
   tags:
   - scifi
   title: The Stars My Destination

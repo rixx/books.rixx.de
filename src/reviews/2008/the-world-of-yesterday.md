@@ -13,6 +13,7 @@ book:
   pages: 461
   publication_year: '1941'
   slug: the-world-of-yesterday
+  spine_color: '#f7edaf'
   tags:
   - german
   - historical-fiction

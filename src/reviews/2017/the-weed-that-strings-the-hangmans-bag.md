@@ -15,6 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '2'
   slug: the-weed-that-strings-the-hangmans-bag
+  spine_color: '#937bb2'
   tags: []
   title: The Weed That Strings the Hangman's Bag
 plan:

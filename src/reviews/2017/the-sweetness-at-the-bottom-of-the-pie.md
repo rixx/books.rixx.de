@@ -15,6 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '1'
   slug: the-sweetness-at-the-bottom-of-the-pie
+  spine_color: '#b3cf62'
   tags: []
   title: The Sweetness at the Bottom of the Pie
 plan:

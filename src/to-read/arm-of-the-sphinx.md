@@ -11,6 +11,7 @@ book:
   series: The Books of Babel
   series_position: '2'
   slug: arm-of-the-sphinx
+  spine_color: '#ebe1d2'
   title: Arm of the Sphinx
 plan:
   date_added: '2019-07-07'

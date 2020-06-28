@@ -9,6 +9,7 @@ book:
   series: Like None Other
   series_position: '2'
   slug: a-summer-like-none-other
+  spine_color: '#927c62'
   tags:
   - fanfic
   title: A Summer Like None Other

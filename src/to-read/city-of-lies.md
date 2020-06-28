@@ -9,6 +9,7 @@ book:
   series: Poison Wars
   series_position: '1'
   slug: city-of-lies
+  spine_color: '#a29c94'
   title: City of Lies
 plan:
   date_added: '2018-10-02'

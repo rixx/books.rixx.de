@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '2012'
   slug: the-emperors-soul
+  spine_color: '#8e7260'
   tags:
   - fantasy
   title: The Emperor's Soul

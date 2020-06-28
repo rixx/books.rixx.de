@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '9.1'
   slug: dreamweavers-dilemma
+  spine_color: '#cbb276'
   tags:
   - scifi
   title: Dreamweaver's Dilemma

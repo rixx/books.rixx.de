@@ -9,6 +9,7 @@ book:
   pages: '278'
   publication_year: '1971'
   slug: driftglass
+  spine_color: '#f8efb8'
   tags:
   - scifi
   title: Driftglass

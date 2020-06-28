@@ -9,8 +9,10 @@ book:
   pages: '352'
   publication_year: '2018'
   slug: confessions-of-the-fox
+  spine_color: '#1c2032'
   title: Confessions of the Fox
 plan:
   date_added: 2020-06-07
 ---
+
 via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)

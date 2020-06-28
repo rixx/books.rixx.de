@@ -8,6 +8,7 @@ book:
   isbn13: '9783522106207'
   publication_year: '1956'
   slug: der-kleine-wassermann
+  spine_color: '#5f9161'
   tags:
   - german
   - kids

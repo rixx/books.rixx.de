@@ -11,6 +11,7 @@ book:
   series: Hotzenplotz
   series_position: '2'
   slug: neues-vom-rauber-hotzenplotz
+  spine_color: '#f3d312'
   tags:
   - german
   - kids

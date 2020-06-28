@@ -11,6 +11,7 @@ book:
   series: Percy Jackson and the Olympians
   series_position: '1'
   slug: the-lightning-thief
+  spine_color: '#134642'
   tags:
   - fantasy
   - myths-legends

@@ -15,6 +15,7 @@ book:
   series: The Raven Cycle
   series_position: '1'
   slug: the-raven-boys
+  spine_color: '#8c777c'
   title: The Raven Boys
 plan:
   date_added: '2018-09-15'

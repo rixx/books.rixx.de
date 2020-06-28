@@ -7,6 +7,7 @@ book:
   pages: '20'
   publication_year: '1974'
   slug: the-day-before-the-revolution
+  spine_color: '#fbfbfb'
   tags:
   - scifi
   title: The Day Before the Revolution

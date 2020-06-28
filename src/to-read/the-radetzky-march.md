@@ -13,6 +13,7 @@ book:
   pages: 363
   publication_year: '1932'
   slug: the-radetzky-march
+  spine_color: '#d64d29'
   title: The Radetzky March
 plan:
   date_added: '2015-04-08'

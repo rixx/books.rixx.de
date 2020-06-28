@@ -15,6 +15,7 @@ book:
   series: The Dark is Rising
   series_position: '1'
   slug: over-sea-under-stone
+  spine_color: '#b7a479'
   title: Over Sea, Under Stone
 plan:
   date_added: '2018-09-15'

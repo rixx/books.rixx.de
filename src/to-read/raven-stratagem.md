@@ -15,6 +15,7 @@ book:
   series: The Machineries of Empire
   series_position: '2'
   slug: raven-stratagem
+  spine_color: '#d7c48a'
   title: Raven Stratagem
 plan:
   date_added: '2019-03-31'

@@ -9,6 +9,7 @@ book:
   pages: '159'
   publication_year: '1888'
   slug: der-schimmelreiter
+  spine_color: '#eedd1c'
   tags:
   - german
   title: Der Schimmelreiter

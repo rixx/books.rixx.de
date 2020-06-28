@@ -9,6 +9,7 @@ book:
   pages: '176'
   publication_year: '2012'
   slug: saga-vol-1
+  spine_color: '#a78d6c'
   title: Saga, Vol. 1
 plan:
   date_added: '2019-02-16'

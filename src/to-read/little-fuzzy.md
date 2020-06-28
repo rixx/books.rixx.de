@@ -10,6 +10,7 @@ book:
   series: Fuzzy Sapiens
   series_position: '1'
   slug: little-fuzzy
+  spine_color: '#a7cdd0'
   title: Little Fuzzy
 plan:
   date_added: '2018-09-30'

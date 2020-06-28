@@ -9,9 +9,11 @@ book:
   series: The Silent Gods
   series_position: '1'
   slug: master-of-sorrows
+  spine_color: '#555950'
   title: Master of Sorrows
 plan:
   date_added: '2019-01-28'
 ---
+
 Academy's warrior-thieves, dark big insidious evil inside you, forbidden magic, a forgotten heritage, and a secret
 deformity. Just ticking boxes.

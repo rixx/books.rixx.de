@@ -9,6 +9,7 @@ book:
   series: The Salvagers
   series_position: '1'
   slug: a-big-ship-at-the-edge-of-the-universe
+  spine_color: '#0d0f20'
   title: A Big Ship at the Edge of the Universe
 plan:
   date_added: '2018-12-04'

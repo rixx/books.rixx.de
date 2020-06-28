@@ -15,6 +15,7 @@ book:
   series: Empire Games
   series_position: '1'
   slug: empire-games
+  spine_color: '#e4c57d'
   tags:
   - scifi
   title: Empire Games

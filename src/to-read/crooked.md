@@ -9,6 +9,7 @@ book:
   pages: '355'
   publication_year: '2015'
   slug: crooked
+  spine_color: '#a4bc48'
   tags: []
   title: Crooked
 plan:

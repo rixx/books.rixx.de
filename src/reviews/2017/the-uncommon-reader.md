@@ -13,6 +13,7 @@ book:
   pages: 120
   publication_year: '2007'
   slug: the-uncommon-reader
+  spine_color: '#f62e30'
   title: The Uncommon Reader
 plan:
   date_added: '2015-06-28'

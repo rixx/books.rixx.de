@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '9'
   slug: eric
+  spine_color: '#93d0b6'
   title: Eric
 plan:
   date_added: '2015-04-08'

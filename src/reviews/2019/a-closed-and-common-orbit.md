@@ -11,6 +11,7 @@ book:
   series: Wayfarers
   series_position: '2'
   slug: a-closed-and-common-orbit
+  spine_color: '#4e3f40'
   tags:
   - scifi
   title: A Closed and Common Orbit

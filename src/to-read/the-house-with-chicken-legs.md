@@ -9,6 +9,7 @@ book:
   pages: '337'
   publication_year: '2018'
   slug: the-house-with-chicken-legs
+  spine_color: '#422f5b'
   title: The House with Chicken Legs
 plan:
   date_added: '2018-08-15'

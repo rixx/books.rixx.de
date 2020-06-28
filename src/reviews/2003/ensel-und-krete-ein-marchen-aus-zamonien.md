@@ -10,6 +10,7 @@ book:
   series: Zamonien
   series_position: '2'
   slug: ensel-und-krete-ein-marchen-aus-zamonien
+  spine_color: '#711c17'
   tags:
   - fantasy
   - german

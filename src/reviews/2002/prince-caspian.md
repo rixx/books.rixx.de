@@ -14,6 +14,7 @@ book:
   series: Chronicles of Narnia
   series_position: '2'
   slug: prince-caspian
+  spine_color: '#b5af85'
   tags:
   - fantasy
   - german

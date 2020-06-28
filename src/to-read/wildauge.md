@@ -9,6 +9,7 @@ book:
   pages: '414'
   publication_year: '2011'
   slug: wildauge
+  spine_color: '#ec6b43'
   title: Wildauge
 plan:
   date_added: '2019-01-25'

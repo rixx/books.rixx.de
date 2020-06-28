@@ -11,6 +11,7 @@ book:
   pages: 199
   publication_year: '1982'
   slug: ein-trummersommer
+  spine_color: '#1764a2'
   tags:
   - german
   - historical-fiction

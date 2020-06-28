@@ -13,6 +13,7 @@ book:
   pages: 464
   publication_year: '2017'
   slug: ka-dar-oakley-in-the-ruin-of-ymr
+  spine_color: '#d6e0ab'
   title: 'Ka: Dar Oakley in the Ruin of Ymr'
 plan:
   date_added: '2018-09-04'

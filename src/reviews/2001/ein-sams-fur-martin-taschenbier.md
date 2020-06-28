@@ -15,6 +15,7 @@ book:
   series: Sams
   series_position: '4'
   slug: ein-sams-fur-martin-taschenbier
+  spine_color: '#eb581d'
   tags:
   - german
   - kids

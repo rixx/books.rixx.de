@@ -15,6 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '2'
   slug: the-tombs-of-atuan
+  spine_color: '#f2edba'
   tags:
   - fantasy
   title: The Tombs of Atuan

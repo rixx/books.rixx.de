@@ -13,6 +13,7 @@ book:
   pages: 391
   publication_year: '1985'
   slug: surely-youre-joking-mr-feynman-adventures-of-a-curious-character
+  spine_color: '#d8d3b7'
   title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
 plan:
   date_added: '2015-04-09'

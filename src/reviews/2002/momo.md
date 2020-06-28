@@ -8,6 +8,7 @@ book:
   isbn13: '9783522168571'
   publication_year: '1973'
   slug: momo
+  spine_color: '#d5832a'
   tags:
   - fantasy
   - german

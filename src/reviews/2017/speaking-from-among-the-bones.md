@@ -15,6 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '5'
   slug: speaking-from-among-the-bones
+  spine_color: '#7397c7'
   tags: []
   title: Speaking from Among the Bones
 plan:

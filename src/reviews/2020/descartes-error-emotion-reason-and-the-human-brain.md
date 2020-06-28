@@ -13,6 +13,7 @@ book:
   pages: 336
   publication_year: '1994'
   slug: descartes-error-emotion-reason-and-the-human-brain
+  spine_color: '#d00809'
   tags:
   - nonfiction
   - psychology

@@ -8,6 +8,7 @@ book:
   series: The Tarot Sequence
   series_position: '1'
   slug: the-last-sun
+  spine_color: '#ad6e55'
   tags:
   - scifi
   title: The Last Sun

@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '5'
   slug: wind-that-shakes-the-seas-and-stars
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: Wind That Shakes the Seas and Stars

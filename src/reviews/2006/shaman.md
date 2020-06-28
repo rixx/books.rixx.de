@@ -15,6 +15,7 @@ book:
   series: Cole Family Trilogy
   series_position: '2'
   slug: shaman
+  spine_color: '#7e332b'
   tags:
   - historical-fiction
   title: Shaman

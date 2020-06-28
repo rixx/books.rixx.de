@@ -15,6 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '2'
   slug: clouds-of-witness
+  spine_color: '#364540'
   tags:
   - german
   - mystery

@@ -9,6 +9,7 @@ book:
   series: Harry Potter
   series_position: '1'
   slug: harry-potter-and-the-sorcerers-stone
+  spine_color: '#cfae7d'
   tags:
   - fantasy
   - german

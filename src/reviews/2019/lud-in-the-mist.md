@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '1926'
   slug: lud-in-the-mist
+  spine_color: '#75788c'
   tags:
   - fantasy
   title: Lud-in-the-Mist

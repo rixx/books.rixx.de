@@ -9,6 +9,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '14'
   slug: in-the-teeth-of-the-evidence
+  spine_color: '#eaaa4b'
   tags:
   - german
   - mystery

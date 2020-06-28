@@ -11,6 +11,7 @@ book:
   series: Flavia de Luce
   series_position: '3'
   slug: a-red-herring-without-mustard
+  spine_color: '#f7e631'
   tags: []
   title: A Red Herring Without Mustard
 plan:

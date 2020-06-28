@@ -9,6 +9,7 @@ book:
   pages: '262'
   publication_year: '1883'
   slug: pinocchio
+  spine_color: '#e98d0e'
   tags:
   - kids
   title: Pinocchio

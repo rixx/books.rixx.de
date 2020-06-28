@@ -11,6 +11,7 @@ book:
   series: The Licanius Trilogy
   series_position: '1'
   slug: the-shadow-of-what-was-lost
+  spine_color: '#da9a59'
   title: The Shadow of What Was Lost
 plan:
   date_added: '2018-09-15'

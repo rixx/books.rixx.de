@@ -11,6 +11,7 @@ book:
   series: The Wormwood Trilogy
   series_position: '1'
   slug: rosewater
+  spine_color: '#994645'
   title: Rosewater
 plan:
   date_added: '2018-08-20'

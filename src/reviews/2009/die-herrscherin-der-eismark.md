@@ -9,6 +9,7 @@ book:
   pages: '528'
   publication_year: '2005'
   slug: die-herrscherin-der-eismark
+  spine_color: '#531f1a'
   tags:
   - fantasy
   - german

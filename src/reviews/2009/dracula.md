@@ -13,6 +13,7 @@ book:
   pages: 492
   publication_year: '1897'
   slug: dracula
+  spine_color: '#3a1e1f'
   tags:
   - german
   title: Dracula

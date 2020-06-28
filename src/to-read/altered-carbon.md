@@ -10,6 +10,7 @@ book:
   series: Takeshi Kovacs
   series_position: '1'
   slug: altered-carbon
+  spine_color: '#dbd0b0'
   title: Altered Carbon
 plan:
   date_added: '2016-06-08'

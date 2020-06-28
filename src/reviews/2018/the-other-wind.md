@@ -11,6 +11,7 @@ book:
   series: Earthsea Cycle
   series_position: '6'
   slug: the-other-wind
+  spine_color: '#dc6e3f'
   tags:
   - fantasy
   title: The Other Wind

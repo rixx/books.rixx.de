@@ -15,6 +15,7 @@ book:
   series: Cole Family Trilogy
   series_position: '1'
   slug: the-physician
+  spine_color: '#6d4440'
   tags:
   - historical-fiction
   title: The Physician

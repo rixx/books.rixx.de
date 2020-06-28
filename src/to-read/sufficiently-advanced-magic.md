@@ -8,6 +8,7 @@ book:
   series: Arcane Ascension
   series_position: '1'
   slug: sufficiently-advanced-magic
+  spine_color: '#5e6470'
   title: Sufficiently Advanced Magic
 plan:
   date_added: '2018-09-15'

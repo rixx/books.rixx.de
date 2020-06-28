@@ -9,8 +9,10 @@ book:
   pages: '365'
   publication_year: '2017'
   slug: sea-of-rust
+  spine_color: '#a64e3f'
   title: Sea of Rust
 plan:
   date_added: '2018-08-08'
 ---
+
 Second place in "Novel Featuring an AI Character" in 2019 /r/fantasy bingo.

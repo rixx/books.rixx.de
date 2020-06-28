@@ -13,6 +13,7 @@ book:
   pages: 272
   publication_year: '2007'
   slug: m-is-for-magic
+  spine_color: '#8a8cbb'
   tags:
   - fantasy
   title: M Is for Magic

@@ -15,6 +15,7 @@ book:
   series: Outlander
   series_position: '1'
   slug: outlander
+  spine_color: '#ce6c36'
   title: Outlander
 plan:
   date_added: '2018-10-25'

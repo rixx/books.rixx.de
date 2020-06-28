@@ -11,6 +11,7 @@ book:
   series: The Merchant Princes
   series_position: '3'
   slug: the-clan-corporate
+  spine_color: '#c2b483'
   tags:
   - scifi
   title: The Clan Corporate

@@ -11,6 +11,7 @@ book:
   series: Culture
   series_position: '4'
   slug: the-state-of-the-art
+  spine_color: '#395a8a'
   tags:
   - scifi
   title: The State of the Art

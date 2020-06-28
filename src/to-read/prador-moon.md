@@ -11,6 +11,7 @@ book:
   series: Polity Universe
   series_position: '1'
   slug: prador-moon
+  spine_color: '#6d8498'
   title: Prador Moon
 plan:
   date_added: '2018-08-25'

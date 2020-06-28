@@ -15,6 +15,7 @@ book:
   series: Firefall
   series_position: '1'
   slug: blindsight
+  spine_color: '#c02318'
   tags:
   - scifi
   title: Blindsight

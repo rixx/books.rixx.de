@@ -13,6 +13,7 @@ book:
   pages: 345
   publication_year: '2011'
   slug: embassytown
+  spine_color: '#6a5a5a'
   tags:
   - fantasy
   title: Embassytown

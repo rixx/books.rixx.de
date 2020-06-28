@@ -13,6 +13,7 @@ book:
   pages: 308
   publication_year: '2018'
   slug: the-mere-wife
+  spine_color: '#de7454'
   title: The Mere Wife
 plan:
   date_added: '2018-09-20'

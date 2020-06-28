@@ -15,6 +15,7 @@ book:
   series: Bartimaeus
   series_position: '1'
   slug: the-amulet-of-samarkand
+  spine_color: '#d0c3ab'
   tags:
   - fantasy
   - german

@@ -9,6 +9,7 @@ book:
   pages: '256'
   publication_year: '2019'
   slug: the-origins-of-unfairness-social-categories-and-cultural-evolution
+  spine_color: '#d1826d'
   title: 'The Origins of Unfairness: Social Categories and Cultural Evolution'
 plan:
   date_added: '2020-02-18'

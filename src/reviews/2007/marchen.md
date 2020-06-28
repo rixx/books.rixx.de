@@ -13,6 +13,7 @@ book:
   pages: 222
   publication_year: '1989'
   slug: marchen
+  spine_color: '#3c493e'
   tags:
   - german
   - kids

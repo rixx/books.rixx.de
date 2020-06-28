@@ -9,6 +9,7 @@ book:
   series: Rigel Black
   series_position: '3'
   slug: the-ambiguous-artifice
+  spine_color: '#8d6b44'
   tags:
   - fanfic
   title: The Ambiguous Artifice

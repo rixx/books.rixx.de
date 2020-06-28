@@ -15,6 +15,7 @@ book:
   series: Codex Alera
   series_position: '5'
   slug: princeps-fury
+  spine_color: '#bbab9d'
   tags:
   - fantasy
   title: Princeps' Fury

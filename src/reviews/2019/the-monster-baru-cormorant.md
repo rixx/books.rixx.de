@@ -9,6 +9,7 @@ book:
   series: The Masquerade
   series_position: '2'
   slug: the-monster-baru-cormorant
+  spine_color: '#e69733'
   tags:
   - fantasy
   title: The Monster Baru Cormorant

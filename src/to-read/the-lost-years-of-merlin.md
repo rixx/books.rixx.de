@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '1996'
   slug: the-lost-years-of-merlin
+  spine_color: '#757a9e'
   title: The Lost Years of Merlin
 plan:
   date_added: '2016-05-03'

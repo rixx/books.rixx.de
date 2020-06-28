@@ -15,6 +15,7 @@ book:
   series: Xenogenesis
   series_position: '1'
   slug: dawn
+  spine_color: '#eac068'
   tags:
   - scifi
   title: Dawn

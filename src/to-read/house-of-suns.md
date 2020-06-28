@@ -9,6 +9,7 @@ book:
   pages: '512'
   publication_year: '2008'
   slug: house-of-suns
+  spine_color: '#59585e'
   title: House of Suns
 plan:
   date_added: '2018-09-06'

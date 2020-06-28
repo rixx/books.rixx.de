@@ -13,6 +13,7 @@ book:
   pages: 99
   publication_year: '2006'
   slug: missile-gap
+  spine_color: '#707c7d'
   tags:
   - urban-fantasy
   title: Missile Gap

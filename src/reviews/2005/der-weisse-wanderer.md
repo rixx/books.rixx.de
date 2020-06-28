@@ -15,6 +15,7 @@ book:
   series: Der Kreis der Dämmerung
   series_position: '3'
   slug: der-weisse-wanderer
+  spine_color: '#a5a64d'
   tags:
   - fantasy
   - german

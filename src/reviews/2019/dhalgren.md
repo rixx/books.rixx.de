@@ -7,6 +7,7 @@ book:
   pages: '836'
   publication_year: '1975'
   slug: dhalgren
+  spine_color: '#b7b7ae'
   tags:
   - scifi
   title: Dhalgren

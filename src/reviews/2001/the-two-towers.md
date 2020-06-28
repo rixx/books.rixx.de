@@ -15,6 +15,7 @@ book:
   series: The Lord of the Rings
   series_position: '2'
   slug: the-two-towers
+  spine_color: '#b19b91'
   tags:
   - fantasy
   - german

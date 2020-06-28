@@ -15,6 +15,7 @@ book:
   series: Alcatraz
   series_position: '1'
   slug: alcatraz-versus-the-evil-librarians
+  spine_color: '#a05d3a'
   tags:
   - ya
   title: Alcatraz Versus the Evil Librarians

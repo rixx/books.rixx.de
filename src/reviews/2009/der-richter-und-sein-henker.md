@@ -13,6 +13,7 @@ book:
   pages: 208
   publication_year: '1951'
   slug: der-richter-und-sein-henker
+  spine_color: '#9a9d8e'
   tags:
   - german
   - mystery

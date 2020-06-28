@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '2006'
   slug: fragile-things-short-fictions-and-wonders
+  spine_color: '#3f5058'
   tags:
   - fantasy
   title: 'Fragile Things: Short Fictions and Wonders'

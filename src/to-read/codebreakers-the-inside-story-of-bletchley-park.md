@@ -13,6 +13,7 @@ book:
   pages: 343
   publication_year: '1993'
   slug: codebreakers-the-inside-story-of-bletchley-park
+  spine_color: '#d72727'
   title: 'Codebreakers: The Inside Story of Bletchley Park'
 plan:
   date_added: '2019-05-03'

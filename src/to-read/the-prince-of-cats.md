@@ -7,8 +7,10 @@ book:
   pages: '302'
   publication_year: '2018'
   slug: the-prince-of-cats
+  spine_color: '#cbb293'
   title: The Prince of Cats
 plan:
   date_added: '2018-11-28'
 ---
+
 Middle East fantasy

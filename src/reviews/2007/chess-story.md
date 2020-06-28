@@ -13,6 +13,7 @@ book:
   pages: 104
   publication_year: '1942'
   slug: chess-story
+  spine_color: '#714f38'
   tags:
   - german
   title: Chess Story

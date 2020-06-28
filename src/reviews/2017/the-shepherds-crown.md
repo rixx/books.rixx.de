@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '41'
   slug: the-shepherds-crown
+  spine_color: '#076086'
   title: The Shepherd's Crown
 plan:
   date_added: '2017-11-22'

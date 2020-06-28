@@ -15,6 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '5'
   slug: die-wilden-huhner-und-die-liebe
+  spine_color: '#f3e879'
   tags:
   - german
   - kids

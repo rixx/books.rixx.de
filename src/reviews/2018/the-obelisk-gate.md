@@ -9,6 +9,7 @@ book:
   series: The Broken Earth
   series_position: '2'
   slug: the-obelisk-gate
+  spine_color: '#b9a498'
   tags:
   - fantasy
   - scifi

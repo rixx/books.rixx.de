@@ -13,6 +13,7 @@ book:
   pages: 124
   publication_year: '1928'
   slug: the-threepenny-opera
+  spine_color: '#3e555f'
   tags:
   - german
   - stage-play

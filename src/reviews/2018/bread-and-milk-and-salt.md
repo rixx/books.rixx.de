@@ -7,6 +7,7 @@ book:
   pages: '25'
   publication_year: '2018'
   slug: bread-and-milk-and-salt
+  spine_color: '#7c5154'
   title: Bread and Milk and Salt
 plan:
   date_added: '2018-11-12'

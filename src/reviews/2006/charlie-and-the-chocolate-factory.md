@@ -7,6 +7,7 @@ book:
   pages: '155'
   publication_year: '1964'
   slug: charlie-and-the-chocolate-factory
+  spine_color: '#c2180b'
   tags:
   - kids
   title: Charlie and the Chocolate Factory

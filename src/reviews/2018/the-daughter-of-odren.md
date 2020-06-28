@@ -8,6 +8,7 @@ book:
   series: Earthsea Cycle
   series_position: '6.5'
   slug: the-daughter-of-odren
+  spine_color: '#5a6169'
   tags:
   - fantasy
   title: The Daughter of Odren

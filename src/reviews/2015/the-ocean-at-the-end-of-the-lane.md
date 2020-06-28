@@ -9,6 +9,7 @@ book:
   pages: '181'
   publication_year: '2013'
   slug: the-ocean-at-the-end-of-the-lane
+  spine_color: '#23788e'
   tags:
   - fantasy
   title: The Ocean at the End of the Lane

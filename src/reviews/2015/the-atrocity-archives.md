@@ -15,6 +15,7 @@ book:
   series: Laundry Files
   series_position: '1'
   slug: the-atrocity-archives
+  spine_color: '#ae332b'
   tags:
   - urban-fantasy
   title: The Atrocity Archives

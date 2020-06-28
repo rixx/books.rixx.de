@@ -9,6 +9,7 @@ book:
   series: Tennis
   series_position: '1'
   slug: a-study-in-winning
+  spine_color: '#067430'
   tags:
   - fanfic
   title: A Study in Winning

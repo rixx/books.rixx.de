@@ -15,6 +15,7 @@ book:
   series: Dragonriders of Pern
   series_position: '1'
   slug: dragonflight
+  spine_color: '#1d4cd8'
   title: Dragonflight
 plan:
   date_added: '2018-09-15'

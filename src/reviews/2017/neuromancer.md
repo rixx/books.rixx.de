@@ -9,6 +9,7 @@ book:
   series: Sprawl
   series_position: '1'
   slug: neuromancer
+  spine_color: '#376797'
   tags:
   - scifi
   title: Neuromancer

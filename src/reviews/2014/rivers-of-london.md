@@ -8,6 +8,7 @@ book:
   series: Rivers of London
   series_position: '1'
   slug: rivers-of-london
+  spine_color: '#a21f16'
   tags:
   - urban-fantasy
   title: Rivers of London

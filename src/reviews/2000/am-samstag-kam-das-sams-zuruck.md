@@ -15,6 +15,7 @@ book:
   series: Sams
   series_position: '2'
   slug: am-samstag-kam-das-sams-zuruck
+  spine_color: '#ecc031'
   tags:
   - german
   - kids

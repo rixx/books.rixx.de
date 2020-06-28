@@ -13,6 +13,7 @@ book:
   pages: 174
   publication_year: '1987'
   slug: gedichte
+  spine_color: '#f1e01a'
   tags:
   - german
   - poetry

@@ -13,6 +13,7 @@ book:
   pages: 228
   publication_year: '1951'
   slug: the-day-of-the-triffids
+  spine_color: '#68b469'
   title: The Day of the Triffids
 plan:
   date_added: '2019-01-17'

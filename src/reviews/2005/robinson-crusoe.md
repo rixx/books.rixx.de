@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '1719'
   slug: robinson-crusoe
+  spine_color: '#787b71'
   tags:
   - german
   title: Robinson Crusoe

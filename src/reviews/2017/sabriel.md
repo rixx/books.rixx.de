@@ -11,6 +11,7 @@ book:
   series: Abhorsen
   series_position: '1'
   slug: sabriel
+  spine_color: '#e5d6ac'
   tags:
   - fantasy
   - ya

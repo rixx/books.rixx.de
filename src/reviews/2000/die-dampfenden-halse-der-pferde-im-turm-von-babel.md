@@ -9,6 +9,7 @@ book:
   pages: '358'
   publication_year: '1978'
   slug: die-dampfenden-halse-der-pferde-im-turm-von-babel
+  spine_color: '#bbab8d'
   tags:
   - german
   - kids

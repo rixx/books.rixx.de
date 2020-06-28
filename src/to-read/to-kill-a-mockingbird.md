@@ -7,6 +7,7 @@ book:
   pages: '324'
   publication_year: '1960'
   slug: to-kill-a-mockingbird
+  spine_color: '#c45c36'
   title: To Kill a Mockingbird
 plan:
   date_added: '2015-04-17'

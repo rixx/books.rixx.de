@@ -11,6 +11,7 @@ book:
   pages: 150
   publication_year: '1976'
   slug: houston-houston-do-you-read
+  spine_color: '#d5b161'
   title: Houston, Houston, Do You Read?
 plan:
   date_added: '2018-03-13'

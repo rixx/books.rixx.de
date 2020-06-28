@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '1990'
   slug: last-chance-to-see
+  spine_color: '#bd7e50'
   tags:
   - german
   - nonfiction

@@ -11,6 +11,7 @@ book:
   series: Rivers of London
   series_position: '5.5'
   slug: the-furthest-station
+  spine_color: '#7e233c'
   tags:
   - urban-fantasy
   title: The Furthest Station

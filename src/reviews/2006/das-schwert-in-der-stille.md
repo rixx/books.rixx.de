@@ -14,6 +14,7 @@ book:
   series: Der Clan der Otori
   series_position: '1'
   slug: das-schwert-in-der-stille
+  spine_color: '#b14430'
   tags:
   - fantasy
   - german

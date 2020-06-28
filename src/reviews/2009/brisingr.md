@@ -15,6 +15,7 @@ book:
   series: The Inheritance Cycle
   series_position: '3'
   slug: brisingr
+  spine_color: '#b38842'
   tags:
   - fantasy
   - german

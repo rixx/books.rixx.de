@@ -15,6 +15,7 @@ book:
   series: Xenogenesis
   series_position: '3'
   slug: imago
+  spine_color: '#ebbb84'
   tags:
   - scifi
   title: Imago

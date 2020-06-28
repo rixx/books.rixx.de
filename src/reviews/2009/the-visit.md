@@ -13,6 +13,7 @@ book:
   pages: 112
   publication_year: '1962'
   slug: the-visit
+  spine_color: '#800f0f'
   tags:
   - german
   - stage-play

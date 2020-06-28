@@ -15,6 +15,7 @@ book:
   series: Spin Trilogy
   series_position: '1'
   slug: spin-state
+  spine_color: '#845b4a'
   title: Spin State
 plan:
   date_added: '2018-09-03'

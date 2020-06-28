@@ -15,6 +15,7 @@ book:
   series: Books of the Raksura
   series_position: '1'
   slug: the-cloud-roads
+  spine_color: '#b1922f'
   title: The Cloud Roads
 plan:
   date_added: '2019-05-10'

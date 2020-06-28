@@ -15,6 +15,7 @@ book:
   series: Conan the Cimmerian
   series_position: '1'
   slug: the-coming-of-conan-the-cimmerian
+  spine_color: '#cabe89'
   title: The Coming of Conan the Cimmerian
 plan:
   date_added: '2018-10-25'

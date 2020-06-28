@@ -9,8 +9,10 @@ book:
   pages: '520'
   publication_year: '2019'
   slug: do-you-dream-of-terra-two
+  spine_color: '#eddccb'
   title: Do You Dream of Terra-Two?
 plan:
   date_added: 2020-06-07
 ---
+
 Rec by [pornokitsch](https://www.reddit.com/r/Fantasy/comments/gtf34j/what_are_some_underrated_sff_books_by_black/fsbcxv0/)

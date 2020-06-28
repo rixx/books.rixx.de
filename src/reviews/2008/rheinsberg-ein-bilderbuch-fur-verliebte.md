@@ -9,6 +9,7 @@ book:
   pages: '94'
   publication_year: '1912'
   slug: rheinsberg-ein-bilderbuch-fur-verliebte
+  spine_color: '#bda66a'
   tags:
   - german
   title: 'Rheinsberg: ein Bilderbuch für Verliebte'

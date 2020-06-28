@@ -15,6 +15,7 @@ book:
   series: Die Känguru-Chroniken
   series_position: '2'
   slug: das-kanguru-manifest
+  spine_color: '#ba3823'
   tags:
   - german
   title: Das Känguru-Manifest

@@ -15,6 +15,7 @@ book:
   series: Jumper
   series_position: '1'
   slug: jumper
+  spine_color: '#655982'
   tags:
   - scifi
   title: Jumper

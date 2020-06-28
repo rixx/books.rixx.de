@@ -15,6 +15,7 @@ book:
   series: Time Quintet
   series_position: '1'
   slug: a-wrinkle-in-time
+  spine_color: '#5e6184'
   tags:
   - kids
   title: A Wrinkle in Time

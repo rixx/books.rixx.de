@@ -9,6 +9,7 @@ book:
   series: The Cemetery of Forgotten Books
   series_position: '1'
   slug: the-shadow-of-the-wind
+  spine_color: '#d4c2a2'
   title: The Shadow of the Wind
 plan:
   date_added: '2018-07-24'

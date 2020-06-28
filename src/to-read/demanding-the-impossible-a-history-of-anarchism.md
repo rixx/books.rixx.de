@@ -13,6 +13,7 @@ book:
   pages: 767
   publication_year: '1992'
   slug: demanding-the-impossible-a-history-of-anarchism
+  spine_color: '#e0d991'
   title: 'Demanding the Impossible: A History of Anarchism'
 plan:
   date_added: '2017-11-20'

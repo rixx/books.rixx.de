@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '3'
   slug: ethan-of-athos
+  spine_color: '#a23022'
   tags:
   - scifi
   title: Ethan of Athos

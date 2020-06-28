@@ -15,6 +15,7 @@ book:
   series: The Masquerade
   series_position: '1'
   slug: the-traitor-baru-cormorant
+  spine_color: '#807d8d'
   tags:
   - fantasy
   title: The Traitor Baru Cormorant

@@ -6,6 +6,7 @@ book:
   goodreads: '9498065'
   publication_year: '1990'
   slug: the-madness-season
+  spine_color: '#5f687d'
   title: The Madness Season
 plan:
   date_added: '2016-05-11'

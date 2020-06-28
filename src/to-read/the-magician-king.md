@@ -15,6 +15,7 @@ book:
   series: The Magicians
   series_position: '2'
   slug: the-magician-king
+  spine_color: '#9f2f23'
   title: The Magician King
 plan:
   date_added: '2020-05-05'

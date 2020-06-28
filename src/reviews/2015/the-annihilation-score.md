@@ -11,6 +11,7 @@ book:
   series: Laundry Files
   series_position: '6'
   slug: the-annihilation-score
+  spine_color: '#d5a74b'
   tags:
   - urban-fantasy
   title: The Annihilation Score

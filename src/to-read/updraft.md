@@ -9,6 +9,7 @@ book:
   series: Bone Universe
   series_position: '1'
   slug: updraft
+  spine_color: '#6974a1'
   title: Updraft
 plan:
   date_added: '2018-08-28'

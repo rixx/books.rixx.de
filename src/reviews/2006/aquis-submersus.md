@@ -9,6 +9,7 @@ book:
   pages: '86'
   publication_year: '1876'
   slug: aquis-submersus
+  spine_color: '#f2e118'
   tags:
   - german
   title: Aquis Submersus

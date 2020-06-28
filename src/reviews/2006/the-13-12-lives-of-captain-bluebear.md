@@ -15,6 +15,7 @@ book:
   series: Zamonien
   series_position: '1'
   slug: the-13-12-lives-of-captain-bluebear
+  spine_color: '#e8bb35'
   tags:
   - fantasy
   - german

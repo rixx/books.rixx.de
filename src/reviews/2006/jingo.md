@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '21'
   slug: jingo
+  spine_color: '#bcb9b1'
   title: Jingo
 plan:
   date_added: '2015-04-08'

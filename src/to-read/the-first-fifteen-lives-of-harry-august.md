@@ -7,6 +7,7 @@ book:
   pages: '417'
   publication_year: '2014'
   slug: the-first-fifteen-lives-of-harry-august
+  spine_color: '#3d4e6c'
   title: The First Fifteen Lives of Harry August
 plan:
   date_added: '2018-09-15'

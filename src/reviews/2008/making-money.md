@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '36'
   slug: making-money
+  spine_color: '#9eb356'
   title: Making Money
 plan:
   date_added: '2015-04-08'

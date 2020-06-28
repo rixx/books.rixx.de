@@ -8,6 +8,7 @@ book:
   isbn13: '9781590623817'
   publication_year: '1989'
   slug: the-mountains-of-mourning
+  spine_color: '#6d0406'
   tags:
   - scifi
   title: The Mountains of Mourning

@@ -6,6 +6,7 @@ book:
   goodreads: '16159259'
   publication_year: '2007'
   slug: vita-nostra
+  spine_color: '#304d7d'
   title: Vita Nostra
 plan:
   date_added: '2018-09-11'

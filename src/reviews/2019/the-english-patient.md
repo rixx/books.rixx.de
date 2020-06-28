@@ -9,6 +9,7 @@ book:
   pages: '320'
   publication_year: '1992'
   slug: the-english-patient
+  spine_color: '#766e66'
   tags:
   - historical-fiction
   title: The English Patient

@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '22'
   slug: the-last-continent
+  spine_color: '#8c8a87'
   title: The Last Continent
 plan:
   date_added: '2015-04-08'

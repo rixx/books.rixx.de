@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '6'
   slug: a-song-in-time-of-revolution
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: A Song In Time of Revolution

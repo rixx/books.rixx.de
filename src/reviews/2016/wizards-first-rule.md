@@ -15,6 +15,7 @@ book:
   series: Sword of Truth
   series_position: '1'
   slug: wizards-first-rule
+  spine_color: '#808094'
   tags:
   - fantasy
   title: Wizard's First Rule

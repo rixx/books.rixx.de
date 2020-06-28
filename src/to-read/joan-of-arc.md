@@ -13,6 +13,7 @@ book:
   pages: 452
   publication_year: '1896'
   slug: joan-of-arc
+  spine_color: '#a68d85'
   title: Joan of Arc
 plan:
   date_added: '2015-04-17'

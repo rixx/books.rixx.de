@@ -15,6 +15,7 @@ book:
   series: Johnny Maxwell
   series_position: '3'
   slug: johnny-and-the-bomb
+  spine_color: '#e9bb52'
   tags:
   - fantasy
   title: Johnny and the Bomb

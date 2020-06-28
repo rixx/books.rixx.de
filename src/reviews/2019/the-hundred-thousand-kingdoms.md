@@ -15,6 +15,7 @@ book:
   series: Inheritance
   series_position: '1'
   slug: the-hundred-thousand-kingdoms
+  spine_color: '#bda144'
   tags:
   - fantasy
   title: The Hundred Thousand Kingdoms

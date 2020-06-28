@@ -15,6 +15,7 @@ book:
   series: Lighthouse
   series_position: '1'
   slug: flesh-and-spirit
+  spine_color: '#4f3032'
   title: Flesh and Spirit
 plan:
   date_added: '2019-02-19'

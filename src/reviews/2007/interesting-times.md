@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '17'
   slug: interesting-times
+  spine_color: '#daca6c'
   title: Interesting Times
 plan:
   date_added: '2015-04-09'

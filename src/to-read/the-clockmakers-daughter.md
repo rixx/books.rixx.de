@@ -13,6 +13,7 @@ book:
   pages: 496
   publication_year: '2018'
   slug: the-clockmakers-daughter
+  spine_color: '#a6a08e'
   title: The Clockmaker's Daughter
 plan:
   date_added: '2019-10-07'

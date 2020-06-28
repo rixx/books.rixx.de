@@ -10,6 +10,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '4'
   slug: heimkehr-zu-den-dakota
+  spine_color: '#79b520'
   tags:
   - german
   - historical-fiction

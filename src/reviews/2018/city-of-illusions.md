@@ -7,6 +7,7 @@ book:
   pages: '160'
   publication_year: '1967'
   slug: city-of-illusions
+  spine_color: '#c7c378'
   tags:
   - scifi
   title: City of Illusions

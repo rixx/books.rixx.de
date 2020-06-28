@@ -15,6 +15,7 @@ book:
   series: Spymasters
   series_position: '1'
   slug: the-spymasters-lady
+  spine_color: '#907757'
   title: The Spymaster's Lady
 plan:
   date_added: '2018-10-02'

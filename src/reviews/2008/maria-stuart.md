@@ -9,6 +9,7 @@ book:
   pages: '168'
   publication_year: '1800'
   slug: maria-stuart
+  spine_color: '#f3d938'
   tags:
   - german
   - historical-fiction

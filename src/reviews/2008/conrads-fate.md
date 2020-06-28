@@ -15,6 +15,7 @@ book:
   series: Chrestomanci
   series_position: '5'
   slug: conrads-fate
+  spine_color: '#e4b773'
   tags:
   - fantasy
   - german

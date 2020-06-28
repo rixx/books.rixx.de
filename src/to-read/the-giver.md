@@ -15,6 +15,7 @@ book:
   series: The Giver
   series_position: '1'
   slug: the-giver
+  spine_color: '#927d5c'
   title: The Giver
 plan:
   date_added: '2017-11-15'

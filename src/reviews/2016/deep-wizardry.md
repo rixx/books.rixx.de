@@ -11,6 +11,7 @@ book:
   series: Young Wizards
   series_position: '2'
   slug: deep-wizardry
+  spine_color: '#bcc3cb'
   tags:
   - fantasy
   - urban-fantasy

@@ -13,6 +13,7 @@ book:
   pages: 120
   publication_year: '1958'
   slug: stories-of-mr-keuner
+  spine_color: '#bdb182'
   tags:
   - german
   title: Stories of Mr. Keuner

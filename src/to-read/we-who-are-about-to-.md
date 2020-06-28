@@ -13,6 +13,7 @@ book:
   pages: 144
   publication_year: '1976'
   slug: we-who-are-about-to-
+  spine_color: '#617e9f'
   title: We Who Are About To...
 plan:
   date_added: '2018-10-07'

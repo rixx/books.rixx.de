@@ -15,6 +15,7 @@ book:
   series: The Green Bone Saga
   series_position: '1'
   slug: jade-city
+  spine_color: '#67ec25'
   title: Jade City
 plan:
   date_added: '2018-09-21'

@@ -6,6 +6,7 @@ book:
   goodreads: '48715894'
   publication_year: '2019'
   slug: uncanny-magazine-issue-31-november-december-2019
+  spine_color: '#deb36a'
   tags:
   - scifi
   title: 'Uncanny Magazine Issue 31: November/December 2019'

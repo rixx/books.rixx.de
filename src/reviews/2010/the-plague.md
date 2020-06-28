@@ -7,6 +7,7 @@ book:
   pages: '308'
   publication_year: '1947'
   slug: the-plague
+  spine_color: '#977264'
   title: The Plague
 plan:
   date_added: '2015-04-08'

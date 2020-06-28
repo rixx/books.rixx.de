@@ -13,6 +13,7 @@ book:
   pages: 263
   publication_year: '1985'
   slug: perfume-the-story-of-a-murderer
+  spine_color: '#f1c067'
   tags:
   - german
   - historical-fiction

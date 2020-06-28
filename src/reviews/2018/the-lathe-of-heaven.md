@@ -13,6 +13,7 @@ book:
   pages: 176
   publication_year: '1971'
   slug: the-lathe-of-heaven
+  spine_color: '#e2b57e'
   tags:
   - scifi
   title: The Lathe of Heaven

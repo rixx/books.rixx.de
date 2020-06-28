@@ -15,6 +15,7 @@ book:
   series: Annals of the Western Shore
   series_position: '1'
   slug: gifts
+  spine_color: '#7caca5'
   tags:
   - fantasy
   title: Gifts

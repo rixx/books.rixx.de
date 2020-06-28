@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1976'
   slug: a-river-runs-through-it-and-other-stories
+  spine_color: '#bebe9a'
   title: A River Runs Through it and Other Stories
 plan:
   date_added: '2017-05-16'

@@ -11,9 +11,10 @@ book:
   series: Cormoran Strike
   series_position: '2'
   slug: the-silkworm
-  title: The Silkworm
+  spine_color: '#ae6449'
   tags:
   - mystery
+  title: The Silkworm
 plan:
   date_added: '2017-01-16'
 review:

@@ -12,6 +12,7 @@ book:
   series: The Interdependency
   series_position: '1'
   slug: the-collapsing-empire
+  spine_color: '#1f2240'
   title: The Collapsing Empire
 plan:
   date_added: '2018-08-07'

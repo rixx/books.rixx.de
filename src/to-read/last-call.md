@@ -15,6 +15,7 @@ book:
   series: Fault Lines
   series_position: '1'
   slug: last-call
+  spine_color: '#ef4d4e'
   title: Last Call
 plan:
   date_added: '2018-11-04'

@@ -10,6 +10,7 @@ book:
   series: Merle-Trilogie
   series_position: '1'
   slug: merle-und-die-fliessende-konigin
+  spine_color: '#8e9fbc'
   tags:
   - fantasy
   - german

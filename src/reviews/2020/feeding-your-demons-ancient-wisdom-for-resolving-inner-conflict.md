@@ -9,6 +9,7 @@ book:
   pages: '288'
   publication_year: '2008'
   slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
+  spine_color: '#e54d26'
   tags:
   - nonfiction
   - personal-development

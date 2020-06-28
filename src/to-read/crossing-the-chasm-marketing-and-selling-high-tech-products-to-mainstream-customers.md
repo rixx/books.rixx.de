@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '1991'
   slug: crossing-the-chasm-marketing-and-selling-high-tech-products-to-mainstream-customers
+  spine_color: '#e84e24'
   title: 'Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream
     Customers'
 plan:

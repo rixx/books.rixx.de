@@ -10,6 +10,7 @@ book:
   series: Der Clan der Otori
   series_position: '2'
   slug: der-pfad-im-schnee
+  spine_color: '#649c86'
   tags:
   - fantasy
   - german

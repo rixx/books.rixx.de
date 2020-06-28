@@ -15,6 +15,7 @@ book:
   series: Black Magician Trilogy
   series_position: '1'
   slug: the-magicians-guild
+  spine_color: '#9f9f9e'
   title: The Magicians' Guild
 plan:
   date_added: '2016-05-03'

@@ -12,6 +12,7 @@ book:
   pages: 126
   publication_year: '1887'
   slug: the-canterville-ghost
+  spine_color: '#caae94'
   tags:
   - german
   title: The Canterville Ghost

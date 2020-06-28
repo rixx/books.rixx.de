@@ -9,6 +9,7 @@ book:
   pages: '222'
   publication_year: '1960'
   slug: madita
+  spine_color: '#be3a2c'
   tags:
   - german
   - kids

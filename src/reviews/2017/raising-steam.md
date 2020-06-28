@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '40'
   slug: raising-steam
+  spine_color: '#924122'
   title: Raising Steam
 plan:
   date_added: '2015-04-08'

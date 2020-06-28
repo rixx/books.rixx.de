@@ -13,6 +13,7 @@ book:
   pages: 499
   publication_year: '1995'
   slug: the-diamond-age-or-a-young-ladys-illustrated-primer
+  spine_color: '#c41f1e'
   tags:
   - scifi
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'

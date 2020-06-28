@@ -10,6 +10,7 @@ book:
   series: The Dark Tower
   series_position: '6'
   slug: song-of-susannah
+  spine_color: '#5d7e92'
   tags:
   - fantasy
   title: Song of Susannah

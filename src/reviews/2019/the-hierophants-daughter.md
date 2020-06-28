@@ -15,6 +15,7 @@ book:
   series: The Disgraced Martyr Trilogy
   series_position: '1'
   slug: the-hierophants-daughter
+  spine_color: '#cad2d5'
   tags:
   - scifi
   title: The Hierophant's Daughter

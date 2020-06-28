@@ -9,6 +9,7 @@ book:
   pages: '32'
   publication_year: '1958'
   slug: all-the-troubles-of-the-world
+  spine_color: '#ebcc7d'
   tags:
   - scifi
   title: All the Troubles of the World

@@ -6,6 +6,7 @@ book:
   goodreads: '24160407'
   publication_year: '2014'
   slug: wider-den-gehorsam
+  spine_color: '#ee3d22'
   title: Wider den Gehorsam
 plan:
   date_added: '2019-10-22'

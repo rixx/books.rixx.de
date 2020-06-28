@@ -13,6 +13,7 @@ book:
   pages: 293
   publication_year: '1990'
   slug: axiomatic
+  spine_color: '#62493f'
   tags:
   - scifi
   title: Axiomatic

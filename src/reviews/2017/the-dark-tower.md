@@ -9,6 +9,7 @@ book:
   series: The Dark Tower
   series_position: '7'
   slug: the-dark-tower
+  spine_color: '#c57044'
   tags:
   - fantasy
   title: The Dark Tower

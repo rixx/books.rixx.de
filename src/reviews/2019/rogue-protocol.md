@@ -15,6 +15,7 @@ book:
   series: The Murderbot Diaries
   series_position: '3'
   slug: rogue-protocol
+  spine_color: '#bfc5ca'
   tags:
   - scifi
   title: Rogue Protocol

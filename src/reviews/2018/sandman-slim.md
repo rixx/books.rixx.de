@@ -15,6 +15,7 @@ book:
   series: Sandman Slim
   series_position: '1'
   slug: sandman-slim
+  spine_color: '#d6d2cb'
   tags:
   - urban-fantasy
   title: Sandman Slim

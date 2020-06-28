@@ -10,6 +10,7 @@ book:
   pages: 32
   publication_year: '2012'
   slug: a-tall-tail
+  spine_color: '#070d19'
   tags:
   - scifi
   title: A Tall Tail

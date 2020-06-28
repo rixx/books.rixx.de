@@ -9,6 +9,7 @@ book:
   series: American Gods
   series_position: '1'
   slug: american-gods
+  spine_color: '#c1c59b'
   tags:
   - fantasy
   - myths-legends

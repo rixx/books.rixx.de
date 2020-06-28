@@ -9,6 +9,7 @@ book:
   series: Laundry Files
   series_position: '9'
   slug: the-labyrinth-index
+  spine_color: '#c41816'
   tags:
   - urban-fantasy
   title: The Labyrinth Index

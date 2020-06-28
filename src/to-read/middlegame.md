@@ -7,6 +7,7 @@ book:
   pages: '528'
   publication_year: '2019'
   slug: middlegame
+  spine_color: '#817d79'
   title: Middlegame
 plan:
   date_added: '2019-09-26'

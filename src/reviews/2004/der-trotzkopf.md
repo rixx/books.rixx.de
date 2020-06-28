@@ -9,6 +9,7 @@ book:
   pages: '222'
   publication_year: '1883'
   slug: der-trotzkopf
+  spine_color: '#a1ba88'
   tags:
   - german
   - ya

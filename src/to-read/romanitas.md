@@ -15,6 +15,7 @@ book:
   series: Romanitas
   series_position: '1'
   slug: romanitas
+  spine_color: '#b8bbbe'
   tags: []
   title: Romanitas
 plan:

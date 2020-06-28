@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '33'
   slug: going-postal
+  spine_color: '#e32227'
   title: Going Postal
 plan:
   date_added: '2015-04-08'

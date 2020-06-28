@@ -9,6 +9,7 @@ book:
   series: Ethereal Earth
   series_position: '1'
   slug: hero-forged
+  spine_color: '#8d8581'
   title: Hero Forged
 plan:
   date_added: '2019-04-01'

@@ -13,6 +13,7 @@ book:
   pages: 152
   publication_year: '1973'
   slug: anarchy-in-action
+  spine_color: '#ee3629'
   title: Anarchy in Action
 plan:
   date_added: '2017-11-20'

@@ -13,6 +13,7 @@ book:
   pages: 688
   publication_year: '1843'
   slug: essential-tales-and-poems
+  spine_color: '#226e6f'
   tags:
   - german
   - poetry

@@ -15,6 +15,7 @@ book:
   series: The Mortal Instruments
   series_position: '1'
   slug: city-of-bones
+  spine_color: '#d4ce74'
   tags:
   - fantasy
   - ya

@@ -11,6 +11,7 @@ book:
   series: Pippi Langstrumpf
   series_position: '3'
   slug: pippi-in-the-south-seas
+  spine_color: '#25bce1'
   tags:
   - german
   - kids

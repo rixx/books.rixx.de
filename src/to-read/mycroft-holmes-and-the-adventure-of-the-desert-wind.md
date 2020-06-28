@@ -10,6 +10,7 @@ book:
   series: Mycroft Holmes
   series_position: '1'
   slug: mycroft-holmes-and-the-adventure-of-the-desert-wind
+  spine_color: '#91643a'
   title: Mycroft Holmes and the Adventure of the Desert Wind
 plan:
   date_added: '2017-11-15'

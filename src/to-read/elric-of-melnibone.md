@@ -15,6 +15,7 @@ book:
   series: The Elric Saga
   series_position: '1'
   slug: elric-of-melnibone
+  spine_color: '#895137'
   title: Elric of Melniboné
 plan:
   date_added: '2018-10-25'

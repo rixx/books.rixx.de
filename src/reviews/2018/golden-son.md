@@ -15,6 +15,7 @@ book:
   series: Red Rising
   series_position: '2'
   slug: golden-son
+  spine_color: '#c5b175'
   tags:
   - ya
   title: Golden Son

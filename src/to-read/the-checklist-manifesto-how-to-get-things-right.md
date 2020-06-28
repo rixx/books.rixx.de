@@ -9,6 +9,7 @@ book:
   pages: '208'
   publication_year: '2009'
   slug: the-checklist-manifesto-how-to-get-things-right
+  spine_color: '#e51d20'
   title: 'The Checklist Manifesto: How to Get Things Right'
 plan:
   date_added: '2019-11-27'

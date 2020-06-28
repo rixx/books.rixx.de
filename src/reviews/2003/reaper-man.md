@@ -15,6 +15,7 @@ book:
   series: Discworld
   series_position: '11'
   slug: reaper-man
+  spine_color: '#928b72'
   title: Reaper Man
 plan:
   date_added: '2015-04-08'

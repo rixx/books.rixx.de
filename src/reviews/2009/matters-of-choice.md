@@ -15,6 +15,7 @@ book:
   series: Cole Family Trilogy
   series_position: '3'
   slug: matters-of-choice
+  spine_color: '#c2c282'
   tags:
   - historical-fiction
   title: Matters of Choice

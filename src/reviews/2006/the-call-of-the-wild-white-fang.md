@@ -8,6 +8,7 @@ book:
   isbn13: '9781587263897'
   publication_year: '1903'
   slug: the-call-of-the-wild-white-fang
+  spine_color: '#737266'
   title: The Call of the Wild/White Fang
 plan:
   date_added: '2015-04-08'

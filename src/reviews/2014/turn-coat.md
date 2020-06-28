@@ -15,6 +15,7 @@ book:
   series: The Dresden Files
   series_position: '11'
   slug: turn-coat
+  spine_color: '#b9613b'
   tags:
   - urban-fantasy
   title: Turn Coat

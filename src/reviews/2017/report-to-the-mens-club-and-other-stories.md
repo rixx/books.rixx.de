@@ -13,6 +13,7 @@ book:
   pages: 282
   publication_year: '2002'
   slug: report-to-the-mens-club-and-other-stories
+  spine_color: '#e88e54'
   title: Report to the Men's Club and Other Stories
 plan:
   date_added: '2017-11-29'

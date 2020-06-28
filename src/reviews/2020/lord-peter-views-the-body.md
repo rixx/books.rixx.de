@@ -9,6 +9,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '4'
   slug: lord-peter-views-the-body
+  spine_color: '#ebad4d'
   tags:
   - mystery
   title: Lord Peter Views the Body

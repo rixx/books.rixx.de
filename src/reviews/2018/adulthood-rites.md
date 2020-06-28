@@ -15,6 +15,7 @@ book:
   series: Xenogenesis
   series_position: '2'
   slug: adulthood-rites
+  spine_color: '#b8825b'
   title: Adulthood Rites
 plan:
   date_added: '2018-02-15'

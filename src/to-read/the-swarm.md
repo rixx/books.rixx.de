@@ -13,6 +13,7 @@ book:
   pages: 896
   publication_year: '2004'
   slug: the-swarm
+  spine_color: '#6177a6'
   title: The Swarm
 plan:
   date_added: '2016-12-01'

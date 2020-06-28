@@ -11,6 +11,7 @@ book:
   pages: 796
   publication_year: '2002'
   slug: krokodil-im-nacken
+  spine_color: '#ed641a'
   tags:
   - german
   - historical-fiction

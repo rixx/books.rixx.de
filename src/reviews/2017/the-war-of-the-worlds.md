@@ -13,6 +13,7 @@ book:
   pages: 192
   publication_year: '1898'
   slug: the-war-of-the-worlds
+  spine_color: '#a49e58'
   tags:
   - scifi
   title: The War of the Worlds

@@ -9,6 +9,7 @@ book:
   pages: '160'
   publication_year: '1962'
   slug: the-great-explosion
+  spine_color: '#916463'
   tags:
   - scifi
   title: The Great Explosion

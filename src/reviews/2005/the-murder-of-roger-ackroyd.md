@@ -15,6 +15,7 @@ book:
   series: Hercule Poirot
   series_position: '4'
   slug: the-murder-of-roger-ackroyd
+  spine_color: '#82ce68'
   tags:
   - mystery
   title: The Murder of Roger Ackroyd

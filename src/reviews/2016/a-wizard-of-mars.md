@@ -15,6 +15,7 @@ book:
   series: Young Wizards
   series_position: '9'
   slug: a-wizard-of-mars
+  spine_color: '#c6bf7e'
   tags:
   - fantasy
   - urban-fantasy

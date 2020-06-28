@@ -15,6 +15,7 @@ book:
   series: Wayward Children
   series_position: '3'
   slug: beneath-the-sugar-sky
+  spine_color: '#369abf'
   tags:
   - fantasy
   title: Beneath the Sugar Sky

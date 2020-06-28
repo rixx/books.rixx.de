@@ -15,6 +15,7 @@ book:
   series: The Riftwar Saga
   series_position: '1'
   slug: magician-apprentice
+  spine_color: '#725eb8'
   title: 'Magician: Apprentice'
 plan:
   date_added: '2017-11-21'

@@ -9,6 +9,7 @@ book:
   pages: '480'
   publication_year: '1889'
   slug: a-connecticut-yankee-in-king-arthurs-court
+  spine_color: '#867d47'
   tags:
   - historical-fiction
   - myths-legends

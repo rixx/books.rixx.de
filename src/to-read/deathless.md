@@ -15,6 +15,7 @@ book:
   series: Leningrad Diptych
   series_position: '1'
   slug: deathless
+  spine_color: '#ab6a59'
   title: Deathless
 plan:
   date_added: '2018-07-23'

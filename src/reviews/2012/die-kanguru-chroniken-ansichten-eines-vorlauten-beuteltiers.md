@@ -15,6 +15,7 @@ book:
   series: Die Känguru-Chroniken
   series_position: '1'
   slug: die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers
+  spine_color: '#a5b630'
   tags:
   - german
   title: Die Känguru-Chroniken. Ansichten eines vorlauten Beuteltiers

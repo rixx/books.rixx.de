@@ -15,6 +15,7 @@ book:
   series: Kate Daniels
   series_position: '1'
   slug: magic-bites
+  spine_color: '#bcb87c'
   tags:
   - fantasy
   - urban-fantasy

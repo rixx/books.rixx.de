@@ -13,6 +13,7 @@ book:
   pages: 438
   publication_year: '2015'
   slug: uprooted
+  spine_color: '#ddd298'
   tags:
   - fantasy
   - myths-legends

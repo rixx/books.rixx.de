@@ -13,6 +13,7 @@ book:
   pages: 209
   publication_year: '1888'
   slug: twilight-of-the-idols
+  spine_color: '#fefefe'
   tags:
   - german
   - nonfiction

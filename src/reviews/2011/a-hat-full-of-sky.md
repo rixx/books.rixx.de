@@ -11,6 +11,7 @@ book:
   series: Discworld
   series_position: '32'
   slug: a-hat-full-of-sky
+  spine_color: '#9e8d7f'
   title: A Hat Full of Sky
 plan:
   date_added: '2015-04-08'

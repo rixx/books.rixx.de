@@ -9,6 +9,7 @@ book:
   pages: '368'
   publication_year: '1894'
   slug: the-jungle-books
+  spine_color: '#f6e480'
   title: The Jungle Books
 plan:
   date_added: '2015-04-08'

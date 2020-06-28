@@ -13,6 +13,7 @@ book:
   pages: 433
   publication_year: '2012'
   slug: alif-the-unseen
+  spine_color: '#f1ec26'
   title: Alif the Unseen
 plan:
   date_added: '2018-08-28'

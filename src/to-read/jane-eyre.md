@@ -13,6 +13,7 @@ book:
   pages: 532
   publication_year: '1847'
   slug: jane-eyre
+  spine_color: '#98654b'
   title: Jane Eyre
 plan:
   date_added: '2015-04-17'

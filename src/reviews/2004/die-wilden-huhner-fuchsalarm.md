@@ -15,6 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '3'
   slug: die-wilden-huhner-fuchsalarm
+  spine_color: '#9c5b22'
   tags:
   - german
   - kids

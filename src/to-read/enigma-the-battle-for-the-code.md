@@ -13,6 +13,7 @@ book:
   pages: 448
   publication_year: '2000'
   slug: enigma-the-battle-for-the-code
+  spine_color: '#dd4839'
   title: 'Enigma: The Battle for the Code'
 plan:
   date_added: '2019-05-03'

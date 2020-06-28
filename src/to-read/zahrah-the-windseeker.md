@@ -7,6 +7,7 @@ book:
   pages: '308'
   publication_year: '2005'
   slug: zahrah-the-windseeker
+  spine_color: '#ecc6aa'
   title: Zahrah the Windseeker
 plan:
   date_added: '2018-09-10'

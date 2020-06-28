@@ -9,6 +9,7 @@ book:
   series: Laundry Files
   series_position: '4'
   slug: the-apocalypse-codex
+  spine_color: '#333e56'
   tags:
   - urban-fantasy
   title: The Apocalypse Codex

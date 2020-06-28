@@ -13,6 +13,7 @@ book:
   pages: 246
   publication_year: '1978'
   slug: data-and-reality
+  spine_color: '#aa9070'
   title: Data and Reality
 plan:
   date_added: '2019-11-15'

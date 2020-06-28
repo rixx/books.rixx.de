@@ -13,6 +13,7 @@ book:
   pages: 443
   publication_year: '1997'
   slug: diaspora
+  spine_color: '#9bacaa'
   tags:
   - scifi
   title: Diaspora

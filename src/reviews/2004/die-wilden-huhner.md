@@ -15,6 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '1'
   slug: die-wilden-huhner
+  spine_color: '#efbf15'
   tags:
   - german
   - kids

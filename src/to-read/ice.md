@@ -13,6 +13,7 @@ book:
   pages: 158
   publication_year: '1967'
   slug: ice
+  spine_color: '#110d12'
   title: Ice
 plan:
   date_added: '2019-02-07'

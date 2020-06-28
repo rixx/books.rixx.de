@@ -13,6 +13,7 @@ book:
   pages: 384
   publication_year: '2019'
   slug: stokers-wilde
+  spine_color: '#573838'
   title: Stoker's Wilde
 plan:
   date_added: '2019-11-15'

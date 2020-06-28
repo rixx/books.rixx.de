@@ -13,6 +13,7 @@ book:
   pages: 473
   publication_year: '2015'
   slug: the-invention-of-nature-alexander-von-humboldts-new-world
+  spine_color: '#afa875'
   title: 'The Invention of Nature: Alexander von Humboldt''s New World'
 plan:
   date_added: '2018-08-19'

@@ -11,6 +11,7 @@ book:
   series: The Murderbot Diaries
   series_position: '1'
   slug: all-systems-red
+  spine_color: '#515b54'
   tags:
   - scifi
   title: All Systems Red

@@ -13,6 +13,7 @@ book:
   pages: 336
   publication_year: '2005'
   slug: freakonomics-a-rogue-economist-explores-the-hidden-side-of-everything
+  spine_color: '#b67d41'
   title: 'Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'
 plan:
   date_added: '2018-08-20'

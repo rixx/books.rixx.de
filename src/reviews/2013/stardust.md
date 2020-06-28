@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '1997'
   slug: stardust
+  spine_color: '#1d738e'
   tags:
   - fantasy
   title: Stardust

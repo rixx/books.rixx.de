@@ -13,6 +13,7 @@ book:
   series: Catch-22
   series_position: '1'
   slug: catch-22
+  spine_color: '#174788'
   title: Catch-22
 plan:
   date_added: '2015-04-08'

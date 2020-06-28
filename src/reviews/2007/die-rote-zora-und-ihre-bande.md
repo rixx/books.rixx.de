@@ -9,6 +9,7 @@ book:
   pages: '383'
   publication_year: '1941'
   slug: die-rote-zora-und-ihre-bande
+  spine_color: '#726052'
   tags:
   - german
   - kids

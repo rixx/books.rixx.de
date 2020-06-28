@@ -13,6 +13,7 @@ book:
   pages: 330
   publication_year: '1997'
   slug: an-introduction-to-japanese-society
+  spine_color: '#dbd3bf'
   title: An Introduction to Japanese Society
 plan:
   date_added: 2020-06-07

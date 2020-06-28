@@ -8,6 +8,7 @@ book:
   series: Stoic Philosophy
   series_position: '1'
   slug: the-manual-a-philosophers-guide-to-life
+  spine_color: '#3f796e'
   tags:
   - nonfiction
   - personal-development

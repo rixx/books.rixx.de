@@ -7,6 +7,7 @@ book:
   pages: '241'
   publication_year: '2014'
   slug: the-metropolitan-man
+  spine_color: '#b1b1b1'
   tags:
   - fanfic
   title: The Metropolitan Man

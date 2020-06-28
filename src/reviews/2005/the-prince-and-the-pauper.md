@@ -13,6 +13,7 @@ book:
   pages: 240
   publication_year: '1881'
   slug: the-prince-and-the-pauper
+  spine_color: '#b69e7d'
   tags:
   - historical-fiction
   title: The Prince and the Pauper

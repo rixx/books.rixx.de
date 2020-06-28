@@ -13,6 +13,7 @@ book:
   series: Beatrice Kaspary
   series_position: '1'
   slug: funf
+  spine_color: '#91866c'
   tags:
   - german
   - mystery

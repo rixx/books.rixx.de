@@ -15,6 +15,7 @@ book:
   series: Metro
   series_position: '1'
   slug: metro-2033
+  spine_color: '#6f474a'
   tags:
   - scifi
   title: Metro 2033

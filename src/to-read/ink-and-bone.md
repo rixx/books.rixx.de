@@ -9,6 +9,7 @@ book:
   series: The Great Library
   series_position: '1'
   slug: ink-and-bone
+  spine_color: '#174c78'
   title: Ink and Bone
 plan:
   date_added: '2018-08-21'

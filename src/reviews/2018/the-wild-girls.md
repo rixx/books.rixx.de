@@ -13,6 +13,7 @@ book:
   pages: 128
   publication_year: '2011'
   slug: the-wild-girls
+  spine_color: '#814845'
   tags:
   - fantasy
   title: The Wild Girls

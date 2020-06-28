@@ -15,6 +15,7 @@ book:
   series: Dragon Rider
   series_position: '1'
   slug: dragon-rider
+  spine_color: '#1f3c77'
   tags:
   - fantasy
   - german

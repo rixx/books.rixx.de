@@ -9,6 +9,7 @@ book:
   pages: '416'
   publication_year: '2019'
   slug: the-raven-tower
+  spine_color: '#775f38'
   tags:
   - fantasy
   title: The Raven Tower

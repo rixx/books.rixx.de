@@ -9,6 +9,7 @@ book:
   pages: '208'
   publication_year: '2012'
   slug: rewriting-the-rules-an-integrative-guide-to-love-sex-and-relationships
+  spine_color: '#dc564c'
   tags:
   - nonfiction
   - personal-development

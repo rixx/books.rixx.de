@@ -15,6 +15,7 @@ book:
   series: Zones of Thought
   series_position: '1'
   slug: a-fire-upon-the-deep
+  spine_color: '#ccc8c1'
   tags:
   - scifi
   title: A Fire Upon the Deep

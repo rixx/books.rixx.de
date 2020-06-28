@@ -13,6 +13,7 @@ book:
   pages: 336
   publication_year: '2014'
   slug: station-eleven
+  spine_color: '#886d52'
   tags:
   - scifi
   title: Station Eleven

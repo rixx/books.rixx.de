@@ -8,6 +8,7 @@ book:
   isbn13: '9783423125000'
   publication_year: '1990'
   slug: das-kartengeheimnis
+  spine_color: '#729594'
   tags:
   - german
   title: Das Kartengeheimnis

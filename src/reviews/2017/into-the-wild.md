@@ -15,6 +15,7 @@ book:
   series: Into the Wild
   series_position: '1'
   slug: into-the-wild
+  spine_color: '#631e4b'
   title: Into the Wild
 plan:
   date_added: '2017-05-16'

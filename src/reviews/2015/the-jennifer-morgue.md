@@ -15,6 +15,7 @@ book:
   series: Laundry Files
   series_position: '2'
   slug: the-jennifer-morgue
+  spine_color: '#406e73'
   tags:
   - urban-fantasy
   title: The Jennifer Morgue

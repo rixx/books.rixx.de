@@ -15,6 +15,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '2'
   slug: a-clash-of-kings
+  spine_color: '#b88936'
   tags:
   - fantasy
   title: A Clash of Kings

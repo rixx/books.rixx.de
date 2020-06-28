@@ -15,6 +15,7 @@ book:
   series: Little Brother
   series_position: '1'
   slug: little-brother
+  spine_color: '#a76567'
   tags:
   - scifi
   - ya

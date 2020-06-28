@@ -11,6 +11,7 @@ book:
   series: Rivers of London
   series_position: '3'
   slug: whispers-under-ground
+  spine_color: '#7593af'
   tags:
   - urban-fantasy
   title: Whispers Under Ground

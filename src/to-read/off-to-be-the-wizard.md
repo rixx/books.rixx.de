@@ -15,6 +15,7 @@ book:
   series: Magic 2.0
   series_position: '1'
   slug: off-to-be-the-wizard
+  spine_color: '#09834b'
   title: Off to Be the Wizard
 plan:
   date_added: '2018-09-03'

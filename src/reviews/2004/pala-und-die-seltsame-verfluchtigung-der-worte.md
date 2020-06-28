@@ -9,6 +9,7 @@ book:
   pages: '445'
   publication_year: '2002'
   slug: pala-und-die-seltsame-verfluchtigung-der-worte
+  spine_color: '#c2a977'
   tags:
   - fantasy
   - german

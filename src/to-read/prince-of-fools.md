@@ -11,6 +11,7 @@ book:
   series: The Red Queen's War
   series_position: '1'
   slug: prince-of-fools
+  spine_color: '#637495'
   title: Prince of Fools
 plan:
   date_added: '2019-04-04'

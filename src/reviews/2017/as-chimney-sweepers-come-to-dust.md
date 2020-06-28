@@ -15,6 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '7'
   slug: as-chimney-sweepers-come-to-dust
+  spine_color: '#32a0be'
   tags: []
   title: As Chimney Sweepers Come to Dust
 plan:

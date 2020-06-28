@@ -9,6 +9,7 @@ book:
   pages: '230'
   publication_year: '2012'
   slug: ink
+  spine_color: '#a56a4f'
   tags:
   - scifi
   title: Ink

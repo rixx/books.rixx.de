@@ -13,6 +13,7 @@ book:
   pages: 256
   publication_year: '2005'
   slug: on-anarchism
+  spine_color: '#461e18'
   title: On Anarchism
 plan:
   date_added: '2017-11-20'

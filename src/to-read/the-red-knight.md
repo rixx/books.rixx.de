@@ -11,6 +11,7 @@ book:
   series: The Traitor Son Cycle
   series_position: '1'
   slug: the-red-knight
+  spine_color: '#39281f'
   title: The Red Knight
 plan:
   date_added: '2017-11-15'

@@ -15,6 +15,7 @@ book:
   series: The Goblin Emperor
   series_position: '1'
   slug: the-goblin-emperor
+  spine_color: '#d3a56d'
   tags:
   - fantasy
   title: The Goblin Emperor

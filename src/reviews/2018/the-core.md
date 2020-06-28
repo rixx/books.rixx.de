@@ -11,6 +11,7 @@ book:
   series: The Demon Cycle
   series_position: '5'
   slug: the-core
+  spine_color: '#356486'
   tags:
   - fantasy
   title: The Core

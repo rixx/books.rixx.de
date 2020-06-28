@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '2001'
   slug: just-for-fun-the-story-of-an-accidental-revolutionary
+  spine_color: '#7495d7'
   tags:
   - nonfiction
   - tech

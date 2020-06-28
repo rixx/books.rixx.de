@@ -13,6 +13,7 @@ book:
   pages: 367
   publication_year: '2008'
   slug: nation
+  spine_color: '#cbaa5c'
   title: Nation
 plan:
   date_added: '2015-04-09'

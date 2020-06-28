@@ -9,6 +9,7 @@ book:
   pages: '462'
   publication_year: '1994'
   slug: die-roten-matrosen
+  spine_color: '#efb899'
   tags:
   - german
   - historical-fiction

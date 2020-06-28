@@ -15,6 +15,7 @@ book:
   series: Dune Chronicles
   series_position: '2'
   slug: dune-messiah
+  spine_color: '#ebe385'
   tags:
   - scifi
   - space-monks

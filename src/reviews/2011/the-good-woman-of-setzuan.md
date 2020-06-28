@@ -13,6 +13,7 @@ book:
   pages: 112
   publication_year: '1953'
   slug: the-good-woman-of-setzuan
+  spine_color: '#827976'
   tags:
   - german
   - stage-play

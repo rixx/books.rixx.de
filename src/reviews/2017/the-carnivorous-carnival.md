@@ -15,6 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '9'
   slug: the-carnivorous-carnival
+  spine_color: '#3384ba'
   tags:
   - ya
   title: The Carnivorous Carnival

@@ -11,6 +11,7 @@ book:
   pages: 290
   publication_year: '1974'
   slug: carrie
+  spine_color: '#c63e34'
   title: Carrie
 plan:
   date_added: '2018-05-31'

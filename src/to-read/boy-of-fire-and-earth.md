@@ -9,6 +9,7 @@ book:
   pages: null
   publication_year: '2016'
   slug: boy-of-fire-and-earth
+  spine_color: '#671e26'
   title: Boy of Fire and Earth
 plan:
   date_added: 2020-06-14

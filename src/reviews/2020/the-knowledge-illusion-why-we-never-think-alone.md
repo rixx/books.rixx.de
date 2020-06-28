@@ -13,6 +13,7 @@ book:
   pages: 304
   publication_year: '2017'
   slug: the-knowledge-illusion-why-we-never-think-alone
+  spine_color: '#eeee1e'
   tags:
   - nonfiction
   - personal-development

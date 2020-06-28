@@ -11,6 +11,7 @@ book:
   pages: 192
   publication_year: '1966'
   slug: babel-17
+  spine_color: '#a13225'
   tags:
   - scifi
   - language

@@ -9,6 +9,7 @@ book:
   pages: '140'
   publication_year: '1922'
   slug: my-life-and-work
+  spine_color: '#a76f4c'
   title: My Life And Work
 plan:
   date_added: '2020-02-04'

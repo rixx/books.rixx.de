@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '1944'
   slug: how-to-solve-it-a-new-aspect-of-mathematical-method
+  spine_color: '#6f4bd6'
   tags:
   - nonfiction
   - tech

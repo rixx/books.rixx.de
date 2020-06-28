@@ -15,6 +15,7 @@ book:
   series: Imperial Radch
   series_position: '3'
   slug: ancillary-mercy
+  spine_color: '#7c7968'
   tags:
   - scifi
   title: Ancillary Mercy

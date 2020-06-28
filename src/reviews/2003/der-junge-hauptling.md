@@ -9,6 +9,7 @@ book:
   series: Die Söhne der Großen Bärin
   series_position: '5'
   slug: der-junge-hauptling
+  spine_color: '#b18d47'
   tags:
   - german
   - historical-fiction

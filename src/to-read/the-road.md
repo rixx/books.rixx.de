@@ -9,6 +9,7 @@ book:
   pages: '287'
   publication_year: '2006'
   slug: the-road
+  spine_color: '#868680'
   title: The Road
 plan:
   date_added: '2018-09-30'

@@ -9,6 +9,7 @@ book:
   pages: '97'
   publication_year: '2008'
   slug: odd-and-the-frost-giants
+  spine_color: '#4589a3'
   tags:
   - fantasy
   - kids

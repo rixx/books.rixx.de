@@ -13,6 +13,7 @@ book:
   pages: 288
   publication_year: '1932'
   slug: brave-new-world
+  spine_color: '#9f8493'
   tags:
   - scifi
   title: Brave New World

@@ -13,6 +13,7 @@ book:
   pages: 400
   publication_year: '1974'
   slug: the-dispossessed
+  spine_color: '#e51f34'
   tags:
   - scifi
   title: The Dispossessed

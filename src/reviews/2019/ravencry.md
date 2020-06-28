@@ -15,6 +15,7 @@ book:
   series: Raven's Mark
   series_position: '2'
   slug: ravencry
+  spine_color: '#30191c'
   tags:
   - fantasy
   title: Ravencry

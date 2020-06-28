@@ -9,6 +9,7 @@ book:
   series: Gaea
   series_position: '1'
   slug: titan
+  spine_color: '#228e38'
   title: Titan
 plan:
   date_added: '2018-11-01'

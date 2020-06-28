@@ -15,6 +15,7 @@ book:
   series: The Golem and the Jinni
   series_position: '1'
   slug: the-golem-and-the-jinni
+  spine_color: '#8b7f67'
   title: The Golem and the Jinni
 plan:
   date_added: '2018-08-20'

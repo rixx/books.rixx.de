@@ -15,6 +15,7 @@ book:
   series: Dragonlord
   series_position: '1'
   slug: the-last-dragonlord
+  spine_color: '#e8be6a'
   title: The Last Dragonlord
 plan:
   date_added: '2018-09-28'

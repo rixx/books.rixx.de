@@ -9,6 +9,7 @@ book:
   pages: 28
   publication_year: '1944'
   slug: beware-of-the-dog
+  spine_color: '#603e5d'
   title: Beware of the Dog
 plan:
   date_added: '2019-04-22'

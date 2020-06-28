@@ -15,6 +15,7 @@ book:
   series: The Expanse
   series_position: '1'
   slug: leviathan-wakes
+  spine_color: '#19384a'
   tags:
   - scifi
   title: Leviathan Wakes

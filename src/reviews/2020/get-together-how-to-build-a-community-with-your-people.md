@@ -11,6 +11,7 @@ book:
   pages: 191
   publication_year: null
   slug: get-together-how-to-build-a-community-with-your-people
+  spine_color: '#fd610c'
   tags:
   - nonfiction
   title: 'Get Together: How to build a community with your people'

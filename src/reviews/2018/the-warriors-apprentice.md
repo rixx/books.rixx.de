@@ -14,6 +14,7 @@ book:
   series: Vorkosigan Saga
   series_position: '2'
   slug: the-warriors-apprentice
+  spine_color: '#cfa08d'
   tags:
   - scifi
   title: The Warrior's Apprentice

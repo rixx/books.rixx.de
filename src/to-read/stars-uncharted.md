@@ -6,6 +6,7 @@ book:
   goodreads: '36644837'
   publication_year: '2018'
   slug: stars-uncharted
+  spine_color: '#5b3f33'
   title: Stars Uncharted
 plan:
   date_added: '2018-10-17'

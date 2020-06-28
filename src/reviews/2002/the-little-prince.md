@@ -7,6 +7,7 @@ book:
   pages: '93'
   publication_year: '1943'
   slug: the-little-prince
+  spine_color: '#094d8e'
   title: The Little Prince
 plan:
   date_added: '2015-04-09'

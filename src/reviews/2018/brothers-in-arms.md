@@ -15,6 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '5'
   slug: brothers-in-arms
+  spine_color: '#bda480'
   tags:
   - scifi
   title: Brothers in Arms

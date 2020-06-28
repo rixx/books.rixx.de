@@ -13,6 +13,7 @@ book:
   pages: 218
   publication_year: '1984'
   slug: the-last-starfighter
+  spine_color: '#9db7b8'
   tags:
   - scifi
   - ya

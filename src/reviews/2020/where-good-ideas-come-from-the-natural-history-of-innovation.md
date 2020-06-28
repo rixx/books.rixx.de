@@ -13,6 +13,7 @@ book:
   pages: 326
   publication_year: '2010'
   slug: where-good-ideas-come-from-the-natural-history-of-innovation
+  spine_color: '#d8d56e'
   tags:
   - nonfiction
   - psychology

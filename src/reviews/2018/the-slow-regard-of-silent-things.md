@@ -15,6 +15,7 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2.5'
   slug: the-slow-regard-of-silent-things
+  spine_color: '#134d69'
   tags:
   - fantasy
   title: The Slow Regard of Silent Things

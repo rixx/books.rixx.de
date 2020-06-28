@@ -13,6 +13,7 @@ book:
   pages: 352
   publication_year: '2011'
   slug: the-song-of-achilles
+  spine_color: '#ab873b'
   title: The Song of Achilles
 plan:
   date_added: '2019-11-24'

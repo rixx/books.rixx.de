@@ -15,6 +15,7 @@ book:
   series: Wind on Fire
   series_position: '1'
   slug: the-wind-singer
+  spine_color: '#dfb08e'
   title: The Wind Singer
 plan:
   date_added: '2019-09-29'

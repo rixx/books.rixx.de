@@ -11,6 +11,7 @@ book:
   series: Laundry Files
   series_position: '3'
   slug: the-fuller-memorandum
+  spine_color: '#d1caa6'
   tags:
   - urban-fantasy
   title: The Fuller Memorandum

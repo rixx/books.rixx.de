@@ -15,6 +15,7 @@ book:
   series: Lightbringer
   series_position: '1'
   slug: the-black-prism
+  spine_color: '#a7b7d1'
   title: The Black Prism
 plan:
   date_added: '2018-09-15'

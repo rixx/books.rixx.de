@@ -15,6 +15,7 @@ book:
   series: The Expanse
   series_position: '3'
   slug: abaddons-gate
+  spine_color: '#ab9a53'
   tags:
   - scifi
   title: Abaddon's Gate

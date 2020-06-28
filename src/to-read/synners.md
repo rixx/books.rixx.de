@@ -9,6 +9,7 @@ book:
   pages: '448'
   publication_year: '1991'
   slug: synners
+  spine_color: '#e95e12'
   title: Synners
 plan:
   date_added: '2019-03-09'

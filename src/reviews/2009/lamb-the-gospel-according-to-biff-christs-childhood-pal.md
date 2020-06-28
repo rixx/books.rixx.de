@@ -13,6 +13,7 @@ book:
   pages: 464
   publication_year: '2002'
   slug: lamb-the-gospel-according-to-biff-christs-childhood-pal
+  spine_color: '#f8da2c'
   tags:
   - historical-fiction
   title: 'Lamb: The Gospel According to Biff, Christ''s Childhood Pal'

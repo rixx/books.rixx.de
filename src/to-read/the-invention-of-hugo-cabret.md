@@ -13,6 +13,7 @@ book:
   pages: 533
   publication_year: '2007'
   slug: the-invention-of-hugo-cabret
+  spine_color: '#147fc4'
   title: The Invention of Hugo Cabret
 plan:
   date_added: '2016-05-19'

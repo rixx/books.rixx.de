@@ -15,6 +15,7 @@ book:
   series: Craft Sequence
   series_position: '2'
   slug: two-serpents-rise
+  spine_color: '#e4d66f'
   title: Two Serpents Rise
 plan:
   date_added: '2019-10-05'

@@ -13,6 +13,7 @@ book:
   pages: 429
   publication_year: '2018'
   slug: sisyphean
+  spine_color: '#8f8276'
   title: Sisyphean
 plan:
   date_added: '2018-07-24'

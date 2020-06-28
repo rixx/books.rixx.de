@@ -13,6 +13,7 @@ book:
   pages: 64
   publication_year: '1905'
   slug: sultanas-dream
+  spine_color: '#8d0405'
   tags:
   - scifi
   title: Sultana's Dream

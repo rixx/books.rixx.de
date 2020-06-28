@@ -9,6 +9,7 @@ book:
   series: Sacrifices Arc
   series_position: '2'
   slug: no-mouth-but-some-serpents
+  spine_color: '#312f4b'
   tags:
   - fanfic
   title: No Mouth But Some Serpent's

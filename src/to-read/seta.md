@@ -15,6 +15,7 @@ book:
   series: Silk
   series_position: ''
   slug: seta
+  spine_color: '#a3946f'
   tags: []
   title: Seta
 plan:

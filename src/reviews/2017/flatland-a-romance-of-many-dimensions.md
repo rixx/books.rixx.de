@@ -13,6 +13,7 @@ book:
   pages: 96
   publication_year: '1884'
   slug: flatland-a-romance-of-many-dimensions
+  spine_color: '#e2e3b4'
   tags:
   - scifi
   title: 'Flatland: A Romance of Many Dimensions'

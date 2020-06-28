@@ -13,6 +13,7 @@ book:
   pages: 320
   publication_year: '2003'
   slug: dance-of-the-photons-from-einstein-to-quantum-teleportation
+  spine_color: '#11179e'
   title: 'Dance of the Photons: From Einstein to Quantum Teleportation'
 plan:
   date_added: '2016-10-05'

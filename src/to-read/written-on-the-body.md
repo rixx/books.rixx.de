@@ -13,6 +13,7 @@ book:
   pages: 192
   publication_year: '1992'
   slug: written-on-the-body
+  spine_color: '#dbd3bf'
   title: Written on the Body
 plan:
   date_added: 2020-06-07

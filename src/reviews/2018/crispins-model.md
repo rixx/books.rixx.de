@@ -9,6 +9,7 @@ book:
   pages: '34'
   publication_year: '2017'
   slug: crispins-model
+  spine_color: '#857045'
   title: Crispin's Model
 plan:
   date_added: '2018-08-02'

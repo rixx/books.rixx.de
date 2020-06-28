@@ -8,6 +8,7 @@ book:
   series: Ash and Sand
   series_position: '1'
   slug: kings-of-paradise
+  spine_color: '#1c6767'
   title: Kings of Paradise
 plan:
   date_added: '2018-11-05'

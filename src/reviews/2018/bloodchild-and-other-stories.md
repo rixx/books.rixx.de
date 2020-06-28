@@ -9,6 +9,7 @@ book:
   pages: '214'
   publication_year: '1995'
   slug: bloodchild-and-other-stories
+  spine_color: '#ae8050'
   title: Bloodchild and Other Stories
 plan:
   date_added: '2018-03-13'

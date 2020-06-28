@@ -9,6 +9,7 @@ book:
   pages: '21'
   publication_year: '2019'
   slug: the-last-voyage-of-skidbladnir
+  spine_color: '#242334'
   tags:
   - scifi
   title: The Last Voyage of Skidbladnir

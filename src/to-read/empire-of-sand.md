@@ -8,6 +8,7 @@ book:
   series: The Books of Ambha
   series_position: '1'
   slug: empire-of-sand
+  spine_color: '#722f26'
   title: Empire of Sand
 plan:
   date_added: '2018-12-04'

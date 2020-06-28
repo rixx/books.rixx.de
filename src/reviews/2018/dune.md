@@ -15,6 +15,7 @@ book:
   series: Dune Chronicles
   series_position: '1'
   slug: dune
+  spine_color: '#5a4f23'
   tags:
   - scifi
   - space-monks

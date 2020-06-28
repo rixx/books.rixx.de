@@ -15,6 +15,7 @@ book:
   series: Nightside
   series_position: '1'
   slug: something-from-the-nightside
+  spine_color: '#cfc178'
   title: Something from the Nightside
 plan:
   date_added: '2018-10-02'

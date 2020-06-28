@@ -15,6 +15,7 @@ book:
   series: Farseer Trilogy
   series_position: '2'
   slug: royal-assassin
+  spine_color: '#9a8c5b'
   tags:
   - fantasy
   title: Royal Assassin

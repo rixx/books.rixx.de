@@ -15,6 +15,7 @@ book:
   series: Space Odyssey
   series_position: '1'
   slug: 2001-a-space-odyssey
+  spine_color: '#cac2a7'
   title: '2001: A Space Odyssey'
 plan:
   date_added: '2018-07-31'

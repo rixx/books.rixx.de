@@ -15,6 +15,7 @@ book:
   series: The Dark Tower
   series_position: '2'
   slug: the-drawing-of-the-three
+  spine_color: '#ac664d'
   tags:
   - fantasy
   title: The Drawing of the Three

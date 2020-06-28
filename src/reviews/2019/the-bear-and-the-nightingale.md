@@ -15,6 +15,7 @@ book:
   series: Winternight Trilogy
   series_position: '1'
   slug: the-bear-and-the-nightingale
+  spine_color: '#46577c'
   tags:
   - fantasy
   - myths-legends

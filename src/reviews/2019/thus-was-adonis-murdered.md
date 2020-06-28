@@ -11,6 +11,7 @@ book:
   series: Hilary Tamar
   series_position: '1'
   slug: thus-was-adonis-murdered
+  spine_color: '#6d1a2b'
   title: Thus Was Adonis Murdered
 plan:
   date_added: '2019-12-16'

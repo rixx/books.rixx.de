@@ -9,6 +9,7 @@ book:
   series: Harry Potter
   series_position: '6'
   slug: harry-potter-and-the-half-blood-prince
+  spine_color: '#b9bf56'
   tags:
   - fantasy
   - german

@@ -13,6 +13,7 @@ book:
   pages: 640
   publication_year: '1974'
   slug: working-people-talk-about-what-they-do-all-day-and-how-they-feel-about-what-they-do
+  spine_color: '#d4bb83'
   title: 'Working: People Talk about What They Do All Day and How They Feel about
     What They Do'
 plan:

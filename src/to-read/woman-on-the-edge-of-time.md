@@ -13,6 +13,7 @@ book:
   pages: 381
   publication_year: '1976'
   slug: woman-on-the-edge-of-time
+  spine_color: '#a9c3dd'
   title: Woman on the Edge of Time
 plan:
   date_added: '2018-12-01'

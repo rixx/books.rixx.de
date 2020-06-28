@@ -9,6 +9,7 @@ book:
   pages: '285'
   publication_year: '2017'
   slug: the-unicorn-anthology
+  spine_color: '#b4b0ad'
   tags:
   - fantasy
   title: The Unicorn Anthology

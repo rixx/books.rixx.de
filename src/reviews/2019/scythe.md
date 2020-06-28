@@ -15,6 +15,7 @@ book:
   series: Arc of a Scythe
   series_position: '1'
   slug: scythe
+  spine_color: '#ad2018'
   tags:
   - scifi
   title: Scythe

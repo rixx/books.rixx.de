@@ -11,6 +11,7 @@ book:
   series: Dancers at the End of Time
   series_position: 1
   slug: an-alien-heat
+  spine_color: '#dbd3bf'
   title: An Alien Heat
 plan:
   date_added: 2020-06-07
