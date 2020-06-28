@@ -477,6 +477,7 @@ def build_site(**kwargs):
         "index.html",
         text=open("src/index.md").read(),
         reviews=all_reviews[:5],
+        shelf_books=sorted(all_reviews, key=lambda x: x.metadata["book"]["author"]),
     )
 
     # Render stats page

@@ -1,6 +1,7 @@
 import datetime as dt
 import glob
 import os
+import random
 import re
 import shutil
 import subprocess
@@ -306,6 +307,24 @@ class Review:
         subprocess.check_call(
             ["xdg-open", Path("src/covers") / self.metadata["book"]["cover_image"]]
         )
+
+    def get_spine_height(self):
+        height = self.metadata["book"].get("dimensions", {}).get("height")
+        if not height:
+            height = random.randint(16, 25)
+        return min(int(height * 4), 110)
+
+    def get_spine_width(self):
+        width = self.metadata["book"].get("dimensions", {}).get("thickness")
+        if not width:
+            pages = self.metadata["book"].get("pages")
+            if not pages:
+                width = random.randint(1, 4) / 2
+            else:
+                width = (
+                    int(pages) * 0.007
+                )  # Factor taken from known thickness/page ratio
+        return min(max(int(width * 4), 10), 30)  # Clamp between 10 and 30
 
 
 def _load_entries(dirpath):

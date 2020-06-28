@@ -1,5 +1,3 @@
-# Welcome to log(book)!
-
 This is where I valiantly try to keep track of
 
 * the [books I’ve read](/reviews/), and my opinions on them

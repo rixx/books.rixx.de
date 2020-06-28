@@ -1,7 +1,7 @@
 import datetime as dt
 import json
-import textwrap
 import subprocess
+import textwrap
 
 import tweepy
 from mastodon import Mastodon
