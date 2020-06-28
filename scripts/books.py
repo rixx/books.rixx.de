@@ -75,7 +75,7 @@ class Review:
             self.metadata = metadata
             self.text = text
         else:
-            raise Exception("A review needs metadata or a path!")
+            raise Exception(f"A review needs metadata or a path! ({self.path})")
         if not self.metadata["book"].get("slug"):
             self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
 
@@ -124,7 +124,9 @@ class Review:
             if entry_type == "reviews" and not self.metadata.get("review", {}).get(
                 "date_read"
             ):
-                raise Exception("Cannot become a review, no date_read provided!")
+                raise Exception(
+                    f"Cannot become a review, no date_read provided! ({self.path})"
+                )
             self.entry_type = entry_type
         if save:
             self.save()
@@ -199,49 +201,16 @@ class Review:
         if not self.metadata["book"].get("slug"):
             self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
         required = ("title", "author", "slug")
-        optional = (
-            "publication_year",
-            "cover_image",
-            "cover_description",
-            "cover_image_url",
-            "series",
-            "series_position",
-            "goodreads",
-            "slug",
-            "pages",
-            "isbn10",
-            "isbn13",
-            "tags",
-            "source",
-        )
-
         if any(not self.metadata["book"].get(key) for key in required):
             raise Exception("Missing required metadata in post")
-        superflous = set(self.metadata["book"].keys()) - set(required) - set(optional)
-        if superflous:
-            raise Exception(f"Superflous keys in post book data: {superflous}")
 
-        if "review" in self.metadata:
+        if "review" in self.metadata and self.entry_type == "reviews":
             if not self.metadata["review"].get("date_read"):
-                raise Exception("A review needs a date_read.")
-            superflous = set(self.metadata["review"].keys()) - set(
-                (
-                    "date_read",
-                    "date_started",
-                    "format",
-                    "rating",
-                    "did_not_finish",
-                    "tldr",
-                )
-            )
-            if superflous:
-                raise Exception(f"Superflous keys in post review data: {superflous}")
+                raise Exception(f"A review needs a date_read. ({self.path})")
 
         if "plan" in self.metadata:
             if not self.metadata["plan"].get("date_added"):
                 self.metadata["plan"]["date_added"] = dt.datetime.now().date()
-            if list(self.metadata["plan"].keys()) != ["date_added"]:
-                raise Exception("Unknown keys in post plan data.")
         else:
             self.metadata["plan"] = {"date_added": dt.datetime.now().date()}
 
