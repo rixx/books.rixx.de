@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: dawn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388290339l/60929.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.6
+    width: 10.5
   goodreads: '60929'
   isbn10: '0446603775'
   isbn13: '9780446603775'
-  pages: '248'
+  pages: 256
   publication_year: '1987'
   series: Xenogenesis
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: James S.A. Corey
   cover_image: abaddons-gate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572059l/16131032._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.8
+    width: 15.2
   goodreads: '16131032'
   isbn10: 0316129070
   isbn13: '9780316129077'
-  pages: '539'
+  pages: 576
   publication_year: '2013'
   series: The Expanse
   series_position: '3'

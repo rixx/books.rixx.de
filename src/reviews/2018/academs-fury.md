@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: academs-fury.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381026900l/133664._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 4.0
+    width: 10.6
   goodreads: '133664'
   isbn10: '0441013406'
   isbn13: '9780441013401'
-  pages: '702'
+  pages: 702
   publication_year: '2005'
   series: Codex Alera
   series_position: '2'

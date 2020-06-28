@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: raising-steam.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582860489l/11275323._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.3
+    width: 16.1
   goodreads: '11275323'
   isbn10: 0857522272
   isbn13: '9780857522276'
-  pages: '377'
+  pages: 377
   publication_year: '2013'
   series: Discworld
   series_position: '40'

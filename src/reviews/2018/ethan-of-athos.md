@@ -3,10 +3,14 @@ book:
   author: Lois McMaster Bujold
   cover_image: ethan-of-athos.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365244555l/990093._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.8
+    width: 10.6
   goodreads: '990093'
   isbn10: 067165604X
   isbn13: '9780671656041'
-  pages: '237'
+  pages: 256
   publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '3'

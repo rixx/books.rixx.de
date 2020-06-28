@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: the-wee-free-men.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443764106l/34494._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.9
+    width: 10.5
   goodreads: '34494'
   isbn10: 0060012382
   isbn13: '9780060012380'
-  pages: '375'
+  pages: 400
   publication_year: '2003'
   series: Discworld
   series_position: '30'

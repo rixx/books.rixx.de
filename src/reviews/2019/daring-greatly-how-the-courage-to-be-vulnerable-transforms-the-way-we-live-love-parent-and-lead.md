@@ -3,10 +3,14 @@ book:
   author: Brené Brown
   cover_image: daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337110319l/13588356._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.8
+    width: 14.7
   goodreads: '13588356'
   isbn10: '1592407331'
   isbn13: '9781592407330'
-  pages: '287'
+  pages: 287
   publication_year: '2012'
   slug: daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead
   tags:

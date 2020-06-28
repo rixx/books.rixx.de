@@ -3,10 +3,14 @@ book:
   author: Agatha Christie
   cover_image: the-abc-murders.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733983l/16322.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.3
+    width: 14.9
   goodreads: '16322'
   isbn10: '1579126243'
   isbn13: '9781579126247'
-  pages: '232'
+  pages: 252
   publication_year: '1936'
   series: Hercule Poirot
   series_position: '13'

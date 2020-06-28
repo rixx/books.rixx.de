@@ -3,10 +3,14 @@ book:
   author: Herman Melville
   cover_image: moby-dick-or-the-whale.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 3.1
+    width: 13.8
   goodreads: '153747'
   isbn10: '0142437247'
   isbn13: '9780142437247'
-  pages: '654'
+  pages: 654
   publication_year: '1851'
   slug: moby-dick-or-the-whale
   title: Moby-Dick or, the Whale

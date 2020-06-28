@@ -3,10 +3,14 @@ book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-chamber-of-secrets.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.7
+    width: 15.2
   goodreads: '15881'
   isbn10: 0439064864
   isbn13: '9780439064866'
-  pages: '341'
+  pages: 341
   publication_year: '1998'
   series: Harry Potter
   series_position: '2'

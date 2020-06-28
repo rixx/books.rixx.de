@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: johnny-and-the-dead.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391549664l/34528.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.1
+    width: 16.6
   goodreads: '34528'
   isbn10: 0060541881
   isbn13: '9780060541880'
-  pages: '213'
+  pages: 213
   publication_year: '1993'
   series: Johnny Maxwell
   series_position: '2'

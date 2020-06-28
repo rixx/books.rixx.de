@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: blood-rites.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557965l/99383._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.6
+    width: 10.8
   goodreads: '99383'
   isbn10: 0451459873
   isbn13: '9780451459879'
-  pages: '452'
+  pages: 452
   publication_year: '2004'
   series: The Dresden Files
   series_position: '6'

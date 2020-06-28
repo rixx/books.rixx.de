@@ -3,10 +3,14 @@ book:
   author: Michael Ende
   cover_image: jim-knopf-und-lukas-der-lokomotivfuhrer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1184848247l/1534314.jpg
+  dimensions:
+    height: 21.0
+    thickness: 3.2
+    width: 15.4
   goodreads: '1534314'
   isbn10: '3522176502'
   isbn13: '9783522176507'
-  pages: '256'
+  pages: 256
   publication_year: '1960'
   series: Jim Knopf
   series_position: '1'

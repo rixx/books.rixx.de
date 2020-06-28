@@ -3,10 +3,14 @@ book:
   author: Madeline Miller
   cover_image: the-song-of-achilles.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331154660l/11250317._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.0
+    width: 15.3
   goodreads: '11250317'
   isbn10: '1408816032'
   isbn13: '9781408816035'
-  pages: '352'
+  pages: 352
   publication_year: '2011'
   slug: the-song-of-achilles
   title: The Song of Achilles

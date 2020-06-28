@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: fool-moon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307616l/91477._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.4
+    width: 10.8
   goodreads: '91477'
   isbn10: 0451458125
   isbn13: '9780451458124'
-  pages: '401'
+  pages: 401
   publication_year: '2001'
   series: The Dresden Files
   series_position: '2'

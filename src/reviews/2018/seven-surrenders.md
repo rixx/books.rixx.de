@@ -3,10 +3,14 @@ book:
   author: Ada Palmer
   cover_image: seven-surrenders.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517514624l/28220647._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.0
+    width: 16.3
   goodreads: '28220647'
   isbn10: 0765378027
   isbn13: '9780765378026'
-  pages: '365'
+  pages: 368
   publication_year: '2017'
   series: Terra Ignota
   series_position: '2'

@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: fortunately-the-milk.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380963103l/17349203._SX98_.jpg
+  dimensions:
+    height: 19.1
+    thickness: 1.5
+    width: 12.7
   goodreads: '17349203'
   isbn10: '0062224077'
   isbn13: '9780062224071'
-  pages: '113'
+  pages: 128
   publication_year: '2013'
   slug: fortunately-the-milk
   tags:

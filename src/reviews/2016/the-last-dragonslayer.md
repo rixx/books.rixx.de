@@ -3,10 +3,14 @@ book:
   author: Jasper Fforde
   cover_image: the-last-dragonslayer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346791460l/13316328._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.8
+    width: 14.0
   goodreads: '13316328'
   isbn10: 0547738471
   isbn13: '9780547738475'
-  pages: '296'
+  pages: 296
   publication_year: '2010'
   series: The Last Dragonslayer
   series_position: '1'

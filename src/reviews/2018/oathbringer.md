@@ -3,10 +3,14 @@ book:
   author: Brandon Sanderson
   cover_image: oathbringer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307833l/34002132._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 6.1
+    width: 16.3
   goodreads: '34002132'
   isbn10: 076532637X
   isbn13: '9780765326379'
-  pages: '1243'
+  pages: 1248
   publication_year: '2017'
   series: The Stormlight Archive
   series_position: '3'

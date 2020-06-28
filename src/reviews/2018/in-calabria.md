@@ -3,10 +3,14 @@ book:
   author: Peter S. Beagle
   cover_image: in-calabria.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474818139l/30316199._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.0
+    width: 12.7
   goodreads: '30316199'
   isbn10: '1616962488'
   isbn13: '9781616962487'
-  pages: '176'
+  pages: 176
   publication_year: '2017'
   slug: in-calabria
   tags:

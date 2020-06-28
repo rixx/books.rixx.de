@@ -3,10 +3,14 @@ book:
   author: Jasper Fforde
   cover_image: first-among-sequels.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338467549l/27002._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.2
+    width: 15.2
   goodreads: '27002'
   isbn10: 0670038717
   isbn13: '9780670038718'
-  pages: '363'
+  pages: 363
   publication_year: '2007'
   series: Thursday Next
   series_position: '5'

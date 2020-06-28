@@ -3,10 +3,12 @@ book:
   author: Ralf Isau
   cover_image: die-traume-des-jonathan-jabbok.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999376l/1692789.jpg
+  dimensions:
+    height: 21.0
   goodreads: '1692789'
   isbn10: '3522168968'
   isbn13: '9783522168960'
-  pages: '460'
+  pages: 460
   publication_year: '1995'
   series: Neschan-Trilogie
   series_position: '1'

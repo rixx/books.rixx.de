@@ -3,10 +3,14 @@ book:
   author: Josef Pieper, Gerald Malsbary
   cover_image: leisure-the-basis-of-culture.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781890318352-L.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.3
+    width: 15.2
   goodreads: '767958'
   isbn10: '1890318353'
   isbn13: '9781890318352'
-  pages: '176'
+  pages: 176
   publication_year: '1948'
   slug: leisure-the-basis-of-culture
   tags:

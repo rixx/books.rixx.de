@@ -3,10 +3,12 @@ book:
   author: Kai Meyer
   cover_image: frostfeuer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187201977l/1707436._SY475_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '1707436'
   isbn10: '3785554419'
   isbn13: '9783785554418'
-  pages: '304'
+  pages: 304
   publication_year: '2005'
   slug: frostfeuer
   tags:

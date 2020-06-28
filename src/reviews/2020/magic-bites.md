@@ -3,10 +3,14 @@ book:
   author: Ilona Andrews
   cover_image: magic-bites.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331612872l/38619._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.9
+    width: 10.8
   goodreads: '38619'
   isbn10: 0441014895
   isbn13: '9780441014897'
-  pages: '261'
+  pages: 261
   publication_year: '2007'
   series: Kate Daniels
   series_position: '1'

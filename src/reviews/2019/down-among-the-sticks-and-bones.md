@@ -3,10 +3,14 @@ book:
   author: Seanan McGuire
   cover_image: down-among-the-sticks-and-bones.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473685781l/31450908._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.9
+    width: 14.7
   goodreads: '31450908'
   isbn10: 0765392038
   isbn13: '9780765392039'
-  pages: '187'
+  pages: 192
   publication_year: '2017'
   series: Wayward Children
   series_position: '2'

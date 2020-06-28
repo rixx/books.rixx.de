@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: snuff.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.4
+    width: 16.2
   goodreads: '8785374'
   isbn10: 038561926X
   isbn13: '9780385619264'
-  pages: '378'
+  pages: 378
   publication_year: '2011'
   series: Discworld
   series_position: '39'

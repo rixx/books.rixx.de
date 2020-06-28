@@ -3,10 +3,14 @@ book:
   author: Friedrich Dürrenmatt
   cover_image: der-richter-und-sein-henker.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168575156l/35090.jpg
+  dimensions:
+    height: 20.3
+    thickness: 0.6
+    width: 13.3
   goodreads: '35090'
   isbn10: 0395044995
   isbn13: '9780395044995'
-  pages: '208'
+  pages: 208
   publication_year: '1951'
   slug: der-richter-und-sein-henker
   tags:

@@ -3,10 +3,14 @@ book:
   author: Patrick Rothfuss
   cover_image: the-wise-mans-fear.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 5.3
+    width: 16.0
   goodreads: '1215032'
   isbn10: 0756404738
   isbn13: '9780756404734'
-  pages: '994'
+  pages: 994
   publication_year: '2011'
   series: The Kingkiller Chronicle
   series_position: '2'

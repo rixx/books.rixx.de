@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: whose-body.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387573241l/192893._SY160_.jpg
+  dimensions:
+    height: 17.0
+    thickness: 1.4
+    width: 10.6
   goodreads: '192893'
   isbn10: '0061043575'
   isbn13: '9780061043574'
-  pages: '212'
+  pages: 224
   publication_year: '1923'
   series: Lord Peter Wimsey
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Orson Scott Card
   cover_image: enders-game.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.4
+    width: 10.5
   goodreads: '375802'
   isbn10: 0812550706
   isbn13: '9780812550702'
-  pages: '324'
+  pages: 352
   publication_year: '1985'
   series: Ender’s Saga
   series_position: '1'

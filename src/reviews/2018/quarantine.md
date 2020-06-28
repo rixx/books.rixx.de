@@ -3,10 +3,14 @@ book:
   author: Greg Egan
   cover_image: quarantine.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308958448l/156775.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.8
+    width: 10.6
   goodreads: '156775'
   isbn10: '0061054232'
   isbn13: '9780061054235'
-  pages: '280'
+  pages: 288
   publication_year: '1992'
   series: Subjective Cosmology
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner-fuchsalarm.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424875703l/1839455._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 2.5
+    width: 15.3
   goodreads: '1839455'
   isbn10: '3791504568'
   isbn13: '9783791504568'
-  pages: '256'
+  pages: 256
   publication_year: '1998'
   series: Die Wilden Hühner
   series_position: '3'

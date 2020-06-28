@@ -3,10 +3,14 @@ book:
   author: Brandon Sanderson
   cover_image: the-well-of-ascension.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717596l/68429._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.6
+    width: 16.3
   goodreads: '68429'
   isbn10: 0765316889
   isbn13: '9780765316882'
-  pages: '590'
+  pages: 590
   publication_year: '2007'
   series: Mistborn
   series_position: '2'

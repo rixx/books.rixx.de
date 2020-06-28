@@ -3,10 +3,14 @@ book:
   author: Scott Lynch
   cover_image: red-seas-under-red-skies.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504628967l/887877._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.8
+    width: 15.9
   goodreads: '887877'
   isbn10: 0553804685
   isbn13: '9780553804683'
-  pages: '558'
+  pages: 558
   publication_year: '2007'
   series: Gentleman Bastard
   series_position: '2'

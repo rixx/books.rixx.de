@@ -3,10 +3,14 @@ book:
   author: Diana Wynne Jones
   cover_image: howls-moving-castle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407450489l/6294._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.1
+    width: 10.6
   goodreads: '6294'
   isbn10: 006441034X
   isbn13: '9780064410342'
-  pages: '329'
+  pages: 336
   publication_year: '1986'
   series: Howl's Moving Castle
   series_position: '1'

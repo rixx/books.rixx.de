@@ -3,10 +3,14 @@ book:
   author: Sergei Lukyanenko
   cover_image: night-watch-lukyanenko.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351342315l/359375._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.9
+    width: 13.2
   goodreads: '359375'
   isbn10: '1401359795'
   isbn13: '9781401359799'
-  pages: '455'
+  pages: 455
   publication_year: '1998'
   series: Watch
   series_position: '1'

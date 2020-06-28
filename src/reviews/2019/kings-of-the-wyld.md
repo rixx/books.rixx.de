@@ -3,10 +3,14 @@ book:
   author: Nicholas Eames
   cover_image: kings-of-the-wyld.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 4.3
+    width: 13.8
   goodreads: '30841984'
   isbn10: '0316362476'
   isbn13: '9780316362474'
-  pages: '502'
+  pages: 544
   publication_year: '2017'
   series: The Band
   series_position: '1'

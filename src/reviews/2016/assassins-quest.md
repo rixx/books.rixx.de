@@ -3,10 +3,14 @@ book:
   author: Robin Hobb
   cover_image: assassins-quest.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399584431l/45112._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.1
+    width: 10.8
   goodreads: '45112'
   isbn10: 0553565699
   isbn13: '9780553565690'
-  pages: '757'
+  pages: 757
   publication_year: '1997'
   series: Farseer Trilogy
   series_position: '3'

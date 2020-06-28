@@ -3,10 +3,14 @@ book:
   author: bell hooks
   cover_image: all-about-love-new-visions.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387754966l/17607.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.2
+    width: 14.0
   goodreads: '17607'
   isbn10: 0688168442
   isbn13: '9780688168445'
-  pages: '240'
+  pages: 240
   publication_year: '1999'
   slug: all-about-love-new-visions
   tags:

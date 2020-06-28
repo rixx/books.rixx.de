@@ -3,10 +3,14 @@ book:
   author: James S.A. Corey
   cover_image: babylons-ashes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442247299l/25877663._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.6
+    width: 24.1
   goodreads: '25877663'
   isbn10: '0356504263'
   isbn13: '9780356504261'
-  pages: '538'
+  pages: 538
   publication_year: '2016'
   series: The Expanse
   series_position: '6'

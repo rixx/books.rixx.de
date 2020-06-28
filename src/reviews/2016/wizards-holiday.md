@@ -3,10 +3,14 @@ book:
   author: Diane Duane
   cover_image: wizards-holiday.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400262906l/116562.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.1
+    width: 10.8
   goodreads: '116562'
   isbn10: '0152052070'
   isbn13: '9780152052072'
-  pages: '416'
+  pages: 423
   publication_year: '2003'
   series: Young Wizards
   series_position: '7'

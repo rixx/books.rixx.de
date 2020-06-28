@@ -3,10 +3,14 @@ book:
   author: Neal Shusterman
   cover_image: scythe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172676l/28954189._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.6
+    width: 14.0
   goodreads: '28954189'
   isbn10: '1442472421'
   isbn13: '9781442472426'
-  pages: '435'
+  pages: 435
   publication_year: '2016'
   series: Arc of a Scythe
   series_position: '1'

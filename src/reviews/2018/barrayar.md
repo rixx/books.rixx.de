@@ -3,10 +3,14 @@ book:
   author: Lois McMaster Bujold
   cover_image: barrayar.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.2
+    width: 11.0
   goodreads: '61905'
   isbn10: 0743468414
   isbn13: '9780743468411'
-  pages: '336'
+  pages: 336
   publication_year: '1991'
   series: Vorkosigan Saga
   series_position: '7'

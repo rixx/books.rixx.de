@@ -3,10 +3,14 @@ book:
   author: Gretchen McCulloch
   cover_image: because-internet-understanding-the-new-rules-of-language.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547222587l/36739320._SX98_.jpg
+  dimensions:
+    height: 23.7
+    thickness: 2.7
+    width: 16.1
   goodreads: '36739320'
   isbn10: 0735210934
   isbn13: '9780735210936'
-  pages: '327'
+  pages: 327
   publication_year: '2019'
   slug: because-internet-understanding-the-new-rules-of-language
   tags:

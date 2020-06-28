@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: the-color-of-magic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407111017l/34497._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.4
+    width: 13.5
   goodreads: '34497'
   isbn10: 0060855924
   isbn13: '9780060855925'
-  pages: '228'
+  pages: 288
   publication_year: '1983'
   series: Discworld
   series_position: '1'

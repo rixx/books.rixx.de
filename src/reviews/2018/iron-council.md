@@ -3,10 +3,14 @@ book:
   author: China Miéville
   cover_image: iron-council.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320419476l/68495._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.3
+    width: 15.5
   goodreads: '68495'
   isbn10: 0345458427
   isbn13: '9780345458421'
-  pages: '576'
+  pages: 576
   publication_year: '2004'
   series: New Crobuzon
   series_position: '3'

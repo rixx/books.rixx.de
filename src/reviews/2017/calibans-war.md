@@ -3,10 +3,14 @@ book:
   author: James S.A. Corey
   cover_image: calibans-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 4.5
+    width: 15.4
   goodreads: '12591698'
   isbn10: '1841499900'
   isbn13: '9781841499901'
-  pages: '595'
+  pages: 595
   publication_year: '2012'
   series: The Expanse
   series_position: '2'

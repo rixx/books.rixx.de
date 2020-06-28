@@ -3,10 +3,14 @@ book:
   author: Alan Bradley
   cover_image: the-sweetness-at-the-bottom-of-the-pie.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187001l/6218281.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.9
+    width: 13.3
   goodreads: '6218281'
   isbn10: 0385342306
   isbn13: '9780385342308'
-  pages: '374'
+  pages: 374
   publication_year: '2009'
   series: Flavia de Luce
   series_position: '1'

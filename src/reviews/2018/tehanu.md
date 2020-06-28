@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: tehanu.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924581l/13661.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.3
+    width: 13.5
   goodreads: '13661'
   isbn10: '1416509631'
   isbn13: '9781416509639'
-  pages: '281'
+  pages: 288
   publication_year: '1990'
   series: Earthsea Cycle
   series_position: '4'

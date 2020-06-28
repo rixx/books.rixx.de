@@ -3,10 +3,11 @@ book:
   author: Charles Stross
   cover_image: a-tall-tail.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345706382l/15843549._SX98_.jpg
+  dimensions: {}
   goodreads: '15843549'
   isbn10: '1466828927'
   isbn13: '9781466828926'
-  pages: '32'
+  pages: 32
   publication_year: '2012'
   slug: a-tall-tail
   tags:

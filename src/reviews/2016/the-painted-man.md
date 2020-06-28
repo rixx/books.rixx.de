@@ -3,10 +3,11 @@ book:
   author: Peter V. Brett
   cover_image: the-painted-man.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217594228l/3322866.jpg
+  dimensions: {}
   goodreads: '3322866'
   isbn10: 0007287755
   isbn13: '9780007287758'
-  pages: '416'
+  pages: 544
   publication_year: '2008'
   series: Demon Cycle
   series_position: '1'

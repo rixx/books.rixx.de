@@ -3,9 +3,14 @@ book:
   author: Diane Duane
   cover_image: the-door-into-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520785510l/176506._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.7
+    width: 11.0
   goodreads: '176506'
   isbn10: 0812536711
   isbn13: '9780812536713'
+  pages: 304
   publication_year: '1979'
   series: Tale of the Five
   series_position: '1'

@@ -3,9 +3,14 @@ book:
   author: Greg Egan
   cover_image: axiomatic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341765l/156783._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 1.9
+    width: 15.6
   goodreads: '156783'
   isbn10: '0061052655'
   isbn13: '9780061052651'
+  pages: 293
   publication_year: '1990'
   slug: axiomatic
   tags:

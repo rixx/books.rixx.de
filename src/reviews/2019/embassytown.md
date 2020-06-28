@@ -3,10 +3,14 @@ book:
   author: China Miéville
   cover_image: embassytown.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320470326l/9265453._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 2.9
+    width: 16.2
   goodreads: '9265453'
   isbn10: 0345524497
   isbn13: '9780345524492'
-  pages: '345'
+  pages: 345
   publication_year: '2011'
   slug: embassytown
   tags:

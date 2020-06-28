@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: hangmans-holiday-a-collection-of-short-mysteries.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361834453l/351563._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.2
+    width: 13.4
   goodreads: '351563'
   isbn10: 0060923962
   isbn13: '9780060923969'
-  pages: '191'
+  pages: 192
   publication_year: '1933'
   series: Lord Peter Wimsey
   series_position: '9'

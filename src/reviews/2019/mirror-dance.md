@@ -3,10 +3,14 @@ book:
   author: Lois McMaster Bujold
   cover_image: mirror-dance.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297831387l/61909._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.0
+    width: 10.6
   goodreads: '61909'
   isbn10: 0671876465
   isbn13: '9780671876463'
-  pages: '560'
+  pages: 592
   publication_year: '1994'
   series: Vorkosigan Saga
   series_position: '8'

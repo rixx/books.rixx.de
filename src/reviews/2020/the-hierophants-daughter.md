@@ -3,10 +3,14 @@ book:
   author: M.F. Sullivan
   cover_image: the-hierophants-daughter.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546783070l/43065199._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.7
+    width: 14.0
   goodreads: '43065199'
   isbn10: 0996539573
   isbn13: '9780996539579'
-  pages: '298'
+  pages: 298
   publication_year: '2019'
   slug: the-hierophants-daughter
   tags:

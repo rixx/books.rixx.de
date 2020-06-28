@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: death-masks.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557713l/91479._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 10.5
   goodreads: '91479'
   isbn10: 0451459407
   isbn13: '9780451459404'
-  pages: '432'
+  pages: 432
   publication_year: '2003'
   series: The Dresden Files
   series_position: '5'

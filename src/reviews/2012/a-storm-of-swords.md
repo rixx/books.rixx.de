@@ -3,10 +3,14 @@ book:
   author: George R.R. Martin
   cover_image: a-storm-of-swords.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 4.7
+    width: 10.5
   goodreads: '62291'
   isbn10: 055357342X
   isbn13: '9780553573428'
-  pages: '1177'
+  pages: 1177
   publication_year: '2000'
   series: A Song of Ice and Fire
   series_position: '3'

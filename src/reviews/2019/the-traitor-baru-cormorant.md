@@ -3,10 +3,14 @@ book:
   author: Seth Dickinson
   cover_image: the-traitor-baru-cormorant.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422463936l/23444482._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.5
+    width: 16.4
   goodreads: '23444482'
   isbn10: 0765380722
   isbn13: '9780765380722'
-  pages: '399'
+  pages: 624
   publication_year: '2015'
   series: The Masquerade
   series_position: '1'

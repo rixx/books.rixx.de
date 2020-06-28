@@ -3,10 +3,14 @@ book:
   author: Robin Hobb
   cover_image: royal-assassin.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387145228l/68487._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.9
+    width: 11.1
   goodreads: '68487'
   isbn10: 0006480101
   isbn13: '9780006480105'
-  pages: '752'
+  pages: 752
   publication_year: '1996'
   series: Farseer Trilogy
   series_position: '2'

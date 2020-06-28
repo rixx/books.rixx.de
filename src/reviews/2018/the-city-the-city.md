@@ -3,10 +3,14 @@ book:
   author: China Miéville
   cover_image: the-city-the-city.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320475957l/4703581._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.0
+    width: 16.1
   goodreads: '4703581'
   isbn10: 0345497511
   isbn13: '9780345497512'
-  pages: '312'
+  pages: 312
   publication_year: '2009'
   slug: the-city-the-city
   tags:

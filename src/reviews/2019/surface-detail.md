@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: surface-detail.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 5.1
+    width: 16.5
   goodreads: '7937744'
   isbn10: '0316123404'
   isbn13: '9780316123402'
-  pages: '627'
+  pages: 627
   publication_year: '2010'
   series: Culture
   series_position: '9'

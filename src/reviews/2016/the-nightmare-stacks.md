@@ -3,10 +3,14 @@ book:
   author: Charles Stross
   cover_image: the-nightmare-stacks.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448811411l/24997064._SX98_.jpg
+  dimensions:
+    height: 22.4
+    thickness: 3.4
+    width: 13.9
   goodreads: '24997064'
   isbn10: '0356505340'
   isbn13: '9780356505343'
-  pages: '352'
+  pages: 352
   publication_year: '2016'
   series: Laundry Files
   series_position: '7'

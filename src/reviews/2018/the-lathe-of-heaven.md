@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-lathe-of-heaven.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322l/59924._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.0
+    width: 13.5
   goodreads: '59924'
   isbn10: '0060512741'
   isbn13: '9780060512743'
-  pages: '176'
+  pages: 176
   publication_year: '1971'
   slug: the-lathe-of-heaven
   tags:

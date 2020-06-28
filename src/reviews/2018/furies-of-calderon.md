@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: furies-of-calderon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329104514l/29396._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.8
+    width: 10.6
   goodreads: '29396'
   isbn10: 044101268X
   isbn13: '9780441012688'
-  pages: '504'
+  pages: 504
   publication_year: '2004'
   series: Codex Alera
   series_position: '1'

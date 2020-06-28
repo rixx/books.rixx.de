@@ -3,10 +3,14 @@ book:
   author: Peter S. Beagle
   cover_image: the-last-unicorn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524764327l/29127._SX98_.jpg
+  dimensions:
+    height: 23.0
+    thickness: 1.7
+    width: 13.5
   goodreads: '29127'
   isbn10: '0451450523'
   isbn13: '9780451450524'
-  pages: '294'
+  pages: 294
   publication_year: '1968'
   series: The Last Unicorn
   series_position: '1'

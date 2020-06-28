@@ -3,10 +3,14 @@ book:
   author: Alan Dean Foster
   cover_image: the-last-starfighter.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331964853l/981786._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 17.8
   goodreads: '981786'
   isbn10: 042507255X
   isbn13: '9780425072554'
-  pages: '218'
+  pages: 218
   publication_year: '1984'
   slug: the-last-starfighter
   tags:

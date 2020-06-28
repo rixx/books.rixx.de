@@ -3,10 +3,14 @@ book:
   author: Zen Cho
   cover_image: sorcerer-to-the-crown.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430239646l/23943137._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.5
+    width: 16.5
   goodreads: '23943137'
   isbn10: 0425283372
   isbn13: '9780425283370'
-  pages: '371'
+  pages: 371
   publication_year: '2015'
   series: Sorcerer Royal
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Stephen King
   cover_image: the-drawing-of-the-three.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.3
+    width: 10.8
   goodreads: '5094'
   isbn10: 0451210859
   isbn13: '9780451210852'
-  pages: '463'
+  pages: 463
   publication_year: '1987'
   series: The Dark Tower
   series_position: '2'

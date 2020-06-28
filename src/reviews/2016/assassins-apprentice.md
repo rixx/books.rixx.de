@@ -3,10 +3,14 @@ book:
   author: Robin Hobb
   cover_image: assassins-apprentice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320339497l/45107._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.3
+    width: 11.1
   goodreads: '45107'
   isbn10: 0006480098
   isbn13: '9780006480099'
-  pages: '460'
+  pages: 480
   publication_year: '1995'
   series: Farseer Trilogy
   series_position: '1'

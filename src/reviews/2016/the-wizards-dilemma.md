@@ -3,10 +3,12 @@ book:
   author: Diane Duane
   cover_image: the-wizards-dilemma.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924459l/116561.jpg
+  dimensions:
+    height: 18.0
   goodreads: '116561'
   isbn10: 015205491X
   isbn13: '9780152054915'
-  pages: '432'
+  pages: 432
   publication_year: '2001'
   series: Young Wizards
   series_position: '5'

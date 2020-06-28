@@ -3,9 +3,14 @@ book:
   author: Otfried Preußler
   cover_image: the-little-ghost.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392994064l/316808._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.5
+    width: 14.5
   goodreads: '316808'
   isbn10: '3522174402'
   isbn13: '9783522174404'
+  pages: 137
   publication_year: '1966'
   slug: the-little-ghost
   tags:

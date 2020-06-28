@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-wild-girls.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328742480l/9922371._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 0.8
+    width: 12.7
   goodreads: '9922371'
   isbn10: '1604864036'
   isbn13: '9781604864038'
-  pages: '128'
+  pages: 128
   publication_year: '2011'
   slug: the-wild-girls
   tags:

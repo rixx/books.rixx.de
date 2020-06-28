@@ -3,10 +3,14 @@ book:
   author: Neal Stephenson
   cover_image: anathem.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488349209l/2845024._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 5.2
+    width: 15.6
   goodreads: '2845024'
   isbn10: 0061474096
   isbn13: '9780061474095'
-  pages: '937'
+  pages: 937
   publication_year: '2008'
   slug: anathem
   tags:

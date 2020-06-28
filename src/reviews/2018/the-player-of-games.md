@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: the-player-of-games.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922873l/18630.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.3
+    width: 15.6
   goodreads: '18630'
   isbn10: '0061053562'
   isbn13: '9780061053566'
-  pages: '293'
+  pages: 293
   publication_year: '1988'
   series: Culture
   series_position: '2'

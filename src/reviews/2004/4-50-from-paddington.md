@@ -3,10 +3,14 @@ book:
   author: Agatha Christie
   cover_image: 4-50-from-paddington.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388324483l/140278.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.5
+    width: 14.9
   goodreads: '140278'
   isbn10: '1579126936'
   isbn13: '9781579126933'
-  pages: '288'
+  pages: 288
   publication_year: '1957'
   series: Miss Marple
   series_position: '7'

@@ -3,10 +3,14 @@ book:
   author: Robert Louis Stevenson
   cover_image: treasure-island.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909l/295._SX98_.jpg
+  dimensions:
+    height: 21.3
+    thickness: 3.5
+    width: 16.6
   goodreads: '295'
   isbn10: 0753453800
   isbn13: '9780753453803'
-  pages: '311'
+  pages: 352
   publication_year: '1879'
   slug: treasure-island
   tags:

@@ -3,10 +3,14 @@ book:
   author: Rainer Maria Rilke
   cover_image: the-notebooks-of-malte-laurids-brigge.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348925210l/93405.jpg
+  dimensions:
+    height: 19.0
+    thickness: 1.5
+    width: 13.5
   goodreads: '93405'
   isbn10: 0393308812
   isbn13: '9780393308815'
-  pages: '237'
+  pages: 237
   publication_year: '1910'
   slug: the-notebooks-of-malte-laurids-brigge
   tags:

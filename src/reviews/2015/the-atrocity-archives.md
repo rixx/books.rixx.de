@@ -3,10 +3,14 @@ book:
   author: Charles Stross
   cover_image: the-atrocity-archives.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440461724l/101869._SY475_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.6
+    width: 13.0
   goodreads: '101869'
   isbn10: '0441013651'
   isbn13: '9780441013654'
-  pages: '345'
+  pages: 345
   publication_year: '2004'
   series: Laundry Files
   series_position: '1'

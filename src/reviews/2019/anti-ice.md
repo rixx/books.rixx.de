@@ -3,10 +3,14 @@ book:
   author: Stephen Baxter
   cover_image: anti-ice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170621179l/64128.jpg
+  dimensions:
+    height: 17.1
+    thickness: 2.2
+    width: 10.7
   goodreads: '64128'
   isbn10: '0061054216'
   isbn13: '9780061054211'
-  pages: '289'
+  pages: 304
   publication_year: '1993'
   slug: anti-ice
   tags:

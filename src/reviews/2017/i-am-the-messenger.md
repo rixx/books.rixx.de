@@ -3,10 +3,14 @@ book:
   author: Markus Zusak
   cover_image: i-am-the-messenger.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398483261l/19057._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.9
+    width: 13.3
   goodreads: '19057'
   isbn10: 0375836675
   isbn13: '9780375836671'
-  pages: '357'
+  pages: 357
   publication_year: '2002'
   slug: i-am-the-messenger
   tags:

@@ -3,10 +3,14 @@ book:
   author: Alan Bradley
   cover_image: as-chimney-sweepers-come-to-dust.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406214651l/21874813._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.5
+    width: 13.2
   goodreads: '21874813'
   isbn10: 0345539931
   isbn13: '9780345539939'
-  pages: '392'
+  pages: 392
   publication_year: '2015'
   series: Flavia de Luce
   series_position: '7'

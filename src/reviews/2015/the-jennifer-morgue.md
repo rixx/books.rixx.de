@@ -3,10 +3,14 @@ book:
   author: Charles Stross
   cover_image: the-jennifer-morgue.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920541l/14150.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.2
+    width: 14.0
   goodreads: '14150'
   isbn10: '1930846452'
   isbn13: '9781930846456'
-  pages: '313'
+  pages: 313
   publication_year: '2006'
   series: Laundry Files
   series_position: '2'

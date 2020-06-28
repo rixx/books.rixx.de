@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: murder-must-advertise.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389232617l/351559.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.3
+    width: 10.6
   goodreads: '351559'
   isbn10: 0061043559
   isbn13: '9780061043550'
-  pages: '356'
+  pages: 356
   publication_year: '1933'
   series: Lord Peter Wimsey
   series_position: '10'

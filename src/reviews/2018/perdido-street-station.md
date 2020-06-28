@@ -3,10 +3,14 @@ book:
   author: China Miéville
   cover_image: perdido-street-station.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.7
+    width: 10.7
   goodreads: '68494'
   isbn10: 0345459407
   isbn13: '9780345459404'
-  pages: '623'
+  pages: 623
   publication_year: '2000'
   series: New Crobuzon
   series_position: '1'

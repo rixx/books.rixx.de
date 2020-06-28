@@ -3,10 +3,14 @@ book:
   author: Richard Kadrey
   cover_image: kill-the-dead.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275103078l/7778609._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 3.5
+    width: 12.7
   goodreads: '7778609'
   isbn10: '0061714313'
   isbn13: '9780061714313'
-  pages: '434'
+  pages: 448
   publication_year: '2010'
   series: Sandman Slim
   series_position: '2'

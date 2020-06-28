@@ -3,10 +3,14 @@ book:
   author: Wen Spencer
   cover_image: a-brothers-price.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309211084l/544240._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.3
+    width: 11.2
   goodreads: '544240'
   isbn10: 0451460383
   isbn13: '9780451460387'
-  pages: '310'
+  pages: 310
   publication_year: '2005'
   slug: a-brothers-price
   tags:

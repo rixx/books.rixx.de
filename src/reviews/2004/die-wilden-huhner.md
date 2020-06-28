@@ -3,9 +3,14 @@ book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174151858l/366121._SX318_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 2.5
+    width: 15.1
   goodreads: '366121'
   isbn10: '3791504452'
   isbn13: '9783791504452'
+  pages: 175
   publication_year: '1993'
   series: Die Wilden Hühner
   series_position: '1'

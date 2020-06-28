@@ -3,10 +3,14 @@ book:
   author: Pierce Brown
   cover_image: golden-son.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354417l/20697410._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.8
+    width: 16.3
   goodreads: '20697410'
   isbn10: 0345539818
   isbn13: '9780345539816'
-  pages: '442'
+  pages: 448
   publication_year: '2015'
   series: Red Rising
   series_position: '2'

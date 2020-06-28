@@ -3,10 +3,14 @@ book:
   author: John Flanagan
   cover_image: the-ruins-of-gorlan.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293952830l/60400._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 1.8
+    width: 13.0
   goodreads: '60400'
   isbn10: '0142406635'
   isbn13: '9780142406632'
-  pages: '249'
+  pages: 249
   publication_year: '2004'
   series: Ranger's Apprentice
   series_position: '1'

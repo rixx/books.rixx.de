@@ -3,10 +3,14 @@ book:
   author: Koushun Takami
   cover_image: battle-royale.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331235272l/57891._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 3.2
+    width: 14.3
   goodreads: '57891'
   isbn10: 156931778X
   isbn13: '9781569317785'
-  pages: '617'
+  pages: 617
   publication_year: '1999'
   slug: battle-royale
   tags:

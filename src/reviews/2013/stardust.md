@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: stardust.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459127484l/16793._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.6
+    width: 13.5
   goodreads: '16793'
   isbn10: '0061142026'
   isbn13: '9780061142024'
-  pages: '248'
+  pages: 288
   publication_year: '1997'
   slug: stardust
   tags:

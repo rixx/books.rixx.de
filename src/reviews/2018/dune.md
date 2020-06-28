@@ -3,10 +3,14 @@ book:
   author: Frank Herbert
   cover_image: dune.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434908555l/234225._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 3.9
+    width: 13.1
   goodreads: '234225'
   isbn10: 0340839937
   isbn13: '9780340839935'
-  pages: '604'
+  pages: 604
   publication_year: '1965'
   series: Dune Chronicles
   series_position: '1'

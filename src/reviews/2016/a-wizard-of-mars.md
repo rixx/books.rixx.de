@@ -3,10 +3,14 @@ book:
   author: Diane Duane
   cover_image: a-wizard-of-mars.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272379484l/1583121._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 4.3
+    width: 14.0
   goodreads: '1583121'
   isbn10: '0152047700'
   isbn13: '9780152047702'
-  pages: '550'
+  pages: 550
   publication_year: '2010'
   series: Young Wizards
   series_position: '9'

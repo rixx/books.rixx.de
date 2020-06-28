@@ -3,10 +3,14 @@ book:
   author: Friedrich Nietzsche
   cover_image: twilight-of-the-idols.gif
   cover_image_url: https://upload.wikimedia.org/wikipedia/commons/a/a6/Gotzen-dammerung.gif
+  dimensions:
+    height: 22.0
+    thickness: 13.9
+    width: 0.9
   goodreads: '851994'
   isbn10: 0872203549
   isbn13: '9780872203549'
-  pages: '209'
+  pages: 209
   publication_year: '1888'
   slug: twilight-of-the-idols
   tags:

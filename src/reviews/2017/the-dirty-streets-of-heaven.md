@@ -3,10 +3,14 @@ book:
   author: Tad Williams
   cover_image: the-dirty-streets-of-heaven.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340238037l/13542846._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.8
+    width: 16.3
   goodreads: '13542846'
   isbn10: 0756407680
   isbn13: '9780756407681'
-  pages: '406'
+  pages: 406
   publication_year: '2012'
   series: Bobby Dollar
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: José Saramago, Giovanni Pontiero
   cover_image: blindness.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327866409l/2526._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.5
+    width: 13.5
   goodreads: '2526'
   isbn10: '0156007754'
   isbn13: '9780156007757'
-  pages: '326'
+  pages: 327
   publication_year: '1995'
   slug: blindness
   tags:

@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-farthest-shore.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200537l/13667.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.6
+    width: 13.3
   goodreads: '13667'
   isbn10: 141650964X
   isbn13: '9781416509646'
-  pages: '259'
+  pages: 259
   publication_year: '1972'
   series: Earthsea Cycle
   series_position: '3'

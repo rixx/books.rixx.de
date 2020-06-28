@@ -3,10 +3,14 @@ book:
   author: Vernor Vinge
   cover_image: a-fire-upon-the-deep.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333915005l/77711._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.5
+    width: 11.1
   goodreads: '77711'
   isbn10: 0812515285
   isbn13: '9780812515282'
-  pages: '613'
+  pages: 613
   publication_year: '1992'
   series: Zones of Thought
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Erich Kästner
   cover_image: das-fliegende-klassenzimmer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181250009l/1132597.jpg
+  dimensions:
+    height: 19.0
+    thickness: 2.3
+    width: 15.4
   goodreads: '1132597'
   isbn10: '3791530151'
   isbn13: '9783791530154'
-  pages: '176'
+  pages: 176
   publication_year: '1933'
   slug: das-fliegende-klassenzimmer
   tags:

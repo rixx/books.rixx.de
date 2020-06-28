@@ -3,10 +3,14 @@ book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-deathly-hallows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 5.1
+    width: 15.2
   goodreads: '136251'
   isbn10: '0545010225'
   isbn13: '9780545010221'
-  pages: '759'
+  pages: 759
   publication_year: '2007'
   series: Harry Potter
   series_position: '7'

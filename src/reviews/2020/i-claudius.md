@@ -3,10 +3,14 @@ book:
   author: Robert Graves
   cover_image: i-claudius.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185810l/18765.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.5
+    width: 13.2
   goodreads: '18765'
   isbn10: 067972477X
   isbn13: '9780679724773'
-  pages: '468'
+  pages: 468
   publication_year: '1934'
   series: Claudius
   series_position: '1'

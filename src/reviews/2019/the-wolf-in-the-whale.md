@@ -3,10 +3,14 @@ book:
   author: Jordanna Max Brodsky
   cover_image: the-wolf-in-the-whale.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540397050l/39603796._SX98_.jpg
+  dimensions:
+    height: 21.3
+    thickness: 3.8
+    width: 14.3
   goodreads: '39603796'
   isbn10: '0316417157'
   isbn13: '9780316417150'
-  pages: '544'
+  pages: 560
   publication_year: '2019'
   slug: the-wolf-in-the-whale
   tags:

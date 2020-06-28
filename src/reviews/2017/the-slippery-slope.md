@@ -3,10 +3,12 @@ book:
   author: Lemony Snicket
   cover_image: the-slippery-slope.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518835363l/297792._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '297792'
   isbn10: '0064410137'
   isbn13: '9780064410137'
-  pages: '337'
+  pages: 352
   publication_year: '2003'
   series: A Series of Unfortunate Events
   series_position: '10'

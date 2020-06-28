@@ -3,10 +3,14 @@ book:
   author: Jonathan Stroud
   cover_image: the-amulet-of-samarkand.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347312184l/59267.jpg
+  dimensions:
+    height: 20.0
+    thickness: 3.1
+    width: 12.9
   goodreads: '59267'
   isbn10: 0552550299
   isbn13: '9780552550291'
-  pages: '480'
+  pages: 488
   publication_year: '2003'
   series: Bartimaeus
   series_position: '1'

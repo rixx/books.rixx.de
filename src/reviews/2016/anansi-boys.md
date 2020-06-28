@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: anansi-boys.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479778049l/2744._SX98_.jpg
+  dimensions:
+    height: 17.1
+    thickness: 2.6
+    width: 10.6
   goodreads: '2744'
   isbn10: 0060515198
   isbn13: '9780060515195'
-  pages: '387'
+  pages: 416
   publication_year: '2005'
   series: American Gods
   series_position: '2'

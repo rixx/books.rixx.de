@@ -3,10 +3,14 @@ book:
   author: J.K. Rowling
   cover_image: the-tales-of-beedle-the-bard.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373467575l/3950967._SX98_.jpg
+  dimensions:
+    height: 18.5
+    thickness: 1.3
+    width: 13.3
   goodreads: '3950967'
   isbn10: 0747599874
   isbn13: '9780747599876'
-  pages: '109'
+  pages: 109
   publication_year: '2008'
   slug: the-tales-of-beedle-the-bard
   tags:

@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: consider-phlebas.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.9
+    width: 12.6
   goodreads: '8935689'
   isbn10: '1857231384'
   isbn13: '9781857231380'
-  pages: '471'
+  pages: 471
   publication_year: '1987'
   series: Culture
   series_position: '1'

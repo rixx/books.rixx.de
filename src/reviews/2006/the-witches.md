@@ -3,10 +3,12 @@ book:
   author: Roald Dahl
   cover_image: the-witches.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351707720l/6327._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '6327'
   isbn10: 0590032496
   isbn13: '9780590032490'
-  pages: '208'
+  pages: 208
   publication_year: '1983'
   slug: the-witches
   tags:

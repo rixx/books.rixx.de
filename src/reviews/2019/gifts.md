@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: gifts.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441129920l/13648._SY475_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.1
+    width: 12.7
   goodreads: '13648'
   isbn10: '0152051244'
   isbn13: '9780152051242'
-  pages: '286'
+  pages: 286
   publication_year: '2004'
   series: Annals of the Western Shore
   series_position: '1'

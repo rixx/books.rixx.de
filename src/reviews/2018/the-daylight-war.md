@@ -3,10 +3,14 @@ book:
   author: Peter V. Brett
   cover_image: the-daylight-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360777092l/9268487._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.4
+    width: 16.4
   goodreads: '9268487'
   isbn10: 0345503821
   isbn13: '9780345503824'
-  pages: '639'
+  pages: 639
   publication_year: '2013'
   series: Demon Cycle
   series_position: '3'

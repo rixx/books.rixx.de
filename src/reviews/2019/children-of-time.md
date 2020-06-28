@@ -3,10 +3,14 @@ book:
   author: Adrian Tchaikovsky
   cover_image: children-of-time.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 119.4
+    width: 15.2
   goodreads: '25499718'
   isbn10: '1447273281'
   isbn13: '9781447273288'
-  pages: '600'
+  pages: 600
   publication_year: '2015'
   series: Children of Time
   series_position: '1'

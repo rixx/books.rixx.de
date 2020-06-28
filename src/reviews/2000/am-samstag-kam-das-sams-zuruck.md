@@ -3,10 +3,14 @@ book:
   author: Paul Maar
   cover_image: am-samstag-kam-das-sams-zuruck.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382614776l/1598960._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.2
+    width: 13.3
   goodreads: '1598960'
   isbn10: '3789119547'
   isbn13: '9783789119545'
-  pages: '160'
+  pages: 160
   publication_year: '1980'
   series: Sams
   series_position: '2'

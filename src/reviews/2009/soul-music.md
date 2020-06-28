@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: soul-music.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566175l/34502.jpg
+  dimensions:
+    height: 23.5
+    thickness: 2.5
+    width: 16.0
   goodreads: '34502'
   isbn10: 057506689X
   isbn13: '9780575066892'
-  pages: '424'
+  pages: 424
   publication_year: '1994'
   series: Discworld
   series_position: '16'

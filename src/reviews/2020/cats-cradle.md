@@ -3,10 +3,14 @@ book:
   author: Kurt Vonnegut Jr.
   cover_image: cats-cradle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867150l/135479._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.3
+    width: 11.0
   goodreads: '135479'
   isbn10: 0140285601
   isbn13: '9780140285604'
-  pages: '306'
+  pages: 306
   publication_year: '1963'
   slug: cats-cradle
   tags:

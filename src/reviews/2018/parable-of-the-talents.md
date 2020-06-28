@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: parable-of-the-talents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170553715l/60932._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.5
+    width: 10.5
   goodreads: '60932'
   isbn10: 0446610380
   isbn13: '9780446610384'
-  pages: '448'
+  pages: 448
   publication_year: '1998'
   series: Earthseed
   series_position: '2'

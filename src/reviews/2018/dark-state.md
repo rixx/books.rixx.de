@@ -3,10 +3,14 @@ book:
   author: Charles Stross
   cover_image: dark-state.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497361418l/24997006._SX98_.jpg
+  dimensions:
+    height: 23.2
+    thickness: 2.7
+    width: 15.0
   goodreads: '24997006'
   isbn10: '1509823522'
   isbn13: '9781509823529'
-  pages: '352'
+  pages: 352
   publication_year: '2018'
   series: Empire Games
   series_position: '2'

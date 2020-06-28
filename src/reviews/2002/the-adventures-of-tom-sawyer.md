@@ -3,10 +3,14 @@ book:
   author: Mark Twain
   cover_image: the-adventures-of-tom-sawyer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 1.3
+    width: 12.9
   goodreads: '24583'
   isbn10: 0143039563
   isbn13: '9780143039563'
-  pages: '244'
+  pages: 244
   publication_year: '1875'
   slug: the-adventures-of-tom-sawyer
   tags:

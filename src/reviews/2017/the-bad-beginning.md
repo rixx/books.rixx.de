@@ -3,10 +3,12 @@ book:
   author: Lemony Snicket
   cover_image: the-bad-beginning.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436737029l/78411._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '78411'
   isbn10: 0439206472
   isbn13: '9780439206471'
-  pages: '176'
+  pages: 176
   publication_year: '1999'
   series: A Series of Unfortunate Events
   series_position: '1'

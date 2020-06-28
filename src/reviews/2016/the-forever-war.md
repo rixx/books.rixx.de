@@ -3,10 +3,14 @@ book:
   author: Joe Haldeman
   cover_image: the-forever-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.6
+    width: 13.5
   goodreads: '21611'
   isbn10: 0060510862
   isbn13: '9780060510862'
-  pages: '278'
+  pages: 278
   publication_year: '1974'
   series: The Forever War
   series_position: '1'

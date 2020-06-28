@@ -3,10 +3,14 @@ book:
   author: Patrick Rothfuss
   cover_image: the-slow-regard-of-silent-things.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695l/21535271._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.9
+    width: 14.1
   goodreads: '21535271'
   isbn10: '0756410436'
   isbn13: '9780756410438'
-  pages: '159'
+  pages: 159
   publication_year: '2014'
   series: The Kingkiller Chronicle
   series_position: '2.5'

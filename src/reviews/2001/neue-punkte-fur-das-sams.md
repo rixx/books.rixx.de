@@ -3,9 +3,14 @@ book:
   author: Paul Maar
   cover_image: neue-punkte-fur-das-sams.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350574588l/782796._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.3
+    width: 13.8
   goodreads: '782796'
   isbn10: '3789142042'
   isbn13: '9783789142048'
+  pages: 158
   publication_year: '1992'
   series: Sams
   series_position: '3'

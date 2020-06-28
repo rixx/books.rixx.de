@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: adulthood-rites.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390116834l/116249.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.8
+    width: 10.5
   goodreads: '116249'
   isbn10: 0446603783
   isbn13: '9780446603782'
-  pages: '277'
+  pages: 304
   publication_year: '1988'
   series: Xenogenesis
   series_position: '2'

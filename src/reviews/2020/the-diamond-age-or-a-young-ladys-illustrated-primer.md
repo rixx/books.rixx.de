@@ -3,10 +3,14 @@ book:
   author: Neal Stephenson, Pedro Jorge Romero
   cover_image: the-diamond-age-or-a-young-ladys-illustrated-primer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388180931l/827.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.9
+    width: 13.2
   goodreads: '827'
   isbn10: 0553380966
   isbn13: '9780553380965'
-  pages: '499'
+  pages: 499
   publication_year: '1995'
   slug: the-diamond-age-or-a-young-ladys-illustrated-primer
   tags:

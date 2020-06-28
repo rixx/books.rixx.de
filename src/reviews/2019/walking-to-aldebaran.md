@@ -3,10 +3,14 @@ book:
   author: Adrian Tchaikovsky
   cover_image: walking-to-aldebaran.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539510199l/42201505._SX98_.jpg
+  dimensions:
+    height: 0.9
+    thickness: 1.5
+    width: 0.6
   goodreads: '42201505'
   isbn10: '1781087067'
   isbn13: '9781781087060'
-  pages: '140'
+  pages: 140
   publication_year: '2019'
   slug: walking-to-aldebaran
   tags:

@@ -3,10 +3,14 @@ book:
   author: Daniel Suarez
   cover_image: influx.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310795l/22668803._SY160_.jpg
+  dimensions:
+    height: 19.1
+    thickness: 2.5
+    width: 10.6
   goodreads: '22668803'
   isbn10: 0451469445
   isbn13: '9780451469441'
-  pages: '528'
+  pages: 528
   publication_year: '2014'
   slug: influx
   tags:

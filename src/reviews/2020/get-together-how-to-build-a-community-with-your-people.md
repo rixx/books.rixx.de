@@ -3,9 +3,12 @@ book:
   author: Bailey  Richardson
   cover_image: get-together-how-to-build-a-community-with-your-people.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564379327l/52488258._SX318_SY475_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '52488258'
   isbn10: '1732265194'
   isbn13: '9781732265196'
+  pages: 191
   publication_year: null
   slug: get-together-how-to-build-a-community-with-your-people
   tags:

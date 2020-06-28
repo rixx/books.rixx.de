@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: the-light-fantastic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389554927l/34506.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.9
+    width: 10.6
   goodreads: '34506'
   isbn10: '0061020702'
   isbn13: '9780061020704'
-  pages: '277'
+  pages: 277
   publication_year: '1986'
   series: Discworld
   series_position: '2'

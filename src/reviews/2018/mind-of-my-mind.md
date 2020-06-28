@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: mind-of-my-mind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389676159l/116254.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.3
+    width: 10.5
   goodreads: '116254'
   isbn10: 0446361887
   isbn13: '9780446361880'
-  pages: '224'
+  pages: 224
   publication_year: '1977'
   series: Patternmaster
   series_position: '2'

@@ -3,9 +3,14 @@ book:
   author: William Kent
   cover_image: data-and-reality.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349058329l/1753248.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.8
+    width: 12.8
   goodreads: '1753248'
   isbn10: '1585009709'
   isbn13: '9781585009701'
+  pages: 246
   publication_year: '1978'
   slug: data-and-reality
   title: Data and Reality

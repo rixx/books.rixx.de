@@ -3,10 +3,14 @@ book:
   author: Ed McDonald
   cover_image: ravencry.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523487579l/39804476._SY475_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.9
+    width: 16.2
   goodreads: '39804476'
   isbn10: '1473222052'
   isbn13: '9781473222052'
-  pages: '414'
+  pages: 414
   publication_year: '2018'
   series: Raven's Mark
   series_position: '2'

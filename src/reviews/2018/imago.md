@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: imago.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389478182l/60934.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.3
+    width: 10.5
   goodreads: '60934'
   isbn10: '0446603635'
   isbn13: '9780446603638'
-  pages: '224'
+  pages: 224
   publication_year: '1989'
   series: Xenogenesis
   series_position: '3'

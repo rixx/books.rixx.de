@@ -3,10 +3,14 @@ book:
   author: Connie Willis
   cover_image: to-say-nothing-of-the-dog.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410460l/77773._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.0
+    width: 10.6
   goodreads: '77773'
   isbn10: 0553575384
   isbn13: '9780553575385'
-  pages: '512'
+  pages: 512
   publication_year: '1998'
   series: Oxford Time Travel
   series_position: '2'

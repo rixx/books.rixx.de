@@ -3,10 +3,14 @@ book:
   author: Peter Watts
   cover_image: starfish.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388530597l/66479.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 10.8
   goodreads: '66479'
   isbn10: 0812575857
   isbn13: '9780812575859'
-  pages: '384'
+  pages: 384
   publication_year: '1999'
   series: Rifters
   series_position: '1'

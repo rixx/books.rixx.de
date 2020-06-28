@@ -3,10 +3,14 @@ book:
   author: Steven Sloman
   cover_image: the-knowledge-illusion-why-we-never-think-alone.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474600243l/30780235._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.7
+    width: 15.7
   goodreads: '30780235'
   isbn10: 039918435X
   isbn13: '9780399184352'
-  pages: '304'
+  pages: 304
   publication_year: '2017'
   slug: the-knowledge-illusion-why-we-never-think-alone
   tags:

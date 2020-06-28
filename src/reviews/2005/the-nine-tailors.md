@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: the-nine-tailors.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353285546l/126675._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.6
+    width: 14.1
   goodreads: '126675'
   isbn10: 0151658978
   isbn13: '9780151658978'
-  pages: '397'
+  pages: 397
   publication_year: '1934'
   series: Lord Peter Wimsey
   series_position: '11'

@@ -3,10 +3,14 @@ book:
   author: Lao Tzu
   cover_image: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521578438l/13649._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.0
+    width: 14.1
   goodreads: '13649'
   isbn10: '1570623953'
   isbn13: '9781570623950'
-  pages: '125'
+  pages: 125
   publication_year: '-600'
   slug: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way
   tags:

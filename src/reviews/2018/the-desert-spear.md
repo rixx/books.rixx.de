@@ -3,10 +3,14 @@ book:
   author: Peter V. Brett
   cover_image: the-desert-spear.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388219761l/6736971.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.8
+    width: 16.1
   goodreads: '6736971'
   isbn10: 0345503813
   isbn13: '9780345503817'
-  pages: '579'
+  pages: 579
   publication_year: '2010'
   series: Demon Cycle
   series_position: '2'

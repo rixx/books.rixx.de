@@ -3,10 +3,14 @@ book:
   author: Rokeya Sakhawat Hossain
   cover_image: sultanas-dream.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347624935l/948061.jpg
+  dimensions:
+    height: 28.0
+    thickness: 1.0
+    width: 19.3
   goodreads: '948061'
   isbn10: '8186211837'
   isbn13: '9788186211830'
-  pages: '64'
+  pages: 64
   publication_year: '1905'
   slug: sultanas-dream
   tags:

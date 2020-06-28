@@ -3,10 +3,14 @@ book:
   author: Karl Marx
   cover_image: the-communist-manifesto.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565912767l/30474._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 1.7
+    width: 12.9
   goodreads: '30474'
   isbn10: '0140447571'
   isbn13: '9780140447576'
-  pages: '288'
+  pages: 288
   publication_year: '1848'
   slug: the-communist-manifesto
   tags:

@@ -3,9 +3,14 @@ book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner-und-die-liebe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424875635l/493469._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 2.2
+    width: 15.1
   goodreads: '493469'
   isbn10: '3791504649'
   isbn13: '9783791504643'
+  pages: 188
   publication_year: '2003'
   series: Die Wilden Hühner
   series_position: '5'

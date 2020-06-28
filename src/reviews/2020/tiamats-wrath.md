@@ -3,10 +3,14 @@ book:
   author: James S.A. Corey
   cover_image: tiamats-wrath.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 4.4
+    width: 16.2
   goodreads: '28335698'
   isbn10: 0316332879
   isbn13: '9780316332873'
-  pages: '534'
+  pages: 544
   publication_year: '2019'
   series: The Expanse
   series_position: '8'

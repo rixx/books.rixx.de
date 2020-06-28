@@ -3,10 +3,14 @@ book:
   author: H.G. Wells
   cover_image: the-war-of-the-worlds.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644l/8909._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.3
+    width: 13.2
   goodreads: '8909'
   isbn10: 0375759239
   isbn13: '9780375759239'
-  pages: '192'
+  pages: 192
   publication_year: '1898'
   slug: the-war-of-the-worlds
   tags:

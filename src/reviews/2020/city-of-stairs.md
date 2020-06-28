@@ -3,10 +3,14 @@ book:
   author: Robert Jackson Bennett
   cover_image: city-of-stairs.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394545220l/20174424._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.5
+    width: 13.0
   goodreads: '20174424'
   isbn10: 080413717X
   isbn13: '9780804137171'
-  pages: '452'
+  pages: 452
   publication_year: '2014'
   series: The Divine Cities
   series_position: '1'

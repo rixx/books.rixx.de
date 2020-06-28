@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: the-amazing-maurice-and-his-educated-rodents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566225l/34534.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.3
+    width: 15.2
   goodreads: '34534'
   isbn10: 006001234X
   isbn13: '9780060012342'
-  pages: '256'
+  pages: 256
   publication_year: '2001'
   series: Discworld
   series_position: '28'

@@ -3,10 +3,14 @@ book:
   author: George R.R. Martin
   cover_image: a-feast-for-crows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429538615l/13497._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.8
+    width: 10.6
   goodreads: '13497'
   isbn10: 055358202X
   isbn13: '9780553582024'
-  pages: '1061'
+  pages: 1061
   publication_year: '2005'
   series: A Song of Ice and Fire
   series_position: '4'

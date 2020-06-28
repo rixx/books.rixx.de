@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-telling.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203290l/59921._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.7
+    width: 11.0
   goodreads: '59921'
   isbn10: '0441011233'
   isbn13: '9780441011230'
-  pages: '231'
+  pages: 231
   publication_year: '2000'
   series: Hainish Cycle
   series_position: '8'

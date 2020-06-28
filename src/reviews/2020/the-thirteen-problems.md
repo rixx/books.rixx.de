@@ -3,10 +3,14 @@ book:
   author: Agatha Christie
   cover_image: the-thirteen-problems-miss-marple-2.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309305370l/31309._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.0
+    width: 12.1
   goodreads: '31309'
   isbn10: 0007120869
   isbn13: '9780007120864'
-  pages: '315'
+  pages: 315
   publication_year: '1932'
   series: Miss Marple
   series_position: 2

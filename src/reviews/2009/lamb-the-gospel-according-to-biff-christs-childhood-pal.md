@@ -3,10 +3,14 @@ book:
   author: Christopher Moore
   cover_image: lamb-the-gospel-according-to-biff-christs-childhood-pal.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331419009l/28881._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.9
+    width: 13.5
   goodreads: '28881'
   isbn10: 0380813815
   isbn13: '9780380813810'
-  pages: '444'
+  pages: 464
   publication_year: '2002'
   slug: lamb-the-gospel-according-to-biff-christs-childhood-pal
   tags:

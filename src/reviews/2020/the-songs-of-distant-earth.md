@@ -3,10 +3,13 @@ book:
   author: Arthur C. Clarke
   cover_image: the-songs-of-distant-earth.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814883l/117842._SX98_.jpg
+  dimensions:
+    height: 20.0
+    width: 13.0
   goodreads: '117842'
   isbn10: 0007115865
   isbn13: '9780007115860'
-  pages: '256'
+  pages: 256
   publication_year: '1986'
   slug: the-songs-of-distant-earth
   tags:

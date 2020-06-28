@@ -3,10 +3,14 @@ book:
   author: Seanan McGuire
   cover_image: every-heart-a-doorway.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431438555l/25526296._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 1.9
+    width: 14.6
   goodreads: '25526296'
   isbn10: 0765385503
   isbn13: '9780765385505'
-  pages: '173'
+  pages: 173
   publication_year: '2016'
   series: Wayward Children
   series_position: '1'

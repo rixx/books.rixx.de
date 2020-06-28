@@ -3,10 +3,14 @@ book:
   author: Lois McMaster Bujold
   cover_image: the-vor-game.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322571824l/68483._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.9
+    width: 10.2
   goodreads: '68483'
   isbn10: '0671720147'
   isbn13: '9780671720148'
-  pages: '346'
+  pages: 346
   publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '6'

@@ -3,10 +3,14 @@ book:
   author: George R.R. Martin
   cover_image: a-clash-of-kings.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.4
+    width: 15.6
   goodreads: '10572'
   isbn10: 0553381695
   isbn13: '9780553381696'
-  pages: '969'
+  pages: 969
   publication_year: '1998'
   series: A Song of Ice and Fire
   series_position: '2'

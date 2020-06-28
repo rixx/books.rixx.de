@@ -3,10 +3,14 @@ book:
   author: VM (Vicky) Brasseur
   cover_image: forge-your-future-with-open-source.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517642501l/38335454._SX98_.jpg
+  dimensions:
+    height: 23.5
+    thickness: 1.2
+    width: 21.9
   goodreads: '38335454'
   isbn10: '1680503014'
   isbn13: '9781680503012'
-  pages: '98'
+  pages: 200
   publication_year: '2018'
   slug: forge-your-future-with-open-source
   tags:

@@ -3,10 +3,14 @@ book:
   author: Brent Weeks
   cover_image: beyond-the-shadows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881432l/3754026._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 4.1
+    width: 10.7
   goodreads: '3754026'
   isbn10: 0316033669
   isbn13: '9780316033664'
-  pages: '689'
+  pages: 720
   publication_year: '2008'
   series: Night Angel
   series_position: '3'

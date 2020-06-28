@@ -3,10 +3,14 @@ book:
   author: Christopher Stasheff
   cover_image: the-warlock-in-spite-of-himself.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1176614464l/640181._SY475_.jpg
+  dimensions:
+    height: 17.3
+    thickness: 2.8
+    width: 11.1
   goodreads: '640181'
   isbn10: 0441873022
   isbn13: '9780441873029'
-  pages: '384'
+  pages: 384
   publication_year: '1969'
   series: Warlock
   series_position: '1'

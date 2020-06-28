@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: use-of-weapons.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587400756l/12007._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.7
+    width: 12.6
   goodreads: '12007'
   isbn10: 185723135X
   isbn13: '9781857231359'
-  pages: '411'
+  pages: 411
   publication_year: '1990'
   series: Culture
   series_position: '3'

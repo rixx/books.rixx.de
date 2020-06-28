@@ -3,10 +3,14 @@ book:
   author: John Tiffany
   cover_image: harry-potter-and-the-cursed-child-parts-one-and-two.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.2
+    width: 16.4
   goodreads: '29056083'
   isbn10: '0751565350'
   isbn13: '9780751565355'
-  pages: '343'
+  pages: 352
   publication_year: '2016'
   series: Harry Potter
   series_position: '8'

@@ -3,10 +3,12 @@ book:
   author: Ursula Poznanski
   cover_image: funf.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327223739l/13269028._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '13269028'
   isbn10: '3805250312'
   isbn13: '9783805250313'
-  pages: '384'
+  pages: 384
   publication_year: '2012'
   series: Beatrice Kaspary
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: excession.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.8
+    width: 10.2
   goodreads: '12013'
   isbn10: '0553575376'
   isbn13: '9780553575378'
-  pages: '499'
+  pages: 512
   publication_year: '1996'
   series: Culture
   series_position: '5'

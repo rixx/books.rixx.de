@@ -3,9 +3,14 @@ book:
   author: Lavie Tidhar
   cover_image: unholy-land.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531831184l/39791736._SX98_.jpg
+  dimensions:
+    height: 21.6
+    thickness: 2.1
+    width: 14.0
   goodreads: '39791736'
   isbn10: '1616963042'
   isbn13: '9781616963040'
+  pages: 288
   publication_year: '2018'
   slug: unholy-land
   title: Unholy Land

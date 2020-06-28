@@ -3,10 +3,14 @@ book:
   author: Naomi Novik
   cover_image: his-majestys-dragon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376392909l/28876._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 10.5
   goodreads: '28876'
   isbn10: 0345481283
   isbn13: '9780345481283'
-  pages: '356'
+  pages: 356
   publication_year: '2006'
   series: Temeraire
   series_position: '1'

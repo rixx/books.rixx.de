@@ -3,10 +3,14 @@ book:
   author: J.R.R. Tolkien
   cover_image: the-fellowship-of-the-ring.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.5
+    width: 2.8
   goodreads: '34'
   isbn10: 0618346252
   isbn13: '9780618346257'
-  pages: '398'
+  pages: 398
   publication_year: '1954'
   series: The Lord of the Rings
   series_position: '1'

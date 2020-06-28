@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: captains-fury.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083292l/346087._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.6
+    width: 16.6
   goodreads: '346087'
   isbn10: '0441015271'
   isbn13: '9780441015276'
-  pages: '451'
+  pages: 451
   publication_year: '2007'
   series: Codex Alera
   series_position: '4'

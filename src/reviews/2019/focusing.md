@@ -3,10 +3,14 @@ book:
   author: Eugene T. Gendlin
   cover_image: focusing.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390966073l/666175.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.6
+    width: 10.6
   goodreads: '666175'
   isbn10: 0553278339
   isbn13: '9780553278330'
-  pages: '224'
+  pages: 224
   publication_year: '1978'
   slug: focusing
   tags:

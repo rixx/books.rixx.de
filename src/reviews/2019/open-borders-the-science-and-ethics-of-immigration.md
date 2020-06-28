@@ -3,10 +3,14 @@ book:
   author: Bryan Caplan
   cover_image: open-borders-the-science-and-ethics-of-immigration.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553580474l/42867903._SX98_.jpg
+  dimensions:
+    height: 21.4
+    thickness: 1.7
+    width: 16.8
   goodreads: '42867903'
   isbn10: '1250316960'
   isbn13: '9781250316967'
-  pages: '256'
+  pages: 256
   publication_year: '2019'
   slug: open-borders-the-science-and-ethics-of-immigration
   tags:

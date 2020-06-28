@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: reaper-man.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389211958l/34517._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.2
+    width: 12.7
   goodreads: '34517'
   isbn10: 0552152951
   isbn13: '9780552152952'
-  pages: '352'
+  pages: 352
   publication_year: '1991'
   series: Discworld
   series_position: '11'

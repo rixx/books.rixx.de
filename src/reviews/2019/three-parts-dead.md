@@ -3,10 +3,14 @@ book:
   author: Max Gladstone
   cover_image: three-parts-dead.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.0
+    width: 15.0
   goodreads: '13539191'
   isbn10: '0765333104'
   isbn13: '9780765333100'
-  pages: '336'
+  pages: 336
   publication_year: '2012'
   series: Craft Sequence
   series_position: '1'

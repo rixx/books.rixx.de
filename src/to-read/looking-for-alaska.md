@@ -3,10 +3,14 @@ book:
   author: John Green
   cover_image: looking-for-alaska.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394798630l/99561._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.8
+    width: 13.9
   goodreads: '99561'
   isbn10: '0142402516'
   isbn13: '9780142402511'
-  pages: '221'
+  pages: 232
   publication_year: '2005'
   slug: looking-for-alaska
   title: Looking for Alaska

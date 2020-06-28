@@ -3,10 +3,14 @@ book:
   author: Suzanne Collins
   cover_image: catching-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.3
+    width: 14.7
   goodreads: '6148028'
   isbn10: 0439023491
   isbn13: '9780439023498'
-  pages: '391'
+  pages: 391
   publication_year: '2009'
   series: The Hunger Games
   series_position: '2'

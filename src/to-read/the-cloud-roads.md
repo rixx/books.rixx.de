@@ -3,10 +3,14 @@ book:
   author: Martha Wells
   cover_image: the-cloud-roads.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317017378l/9461562._SX98_.jpg
+  dimensions:
+    height: 23.0
+    thickness: 1.8
+    width: 14.0
   goodreads: '9461562'
   isbn10: '1597802166'
   isbn13: '9781597802161'
-  pages: '278'
+  pages: 300
   publication_year: '2011'
   series: Books of the Raksura
   series_position: '1'

@@ -3,10 +3,13 @@ book:
   author: Georg Schramm
   cover_image: lassen-sie-es-mich-so-sagen-dombrowski-deutet-die-zeichen-der-zeit.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396209684l/2082122._SX98_.jpg
+  dimensions:
+    height: 22.0
+    width: 135.0
   goodreads: '2082122'
   isbn10: '3896673483'
   isbn13: '9783896673480'
-  pages: '268'
+  pages: 268
   publication_year: '2007'
   slug: lassen-sie-es-mich-so-sagen-dombrowski-deutet-die-zeichen-der-zeit
   tags:

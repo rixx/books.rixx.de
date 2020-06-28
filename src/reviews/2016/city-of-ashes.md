@@ -3,10 +3,14 @@ book:
   author: Cassandra Clare
   cover_image: city-of-ashes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.8
+    width: 15.2
   goodreads: '1582996'
   isbn10: '1416914293'
   isbn13: '9781416914297'
-  pages: '453'
+  pages: 453
   publication_year: '2008'
   series: The Mortal Instruments
   series_position: '2'

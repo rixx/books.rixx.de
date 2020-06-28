@@ -3,10 +3,14 @@ book:
   author: M.F. Sullivan
   cover_image: the-hierophants-daughter.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542842946l/42921564._SX98_.jpg
+  dimensions:
+    height: 22.9
+    thickness: 2.1
+    width: 15.2
   goodreads: '42921564'
   isbn10: 0996539565
   isbn13: '9780996539562'
-  pages: '286'
+  pages: 286
   publication_year: '2019'
   series: The Disgraced Martyr Trilogy
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Katherine Arden
   cover_image: the-bear-and-the-nightingale.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470731420l/25489134._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 2.7
+    width: 16.7
   goodreads: '25489134'
   isbn10: '1101885939'
   isbn13: '9781101885932'
-  pages: '323'
+  pages: 323
   publication_year: '2017'
   series: Winternight Trilogy
   series_position: '1'

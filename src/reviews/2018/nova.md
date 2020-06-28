@@ -3,10 +3,14 @@ book:
   author: Samuel R. Delany
   cover_image: nova.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320491578l/85863._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.8
+    width: 13.1
   goodreads: '85863'
   isbn10: '0375706704'
   isbn13: '9780375706707'
-  pages: '241'
+  pages: 241
   publication_year: '1968'
   slug: nova
   tags:

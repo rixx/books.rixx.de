@@ -3,10 +3,14 @@ book:
   author: Jay Kristoff
   cover_image: nevernight.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688832l/26114463._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.1
+    width: 16.2
   goodreads: '26114463'
   isbn10: '1250073022'
   isbn13: '9781250073020'
-  pages: '429'
+  pages: 448
   publication_year: '2016'
   series: The Nevernight Chronicle
   series_position: '1'

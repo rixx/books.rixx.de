@@ -3,10 +3,14 @@ book:
   author: Saad Hossain
   cover_image: escape-from-baghdad.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417045270l/23013966._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.1
+    width: 14.0
   goodreads: '23013966'
   isbn10: '1939419247'
   isbn13: '9781939419248'
-  pages: '304'
+  pages: 304
   publication_year: '2012'
   slug: escape-from-baghdad
   tags:

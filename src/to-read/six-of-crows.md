@@ -3,10 +3,14 @@ book:
   author: Leigh Bardugo
   cover_image: six-of-crows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459349344l/23437156._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.0
+    width: 16.0
   goodreads: '23437156'
   isbn10: '1627792120'
   isbn13: '9781627792127'
-  pages: '465'
+  pages: 465
   publication_year: '2015'
   series: Six of Crows
   series_position: '1'

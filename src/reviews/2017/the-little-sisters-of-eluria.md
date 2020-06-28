@@ -3,10 +3,12 @@ book:
   author: Stephen King
   cover_image: the-little-sisters-of-eluria.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328794822l/6356190._SX98_.jpg
+  dimensions:
+    height: 27.0
   goodreads: '6356190'
   isbn10: '1880418738'
   isbn13: '9781880418734'
-  pages: '312'
+  pages: 312
   publication_year: '1998'
   series: The Dark Tower
   series_position: '0.5'

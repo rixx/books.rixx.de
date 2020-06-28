@@ -3,10 +3,14 @@ book:
   author: Ed McDonald
   cover_image: blackwing.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060._SX98_.jpg
+  dimensions:
+    height: 20.8
+    thickness: 2.4
+    width: 13.8
   goodreads: '33916060'
   isbn10: 0399587799
   isbn13: '9780399587795'
-  pages: '360'
+  pages: 368
   publication_year: '2017'
   series: Raven's Mark
   series_position: '1'

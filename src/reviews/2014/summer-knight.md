@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: summer-knight.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557469l/91478._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 10.8
   goodreads: '91478'
   isbn10: 0451458923
   isbn13: '9780451458926'
-  pages: '446'
+  pages: 446
   publication_year: '2002'
   series: The Dresden Files
   series_position: '4'

@@ -3,10 +3,14 @@ book:
   author: Eoin Colfer
   cover_image: the-arctic-incident.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388294381l/114955.jpg
+  dimensions:
+    height: 17.5
+    thickness: 2.5
+    width: 10.8
   goodreads: '114955'
   isbn10: 0786851473
   isbn13: '9780786851478'
-  pages: '398'
+  pages: 416
   publication_year: '2002'
   series: Artemis Fowl
   series_position: '2'

@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: the-graveyard-book.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.7
+    width: 14.0
   goodreads: '2213661'
   isbn10: 0060530928
   isbn13: '9780060530921'
-  pages: '307'
+  pages: 320
   publication_year: '2008'
   slug: the-graveyard-book
   tags:

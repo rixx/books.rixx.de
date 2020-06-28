@@ -3,10 +3,14 @@ book:
   author: Vernor Vinge
   cover_image: a-deepness-in-the-sky.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.3
+    width: 10.5
   goodreads: '226004'
   isbn10: 0812536355
   isbn13: '9780812536355'
-  pages: '775'
+  pages: 792
   publication_year: '2000'
   series: Zones of Thought
   series_position: '2'

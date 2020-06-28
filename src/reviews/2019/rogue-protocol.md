@@ -3,10 +3,14 @@ book:
   author: Martha Wells
   cover_image: rogue-protocol.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.8
+    width: 13.1
   goodreads: '35519101'
   isbn10: '1250191785'
   isbn13: '9781250191786'
-  pages: '158'
+  pages: 160
   publication_year: '2018'
   series: The Murderbot Diaries
   series_position: '3'

@@ -3,10 +3,13 @@ book:
   author: Oscar Wilde
   cover_image: the-canterville-ghost.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363935696l/45685._SX98_.jpg
+  dimensions:
+    height: 19.0
+    width: 12.0
   goodreads: '45685'
   isbn10: 0744549515
   isbn13: '9780744549515'
-  pages: '126'
+  pages: 126
   publication_year: '1887'
   slug: the-canterville-ghost
   tags:

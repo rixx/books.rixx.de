@@ -3,10 +3,14 @@ book:
   author: Vladimir Nabokov
   cover_image: pale-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388155863l/7805._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.0
+    width: 14.0
   goodreads: '7805'
   isbn10: 0141185260
   isbn13: '9780141185262'
-  pages: '246'
+  pages: 248
   publication_year: '1962'
   slug: pale-fire
   title: Pale Fire

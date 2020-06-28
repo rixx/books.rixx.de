@@ -3,10 +3,14 @@ book:
   author: Mark  Lawrence
   cover_image: red-sister.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481038440l/25895524._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.9
+    width: 15.9
   goodreads: '25895524'
   isbn10: '1101988851'
   isbn13: '9781101988855'
-  pages: '469'
+  pages: 469
   publication_year: '2017'
   series: Book of the Ancestor
   series_position: '1'

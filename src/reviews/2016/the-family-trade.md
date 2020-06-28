@@ -3,10 +3,14 @@ book:
   author: Charles Stross
   cover_image: the-family-trade.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408262924l/17861._SX98_.jpg
+  dimensions:
+    height: 16.9
+    thickness: 2.2
+    width: 10.8
   goodreads: '17861'
   isbn10: 0765348217
   isbn13: '9780765348210'
-  pages: '308'
+  pages: 312
   publication_year: '2004'
   series: The Merchant Princes
   series_position: '1'

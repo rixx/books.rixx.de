@@ -3,10 +3,12 @@ book:
   author: J.R.R. Tolkien
   cover_image: the-hobbit-or-there-and-back-again.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '5907'
   isbn10: 0618260307
   isbn13: '9780618260300'
-  pages: '366'
+  pages: 366
   publication_year: '1937'
   slug: the-hobbit-or-there-and-back-again
   tags:

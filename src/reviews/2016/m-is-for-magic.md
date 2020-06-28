@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: m-is-for-magic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361750014l/47699._SX98_.jpg
+  dimensions:
+    height: 21.6
+    thickness: 1.9
+    width: 14.5
   goodreads: '47699'
   isbn10: 0061186422
   isbn13: '9780061186424'
-  pages: '260'
+  pages: 272
   publication_year: '2007'
   slug: m-is-for-magic
   tags:

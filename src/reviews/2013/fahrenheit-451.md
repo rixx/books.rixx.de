@@ -3,10 +3,14 @@ book:
   author: Ray Bradbury
   cover_image: fahrenheit-451.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469704347l/17470674._SX98_.jpg
+  dimensions:
+    height: 23.0
+    thickness: 2.3
+    width: 15.9
   goodreads: '17470674'
   isbn10: 0007491565
   isbn13: '9780007491568'
-  pages: '227'
+  pages: 227
   publication_year: '1953'
   slug: fahrenheit-451
   tags:

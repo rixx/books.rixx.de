@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: small-favor.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.5
+    width: 16.1
   goodreads: '927979'
   isbn10: 0451461894
   isbn13: '9780451461896'
-  pages: '420'
+  pages: 423
   publication_year: '2008'
   series: The Dresden Files
   series_position: '10'

@@ -3,10 +3,14 @@ book:
   author: Mary Doria Russell
   cover_image: the-sparrow.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1230829367l/334176._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.6
+    width: 13.9
   goodreads: '334176'
   isbn10: 0449912558
   isbn13: '9780449912553'
-  pages: '516'
+  pages: 516
   publication_year: '1996'
   series: The Sparrow
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Richard Kadrey
   cover_image: sandman-slim.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311727590l/5776788._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 3.2
+    width: 12.7
   goodreads: '5776788'
   isbn10: '0061714305'
   isbn13: '9780061714306'
-  pages: '388'
+  pages: 400
   publication_year: '2009'
   series: Sandman Slim
   series_position: '1'

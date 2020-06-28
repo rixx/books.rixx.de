@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: coraline.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.1
+    width: 13.5
   goodreads: '17061'
   isbn10: 0061139378
   isbn13: '9780061139376'
-  pages: '162'
+  pages: 192
   publication_year: '2002'
   slug: coraline
   tags:

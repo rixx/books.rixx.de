@@ -3,10 +3,14 @@ book:
   author: Paul Maar
   cover_image: eine-woche-voller-samstage.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349272253l/2092839._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.3
+    width: 13.0
   goodreads: '2092839'
   isbn10: '3789119520'
   isbn13: '9783789119521'
-  pages: '160'
+  pages: 160
   publication_year: '1973'
   series: Sams
   series_position: '1'

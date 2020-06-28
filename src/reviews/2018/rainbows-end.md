@@ -3,10 +3,14 @@ book:
   author: Vernor Vinge
   cover_image: rainbows-end.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.7
+    width: 10.8
   goodreads: '102439'
   isbn10: 0812536363
   isbn13: '9780812536362'
-  pages: '381'
+  pages: 381
   publication_year: '2006'
   slug: rainbows-end
   tags:

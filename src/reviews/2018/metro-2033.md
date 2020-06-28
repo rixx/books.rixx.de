@@ -3,10 +3,14 @@ book:
   author: Dmitry Glukhovsky
   cover_image: metro-2033.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379621430l/17274667._SX98_.jpg
+  dimensions:
+    height: 23.0
+    thickness: 3.0
+    width: 15.2
   goodreads: '17274667'
   isbn10: '1481845705'
   isbn13: '9781481845700'
-  pages: '458'
+  pages: 460
   publication_year: '2002'
   series: Metro
   series_position: '1'

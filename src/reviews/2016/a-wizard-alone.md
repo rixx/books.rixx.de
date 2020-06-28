@@ -3,10 +3,14 @@ book:
   author: Diane Duane
   cover_image: a-wizard-alone.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388545546l/116560.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.2
+    width: 10.6
   goodreads: '116560'
   isbn10: 0152049118
   isbn13: '9780152049119'
-  pages: '333'
+  pages: 333
   publication_year: '2002'
   series: Young Wizards
   series_position: '6'

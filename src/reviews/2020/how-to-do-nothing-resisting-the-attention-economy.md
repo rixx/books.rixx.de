@@ -3,9 +3,14 @@ book:
   author: Jenny Odell
   cover_image: how-to-do-nothing-resisting-the-attention-economy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550724373l/42771901._SX98_.jpg
+  dimensions:
+    height: 21.6
+    thickness: 2.3
+    width: 14.6
   goodreads: '42771901'
   isbn10: '1612197493'
   isbn13: '9781612197494'
+  pages: 256
   publication_year: '2019'
   slug: how-to-do-nothing-resisting-the-attention-economy
   tags:

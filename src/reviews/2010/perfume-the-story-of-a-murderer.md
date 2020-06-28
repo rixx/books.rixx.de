@@ -3,10 +3,14 @@ book:
   author: Patrick Süskind
   cover_image: perfume-the-story-of-a-murderer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 0.1
+    width: 12.7
   goodreads: '343'
   isbn10: 0140120831
   isbn13: '9780140120837'
-  pages: '263'
+  pages: 263
   publication_year: '1985'
   slug: perfume-the-story-of-a-murderer
   tags:

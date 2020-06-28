@@ -3,10 +3,14 @@ book:
   author: Frank Herbert
   cover_image: dune-messiah.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533872326l/106._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.2
+    width: 10.6
   goodreads: '106'
   isbn10: 0441172695
   isbn13: '9780441172696'
-  pages: '331'
+  pages: 331
   publication_year: '1969'
   series: Dune Chronicles
   series_position: '2'

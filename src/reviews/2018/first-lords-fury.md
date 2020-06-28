@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: first-lords-fury.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903582l/6316821._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.9
+    width: 16.4
   goodreads: '6316821'
   isbn10: 044101769X
   isbn13: '9780441017690'
-  pages: '465'
+  pages: 465
   publication_year: '2009'
   series: Codex Alera
   series_position: '6'

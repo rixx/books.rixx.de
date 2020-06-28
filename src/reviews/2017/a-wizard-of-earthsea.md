@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: a-wizard-of-earthsea.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536l/13642._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.1
+    width: 13.2
   goodreads: '13642'
   isbn10: 0553383043
   isbn13: '9780553383041'
-  pages: '183'
+  pages: 183
   publication_year: '1968'
   series: Earthsea Cycle
   series_position: '1'

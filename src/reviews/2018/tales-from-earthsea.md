@@ -3,10 +3,14 @@ book:
   author: Ursula K. Le Guin
   cover_image: tales-from-earthsea.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202073l/13659._SX98_.jpg
+  dimensions:
+    height: 17.0
+    thickness: 2.2
+    width: 11.1
   goodreads: '13659'
   isbn10: '0441011241'
   isbn13: '9780441011247'
-  pages: '280'
+  pages: 280
   publication_year: '2001'
   series: Earthsea Cycle
   series_position: '5'

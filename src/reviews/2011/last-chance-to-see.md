@@ -3,10 +3,14 @@ book:
   author: Douglas Adams
   cover_image: last-chance-to-see.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867839l/8696._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.3
+    width: 13.0
   goodreads: '8696'
   isbn10: 0345371984
   isbn13: '9780345371980'
-  pages: '256'
+  pages: 256
   publication_year: '1990'
   slug: last-chance-to-see
   tags:

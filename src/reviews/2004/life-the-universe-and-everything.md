@@ -3,10 +3,14 @@ book:
   author: Douglas Adams
   cover_image: life-the-universe-and-everything.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577589l/8694._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.3
+    width: 14.0
   goodreads: '8694'
   isbn10: 0345418905
   isbn13: '9780345418906'
-  pages: '224'
+  pages: 232
   publication_year: '1982'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '3'

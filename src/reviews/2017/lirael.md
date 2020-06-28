@@ -3,10 +3,14 @@ book:
   author: Garth Nix
   cover_image: lirael.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266458951l/47624.jpg
+  dimensions:
+    height: 20.2
+    thickness: 2.9
+    width: 13.5
   goodreads: '47624'
   isbn10: 0060590165
   isbn13: '9780060590161'
-  pages: '464'
+  pages: 464
   publication_year: '2001'
   series: Abhorsen
   series_position: '2'

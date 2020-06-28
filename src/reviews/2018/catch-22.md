@@ -3,10 +3,12 @@ book:
   author: Joseph Heller
   cover_image: catch-22.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '168668'
   isbn10: 0684833395
   isbn13: '9780684833392'
-  pages: '453'
+  pages: 453
   publication_year: '1961'
   series: Catch-22
   series_position: '1'

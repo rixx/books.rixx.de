@@ -3,10 +3,14 @@ book:
   author: Greg Egan
   cover_image: diaspora.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264162l/156785.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.7
+    width: 11.6
   goodreads: '156785'
   isbn10: '3453161815'
   isbn13: '9783453161818'
-  pages: '443'
+  pages: 443
   publication_year: '1997'
   slug: diaspora
   tags:

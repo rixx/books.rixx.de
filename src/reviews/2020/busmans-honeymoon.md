@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: busmans-honeymoon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431714605l/116971._SY475_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.6
+    width: 10.6
   goodreads: '116971'
   isbn10: '0061043516'
   isbn13: '9780061043512'
-  pages: '409'
+  pages: 416
   publication_year: '1937'
   series: Lord Peter Wimsey
   series_position: '13'

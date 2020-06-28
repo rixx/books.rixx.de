@@ -3,10 +3,14 @@ book:
   author: Tamsyn Muir
   cover_image: gideon-the-ninth.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
+  dimensions:
+    height: 21.8
+    thickness: 3.6
+    width: 14.3
   goodreads: '42036538'
   isbn10: '1250313198'
   isbn13: '9781250313195'
-  pages: '448'
+  pages: 448
   publication_year: '2019'
   series: The Locked Tomb
   series_position: '1'

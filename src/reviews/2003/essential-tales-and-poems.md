@@ -3,10 +3,14 @@ book:
   author: Edgar Allan Poe
   cover_image: essential-tales-and-poems.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753072l/32552._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 4.4
+    width: 13.2
   goodreads: '32552'
   isbn10: '1593080646'
   isbn13: '9781593080648'
-  pages: '688'
+  pages: 688
   publication_year: '1843'
   slug: essential-tales-and-poems
   tags:

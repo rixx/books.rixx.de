@@ -3,10 +3,13 @@ book:
   author: Lois McMaster Bujold
   cover_image: the-warriors-apprentice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170597854l/61906._SY475_.jpg
+  dimensions:
+    height: 18.0
+    width: 11.0
   goodreads: '61906'
   isbn10: 0743468406
   isbn13: '9780743468404'
-  pages: '372'
+  pages: 372
   publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '2'

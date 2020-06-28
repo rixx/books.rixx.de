@@ -3,10 +3,14 @@ book:
   author: Theodor Fontane
   cover_image: effi-briest.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499908468l/442296._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.7
+    width: 13.2
   goodreads: '442296'
   isbn10: 0140441905
   isbn13: '9780140441901'
-  pages: '272'
+  pages: 272
   publication_year: '1894'
   slug: effi-briest
   tags:

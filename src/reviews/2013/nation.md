@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: nation.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426659151l/2855034._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.1
+    width: 15.2
   goodreads: '2855034'
   isbn10: '0061433012'
   isbn13: '9780061433016'
-  pages: '367'
+  pages: 367
   publication_year: '2008'
   slug: nation
   title: Nation

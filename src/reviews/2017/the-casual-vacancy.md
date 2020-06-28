@@ -3,10 +3,11 @@ book:
   author: J.K. Rowling
   cover_image: the-casual-vacancy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509893913l/13497818._SX98_.jpg
+  dimensions: {}
   goodreads: '13497818'
   isbn10: 0316228532
   isbn13: '9780316228534'
-  pages: '503'
+  pages: 512
   publication_year: '2012'
   slug: the-casual-vacancy
   title: The Casual Vacancy

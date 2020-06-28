@@ -3,10 +3,12 @@ book:
   author: Gene Wolfe
   cover_image: the-shadow-of-the-torturer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329650008l/60211._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '60211'
   isbn10: '0671540661'
   isbn13: '9780671540661'
-  pages: '262'
+  pages: 262
   publication_year: '1980'
   series: The Book of the New Sun
   series_position: '1'

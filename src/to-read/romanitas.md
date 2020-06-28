@@ -3,10 +3,14 @@ book:
   author: Sophia McDougall
   cover_image: romanitas.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780752877099-L.jpg
+  dimensions:
+    height: 19.7
+    thickness: 3.8
+    width: 13.0
   goodreads: '823078'
   isbn10: 0752877097
   isbn13: '9780752877099'
-  pages: '607'
+  pages: 607
   publication_year: '2005'
   series: Romanitas
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Brandon Sanderson
   cover_image: the-way-of-kings.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184640l/7235533._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 5.0
+    width: 16.3
   goodreads: '7235533'
   isbn10: '0765326353'
   isbn13: '9780765326355'
-  pages: '1007'
+  pages: 1007
   publication_year: '2010'
   series: The Stormlight Archive
   series_position: '1'

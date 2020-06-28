@@ -3,10 +3,14 @@ book:
   author: Octavia E. Butler
   cover_image: patternmaster.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389456750l/116256.jpg
+  dimensions:
+    height: 18.0
+    thickness: 1.7
+    width: 10.5
   goodreads: '116256'
   isbn10: 0446362816
   isbn13: '9780446362818'
-  pages: '202'
+  pages: 202
   publication_year: '1976'
   series: Patternmaster
   series_position: '4'

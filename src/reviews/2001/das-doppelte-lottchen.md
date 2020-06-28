@@ -3,10 +3,14 @@ book:
   author: Erich Kästner
   cover_image: das-doppelte-lottchen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380821301l/887010._SX98_.jpg
+  dimensions:
+    height: 19.0
+    thickness: 2.2
+    width: 15.6
   goodreads: '887010'
   isbn10: '3791530119'
   isbn13: '9783791530116'
-  pages: '176'
+  pages: 176
   publication_year: '1949'
   slug: das-doppelte-lottchen
   tags:

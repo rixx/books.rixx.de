@@ -3,10 +3,14 @@ book:
   author: Terry Pratchett
   cover_image: making-money.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440503111l/116296._SX318_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.2
+    width: 15.2
   goodreads: '116296'
   isbn10: '0061161640'
   isbn13: '9780061161643'
-  pages: '394'
+  pages: 400
   publication_year: '2007'
   series: Discworld
   series_position: '36'

@@ -3,10 +3,14 @@ book:
   author: Dorothy L. Sayers
   cover_image: unnatural-death.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316244142l/192892._SY160_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 1.8
+    width: 10.6
   goodreads: '192892'
   isbn10: 0061043583
   isbn13: '9780061043581'
-  pages: '264'
+  pages: 288
   publication_year: '1927'
   series: Lord Peter Wimsey
   series_position: '3'

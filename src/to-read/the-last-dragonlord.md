@@ -3,10 +3,14 @@ book:
   author: Joanne Bertin
   cover_image: the-last-dragonlord.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390270678l/253153.jpg
+  dimensions:
+    height: 17.1
+    thickness: 1.9
+    width: 10.5
   goodreads: '253153'
   isbn10: 0812545419
   isbn13: '9780812545418'
-  pages: '471'
+  pages: 500
   publication_year: '1998'
   series: Dragonlord
   series_position: '1'

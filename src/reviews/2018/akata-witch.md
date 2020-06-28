@@ -3,10 +3,14 @@ book:
   author: Nnedi Okorafor
   cover_image: akata-witch.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347794798l/7507944._SX98_.jpg
+  dimensions:
+    height: 21.6
+    thickness: 2.9
+    width: 14.6
   goodreads: '7507944'
   isbn10: 0670011967
   isbn13: '9780670011964'
-  pages: '349'
+  pages: 352
   publication_year: '2011'
   series: Akata Witch
   series_position: '1'

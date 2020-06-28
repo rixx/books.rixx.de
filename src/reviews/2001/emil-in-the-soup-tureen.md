@@ -3,10 +3,14 @@ book:
   author: Astrid Lindgren
   cover_image: emil-in-the-soup-tureen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429953791l/224655._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.5
+    width: 2.5
   goodreads: '224655'
   isbn10: 0670826588
   isbn13: '9780670826582'
-  pages: '96'
+  pages: 96
   publication_year: '1963'
   slug: emil-in-the-soup-tureen
   tags:

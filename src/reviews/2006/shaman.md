@@ -3,9 +3,14 @@ book:
   author: Noah Gordon
   cover_image: shaman.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440903876l/859887._SY475_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 3.1
+    width: 11.2
   goodreads: '859887'
   isbn10: 0751500828
   isbn13: '9780751500820'
+  pages: 652
   publication_year: '1992'
   series: Cole Family Trilogy
   series_position: '2'

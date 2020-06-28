@@ -3,10 +3,14 @@ book:
   author: Tanya Huff
   cover_image: valors-choice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388720685l/772606.jpg
+  dimensions:
+    height: 17.0
+    thickness: 2.9
+    width: 10.8
   goodreads: '772606'
   isbn10: 0886778964
   isbn13: '9780886778965'
-  pages: '416'
+  pages: 416
   publication_year: '2000'
   series: Confederation
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Kai Meyer
   cover_image: the-stone-light.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388350165l/135879.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.1
+    width: 16.5
   goodreads: '135879'
   isbn10: 0689877897
   isbn13: '9780689877896'
-  pages: '350'
+  pages: 350
   publication_year: '2002'
   series: Dark Reflections
   series_position: '2'

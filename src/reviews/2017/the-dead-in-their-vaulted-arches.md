@@ -3,10 +3,14 @@ book:
   author: Alan Bradley
   cover_image: the-dead-in-their-vaulted-arches.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432578235l/17834904._SY160_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.8
+    width: 13.2
   goodreads: '17834904'
   isbn10: 0385344058
   isbn13: '9780385344050'
-  pages: '310'
+  pages: 315
   publication_year: '2014'
   series: Flavia de Luce
   series_position: '6'

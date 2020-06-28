@@ -3,10 +3,14 @@ book:
   author: Orson Scott Card
   cover_image: xenocide.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924577l/8648.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.9
+    width: 15.8
   goodreads: '8648'
   isbn10: 0312861877
   isbn13: '9780312861872'
-  pages: '592'
+  pages: 592
   publication_year: '1991'
   series: Ender’s Saga
   series_position: '3'

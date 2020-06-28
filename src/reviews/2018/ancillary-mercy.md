@@ -3,10 +3,14 @@ book:
   author: Ann Leckie
   cover_image: ancillary-mercy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX98_.jpg
+  dimensions:
+    height: 19.8
+    thickness: 2.4
+    width: 12.8
   goodreads: '23533039'
   isbn10: '0356502422'
   isbn13: '9780356502427'
-  pages: '330'
+  pages: 336
   publication_year: '2015'
   series: Imperial Radch
   series_position: '3'

@@ -3,10 +3,14 @@ book:
   author: Boris Akunin
   cover_image: the-winter-queen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327170801l/61463._SX98_.jpg
+  dimensions:
+    height: 20.0
+    thickness: 2.1
+    width: 20.6
   goodreads: '61463'
   isbn10: 0753817594
   isbn13: '9780753817599'
-  pages: '256'
+  pages: 256
   publication_year: '1998'
   series: Erast Fandorin Mysteries
   series_position: '1'

@@ -3,10 +3,14 @@ book:
   author: Jim Butcher
   cover_image: white-night.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309552288l/91475._SX98_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.5
+    width: 16.5
   goodreads: '91475'
   isbn10: '0451461401'
   isbn13: '9780451461407'
-  pages: '407'
+  pages: 407
   publication_year: '2007'
   series: The Dresden Files
   series_position: '9'

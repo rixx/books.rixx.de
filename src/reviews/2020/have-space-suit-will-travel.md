@@ -3,10 +3,14 @@ book:
   author: Robert A. Heinlein
   cover_image: have-space-suit-will-travel.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416505495-L.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.8
+    width: 13.5
   goodreads: '20417'
   isbn10: '1416505490'
   isbn13: '9781416505495'
-  pages: '276'
+  pages: 276
   publication_year: '1958'
   slug: have-space-suit-will-travel
   tags:

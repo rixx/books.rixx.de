@@ -3,10 +3,14 @@ book:
   author: Seanan McGuire
   cover_image: come-tumbling-down.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556543251l/44804083._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.0
+    width: 14.2
   goodreads: '44804083'
   isbn10: 0765399318
   isbn13: '9780765399311'
-  pages: '206'
+  pages: 208
   publication_year: '2020'
   series: Wayward Children
   series_position: '5'

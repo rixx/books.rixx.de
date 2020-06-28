@@ -3,10 +3,14 @@ book:
   author: Naomi Novik
   cover_image: uprooted.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.6
+    width: 14.9
   goodreads: '22544764'
   isbn10: 0804179034
   isbn13: '9780804179034'
-  pages: '435'
+  pages: 438
   publication_year: '2015'
   slug: uprooted
   tags:

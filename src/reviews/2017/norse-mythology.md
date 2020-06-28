@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: norse-mythology.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493609691l/30809689._SX98_.jpg
+  dimensions:
+    height: 21.8
+    thickness: 2.8
+    width: 14.7
   goodreads: '30809689'
   isbn10: 039360909X
   isbn13: '9780393609097'
-  pages: '299'
+  pages: 299
   publication_year: '2017'
   slug: norse-mythology
   tags:

@@ -3,10 +3,14 @@ book:
   author: Steven Gould
   cover_image: jumper.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304981770l/47970._SX98_.jpg
+  dimensions:
+    height: 19.2
+    thickness: 2.6
+    width: 13.5
   goodreads: '47970'
   isbn10: 0765342286
   isbn13: '9780765342287'
-  pages: '345'
+  pages: 345
   publication_year: '1992'
   series: Jumper
   series_position: '1'

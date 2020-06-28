@@ -3,10 +3,14 @@ book:
   author: Jo Walton
   cover_image: the-just-city.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448145l/22055276._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.1
+    width: 14.7
   goodreads: '22055276'
   isbn10: '0765332663'
   isbn13: '9780765332660'
-  pages: '368'
+  pages: 368
   publication_year: '2015'
   series: Thessaly
   series_position: '1'

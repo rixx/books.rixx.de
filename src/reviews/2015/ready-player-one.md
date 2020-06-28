@@ -3,10 +3,14 @@ book:
   author: Ernest Cline
   cover_image: ready-player-one.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.3
+    width: 16.3
   goodreads: '9969571'
   isbn10: 030788743X
   isbn13: '9780307887436'
-  pages: '374'
+  pages: 374
   publication_year: '2011'
   series: Ready Player One
   series_position: '1'

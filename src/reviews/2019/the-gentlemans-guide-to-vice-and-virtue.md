@@ -3,10 +3,14 @@ book:
   author: Mackenzi Lee
   cover_image: the-gentlemans-guide-to-vice-and-virtue.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492601464l/29283884._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 4.0
+    width: 14.0
   goodreads: '29283884'
   isbn10: 0062382802
   isbn13: '9780062382801'
-  pages: '513'
+  pages: 528
   publication_year: '2017'
   series: Montague Siblings
   series_position: '1'

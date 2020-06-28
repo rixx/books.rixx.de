@@ -3,10 +3,14 @@ book:
   author: Ben Aaronovitch
   cover_image: foxglove-summer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402338677l/20499240._SX98_.jpg
+  dimensions:
+    height: 22.3
+    thickness: 3.5
+    width: 14.5
   goodreads: '20499240'
   isbn10: '0575132507'
   isbn13: '9780575132504'
-  pages: '377'
+  pages: 384
   publication_year: '2014'
   series: Rivers of London
   series_position: '5'

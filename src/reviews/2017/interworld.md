@@ -3,10 +3,14 @@ book:
   author: Neil Gaiman
   cover_image: interworld.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777301l/47701._SY475_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 2.3
+    width: 14.0
   goodreads: '47701'
   isbn10: 0061238961
   isbn13: '9780061238963'
-  pages: '239'
+  pages: 239
   publication_year: '2007'
   series: InterWorld
   series_position: '1'

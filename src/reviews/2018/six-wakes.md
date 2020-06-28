@@ -3,10 +3,14 @@ book:
   author: Mur Lafferty
   cover_image: six-wakes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 2.5
+    width: 14.0
   goodreads: '28962996'
   isbn10: 0316389684
   isbn13: '9780316389686'
-  pages: '364'
+  pages: 400
   publication_year: '2017'
   slug: six-wakes
   tags:

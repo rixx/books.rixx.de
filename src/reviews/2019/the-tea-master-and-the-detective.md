@@ -3,10 +3,14 @@ book:
   author: Aliette de Bodard
   cover_image: the-tea-master-and-the-detective.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511987651l/36686547._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.5
+    width: 14.0
   goodreads: '36686547'
   isbn10: '1596068647'
   isbn13: '9781596068643'
-  pages: '96'
+  pages: 96
   publication_year: '2018'
   slug: the-tea-master-and-the-detective
   tags:

@@ -3,10 +3,14 @@ book:
   author: N.K. Jemisin
   cover_image: the-hundred-thousand-kingdoms.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 3.2
+    width: 14.0
   goodreads: '6437061'
   isbn10: 0316043915
   isbn13: '9780316043915'
-  pages: '427'
+  pages: 432
   publication_year: '2010'
   series: Inheritance
   series_position: '1'

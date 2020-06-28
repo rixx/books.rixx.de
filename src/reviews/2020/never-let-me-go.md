@@ -3,10 +3,14 @@ book:
   author: Kazuo Ishiguro
   cover_image: never-let-me-go.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg
+  dimensions:
+    height: 21.0
+    thickness: 1.6
+    width: 13.4
   goodreads: '6334'
   isbn10: '1400078776'
   isbn13: '9781400078776'
-  pages: '288'
+  pages: 288
   publication_year: '2005'
   slug: never-let-me-go
   tags:

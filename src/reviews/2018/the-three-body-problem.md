@@ -3,10 +3,14 @@ book:
   author: Liu Cixin
   cover_image: the-three-body-problem.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.4
+    width: 16.3
   goodreads: '20518872'
   isbn10: '0765377063'
   isbn13: '9780765377067'
-  pages: '399'
+  pages: 399
   publication_year: '2006'
   series: Remembrance of Earth’s Past
   series_position: '1'

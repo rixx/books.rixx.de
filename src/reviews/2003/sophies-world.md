@@ -3,10 +3,12 @@ book:
   author: Jostein Gaarder
   cover_image: sophies-world.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343459906l/10959._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '10959'
   isbn10: '1857993284'
   isbn13: '9781857993288'
-  pages: '403'
+  pages: 403
   publication_year: '1991'
   slug: sophies-world
   tags:

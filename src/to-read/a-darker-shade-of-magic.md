@@ -3,10 +3,14 @@ book:
   author: V.E. Schwab
   cover_image: a-darker-shade-of-magic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851l/22055262._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.5
+    width: 15.3
   goodreads: '22055262'
   isbn10: 0765376458
   isbn13: '9780765376459'
-  pages: '400'
+  pages: 400
   publication_year: '2015'
   series: Shades of Magic
   series_position: '1'

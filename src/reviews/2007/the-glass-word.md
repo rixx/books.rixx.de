@@ -3,10 +3,14 @@ book:
   author: Kai Meyer
   cover_image: the-glass-word.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391914742l/937003.jpg
+  dimensions:
+    height: 24.0
+    thickness: 2.7
+    width: 15.2
   goodreads: '937003'
   isbn10: 0689877919
   isbn13: '9780689877919'
-  pages: '282'
+  pages: 288
   publication_year: '2002'
   series: Dark Reflections
   series_position: '3'

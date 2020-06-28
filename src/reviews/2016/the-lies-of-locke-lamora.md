@@ -3,10 +3,14 @@ book:
   author: Scott Lynch
   cover_image: the-lies-of-locke-lamora.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576333981l/127455._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.8
+    width: 16.4
   goodreads: '127455'
   isbn10: 0553804677
   isbn13: '9780553804676'
-  pages: '499'
+  pages: 499
   publication_year: '2006'
   series: Gentleman Bastard
   series_position: '1'

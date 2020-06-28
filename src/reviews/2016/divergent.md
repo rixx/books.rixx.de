@@ -3,10 +3,14 @@ book:
   author: Veronica Roth
   cover_image: divergent.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588455221l/13335037._SX98_.jpg
+  dimensions:
+    height: 20.3
+    thickness: 3.3
+    width: 13.5
   goodreads: '13335037'
   isbn10: '0062024035'
   isbn13: '9780062024039'
-  pages: '487'
+  pages: 576
   publication_year: '2011'
   series: Divergent
   series_position: '1'

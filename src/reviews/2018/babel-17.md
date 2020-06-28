@@ -3,10 +3,12 @@ book:
   author: Samuel R. Delany
   cover_image: babel-17.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '1199688'
   isbn10: 0839823282
   isbn13: '9780839823285'
-  pages: '192'
+  pages: 192
   publication_year: '1966'
   slug: babel-17
   tags:

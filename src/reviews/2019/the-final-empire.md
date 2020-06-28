@@ -3,10 +3,14 @@ book:
   author: Brandon Sanderson
   cover_image: the-final-empire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717416l/68428._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 4.2
+    width: 16.3
   goodreads: '68428'
   isbn10: 076531178X
   isbn13: '9780765311788'
-  pages: '541'
+  pages: 541
   publication_year: '2006'
   series: Mistborn
   series_position: '1'

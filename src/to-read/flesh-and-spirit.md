@@ -3,10 +3,14 @@ book:
   author: Carol Berg
   cover_image: flesh-and-spirit.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431493610l/437790._SY475_.jpg
+  dimensions:
+    height: 23.0
+    thickness: 2.4
+    width: 15.3
   goodreads: '437790'
   isbn10: 045146088X
   isbn13: '9780451460882'
-  pages: '408'
+  pages: 418
   publication_year: '2007'
   series: Lighthouse
   series_position: '1'

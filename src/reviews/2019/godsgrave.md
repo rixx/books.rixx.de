@@ -3,10 +3,14 @@ book:
   author: Jay Kristoff
   cover_image: godsgrave.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688862l/23264671._SX98_.jpg
+  dimensions:
+    height: 25.0
+    thickness: 3.9
+    width: 16.2
   goodreads: '23264671'
   isbn10: '1250073030'
   isbn13: '9781250073037'
-  pages: '419'
+  pages: 448
   publication_year: '2017'
   series: The Nevernight Chronicle
   series_position: '2'

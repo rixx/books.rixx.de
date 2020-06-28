@@ -3,10 +3,14 @@ book:
   author: Dan Simmons
   cover_image: hyperion.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.7
+    width: 10.6
   goodreads: '77566'
   isbn10: 0553283685
   isbn13: '9780553283686'
-  pages: '482'
+  pages: 482
   publication_year: '1989'
   series: Hyperion Cantos
   series_position: '1'

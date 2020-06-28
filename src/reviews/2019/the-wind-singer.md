@@ -3,10 +3,14 @@ book:
   author: William Nicholson
   cover_image: the-wind-singer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293635554l/295169._SY160_.jpg
+  dimensions:
+    height: 24.0
+    thickness: 3.2
+    width: 10.5
   goodreads: '295169'
   isbn10: 0786814179
   isbn13: '9780786814176'
-  pages: '486'
+  pages: 486
   publication_year: '2000'
   series: Wind on Fire
   series_position: '1'

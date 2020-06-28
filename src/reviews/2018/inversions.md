@@ -3,10 +3,14 @@ book:
   author: Iain M. Banks
   cover_image: inversions.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930844l/12017._SX98_.jpg
+  dimensions:
+    height: 18.0
+    thickness: 2.5
+    width: 10.2
   goodreads: '12017'
   isbn10: 074341196X
   isbn13: '9780743411967'
-  pages: '343'
+  pages: 400
   publication_year: '1998'
   series: Culture
   series_position: '6'

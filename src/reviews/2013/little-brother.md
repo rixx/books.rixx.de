@@ -3,10 +3,14 @@ book:
   author: Cory Doctorow
   cover_image: little-brother.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SX98_.jpg
+  dimensions:
+    height: 22.0
+    thickness: 3.2
+    width: 14.5
   goodreads: '954674'
   isbn10: 0765319853
   isbn13: '9780765319852'
-  pages: '382'
+  pages: 382
   publication_year: '2008'
   series: Little Brother
   series_position: '1'
