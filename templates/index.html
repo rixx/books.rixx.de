@@ -2,7 +2,11 @@
 
 {% block content %}
 
+<h1>Welcome to log(book)!</h1>
+
 {% include "_shelf.html" %}
+
+{{ text | render_markdown | safe }}
 
 <p>Here are a few of the books I&rsquo;ve read recently:</p>
 
@@ -11,7 +15,5 @@
     {% include "_review_list_entry.html" %}
   {% endfor %}
 </div>
-
-{{ text | render_markdown | safe }}
 
 {% endblock %}

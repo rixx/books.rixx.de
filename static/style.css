@@ -630,6 +630,10 @@ header a {
   border-left: 1px solid rgba(0, 0, 0, 0.03);
 }
 
+#shelf .spine:hover {
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+}
+
 #shelf .spine:after {
   display: none;
   position: absolute;
@@ -638,6 +642,7 @@ header a {
   height: 100%;
   width: 100px;
   left: 100%;
+  margin-left: 1px;
   background-size: contain;
   background-repeat: no-repeat;
 }
