@@ -64,10 +64,15 @@ def get_date(prompt, default):
 
 class Tag:
     def __init__(self, name):
-        data = frontmatter.load(f"src/tags/{name}.md")
+        name = str(name)
+        if not name.endswith(".md"):
+            name = f"{name}.md"
+        if not name.startswith("src/tags"):
+            name = Path("src/tags") / name
+        data = frontmatter.load(name)
         self.metadata = data.metadata
         self.text = data.content
-        self.slug = name
+        self.slug = Path(name).stem
 
 
 def load_tags():
