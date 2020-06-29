@@ -129,20 +129,6 @@ def update_book_data(review):
         return
 
     fix_publication_year(review, google_data, openlib_data)
-    # fix_page_number(review, google_data, openlib_data)
-    # fix_dimensions(review, google_data, openlib_data)
+    fix_page_number(review, google_data, openlib_data)
+    fix_dimensions(review, google_data, openlib_data)
     review.save()
-
-
-def update_all_book_data():
-    from .books import load_reviews, load_to_read
-
-    reviews = list(load_reviews()) + list(load_to_read())
-    from tqdm import tqdm
-
-    for review in tqdm(reviews):
-        if not review.isbn:
-            continue
-        if review.metadata["book"].get("dimensions"):
-            continue
-        update_book_data(review)

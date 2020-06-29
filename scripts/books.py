@@ -16,6 +16,7 @@ import requests
 from unidecode import unidecode
 
 from . import goodreads
+from .data import choose_spine_color
 
 
 TAG_CACHE = {}
@@ -254,6 +255,7 @@ class Review:
 
         self.metadata["book"]["cover_image"] = cover_name
         self.metadata["book"]["cover_image_url"] = cover_image_url
+        choose_spine_color(self)
         return cover_name
 
     def find_openlibrary_cover(self, force_new=False):
@@ -496,6 +498,10 @@ def create_book(search_term=None):
             Path("src/covers") / (review.metadata["book"].get("cover_image") or ""),
         ]
     )
+
+    if review.isbn:
+        from .data import update_book_data
+        update_book_data(review)
 
 
 def get_review_from_user():
