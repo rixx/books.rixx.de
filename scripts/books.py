@@ -76,11 +76,10 @@ class Tag:
 
 
 def load_tags():
-    tags = sorted([Tag(path) for path in Path("src/tags").glob("*.md")], key=lambda x: x.slug)
-    return {
-        tag.slug: tag
-        for tag in tags
-    }
+    tags = sorted(
+        [Tag(path) for path in Path("src/tags").glob("*.md")], key=lambda x: x.slug
+    )
+    return {tag.slug: tag for tag in tags}
 
 
 class Review:
@@ -183,7 +182,7 @@ class Review:
             self.save()
 
     def update_tags(self):
-        sorted(list(load_tags().keys()))
+        available_tags = sorted(list(load_tags().keys()))
         current_tags = self.metadata["book"].get("tags", [])
 
         self.metadata["book"]["tags"] = inquirer.prompt(
@@ -284,11 +283,18 @@ class Review:
             return self.download_cover(url, force_new=force_new)
         return False
 
+    @property
+    def goodreads_url(self):
+        goodreads_id = self.metadata["book"].get("goodreads")
+        if not goodreads_id:
+            return False
+        return f"https://www.goodreads.com/book/show/{goodreads_id}-blabla"
+
     def find_goodreads_cover(self, force_new=False):
         if "goodreads.com" in self.metadata["book"]["cover_image_url"]:
             url = self.metadata["book"]["cover_image_url"]
         else:
-            data = self.get_goodreads_data()
+            data = goodreads.get_book_data(self.goodreads_url)
             url = data["cover_image_url"]
         if url:
             with suppress(Exception):
@@ -298,14 +304,9 @@ class Review:
     def find_goodreads_scrape_cover(self, force_new=False):
         import bs4
 
-        goodreads_id = self.metadata["book"].get("goodreads")
-        if not goodreads_id:
-            return False
-        goodreads_url = f"https://www.goodreads.com/book/show/{goodreads_id}-blabla"
-
         with suppress(Exception):
             soup = bs4.BeautifulSoup(
-                requests.get(goodreads_url).content.decode(), "html.parser"
+                requests.get(self.goodreads_url).content.decode(), "html.parser"
             )
             url = soup.select_one("#coverImage").attrs["src"]
             return self.download_cover(url, force_new=force_new)
@@ -322,12 +323,15 @@ class Review:
                 return result
 
     def show_cover(self):
+        if not "cover_image" in self.metadata["book"]:
+            print("No cover image found.")
+            return
         subprocess.check_call(
             ["xdg-open", Path("src/covers") / self.metadata["book"]["cover_image"]]
         )
 
 
-class Spine():
+class Spine:
     def __init__(self, review):
         self.review = review
         self.height = self.get_spine_height()
@@ -413,8 +417,7 @@ def get_book_from_input():
 def get_review_info(review=None):
     known_metadata = (review.metadata.get("review") or {}) if review else {}
     date_read = get_date(
-        "When did you finish reading it?",
-        default=known_metadata.get("date_read"),
+        "When did you finish reading it?", default=known_metadata.get("date_read"),
     )
     rating = inquirer.list_input(
         message="What’s your rating?",
@@ -458,9 +461,7 @@ def create_book(search_term=None):
     }
     if entry_type == "reviews":
         review_info = get_review_info()
-        metadata["review"] = {
-            key: review_info[key] for key in ("date_read", "rating")
-        }
+        metadata["review"] = {key: review_info[key] for key in ("date_read", "rating")}
         if review_info["did_not_finish"]:
             metadata["review"]["did_not_finish"] = True
 
@@ -501,6 +502,7 @@ def create_book(search_term=None):
 
     if review.isbn:
         from .data import update_book_data
+
         update_book_data(review)
 
 
@@ -640,7 +642,7 @@ def change_tags(**kwargs):
         load_reviews(),
         key=lambda r: (r.metadata["book"]["author"], r.metadata["book"]["title"]),
     )
-    names = sorted(list(load_tags().keys()))
+    tags = sorted(list(load_tags().keys()))
 
     answers = inquirer.prompt(
         [
