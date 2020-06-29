@@ -14,6 +14,7 @@ book:
   spine_color: '#a86047'
   tags:
   - fantasy
+  - five-stars
   - german
   - urban-fantasy
   title: Das Jahrhundertkind

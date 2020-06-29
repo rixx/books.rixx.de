@@ -12,6 +12,7 @@ book:
   spine_color: '#445754'
   tags:
   - fantasy
+  - five-stars
   - scifi
   title: The Fifth Season
 plan:

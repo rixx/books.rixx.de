@@ -12,6 +12,7 @@ book:
   spine_color: '#c57044'
   tags:
   - fantasy
+  - five-stars
   title: The Dark Tower
 plan:
   date_added: '2017-07-11'

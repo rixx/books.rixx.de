@@ -25,7 +25,7 @@ review:
   date_read: 2018-01-03
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Still loving Tavis way in the world – learning, finding friends in the city, loads of character development, and of course he saves the world again.

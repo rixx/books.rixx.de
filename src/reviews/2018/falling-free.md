@@ -24,7 +24,7 @@ review:
   date_read: 2018-04-11
   date_started: 2018-04-10
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 How is Lois McMaster Bujold not one of the first authors to be recommended to people starting scifi? Falling Free introduces the Quaddies (humans with arms instead of legs), as seen and told by an Engineer, capital E. It's awesome, and it's got everything you'd wish for: a new culture, social implications, lots and lots of economic and corporate implications (I see where Charlie got his Laundry File bureaucracy from), and the cultural implications aswell. Also, very sweet and cool characters all around, and funny af. Leo Graf, the protagonist, is just ♥

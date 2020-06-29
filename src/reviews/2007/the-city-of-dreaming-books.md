@@ -18,6 +18,7 @@ book:
   spine_color: '#b0d2ed'
   tags:
   - fantasy
+  - five-stars
   - german
   title: The City of Dreaming Books
 plan:

@@ -13,6 +13,7 @@ book:
   slug: the-will-to-battle
   spine_color: '#6d91c0'
   tags:
+  - five-stars
   - scifi
   - space-monks
   title: The Will to Battle

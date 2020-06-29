@@ -15,6 +15,7 @@ book:
   slug: the-dispossessed
   spine_color: '#e51f34'
   tags:
+  - five-stars
   - scifi
   title: The Dispossessed
 plan:

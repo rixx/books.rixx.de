@@ -17,6 +17,7 @@ book:
   slug: quarantine
   spine_color: '#7b5489'
   tags:
+  - five-stars
   - scifi
   title: Quarantine
 plan:

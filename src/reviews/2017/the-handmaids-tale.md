@@ -17,7 +17,7 @@ review:
   date_read: 2017-12-21
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Oh *yes*, definitely the dystopic tale I needed without knowing it. Nicely done.

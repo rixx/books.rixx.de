@@ -16,6 +16,7 @@ book:
   spine_color: '#6a5a5a'
   tags:
   - fantasy
+  - five-stars
   title: Embassytown
 plan:
   date_added: '2018-11-14'

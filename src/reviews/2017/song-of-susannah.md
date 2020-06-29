@@ -13,6 +13,7 @@ book:
   spine_color: '#5d7e92'
   tags:
   - fantasy
+  - five-stars
   title: Song of Susannah
 plan:
   date_added: '2017-06-20'

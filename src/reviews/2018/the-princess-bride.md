@@ -16,6 +16,7 @@ book:
   spine_color: '#66694f'
   tags:
   - fantasy
+  - five-stars
   title: The Princess Bride
 plan:
   date_added: '2017-05-16'

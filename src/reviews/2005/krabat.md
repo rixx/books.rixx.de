@@ -13,6 +13,7 @@ book:
   slug: krabat
   spine_color: '#6886cd'
   tags:
+  - five-stars
   - german
   - myths-legends
   title: Krabat

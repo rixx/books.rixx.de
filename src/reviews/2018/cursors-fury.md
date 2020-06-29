@@ -21,7 +21,7 @@ review:
   date_read: 2018-01-05
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Tavi's now a real Cursor and finds himself sent to the military, where he continues to save the world.

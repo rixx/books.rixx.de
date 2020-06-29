@@ -13,6 +13,7 @@ book:
   slug: harka
   spine_color: '#afa541'
   tags:
+  - five-stars
   - german
   - historical-fiction
   title: Harka

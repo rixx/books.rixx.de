@@ -10,6 +10,7 @@ book:
   spine_color: '#c9b588'
   tags:
   - fantasy
+  - five-stars
   title: 'Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch'
 plan:
   date_added: '2015-04-08'

@@ -18,6 +18,7 @@ book:
   spine_color: '#e6d557'
   tags:
   - fantasy
+  - five-stars
   title: The Door Into Fire
 plan:
   date_added: '2019-10-05'

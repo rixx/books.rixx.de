@@ -11,6 +11,7 @@ book:
   slug: ancillary-justice
   spine_color: '#737e77'
   tags:
+  - five-stars
   - scifi
   - space-monks
   title: Ancillary Justice

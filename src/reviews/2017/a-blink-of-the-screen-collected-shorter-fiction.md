@@ -16,6 +16,7 @@ book:
   spine_color: '#8e8266'
   tags:
   - fantasy
+  - five-stars
   title: 'A Blink of the Screen: Collected Shorter Fiction'
 plan:
   date_added: '2015-04-08'

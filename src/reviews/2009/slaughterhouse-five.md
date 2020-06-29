@@ -21,5 +21,5 @@ review:
   date_read: 2009-01-01
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---

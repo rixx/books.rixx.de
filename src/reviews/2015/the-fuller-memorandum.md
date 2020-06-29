@@ -21,7 +21,7 @@ review:
   date_read: 2015-07-22
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Just a review to remind myself of why I liked this book:

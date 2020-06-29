@@ -13,6 +13,7 @@ book:
   slug: gaudy-night
   spine_color: '#372a3e'
   tags:
+  - five-stars
   - mystery
   title: Gaudy Night
 plan:

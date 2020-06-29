@@ -15,6 +15,7 @@ book:
   slug: leisure-the-basis-of-culture
   spine_color: '#6e6e6e'
   tags:
+  - five-stars
   - german
   - nonfiction
   - philosophy

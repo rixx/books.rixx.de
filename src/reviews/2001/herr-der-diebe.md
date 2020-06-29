@@ -9,6 +9,7 @@ book:
   slug: herr-der-diebe
   spine_color: '#5cb3de'
   tags:
+  - five-stars
   - german
   - kids
   title: Herr der Diebe

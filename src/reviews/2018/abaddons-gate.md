@@ -17,6 +17,7 @@ book:
   slug: abaddons-gate
   spine_color: '#ab9a53'
   tags:
+  - five-stars
   - scifi
   title: Abaddon's Gate
 plan:

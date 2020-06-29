@@ -17,6 +17,7 @@ book:
   slug: dawn
   spine_color: '#eac068'
   tags:
+  - five-stars
   - scifi
   title: Dawn
 plan:

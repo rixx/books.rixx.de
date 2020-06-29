@@ -15,6 +15,7 @@ book:
   slug: anathem
   spine_color: '#706142'
   tags:
+  - five-stars
   - scifi
   - space-monks
   title: Anathem

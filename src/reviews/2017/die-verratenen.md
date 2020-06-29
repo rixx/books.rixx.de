@@ -23,7 +23,7 @@ review:
   date_read: 2017-01-09
   date_started: 2017-01-08
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Mehr, bitte!

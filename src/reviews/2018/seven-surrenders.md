@@ -17,6 +17,7 @@ book:
   slug: seven-surrenders
   spine_color: '#31527a'
   tags:
+  - five-stars
   - scifi
   - space-monks
   title: Seven Surrenders

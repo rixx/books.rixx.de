@@ -25,7 +25,7 @@ review:
   date_read: 2018-03-03
   date_started: 2018-02-28
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 This is what I wanted Merchant Princess to be. We see Rita do cool stuff without being too Mary Sue-ish, we get background, we get development, we get politics, and all that without being one giant economics textbook. Moar!

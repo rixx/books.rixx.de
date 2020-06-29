@@ -17,6 +17,7 @@ book:
   slug: the-atrocity-archives
   spine_color: '#ae332b'
   tags:
+  - five-stars
   - urban-fantasy
   title: The Atrocity Archives
 plan:

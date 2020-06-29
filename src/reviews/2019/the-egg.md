@@ -8,6 +8,8 @@ book:
   publication_year: '2009'
   slug: the-egg
   spine_color: '#4e5043'
+  tags:
+  - five-stars
   title: The Egg
 plan:
   date_added: '2019-01-26'

@@ -15,6 +15,7 @@ book:
   slug: ronia-the-robbers-daughter
   spine_color: '#aeab71'
   tags:
+  - five-stars
   - german
   - kids
   title: Ronia, the Robber's Daughter

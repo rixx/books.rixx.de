@@ -11,6 +11,7 @@ book:
   slug: die-dampfenden-halse-der-pferde-im-turm-von-babel
   spine_color: '#bbab8d'
   tags:
+  - five-stars
   - german
   - kids
   - language

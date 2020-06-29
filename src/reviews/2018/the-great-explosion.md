@@ -11,6 +11,7 @@ book:
   slug: the-great-explosion
   spine_color: '#916463'
   tags:
+  - five-stars
   - scifi
   title: The Great Explosion
 plan:

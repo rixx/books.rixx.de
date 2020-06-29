@@ -18,6 +18,7 @@ book:
   spine_color: '#807d8d'
   tags:
   - fantasy
+  - five-stars
   title: The Traitor Baru Cormorant
 plan:
   date_added: '2018-09-15'

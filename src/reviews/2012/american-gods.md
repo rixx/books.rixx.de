@@ -12,6 +12,7 @@ book:
   spine_color: '#c1c59b'
   tags:
   - fantasy
+  - five-stars
   - myths-legends
   title: American Gods
 plan:

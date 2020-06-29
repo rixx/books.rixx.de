@@ -16,6 +16,7 @@ book:
   slug: the-warriors-apprentice
   spine_color: '#cfa08d'
   tags:
+  - five-stars
   - scifi
   title: The Warrior's Apprentice
 plan:

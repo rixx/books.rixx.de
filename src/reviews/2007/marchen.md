@@ -15,6 +15,7 @@ book:
   slug: marchen
   spine_color: '#3c493e'
   tags:
+  - five-stars
   - german
   - kids
   title: Märchen

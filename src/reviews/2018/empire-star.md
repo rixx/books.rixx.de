@@ -11,6 +11,7 @@ book:
   slug: empire-star
   spine_color: '#346483'
   tags:
+  - five-stars
   - scifi
   title: Empire Star
 plan:

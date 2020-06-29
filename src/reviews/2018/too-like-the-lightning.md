@@ -17,6 +17,7 @@ book:
   slug: too-like-the-lightning
   spine_color: '#eeba8d'
   tags:
+  - five-stars
   - scifi
   - space-monks
   title: Too Like the Lightning

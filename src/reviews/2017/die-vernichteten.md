@@ -23,5 +23,5 @@ review:
   date_read: 2017-01-11
   date_started: 2017-01-09
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---

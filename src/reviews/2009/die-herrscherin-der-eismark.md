@@ -12,6 +12,7 @@ book:
   spine_color: '#531f1a'
   tags:
   - fantasy
+  - five-stars
   - german
   - ya
   title: Die Herrscherin der Eismark

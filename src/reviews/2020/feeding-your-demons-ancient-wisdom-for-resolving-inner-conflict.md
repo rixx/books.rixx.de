@@ -11,6 +11,7 @@ book:
   slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
   spine_color: '#e54d26'
   tags:
+  - five-stars
   - nonfiction
   - personal-development
   title: 'Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict'

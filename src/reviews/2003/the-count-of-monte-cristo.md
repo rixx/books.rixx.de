@@ -15,6 +15,7 @@ book:
   slug: the-count-of-monte-cristo
   spine_color: '#c2c1c8'
   tags:
+  - five-stars
   - historical-fiction
   title: The Count of Monte Cristo
 plan:

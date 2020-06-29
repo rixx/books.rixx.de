@@ -13,6 +13,7 @@ book:
   slug: the-hanging-tree
   spine_color: '#b03448'
   tags:
+  - five-stars
   - urban-fantasy
   title: The Hanging Tree
 plan:

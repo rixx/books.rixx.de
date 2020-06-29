@@ -18,6 +18,7 @@ book:
   spine_color: '#458a75'
   tags:
   - fantasy
+  - five-stars
   - german
   title: The Eyre Affair
 plan:

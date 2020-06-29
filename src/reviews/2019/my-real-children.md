@@ -11,6 +11,7 @@ book:
   slug: my-real-children
   spine_color: '#a48f7c'
   tags:
+  - five-stars
   - scifi
   title: My Real Children
 plan:

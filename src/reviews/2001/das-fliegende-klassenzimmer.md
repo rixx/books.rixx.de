@@ -15,6 +15,7 @@ book:
   slug: das-fliegende-klassenzimmer
   spine_color: '#f4df18'
   tags:
+  - five-stars
   - german
   - kids
   title: Das fliegende Klassenzimmer

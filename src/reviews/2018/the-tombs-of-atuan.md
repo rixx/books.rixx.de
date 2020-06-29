@@ -18,6 +18,7 @@ book:
   spine_color: '#f2edba'
   tags:
   - fantasy
+  - five-stars
   title: The Tombs of Atuan
 plan:
   date_added: '2017-02-27'

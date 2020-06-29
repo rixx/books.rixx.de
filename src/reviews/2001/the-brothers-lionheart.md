@@ -15,6 +15,7 @@ book:
   slug: the-brothers-lionheart
   spine_color: '#94c2cb'
   tags:
+  - five-stars
   - german
   - kids
   title: The Brothers Lionheart

@@ -18,6 +18,7 @@ book:
   spine_color: '#813c45'
   tags:
   - fantasy
+  - five-stars
   - urban-fantasy
   - ya
   title: High Wizardry

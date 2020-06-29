@@ -17,6 +17,7 @@ book:
   slug: the-rook
   spine_color: '#6d6c6b'
   tags:
+  - five-stars
   - urban-fantasy
   title: The Rook
 plan:

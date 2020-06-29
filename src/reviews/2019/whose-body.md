@@ -17,6 +17,7 @@ book:
   slug: whose-body
   spine_color: '#a18b87'
   tags:
+  - five-stars
   - german
   - mystery
   title: Whose Body?

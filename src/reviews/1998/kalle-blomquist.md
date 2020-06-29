@@ -12,6 +12,7 @@ book:
   slug: kalle-blomquist
   spine_color: '#f2c310'
   tags:
+  - five-stars
   - german
   - kids
   - mystery

@@ -15,6 +15,7 @@ book:
   slug: lao-tzu-tao-te-ching-a-book-about-the-way-and-the-power-of-the-way
   spine_color: '#0f4358'
   tags:
+  - five-stars
   - nonfiction
   - personal-development
   - philosophy

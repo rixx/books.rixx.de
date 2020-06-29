@@ -17,6 +17,7 @@ book:
   slug: the-player-of-games
   spine_color: '#ba3a19'
   tags:
+  - five-stars
   - scifi
   title: The Player of Games
 plan:

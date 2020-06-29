@@ -15,6 +15,7 @@ book:
   slug: the-knowledge-illusion-why-we-never-think-alone
   spine_color: '#eeee1e'
   tags:
+  - five-stars
   - nonfiction
   - personal-development
   - psychology

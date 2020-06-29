@@ -17,6 +17,7 @@ book:
   slug: leviathan-wakes
   spine_color: '#19384a'
   tags:
+  - five-stars
   - scifi
   title: Leviathan Wakes
 plan:

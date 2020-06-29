@@ -15,6 +15,7 @@ book:
   slug: the-name-of-the-rose
   spine_color: '#b8413a'
   tags:
+  - five-stars
   - german
   title: The Name of the Rose
 plan:

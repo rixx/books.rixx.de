@@ -25,7 +25,7 @@ review:
   date_read: 2018-03-10
   date_started: 2018-03-09
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Brilliant fun! Take this mostly horrible scifi concept of an all-female planet, reverse it to an all-male planet, then take it *seriously*. This poor protagonist doctor, sent out into the hostile and horrfyingly feminine universe, meets the brilliant Ellie Quinn of all people. It was SO MUCH FUN.

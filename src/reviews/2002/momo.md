@@ -11,6 +11,7 @@ book:
   spine_color: '#d5832a'
   tags:
   - fantasy
+  - five-stars
   - german
   - kids
   title: Momo

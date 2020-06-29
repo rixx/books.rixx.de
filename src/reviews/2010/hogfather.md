@@ -16,6 +16,8 @@ book:
   series_position: '20'
   slug: hogfather
   spine_color: '#36332f'
+  tags:
+  - five-stars
   title: Hogfather
 plan:
   date_added: '2015-04-08'

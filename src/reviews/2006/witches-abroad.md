@@ -16,6 +16,8 @@ book:
   series_position: '12'
   slug: witches-abroad
   spine_color: '#1155a5'
+  tags:
+  - five-stars
   title: Witches Abroad
 plan:
   date_added: '2015-04-08'

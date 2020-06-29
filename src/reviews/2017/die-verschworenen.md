@@ -23,7 +23,7 @@ review:
   date_read: 2017-01-09
   date_started: 2017-01-09
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Rias Gruppe wird dezimiert (sogar eher im ursprünglichen Sinn), und nach einigen Nachforschungen in Jordans Chroniken verlassen drei der vier Überlebenden die Wildnis, um mehr in Erfahrung zu bringen. Bringt leider nicht so viel an Fakten, aber bringt Ria auf die richtigen Gedanken und sie beendet das Buch, wo sie es begann.

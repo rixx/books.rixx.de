@@ -16,6 +16,7 @@ book:
   spine_color: '#ab8053'
   tags:
   - fantasy
+  - five-stars
   - german
   - kids
   title: The Neverending Story

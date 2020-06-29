@@ -15,6 +15,7 @@ book:
   slug: emil-and-the-detectives
   spine_color: '#6895d6'
   tags:
+  - five-stars
   - german
   - kids
   title: Emil and the Detectives

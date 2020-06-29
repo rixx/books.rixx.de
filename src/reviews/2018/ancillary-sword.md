@@ -13,6 +13,7 @@ book:
   slug: ancillary-sword
   spine_color: '#7c7264'
   tags:
+  - five-stars
   - scifi
   title: Ancillary Sword
 plan:

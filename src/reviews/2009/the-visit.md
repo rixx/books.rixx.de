@@ -15,6 +15,7 @@ book:
   slug: the-visit
   spine_color: '#800f0f'
   tags:
+  - five-stars
   - german
   - stage-play
   title: The Visit

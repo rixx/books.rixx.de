@@ -16,6 +16,8 @@ book:
   series_position: '38'
   slug: i-shall-wear-midnight
   spine_color: '#bf9b72'
+  tags:
+  - five-stars
   title: I Shall Wear Midnight
 plan:
   date_added: '2015-04-08'

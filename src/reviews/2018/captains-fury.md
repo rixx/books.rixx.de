@@ -25,7 +25,7 @@ review:
   date_read: 2018-01-08
   date_started: null
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Tavi finally finds out who he is (c'mon, we knew all along) and develops his furycrafting. He also saves the realm using his new-won influence, resolving a terrible war peacefully.

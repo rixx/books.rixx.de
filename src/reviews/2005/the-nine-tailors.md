@@ -17,6 +17,7 @@ book:
   slug: the-nine-tailors
   spine_color: '#848b7b'
   tags:
+  - five-stars
   - german
   - mystery
   title: The Nine Tailors

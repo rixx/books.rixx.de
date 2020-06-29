@@ -17,6 +17,7 @@ book:
   slug: doomsday-book
   spine_color: '#602a1e'
   tags:
+  - five-stars
   - scifi
   title: Doomsday Book
 plan:

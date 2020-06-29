@@ -16,6 +16,7 @@ book:
   spine_color: '#3d3d3d'
   tags:
   - fantasy
+  - five-stars
   - german
   - kids
   title: Coraline

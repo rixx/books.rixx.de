@@ -15,6 +15,7 @@ book:
   slug: treasure-island
   spine_color: '#974937'
   tags:
+  - five-stars
   - german
   title: Treasure Island
 plan:

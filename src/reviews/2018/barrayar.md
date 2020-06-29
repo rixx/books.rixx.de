@@ -17,6 +17,7 @@ book:
   slug: barrayar
   spine_color: '#c2532d'
   tags:
+  - five-stars
   - scifi
   title: Barrayar
 plan:

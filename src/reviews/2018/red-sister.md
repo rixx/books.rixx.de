@@ -25,7 +25,7 @@ review:
   date_read: 2018-12-04
   date_started: 2018-11-30
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Red Sister is a beautifully written fantasy novel that switches flawlessly between intimate characterisation, lyrical prose, and gripping action, all set in a deeply fascinating world. And by fascinating I mean: the moon is a parabolic mirror that heats a liveable strip of land at night, keeping the encroaching masses of ice at bay. Yess. And no, it's not scifi, it's deeply fantasy. I loved everything about this book, including the main cast, the supporting characters, the plot, the unpredictable turns, … wow!

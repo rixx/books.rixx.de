@@ -15,6 +15,7 @@ book:
   slug: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance
   spine_color: '#ddc737'
   tags:
+  - five-stars
   - nonfiction
   - personal-development
   title: 'The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance'

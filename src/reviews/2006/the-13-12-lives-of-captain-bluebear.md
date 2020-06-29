@@ -18,6 +18,7 @@ book:
   spine_color: '#e8bb35'
   tags:
   - fantasy
+  - five-stars
   - german
   title: The 13½ Lives of Captain Bluebear
 plan:

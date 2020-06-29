@@ -10,6 +10,8 @@ book:
   publication_year: '1995'
   slug: bloodchild-and-other-stories
   spine_color: '#ae8050'
+  tags:
+  - five-stars
   title: Bloodchild and Other Stories
 plan:
   date_added: '2018-03-13'

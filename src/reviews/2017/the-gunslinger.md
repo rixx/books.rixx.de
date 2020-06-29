@@ -12,6 +12,7 @@ book:
   spine_color: '#e3a852'
   tags:
   - fantasy
+  - five-stars
   title: The Gunslinger
 plan:
   date_added: '2016-11-13'

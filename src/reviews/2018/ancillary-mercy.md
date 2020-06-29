@@ -17,6 +17,7 @@ book:
   slug: ancillary-mercy
   spine_color: '#7c7968'
   tags:
+  - five-stars
   - scifi
   title: Ancillary Mercy
 plan:

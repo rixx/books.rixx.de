@@ -8,8 +8,9 @@ book:
   slug: a-study-in-emerald
   spine_color: '#e13f0d'
   tags:
-  - mystery
   - fanfic
+  - five-stars
+  - mystery
   title: A Study in Emerald
 plan:
   date_added: '2017-11-28'

@@ -11,6 +11,7 @@ book:
   slug: max-und-moritz-eine-bubengeschichte-in-sieben-streichen
   spine_color: '#f5e32e'
   tags:
+  - five-stars
   - german
   - kids
   title: Max und Moritz. Eine Bubengeschichte in sieben Streichen

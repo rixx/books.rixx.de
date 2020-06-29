@@ -11,6 +11,7 @@ book:
   slug: driftglass
   spine_color: '#f8efb8'
   tags:
+  - five-stars
   - scifi
   title: Driftglass
 plan:

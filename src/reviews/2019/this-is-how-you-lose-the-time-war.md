@@ -9,6 +9,7 @@ book:
   slug: this-is-how-you-lose-the-time-war
   spine_color: '#532b30'
   tags:
+  - five-stars
   - scifi
   title: This Is How You Lose the Time War
 plan:

@@ -17,6 +17,7 @@ book:
   slug: freedomtm
   spine_color: '#eb8f2c'
   tags:
+  - five-stars
   - scifi
   title: Freedom™
 plan:

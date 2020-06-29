@@ -14,6 +14,7 @@ book:
   spine_color: '#303246'
   tags:
   - fantasy
+  - five-stars
   title: Legion
 plan:
   date_added: '2016-06-08'

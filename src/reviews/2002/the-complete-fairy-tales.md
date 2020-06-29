@@ -15,6 +15,7 @@ book:
   slug: the-complete-fairy-tales
   spine_color: '#b6a969'
   tags:
+  - five-stars
   - german
   - myths-legends
   title: The Complete Fairy Tales

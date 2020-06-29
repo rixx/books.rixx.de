@@ -15,6 +15,7 @@ book:
   slug: redshirts
   spine_color: '#ad1e22'
   tags:
+  - five-stars
   - scifi
   title: Redshirts
 plan:

@@ -17,6 +17,7 @@ book:
   slug: busmans-honeymoon
   spine_color: '#815e5f'
   tags:
+  - five-stars
   - mystery
   title: Busman's Honeymoon
 plan:

@@ -12,6 +12,7 @@ book:
   spine_color: '#b9a498'
   tags:
   - fantasy
+  - five-stars
   - scifi
   title: The Obelisk Gate
 plan:

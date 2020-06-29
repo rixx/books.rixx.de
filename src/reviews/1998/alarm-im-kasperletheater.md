@@ -11,6 +11,7 @@ book:
   slug: alarm-im-kasperletheater
   spine_color: '#bc1d20'
   tags:
+  - five-stars
   - german
   - kids
   title: Alarm im Kasperletheater

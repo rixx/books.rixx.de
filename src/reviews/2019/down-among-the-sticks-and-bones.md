@@ -18,6 +18,7 @@ book:
   spine_color: '#2c2730'
   tags:
   - fantasy
+  - five-stars
   title: Down Among the Sticks and Bones
 plan:
   date_added: '2018-10-06'

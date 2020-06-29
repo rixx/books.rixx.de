@@ -21,7 +21,7 @@ review:
   date_read: 2017-01-15
   date_started: 2017-01-11
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Oh boy did I enjoy myself! Written really well (if a bit heavy on the fancy words in the beginning). Really looking forward to the next books in the series.

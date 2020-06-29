@@ -11,6 +11,7 @@ book:
   slug: die-roten-matrosen
   spine_color: '#efb899'
   tags:
+  - five-stars
   - german
   - historical-fiction
   - ya

@@ -18,6 +18,7 @@ book:
   spine_color: '#597b6d'
   tags:
   - fantasy
+  - five-stars
   title: The Farthest Shore
 plan:
   date_added: '2018-02-12'

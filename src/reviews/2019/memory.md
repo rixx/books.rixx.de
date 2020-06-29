@@ -13,6 +13,7 @@ book:
   slug: memory
   spine_color: '#b55339'
   tags:
+  - five-stars
   - scifi
   title: Memory
 plan:

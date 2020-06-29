@@ -17,6 +17,7 @@ book:
   slug: tiamats-wrath
   spine_color: '#9b704a'
   tags:
+  - five-stars
   - scifi
   title: Tiamat's Wrath
 plan:

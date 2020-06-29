@@ -11,6 +11,7 @@ book:
   slug: the-martian
   spine_color: '#e0954a'
   tags:
+  - five-stars
   - scifi
   title: The Martian
 plan:

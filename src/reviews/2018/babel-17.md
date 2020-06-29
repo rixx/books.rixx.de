@@ -13,8 +13,9 @@ book:
   slug: babel-17
   spine_color: '#a13225'
   tags:
-  - scifi
+  - five-stars
   - language
+  - scifi
   title: Babel-17
 plan:
   date_added: '2018-02-18'

@@ -17,6 +17,7 @@ book:
   slug: artificial-condition
   spine_color: '#c7935f'
   tags:
+  - five-stars
   - scifi
   title: Artificial Condition
 plan:

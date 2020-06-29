@@ -16,6 +16,8 @@ book:
   series_position: '30'
   slug: the-wee-free-men
   spine_color: '#426980'
+  tags:
+  - five-stars
   title: The Wee Free Men
 plan:
   date_added: '2015-04-08'

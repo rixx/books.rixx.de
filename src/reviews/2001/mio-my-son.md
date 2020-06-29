@@ -15,6 +15,7 @@ book:
   slug: mio-my-son
   spine_color: '#ec8927'
   tags:
+  - five-stars
   - german
   - kids
   title: Mio, My Son

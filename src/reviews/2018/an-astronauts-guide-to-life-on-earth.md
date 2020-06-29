@@ -15,6 +15,7 @@ book:
   slug: an-astronauts-guide-to-life-on-earth
   spine_color: '#4f627c'
   tags:
+  - five-stars
   - nonfiction
   - personal-development
   title: An Astronaut's Guide to Life on Earth

@@ -10,6 +10,7 @@ book:
   slug: the-mountains-of-mourning
   spine_color: '#6d0406'
   tags:
+  - five-stars
   - scifi
   title: The Mountains of Mourning
 plan:

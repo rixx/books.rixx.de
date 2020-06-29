@@ -16,6 +16,7 @@ book:
   spine_color: '#8e7260'
   tags:
   - fantasy
+  - five-stars
   title: The Emperor's Soul
 plan:
   date_added: '2017-11-28'

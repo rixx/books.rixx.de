@@ -17,6 +17,7 @@ book:
   slug: babylons-ashes
   spine_color: '#698d8c'
   tags:
+  - five-stars
   - scifi
   title: Babylon's Ashes
 plan:

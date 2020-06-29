@@ -11,6 +11,7 @@ book:
   slug: nemesis-games
   spine_color: '#866a64'
   tags:
+  - five-stars
   - scifi
   title: Nemesis Games
 plan:

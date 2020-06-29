@@ -13,6 +13,7 @@ book:
   slug: the-end
   spine_color: '#ddbc89'
   tags:
+  - five-stars
   - ya
   title: The End
 plan:

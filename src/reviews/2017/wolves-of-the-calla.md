@@ -18,6 +18,7 @@ book:
   spine_color: '#9f7d43'
   tags:
   - fantasy
+  - five-stars
   title: Wolves of the Calla
 plan:
   date_added: '2017-06-18'

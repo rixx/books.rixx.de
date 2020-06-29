@@ -14,6 +14,7 @@ book:
   spine_color: '#cb9e4f'
   tags:
   - fantasy
+  - five-stars
   title: A Game of Thrones
 plan:
   date_added: '2015-04-08'
