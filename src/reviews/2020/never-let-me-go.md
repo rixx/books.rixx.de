@@ -23,6 +23,29 @@ review:
   date_read: 2020-01-25
   did_not_finish: false
   rating: 4
+  tldr: Excellent dystopian storytelling. Not loud, not ostentatious, not yelling
+    "THIS IS A DYSTOPIA, GETIT?!". Strong narration, slow burn. Didn't feel depressing
+    despite the bleak theme.
+social:
+  mastodon:
+    datetime: 2020-06-30 01:15:21.877249
+    id: '104429815179994401'
+    in_reply_to: '104418307987392441'
+    text: '11/ Never Let Me Go by Kazuo Ishiguro. Excellent dystopian storytelling.
+      Not loud, not ostentatious, not yelling "THIS IS A DYSTOPIA, GETIT?!". Strong
+      narration, slow burn. Didn''t feel depressing despite the bleak theme.
+
+      https://books.rixx.de/reviews/2020/never-let-me-go/ #rixxReads'
+  number: 11
+  twitter:
+    datetime: 2020-06-30 01:15:21.499046
+    id: '1277742480545533960'
+    in_reply_to: '1277006020376748040'
+    text: '11/ Never Let Me Go by Kazuo Ishiguro. Excellent dystopian storytelling.
+      Not loud, not ostentatious, not yelling "THIS IS A DYSTOPIA, GETIT?!". Strong
+      narration, slow burn. Didn''t feel depressing despite the bleak theme.
+
+      https://books.rixx.de/reviews/2020/never-let-me-go/'
 ---
 
 Excellent dystopian storytelling in Never Let Me Go – not loud, not ostentatious, not yelling "THIS IS A DYSTOPIA, GET IT?!" at every opportunity. The narrator's voice was extremely well-done – strong, recognisable, but realistic at the same time. The unveiling of their lived reality was slow, and good – it allowed you to stay a step ahead, without that victorious feeling of having pulled one over the book. Interesting how the world described is terribly depressing, yet the book didn't once feel sad or depressing or tedious to me.

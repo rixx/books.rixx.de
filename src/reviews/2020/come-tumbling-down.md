@@ -25,6 +25,28 @@ review:
   date_read: 2020-01-26
   did_not_finish: false
   rating: 3
+  tldr: I want to like the Wayward Children series more than I actually like them.
+    This one felt just a bit too formulaic, too quippy, too designed to be quotable.
+social:
+  mastodon:
+    datetime: 2020-06-30 01:17:15.757082
+    id: '104429822649339629'
+    in_reply_to: '104429815179994401'
+    text: '12/ Come Tumbling Down by Seanan McGuire. I want to like the Wayward Children
+      series more than I actually like them. This one felt just a bit too formulaic,
+      too quippy, too designed to be quotable.
+
+      https://books.rixx.de/reviews/2020/come-tumbling-down/ #rixxReads'
+  number: 12
+  twitter:
+    datetime: 2020-06-30 01:17:15.464532
+    id: '1277742958578712578'
+    in_reply_to: '1277742480545533960'
+    text: '12/ Come Tumbling Down by Seanan McGuire. I want to like the Wayward Children
+      series more than I actually like them. This one felt just a bit too formulaic,
+      too quippy, too designed to be quotable.
+
+      https://books.rixx.de/reviews/2020/come-tumbling-down/'
 ---
 
 I liked Come Tumbling Down okay, but I feel it repeated previous plots a bit. The worldbuilding and writing was still good, but I felt that character growth was taking place mostly between books. Both the boys involved were pretty useless for most of the time, which is especially unfortunate with the trans guy cast in a (learned?) helplessness and inability to be of help.
