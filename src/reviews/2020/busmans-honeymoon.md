@@ -24,7 +24,6 @@ plan:
   date_added: '2020-02-08'
 review:
   date_read: 2020-02-11
-  date_started: 2020-02-08
   did_not_finish: false
   rating: 5
 ---

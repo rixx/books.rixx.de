@@ -21,7 +21,6 @@ plan:
   date_added: 2020-05-29
 review:
   date_read: 2014-03-01
-  date_started: 2014-03-01
   rating: 4
 ---
 

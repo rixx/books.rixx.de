@@ -412,13 +412,9 @@ def get_book_from_input():
 
 def get_review_info(review=None):
     known_metadata = (review.metadata.get("review") or {}) if review else {}
-    date_started = get_date(
-        "When did you start reading this book?",
-        default=known_metadata.get("date_started"),
-    )
     date_read = get_date(
         "When did you finish reading it?",
-        default=known_metadata.get("date_read") or date_started,
+        default=known_metadata.get("date_read"),
     )
     rating = inquirer.list_input(
         message="What’s your rating?",
@@ -436,7 +432,6 @@ def get_review_info(review=None):
         )
 
     return {
-        "date_started": date_started,
         "date_read": date_read,
         "rating": rating,
         "did_not_finish": did_not_finish,
@@ -464,7 +459,7 @@ def create_book(search_term=None):
     if entry_type == "reviews":
         review_info = get_review_info()
         metadata["review"] = {
-            key: review_info[key] for key in ("date_read", "rating", "date_started")
+            key: review_info[key] for key in ("date_read", "rating")
         }
         if review_info["did_not_finish"]:
             metadata["review"]["did_not_finish"] = True

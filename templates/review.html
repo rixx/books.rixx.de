@@ -43,12 +43,6 @@
       <th>{{ review.metadata.review.date_added | render_date }}</th>
     </tr>
     {% endif %}
-    {% if review.metadata.review.date_started %}
-    <tr>
-      <td>date started:</td>
-      <th>{{ review.metadata.review.date_started | render_date }}</th>
-    </tr>
-    {% endif %}
     {% if review.metadata.review.date_read %}
     <tr>
       <td>date read:</td>

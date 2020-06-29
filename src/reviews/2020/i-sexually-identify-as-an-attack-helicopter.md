@@ -15,7 +15,6 @@ plan:
   date_added: '2020-01-11'
 review:
   date_read: 2020-01-12
-  date_started: null
   did_not_finish: false
   rating: 4
   tldr: Brutal-yet-touching scifi take on gender. Loved the story, hated the aftermath

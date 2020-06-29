@@ -16,7 +16,6 @@ plan:
   date_added: '2020-01-03'
 review:
   date_read: 2020-01-13
-  date_started: 2020-01-03
   did_not_finish: false
   rating: 4
   tldr: A collection of modern poems. Some were not for me at all, but one or two

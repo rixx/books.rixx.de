@@ -20,7 +20,6 @@ plan:
   date_added: '2020-01-23'
 review:
   date_read: 2020-01-24
-  date_started: null
   did_not_finish: false
   rating: 3
   tldr: A calm, optimistic story of the last humans leaving Earth, visiting another

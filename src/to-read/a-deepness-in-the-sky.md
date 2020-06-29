@@ -19,8 +19,7 @@ book:
   title: A Deepness in the Sky
 plan:
   date_added: '2019-03-03'
-review:
-  date_started: '2020-06-14'
+review: {}
 ---
 
 I'm overdue, but it's so long, and I haven't been in the mood for serious thought

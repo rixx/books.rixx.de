@@ -18,7 +18,6 @@ plan:
   date_added: '2017-11-16'
 review:
   date_read: 2017-11-16
-  date_started: null
   did_not_finish: false
   rating: 4
 ---

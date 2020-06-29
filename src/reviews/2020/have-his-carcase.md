@@ -17,7 +17,6 @@ plan:
   date_added: '2020-01-22'
 review:
   date_read: 2020-01-23
-  date_started: 2020-01-22
   did_not_finish: false
   rating: 3
   tldr: I went on a bit of a mystery streak here. This one is mostly character building

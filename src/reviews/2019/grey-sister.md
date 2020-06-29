@@ -19,7 +19,6 @@ plan:
   date_added: '2018-12-04'
 review:
   date_read: 2019-04-04
-  date_started: 2019-04-02
   did_not_finish: false
   rating: 3
 ---

@@ -18,7 +18,6 @@ plan:
   date_added: 2020-05-29
 review:
   date_read: 2008-04-07
-  date_started: 2008-04-03
   rating: 3
 ---
 

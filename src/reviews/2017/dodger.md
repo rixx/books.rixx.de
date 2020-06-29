@@ -10,14 +10,13 @@ book:
   publication_year: '2012'
   slug: dodger
   spine_color: '#e4cb8d'
-  title: Dodger
   tags:
   - historical-fiction
+  title: Dodger
 plan:
   date_added: '2015-04-08'
 review:
   date_read: 2017-06-01
-  date_started: 2017-05-31
   did_not_finish: false
   rating: 4
 ---

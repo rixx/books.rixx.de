@@ -16,7 +16,6 @@ plan:
   date_added: '2020-01-11'
 review:
   date_read: 2020-01-12
-  date_started: null
   did_not_finish: false
   rating: 4
   tldr: An overview over HTTP/3 by the developer of curl. Fairly short and informative,

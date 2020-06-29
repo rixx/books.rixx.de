@@ -21,7 +21,6 @@ plan:
   date_added: '2017-05-16'
 review:
   date_read: 2017-05-16
-  date_started: 2017-05-15
   did_not_finish: false
   rating: 2
 ---

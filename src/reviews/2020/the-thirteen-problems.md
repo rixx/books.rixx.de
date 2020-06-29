@@ -23,7 +23,6 @@ plan:
   date_added: 2020-06-16
 review:
   date_read: 2020-06-15
-  date_started: 2020-06-15
   rating: 3
 ---
 

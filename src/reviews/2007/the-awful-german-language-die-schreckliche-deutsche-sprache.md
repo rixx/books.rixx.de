@@ -15,7 +15,6 @@ plan:
   date_added: '2015-04-17'
 review:
   date_read: 2007-07-01
-  date_started: null
   did_not_finish: false
   rating: 4
 ---

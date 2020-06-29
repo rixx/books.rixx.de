@@ -17,7 +17,6 @@ plan:
   date_added: '2020-01-10'
 review:
   date_read: 2020-01-22
-  date_started: 2020-01-10
   did_not_finish: false
   rating: 2
   tldr: The tedious Lord Peter mystery – focused on a very boring plot, little in
