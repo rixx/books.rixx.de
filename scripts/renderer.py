@@ -311,6 +311,7 @@ def build_site(**kwargs):
             title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
+        review.spine = books.Spine(review)
         for tag in review.metadata["book"].get("tags", []):
             tags[tag].append(review)
 

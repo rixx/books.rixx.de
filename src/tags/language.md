@@ -1,5 +1,6 @@
 ---
 title: Books about language
+color: '#f4d718'
 ---
 
 I was a language nerd long before I knew what being a nerd meant. This list collects nonfiction and fiction where

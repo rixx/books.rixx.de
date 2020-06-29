@@ -1,6 +1,7 @@
 ---
 title: Mysteries
 boring: true
+color: '#6a119e'
 ---
 
 I had a phase when I was 10 or 11 and read all mysteries I could get my hands on. This was good, broadly speaking,

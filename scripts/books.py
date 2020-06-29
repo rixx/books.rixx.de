@@ -18,6 +18,9 @@ from unidecode import unidecode
 from . import goodreads
 
 
+TAG_CACHE = {}
+
+
 def slugify(text):
     """Convert Unicode string into blog slug."""
     # https://leancrew.com/all-this/2014/10/asciifying/
@@ -64,6 +67,14 @@ class Tag:
         self.metadata = data.metadata
         self.text = data.content
         self.slug = name
+
+
+def load_tags():
+    tags = sorted([Tag(path) for path in Path("src/tags").glob("*.md")], key=lambda x: x.slug)
+    return {
+        tag.slug: tag
+        for tag in tags
+    }
 
 
 class Review:
@@ -166,7 +177,7 @@ class Review:
             self.save()
 
     def update_tags(self):
-        available_tags = sorted([path.stem for path in Path("src/tags").glob("*.md")])
+        sorted(list(load_tags().keys()))
         current_tags = self.metadata["book"].get("tags", [])
 
         self.metadata["book"]["tags"] = inquirer.prompt(
@@ -308,16 +319,35 @@ class Review:
             ["xdg-open", Path("src/covers") / self.metadata["book"]["cover_image"]]
         )
 
+
+class Spine():
+    def __init__(self, review):
+        self.review = review
+        self.height = self.get_spine_height()
+        self.width = self.get_spine_width()
+        self.color = self.review.metadata["book"].get("spine_color")
+        self.cover = self.review.metadata["book"].get("cover_image")
+        current_tags = self.review.metadata["book"].get("tags", [])
+        self.starred = "five-stars" in current_tags
+        self.labels = []
+        for tag_name in current_tags:
+            if tag_name not in TAG_CACHE:
+                TAG_CACHE[tag_name] = Tag(tag_name)
+            tag = TAG_CACHE[tag_name]
+            color = tag.metadata.get("color")
+            if color:
+                self.labels.append(tag)
+
     def get_spine_height(self):
-        height = self.metadata["book"].get("dimensions", {}).get("height")
+        height = self.review.metadata["book"].get("dimensions", {}).get("height")
         if not height:
             height = random.randint(16, 25)
         return min(int(height * 4), 110)
 
     def get_spine_width(self):
-        width = self.metadata["book"].get("dimensions", {}).get("thickness")
+        width = self.review.metadata["book"].get("dimensions", {}).get("thickness")
         if not width:
-            pages = self.metadata["book"].get("pages")
+            pages = self.review.metadata["book"].get("pages")
             if not pages:
                 width = random.randint(1, 4) / 2
             else:
@@ -604,7 +634,7 @@ def change_tags(**kwargs):
         load_reviews(),
         key=lambda r: (r.metadata["book"]["author"], r.metadata["book"]["title"]),
     )
-    tags = sorted([path.stem for path in Path("src/tags").glob("*.md")])
+    names = sorted(list(load_tags().keys()))
 
     answers = inquirer.prompt(
         [

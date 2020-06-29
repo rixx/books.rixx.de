@@ -1,8 +1,24 @@
 <div id="shelf">
   {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
   <a href="/{{ review.get_core_path() }}/">
-    <div class="spine" style="background-color: {{ review.metadata.book.spine_color }}; width: {{ review.get_spine_width() }}px; height: {{ review.get_spine_height() }}px; margin-top: {{ 110 - review.get_spine_height() }}px; --cover-img: url('/thumbnails/{{ review.metadata.book.cover_image }}')">
-
+    <div class="spine" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; margin-top: {{ 110 - review.spine.height }}px; --cover-img: url('/thumbnails/{{ review.spine.cover }}')">
+      {% if review.spine.starred %}
+      <div class="spine-label spine-starred">
+        <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+             viewBox="0 0 47.94 47.94" style="enable-background:new 0 0 47.94 47.94;" xml:space="preserve">
+          <path style="fill:#ED8A19;" d="M26.285,2.486l5.407,10.956c0.376,0.762,1.103,1.29,1.944,1.412l12.091,1.757
+              c2.118,0.308,2.963,2.91,1.431,4.403l-8.749,8.528c-0.608,0.593-0.886,1.448-0.742,2.285l2.065,12.042
+              c0.362,2.109-1.852,3.717-3.746,2.722l-10.814-5.685c-0.752-0.395-1.651-0.395-2.403,0l-10.814,5.685
+              c-1.894,0.996-4.108-0.613-3.746-2.722l2.065-12.042c0.144-0.837-0.134-1.692-0.742-2.285l-8.749-8.528
+              c-1.532-1.494-0.687-4.096,1.431-4.403l12.091-1.757c0.841-0.122,1.568-0.65,1.944-1.412l5.407-10.956
+              C22.602,0.567,25.338,0.567,26.285,2.486z"/>
+        </svg>
+      </div>
+      {% endif %}
+      {% for label in review.spine.labels %}
+        <div class="spine-label" style="background-color: {{ label.metadata.color }}" title="{{ label.metadata.name or label.slug }}">
+        </div>
+      {% endfor %}
     </div>
   </a>
   {% endif %}{% endfor %}

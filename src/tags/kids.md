@@ -1,6 +1,7 @@
 ---
 title: Kids' Books
 boring: true
+color: '#d32fd6'
 ---
 Books for kids – or books that I read as a kid without *much* ill results. I'm gesturing at all of me.
 

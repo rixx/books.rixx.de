@@ -626,6 +626,8 @@ header a {
 
 #shelf .spine {
   position: relative;
+  display: flex;
+  flex-direction: column;
   border-right: 1px solid rgba(0, 0, 0, 0.03);
   border-left: 1px solid rgba(0, 0, 0, 0.03);
 }
@@ -642,6 +644,7 @@ header a {
   height: 100%;
   width: 100px;
   left: 100%;
+  bottom: 0;
   margin-left: 1px;
   background-size: contain;
   background-repeat: no-repeat;
@@ -650,6 +653,28 @@ header a {
 #shelf .spine:hover:after {
   display: block;
   background-image: var(--cover-img);
+}
+
+.spine .spine-label {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  margin-bottom: 3px;
+  align-self: center;
+  display: none;
+}
+#shelf .spine:hover .spine-label {
+  display: block;
+}
+.spine .spine-label:first-child {
+  margin-top: auto;
+}
+.spine .spine-label.spine-starred {
+  display: block;
+  margin-bottom: auto;
+  margin-top: 5px;
+  width: 10px;
+  align-self: center;
 }
 
 

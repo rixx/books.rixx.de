@@ -1,5 +1,6 @@
 ---
 title: Space Monks
+color: '#0a3260'
 ---
 
 Space Monks! If scifi describes religion in space in some way, it's usually very much my kind of thing. It's not really

@@ -1,5 +1,6 @@
 ---
 title: Personal Development
+color: '#17b7b2'
 ---
 
 This is a list of books that, broadly speaking, try to improve your life. The five-star ones are ones that had a big

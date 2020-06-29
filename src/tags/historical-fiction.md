@@ -1,5 +1,6 @@
 ---
 title: Historical Fiction
+color: '#ea7633'
 ---
 
 Books taking place in a historical setting, as long as the setting is loadbearing. The deciding criterion is "Is my

@@ -1,5 +1,6 @@
 ---
 title: History
+color: '#702f0a'
 ---
 
 My reading list doesn't reflect this well, but I'm a bit of a history nerd. I hope to expand this list in the future –
