@@ -17,16 +17,13 @@ data source.
 
 In a virtualenv, run `pip install -e .`. Then you can run:
 
+- `books` to get to a menu that allows you to add/edit books, or bulk-edit tags.
 - `books auth` to get and save your Goodreads credentials
-- `books add` (or `books new` because I can never remember which one it is, so both work) to add a new book, either
-  from Goodreads or with manual data input
-- `books edit` opens an interactive menu allowing you to choose a book and change either some or all of the data, move
-  it to a different state, retrieve a cover image from goodreads/google/openlibrary/a link of your choice, and sync all
-  changes back to Goodreads if you choose.
-  pull data from Goodreads, or push data to Goodreads.
-- `books build` to build the site
+- `books social` to post to social media. My nick and name are currently hardcoded.
+- `books build` to build the site, creates the `_html` directory
 - `books load` to bulk-import book data from a database in the format created by
-  [goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite)
+  [goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite). It's very specific to my stuff and you probably
+  want to touch it up before using it.
 
 ## Related work
 
