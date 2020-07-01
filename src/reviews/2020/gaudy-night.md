@@ -22,6 +22,29 @@ review:
   date_read: 2020-02-08
   did_not_finish: false
   rating: 5
+  tldr: Objectively, this book is around 3.5-4 stars, but the romance broke my heart
+    and the banter moved me to tears. 5/5, and I probably won't shut up about this
+    one for a while.
+social:
+  mastodon:
+    datetime: 2020-07-01 10:21:18.677974
+    id: '104437624228942435'
+    in_reply_to: '104435662395515518'
+    text: '17/ Gaudy Night by Dorothy L. Sayers. Objectively, this book is around
+      3.5-4 stars, but the romance broke my heart and the banter moved me to tears.
+      5/5, and I probably won''t shut up about this one for a while.
+
+      https://books.rixx.de/reviews/2020/gaudy-night/ #rixxReads'
+  number: 17
+  twitter:
+    datetime: 2020-07-01 10:21:18.060257
+    id: '1278242259364913152'
+    in_reply_to: '1278116702518206465'
+    text: '17/ Gaudy Night by Dorothy L. Sayers. Objectively, this book is around
+      3.5-4 stars, but the romance broke my heart and the banter moved me to tears.
+      5/5, and I probably won''t shut up about this one for a while.
+
+      https://books.rixx.de/reviews/2020/gaudy-night/'
 ---
 
 Gaudy Night is the first book on my Wimsey re-read that I hadn't read before. In truth, it's about 3.5-4 stars, but it gets five for breaking my heart.
