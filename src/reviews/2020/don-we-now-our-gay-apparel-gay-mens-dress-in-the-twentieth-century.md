@@ -24,6 +24,32 @@ review:
   date_read: 2020-02-18
   did_not_finish: false
   rating: 4
+  tldr: This book is a treasure. It explores gay history and culture by following
+    clothing trends from Oscar Wilde to the 90s. Easy to read, well-sourced, incredibly
+    in-depth.
+social:
+  mastodon:
+    datetime: 2020-07-02 10:50:52.115012
+    id: '104443402777380354'
+    in_reply_to: '104443379652995911'
+    text: '25/ Don We Now Our Gay Apparel: Gay Men''s Dress in the Twentieth Century
+      by Shaun Cole. This book is a treasure. It explores gay history and culture
+      by following clothing trends from Oscar Wilde to the 90s. Easy to read, well-sourced,
+      incredibly in-depth.
+
+      https://books.rixx.de/reviews/2020/don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century/
+      #rixxReads'
+  number: 25
+  twitter:
+    datetime: 2020-07-02 10:50:51.804944
+    id: '1278612086877233157'
+    in_reply_to: '1278610606849961985'
+    text: '25/ Don We Now Our Gay Apparel: Gay Men''s Dress in the Twentieth Century
+      by Shaun Cole. This book is a treasure. It explores gay history and culture
+      by following clothing trends from Oscar Wilde to the 90s. Easy to read, well-sourced,
+      incredibly in-depth.
+
+      https://books.rixx.de/reviews/2020/don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century/'
 ---
 
 This book is a treasure! It follows the history of gay men's dress from the days of Oscar Wilde to the 90s, and by necessity along the way explains the cultural changes in and around gay groups.
