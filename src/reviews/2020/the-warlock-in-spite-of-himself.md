@@ -25,6 +25,28 @@ review:
   date_read: 2020-02-20
   did_not_finish: false
   rating: 2
+  tldr: Really good setting. That's it, that was the good part. Apart from that, strong
+    60s sexism, blatant propaganda, self-insert hero. Not my kind of thing.
+social:
+  mastodon:
+    datetime: 2020-07-02 16:23:26.132974
+    id: '104444710479471639'
+    in_reply_to: '104443402777380354'
+    text: '26/ The Warlock in Spite of Himself by Christopher Stasheff. Really good
+      setting. That''s it, that was the good part. Apart from that, strong 60s sexism,
+      blatant propaganda, self-insert hero. Not my kind of thing.
+
+      https://books.rixx.de/reviews/2020/the-warlock-in-spite-of-himself/ #rixxReads'
+  number: 26
+  twitter:
+    datetime: 2020-07-02 16:23:25.724536
+    id: '1278695779293593601'
+    in_reply_to: '1278612086877233157'
+    text: '26/ The Warlock in Spite of Himself by Christopher Stasheff. Really good
+      setting. That''s it, that was the good part. Apart from that, strong 60s sexism,
+      blatant propaganda, self-insert hero. Not my kind of thing.
+
+      https://books.rixx.de/reviews/2020/the-warlock-in-spite-of-himself/'
 ---
 
 The Warlock in Spite of Himself has a really good setting.

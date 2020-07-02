@@ -138,10 +138,8 @@ def post_next(dry_run=False):
     for review in reviews:
         social = review.metadata.get("social", {})
         if not review.metadata["review"].get("tldr"):
-            subprocess.check_call(
-                ["xdg-open", "_html/" + str(review.get_core_path() / "index.html")]
-            )
-            raise Exception(f"Missing tldr! Please fix: {review.path}")
+            print(f"Missing tldr! Please fix: {review.path}")
+            return
         if social and social.get("twitter", "id") and social.get("mastodon", "id"):
             last_review = review
         else:
