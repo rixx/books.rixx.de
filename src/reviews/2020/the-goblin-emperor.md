@@ -25,6 +25,28 @@ review:
   date_read: 2020-02-22
   did_not_finish: false
   rating: 4
+  tldr: Fun, well-written Fantasy with strong characters and actual development. A
+    bit predictable maybe, but the setting and writing make up for it.
+social:
+  mastodon:
+    datetime: 2020-07-04 23:32:47.377242
+    id: '104457723394589441'
+    in_reply_to: '104457718493334932'
+    text: '29/ The Goblin Emperor by Katherine Addison. Fun, well-written Fantasy
+      with strong characters and actual development. A bit predictable maybe, but
+      the setting and writing make up for it.
+
+      https://books.rixx.de/reviews/2020/the-goblin-emperor/ #rixxReads'
+  number: 29
+  twitter:
+    datetime: 2020-07-04 23:32:47.070424
+    id: '1279528605970825223'
+    in_reply_to: '1279528292559831041'
+    text: '29/ The Goblin Emperor by Katherine Addison. Fun, well-written Fantasy
+      with strong characters and actual development. A bit predictable maybe, but
+      the setting and writing make up for it.
+
+      https://books.rixx.de/reviews/2020/the-goblin-emperor/'
 ---
 
 Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, maybe, and a fairly large cast, but still a good read.
