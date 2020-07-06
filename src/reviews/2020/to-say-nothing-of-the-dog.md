@@ -25,6 +25,31 @@ review:
   date_read: 2020-02-22
   did_not_finish: false
   rating: 4
+  tldr: As good as advertised – even a bit better, it's in part targeted at people
+    who had their heart broken by Gaudy Night, which I read just two weeks earlier.
+    Dry humour, real characters and delightful banter.
+social:
+  mastodon:
+    datetime: 2020-07-04 23:50:05.956719
+    id: '104457791456330591'
+    in_reply_to: '104457723394589441'
+    text: '30/ To Say Nothing of the Dog by Connie Willis. As good as advertised –
+      even a bit better, it''s in part targeted at people who had their heart broken
+      by Gaudy Night, which I read just two weeks earlier. Dry humour, real characters
+      and delightful banter.
+
+      https://books.rixx.de/reviews/2020/to-say-nothing-of-the-dog/ #rixxReads'
+  number: 30
+  twitter:
+    datetime: 2020-07-04 23:50:05.595915
+    id: '1279532962212651008'
+    in_reply_to: '1279528605970825223'
+    text: '30/ To Say Nothing of the Dog by Connie Willis. As good as advertised –
+      even a bit better, it''s in part targeted at people who had their heart broken
+      by Gaudy Night, which I read just two weeks earlier. Dry humour, real characters
+      and delightful banter.
+
+      https://books.rixx.de/reviews/2020/to-say-nothing-of-the-dog/'
 ---
 
 This book as good as advertised – even a bit better than that, because part of it is targeted at people who had their heart broken by Gaudy Night, which I just had two weeks ago. I'm very happy I didn't accidentally read this one before Gaudy Night, that would've ruined the reading experience quite a bit.
