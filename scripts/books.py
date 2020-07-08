@@ -352,7 +352,7 @@ class Spine:
         return random.randint(16, 25)
 
     def normalize_height(self, height):
-        return min(int(height * 4), 110)
+        return max(min(int(height * 4), 110), 50)
 
     def get_spine_height(self):
         height = self.review.metadata["book"].get("dimensions", {}).get("height")
