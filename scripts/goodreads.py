@@ -1,7 +1,7 @@
 import datetime as dt
 import json
-import xml.etree.ElementTree as ET
 from contextlib import suppress
+from xml.etree import ElementTree as ET
 
 import click
 import dateutil.parser

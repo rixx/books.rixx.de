@@ -18,7 +18,6 @@ from unidecode import unidecode
 from . import goodreads
 from .data import choose_spine_color
 
-
 TAG_CACHE = {}
 
 
@@ -349,11 +348,17 @@ class Spine:
             if color:
                 self.labels.append(tag)
 
+    def random_height(self):
+        return random.randint(16, 25)
+
+    def normalize_height(self, height):
+        return min(int(height * 4), 110)
+
     def get_spine_height(self):
         height = self.review.metadata["book"].get("dimensions", {}).get("height")
         if not height:
-            height = random.randint(16, 25)
-        return min(int(height * 4), 110)
+            height = self.random_height()
+        return self.normalize_height(height)
 
     def get_spine_width(self):
         width = self.review.metadata["book"].get("dimensions", {}).get("thickness")

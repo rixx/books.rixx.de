@@ -1,5 +1,7 @@
 import colorsys
+from collections import defaultdict
 from pathlib import Path
+from statistics import median_high
 
 import requests
 from PIL import Image
@@ -132,3 +134,29 @@ def update_book_data(review):
     fix_page_number(review, google_data, openlib_data)
     fix_dimensions(review, google_data, openlib_data)
     review.save()
+
+
+def normalize_series_height():
+    from .books import Spine, load_reviews, load_to_read
+
+    reviews = list(load_reviews()) + list(load_to_read())
+    by_series = defaultdict(list)
+    for r in reviews:
+        if r.metadata["book"].get("series"):
+            by_series[r.metadata["book"]["series"]].append(r)
+    by_series = {key: value for key, value in by_series.items() if len(value) > 1}
+
+    for books in by_series.values():
+        heights = [
+            book.metadata["book"].get("dimensions", {}).get("height") for book in books
+        ]
+        heights = [h for h in heights if h]
+        if heights:
+            height = median_high(heights)
+        else:
+            height = Spine.random_height(None)
+        for book in books:
+            if not book.metadata["book"].get("dimensions"):
+                book.metadata["book"]["dimensions"] = {}
+            book.metadata["book"]["dimensions"]["height"] = height
+            book.save()
