@@ -3,6 +3,8 @@ book:
   author: Seanan McGuire
   cover_image: in-an-absent-dream.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525436165l/38244358._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '38244358'
   pages: '187'
   publication_year: '2019'

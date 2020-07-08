@@ -4,7 +4,7 @@ book:
   cover_image: brisingr.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391443970l/2248573.jpg
   dimensions:
-    height: 24.0
+    height: 21.0
     thickness: 4.8
     width: 16.2
   goodreads: '2248573'

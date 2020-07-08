@@ -3,6 +3,8 @@ book:
   author: Lemony Snicket
   cover_image: the-vile-village.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352066958l/150037._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '150037'
   isbn10: '0060566221'
   isbn13: '9780060566227'

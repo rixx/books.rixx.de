@@ -1,6 +1,8 @@
 ---
 book:
   author: aspeninthesunlight
+  dimensions:
+    height: 16
   goodreads: '35601139'
   pages: '1786'
   publication_year: null

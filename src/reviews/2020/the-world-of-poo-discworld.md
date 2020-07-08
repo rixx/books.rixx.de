@@ -4,7 +4,7 @@ book:
   cover_image: the-world-of-poo-discworld.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331115792l/13515493.jpg
   dimensions:
-    height: 21.0
+    height: 20.0
     thickness: 1.8
     width: 16.0
   goodreads: '13515493'

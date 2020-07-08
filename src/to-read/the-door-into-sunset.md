@@ -3,6 +3,8 @@ book:
   author: Diane Duane
   cover_image: the-door-into-sunset.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254906390l/531225.jpg
+  dimensions:
+    height: 18.0
   goodreads: '531225'
   isbn10: 0812514319
   isbn13: '9780812514315'

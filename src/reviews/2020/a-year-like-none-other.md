@@ -3,6 +3,8 @@ book:
   author: Aspen in the Sunlight
   cover_image: a-year-like-none-other.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158195l/16171495._SX98_.jpg
+  dimensions:
+    height: 16
   goodreads: '16171495'
   pages: '3160'
   publication_year: '2006'

@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: rivers-of-london-body-work-1.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414252892l/23387877._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '23387877'
   publication_year: '2015'
   series: Rivers of London

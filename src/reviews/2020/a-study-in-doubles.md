@@ -3,6 +3,8 @@ book:
   author: Jupiter_Ash
   cover_image: a-study-in-doubles.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381674191l/18666098._SX98_.jpg
+  dimensions:
+    height: 22
   goodreads: '18666098'
   pages: '314'
   publication_year: null

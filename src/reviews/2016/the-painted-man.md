@@ -3,7 +3,8 @@ book:
   author: Peter V. Brett
   cover_image: the-painted-man.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217594228l/3322866.jpg
-  dimensions: {}
+  dimensions:
+    height: 25.0
   goodreads: '3322866'
   isbn10: 0007287755
   isbn13: '9780007287758'

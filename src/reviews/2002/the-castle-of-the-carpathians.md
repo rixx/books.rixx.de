@@ -3,6 +3,8 @@ book:
   author: Jules Verne
   cover_image: the-castle-of-the-carpathians.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307523714l/1540877._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '1540877'
   pages: '292'
   publication_year: '1892'

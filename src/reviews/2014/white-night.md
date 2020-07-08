@@ -4,7 +4,7 @@ book:
   cover_image: white-night.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309552288l/91475._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 3.5
     width: 16.5
   goodreads: '91475'

@@ -3,6 +3,8 @@ book:
   author: Licia Troisi
   cover_image: die-drachenkampferin-der-talisman-der-macht.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327955151l/6505991._SX98_.jpg
+  dimensions:
+    height: 21
   goodreads: '6505991'
   isbn10: '3453533038'
   isbn13: '9783453533035'

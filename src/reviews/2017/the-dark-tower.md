@@ -3,6 +3,8 @@ book:
   author: Stephen King
   cover_image: the-dark-tower.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372296329l/5091._SY160_.jpg
+  dimensions:
+    height: 23.0
   goodreads: '5091'
   pages: '1050'
   publication_year: '2004'

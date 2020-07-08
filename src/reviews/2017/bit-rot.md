@@ -1,6 +1,8 @@
 ---
 book:
   author: Charles Stross
+  dimensions:
+    height: 24.0
   goodreads: '18078713'
   pages: '22'
   publication_year: '2010'

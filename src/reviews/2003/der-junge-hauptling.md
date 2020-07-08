@@ -3,6 +3,8 @@ book:
   author: Liselotte Welskopf-Henrich
   cover_image: der-junge-hauptling.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269778275l/7927173._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '7927173'
   pages: '255'
   publication_year: '1951'

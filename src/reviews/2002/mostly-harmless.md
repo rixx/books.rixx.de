@@ -4,7 +4,7 @@ book:
   cover_image: mostly-harmless.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320725132l/360._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 21.0
     thickness: 1.6
     width: 10.8
   goodreads: '360'

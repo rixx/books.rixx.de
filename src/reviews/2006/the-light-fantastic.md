@@ -4,7 +4,7 @@ book:
   cover_image: the-light-fantastic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389554927l/34506.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.9
     width: 10.6
   goodreads: '34506'

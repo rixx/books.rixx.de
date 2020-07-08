@@ -4,7 +4,7 @@ book:
   cover_image: death-masks.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557713l/91479._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.5
     width: 10.5
   goodreads: '91479'

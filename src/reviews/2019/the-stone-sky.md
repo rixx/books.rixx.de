@@ -3,6 +3,8 @@ book:
   author: N.K. Jemisin
   cover_image: the-stone-sky.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478547421l/31817749._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '31817749'
   pages: '416'
   publication_year: '2017'

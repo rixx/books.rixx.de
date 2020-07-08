@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: i-am-also-thy-brother.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183914l/16005281._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '16005281'
   pages: '2174'
   publication_year: '2007'

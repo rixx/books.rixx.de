@@ -4,7 +4,7 @@ book:
   cover_image: harry-potter-and-the-prisoner-of-azkaban.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY160_.jpg
   dimensions:
-    height: 17.0
+    height: 24.0
     thickness: 3.2
     width: 9.5
   goodreads: '5'

@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: striding-folly.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370374055l/192889._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '192889'
   isbn10: '0450033406'
   isbn13: '9780450033407'

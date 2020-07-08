@@ -4,7 +4,7 @@ book:
   cover_image: high-wizardry.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922145l/176534.jpg
   dimensions:
-    height: 19.0
+    height: 18.0
     thickness: 2.5
     width: 12.7
   goodreads: '176534'

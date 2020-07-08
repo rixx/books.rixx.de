@@ -4,7 +4,7 @@ book:
   cover_image: the-drawing-of-the-three.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 23.0
     thickness: 3.3
     width: 10.8
   goodreads: '5094'

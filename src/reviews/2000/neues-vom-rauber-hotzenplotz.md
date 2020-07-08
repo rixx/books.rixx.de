@@ -3,6 +3,8 @@ book:
   author: Otfried Preußler
   cover_image: neues-vom-rauber-hotzenplotz.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423300l/1148053._SX98_.jpg
+  dimensions:
+    height: 23
   goodreads: '1148053'
   isbn10: '3522115201'
   isbn13: '9783522115209'

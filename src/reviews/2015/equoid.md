@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: equoid.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380030682l/18403081._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '18403081'
   isbn10: '1466855479'
   isbn13: '9781466855472'

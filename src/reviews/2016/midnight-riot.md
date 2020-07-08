@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: midnight-riot.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389055317l/8680417._SY160_.jpg
+  dimensions:
+    height: 25
   goodreads: '8680417'
   pages: '298'
   publication_year: '2011'

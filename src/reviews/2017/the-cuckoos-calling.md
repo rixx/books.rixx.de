@@ -3,6 +3,8 @@ book:
   author: Robert Galbraith
   cover_image: the-cuckoos-calling.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SX98_.jpg
+  dimensions:
+    height: 25.0
   goodreads: '16160797'
   isbn10: 0316206849
   isbn13: '9780316206846'

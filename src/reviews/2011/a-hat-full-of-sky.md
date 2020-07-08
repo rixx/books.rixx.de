@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: a-hat-full-of-sky.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319037274l/34501._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '34501'
   isbn10: 055255264X
   isbn13: '9780552552646'

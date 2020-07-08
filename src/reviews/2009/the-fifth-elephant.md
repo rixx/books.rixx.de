@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: the-fifth-elephant.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327961702l/63720._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '63720'
   isbn10: 0552154229
   isbn13: '9780552154222'

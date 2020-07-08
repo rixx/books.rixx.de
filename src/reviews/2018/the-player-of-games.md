@@ -4,7 +4,7 @@ book:
   cover_image: the-player-of-games.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922873l/18630.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 2.3
     width: 15.6
   goodreads: '18630'

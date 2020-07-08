@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: maze-of-light.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183060l/24376769._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '24376769'
   pages: '26'
   publication_year: '2005'

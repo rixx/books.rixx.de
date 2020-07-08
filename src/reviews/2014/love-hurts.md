@@ -3,6 +3,8 @@ book:
   author: Jim Butcher
   cover_image: love-hurts.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328333990l/11277566.jpg
+  dimensions:
+    height: 20.0
   goodreads: '11277566'
   publication_year: '2011'
   series: The Dresden Files

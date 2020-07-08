@@ -3,6 +3,8 @@ book:
   author: Becky Chambers
   cover_image: record-of-a-spaceborn-few.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516965190l/32802595._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '32802595'
   isbn10: '1473647606'
   isbn13: '9781473647602'

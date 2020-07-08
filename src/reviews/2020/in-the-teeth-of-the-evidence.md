@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: in-the-teeth-of-the-evidence.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533082998l/41017496._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '41017496'
   pages: '308'
   publication_year: '1933'

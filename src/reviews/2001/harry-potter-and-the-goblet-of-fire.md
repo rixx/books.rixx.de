@@ -3,6 +3,8 @@ book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-goblet-of-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '6'
   pages: '734'
   publication_year: '2000'

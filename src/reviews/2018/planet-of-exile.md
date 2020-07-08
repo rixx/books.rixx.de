@@ -3,6 +3,8 @@ book:
   author: Ursula K. Le Guin
   cover_image: planet-of-exile.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334148719l/201882._SY160_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '201882'
   isbn10: 0441669514
   isbn13: '9780441669516'

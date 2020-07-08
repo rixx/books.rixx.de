@@ -4,7 +4,7 @@ book:
   cover_image: clouds-of-witness.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287510321l/192888._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.8
     width: 10.6
   goodreads: '192888'

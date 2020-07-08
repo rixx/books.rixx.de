@@ -4,7 +4,7 @@ book:
   cover_image: the-eyre-affair.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445540555l/27003._SX98_.jpg
   dimensions:
-    height: 13.3
+    height: 20.0
     thickness: 2.5
     width: 20.3
   goodreads: '27003'

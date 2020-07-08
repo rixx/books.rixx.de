@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: theatre-of-cruelty.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415598042l/9528398._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '9528398'
   pages: '4'
   publication_year: '1993'

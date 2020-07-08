@@ -4,7 +4,7 @@ book:
   cover_image: making-money.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440503111l/116296._SX318_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 3.2
     width: 15.2
   goodreads: '116296'

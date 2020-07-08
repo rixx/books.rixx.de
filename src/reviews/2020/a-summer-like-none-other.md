@@ -3,6 +3,8 @@ book:
   author: Aspen in the Sunlight
   cover_image: a-summer-like-none-other.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158403l/16171523._SX98_.jpg
+  dimensions:
+    height: 16
   goodreads: '16171523'
   pages: '898'
   publication_year: '2008'

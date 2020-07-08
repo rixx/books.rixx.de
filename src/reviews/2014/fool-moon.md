@@ -4,7 +4,7 @@ book:
   cover_image: fool-moon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307616l/91477._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.4
     width: 10.8
   goodreads: '91477'

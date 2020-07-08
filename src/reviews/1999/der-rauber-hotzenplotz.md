@@ -3,6 +3,8 @@ book:
   author: Otfried Preußler
   cover_image: der-rauber-hotzenplotz.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423356l/1246526._SX98_.jpg
+  dimensions:
+    height: 23
   goodreads: '1246526'
   isbn10: '3522105907'
   isbn13: '9783522105903'

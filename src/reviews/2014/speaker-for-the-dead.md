@@ -3,6 +3,8 @@ book:
   author: Orson Scott Card
   cover_image: speaker-for-the-dead.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894l/7967._SY160_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '7967'
   isbn10: 0812550757
   isbn13: '9780812550757'

@@ -4,7 +4,7 @@ book:
   cover_image: changes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027244l/6585201._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 3.7
     width: 16.2
   goodreads: '6585201'

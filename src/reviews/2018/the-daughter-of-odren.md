@@ -3,6 +3,8 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-daughter-of-odren.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422929380l/23380894.jpg
+  dimensions:
+    height: 21.0
   goodreads: '23380894'
   publication_year: '2014'
   series: Earthsea Cycle

@@ -3,6 +3,8 @@ book:
   author: Lois McMaster Bujold
   cover_image: the-borders-of-infinity.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327917017l/5073782._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '5073782'
   pages: '78'
   publication_year: '1987'

@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-fuller-memorandum.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262645028l/7149287._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '7149287'
   isbn10: 044101867X
   isbn13: '9780441018673'

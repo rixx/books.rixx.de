@@ -4,7 +4,7 @@ book:
   cover_image: the-13-12-lives-of-captain-bluebear.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176963l/62032.jpg
   dimensions:
-    height: 23.0
+    height: 25.0
     thickness: 4.2
     width: 15.7
   goodreads: '62032'

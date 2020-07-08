@@ -4,7 +4,7 @@ book:
   cover_image: men-at-arms.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388215150l/400354.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.5
     width: 10.6
   goodreads: '400354'

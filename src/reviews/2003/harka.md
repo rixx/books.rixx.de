@@ -3,6 +3,8 @@ book:
   author: Liselotte Welskopf-Henrich
   cover_image: harka.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368730l/6083604._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '6083604'
   isbn10: '3473388491'
   isbn13: '9783473388493'

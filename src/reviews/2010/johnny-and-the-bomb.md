@@ -4,7 +4,7 @@ book:
   cover_image: johnny-and-the-bomb.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387702036l/64385.jpg
   dimensions:
-    height: 23.0
+    height: 24.0
     thickness: 2.3
     width: 15.2
   goodreads: '64385'

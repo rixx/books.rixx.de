@@ -3,6 +3,8 @@ book:
   author: Liselotte Welskopf-Henrich
   cover_image: uber-den-missouri.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427643091l/6083621._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '6083621'
   isbn10: '3473388777'
   isbn13: '9783473388776'

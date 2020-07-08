@@ -3,6 +3,8 @@ book:
   author: Liselotte Welskopf-Henrich
   cover_image: heimkehr-zu-den-dakota.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406655758l/2453546.jpg
+  dimensions:
+    height: 25
   goodreads: '2453546'
   isbn10: '3357003686'
   isbn13: '9783357003689'

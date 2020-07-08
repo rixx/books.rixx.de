@@ -3,6 +3,8 @@ book:
   author: Mark  Lawrence
   cover_image: grey-sister.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523384136l/35530652._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '35530652'
   isbn10: 0008152349
   isbn13: '9780008152345'

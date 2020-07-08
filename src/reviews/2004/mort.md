@@ -4,7 +4,7 @@ book:
   cover_image: mort.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388181166l/386372.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.7
     width: 10.6
   goodreads: '386372'

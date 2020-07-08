@@ -3,6 +3,8 @@ book:
   author: Ursula Poznanski
   cover_image: die-verratenen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346059187l/15851619._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '15851619'
   isbn10: '3785575467'
   isbn13: '9783785575468'

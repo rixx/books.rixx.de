@@ -4,7 +4,7 @@ book:
   cover_image: permutation-city.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SX98_.jpg
   dimensions:
-    height: 17.0
+    height: 18.0
     thickness: 2.2
     width: 10.6
   goodreads: '156784'

@@ -4,7 +4,7 @@ book:
   cover_image: parable-of-the-sower.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442169447l/52397._SY475_.jpg
   dimensions:
-    height: 21.0
+    height: 24.0
     thickness: 3.2
     width: 13.1
   goodreads: '52397'

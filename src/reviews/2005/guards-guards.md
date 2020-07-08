@@ -4,7 +4,7 @@ book:
   cover_image: guards-guards.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431127356l/64216._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.4
     width: 10.6
   goodreads: '64216'

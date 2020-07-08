@@ -3,6 +3,8 @@ book:
   author: Ursula Poznanski
   cover_image: die-vernichteten.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395511555l/21529344._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '21529344'
   isbn10: '3785575483'
   isbn13: '9783785575482'

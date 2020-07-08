@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: whispers-under-ground.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341006340l/9970042._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '9970042'
   isbn10: '0345524616'
   isbn13: '9780345524614'

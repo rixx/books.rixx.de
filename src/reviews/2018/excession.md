@@ -4,7 +4,7 @@ book:
   cover_image: excession.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.8
     width: 10.2
   goodreads: '12013'

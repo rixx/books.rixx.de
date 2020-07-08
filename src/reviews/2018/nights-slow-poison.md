@@ -3,6 +3,8 @@ book:
   author: Ann Leckie
   cover_image: nights-slow-poison.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418606162l/22452306._SX98_.jpg
+  dimensions:
+    height: 19.8
   goodreads: '22452306'
   pages: '20'
   publication_year: '2012'

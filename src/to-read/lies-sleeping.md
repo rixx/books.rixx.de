@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: lies-sleeping.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517326409l/36534574._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '36534574'
   isbn10: '1473207819'
   isbn13: '9781473207813'

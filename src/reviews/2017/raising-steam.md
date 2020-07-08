@@ -4,7 +4,7 @@ book:
   cover_image: raising-steam.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582860489l/11275323._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 3.3
     width: 16.1
   goodreads: '11275323'

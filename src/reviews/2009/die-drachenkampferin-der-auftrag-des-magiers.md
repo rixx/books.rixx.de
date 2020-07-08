@@ -3,6 +3,8 @@ book:
   author: Licia Troisi
   cover_image: die-drachenkampferin-der-auftrag-des-magiers.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330028268l/6582267._SX98_.jpg
+  dimensions:
+    height: 21
   goodreads: '6582267'
   isbn10: '3453532899'
   isbn13: '9783453532892'

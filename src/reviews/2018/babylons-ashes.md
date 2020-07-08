@@ -4,7 +4,7 @@ book:
   cover_image: babylons-ashes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442247299l/25877663._SX98_.jpg
   dimensions:
-    height: 25.0
+    height: 24.0
     thickness: 4.6
     width: 24.1
   goodreads: '25877663'

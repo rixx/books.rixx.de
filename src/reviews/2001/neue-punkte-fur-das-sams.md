@@ -4,7 +4,7 @@ book:
   cover_image: neue-punkte-fur-das-sams.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350574588l/782796._SX98_.jpg
   dimensions:
-    height: 21.0
+    height: 20.0
     thickness: 2.3
     width: 13.8
   goodreads: '782796'

@@ -3,6 +3,8 @@ book:
   author: Lois McMaster Bujold
   cover_image: memory.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460274588l/61880._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '61880'
   isbn10: '2290052302'
   isbn13: '9782290052303'

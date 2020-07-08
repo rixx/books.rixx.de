@@ -4,7 +4,7 @@ book:
   cover_image: leviathan-wakes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SX98_.jpg
   dimensions:
-    height: 23.2
+    height: 24.0
     thickness: 4.2
     width: 15.6
   goodreads: '8855321'

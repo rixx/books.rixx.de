@@ -4,7 +4,7 @@ book:
   cover_image: wolves-of-the-calla.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419360231l/4978._SY160_.jpg
   dimensions:
-    height: 19.0
+    height: 23.0
     thickness: 3.8
     width: 10.5
   goodreads: '4978'

@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-clan-corporate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442876283l/17864._SY475_.jpg
+  dimensions:
+    height: 17.1
   goodreads: '17864'
   isbn10: 0765309300
   isbn13: '9780765309303'

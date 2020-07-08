@@ -3,6 +3,8 @@ book:
   author: Lemony Snicket
   cover_image: the-penultimate-peril.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524161970l/65110._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '65110'
   isbn10: '0064410153'
   isbn13: '9780064410151'

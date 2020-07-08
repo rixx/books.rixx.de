@@ -3,6 +3,8 @@ book:
   author: Anthony Ryan
   cover_image: blood-song.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421573407l/13569581._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '13569581'
   pages: '591'
   publication_year: '2011'

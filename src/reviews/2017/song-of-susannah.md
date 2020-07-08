@@ -3,6 +3,8 @@ book:
   author: Stephen King
   cover_image: song-of-susannah.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554221361l/5093._SY160_.jpg
+  dimensions:
+    height: 23.0
   goodreads: '5093'
   isbn10: '1416521496'
   pages: '544'

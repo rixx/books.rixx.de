@@ -3,6 +3,8 @@ book:
   author: Stephen King
   cover_image: the-wind-through-the-keyhole.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328001524l/12341557._SX98_.jpg
+  dimensions:
+    height: 23.0
   goodreads: '12341557'
   pages: '322'
   publication_year: '2012'

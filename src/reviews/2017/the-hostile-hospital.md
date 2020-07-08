@@ -3,6 +3,8 @@ book:
   author: Lemony Snicket
   cover_image: the-hostile-hospital.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442446120l/65118._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '65118'
   isbn10: '1405206128'
   isbn13: '9781405206129'

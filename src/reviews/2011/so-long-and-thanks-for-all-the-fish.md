@@ -3,6 +3,8 @@ book:
   author: Douglas Adams
   cover_image: so-long-and-thanks-for-all-the-fish.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369563116l/8698._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '8698'
   isbn10: 0330491237
   isbn13: '9780330491235'

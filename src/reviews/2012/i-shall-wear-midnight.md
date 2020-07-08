@@ -4,7 +4,7 @@ book:
   cover_image: i-shall-wear-midnight.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328232764l/7576115._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 2.7
     width: 15.9
   goodreads: '7576115'

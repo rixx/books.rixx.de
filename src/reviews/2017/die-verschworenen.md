@@ -3,6 +3,8 @@ book:
   author: Ursula Poznanski
   cover_image: die-verschworenen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368581811l/17925992._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '17925992'
   isbn10: '3785575475'
   isbn13: '9783785575475'

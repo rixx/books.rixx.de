@@ -3,6 +3,8 @@ book:
   author: Lian Hearn
   cover_image: der-ruf-des-reihers.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370812486l/1864628._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '1864628'
   isbn10: '3551581606'
   isbn13: '9783551581600'

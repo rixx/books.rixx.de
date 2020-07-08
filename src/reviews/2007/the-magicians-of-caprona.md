@@ -4,7 +4,7 @@ book:
   cover_image: the-magicians-of-caprona.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356548904l/47525._SX98_.jpg
   dimensions:
-    height: 22.9
+    height: 19.4
     thickness: 2.5
     width: 15.2
   goodreads: '47525'

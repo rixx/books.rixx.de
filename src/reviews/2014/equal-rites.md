@@ -4,7 +4,7 @@ book:
   cover_image: equal-rites.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296660066l/833422._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.8
     width: 11.0
   goodreads: '833422'

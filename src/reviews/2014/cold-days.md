@@ -4,7 +4,7 @@ book:
   cover_image: cold-days.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345145377l/12216302._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 4.2
     width: 16.0
   goodreads: '12216302'

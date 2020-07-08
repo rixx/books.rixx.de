@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-labyrinth-index.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507646317l/36053406._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '36053406'
   pages: '384'
   publication_year: '2018'

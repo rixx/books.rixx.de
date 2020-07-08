@@ -3,6 +3,8 @@ book:
   author: Diane Duane
   cover_image: deep-wizardry.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389585314l/176494.jpg
+  dimensions:
+    height: 18.0
   goodreads: '176494'
   isbn10: 0152049428
   isbn13: '9780152049423'

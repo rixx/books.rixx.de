@@ -3,6 +3,8 @@ book:
   author: Patrick Rothfuss
   cover_image: the-name-of-the-wind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '186074'
   isbn10: 075640407X
   isbn13: '9780756404079'

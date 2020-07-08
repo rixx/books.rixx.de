@@ -4,7 +4,7 @@ book:
   cover_image: the-amazing-maurice-and-his-educated-rodents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566225l/34534.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 2.3
     width: 15.2
   goodreads: '34534'

@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: the-furthest-station.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488204086l/31626329._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '31626329'
   isbn10: '1473222443'
   isbn13: '9781473222441'

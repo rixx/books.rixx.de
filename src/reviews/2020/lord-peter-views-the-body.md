@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: lord-peter-views-the-body.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531243413l/40776219._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '40776219'
   pages: '320'
   publication_year: '1928'

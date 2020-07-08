@@ -3,6 +3,8 @@ book:
   author: Becky Chambers
   cover_image: a-closed-and-common-orbit.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '29475447'
   isbn10: '1473621445'
   isbn13: '9781473621442'

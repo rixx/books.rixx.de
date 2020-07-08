@@ -4,7 +4,7 @@ book:
   cover_image: busmans-honeymoon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431714605l/116971._SY475_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.6
     width: 10.6
   goodreads: '116971'

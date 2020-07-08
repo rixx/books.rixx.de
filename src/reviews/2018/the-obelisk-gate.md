@@ -3,6 +3,8 @@ book:
   author: N.K. Jemisin
   cover_image: the-obelisk-gate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578523237l/26228034._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '26228034'
   pages: '410'
   publication_year: '2016'

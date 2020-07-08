@@ -4,7 +4,7 @@ book:
   cover_image: moon-over-soho.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401386247l/10381195._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 22.3
     thickness: 3.4
     width: 14.1
   goodreads: '10381195'

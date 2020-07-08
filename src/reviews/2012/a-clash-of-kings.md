@@ -4,7 +4,7 @@ book:
   cover_image: a-clash-of-kings.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 18.0
     thickness: 3.4
     width: 15.6
   goodreads: '10572'

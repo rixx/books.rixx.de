@@ -3,6 +3,8 @@ book:
   author: Diana Wynne Jones
   cover_image: witch-week.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356548970l/47572._SX98_.jpg
+  dimensions:
+    height: 19.4
   goodreads: '47572'
   isbn10: 0060298790
   isbn13: '9780060298791'

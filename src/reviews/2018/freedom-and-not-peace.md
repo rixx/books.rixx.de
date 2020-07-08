@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: freedom-and-not-peace.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183630l/16005266._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '16005266'
   pages: '2226'
   publication_year: '2006'

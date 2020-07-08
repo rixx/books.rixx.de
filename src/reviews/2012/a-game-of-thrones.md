@@ -3,6 +3,8 @@ book:
   author: George R.R. Martin
   cover_image: a-game-of-thrones.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '13496'
   isbn10: 0553588486
   isbn13: '9780553588484'

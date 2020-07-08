@@ -4,7 +4,7 @@ book:
   cover_image: night-watch.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518310l/47989._SX98_.jpg
   dimensions:
-    height: 19.8
+    height: 20.0
     thickness: 3.0
     width: 12.7
   goodreads: '47989'

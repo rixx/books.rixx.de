@@ -4,7 +4,7 @@ book:
   cover_image: going-postal.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388236899l/64222.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.6
     width: 10.6
   goodreads: '64222'

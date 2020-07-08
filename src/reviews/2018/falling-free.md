@@ -4,7 +4,7 @@ book:
   cover_image: falling-free.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922931l/61915.jpg
   dimensions:
-    height: 23.0
+    height: 18.0
     thickness: 3.2
     width: 14.0
   goodreads: '61915'

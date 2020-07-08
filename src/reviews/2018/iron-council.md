@@ -4,7 +4,7 @@ book:
   cover_image: iron-council.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320419476l/68495._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 18.0
     thickness: 3.3
     width: 15.5
   goodreads: '68495'

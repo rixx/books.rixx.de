@@ -3,6 +3,8 @@ book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-sorcerers-stone.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '3'
   pages: '309'
   publication_year: '1997'

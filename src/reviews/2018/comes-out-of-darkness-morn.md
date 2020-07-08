@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: comes-out-of-darkness-morn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183499l/16005261._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '16005261'
   pages: '1116'
   publication_year: '2005'

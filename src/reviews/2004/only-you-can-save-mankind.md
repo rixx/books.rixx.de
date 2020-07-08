@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: only-you-can-save-mankind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388351358l/34521.jpg
+  dimensions:
+    height: 24.0
   goodreads: '34521'
   isbn10: 0060541873
   isbn13: '9780060541873'

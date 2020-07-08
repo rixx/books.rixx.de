@@ -3,6 +3,8 @@ book:
   author: Jupiter_Ash
   cover_image: a-study-in-winning.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378844687l/18480041._SX98_.jpg
+  dimensions:
+    height: 22
   goodreads: '18480041'
   pages: '231'
   publication_year: '2012'

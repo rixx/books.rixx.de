@@ -4,7 +4,7 @@ book:
   cover_image: the-ruins-of-gorlan.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293952830l/60400._SX98_.jpg
   dimensions:
-    height: 20.0
+    height: 24.0
     thickness: 1.8
     width: 13.0
   goodreads: '60400'

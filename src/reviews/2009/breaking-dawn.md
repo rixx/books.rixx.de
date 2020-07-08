@@ -4,7 +4,7 @@ book:
   cover_image: breaking-dawn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442776569l/1162544._SY475_.jpg
   dimensions:
-    height: 21.0
+    height: 22.0
     thickness: 5.1
     width: 14.0
   goodreads: '1162544'

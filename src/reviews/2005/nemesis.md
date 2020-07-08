@@ -4,7 +4,7 @@ book:
   cover_image: nemesis.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389760569l/31304.jpg
   dimensions:
-    height: 18.0
+    height: 22.0
     thickness: 1.9
     width: 10.8
   goodreads: '31304'

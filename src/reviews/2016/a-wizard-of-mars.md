@@ -4,7 +4,7 @@ book:
   cover_image: a-wizard-of-mars.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272379484l/1583121._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 18.0
     thickness: 4.3
     width: 14.0
   goodreads: '1583121'

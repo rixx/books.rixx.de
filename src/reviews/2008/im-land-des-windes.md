@@ -3,6 +3,8 @@ book:
   author: Licia Troisi
   cover_image: im-land-des-windes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187624901l/1739659._SY475_.jpg
+  dimensions:
+    height: 21
   goodreads: '1739659'
   isbn10: '3453530284'
   isbn13: '9783453530287'

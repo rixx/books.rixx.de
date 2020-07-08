@@ -4,7 +4,7 @@ book:
   cover_image: summer-knight.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557469l/91478._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.5
     width: 10.8
   goodreads: '91478'

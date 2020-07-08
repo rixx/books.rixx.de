@@ -4,7 +4,7 @@ book:
   cover_image: persepolis-rising.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SX98_.jpg
   dimensions:
-    height: 25.0
+    height: 24.0
   goodreads: '28335696'
   isbn10: 0316332828
   isbn13: '9780316332828'

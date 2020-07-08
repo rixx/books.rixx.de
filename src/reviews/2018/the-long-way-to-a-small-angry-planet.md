@@ -3,6 +3,8 @@ book:
   author: Becky Chambers
   cover_image: the-long-way-to-a-small-angry-planet.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '22733729'
   isbn10: '1500453307'
   isbn13: '9781500453305'

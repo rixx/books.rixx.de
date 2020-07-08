@@ -3,6 +3,8 @@ book:
   author: Brandon Sanderson
   cover_image: legion.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338512017l/13452375._SX98_.jpg
+  dimensions:
+    height: 22
   goodreads: '13452375'
   isbn10: '1596064854'
   isbn13: '9781596064850'

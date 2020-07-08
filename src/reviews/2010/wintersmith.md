@@ -4,7 +4,7 @@ book:
   cover_image: wintersmith.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1290229201l/34492._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 2.9
     width: 16.2
   goodreads: '34492'

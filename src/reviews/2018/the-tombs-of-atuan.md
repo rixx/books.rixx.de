@@ -4,7 +4,7 @@ book:
   cover_image: the-tombs-of-atuan.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900879l/13662._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 21.0
     thickness: 1.5
     width: 10.6
   goodreads: '13662'

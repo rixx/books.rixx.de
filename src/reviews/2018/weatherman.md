@@ -3,6 +3,8 @@ book:
   author: Lois McMaster Bujold
   cover_image: weatherman.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302671871l/11058951.jpg
+  dimensions:
+    height: 18.0
   goodreads: '11058951'
   isbn13: '2940012396303'
   publication_year: '1990'

@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: a-song-in-time-of-revolution.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183787l/16005277._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '16005277'
   pages: '2839'
   publication_year: '2006'

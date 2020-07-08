@@ -4,7 +4,7 @@ book:
   cover_image: rumo-his-miraculous-adventures.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348657010l/62033.jpg
   dimensions:
-    height: 24.0
+    height: 25.0
     thickness: 2.5
     width: 12.7
   goodreads: '62033'

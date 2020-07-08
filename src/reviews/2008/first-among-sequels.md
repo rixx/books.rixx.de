@@ -4,7 +4,7 @@ book:
   cover_image: first-among-sequels.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338467549l/27002._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 20.0
     thickness: 3.2
     width: 15.2
   goodreads: '27002'

@@ -4,7 +4,7 @@ book:
   cover_image: pyramids.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439098306l/64217._SY475_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.5
     width: 10.8
   goodreads: '64217'

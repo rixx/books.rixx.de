@@ -4,7 +4,7 @@ book:
   cover_image: murder-on-the-orient-express.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388267702l/16304.jpg
   dimensions:
-    height: 18.0
+    height: 22.0
     thickness: 2.4
     width: 11.6
   goodreads: '16304'

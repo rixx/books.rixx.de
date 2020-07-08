@@ -4,7 +4,7 @@ book:
   cover_image: hogfather.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416342611l/34532._SX98_.jpg
   dimensions:
-    height: 19.8
+    height: 20.0
     thickness: 2.3
     width: 12.7
   goodreads: '34532'

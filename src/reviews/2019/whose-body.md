@@ -4,7 +4,7 @@ book:
   cover_image: whose-body.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387573241l/192893._SY160_.jpg
   dimensions:
-    height: 17.0
+    height: 20.0
     thickness: 1.4
     width: 10.6
   goodreads: '192893'

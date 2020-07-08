@@ -4,7 +4,7 @@ book:
   cover_image: freedomtm.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704142l/8488830._SY160_.jpg
   dimensions:
-    height: 19.0
+    height: 24.0
     thickness: 2.6
     width: 10.8
   goodreads: '8488830'

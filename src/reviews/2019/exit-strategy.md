@@ -3,6 +3,8 @@ book:
   author: Martha Wells
   cover_image: exit-strategy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '35519109'
   pages: '176'
   publication_year: '2018'

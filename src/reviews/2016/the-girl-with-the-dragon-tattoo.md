@@ -3,6 +3,8 @@ book:
   author: Stieg Larsson
   cover_image: the-girl-with-the-dragon-tattoo.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX98_.jpg
+  dimensions:
+    height: 23
   goodreads: '2429135'
   pages: '465'
   publication_year: '2005'

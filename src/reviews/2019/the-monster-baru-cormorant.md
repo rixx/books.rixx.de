@@ -3,6 +3,8 @@ book:
   author: Seth Dickinson
   cover_image: the-monster-baru-cormorant.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519063144l/38117105._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '38117105'
   pages: '464'
   publication_year: '2018'

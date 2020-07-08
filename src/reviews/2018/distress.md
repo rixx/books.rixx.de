@@ -3,6 +3,8 @@ book:
   author: Greg Egan
   cover_image: distress.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223643478l/156781.jpg
+  dimensions:
+    height: 18.0
   goodreads: '156781'
   isbn10: '0061057274'
   pages: '456'

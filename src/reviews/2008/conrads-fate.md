@@ -4,7 +4,7 @@ book:
   cover_image: conrads-fate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388545536l/13759.jpg
   dimensions:
-    height: 18.0
+    height: 19.4
     thickness: 2.5
     width: 10.6
   goodreads: '13759'

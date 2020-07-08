@@ -4,7 +4,7 @@ book:
   cover_image: the-slow-regard-of-silent-things.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695l/21535271._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 24.0
     thickness: 1.9
     width: 14.1
   goodreads: '21535271'

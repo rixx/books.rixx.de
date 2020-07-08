@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: down-on-the-farm.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328341796l/8605343.jpg
+  dimensions:
+    height: 22.0
   goodreads: '8605343'
   pages: '32'
   publication_year: '2008'

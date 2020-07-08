@@ -4,7 +4,7 @@ book:
   cover_image: eric.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377865202l/64218._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.4
     width: 10.6
   goodreads: '64218'

@@ -4,7 +4,7 @@ book:
   cover_image: seven-surrenders.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517514624l/28220647._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 25.0
     thickness: 3.0
     width: 16.3
   goodreads: '28220647'

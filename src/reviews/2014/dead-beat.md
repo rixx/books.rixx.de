@@ -3,6 +3,8 @@ book:
   author: Jim Butcher
   cover_image: dead-beat.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667776l/17683._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '17683'
   isbn10: 045146091X
   isbn13: '9780451460912'

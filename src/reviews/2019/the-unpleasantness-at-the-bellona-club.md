@@ -4,7 +4,7 @@ book:
   cover_image: the-unpleasantness-at-the-bellona-club.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389759541l/192887.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 1.6
     width: 10.6
   goodreads: '192887'

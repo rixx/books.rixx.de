@@ -3,6 +3,8 @@ book:
   author: Lightning on the Wave
   cover_image: no-mouth-but-some-serpents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183435l/16005256._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '16005256'
   pages: '677'
   publication_year: '2005'

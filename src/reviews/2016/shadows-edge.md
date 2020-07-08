@@ -3,6 +3,8 @@ book:
   author: Brent Weeks
   cover_image: shadows-edge.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881435l/3754016._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '3754016'
   isbn10: '0316033650'
   isbn13: '9780316033657'

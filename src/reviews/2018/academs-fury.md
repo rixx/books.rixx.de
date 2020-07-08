@@ -4,7 +4,7 @@ book:
   cover_image: academs-fury.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381026900l/133664._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 24.0
     thickness: 4.0
     width: 10.6
   goodreads: '133664'

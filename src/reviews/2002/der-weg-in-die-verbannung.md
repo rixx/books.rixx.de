@@ -3,6 +3,8 @@ book:
   author: Liselotte Welskopf-Henrich
   cover_image: der-weg-in-die-verbannung.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368886l/6083610._SX98_.jpg
+  dimensions:
+    height: 25
   goodreads: '6083610'
   isbn10: '3473388718'
   isbn13: '9783473388714'

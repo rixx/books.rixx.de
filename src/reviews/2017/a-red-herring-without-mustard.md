@@ -3,6 +3,8 @@ book:
   author: Alan Bradley
   cover_image: a-red-herring-without-mustard.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388266441l/8517008.jpg
+  dimensions:
+    height: 20.0
   goodreads: '8517008'
   isbn10: 0385342322
   isbn13: '9780385342322'

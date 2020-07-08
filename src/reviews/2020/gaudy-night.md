@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: gaudy-night.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197565l/93575.jpg
+  dimensions:
+    height: 20.0
   goodreads: '93575'
   isbn10: 0061043494
   isbn13: '9780061043499'

@@ -3,6 +3,8 @@ book:
   author: Iain M. Banks
   cover_image: matter.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954631l/886066._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '886066'
   isbn10: '1841494186'
   isbn13: '9781841494180'

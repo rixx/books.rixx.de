@@ -3,6 +3,8 @@ book:
   author: Garth Nix
   cover_image: abhorsen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401683669l/334643._SX98_.jpg
+  dimensions:
+    height: 20.2
   goodreads: '334643'
   isbn10: 0060278250
   isbn13: '9780060278250'

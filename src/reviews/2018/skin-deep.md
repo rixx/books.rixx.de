@@ -3,6 +3,8 @@ book:
   author: Brandon Sanderson
   cover_image: skin-deep.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404932663l/20886354._SX98_.jpg
+  dimensions:
+    height: 22
   goodreads: '20886354'
   pages: '208'
   publication_year: '2014'

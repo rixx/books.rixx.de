@@ -4,7 +4,7 @@ book:
   cover_image: matters-of-choice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1165448281l/4693.jpg
   dimensions:
-    height: 17.3
+    height: 18.0
     thickness: 2.8
     width: 10.8
   goodreads: '4693'

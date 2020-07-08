@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: strong-poison.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486963427l/246225._SY160_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '246225'
   isbn10: 0060809086
   isbn13: '9780060809089'

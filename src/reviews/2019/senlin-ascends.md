@@ -3,6 +3,8 @@ book:
   author: Josiah Bancroft
   cover_image: senlin-ascends.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502224161l/35271523._SX98_.jpg
+  dimensions:
+    height: 18
   goodreads: '35271523'
   isbn10: 0316517917
   isbn13: '9780316517911'

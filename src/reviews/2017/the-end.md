@@ -3,6 +3,8 @@ book:
   author: Lemony Snicket
   cover_image: the-end.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524761836l/65112._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '65112'
   isbn10: '0064410161'
   isbn13: '9780064410168'

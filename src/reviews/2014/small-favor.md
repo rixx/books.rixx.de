@@ -4,7 +4,7 @@ book:
   cover_image: small-favor.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 20.0
     thickness: 3.5
     width: 16.1
   goodreads: '927979'

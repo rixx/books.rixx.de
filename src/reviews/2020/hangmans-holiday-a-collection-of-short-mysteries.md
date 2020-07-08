@@ -4,7 +4,7 @@ book:
   cover_image: hangmans-holiday-a-collection-of-short-mysteries.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361834453l/351563._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 20.0
     thickness: 1.2
     width: 13.4
   goodreads: '351563'

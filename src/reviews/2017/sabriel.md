@@ -3,6 +3,8 @@ book:
   author: Garth Nix
   cover_image: sabriel.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY160_.jpg
+  dimensions:
+    height: 20.2
   goodreads: '518848'
   isbn10: 0064471837
   isbn13: '9780064471831'

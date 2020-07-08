@@ -4,7 +4,7 @@ book:
   cover_image: echopraxia.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX98_.jpg
   dimensions:
-    height: 21.4
+    height: 22.0
     thickness: 3.2
     width: 14.8
   goodreads: '18490708'

@@ -3,6 +3,8 @@ book:
   author: Douglas Adams
   cover_image: the-restaurant-at-the-end-of-the-universe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '8695'
   pages: '250'
   publication_year: '1980'

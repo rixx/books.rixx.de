@@ -3,6 +3,8 @@ book:
   author: Alan Bradley
   cover_image: the-curious-case-of-the-copper-corpse.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414703512l/23480520._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '23480520'
   publication_year: '2014'
   series: Flavia de Luce

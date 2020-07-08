@@ -4,7 +4,7 @@ book:
   cover_image: enders-game.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 24.0
     thickness: 2.4
     width: 10.5
   goodreads: '375802'

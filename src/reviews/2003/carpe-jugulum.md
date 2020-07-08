@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: carpe-jugulum.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388895900l/34541.jpg
+  dimensions:
+    height: 20.0
   goodreads: '34541'
   isbn10: 0061051586
   isbn13: '9780061051586'

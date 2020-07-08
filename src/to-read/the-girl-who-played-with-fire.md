@@ -3,6 +3,8 @@ book:
   author: Stieg Larsson
   cover_image: the-girl-who-played-with-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378._SX98_.jpg
+  dimensions:
+    height: 23
   goodreads: '5060378'
   isbn10: 0307269981
   isbn13: '9780307269980'

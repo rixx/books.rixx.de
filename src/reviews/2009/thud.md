@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: thud.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY160_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '62530'
   pages: '439'
   publication_year: '2005'

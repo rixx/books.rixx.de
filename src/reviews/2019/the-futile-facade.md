@@ -1,6 +1,8 @@
 ---
 book:
   author: murkybluematter
+  dimensions:
+    height: 24
   goodreads: '34213118'
   publication_year: null
   series: Rigel Black

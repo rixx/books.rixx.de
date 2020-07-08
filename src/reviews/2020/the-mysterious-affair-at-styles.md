@@ -3,6 +3,8 @@ book:
   author: Agatha Christie
   cover_image: the-mysterious-affair-at-styles-hercule-poirot-1.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922393l/16343.jpg
+  dimensions:
+    height: 22.0
   goodreads: '16343'
   isbn10: 0646418432
   isbn13: '9780646418438'

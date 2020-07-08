@@ -3,6 +3,8 @@ book:
   author: Ann Leckie
   cover_image: ancillary-sword.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413464739l/20706284._SX98_.jpg
+  dimensions:
+    height: 19.8
   goodreads: '20706284'
   isbn10: '0316246654'
   isbn13: '9780316246651'

@@ -3,6 +3,8 @@ book:
   author: Diane Duane
   cover_image: a-wizard-abroad.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303797089l/116564._SY160_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '116564'
   isbn10: '0152055037'
   isbn13: '9780152055035'

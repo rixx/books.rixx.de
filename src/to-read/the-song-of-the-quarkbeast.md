@@ -3,6 +3,8 @@ book:
   author: Jasper Fforde
   cover_image: the-song-of-the-quarkbeast.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377648595l/17165902._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '17165902'
   isbn10: 054773848X
   isbn13: '9780547738482'

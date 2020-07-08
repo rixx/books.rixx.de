@@ -3,6 +3,8 @@ book:
   author: Lian Hearn
   cover_image: der-pfad-im-schnee.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370809289l/1864637._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '1864637'
   isbn10: 355158110X
   isbn13: '9783551581105'

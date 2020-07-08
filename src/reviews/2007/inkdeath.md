@@ -3,6 +3,8 @@ book:
   author: Cornelia Funke
   cover_image: inkdeath.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327341991l/2325825._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '2325825'
   isbn10: '1905294719'
   isbn13: '9781905294718'

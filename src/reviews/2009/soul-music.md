@@ -4,7 +4,7 @@ book:
   cover_image: soul-music.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566175l/34502.jpg
   dimensions:
-    height: 23.5
+    height: 20.0
     thickness: 2.5
     width: 16.0
   goodreads: '34502'

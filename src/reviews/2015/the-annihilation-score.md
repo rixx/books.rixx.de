@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-annihilation-score.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426160476l/23154785._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '23154785'
   isbn10: '0356505316'
   isbn13: '9780356505312'

@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: the-five-red-herrings.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530289829l/40669974._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '40669974'
   pages: '297'
   publication_year: '1931'

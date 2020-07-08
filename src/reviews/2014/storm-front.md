@@ -4,7 +4,7 @@ book:
   cover_image: storm-front.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273l/47212._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.5
     width: 10.6
   goodreads: '47212'

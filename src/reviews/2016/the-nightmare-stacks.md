@@ -4,7 +4,7 @@ book:
   cover_image: the-nightmare-stacks.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448811411l/24997064._SX98_.jpg
   dimensions:
-    height: 22.4
+    height: 22.0
     thickness: 3.4
     width: 13.9
   goodreads: '24997064'

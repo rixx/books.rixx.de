@@ -3,6 +3,8 @@ book:
   author: Agatha Christie
   cover_image: curtain.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923108l/81903.jpg
+  dimensions:
+    height: 22.0
   goodreads: '81903'
   isbn10: '0425173747'
   isbn13: '9780425173749'

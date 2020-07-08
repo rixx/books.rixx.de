@@ -3,6 +3,8 @@ book:
   author: Octavia E. Butler
   cover_image: clays-ark.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461533398l/60933._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '60933'
   isbn10: 0446603708
   isbn13: '9780446603706'

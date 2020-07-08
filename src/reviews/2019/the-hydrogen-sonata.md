@@ -3,6 +3,8 @@ book:
   author: Iain M. Banks
   cover_image: the-hydrogen-sonata.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340894566l/13497991._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '13497991'
   isbn10: '0356501507'
   isbn13: '9780356501505'

@@ -3,6 +3,8 @@ book:
   author: Jim Butcher
   cover_image: peace-talks.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585062885l/22249640._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '22249640'
   isbn10: 035651529X
   isbn13: '9780356515298'

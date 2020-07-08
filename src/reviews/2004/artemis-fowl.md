@@ -4,7 +4,7 @@ book:
   cover_image: artemis-fowl.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327945104l/249747._SY160_.jpg
   dimensions:
-    height: 17.1
+    height: 18.0
     thickness: 2.9
     width: 10.8
   goodreads: '249747'

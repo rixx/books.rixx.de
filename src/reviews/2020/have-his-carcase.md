@@ -3,6 +3,8 @@ book:
   author: Dorothy L. Sayers
   cover_image: have-his-carcase.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515620585l/37906597._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '37906597'
   pages: '499'
   publication_year: '1932'

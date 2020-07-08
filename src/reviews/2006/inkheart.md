@@ -4,7 +4,7 @@ book:
   cover_image: inkheart.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538266636l/28194._SX98_.jpg
   dimensions:
-    height: 20.0
+    height: 21.0
     thickness: 3.8
     width: 13.3
   goodreads: '28194'

@@ -3,6 +3,8 @@ book:
   author: Richard Kadrey
   cover_image: aloha-from-hell.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302271758l/10439703._SX98_.jpg
+  dimensions:
+    height: 19.0
   goodreads: '10439703'
   isbn10: '0061714321'
   isbn13: '9780061714320'

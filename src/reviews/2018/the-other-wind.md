@@ -3,6 +3,8 @@ book:
   author: Ursula K. Le Guin
   cover_image: the-other-wind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285821l/13658._SX98_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '13658'
   isbn10: 044101125X
   isbn13: '9780441011254'

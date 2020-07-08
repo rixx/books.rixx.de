@@ -3,6 +3,8 @@ book:
   author: Diane Duane
   cover_image: wizards-at-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361459689l/116567._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '116567'
   isbn10: '0152047727'
   isbn13: '9780152047726'

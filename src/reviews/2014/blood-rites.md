@@ -4,7 +4,7 @@ book:
   cover_image: blood-rites.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557965l/99383._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.6
     width: 10.8
   goodreads: '99383'

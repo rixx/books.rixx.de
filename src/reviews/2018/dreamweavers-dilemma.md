@@ -4,7 +4,7 @@ book:
   cover_image: dreamweavers-dilemma.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395312075l/990089._SX98_.jpg
   dimensions:
-    height: 23.0
+    height: 18.0
     thickness: 1.8
     width: 14.0
   goodreads: '990089'

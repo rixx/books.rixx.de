@@ -3,6 +3,8 @@ book:
   author: Michael Ende
   cover_image: jim-knopf-und-die-wilde-13.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375813974l/468837.jpg
+  dimensions:
+    height: 21.0
   goodreads: '468837'
   isbn10: '3522149904'
   isbn13: '9783522149907'

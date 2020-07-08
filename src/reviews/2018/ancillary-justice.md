@@ -3,6 +3,8 @@ book:
   author: Ann Leckie
   cover_image: ancillary-justice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380915234l/18626964._SX98_.jpg
+  dimensions:
+    height: 19.8
   goodreads: '18626964'
   pages: '432'
   publication_year: '2013'

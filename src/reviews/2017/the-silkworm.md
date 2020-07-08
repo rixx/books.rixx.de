@@ -3,6 +3,8 @@ book:
   author: Robert Galbraith
   cover_image: the-silkworm.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414._SX98_.jpg
+  dimensions:
+    height: 25.0
   goodreads: '18214414'
   isbn10: 0316206873
   isbn13: '9780316206877'

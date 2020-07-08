@@ -3,6 +3,8 @@ book:
   author: Alan Bradley
   cover_image: thrice-the-brinded-cat-hath-mewd.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472540479l/26194013._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '26194013'
   isbn10: '1409149501'
   isbn13: '9781409149507'

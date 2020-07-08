@@ -4,7 +4,7 @@ book:
   cover_image: the-eternity-code.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327945417l/227865._SX98_.jpg
   dimensions:
-    height: 19.8
+    height: 18.0
     thickness: 2.6
     width: 13.5
   goodreads: '227865'

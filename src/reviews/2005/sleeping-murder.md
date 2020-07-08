@@ -3,6 +3,8 @@ book:
   author: Agatha Christie
   cover_image: sleeping-murder.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308808135l/16300._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '16300'
   isbn10: 0002317850
   isbn13: '9780002317856'

@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: thief-of-time.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388177603l/48002.jpg
+  dimensions:
+    height: 20.0
   goodreads: '48002'
   isbn10: '0061031321'
   isbn13: '9780061031328'

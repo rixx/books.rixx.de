@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: sourcery.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439607843l/34499._SY475_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '34499'
   isbn10: '0061020672'
   isbn13: '9780061020674'

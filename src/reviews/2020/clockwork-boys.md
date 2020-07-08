@@ -3,6 +3,8 @@ book:
   author: T. Kingfisher
   cover_image: clockwork-boys.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511019840l/36618062._SY475_.jpg
+  dimensions:
+    height: 18
   goodreads: '36618062'
   publication_year: '2017'
   series: Clocktaur War

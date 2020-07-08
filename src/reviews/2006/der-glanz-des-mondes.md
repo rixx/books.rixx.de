@@ -3,6 +3,8 @@ book:
   author: Lian Hearn
   cover_image: der-glanz-des-mondes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370811227l/1864635._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '1864635'
   isbn10: '3551581118'
   isbn13: '9783551581112'

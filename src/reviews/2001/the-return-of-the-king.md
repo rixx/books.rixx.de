@@ -3,6 +3,8 @@ book:
   author: J.R.R. Tolkien
   cover_image: the-return-of-the-king.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520258755l/18512._SY160_.jpg
+  dimensions:
+    height: 21.0
   goodreads: '18512'
   pages: '404'
   publication_year: '1955'

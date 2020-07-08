@@ -3,6 +3,8 @@ book:
   author: Stephen King
   cover_image: wizard-and-glass.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327946510l/5096._SX98_.jpg
+  dimensions:
+    height: 23.0
   goodreads: '5096'
   isbn10: 0340829788
   isbn13: '9780340829783'

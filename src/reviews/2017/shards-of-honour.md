@@ -3,6 +3,8 @@ book:
   author: Lois McMaster Bujold
   cover_image: shards-of-honour.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY160_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '61903'
   isbn10: 0743468422
   isbn13: '9780743468428'

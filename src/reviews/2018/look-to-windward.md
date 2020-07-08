@@ -4,7 +4,7 @@ book:
   cover_image: look-to-windward.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY160_.jpg
   dimensions:
-    height: 18.0
+    height: 20.0
     thickness: 2.2
     width: 10.7
   goodreads: '12016'

@@ -3,6 +3,8 @@ book:
   author: murkybluematter
   cover_image: the-ambiguous-artifice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729235l/34213112._SX98_.jpg
+  dimensions:
+    height: 24
   goodreads: '34213112'
   pages: '1294'
   publication_year: '2016'

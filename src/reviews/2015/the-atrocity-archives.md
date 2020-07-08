@@ -4,7 +4,7 @@ book:
   cover_image: the-atrocity-archives.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440461724l/101869._SY475_.jpg
   dimensions:
-    height: 21.0
+    height: 22.0
     thickness: 2.6
     width: 13.0
   goodreads: '101869'

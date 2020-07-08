@@ -4,7 +4,7 @@ book:
   cover_image: the-nine-tailors.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353285546l/126675._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 20.0
     thickness: 3.6
     width: 14.1
   goodreads: '126675'

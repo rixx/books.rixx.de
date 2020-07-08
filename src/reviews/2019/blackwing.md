@@ -4,7 +4,7 @@ book:
   cover_image: blackwing.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060._SX98_.jpg
   dimensions:
-    height: 20.8
+    height: 24.0
     thickness: 2.4
     width: 13.8
   goodreads: '33916060'

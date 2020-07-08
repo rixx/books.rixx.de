@@ -4,7 +4,7 @@ book:
   cover_image: lost-in-a-good-book.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588691669l/27000._SX98_.jpg
   dimensions:
-    height: 22.0
+    height: 20.0
     thickness: 2.8
     width: 12.7
   goodreads: '27000'

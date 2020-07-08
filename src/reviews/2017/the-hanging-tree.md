@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: the-hanging-tree.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480443659l/21479290._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '21479290'
   isbn10: 0575132558
   isbn13: '9780575132559'

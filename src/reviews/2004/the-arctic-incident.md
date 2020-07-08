@@ -4,7 +4,7 @@ book:
   cover_image: the-arctic-incident.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388294381l/114955.jpg
   dimensions:
-    height: 17.5
+    height: 18.0
     thickness: 2.5
     width: 10.8
   goodreads: '114955'

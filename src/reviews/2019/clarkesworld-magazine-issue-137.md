@@ -3,6 +3,8 @@ book:
   author: Neil Clarke
   cover_image: clarkesworld-magazine-issue-137.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517727674l/38343667._SX98_.jpg
+  dimensions:
+    height: 17
   goodreads: '38343667'
   isbn13: '1230002133621'
   publication_year: '2010'

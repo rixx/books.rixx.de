@@ -4,7 +4,7 @@ book:
   cover_image: jingo.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327921813l/47990._SX98_.jpg
   dimensions:
-    height: 19.8
+    height: 20.0
     thickness: 2.4
     width: 12.7
   goodreads: '47990'

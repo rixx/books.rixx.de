@@ -3,6 +3,8 @@ book:
   author: N.K. Jemisin
   cover_image: the-fifth-season.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386803701l/19161852._SX98_.jpg
+  dimensions:
+    height: 19
   goodreads: '19161852'
   pages: '468'
   publication_year: '2015'

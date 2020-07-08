@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: interesting-times.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430881376l/884288._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '884288'
   isbn10: 0061056901
   isbn13: '9780061056901'

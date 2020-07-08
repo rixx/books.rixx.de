@@ -3,6 +3,8 @@ book:
   author: Peter V. Brett
   cover_image: the-skull-throne.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760l/13630171._SX98_.jpg
+  dimensions:
+    height: 25.0
   goodreads: '13630171'
   isbn10: 0345531485
   isbn13: '9780345531483'

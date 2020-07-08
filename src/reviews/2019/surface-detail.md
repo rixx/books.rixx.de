@@ -4,7 +4,7 @@ book:
   cover_image: surface-detail.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SX98_.jpg
   dimensions:
-    height: 25.0
+    height: 20.0
     thickness: 5.1
     width: 16.5
   goodreads: '7937744'

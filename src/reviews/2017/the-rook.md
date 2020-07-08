@@ -4,7 +4,7 @@ book:
   cover_image: the-rook.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561584006l/10836728._SX98_.jpg
   dimensions:
-    height: 24.0
+    height: 25.0
     thickness: 4.4
     width: 16.5
   goodreads: '10836728'

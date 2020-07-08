@@ -4,7 +4,7 @@ book:
   cover_image: harry-potter-and-the-order-of-the-phoenix.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX98_.jpg
   dimensions:
-    height: 20.0
+    height: 24.0
     thickness: 5.1
     width: 13.3
   goodreads: '2'

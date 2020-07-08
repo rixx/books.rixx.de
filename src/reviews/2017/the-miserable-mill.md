@@ -4,7 +4,7 @@ book:
   cover_image: the-miserable-mill.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352146209l/65119._SX98_.jpg
   dimensions:
-    height: 18.0
+    height: 19.0
   goodreads: '65119'
   isbn10: 0439272637
   isbn13: '9780439272636'

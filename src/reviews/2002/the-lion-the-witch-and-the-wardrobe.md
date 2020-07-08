@@ -3,6 +3,8 @@ book:
   author: C.S. Lewis
   cover_image: the-lion-the-witch-and-the-wardrobe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '100915'
   pages: '206'
   publication_year: '1950'

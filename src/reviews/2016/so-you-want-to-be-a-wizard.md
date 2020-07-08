@@ -3,6 +3,8 @@ book:
   author: Diane Duane
   cover_image: so-you-want-to-be-a-wizard.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328877065l/116563._SX98_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '116563'
   isbn10: 0152047387
   isbn13: '9780152047382'

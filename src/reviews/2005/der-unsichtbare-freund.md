@@ -3,6 +3,8 @@ book:
   author: Ralf Isau
   cover_image: der-unsichtbare-freund.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999387l/1692796.jpg
+  dimensions:
+    height: 22.0
   goodreads: '1692796'
   isbn10: '3522174747'
   isbn13: '9783522174749'

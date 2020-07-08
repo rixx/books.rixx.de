@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: the-home-crowd-advantage.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434543726l/23471484._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '23471484'
   pages: '25'
   publication_year: '2014'

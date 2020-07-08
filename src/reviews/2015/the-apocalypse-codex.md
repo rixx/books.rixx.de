@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-apocalypse-codex.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '12393566'
   pages: '336'
   publication_year: '2012'

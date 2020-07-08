@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: overtime.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '8420932'
   pages: '30'
   publication_year: '2009'

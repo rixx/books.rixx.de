@@ -3,6 +3,8 @@ book:
   author: Josiah Bancroft
   cover_image: arm-of-the-sphinx.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509574820l/35959733._SX98_.jpg
+  dimensions:
+    height: 18
   goodreads: '35959733'
   isbn10: 031651795X
   isbn13: '9780316517959'

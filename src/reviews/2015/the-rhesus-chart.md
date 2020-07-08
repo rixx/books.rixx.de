@@ -3,6 +3,8 @@ book:
   author: Charles Stross
   cover_image: the-rhesus-chart.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383475235l/18211295._SX98_.jpg
+  dimensions:
+    height: 22.0
   goodreads: '18211295'
   isbn10: 0356502538
   isbn13: '9780356502533'

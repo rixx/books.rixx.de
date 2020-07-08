@@ -3,6 +3,8 @@ book:
   author: James S.A. Corey
   cover_image: nemesis-games.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407524221l/22886612._SX98_.jpg
+  dimensions:
+    height: 24.0
   goodreads: '22886612'
   pages: '536'
   publication_year: '2015'

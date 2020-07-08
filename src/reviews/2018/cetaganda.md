@@ -3,6 +3,8 @@ book:
   author: Lois McMaster Bujold
   cover_image: cetaganda.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924035l/76812.jpg
+  dimensions:
+    height: 18.0
   goodreads: '76812'
   isbn10: 0671877445
   isbn13: '9780671877446'

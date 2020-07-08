@@ -3,6 +3,8 @@ book:
   author: Terry Pratchett
   cover_image: wyrd-sisters.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275974472l/34504._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '34504'
   isbn10: '0061020664'
   isbn13: '9780061020667'

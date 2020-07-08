@@ -3,6 +3,8 @@ book:
   author: Ben Aaronovitch
   cover_image: broken-homes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403204872l/16078584._SX98_.jpg
+  dimensions:
+    height: 22.3
   goodreads: '16078584'
   isbn10: 0575132469
   isbn13: '9780575132467'

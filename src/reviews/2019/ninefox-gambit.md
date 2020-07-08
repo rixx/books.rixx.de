@@ -3,6 +3,8 @@ book:
   author: Yoon Ha Lee
   cover_image: ninefox-gambit.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446557461l/26118426._SX98_.jpg
+  dimensions:
+    height: 20.0
   goodreads: '26118426'
   pages: '384'
   publication_year: '2016'
