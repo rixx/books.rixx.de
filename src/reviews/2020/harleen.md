@@ -23,6 +23,29 @@ review:
   date_read: 2020-02-29
   did_not_finish: false
   rating: 4
+  tldr: I don't tend to read graphical novels, but Stjepan Šejić is brilliant and
+    this story of Harley Quinn is extremely well done – both the artwork and the story
+    itself.
+social:
+  mastodon:
+    datetime: 2020-07-10 03:52:06.054145
+    id: '104487054601763569'
+    in_reply_to: '104487049802429905'
+    text: '40/ Harleen by Stjepan Šejić. I don''t tend to read graphical novels, but
+      Stjepan Šejić is brilliant and this story of Harley Quinn is extremely well
+      done – both the artwork and the story itself.
+
+      https://books.rixx.de/reviews/2020/harleen/ #rixxReads'
+  number: 40
+  twitter:
+    datetime: 2020-07-10 03:52:05.778387
+    id: '1281405803568795649'
+    in_reply_to: '1281405496428306433'
+    text: '40/ Harleen by Stjepan Šejić. I don''t tend to read graphical novels, but
+      Stjepan Šejić is brilliant and this story of Harley Quinn is extremely well
+      done – both the artwork and the story itself.
+
+      https://books.rixx.de/reviews/2020/harleen/'
 ---
 
 Stjepan Šejić is a brilliant artist, and he's done right by Harley Quinn. Good origin story, great writing, and *brilliant* artwork. I'm not really one for graphic novels and even I can tell that this goes above and beyond.

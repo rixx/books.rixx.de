@@ -21,6 +21,29 @@ review:
   date_read: 2020-02-28
   did_not_finish: false
   rating: 2
+  tldr: Reading more recommended fan fiction. This one is interesting because of the
+    absurd amount of words spent on processing emotions, as if balancing several lives
+    of repression.
+social:
+  mastodon:
+    datetime: 2020-07-10 03:48:21.628428
+    id: '104487039891230017'
+    in_reply_to: '104462789657772458'
+    text: '36/ A Year Like None Other by Aspen in the Sunlight. Reading more recommended
+      fan fiction. This one is interesting because of the absurd amount of words spent
+      on processing emotions, as if balancing several lives of repression.
+
+      https://books.rixx.de/reviews/2020/a-year-like-none-other/ #rixxReads'
+  number: 36
+  twitter:
+    datetime: 2020-07-10 03:48:21.157426
+    id: '1281404861389721600'
+    in_reply_to: '1279852846893215747'
+    text: '36/ A Year Like None Other by Aspen in the Sunlight. Reading more recommended
+      fan fiction. This one is interesting because of the absurd amount of words spent
+      on processing emotions, as if balancing several lives of repression.
+
+      https://books.rixx.de/reviews/2020/a-year-like-none-other/'
 ---
 
 Decent Severitus, I suppose – okay writing, absurd amounts of processing, and follows the hurt/comfort rules to a t.
