@@ -21,6 +21,32 @@ review:
   date_read: 2020-03-05
   did_not_finish: false
   rating: 2
+  tldr: Not what I expected – it's focused on "communities" for corporate entities.
+    Contains impressive collection of examples, but only positive ones, so yay for
+    survivor bias.
+social:
+  mastodon:
+    datetime: 2020-07-12 01:20:36.232474
+    id: '104497783501303625'
+    in_reply_to: '104487054601763569'
+    text: '41/ Get Together: How to build a community with your people by Bailey  Richardson.
+      Not what I expected – it''s focused on "communities" for corporate entities.
+      Contains impressive collection of examples, but only positive ones, so yay for
+      survivor bias.
+
+      https://books.rixx.de/reviews/2020/get-together-how-to-build-a-community-with-your-people/
+      #rixxReads'
+  number: 41
+  twitter:
+    datetime: 2020-07-12 01:20:35.623007
+    id: '1282092452510347265'
+    in_reply_to: '1281405803568795649'
+    text: '41/ Get Together: How to build a community with your people by Bailey  Richardson.
+      Not what I expected – it''s focused on "communities" for corporate entities.
+      Contains impressive collection of examples, but only positive ones, so yay for
+      survivor bias.
+
+      https://books.rixx.de/reviews/2020/get-together-how-to-build-a-community-with-your-people/'
 ---
 
 This is an alright book if you want to build a "community" for a corporate entity. It tries to provide more than that, but everything it suggests feels just slightly icky and tainted with this corporate language. But it does provide actionable advice, and a solid focus on engagement and growth.

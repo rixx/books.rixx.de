@@ -7,20 +7,41 @@ book:
   isbn10: 176063073X
   isbn13: '9781760630737'
   publication_year: '2013'
-  slug: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness
+  slug: the-courage-to-be-disliked
   spine_color: '#ba3939'
   tags:
   - five-stars
   - nonfiction
   - personal-development
-  title: 'The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve
-    Real Happiness'
+  title: The Courage to Be Disliked
 plan:
   date_added: '2020-03-10'
 review:
   date_read: 2020-03-11
   did_not_finish: false
   rating: 5
+  tldr: Excellent content semi-obscured behind impressive degrees of obnoxious writing.
+    Punchable, yet useful. One of the most important books to me this year.
+social:
+  mastodon:
+    datetime: 2020-07-12 01:24:33.701270
+    id: '104497799075669037'
+    in_reply_to: '104497788187417588'
+    text: '43/ The Courage to Be Disliked by Ichiro Kishimi. Excellent content semi-obscured
+      behind impressive degrees of obnoxious writing. Punchable, yet useful. One of
+      the most important books to me this year.
+
+      https://books.rixx.de/reviews/2020/the-courage-to-be-disliked/ #rixxReads'
+  number: 43
+  twitter:
+    datetime: 2020-07-12 01:24:33.420685
+    id: '1282093450008178690'
+    in_reply_to: '1282092753250332673'
+    text: '43/ The Courage to Be Disliked by Ichiro Kishimi. Excellent content semi-obscured
+      behind impressive degrees of obnoxious writing. Punchable, yet useful. One of
+      the most important books to me this year.
+
+      https://books.rixx.de/reviews/2020/the-courage-to-be-disliked/'
 ---
 
 I strongly disliked many parts of this book. The writing is obnoxious, self-righteous, pseudo-Socratic without ever coming close. I fundamentally disagree with a lot of its premises, and it's in many ways /r/wowthanksimhealed material. This book is very punchable.
