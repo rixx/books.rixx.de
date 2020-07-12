@@ -17,6 +17,7 @@ book:
   tags:
   - five-stars
   - german
+  - historical-fiction
   title: The Name of the Rose
 plan:
   date_added: '2015-04-08'
