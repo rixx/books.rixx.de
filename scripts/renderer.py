@@ -322,7 +322,7 @@ def build_site(**kwargs):
                 5 - (rev.metadata["review"]["rating"] or 5),
                 rev.metadata["book"]["author"],
                 rev.metadata["book"].get("series", ""),
-                float(rev.metadata["book"].get("series_position", 0)),
+                float(rev.metadata["book"].get("series_position", 0) or 0),
                 rev.metadata["book"]["title"],
             ),
         )
