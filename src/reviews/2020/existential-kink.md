@@ -6,7 +6,7 @@ book:
   goodreads: '50915816'
   isbn10: '1578636477'
   isbn13: '9781578636471'
-  pages: null
+  pages: 220
   publication_year: null
   slug: existential-kink
   spine_color: '#985254'
@@ -30,6 +30,12 @@ Here's the premise of **Existential Kink**: Have you considered that you're into
 That's basically the book's answer to everything, particularly about things you dislike. If you're in a situation that
 you dislike: Are you sure that some part of you isn't enjoying the complaining, the struggle, the position you put
 yourself in?
+
+It exists in an interesting intersection. It accepts the premises on [shame and vulnerability by Brene
+Brown](https://books.rixx.de/reviews/2019/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead),
+and possibly explains the self-determination parts of [Courage to be
+Disliked](https://books.rixx.de/reviews/2020/the-courage-to-be-disliked) better than that book did, and then, gleefully,
+suggests that maybe you should lean the fuck in.
 
 This is what is good about the book: It makes its point very clearly, repeatedly, and in a way that will allow you to
 apply it confidently. It includes a variety of strategies and methods of applying it. And, most notably, it includes a
