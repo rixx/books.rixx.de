@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2020-02-24'
 review:
-  date_read: 2020-02-24
+  date_read:
+  - 2020-02-24
   did_not_finish: false
   rating: 2
   tldr: I'm still confused about competitive tennis Sherlock Holmes, but apparently

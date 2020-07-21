@@ -20,7 +20,8 @@ book:
 plan:
   date_added: '2020-02-22'
 review:
-  date_read: 2020-02-22
+  date_read:
+  - 2020-02-22
   did_not_finish: false
   rating: 3
   tldr: Three short stories. One fun, one meh, one whatever. Worth it for the fun

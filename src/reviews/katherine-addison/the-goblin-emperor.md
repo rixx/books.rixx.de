@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2018-08-28'
 review:
-  date_read: 2020-02-22
+  date_read:
+  - 2020-02-22
   did_not_finish: false
   rating: 4
   tldr: Fun, well-written Fantasy with strong characters and actual development. A

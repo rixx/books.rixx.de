@@ -15,7 +15,8 @@ book:
 plan:
   date_added: '2020-02-04'
 review:
-  date_read: 2020-02-05
+  date_read:
+  - 2020-02-05
   did_not_finish: false
   rating: 4
   tldr: Teaches both implicit cultural knowledge and exciting obscure details about

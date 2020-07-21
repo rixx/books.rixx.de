@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2019-12-19'
 review:
-  date_read: 2020-01-03
+  date_read:
+  - 2020-01-03
   did_not_finish: false
   rating: 5
   tldr: 'Useful discussion of knowledge scope and storage: We think in groups, and

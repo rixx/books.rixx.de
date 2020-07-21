@@ -14,7 +14,8 @@ book:
 plan:
   date_added: '2020-02-12'
 review:
-  date_read: 2020-02-12
+  date_read:
+  - 2020-02-12
   did_not_finish: false
   rating: 4
   tldr: Very solid time travel short story, probably even better for people from the

@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2016-05-14'
 review:
-  date_read: 2018-08-07
+  date_read:
+  - 2018-08-07
   did_not_finish: false
   rating: 2
 ---

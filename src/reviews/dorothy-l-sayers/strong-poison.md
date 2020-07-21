@@ -19,7 +19,8 @@ book:
 plan:
   date_added: '2020-01-06'
 review:
-  date_read: 2020-01-10
+  date_read:
+  - 2020-01-10
   did_not_finish: false
   rating: 4
   tldr: Another Lord Peter Wimsey mystery. As always, meh plot, but brilliant character

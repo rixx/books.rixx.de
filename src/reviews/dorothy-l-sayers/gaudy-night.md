@@ -21,7 +21,8 @@ book:
 plan:
   date_added: '2020-02-04'
 review:
-  date_read: 2020-02-08
+  date_read:
+  - 2020-02-08
   did_not_finish: false
   rating: 5
   tldr: Objectively, this book is around 3.5-4 stars, but the romance broke my heart

@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2020-03-05'
 review:
-  date_read: 2020-03-05
+  date_read:
+  - 2020-03-05
   did_not_finish: false
   rating: 2
   tldr: Not what I expected – it's focused on "communities" for corporate entities.

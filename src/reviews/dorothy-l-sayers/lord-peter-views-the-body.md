@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2019-12-30'
 review:
-  date_read: 2020-01-05
+  date_read:
+  - 2020-01-05
   did_not_finish: false
   rating: 3
   tldr: Good collection of Lord Peter Wimsey short stories, including some very intense

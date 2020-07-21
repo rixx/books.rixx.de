@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2020-02-28'
 review:
-  date_read: 2020-02-28
+  date_read:
+  - 2020-02-28
   did_not_finish: false
   rating: 1
   tldr: Like the previous part, only that it doubles down on the excessive processing

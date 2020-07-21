@@ -24,7 +24,8 @@ book:
 plan:
   date_added: '2019-09-28'
 review:
-  date_read: 2020-03-10
+  date_read:
+  - 2020-03-10
   did_not_finish: false
   rating: 2
   tldr: Plato fanfic gently mocking the Republic for being unrealistic. Ironically

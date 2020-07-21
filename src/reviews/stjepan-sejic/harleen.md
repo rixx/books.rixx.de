@@ -20,7 +20,8 @@ book:
 plan:
   date_added: '2020-02-29'
 review:
-  date_read: 2020-02-29
+  date_read:
+  - 2020-02-29
   did_not_finish: false
   rating: 4
   tldr: I don't tend to read graphical novels, but Stjepan Šejić is brilliant and

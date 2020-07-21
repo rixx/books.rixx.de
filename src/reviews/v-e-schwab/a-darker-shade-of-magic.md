@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2016-05-14'
 review:
-  date_read: 2020-07-18
+  date_read:
+  - 2020-07-18
   did_not_finish: false
   rating: 2
   tldr: Parallel-worlds fantasy that was technically good, but didn't grip me in any

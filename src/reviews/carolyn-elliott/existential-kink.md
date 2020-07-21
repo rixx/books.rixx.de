@@ -17,7 +17,8 @@ book:
 plan:
   date_added: 2020-07-18
 review:
-  date_read: 2020-07-17
+  date_read:
+  - 2020-07-17
   rating: 5
   tldr: The right book at the right time, but not a book I can recommend.
 ---

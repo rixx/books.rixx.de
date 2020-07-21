@@ -21,7 +21,8 @@ book:
 plan:
   date_added: '2020-02-17'
 review:
-  date_read: 2020-02-18
+  date_read:
+  - 2020-02-18
   did_not_finish: false
   rating: 4
   tldr: This book is a treasure. It explores gay history and culture by following

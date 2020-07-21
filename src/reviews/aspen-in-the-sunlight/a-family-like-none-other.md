@@ -15,7 +15,8 @@ book:
 plan:
   date_added: '2020-02-29'
 review:
-  date_read: 2020-02-29
+  date_read:
+  - 2020-02-29
   did_not_finish: false
   rating: 1
   tldr: Indulged and finished the series. No, it was not going anywhere.

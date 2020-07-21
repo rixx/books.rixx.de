@@ -15,7 +15,8 @@ book:
 plan:
   date_added: '2020-02-16'
 review:
-  date_read: 2020-02-16
+  date_read:
+  - 2020-02-16
   did_not_finish: false
   rating: 2
   tldr: Says a lot of true things. Not immediately useful for me, but still recommended

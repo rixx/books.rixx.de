@@ -17,7 +17,8 @@ book:
 plan:
   date_added: '2018-09-19'
 review:
-  date_read: 2020-01-26
+  date_read:
+  - 2020-01-26
   did_not_finish: false
   rating: 4
   tldr: Excuse me, a ninja assassin and an anti-stereotype paladin? Light cost, but

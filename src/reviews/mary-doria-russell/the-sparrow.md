@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2018-03-13'
 review:
-  date_read: 2020-01-08
+  date_read:
+  - 2020-01-08
   did_not_finish: false
   rating: 4
   tldr: "Alien life is discovered, and the Jesuits make First Contact because they

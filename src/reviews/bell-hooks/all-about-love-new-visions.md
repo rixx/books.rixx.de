@@ -21,7 +21,8 @@ book:
 plan:
   date_added: '2020-03-15'
 review:
-  date_read: 2020-03-15
+  date_read:
+  - 2020-03-15
   did_not_finish: false
   rating: 2
   tldr: This was me reading up on bell hooks. I'd have guessed a much earlier publication

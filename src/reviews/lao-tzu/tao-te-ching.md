@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2020-03-26'
 review:
-  date_read: 2020-03-26
+  date_read:
+  - 2020-03-26
   did_not_finish: false
   rating: 5
   tldr: The Ursula K. le Guin rendition of the Tao Te Ching was an excellent read.

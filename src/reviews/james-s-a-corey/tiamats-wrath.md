@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2019-02-19'
 review:
-  date_read: 2020-02-11
+  date_read:
+  - 2020-02-11
   did_not_finish: false
   rating: 5
   tldr: Another easy 5/5 rating. There's no way I can describe this book without spoilers,

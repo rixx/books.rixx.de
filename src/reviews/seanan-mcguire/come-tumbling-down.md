@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2020-01-26'
 review:
-  date_read: 2020-01-26
+  date_read:
+  - 2020-01-26
   did_not_finish: false
   rating: 3
   tldr: I want to like the Wayward Children series more than I actually like them.

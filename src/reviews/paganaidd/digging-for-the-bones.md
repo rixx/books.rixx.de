@@ -11,7 +11,8 @@ book:
 plan:
   date_added: '2020-02-25'
 review:
-  date_read: 2020-02-25
+  date_read:
+  - 2020-02-25
   did_not_finish: false
   rating: 2
   tldr: Fanfic's like junk food. It's not great, but it's food, it's easily accessible,

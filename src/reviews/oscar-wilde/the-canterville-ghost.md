@@ -19,7 +19,8 @@ book:
 plan:
   date_added: 2020-06-14
 review:
-  date_read: 2020-06-13
+  date_read:
+  - 2020-06-13
   rating: 3
 ---
 

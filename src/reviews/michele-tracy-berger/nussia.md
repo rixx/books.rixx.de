@@ -14,7 +14,8 @@ book:
 plan:
   date_added: '2019-01-14'
 review:
-  date_read: 2019-01-14
+  date_read:
+  - 2019-01-14
   did_not_finish: false
   rating: 1
 ---

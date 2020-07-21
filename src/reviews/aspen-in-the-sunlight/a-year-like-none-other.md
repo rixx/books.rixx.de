@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2020-02-28'
 review:
-  date_read: 2020-02-28
+  date_read:
+  - 2020-02-28
   did_not_finish: false
   rating: 2
   tldr: Reading more recommended fan fiction. This one is interesting because of the

@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2020-02-20'
 review:
-  date_read: 2020-02-20
+  date_read:
+  - 2020-02-20
   did_not_finish: false
   rating: 2
   tldr: Really good setting. That's it, that was the good part. Apart from that, strong

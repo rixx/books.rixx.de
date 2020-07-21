@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2020-02-11'
 review:
-  date_read: 2020-02-15
+  date_read:
+  - 2020-02-15
   did_not_finish: false
   rating: 3
   tldr: Hm. The first third was slow and muddled, and while it got MUCH better, it

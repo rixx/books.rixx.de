@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2018-09-15'
 review:
-  date_read: 2020-02-29
+  date_read:
+  - 2020-02-29
   did_not_finish: false
   rating: 4
   tldr: I found my way back to real books, and what a relief! Excellent characters

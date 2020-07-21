@@ -21,7 +21,8 @@ book:
 plan:
   date_added: '2020-01-26'
 review:
-  date_read: 2020-01-26
+  date_read:
+  - 2020-01-26
   did_not_finish: false
   rating: 1
   tldr: I didn't finish this book. Extreme tech pessimism ("kids these days don't

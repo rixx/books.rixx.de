@@ -22,7 +22,8 @@ book:
 plan:
   date_added: '2019-11-20'
 review:
-  date_read: 2020-02-22
+  date_read:
+  - 2020-02-22
   did_not_finish: false
   rating: 4
   tldr: As good as advertised – even a bit better, it's in part targeted at people

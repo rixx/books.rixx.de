@@ -23,7 +23,8 @@ book:
 plan:
   date_added: '2020-01-23'
 review:
-  date_read: 2020-01-27
+  date_read:
+  - 2020-01-27
   did_not_finish: false
   rating: 2
   tldr: Short story collection. Very mixed bag, rather skippable.

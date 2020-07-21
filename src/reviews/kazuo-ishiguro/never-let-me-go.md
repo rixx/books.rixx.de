@@ -20,7 +20,8 @@ book:
 plan:
   date_added: '2017-03-07'
 review:
-  date_read: 2020-01-25
+  date_read:
+  - 2020-01-25
   did_not_finish: false
   rating: 4
   tldr: Excellent dystopian storytelling. Not loud, not ostentatious, not yelling

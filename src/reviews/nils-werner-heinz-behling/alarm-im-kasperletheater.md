@@ -18,7 +18,8 @@ book:
 plan:
   date_added: 2020-05-24
 review:
-  date_read: 1998-12-31
+  date_read:
+  - 1998-12-31
   rating: 5
 ---
 

@@ -14,7 +14,8 @@ book:
 plan:
   date_added: '2019-01-08'
 review:
-  date_read: 2020-01-24
+  date_read:
+  - 2020-01-24
   did_not_finish: false
   rating: 4
   tldr: 'Short story that could not be more Octavia Butler: Aliens and humans being

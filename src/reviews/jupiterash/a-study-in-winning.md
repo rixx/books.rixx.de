@@ -18,7 +18,8 @@ book:
 plan:
   date_added: '2020-02-23'
 review:
-  date_read: 2020-02-24
+  date_read:
+  - 2020-02-24
   did_not_finish: false
   rating: null
   tldr: A Sherlock Holmes fanfic in … current day competitive tennis? I was following
