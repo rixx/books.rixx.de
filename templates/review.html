@@ -1,16 +1,6 @@
 {% extends "base.html" %}
 
-{% block head_content %}
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@rixxtr"/>
-<meta name="twitter:title" content="Tobias's review of {{ review.metadata.book.title }}"/>
-<meta name="twitter:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>
-
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://books.rixx.de/{{ review.get_url_path() }}">
-<meta property="og:title" content="Tobias's review of {{ review.metadata.book.title }}">
-<meta property="og:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>
-{% endblock %}
+{% block head_content %}{% include "_review_header.html" %}{% endblock %}
 
 {% block content %}
   {% if review.metadata.book.cover_image %}

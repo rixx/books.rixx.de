@@ -311,6 +311,14 @@ def build_site(**kwargs):
             title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
+        render(
+            "redirect.html",
+            f"reviews/{review.relevant_date.year}/{review.metadata['book']['slug']}/index.html",
+            target_url=review.get_url_path(),
+            review=review,
+            title=f"Review of {review.metadata['book']['title']}",
+            active="read",
+        )
         review.spine = books.Spine(review)
         for tag in review.metadata["book"].get("tags", []):
             tags[tag].append(review)
