@@ -159,7 +159,7 @@ class Review:
 
     def get_path(self):
         if self.entry_type == "reviews":
-            out_dir = self.author_slug
+            out_dir = f"reviews/{self.author_slug}"
         elif self.entry_type == "to-read":
             out_dir = "to-read"
         core_path = Path(out_dir) / self.metadata["book"]["slug"]
