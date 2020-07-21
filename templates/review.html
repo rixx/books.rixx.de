@@ -15,7 +15,7 @@
   <table class="book_metadata">
     <tr>
       <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
-      <th><a href="/reviews/by-author/#{{ review.metadata.book.author }}">{{ review.metadata.book.author }}</a>
+      <th><a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
         {%- if review.metadata.book.publication_year %}
           ({{ review.metadata.book.publication_year}})
         {%- endif -%}

@@ -315,7 +315,7 @@ def build_site(**kwargs):
         redirects.append(
             (
                 f"reviews/{review.relevant_date.year}/{review.metadata['book']['slug']}",
-                review.get_url_path()
+                review.get_url_path(),
             )
         )
         review.spine = books.Spine(review)
@@ -393,24 +393,22 @@ def build_site(**kwargs):
     )
 
     # Render the "by author" page
+    authors_with_reviews = sorted(
+        [
+            (author, list(reviews))
+            for (author, reviews) in itertools.groupby(
+                sorted(all_reviews, key=lambda rev: rev.metadata["book"]["author"],),
+                key=lambda review: review.metadata["book"]["author"],
+            )
+        ],
+        key=lambda x: x[0].upper(),
+    )
 
     author_reviews = sorted(
-        [  # don't @ me, this is beautiful
+        [
             (letter, list(authors))
             for letter, authors in itertools.groupby(
-                sorted(
-                    [
-                        (author, list(reviews))
-                        for (author, reviews) in itertools.groupby(
-                            sorted(
-                                all_reviews,
-                                key=lambda rev: rev.metadata["book"]["author"],
-                            ),
-                            key=lambda review: review.metadata["book"]["author"],
-                        )
-                    ],
-                    key=lambda x: x[0].upper(),
-                ),
+                authors_with_reviews,
                 key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
             )
         ],
@@ -425,6 +423,17 @@ def build_site(**kwargs):
         active="read",
         year="by-author",
     )
+
+    for author, reviews in authors_with_reviews:
+        render(
+            "author.html",
+            f"{reviews[0].author_slug}/index.html",
+            author=author,
+            reviews=sorted(
+                reviews, key=lambda rev: 5 - (rev.metadata["review"]["rating"] or 5),
+            ),
+            active="read",
+        )
 
     # Render the "by series" page
 

@@ -35,7 +35,7 @@ the ending, where Pippi and her friends take a pill against growing up, in a ver
 
 ## Further Reading
 
-I think pretty much anything that [Astrid Lindgren](https://books.rixx.de/reviews/by-author/#Astrid%20Lindgren) wrote
+I think pretty much anything that [Astrid Lindgren](https://books.rixx.de/astrid-lindgren/) wrote
 makes for a better read. If you're looking for more stories of strong and wild girls, [Ronia the robber's
 daughter](https://books.rixx.de/reviews/2001/ronia-the-robbers-daughter/) would be a good way to get started.
 

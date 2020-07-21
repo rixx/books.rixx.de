@@ -28,6 +28,6 @@ sci-fi.
 
 ## Further Reading
 
-Another good children's book by [Otfried Preußler](https://books.rixx.de/reviews/by-author/#Otfried%20Preu%C3%9Fler) is
+Another good children's book by [Otfried Preußler](https://books.rixx.de/otfried-preussler/) is
 [The Little Ghost](https://books.rixx.de/reviews/2001/the-little-ghost). If you're looking for more serious books by
 him, [Krabat](https://books.rixx.de/reviews/2005/krabat) is my favourite by far.

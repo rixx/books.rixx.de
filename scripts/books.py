@@ -121,6 +121,10 @@ class Review:
             return result
         return dt.datetime.strptime(result, "%Y-%m-%d").date()
 
+    @property
+    def author_slug(self):
+        return slugify(self.metadata["book"]["author"])
+
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.name
@@ -151,12 +155,11 @@ class Review:
         subprocess.check_call(["git", "add", self.path, old_path])
 
     def get_url_path(self):
-        author = slugify(self.metadata["book"]["author"])
-        return Path(author) / self.metadata["book"]["slug"]
+        return Path(self.author_slug) / self.metadata["book"]["slug"]
 
     def get_path(self):
         if self.entry_type == "reviews":
-            out_dir = slugify(self.metadata["book"]["author"])
+            out_dir = self.author_slug
         elif self.entry_type == "to-read":
             out_dir = "to-read"
         core_path = Path(out_dir) / self.metadata["book"]["slug"]

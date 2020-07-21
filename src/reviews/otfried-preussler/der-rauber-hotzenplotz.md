@@ -53,6 +53,6 @@ Briquambroque*, *Il Brigante Pennastorta*, *El bandido Saltodemata*, or *Haydut 
 [Alarm im Kasperletheater](https://books.rixx.de/reviews/1998/alarm-im-kasperletheater) is another German book for
 children that uses the Punch-and-Judy characters, though in a very different way.
 
-Another good children's book by [Otfried Preußler](https://books.rixx.de/reviews/by-author/#Otfried%20Preu%C3%9Fler) is
+Another good children's book by [Otfried Preußler](https://books.rixx.de/otfried-preussler/) is
 [The Little Ghost](https://books.rixx.de/reviews/2001/the-little-ghost). If you're looking for more serious books by
 him, [Krabat](https://books.rixx.de/reviews/2005/krabat) is my favourite by far.

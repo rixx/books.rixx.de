@@ -50,5 +50,5 @@ bit. He's the very image of the extremely mediocre white (tech, currently) dude,
 living in the 20s, writing this book, you can see how writing Hastings is an extremely enjoyable form of
 therapy-cum-punching-bag.
 
-I have read [some Agatha Christie](https://books.rixx.de/reviews/by-author/#Agatha%20Christie) before, and I'll try to
+I have read [some Agatha Christie](https://books.rixx.de/agatha-christie/) before, and I'll try to
 read some more. It's a very nice distraction, basically comfort food.

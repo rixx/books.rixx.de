@@ -34,7 +34,7 @@ and more like a war zone, but still – Urban Fantasy.
 Thankfully, and I say this as somebody [who](https://books.rixx.de/reviews/2017/moon-over-soho)
 [occasionally](https://books.rixx.de/reviews/by-series/#The%20Dresden%20Files)
 [reads](https://books.rixx.de/reviews/2018/sandman-slim) [and](https://books.rixx.de/reviews/2016/anansi-boys)
-[enjoys](https://books.rixx.de/reviews/by-author/#Sergei%20Lukyanenko) the genre, this book does not follow genre
+[enjoys](https://books.rixx.de/sergei-lukyanenko/) the genre, this book does not follow genre
 conventions. For one, the fantastical aspects make their appearance late and while they are really cool (<span
 class="spoilers">Avicenna makes
 an appearance!</span>), they don't dominate the story.
