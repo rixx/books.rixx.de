@@ -160,6 +160,18 @@ footer {
   text-align: center;
 }
 
+button {
+  font-family: 'EB Garamond SC 8';
+  color: #990000;
+  background-color: white;
+  border: 1px solid #00a7a7;
+  cursor: pointer;
+  padding: 4px 12px;
+  font-size: 18px;
+  margin-left: auto;
+  display: block;
+}
+
 .review_preview {
   height: 161px;
 }

@@ -2,9 +2,25 @@
 
 {% block content %}
 
+  <button id="random">Choose random book</button>
+
   <h2>Books I want to read (and why)</h2>
 
   {% for review in all_plans %}
   {% include "_list_entry.html" %}
   {% endfor %}
+
+  <script>
+    document.querySelector("#random").addEventListener("click", () => {
+      const books = document.querySelectorAll("div.reading")
+      const randomBook = books[Math.floor(Math.random() * books.length)]
+      books.forEach(book => {
+        if (book === randomBook) {
+          book.style.display = "block"
+        } else {
+          book.style.display = "none"
+        }
+      })
+    })
+  </script>
 {% endblock %}
