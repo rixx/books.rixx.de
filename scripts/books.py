@@ -471,6 +471,8 @@ def create_book(search_term=None):
             metadata["review"]["did_not_finish"] = True
 
     review = Review(metadata=metadata, text="", entry_type=entry_type)
+    if review.goodreads_url:
+        print(review.goodreads_url)
     review.update_tags()
     if review.metadata["book"]["cover_image_url"]:
         review.download_cover()
