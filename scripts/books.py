@@ -312,7 +312,7 @@ class Review:
         return False
 
     def find_cover(
-        self, order="openlibrary,google,goodreads,goodreads_scrape", force_new=False
+        self, order="openlibrary,google,goodreads_scrape,goodreads", force_new=False
     ):
         order = order.split(",")
         for provider in order:
