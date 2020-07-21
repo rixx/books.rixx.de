@@ -2,7 +2,7 @@
 book:
   author: Kevin J. Anderson
   cover_image: hidden-empire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179283380l/898232._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446610575-L.jpg
   goodreads: '898232'
   isbn10: '0446610577'
   isbn13: '9780446610575'
@@ -11,7 +11,7 @@ book:
   series: The Saga of Seven Suns
   series_position: '1'
   slug: hidden-empire
-  spine_color: '#ba8037'
+  spine_color: '#bc8136'
   tags:
   - scifi
   - fantasy

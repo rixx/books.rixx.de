@@ -2,7 +2,7 @@
 book:
   author: Nalo Hopkinson
   cover_image: midnight-robber.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388256481l/71409.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446675604-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.4
@@ -13,7 +13,7 @@ book:
   pages: 329
   publication_year: '2000'
   slug: midnight-robber
-  spine_color: '#c8bc8e'
+  spine_color: '#a24c44'
   title: Midnight Robber
 plan:
   date_added: '2018-08-28'

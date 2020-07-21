@@ -2,7 +2,7 @@
 book:
   author: Walter Jon Williams
   cover_image: the-praxis.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317581090l/85653._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780380820207-L.jpg
   dimensions:
     height: 17.1
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Dread Empire's Fall
   series_position: '1'
   slug: the-praxis
-  spine_color: '#783a2a'
+  spine_color: '#cda633'
   title: The Praxis
 plan:
   date_added: '2018-10-07'

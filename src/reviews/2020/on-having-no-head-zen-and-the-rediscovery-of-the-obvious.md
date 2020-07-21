@@ -2,7 +2,7 @@
 book:
   author: Douglas E. Harding
   cover_image: on-having-no-head-zen-and-the-rediscovery-of-the-obvious.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348983974l/817501.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781878019196-L.jpg
   dimensions:
     height: 22.9
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 123
   publication_year: '1961'
   slug: on-having-no-head-zen-and-the-rediscovery-of-the-obvious
-  spine_color: '#f9e17c'
+  spine_color: '#bbb17d'
   tags:
   - nonfiction
   - philosophy

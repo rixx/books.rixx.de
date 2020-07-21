@@ -2,7 +2,7 @@
 book:
   author: Tamsyn Muir
   cover_image: gideon-the-ninth.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250313195-L.jpg
   dimensions:
     height: 21.8
     thickness: 3.6
@@ -15,7 +15,7 @@ book:
   series: The Locked Tomb
   series_position: '1'
   slug: gideon-the-ninth
-  spine_color: '#6b635e'
+  spine_color: '#6c635e'
   tags:
   - fantasy
   title: Gideon the Ninth

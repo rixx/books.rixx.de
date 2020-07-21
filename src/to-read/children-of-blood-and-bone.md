@@ -2,7 +2,7 @@
 book:
   author: Tomi Adeyemi
   cover_image: children-of-blood-and-bone.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516127989l/34728667._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250170972-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.8
@@ -15,7 +15,7 @@ book:
   series: Legacy of Orïsha
   series_position: '1'
   slug: children-of-blood-and-bone
-  spine_color: '#201313'
+  spine_color: '#241414'
   title: Children of Blood and Bone
 plan:
   date_added: '2018-08-15'

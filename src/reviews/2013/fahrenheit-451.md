@@ -2,7 +2,7 @@
 book:
   author: Ray Bradbury
   cover_image: fahrenheit-451.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469704347l/17470674._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007491568-L.jpg
   dimensions:
     height: 23.0
     thickness: 2.3
@@ -13,7 +13,7 @@ book:
   pages: 227
   publication_year: '1953'
   slug: fahrenheit-451
-  spine_color: '#c23f29'
+  spine_color: '#e9bd2c'
   tags:
   - scifi
   title: Fahrenheit 451

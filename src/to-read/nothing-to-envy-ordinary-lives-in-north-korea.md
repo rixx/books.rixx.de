@@ -2,7 +2,7 @@
 book:
   author: Barbara Demick
   cover_image: nothing-to-envy-ordinary-lives-in-north-korea.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320449375l/6178648._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385523905-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.8
@@ -13,7 +13,7 @@ book:
   pages: 316
   publication_year: '2009'
   slug: nothing-to-envy-ordinary-lives-in-north-korea
-  spine_color: '#404042'
+  spine_color: '#49494a'
   title: 'Nothing to Envy: Ordinary Lives in North Korea'
 plan:
   date_added: '2016-05-19'

@@ -2,7 +2,7 @@
 book:
   author: Joanna Russ
   cover_image: we-who-are-about-to-.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348710724l/651807.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780819567598-L.jpg
   dimensions:
     height: 22.0
     thickness: 0.9
@@ -13,7 +13,7 @@ book:
   pages: 144
   publication_year: '1976'
   slug: we-who-are-about-to-
-  spine_color: '#617e9f'
+  spine_color: '#5a70a7'
   title: We Who Are About To...
 plan:
   date_added: '2018-10-07'

@@ -2,7 +2,7 @@
 book:
   author: Emily St. John Mandel
   cover_image: station-eleven.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446835l/20170404._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385353304-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 336
   publication_year: '2014'
   slug: station-eleven
-  spine_color: '#886d52'
+  spine_color: '#ccbda0'
   tags:
   - scifi
   title: Station Eleven

@@ -2,14 +2,14 @@
 book:
   author: Andy Weir
   cover_image: the-martian.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780804139021-L.jpg
   goodreads: '18007564'
   isbn10: 0804139024
   isbn13: '9780804139021'
   pages: '369'
   publication_year: '2012'
   slug: the-martian
-  spine_color: '#e0954a'
+  spine_color: '#df954b'
   tags:
   - five-stars
   - scifi

@@ -2,7 +2,7 @@
 book:
   author: Ian J. Deary
   cover_image: intelligence-a-very-short-introduction.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411930956l/74656._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780192893215-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 148
   publication_year: '2001'
   slug: intelligence-a-very-short-introduction
-  spine_color: '#aac145'
+  spine_color: '#b7c360'
   tags:
   - nonfiction
   - psychology

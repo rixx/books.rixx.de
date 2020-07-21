@@ -2,7 +2,7 @@
 book:
   author: Joan D. Vinge
   cover_image: the-snow-queen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298425l/139986.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446676649-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: The Snow Queen Cycle
   series_position: '1'
   slug: the-snow-queen
-  spine_color: '#666885'
+  spine_color: '#8094b1'
   title: The Snow Queen
 plan:
   date_added: '2018-08-28'

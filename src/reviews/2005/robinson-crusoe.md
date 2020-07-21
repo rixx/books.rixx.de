@@ -2,7 +2,7 @@
 book:
   author: Daniel Defoe
   cover_image: robinson-crusoe.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403180114l/2932._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375757327-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 320
   publication_year: '1719'
   slug: robinson-crusoe
-  spine_color: '#787b71'
+  spine_color: '#757b70'
   tags:
   - german
   title: Robinson Crusoe

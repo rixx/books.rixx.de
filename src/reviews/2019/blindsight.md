@@ -2,7 +2,7 @@
 book:
   author: Peter Watts
   cover_image: blindsight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924412l/48484.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765312181-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Firefall
   series_position: '1'
   slug: blindsight
-  spine_color: '#c02318'
+  spine_color: '#e62c2a'
   tags:
   - scifi
   title: Blindsight

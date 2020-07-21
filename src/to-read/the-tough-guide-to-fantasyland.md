@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: the-tough-guide-to-fantasyland.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440820398l/47510._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142407226-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 234
   publication_year: '1996'
   slug: the-tough-guide-to-fantasyland
-  spine_color: '#6d5354'
+  spine_color: '#796058'
   title: The Tough Guide to Fantasyland
 plan:
   date_added: '2018-07-04'

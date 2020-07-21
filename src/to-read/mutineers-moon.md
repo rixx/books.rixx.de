@@ -2,7 +2,7 @@
 book:
   author: David Weber
   cover_image: mutineers-moon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334080031l/1107296._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671720858-L.jpg
   dimensions:
     height: 17.1
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Dahak
   series_position: '1'
   slug: mutineers-moon
-  spine_color: '#bf7538'
+  spine_color: '#c98170'
   title: Mutineers' Moon
 plan:
   date_added: '2018-08-25'

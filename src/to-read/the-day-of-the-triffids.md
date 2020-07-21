@@ -2,7 +2,7 @@
 book:
   author: John Wyndham
   cover_image: the-day-of-the-triffids.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320530145l/530965._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812967128-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.4
@@ -13,7 +13,7 @@ book:
   pages: 228
   publication_year: '1951'
   slug: the-day-of-the-triffids
-  spine_color: '#68b469'
+  spine_color: '#67b562'
   title: The Day of the Triffids
 plan:
   date_added: '2019-01-17'

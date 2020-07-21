@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: academs-fury.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381026900l/133664._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441013401-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.0
@@ -15,7 +15,7 @@ book:
   series: Codex Alera
   series_position: '2'
   slug: academs-fury
-  spine_color: '#b18142'
+  spine_color: '#d69248'
   tags:
   - fantasy
   title: Academ's Fury

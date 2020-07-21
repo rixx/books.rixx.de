@@ -2,7 +2,7 @@
 book:
   author: Noah Gordon
   cover_image: matters-of-choice.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1165448281l/4693.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451187260-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Cole Family Trilogy
   series_position: '3'
   slug: matters-of-choice
-  spine_color: '#c2c282'
+  spine_color: '#7d7552'
   tags:
   - historical-fiction
   title: Matters of Choice

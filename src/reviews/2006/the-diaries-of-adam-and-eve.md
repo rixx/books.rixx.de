@@ -2,7 +2,7 @@
 book:
   author: Mark Twain
   cover_image: the-diaries-of-adam-and-eve.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374097796l/108202._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781843910053-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.8
@@ -13,7 +13,7 @@ book:
   pages: 95
   publication_year: '1906'
   slug: the-diaries-of-adam-and-eve
-  spine_color: '#fbefd5'
+  spine_color: '#344823'
   tags:
   - historical-fiction
   title: The Diaries of Adam and Eve

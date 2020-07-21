@@ -2,7 +2,7 @@
 book:
   author: Douglas Adams
   cover_image: so-long-and-thanks-for-all-the-fish.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369563116l/8698._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780330491235-L.jpg
   dimensions:
     height: 21.0
   goodreads: '8698'
@@ -13,7 +13,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '4'
   slug: so-long-and-thanks-for-all-the-fish
-  spine_color: '#0b2f36'
+  spine_color: '#093139'
   tags:
   - german
   - scifi

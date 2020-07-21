@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: persepolis-rising.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316332828-L.jpg
   dimensions:
     height: 24.0
   goodreads: '28335696'
@@ -13,7 +13,7 @@ book:
   series: The Expanse
   series_position: '7'
   slug: persepolis-rising
-  spine_color: '#ab7c47'
+  spine_color: '#a07d4b'
   tags:
   - scifi
   title: Persepolis Rising

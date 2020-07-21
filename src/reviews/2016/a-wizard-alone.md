@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: a-wizard-alone.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388545546l/116560.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152049119-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Young Wizards
   series_position: '6'
   slug: a-wizard-alone
-  spine_color: '#765445'
+  spine_color: '#6d5130'
   tags:
   - fantasy
   - urban-fantasy

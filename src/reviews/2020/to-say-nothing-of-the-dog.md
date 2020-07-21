@@ -2,7 +2,7 @@
 book:
   author: Connie Willis
   cover_image: to-say-nothing-of-the-dog.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469410460l/77773._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553575385-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: Oxford Time Travel
   series_position: '2'
   slug: to-say-nothing-of-the-dog
-  spine_color: '#977855'
+  spine_color: '#886441'
   tags:
   - scifi
   title: To Say Nothing of the Dog

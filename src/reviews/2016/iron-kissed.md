@@ -2,7 +2,7 @@
 book:
   author: Patricia Briggs
   cover_image: iron-kissed.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229529l/1412138._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441015665-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: Mercy Thompson
   series_position: '3'
   slug: iron-kissed
-  spine_color: '#c2c5b8'
+  spine_color: '#c3c5b7'
   tags:
   - urban-fantasy
   title: Iron Kissed

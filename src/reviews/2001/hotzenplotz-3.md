@@ -2,7 +2,7 @@
 book:
   author: Otfried Preußler
   cover_image: hotzenplotz-3.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423555l/1527165._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522119801-L.jpg
   dimensions:
     height: 23
   goodreads: '1527165'
@@ -12,7 +12,7 @@ book:
   series: Hotzenplotz
   series_position: '3'
   slug: hotzenplotz-3
-  spine_color: '#d4aa42'
+  spine_color: '#d7ab3d'
   tags:
   - german
   - kids

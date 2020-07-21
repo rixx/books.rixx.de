@@ -2,7 +2,7 @@
 book:
   author: Joanne Bertin
   cover_image: the-last-dragonlord.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390270678l/253153.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812545418-L.jpg
   dimensions:
     height: 17.1
     thickness: 1.9

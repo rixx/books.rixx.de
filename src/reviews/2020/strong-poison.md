@@ -2,7 +2,7 @@
 book:
   author: Dorothy L. Sayers
   cover_image: strong-poison.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486963427l/246225._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060809089-L.jpg
   dimensions:
     height: 20.0
   goodreads: '246225'
@@ -12,7 +12,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '6'
   slug: strong-poison
-  spine_color: '#f3dab6'
+  spine_color: '#d6b094'
   tags:
   - mystery
   title: Strong Poison

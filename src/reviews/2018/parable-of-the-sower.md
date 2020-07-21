@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: parable-of-the-sower.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442169447l/52397._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446675505-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Earthseed
   series_position: '1'
   slug: parable-of-the-sower
-  spine_color: '#c1bca6'
+  spine_color: '#b9a092'
   tags:
   - scifi
   title: Parable of the Sower

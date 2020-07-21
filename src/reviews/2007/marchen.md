@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: marchen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469095274l/468931._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789129476-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   pages: 222
   publication_year: '1989'
   slug: marchen
-  spine_color: '#3c493e'
+  spine_color: '#8ada5e'
   tags:
   - five-stars
   - german

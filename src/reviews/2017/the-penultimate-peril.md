@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-penultimate-peril.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524161970l/65110._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410151-L.jpg
   dimensions:
     height: 19.0
   goodreads: '65110'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '12'
   slug: the-penultimate-peril
-  spine_color: '#d73015'
+  spine_color: '#d1512f'
   tags:
   - ya
   title: The Penultimate Peril

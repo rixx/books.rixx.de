@@ -2,7 +2,7 @@
 book:
   author: Dorothy L. Sayers
   cover_image: murder-must-advertise.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389232617l/351559.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061043550-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '10'
   slug: murder-must-advertise
-  spine_color: '#594e61'
+  spine_color: '#484b62'
   tags:
   - german
   - mystery

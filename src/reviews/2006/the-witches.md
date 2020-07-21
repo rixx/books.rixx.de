@@ -2,7 +2,7 @@
 book:
   author: Roald Dahl
   cover_image: the-witches.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351707720l/6327._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780590032490-L.jpg
   dimensions:
     height: 19.0
   goodreads: '6327'
@@ -11,7 +11,7 @@ book:
   pages: 208
   publication_year: '1983'
   slug: the-witches
-  spine_color: '#e67659'
+  spine_color: '#361918'
   tags:
   - german
   - kids

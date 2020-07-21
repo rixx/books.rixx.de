@@ -2,7 +2,7 @@
 book:
   author: Robin Hobb
   cover_image: royal-assassin.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387145228l/68487._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780006480105-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.9
@@ -15,7 +15,7 @@ book:
   series: Farseer Trilogy
   series_position: '2'
   slug: royal-assassin
-  spine_color: '#9a8c5b'
+  spine_color: '#ad9d6e'
   tags:
   - fantasy
   title: Royal Assassin

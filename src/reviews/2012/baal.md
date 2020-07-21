@@ -2,7 +2,7 @@
 book:
   author: Bertolt Brecht
   cover_image: baal.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348126595l/148345.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781559704199-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 86
   publication_year: '1922'
   slug: baal
-  spine_color: '#969798'
+  spine_color: '#ccccc8'
   tags:
   - german
   - poetry

@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-rhesus-chart.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383475235l/18211295._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780356502533-L.jpg
   dimensions:
     height: 22.0
   goodreads: '18211295'
@@ -12,7 +12,7 @@ book:
   series: Laundry Files
   series_position: '5'
   slug: the-rhesus-chart
-  spine_color: '#964c4e'
+  spine_color: '#88565a'
   tags:
   - urban-fantasy
   title: The Rhesus Chart

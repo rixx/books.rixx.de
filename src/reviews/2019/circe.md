@@ -2,14 +2,14 @@
 book:
   author: Madeline Miller
   cover_image: circe.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565909496l/35959740._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316556347-L.jpg
   goodreads: '35959740'
   isbn10: '0316556343'
   isbn13: '9780316556347'
   pages: '393'
   publication_year: '2018'
   slug: circe
-  spine_color: '#dd833a'
+  spine_color: '#e5a125'
   tags:
   - myths-legends
   title: Circe

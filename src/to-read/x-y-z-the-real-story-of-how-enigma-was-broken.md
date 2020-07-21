@@ -2,7 +2,7 @@
 book:
   author: Dermot Turing
   cover_image: x-y-z-the-real-story-of-how-enigma-was-broken.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521828263l/39305425._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780750987820-L.jpg
   dimensions:
     height: 23.4
     thickness: 2.9
@@ -13,7 +13,7 @@ book:
   pages: 320
   publication_year: '2018'
   slug: x-y-z-the-real-story-of-how-enigma-was-broken
-  spine_color: '#996169'
+  spine_color: '#aa475c'
   title: 'X, Y & Z: The Real Story of How Enigma Was Broken'
 plan:
   date_added: '2019-05-03'

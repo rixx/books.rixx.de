@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: a-wizard-abroad.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303797089l/116564._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152055035-L.jpg
   dimensions:
     height: 18.0
   goodreads: '116564'
@@ -13,7 +13,7 @@ book:
   series: Young Wizards
   series_position: '4'
   slug: a-wizard-abroad
-  spine_color: '#aacf9d'
+  spine_color: '#243160'
   tags:
   - fantasy
   - urban-fantasy

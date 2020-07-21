@@ -2,14 +2,14 @@
 book:
   author: Stephen King
   cover_image: full-dark-no-stars.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524583257l/7912007._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781439192566-L.jpg
   goodreads: '7912007'
   isbn10: '1439192561'
   isbn13: '9781439192566'
   pages: '368'
   publication_year: '2010'
   slug: full-dark-no-stars
-  spine_color: '#883f37'
+  spine_color: '#86392b'
   title: Full Dark, No Stars
 plan:
   date_added: '2016-05-08'

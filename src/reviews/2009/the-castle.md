@@ -2,7 +2,7 @@
 book:
   author: Franz Kafka
   cover_image: the-castle.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331696371l/333538._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780805211061-L.jpg
   dimensions:
     height: 25.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 328
   publication_year: '1922'
   slug: the-castle
-  spine_color: '#04b0e4'
+  spine_color: '#181d53'
   tags:
   - german
   title: The Castle

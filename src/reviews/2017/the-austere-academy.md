@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-austere-academy.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517277307l/131123._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064408639-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '5'
   slug: the-austere-academy
-  spine_color: '#f1d78a'
+  spine_color: '#ac8f58'
   tags:
   - ya
   title: The Austere Academy

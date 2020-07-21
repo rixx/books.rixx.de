@@ -2,7 +2,7 @@
 book:
   author: Wen Spencer
   cover_image: a-brothers-price.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309211084l/544240._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451460387-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.3
@@ -13,7 +13,7 @@ book:
   pages: 310
   publication_year: '2005'
   slug: a-brothers-price
-  spine_color: '#da904d'
+  spine_color: '#da8e49'
   tags:
   - fantasy
   title: A Brother's Price

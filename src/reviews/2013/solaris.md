@@ -2,7 +2,7 @@
 book:
   author: Stanisław Lem
   cover_image: solaris.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183830166l/1458525._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783548606118-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.3
@@ -13,7 +13,7 @@ book:
   pages: 282
   publication_year: '1961'
   slug: solaris
-  spine_color: '#784a36'
+  spine_color: '#734b41'
   tags:
   - scifi
   title: Solaris

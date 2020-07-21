@@ -2,7 +2,7 @@
 book:
   author: Steven R. Boyett
   cover_image: ariel.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390180975l/6421522.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441017942-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.3

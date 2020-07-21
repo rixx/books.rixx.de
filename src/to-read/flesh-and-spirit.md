@@ -2,7 +2,7 @@
 book:
   author: Carol Berg
   cover_image: flesh-and-spirit.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431493610l/437790._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451460882-L.jpg
   dimensions:
     height: 23.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Lighthouse
   series_position: '1'
   slug: flesh-and-spirit
-  spine_color: '#4f3032'
+  spine_color: '#372831'
   title: Flesh and Spirit
 plan:
   date_added: '2019-02-19'

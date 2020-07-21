@@ -2,7 +2,7 @@
 book:
   author: John Steinbeck
   cover_image: east-of-eden.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544744853l/4406._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142000656-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.9
@@ -13,7 +13,7 @@ book:
   pages: 601
   publication_year: '1952'
   slug: east-of-eden
-  spine_color: '#dcddcf'
+  spine_color: '#cecebf'
   title: East of Eden
 plan:
   date_added: '2018-04-03'

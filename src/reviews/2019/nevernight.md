@@ -2,7 +2,7 @@
 book:
   author: Jay Kristoff
   cover_image: nevernight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688832l/26114463._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250073020-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.1
@@ -15,7 +15,7 @@ book:
   series: The Nevernight Chronicle
   series_position: '1'
   slug: nevernight
-  spine_color: '#99918e'
+  spine_color: '#9c9590'
   tags:
   - fantasy
   title: Nevernight

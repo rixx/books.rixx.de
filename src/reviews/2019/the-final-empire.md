@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: the-final-empire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717416l/68428._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765311788-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.2
@@ -15,7 +15,7 @@ book:
   series: Mistborn
   series_position: '1'
   slug: the-final-empire
-  spine_color: '#442f54'
+  spine_color: '#4a365c'
   tags:
   - fantasy
   title: The Final Empire

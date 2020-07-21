@@ -2,7 +2,7 @@
 book:
   author: Joseph Heller
   cover_image: catch-22.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317l/168668._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780684833392-L.jpg
   dimensions:
     height: 21.0
   goodreads: '168668'
@@ -13,7 +13,7 @@ book:
   series: Catch-22
   series_position: '1'
   slug: catch-22
-  spine_color: '#174788'
+  spine_color: '#1b4b8d'
   title: Catch-22
 plan:
   date_added: '2015-04-08'

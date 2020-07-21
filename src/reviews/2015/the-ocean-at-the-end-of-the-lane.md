@@ -2,14 +2,14 @@
 book:
   author: Neil Gaiman
   cover_image: the-ocean-at-the-end-of-the-lane.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563l/15783514._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062255655-L.jpg
   goodreads: '15783514'
   isbn10: '0062255657'
   isbn13: '9780062255655'
   pages: '181'
   publication_year: '2013'
   slug: the-ocean-at-the-end-of-the-lane
-  spine_color: '#23788e'
+  spine_color: '#4d6f7e'
   tags:
   - fantasy
   - five-stars

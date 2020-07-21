@@ -1,8 +1,8 @@
 ---
 book:
   author: Sergei Lukyanenko
-  cover_image: night-watch-lukyanenko.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351342315l/359375._SX98_.jpg
+  cover_image: night-watch.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781401359799-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Watch
   series_position: '1'
   slug: night-watch
-  spine_color: '#b36968'
+  spine_color: '#a74757'
   tags:
   - german
   title: Night Watch

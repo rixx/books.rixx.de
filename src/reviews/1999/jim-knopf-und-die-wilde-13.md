@@ -2,7 +2,7 @@
 book:
   author: Michael Ende
   cover_image: jim-knopf-und-die-wilde-13.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375813974l/468837.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522149907-L.jpg
   dimensions:
     height: 21.0
   goodreads: '468837'
@@ -12,7 +12,7 @@ book:
   series: Jim Knopf
   series_position: '2'
   slug: jim-knopf-und-die-wilde-13
-  spine_color: '#7a544a'
+  spine_color: '#815747'
   tags:
   - german
   - kids

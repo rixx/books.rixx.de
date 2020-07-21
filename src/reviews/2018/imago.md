@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: imago.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389478182l/60934.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603638-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.3
@@ -15,7 +15,7 @@ book:
   series: Xenogenesis
   series_position: '3'
   slug: imago
-  spine_color: '#ebbb84'
+  spine_color: '#e4c490'
   tags:
   - scifi
   title: Imago

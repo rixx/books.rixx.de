@@ -2,7 +2,7 @@
 book:
   author: Paul Maar
   cover_image: eine-woche-voller-samstage.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349272253l/2092839._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789119521-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Sams
   series_position: '1'
   slug: eine-woche-voller-samstage
-  spine_color: '#ae7e52'
+  spine_color: '#c28646'
   tags:
   - german
   - kids

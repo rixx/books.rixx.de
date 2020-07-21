@@ -2,14 +2,14 @@
 book:
   author: Meg Barker
   cover_image: rewriting-the-rules-an-integrative-guide-to-love-sex-and-relationships.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355086097l/13711602._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780415517638-L.jpg
   goodreads: '13711602'
   isbn10: 041551763X
   isbn13: '9780415517638'
   pages: '208'
   publication_year: '2012'
   slug: rewriting-the-rules-an-integrative-guide-to-love-sex-and-relationships
-  spine_color: '#dc564c'
+  spine_color: '#2862af'
   tags:
   - nonfiction
   - personal-development

@@ -2,7 +2,7 @@
 book:
   author: Primo Levi
   cover_image: survival-in-auschwitz.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414374949l/6174._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780684826806-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 187
   publication_year: '1947'
   slug: survival-in-auschwitz
-  spine_color: '#555562'
+  spine_color: '#3e4a6a'
   tags:
   - history
   title: Survival in Auschwitz

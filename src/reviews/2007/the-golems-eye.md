@@ -2,7 +2,7 @@
 book:
   author: Jonathan Stroud
   cover_image: the-golems-eye.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441130242l/59263._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786836543-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Bartimaeus
   series_position: '2'
   slug: the-golems-eye
-  spine_color: '#1b335e'
+  spine_color: '#1b335d'
   tags:
   - fantasy
   - german

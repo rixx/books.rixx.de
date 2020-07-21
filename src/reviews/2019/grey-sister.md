@@ -2,7 +2,7 @@
 book:
   author: Mark  Lawrence
   cover_image: grey-sister.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523384136l/35530652._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780008152345-L.jpg
   dimensions:
     height: 24.0
   goodreads: '35530652'
@@ -13,7 +13,7 @@ book:
   series: Book of the Ancestor
   series_position: '2'
   slug: grey-sister
-  spine_color: '#c5d5da'
+  spine_color: '#8a9c9f'
   tags:
   - fantasy
   title: Grey Sister

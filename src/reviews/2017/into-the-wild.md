@@ -2,7 +2,7 @@
 book:
   author: Sarah Beth Durst
   cover_image: into-the-wild.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172374563l/170136._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781595141569-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Into the Wild
   series_position: '1'
   slug: into-the-wild
-  spine_color: '#631e4b'
+  spine_color: '#641f4c'
   title: Into the Wild
 plan:
   date_added: '2017-05-16'

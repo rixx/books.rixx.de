@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: reaper-man.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389211958l/34517._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552152952-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '11'
   slug: reaper-man
-  spine_color: '#928b72'
+  spine_color: '#7c776a'
   title: Reaper Man
 plan:
   date_added: '2015-04-08'

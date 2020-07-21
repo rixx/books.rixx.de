@@ -2,7 +2,7 @@
 book:
   author: Alan Bradley
   cover_image: the-dead-in-their-vaulted-arches.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432578235l/17834904._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385344050-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '6'
   slug: the-dead-in-their-vaulted-arches
-  spine_color: '#e19b34'
+  spine_color: '#de9831'
   tags: []
   title: The Dead in Their Vaulted Arches
 plan:

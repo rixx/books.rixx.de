@@ -2,7 +2,7 @@
 book:
   author: Walter Moers
   cover_image: the-city-of-dreaming-books.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320430394l/62031._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780099490579-L.jpg
   dimensions:
     height: 23.4
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Zamonen
   series_position: '4'
   slug: the-city-of-dreaming-books
-  spine_color: '#b0d2ed'
+  spine_color: '#acceec'
   tags:
   - fantasy
   - five-stars

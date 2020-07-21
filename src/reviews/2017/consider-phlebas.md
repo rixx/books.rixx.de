@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: consider-phlebas.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781857231380-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Culture
   series_position: '1'
   slug: consider-phlebas
-  spine_color: '#41a2bd'
+  spine_color: '#459cc8'
   tags:
   - scifi
   title: Consider Phlebas

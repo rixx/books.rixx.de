@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: dawn.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388290339l/60929.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603775-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: Xenogenesis
   series_position: '1'
   slug: dawn
-  spine_color: '#eac068'
+  spine_color: '#ae8136'
   tags:
   - five-stars
   - scifi

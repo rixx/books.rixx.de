@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: nation.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426659151l/2855034._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061433016-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   pages: 367
   publication_year: '2008'
   slug: nation
-  spine_color: '#cbaa5c'
+  spine_color: '#2a76a3'
   title: Nation
 plan:
   date_added: '2015-04-09'

@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: kalle-blomquist.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1169880877l/42329.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789141300-L.jpg
   goodreads: '42329'
   isbn10: '3789141305'
   isbn13: '9783789141300'
@@ -10,7 +10,7 @@ book:
   publication_year: '1946'
   series_position: '1'
   slug: kalle-blomquist
-  spine_color: '#f2c310'
+  spine_color: '#f3c410'
   tags:
   - five-stars
   - german

@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: surface-detail.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316123402-L.jpg
   dimensions:
     height: 20.0
     thickness: 5.1
@@ -15,7 +15,7 @@ book:
   series: Culture
   series_position: '9'
   slug: surface-detail
-  spine_color: '#c6b571'
+  spine_color: '#9d793c'
   tags:
   - scifi
   title: Surface Detail

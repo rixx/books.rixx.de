@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: ethan-of-athos.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365244555l/990093._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671656041-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '3'
   slug: ethan-of-athos
-  spine_color: '#a23022'
+  spine_color: '#915d5e'
   tags:
   - scifi
   title: Ethan of Athos

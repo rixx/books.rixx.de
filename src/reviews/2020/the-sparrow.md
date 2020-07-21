@@ -2,7 +2,7 @@
 book:
   author: Mary Doria Russell
   cover_image: the-sparrow.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1230829367l/334176._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780449912553-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: The Sparrow
   series_position: '1'
   slug: the-sparrow
-  spine_color: '#111e9b'
+  spine_color: '#194ac5'
   tags:
   - scifi
   - space-monks

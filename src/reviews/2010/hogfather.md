@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: hogfather.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416342611l/34532._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154284-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '20'
   slug: hogfather
-  spine_color: '#36332f'
+  spine_color: '#161118'
   tags:
   - five-stars
   title: Hogfather

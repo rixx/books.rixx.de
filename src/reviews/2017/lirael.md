@@ -2,7 +2,7 @@
 book:
   author: Garth Nix
   cover_image: lirael.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266458951l/47624.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060590161-L.jpg
   dimensions:
     height: 20.2
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Abhorsen
   series_position: '2'
   slug: lirael
-  spine_color: '#82b1c8'
+  spine_color: '#81aec6'
   tags:
   - fantasy
   - ya

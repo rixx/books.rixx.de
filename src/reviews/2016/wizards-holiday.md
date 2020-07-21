@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: wizards-holiday.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400262906l/116562.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152052072-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.1
@@ -15,7 +15,7 @@ book:
   series: Young Wizards
   series_position: '7'
   slug: wizards-holiday
-  spine_color: '#ebb965'
+  spine_color: '#eab556'
   tags:
   - fantasy
   - urban-fantasy

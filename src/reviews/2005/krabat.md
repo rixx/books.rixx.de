@@ -2,7 +2,7 @@
 book:
   author: Otfried Preußler
   cover_image: krabat.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334151882l/472626._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522144100-L.jpg
   dimensions:
     height: 21.0
   goodreads: '472626'
@@ -11,7 +11,7 @@ book:
   pages: 296
   publication_year: '1971'
   slug: krabat
-  spine_color: '#6886cd'
+  spine_color: '#6684cc'
   tags:
   - five-stars
   - german

@@ -2,7 +2,7 @@
 book:
   author: Becky Chambers
   cover_image: the-long-way-to-a-small-angry-planet.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781500453305-L.jpg
   dimensions:
     height: 25
   goodreads: '22733729'
@@ -13,7 +13,7 @@ book:
   series: Wayfarers
   series_position: '1'
   slug: the-long-way-to-a-small-angry-planet
-  spine_color: '#6f4634'
+  spine_color: '#7b4330'
   tags:
   - scifi
   title: The Long Way to a Small, Angry Planet

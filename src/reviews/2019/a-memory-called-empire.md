@@ -2,7 +2,7 @@
 book:
   author: Arkady Martine
   cover_image: a-memory-called-empire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526486594l/39863238._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250186430-L.jpg
   goodreads: '39863238'
   isbn10: '1250186439'
   isbn13: '9781250186430'
@@ -11,7 +11,7 @@ book:
   series: Teixcalaan
   series_position: '1'
   slug: a-memory-called-empire
-  spine_color: '#c8c2b0'
+  spine_color: '#c4bba2'
   tags:
   - fantasy
   title: A Memory Called Empire

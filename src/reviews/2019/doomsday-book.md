@@ -2,7 +2,7 @@
 book:
   author: Connie Willis
   cover_image: doomsday-book.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403972500l/24983._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553562736-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Oxford Time Travel
   series_position: '1'
   slug: doomsday-book
-  spine_color: '#602a1e'
+  spine_color: '#3c0605'
   tags:
   - five-stars
   - scifi

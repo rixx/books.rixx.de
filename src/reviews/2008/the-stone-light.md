@@ -2,7 +2,7 @@
 book:
   author: Kai Meyer
   cover_image: the-stone-light.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388350165l/135879.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780689877896-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.1
@@ -15,7 +15,7 @@ book:
   series: Dark Reflections
   series_position: '2'
   slug: the-stone-light
-  spine_color: '#9aa6b4'
+  spine_color: '#9b9ea9'
   tags:
   - fantasy
   - german

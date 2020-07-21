@@ -2,14 +2,14 @@
 book:
   author: Roald Dahl
   cover_image: beware-of-the-dog.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458388620l/8703973._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781405911313-L.jpg
   dimensions: {}
   goodreads: '8703973'
   isbn13: '9781405911313'
   pages: 28
   publication_year: '1944'
   slug: beware-of-the-dog
-  spine_color: '#603e5d'
+  spine_color: '#654162'
   title: Beware of the Dog
 plan:
   date_added: '2019-04-22'

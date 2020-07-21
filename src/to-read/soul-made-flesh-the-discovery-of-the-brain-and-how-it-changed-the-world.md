@@ -2,7 +2,7 @@
 book:
   author: Carl Zimmer
   cover_image: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441657292l/213113._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743272056-L.jpg
   dimensions:
     height: 21.4
     thickness: 3.3
@@ -13,7 +13,7 @@ book:
   pages: 384
   publication_year: '2003'
   slug: soul-made-flesh-the-discovery-of-the-brain-and-how-it-changed-the-world
-  spine_color: '#b19167'
+  spine_color: '#b59a6d'
   title: 'Soul Made Flesh: The Discovery of the Brain--and How it Changed the World'
 plan:
   date_added: '2020-03-08'

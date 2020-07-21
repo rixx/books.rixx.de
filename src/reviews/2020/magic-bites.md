@@ -2,7 +2,7 @@
 book:
   author: Ilona Andrews
   cover_image: magic-bites.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331612872l/38619._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014897-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Kate Daniels
   series_position: '1'
   slug: magic-bites
-  spine_color: '#bcb87c'
+  spine_color: '#c4a26e'
   tags:
   - fantasy
   - urban-fantasy

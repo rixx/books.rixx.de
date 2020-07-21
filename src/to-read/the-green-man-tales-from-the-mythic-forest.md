@@ -2,7 +2,7 @@
 book:
   author: Ellen Datlow
   cover_image: the-green-man-tales-from-the-mythic-forest.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311838445l/249855._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142400296-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.6
@@ -13,7 +13,7 @@ book:
   pages: 400
   publication_year: '2002'
   slug: the-green-man-tales-from-the-mythic-forest
-  spine_color: '#e4e3a8'
+  spine_color: '#dfdf9d'
   title: 'The Green Man: Tales from the Mythic Forest'
 plan:
   date_added: '2016-05-18'

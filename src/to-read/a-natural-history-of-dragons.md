@@ -2,7 +2,7 @@
 book:
   author: Marie Brennan
   cover_image: a-natural-history-of-dragons.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359770409l/12974372._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765331960-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: The Memoirs of Lady Trent
   series_position: '1'
   slug: a-natural-history-of-dragons
-  spine_color: '#bcaea3'
+  spine_color: '#bfaea3'
   title: A Natural History of Dragons
 plan:
   date_added: '2018-09-15'

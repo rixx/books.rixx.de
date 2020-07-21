@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: johnny-and-the-dead.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391549664l/34528.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060541880-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: Johnny Maxwell
   series_position: '2'
   slug: johnny-and-the-dead
-  spine_color: '#dbd7b5'
+  spine_color: '#907f56'
   tags:
   - fantasy
   title: Johnny and the Dead

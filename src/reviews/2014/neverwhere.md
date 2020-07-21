@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: neverwhere.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060557812-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: London Below
   series_position: '1'
   slug: neverwhere
-  spine_color: '#a4957f'
+  spine_color: '#876e66'
   tags:
   - fantasy
   title: Neverwhere

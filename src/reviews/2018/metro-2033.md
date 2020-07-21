@@ -2,7 +2,7 @@
 book:
   author: Dmitry Glukhovsky
   cover_image: metro-2033.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379621430l/17274667._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781481845700-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: Metro
   series_position: '1'
   slug: metro-2033
-  spine_color: '#6f474a'
+  spine_color: '#512b2c'
   tags:
   - scifi
   title: Metro 2033

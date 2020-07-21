@@ -2,14 +2,14 @@
 book:
   author: Johann Wolfgang von Goethe
   cover_image: iphigenie-auf-tauris.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578255048l/1150799._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783150000830-L.jpg
   goodreads: '1150799'
   isbn10: '3150000831'
   isbn13: '9783150000830'
   pages: '79'
   publication_year: '1786'
   slug: iphigenie-auf-tauris
-  spine_color: '#f0e01a'
+  spine_color: '#f0df19'
   tags:
   - german
   - stage-play

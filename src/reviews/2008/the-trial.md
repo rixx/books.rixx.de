@@ -2,7 +2,7 @@
 book:
   author: Franz Kafka
   cover_image: the-trial.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438l/17690._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780099428640-L.jpg
   dimensions:
     height: 19.9
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   pages: 256
   publication_year: '1925'
   slug: the-trial
-  spine_color: '#817978'
+  spine_color: '#95918f'
   tags:
   - german
   title: The Trial

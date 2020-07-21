@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: raising-steam.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582860489l/11275323._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780857522276-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '40'
   slug: raising-steam
-  spine_color: '#924122'
+  spine_color: '#7c7d58'
   title: Raising Steam
 plan:
   date_added: '2015-04-08'

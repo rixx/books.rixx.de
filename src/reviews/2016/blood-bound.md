@@ -2,7 +2,7 @@
 book:
   author: Patricia Briggs
   cover_image: blood-bound.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358229157l/285205._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014736-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: Mercy Thompson
   series_position: '2'
   slug: blood-bound
-  spine_color: '#9c4326'
+  spine_color: '#895345'
   tags:
   - urban-fantasy
   title: Blood Bound

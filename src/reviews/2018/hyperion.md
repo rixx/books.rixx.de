@@ -2,7 +2,7 @@
 book:
   author: Dan Simmons
   cover_image: hyperion.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553283686-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Hyperion Cantos
   series_position: '1'
   slug: hyperion
-  spine_color: '#7b634a'
+  spine_color: '#d5ab94'
   tags:
   - scifi
   - space-monks

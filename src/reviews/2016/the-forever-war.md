@@ -2,7 +2,7 @@
 book:
   author: Joe Haldeman
   cover_image: the-forever-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386852511l/21611._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060510862-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: The Forever War
   series_position: '1'
   slug: the-forever-war
-  spine_color: '#a2d2d8'
+  spine_color: '#a9c8da'
   tags:
   - scifi
   title: The Forever War

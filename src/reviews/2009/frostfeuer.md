@@ -2,7 +2,7 @@
 book:
   author: Kai Meyer
   cover_image: frostfeuer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187201977l/1707436._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783785554418-L.jpg
   dimensions:
     height: 22.0
   goodreads: '1707436'
@@ -11,7 +11,7 @@ book:
   pages: 304
   publication_year: '2005'
   slug: frostfeuer
-  spine_color: '#61afbe'
+  spine_color: '#60afbe'
   tags:
   - fantasy
   - german

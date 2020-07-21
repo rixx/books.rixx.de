@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-hostile-hospital.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442446120l/65118._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781405206129-L.jpg
   dimensions:
     height: 19.0
   goodreads: '65118'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '8'
   slug: the-hostile-hospital
-  spine_color: '#388ce3'
+  spine_color: '#378be4'
   tags:
   - ya
   title: The Hostile Hospital

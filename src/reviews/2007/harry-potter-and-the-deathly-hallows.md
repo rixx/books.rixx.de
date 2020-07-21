@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-deathly-hallows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780545010221-L.jpg
   dimensions:
     height: 24.0
     thickness: 5.1
@@ -15,7 +15,7 @@ book:
   series: Harry Potter
   series_position: '7'
   slug: harry-potter-and-the-deathly-hallows
-  spine_color: '#eea95c'
+  spine_color: '#eca658'
   tags:
   - fantasy
   - ya

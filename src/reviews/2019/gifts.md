@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: gifts.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441129920l/13648._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152051242-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: Annals of the Western Shore
   series_position: '1'
   slug: gifts
-  spine_color: '#7caca5'
+  spine_color: '#7caca4'
   tags:
   - fantasy
   title: Gifts

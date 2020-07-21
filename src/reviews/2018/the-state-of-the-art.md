@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: the-state-of-the-art.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388240598l/129131.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781597800747-L.jpg
   dimensions:
     height: 20.0
   goodreads: '129131'
@@ -13,7 +13,7 @@ book:
   series: Culture
   series_position: '4'
   slug: the-state-of-the-art
-  spine_color: '#395a8a'
+  spine_color: '#33619e'
   tags:
   - scifi
   title: The State of the Art

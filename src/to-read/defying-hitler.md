@@ -2,7 +2,7 @@
 book:
   author: Sebastian Haffner
   cover_image: defying-hitler.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439417782l/65458._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780312421137-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.2
@@ -13,7 +13,7 @@ book:
   pages: 309
   publication_year: '2000'
   slug: defying-hitler
-  spine_color: '#ce885f'
+  spine_color: '#b7743c'
   title: Defying Hitler
 plan:
   date_added: '2018-08-19'

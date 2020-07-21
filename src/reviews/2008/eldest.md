@@ -2,7 +2,7 @@
 book:
   author: Christopher Paolini
   cover_image: eldest.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387119654l/45978._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375840401-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Inheritance Cycle
   series_position: '2'
   slug: eldest
-  spine_color: '#ca4b45'
+  spine_color: '#be3c56'
   tags:
   - fantasy
   - german

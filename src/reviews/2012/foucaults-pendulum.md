@@ -2,7 +2,7 @@
 book:
   author: Umberto Eco
   cover_image: foucaults-pendulum.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396645125l/17841._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780156032971-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.3
@@ -13,7 +13,7 @@ book:
   pages: 623
   publication_year: '1988'
   slug: foucaults-pendulum
-  spine_color: '#196068'
+  spine_color: '#483928'
   tags:
   - german
   title: Foucault's Pendulum

@@ -2,7 +2,7 @@
 book:
   author: Margaret Weis
   cover_image: dragons-of-autumn-twilight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390668127l/259836._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786915743-L.jpg
   dimensions: {}
   goodreads: '259836'
   isbn10: 0786915749
@@ -12,7 +12,7 @@ book:
   series: 'Dragonlance: Chronicles'
   series_position: '1'
   slug: dragons-of-autumn-twilight
-  spine_color: '#dac8b8'
+  spine_color: '#c4aa84'
   title: Dragons of Autumn Twilight
 plan:
   date_added: '2020-05-07'

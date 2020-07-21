@@ -2,7 +2,7 @@
 book:
   author: Koushun Takami
   cover_image: battle-royale.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331235272l/57891._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781569317785-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.2
@@ -13,7 +13,7 @@ book:
   pages: 617
   publication_year: '1999'
   slug: battle-royale
-  spine_color: '#ba0606'
+  spine_color: '#bd1329'
   tags:
   - ya
   title: Battle Royale

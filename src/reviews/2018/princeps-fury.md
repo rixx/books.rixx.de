@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: princeps-fury.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315082776l/2903736._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441016389-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Codex Alera
   series_position: '5'
   slug: princeps-fury
-  spine_color: '#bbab9d'
+  spine_color: '#baaba0'
   tags:
   - fantasy
   title: Princeps' Fury

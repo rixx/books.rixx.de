@@ -2,14 +2,14 @@
 book:
   author: Neil Gaiman
   cover_image: the-sandman-the-dream-hunters.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940077l/166580._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781840232042-L.jpg
   goodreads: '166580'
   isbn10: '1840232048'
   isbn13: '9781840232042'
   pages: '128'
   publication_year: '1999'
   slug: the-sandman-the-dream-hunters
-  spine_color: '#a2694b'
+  spine_color: '#a2684a'
   tags:
   - fantasy
   title: 'The Sandman: The Dream Hunters'

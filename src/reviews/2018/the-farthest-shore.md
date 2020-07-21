@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-farthest-shore.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388200537l/13667.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416509646-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '3'
   slug: the-farthest-shore
-  spine_color: '#597b6d'
+  spine_color: '#597a6d'
   tags:
   - fantasy
   - five-stars

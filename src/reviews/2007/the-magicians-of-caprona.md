@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: the-magicians-of-caprona.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356548904l/47525._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060298784-L.jpg
   dimensions:
     height: 19.4
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Chrestomanci
   series_position: '4'
   slug: the-magicians-of-caprona
-  spine_color: '#735347'
+  spine_color: '#745345'
   tags:
   - fantasy
   - german

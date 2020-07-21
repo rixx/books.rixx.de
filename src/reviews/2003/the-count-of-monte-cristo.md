@@ -2,7 +2,7 @@
 book:
   author: Alexandre Dumas
   cover_image: the-count-of-monte-cristo.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203605l/7126._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140449266-L.jpg
   dimensions:
     height: 20.0
     thickness: 5.1
@@ -13,7 +13,7 @@ book:
   pages: 1276
   publication_year: '1844'
   slug: the-count-of-monte-cristo
-  spine_color: '#c2c1c8'
+  spine_color: '#bebdc3'
   tags:
   - five-stars
   - historical-fiction

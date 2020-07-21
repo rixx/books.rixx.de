@@ -1,8 +1,8 @@
 ---
 book:
   author: Jeanette Winterson
-  cover_image: written-on-the-body.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: written-on-the-body.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679744474-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 192
   publication_year: '1992'
   slug: written-on-the-body
-  spine_color: '#dbd3bf'
+  spine_color: '#9d7764'
   title: Written on the Body
 plan:
   date_added: 2020-06-07

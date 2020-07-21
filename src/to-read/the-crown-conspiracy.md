@@ -2,7 +2,7 @@
 book:
   author: Michael J. Sullivan
   cover_image: the-crown-conspiracy.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313141264l/4345290._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780980003437-L.jpg
   dimensions:
     height: 21.6
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: The Riyria Revelations
   series_position: '1'
   slug: the-crown-conspiracy
-  spine_color: '#9e692b'
+  spine_color: '#e6c15e'
   title: The Crown Conspiracy
 plan:
   date_added: '2018-07-04'

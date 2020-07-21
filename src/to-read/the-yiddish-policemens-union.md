@@ -2,7 +2,7 @@
 book:
   author: Michael Chabon
   cover_image: the-yiddish-policemens-union.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557172798l/16703._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007149827-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.4
@@ -13,7 +13,7 @@ book:
   pages: 432
   publication_year: '2007'
   slug: the-yiddish-policemens-union
-  spine_color: '#cc3e3b'
+  spine_color: '#b5502f'
   title: The Yiddish Policemen's Union
 plan:
   date_added: '2017-02-01'

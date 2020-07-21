@@ -2,7 +2,7 @@
 book:
   author: Richard Kadrey
   cover_image: aloha-from-hell.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302271758l/10439703._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061714320-L.jpg
   dimensions:
     height: 19.0
   goodreads: '10439703'
@@ -13,7 +13,7 @@ book:
   series: Sandman Slim
   series_position: '3'
   slug: aloha-from-hell
-  spine_color: '#d29f62'
+  spine_color: '#b73422'
   tags:
   - urban-fantasy
   title: Aloha from Hell

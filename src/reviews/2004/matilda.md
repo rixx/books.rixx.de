@@ -2,7 +2,7 @@
 book:
   author: Roald Dahl
   cover_image: matilda.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388793265l/39988.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780141301068-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   pages: 240
   publication_year: '1988'
   slug: matilda
-  spine_color: '#baae96'
+  spine_color: '#767558'
   tags:
   - german
   - kids

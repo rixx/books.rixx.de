@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-grim-grotto.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519247467l/65111._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410144-L.jpg
   dimensions:
     height: 19.0
     width: 30.0
@@ -14,7 +14,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '11'
   slug: the-grim-grotto
-  spine_color: '#ecca8b'
+  spine_color: '#dab384'
   tags:
   - ya
   title: The Grim Grotto

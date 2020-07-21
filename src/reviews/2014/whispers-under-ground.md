@@ -2,7 +2,7 @@
 book:
   author: Ben Aaronovitch
   cover_image: whispers-under-ground.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341006340l/9970042._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345524614-L.jpg
   dimensions:
     height: 22.3
   goodreads: '9970042'
@@ -13,7 +13,7 @@ book:
   series: Rivers of London
   series_position: '3'
   slug: whispers-under-ground
-  spine_color: '#7593af'
+  spine_color: '#7596b1'
   tags:
   - urban-fantasy
   title: Whispers Under Ground

@@ -2,13 +2,13 @@
 book:
   author: Klaus Kordon
   cover_image: der-erste-fruhling.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1183253683l/1394908.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783407788023-L.jpg
   goodreads: '1394908'
   isbn10: '3407788029'
   isbn13: '9783407788023'
   publication_year: '1995'
   slug: der-erste-fruhling
-  spine_color: '#bdc6a0'
+  spine_color: '#aaab7f'
   tags:
   - german
   - historical-fiction

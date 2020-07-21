@@ -2,7 +2,7 @@
 book:
   author: Jay Kristoff
   cover_image: godsgrave.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688862l/23264671._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250073037-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.9
@@ -15,7 +15,7 @@ book:
   series: The Nevernight Chronicle
   series_position: '2'
   slug: godsgrave
-  spine_color: '#32201f'
+  spine_color: '#321c25'
   tags:
   - fantasy
   title: Godsgrave

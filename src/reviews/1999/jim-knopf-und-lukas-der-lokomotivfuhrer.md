@@ -2,7 +2,7 @@
 book:
   author: Michael Ende
   cover_image: jim-knopf-und-lukas-der-lokomotivfuhrer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1184848247l/1534314.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522176507-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Jim Knopf
   series_position: '1'
   slug: jim-knopf-und-lukas-der-lokomotivfuhrer
-  spine_color: '#c4a243'
+  spine_color: '#d29a19'
   tags:
   - german
   - kids

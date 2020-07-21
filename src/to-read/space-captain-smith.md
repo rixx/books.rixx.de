@@ -2,7 +2,7 @@
 book:
   author: Toby Frost
   cover_image: space-captain-smith.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328693446l/3406753._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781905802135-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Chronicles of Isambard Smith
   series_position: '1'
   slug: space-captain-smith
-  spine_color: '#a27f60'
+  spine_color: '#fbf5ec'
   title: Space Captain Smith
 plan:
   date_added: '2018-02-19'

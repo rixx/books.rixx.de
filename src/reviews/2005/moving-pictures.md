@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: moving-pictures.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320456553l/34510._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552152945-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '10'
   slug: moving-pictures
-  spine_color: '#9a948d'
+  spine_color: '#89847c'
   title: Moving Pictures
 plan:
   date_added: '2015-04-08'

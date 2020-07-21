@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: the-shepherds-crown.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433600285l/22886868._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062429971-L.jpg
   dimensions:
     height: 20.0
   goodreads: '22886868'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '41'
   slug: the-shepherds-crown
-  spine_color: '#076086'
+  spine_color: '#046182'
   tags:
   - five-stars
   title: The Shepherd's Crown

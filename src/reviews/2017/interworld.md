@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: interworld.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777301l/47701._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061238963-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: InterWorld
   series_position: '1'
   slug: interworld
-  spine_color: '#a27a64'
+  spine_color: '#a27b64'
   tags:
   - fantasy
   title: InterWorld

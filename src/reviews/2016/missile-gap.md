@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: missile-gap.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920544l/17865.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781596060586-L.jpg
   dimensions:
     height: 22.4
     thickness: 1.4
@@ -13,7 +13,7 @@ book:
   pages: 99
   publication_year: '2006'
   slug: missile-gap
-  spine_color: '#707c7d'
+  spine_color: '#707c7e'
   tags:
   - urban-fantasy
   title: Missile Gap

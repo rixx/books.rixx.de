@@ -2,14 +2,14 @@
 book:
   author: Emmy von Rhoden
   cover_image: der-trotzkopf.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275590473l/1660707._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783401046914-L.jpg
   goodreads: '1660707'
   isbn10: '3401046918'
   isbn13: '9783401046914'
   pages: '222'
   publication_year: '1883'
   slug: der-trotzkopf
-  spine_color: '#a1ba88'
+  spine_color: '#6bc0d1'
   tags:
   - german
   - ya

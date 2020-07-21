@@ -2,14 +2,14 @@
 book:
   author: Neil Gaiman
   cover_image: odd-and-the-frost-giants.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323790894l/2108198._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780747595380-L.jpg
   goodreads: '2108198'
   isbn10: 0747595380
   isbn13: '9780747595380'
   pages: '97'
   publication_year: '2008'
   slug: odd-and-the-frost-giants
-  spine_color: '#4589a3'
+  spine_color: '#293657'
   tags:
   - fantasy
   - kids

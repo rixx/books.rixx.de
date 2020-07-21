@@ -2,7 +2,7 @@
 book:
   author: Jonathan Strahan
   cover_image: the-starry-rift-tales-of-new-tomorrows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388228056l/2509832.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670060597-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.3

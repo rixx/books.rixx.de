@@ -2,7 +2,7 @@
 book:
   author: Isaac Asimov
   cover_image: foundation.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553803716-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Foundation
   series_position: '1'
   slug: foundation
-  spine_color: '#f1791c'
+  spine_color: '#f3791d'
   title: Foundation
 plan:
   date_added: '2018-02-18'

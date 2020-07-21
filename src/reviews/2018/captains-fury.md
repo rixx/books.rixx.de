@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: captains-fury.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315083292l/346087._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441015276-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.6
@@ -15,7 +15,7 @@ book:
   series: Codex Alera
   series_position: '4'
   slug: captains-fury
-  spine_color: '#d5804d'
+  spine_color: '#d07942'
   tags:
   - fantasy
   title: Captain's Fury

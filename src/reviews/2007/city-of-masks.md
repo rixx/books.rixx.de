@@ -2,7 +2,7 @@
 book:
   author: Mary Hoffman
   cover_image: city-of-masks.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294870497l/86737._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781582349176-L.jpg
   dimensions:
     height: 19.7
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Stravaganza
   series_position: '1'
   slug: city-of-masks
-  spine_color: '#6d6596'
+  spine_color: '#6b72a3'
   tags:
   - fantasy
   - ya

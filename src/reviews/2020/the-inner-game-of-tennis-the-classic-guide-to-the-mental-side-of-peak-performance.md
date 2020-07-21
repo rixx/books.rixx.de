@@ -2,7 +2,7 @@
 book:
   author: W. Timothy Gallwey
   cover_image: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427665815l/905.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679778318-L.jpg
   dimensions:
     height: 24.0
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 134
   publication_year: '1974'
   slug: the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance
-  spine_color: '#ddc737'
+  spine_color: '#b8b660'
   tags:
   - five-stars
   - nonfiction

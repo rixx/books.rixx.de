@@ -2,7 +2,7 @@
 book:
   author: Stefan Zweig
   cover_image: the-world-of-yesterday.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347696322l/629429.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780803252240-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 461
   publication_year: '1941'
   slug: the-world-of-yesterday
-  spine_color: '#f7edaf'
+  spine_color: '#2a4367'
   tags:
   - german
   - historical-fiction

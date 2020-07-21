@@ -2,7 +2,7 @@
 book:
   author: Daniel Suarez
   cover_image: daemon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432909825l/4699575._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780525951117-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Daemon
   series_position: '1'
   slug: daemon
-  spine_color: '#7eb1c3'
+  spine_color: '#da9038'
   tags:
   - scifi
   title: Daemon

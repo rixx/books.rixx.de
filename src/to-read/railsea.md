@@ -2,7 +2,7 @@
 book:
   author: China Miéville
   cover_image: railsea.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321409808l/12392681._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345524522-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.8
@@ -13,7 +13,7 @@ book:
   pages: 424
   publication_year: '2012'
   slug: railsea
-  spine_color: '#242727'
+  spine_color: '#cac9c6'
   title: Railsea
 plan:
   date_added: '2020-05-01'

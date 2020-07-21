@@ -2,7 +2,7 @@
 book:
   author: Naomi Novik
   cover_image: his-majestys-dragon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376392909l/28876._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345481283-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Temeraire
   series_position: '1'
   slug: his-majestys-dragon
-  spine_color: '#a3201b'
+  spine_color: '#a31f1b'
   title: His Majesty's Dragon
 plan:
   date_added: '2018-07-21'

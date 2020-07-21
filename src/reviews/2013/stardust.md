@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: stardust.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459127484l/16793._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061142024-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   pages: 288
   publication_year: '1997'
   slug: stardust
-  spine_color: '#1d738e'
+  spine_color: '#a0742d'
   tags:
   - fantasy
   title: Stardust

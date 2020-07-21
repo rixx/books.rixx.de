@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: the-way-of-kings.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388184640l/7235533._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765326355-L.jpg
   dimensions:
     height: 25.0
     thickness: 5.0
@@ -15,7 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '1'
   slug: the-way-of-kings
-  spine_color: '#cc704b'
+  spine_color: '#c57048'
   tags:
   - fantasy
   title: The Way of Kings

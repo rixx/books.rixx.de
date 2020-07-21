@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: wizards-at-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361459689l/116567._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152047726-L.jpg
   dimensions:
     height: 18.0
   goodreads: '116567'
@@ -13,7 +13,7 @@ book:
   series: Young Wizards
   series_position: '8'
   slug: wizards-at-war
-  spine_color: '#a29642'
+  spine_color: '#ac953c'
   tags:
   - fantasy
   - urban-fantasy

@@ -2,7 +2,7 @@
 book:
   author: Daniel Suarez
   cover_image: influx.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408310795l/22668803._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451469441-L.jpg
   dimensions:
     height: 19.1
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 528
   publication_year: '2014'
   slug: influx
-  spine_color: '#e2bf74'
+  spine_color: '#e1c277'
   tags:
   - scifi
   title: Influx

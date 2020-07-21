@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: wyrd-sisters.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275974472l/34504._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020667-L.jpg
   dimensions:
     height: 20.0
   goodreads: '34504'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '6'
   slug: wyrd-sisters
-  spine_color: '#b4bd4a'
+  spine_color: '#8cac5e'
   title: Wyrd Sisters
 plan:
   date_added: '2015-04-08'

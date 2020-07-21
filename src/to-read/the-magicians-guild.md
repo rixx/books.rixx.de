@@ -2,7 +2,7 @@
 book:
   author: Trudi Canavan
   cover_image: the-magicians-guild.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327356788l/28249._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781841493138-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Black Magician Trilogy
   series_position: '1'
   slug: the-magicians-guild
-  spine_color: '#9f9f9e'
+  spine_color: '#999897'
   title: The Magicians' Guild
 plan:
   date_added: '2016-05-03'

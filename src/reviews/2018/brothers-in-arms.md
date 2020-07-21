@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: brothers-in-arms.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353351698l/296182._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671697990-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '5'
   slug: brothers-in-arms
-  spine_color: '#bda480'
+  spine_color: '#b79b74'
   tags:
   - scifi
   title: Brothers in Arms

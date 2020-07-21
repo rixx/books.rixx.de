@@ -2,7 +2,7 @@
 book:
   author: Hope Mirrlees
   cover_image: lud-in-the-mist.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387028171l/73574._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781593600419-L.jpg
   dimensions:
     height: 21.6
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 288
   publication_year: '1926'
   slug: lud-in-the-mist
-  spine_color: '#75788c'
+  spine_color: '#7997c0'
   tags:
   - fantasy
   title: Lud-in-the-Mist

@@ -2,7 +2,7 @@
 book:
   author: George R.R. Martin
   cover_image: a-clash-of-kings.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553381696-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '2'
   slug: a-clash-of-kings
-  spine_color: '#b88936'
+  spine_color: '#5c2971'
   tags:
   - fantasy
   title: A Clash of Kings

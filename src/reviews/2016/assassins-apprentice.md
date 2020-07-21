@@ -2,7 +2,7 @@
 book:
   author: Robin Hobb
   cover_image: assassins-apprentice.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320339497l/45107._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780006480099-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Farseer Trilogy
   series_position: '1'
   slug: assassins-apprentice
-  spine_color: '#808978'
+  spine_color: '#8d9483'
   tags:
   - fantasy
   title: Assassin's Apprentice

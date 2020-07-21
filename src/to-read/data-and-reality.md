@@ -2,7 +2,7 @@
 book:
   author: William Kent
   cover_image: data-and-reality.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349058329l/1753248.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781585009701-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 246
   publication_year: '1978'
   slug: data-and-reality
-  spine_color: '#aa9070'
+  spine_color: '#ab9171'
   title: Data and Reality
 plan:
   date_added: '2019-11-15'

@@ -2,7 +2,7 @@
 book:
   author: Alan Bennett
   cover_image: the-uncommon-reader.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064291l/1096390._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780374280963-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 120
   publication_year: '2007'
   slug: the-uncommon-reader
-  spine_color: '#f62e30'
+  spine_color: '#9d0302'
   title: The Uncommon Reader
 plan:
   date_added: '2015-06-28'

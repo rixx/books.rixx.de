@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner-und-das-gluck-der-erde.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376078649l/1738395._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791504599-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '4'
   slug: die-wilden-huhner-und-das-gluck-der-erde
-  spine_color: '#9aa082'
+  spine_color: '#90916e'
   tags:
   - german
   - kids

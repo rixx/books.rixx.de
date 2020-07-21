@@ -2,7 +2,7 @@
 book:
   author: William Nicholson
   cover_image: the-wind-singer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293635554l/295169._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786814176-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Wind on Fire
   series_position: '1'
   slug: the-wind-singer
-  spine_color: '#dfb08e'
+  spine_color: '#deab8c'
   title: The Wind Singer
 plan:
   date_added: '2019-09-29'

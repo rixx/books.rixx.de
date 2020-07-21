@@ -2,7 +2,7 @@
 book:
   author: Charlie Jane Anders
   cover_image: the-city-in-the-middle-of-the-night.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532447389l/37534907._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765379962-L.jpg
   dimensions:
     height: 24.8
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   pages: 368
   publication_year: '2019'
   slug: the-city-in-the-middle-of-the-night
-  spine_color: '#bdb4a6'
+  spine_color: '#ada398'
   title: The City in the Middle of the Night
 plan:
   date_added: '2019-07-15'

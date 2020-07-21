@@ -2,7 +2,7 @@
 book:
   author: Robert Galbraith
   cover_image: the-cuckoos-calling.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217136l/16160797._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316206846-L.jpg
   dimensions:
     height: 25.0
   goodreads: '16160797'
@@ -13,7 +13,7 @@ book:
   series: Cormoran Strike
   series_position: '1'
   slug: the-cuckoos-calling
-  spine_color: '#927258'
+  spine_color: '#3b2c1f'
   tags:
   - mystery
   title: The Cuckoo's Calling

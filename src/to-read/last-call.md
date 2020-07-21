@@ -2,7 +2,7 @@
 book:
   author: Tim Powers
   cover_image: last-call.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348846326l/209690.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780380728466-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.1
@@ -15,7 +15,7 @@ book:
   series: Fault Lines
   series_position: '1'
   slug: last-call
-  spine_color: '#ef4d4e'
+  spine_color: '#da110b'
   title: Last Call
 plan:
   date_added: '2018-11-04'

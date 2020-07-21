@@ -2,7 +2,7 @@
 book:
   author: Liu Cixin
   cover_image: the-three-body-problem.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765377067-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Remembrance of Earth’s Past
   series_position: '1'
   slug: the-three-body-problem
-  spine_color: '#c6d58d'
+  spine_color: '#c2ce83'
   tags:
   - scifi
   title: The Three-Body Problem

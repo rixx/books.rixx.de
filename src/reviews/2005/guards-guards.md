@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: guards-guards.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431127356l/64216._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020643-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '8'
   slug: guards-guards
-  spine_color: '#12a26f'
+  spine_color: '#d0db4a'
   title: Guards! Guards!
 plan:
   date_added: '2015-04-08'

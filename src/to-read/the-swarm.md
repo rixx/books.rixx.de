@@ -2,7 +2,7 @@
 book:
   author: Frank Schätzing
   cover_image: the-swarm.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442648971l/68146._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060813260-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.8
@@ -13,7 +13,7 @@ book:
   pages: 896
   publication_year: '2004'
   slug: the-swarm
-  spine_color: '#6177a6'
+  spine_color: '#6278a7'
   title: The Swarm
 plan:
   date_added: '2016-12-01'

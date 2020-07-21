@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: first-among-sequels.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338467549l/27002._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670038718-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Thursday Next
   series_position: '5'
   slug: first-among-sequels
-  spine_color: '#5a4032'
+  spine_color: '#654938'
   tags:
   - fantasy
   - german

@@ -2,7 +2,7 @@
 book:
   author: Mark  Lawrence
   cover_image: prince-of-fools.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385072473l/18693743._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780425268780-L.jpg
   goodreads: '18693743'
   isbn10: 0425268780
   isbn13: '9780425268780'
@@ -11,7 +11,7 @@ book:
   series: The Red Queen's War
   series_position: '1'
   slug: prince-of-fools
-  spine_color: '#637495'
+  spine_color: '#5b7090'
   title: Prince of Fools
 plan:
   date_added: '2019-04-04'

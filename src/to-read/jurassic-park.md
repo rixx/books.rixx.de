@@ -2,7 +2,7 @@
 book:
   author: Michael Crichton
   cover_image: jurassic-park.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371661l/6424171._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345370778-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Jurassic Park
   series_position: '1'
   slug: jurassic-park
-  spine_color: '#a32c32'
+  spine_color: '#907d6d'
   title: Jurassic Park
 plan:
   date_added: '2017-11-15'

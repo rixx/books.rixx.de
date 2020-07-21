@@ -2,7 +2,7 @@
 book:
   author: Mark Twain
   cover_image: the-adventures-of-tom-sawyer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780143039563-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 244
   publication_year: '1875'
   slug: the-adventures-of-tom-sawyer
-  spine_color: '#e0d1b4'
+  spine_color: '#5e632c'
   tags:
   - kids
   title: The Adventures of Tom Sawyer

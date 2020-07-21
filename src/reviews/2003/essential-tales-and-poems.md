@@ -2,7 +2,7 @@
 book:
   author: Edgar Allan Poe
   cover_image: essential-tales-and-poems.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753072l/32552._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781593080648-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.4
@@ -13,7 +13,7 @@ book:
   pages: 688
   publication_year: '1843'
   slug: essential-tales-and-poems
-  spine_color: '#226e6f'
+  spine_color: '#e6dace'
   tags:
   - german
   - poetry

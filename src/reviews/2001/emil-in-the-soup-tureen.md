@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: emil-in-the-soup-tureen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429953791l/224655._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670826582-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 96
   publication_year: '1963'
   slug: emil-in-the-soup-tureen
-  spine_color: '#f2de77'
+  spine_color: '#d1c140'
   tags:
   - german
   - kids

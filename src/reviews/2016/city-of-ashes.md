@@ -2,7 +2,7 @@
 book:
   author: Cassandra Clare
   cover_image: city-of-ashes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416914297-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Mortal Instruments
   series_position: '2'
   slug: city-of-ashes
-  spine_color: '#c3d2cf'
+  spine_color: '#bccccd'
   tags:
   - fantasy
   - ya

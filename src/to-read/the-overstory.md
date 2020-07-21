@@ -2,7 +2,7 @@
 book:
   author: Richard Powers
   cover_image: the-overstory.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501866666l/35187203._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780393635522-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.3
@@ -13,7 +13,7 @@ book:
   pages: 502
   publication_year: '2018'
   slug: the-overstory
-  spine_color: '#8e6124'
+  spine_color: '#a69926'
   title: The Overstory
 plan:
   date_added: '2019-02-04'

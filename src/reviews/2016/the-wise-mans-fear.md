@@ -2,7 +2,7 @@
 book:
   author: Patrick Rothfuss
   cover_image: the-wise-mans-fear.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452624392l/1215032._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756404734-L.jpg
   dimensions:
     height: 24.0
     thickness: 5.3
@@ -15,7 +15,7 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2'
   slug: the-wise-mans-fear
-  spine_color: '#4d614f'
+  spine_color: '#b0b8b4'
   tags:
   - fantasy
   title: The Wise Man's Fear

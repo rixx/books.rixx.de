@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-telling.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309203290l/59921._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441011230-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: Hainish Cycle
   series_position: '8'
   slug: the-telling
-  spine_color: '#d0b783'
+  spine_color: '#cfb682'
   tags:
   - scifi
   title: The Telling

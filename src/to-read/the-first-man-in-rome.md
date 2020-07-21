@@ -2,7 +2,7 @@
 book:
   author: Colleen McCullough
   cover_image: the-first-man-in-rome.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211466l/480570.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780380710812-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Masters of Rome
   series_position: '1'
   slug: the-first-man-in-rome
-  spine_color: '#da765f'
+  spine_color: '#a22311'
   tags:
   - historical-fiction
   title: The First Man in Rome

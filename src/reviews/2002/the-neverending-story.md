@@ -2,7 +2,7 @@
 book:
   author: Michael Ende
   cover_image: the-neverending-story.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554230952l/27712._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780525457589-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.4
@@ -13,7 +13,7 @@ book:
   pages: 396
   publication_year: '1979'
   slug: the-neverending-story
-  spine_color: '#ab8053'
+  spine_color: '#9a6435'
   tags:
   - fantasy
   - five-stars

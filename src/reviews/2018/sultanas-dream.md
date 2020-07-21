@@ -2,7 +2,7 @@
 book:
   author: Rokeya Sakhawat Hossain
   cover_image: sultanas-dream.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347624935l/948061.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9788186211830-L.jpg
   dimensions:
     height: 28.0
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 64
   publication_year: '1905'
   slug: sultanas-dream
-  spine_color: '#8d0405'
+  spine_color: '#8c0505'
   tags:
   - scifi
   title: Sultana's Dream

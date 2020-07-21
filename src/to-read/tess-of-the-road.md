@@ -2,7 +2,7 @@
 book:
   author: Rachel Hartman
   cover_image: tess-of-the-road.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503599285l/35046472._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781101931288-L.jpg
   goodreads: '35046472'
   isbn10: '1101931280'
   isbn13: '9781101931288'
@@ -11,7 +11,7 @@ book:
   series: Tess of the Road
   series_position: '1'
   slug: tess-of-the-road
-  spine_color: '#5a6978'
+  spine_color: '#4a6877'
   title: Tess of the Road
 plan:
   date_added: '2019-01-14'

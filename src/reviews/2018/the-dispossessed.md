@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-dispossessed.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353467455l/13651._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061054884-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 400
   publication_year: '1974'
   slug: the-dispossessed
-  spine_color: '#e51f34'
+  spine_color: '#e71e32'
   tags:
   - five-stars
   - scifi

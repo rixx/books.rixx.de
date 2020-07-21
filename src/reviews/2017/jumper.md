@@ -2,7 +2,7 @@
 book:
   author: Steven Gould
   cover_image: jumper.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304981770l/47970._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765342287-L.jpg
   dimensions:
     height: 19.2
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Jumper
   series_position: '1'
   slug: jumper
-  spine_color: '#655982'
+  spine_color: '#645985'
   tags:
   - scifi
   title: Jumper

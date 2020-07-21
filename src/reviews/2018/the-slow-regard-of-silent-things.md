@@ -2,7 +2,7 @@
 book:
   author: Patrick Rothfuss
   cover_image: the-slow-regard-of-silent-things.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466695l/21535271._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756410438-L.jpg
   dimensions:
     height: 24.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: The Kingkiller Chronicle
   series_position: '2.5'
   slug: the-slow-regard-of-silent-things
-  spine_color: '#134d69'
+  spine_color: '#155371'
   tags:
   - fantasy
   title: The Slow Regard of Silent Things

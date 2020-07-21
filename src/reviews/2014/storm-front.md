@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: storm-front.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572991273l/47212._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451457813-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '1'
   slug: storm-front
-  spine_color: '#b9576f'
+  spine_color: '#312b49'
   tags:
   - urban-fantasy
   title: Storm Front

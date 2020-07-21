@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: alcatraz-versus-the-evil-librarians.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332516621l/623976._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439925501-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Alcatraz
   series_position: '1'
   slug: alcatraz-versus-the-evil-librarians
-  spine_color: '#a05d3a'
+  spine_color: '#9d5736'
   tags:
   - ya
   title: Alcatraz Versus the Evil Librarians

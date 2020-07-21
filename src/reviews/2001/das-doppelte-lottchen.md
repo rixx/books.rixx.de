@@ -2,7 +2,7 @@
 book:
   author: Erich Kästner
   cover_image: das-doppelte-lottchen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380821301l/887010._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791530116-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.2
@@ -13,7 +13,7 @@ book:
   pages: 176
   publication_year: '1949'
   slug: das-doppelte-lottchen
-  spine_color: '#f6e50f'
+  spine_color: '#f3e216'
   tags:
   - german
   - kids

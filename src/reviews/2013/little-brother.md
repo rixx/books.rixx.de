@@ -2,7 +2,7 @@
 book:
   author: Cory Doctorow
   cover_image: little-brother.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765319852-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Little Brother
   series_position: '1'
   slug: little-brother
-  spine_color: '#a76567'
+  spine_color: '#a65f60'
   tags:
   - scifi
   - ya

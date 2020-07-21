@@ -2,7 +2,7 @@
 book:
   author: Zen Cho
   cover_image: sorcerer-to-the-crown.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430239646l/23943137._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780425283370-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Sorcerer Royal
   series_position: '1'
   slug: sorcerer-to-the-crown
-  spine_color: '#8d2422'
+  spine_color: '#8b211f'
   tags:
   - fantasy
   title: Sorcerer to the Crown

@@ -2,7 +2,7 @@
 book:
   author: Jonathan Stroud
   cover_image: the-amulet-of-samarkand.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347312184l/59267.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552550291-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.1
@@ -15,7 +15,7 @@ book:
   series: Bartimaeus
   series_position: '1'
   slug: the-amulet-of-samarkand
-  spine_color: '#d0c3ab'
+  spine_color: '#ccbc9e'
   tags:
   - fantasy
   - german

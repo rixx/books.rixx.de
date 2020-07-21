@@ -2,7 +2,7 @@
 book:
   author: Douglas Adams
   cover_image: life-the-universe-and-everything.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577589l/8694._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345418906-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.3
@@ -15,7 +15,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '3'
   slug: life-the-universe-and-everything
-  spine_color: '#80784e'
+  spine_color: '#774047'
   tags:
   - german
   - scifi

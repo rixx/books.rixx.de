@@ -2,7 +2,7 @@
 book:
   author: Ray Bradbury
   cover_image: the-martian-chronicles.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374049948l/76778._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553278224-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 182
   publication_year: '1949'
   slug: the-martian-chronicles
-  spine_color: '#66c0eb'
+  spine_color: '#66bfea'
   title: The Martian Chronicles
 plan:
   date_added: '2018-07-23'

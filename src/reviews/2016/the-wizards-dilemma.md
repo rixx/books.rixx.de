@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: the-wizards-dilemma.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924459l/116561.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152054915-L.jpg
   dimensions:
     height: 18.0
   goodreads: '116561'
@@ -13,7 +13,7 @@ book:
   series: Young Wizards
   series_position: '5'
   slug: the-wizards-dilemma
-  spine_color: '#6589b0'
+  spine_color: '#18729c'
   tags:
   - fantasy
   - urban-fantasy

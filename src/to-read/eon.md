@@ -2,7 +2,7 @@
 book:
   author: Greg Bear
   cover_image: eon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388288738l/840278.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812520477-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.6
@@ -15,7 +15,7 @@ book:
   series: The Way
   series_position: '1'
   slug: eon
-  spine_color: '#a6b5c5'
+  spine_color: '#b5c1cb'
   title: Eon
 plan:
   date_added: '2018-08-28'

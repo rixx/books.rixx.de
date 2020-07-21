@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-wide-window.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518654331l/438492._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064407687-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '3'
   slug: the-wide-window
-  spine_color: '#eed999'
+  spine_color: '#ebd494'
   tags:
   - ya
   title: The Wide Window

@@ -2,7 +2,7 @@
 book:
   author: China Miéville
   cover_image: the-city-the-city.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320475957l/4703581._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345497512-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   pages: 312
   publication_year: '2009'
   slug: the-city-the-city
-  spine_color: '#729acd'
+  spine_color: '#6686c1'
   tags:
   - fantasy
   title: The City & the City

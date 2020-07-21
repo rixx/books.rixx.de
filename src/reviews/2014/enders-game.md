@@ -2,7 +2,7 @@
 book:
   author: Orson Scott Card
   cover_image: enders-game.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812550702-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Ender’s Saga
   series_position: '1'
   slug: enders-game
-  spine_color: '#4c5559'
+  spine_color: '#4c5a67'
   tags:
   - scifi
   title: Ender’s Game

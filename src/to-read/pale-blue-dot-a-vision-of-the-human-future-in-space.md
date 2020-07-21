@@ -2,7 +2,7 @@
 book:
   author: Carl Sagan
   cover_image: pale-blue-dot-a-vision-of-the-human-future-in-space.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500191671l/61663._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345376596-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   pages: 384
   publication_year: '1994'
   slug: pale-blue-dot-a-vision-of-the-human-future-in-space
-  spine_color: '#925a49'
+  spine_color: '#73321a'
   title: 'Pale Blue Dot: A Vision of the Human Future in Space'
 plan:
   date_added: '2017-02-01'

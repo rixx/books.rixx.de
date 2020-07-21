@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-order-of-the-phoenix.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439358071-L.jpg
   dimensions:
     height: 24.0
     thickness: 5.1
@@ -15,7 +15,7 @@ book:
   series: Harry Potter
   series_position: '5'
   slug: harry-potter-and-the-order-of-the-phoenix
-  spine_color: '#1f78ac'
+  spine_color: '#528bdf'
   tags:
   - fantasy
   - german

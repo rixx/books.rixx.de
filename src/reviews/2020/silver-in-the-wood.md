@@ -2,7 +2,7 @@
 book:
   author: Emily Tesh
   cover_image: silver-in-the-wood.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547478093l/43459657._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250229793-L.jpg
   dimensions:
     height: 20.3
     thickness: 0.8
@@ -15,7 +15,7 @@ book:
   series: The Greenhollow Duology
   series_position: '1'
   slug: silver-in-the-wood
-  spine_color: '#4e4733'
+  spine_color: '#76694b'
   tags:
   - fantasy
   - romance

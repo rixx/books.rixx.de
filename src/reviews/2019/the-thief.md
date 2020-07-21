@@ -2,7 +2,7 @@
 book:
   author: Megan Whalen Turner
   cover_image: the-thief.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427740839l/448873.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060824976-L.jpg
   goodreads: '448873'
   isbn10: 0060824972
   isbn13: '9780060824976'
@@ -11,7 +11,7 @@ book:
   series: The Queen's Thief
   series_position: '1'
   slug: the-thief
-  spine_color: '#76655e'
+  spine_color: '#786c63'
   tags:
   - fantasy
   title: The Thief

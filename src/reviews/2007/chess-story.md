@@ -2,7 +2,7 @@
 book:
   author: Stefan Zweig
   cover_image: chess-story.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924796l/59151.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781590171691-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.7
@@ -13,7 +13,7 @@ book:
   pages: 104
   publication_year: '1942'
   slug: chess-story
-  spine_color: '#714f38'
+  spine_color: '#79674e'
   tags:
   - german
   title: Chess Story

@@ -2,7 +2,7 @@
 book:
   author: Thomas Mann
   cover_image: the-magic-mountain.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403170928l/88077._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679772873-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.2
@@ -13,7 +13,7 @@ book:
   pages: 706
   publication_year: '1924'
   slug: the-magic-mountain
-  spine_color: '#c1ae90'
+  spine_color: '#c2ae8e'
   tags:
   - german
   title: The Magic Mountain

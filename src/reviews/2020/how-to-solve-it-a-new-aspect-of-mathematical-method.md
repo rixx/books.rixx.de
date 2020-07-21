@@ -2,7 +2,7 @@
 book:
   author: George Pólya
   cover_image: how-to-solve-it-a-new-aspect-of-mathematical-method.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349052024l/192221.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780691119663-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.1
@@ -13,7 +13,7 @@ book:
   pages: 288
   publication_year: '1944'
   slug: how-to-solve-it-a-new-aspect-of-mathematical-method
-  spine_color: '#6f4bd6'
+  spine_color: '#704bd5'
   tags:
   - nonfiction
   - tech

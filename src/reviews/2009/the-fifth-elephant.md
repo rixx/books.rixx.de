@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: the-fifth-elephant.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327961702l/63720._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154222-L.jpg
   dimensions:
     height: 20.0
   goodreads: '63720'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '24'
   slug: the-fifth-elephant
-  spine_color: '#908864'
+  spine_color: '#847262'
   title: The Fifth Elephant
 plan:
   date_added: '2015-04-08'

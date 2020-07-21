@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: furies-of-calderon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329104514l/29396._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441012688-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Codex Alera
   series_position: '1'
   slug: furies-of-calderon
-  spine_color: '#212f4c'
+  spine_color: '#afa1c3'
   tags:
   - fantasy
   title: Furies of Calderon

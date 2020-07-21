@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: the-abc-murders.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733983l/16322.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126247-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Hercule Poirot
   series_position: '13'
   slug: the-abc-murders
-  spine_color: '#2a56c3'
+  spine_color: '#0879af'
   title: The ABC Murders
 plan:
   date_added: 2020-06-21

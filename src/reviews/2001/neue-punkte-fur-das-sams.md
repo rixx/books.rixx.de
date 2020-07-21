@@ -2,7 +2,7 @@
 book:
   author: Paul Maar
   cover_image: neue-punkte-fur-das-sams.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350574588l/782796._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789142048-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Sams
   series_position: '3'
   slug: neue-punkte-fur-das-sams
-  spine_color: '#9ea73a'
+  spine_color: '#a0a732'
   tags:
   - german
   - kids

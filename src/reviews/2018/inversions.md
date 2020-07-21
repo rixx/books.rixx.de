@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: inversions.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930844l/12017._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743411967-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Culture
   series_position: '6'
   slug: inversions
-  spine_color: '#cebfc4'
+  spine_color: '#ccb9a9'
   tags:
   - scifi
   title: Inversions

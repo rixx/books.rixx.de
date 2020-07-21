@@ -2,7 +2,7 @@
 book:
   author: Brian Selznick
   cover_image: the-invention-of-hugo-cabret.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422312376l/9673436._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439813785-L.jpg
   dimensions:
     height: 22.0
     thickness: 5.2
@@ -13,7 +13,7 @@ book:
   pages: 533
   publication_year: '2007'
   slug: the-invention-of-hugo-cabret
-  spine_color: '#147fc4'
+  spine_color: '#127bb5'
   title: The Invention of Hugo Cabret
 plan:
   date_added: '2016-05-19'

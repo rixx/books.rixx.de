@@ -2,7 +2,7 @@
 book:
   author: David Louis Edelman
   cover_image: infoquake.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437352721l/959166._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781591024422-L.jpg
   goodreads: '959166'
   isbn10: '1591024420'
   isbn13: '9781591024422'
@@ -11,7 +11,7 @@ book:
   series: Jump 225
   series_position: '1'
   slug: infoquake
-  spine_color: '#166382'
+  spine_color: '#226369'
   tags:
   - scifi
   title: Infoquake

@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-miserable-mill.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352146209l/65119._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439272636-L.jpg
   dimensions:
     height: 19.0
   goodreads: '65119'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '4'
   slug: the-miserable-mill
-  spine_color: '#edce98'
+  spine_color: '#bfac86'
   tags:
   - ya
   title: The Miserable Mill

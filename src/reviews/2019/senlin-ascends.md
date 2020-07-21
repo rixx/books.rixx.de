@@ -2,7 +2,7 @@
 book:
   author: Josiah Bancroft
   cover_image: senlin-ascends.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502224161l/35271523._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316517911-L.jpg
   dimensions:
     height: 18
   goodreads: '35271523'
@@ -13,7 +13,7 @@ book:
   series: The Books of Babel
   series_position: '1'
   slug: senlin-ascends
-  spine_color: '#422121'
+  spine_color: '#462221'
   tags:
   - fantasy
   title: Senlin Ascends

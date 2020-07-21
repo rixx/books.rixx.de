@@ -2,7 +2,7 @@
 book:
   author: Brent Weeks
   cover_image: beyond-the-shadows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881432l/3754026._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033664-L.jpg
   dimensions:
     height: 18.0
     thickness: 4.1
@@ -15,7 +15,7 @@ book:
   series: Night Angel
   series_position: '3'
   slug: beyond-the-shadows
-  spine_color: '#738480'
+  spine_color: '#829592'
   tags:
   - fantasy
   title: Beyond the Shadows

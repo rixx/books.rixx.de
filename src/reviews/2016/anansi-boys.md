@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: anansi-boys.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479778049l/2744._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060515195-L.jpg
   dimensions:
     height: 17.1
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: American Gods
   series_position: '2'
   slug: anansi-boys
-  spine_color: '#e1d5a5'
+  spine_color: '#e9c78c'
   tags:
   - fantasy
   title: Anansi Boys

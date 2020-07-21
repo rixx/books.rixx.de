@@ -1,8 +1,8 @@
 ---
 book:
   author: Thomas C. Schelling
-  cover_image: the-strategy-of-conflict-with-a-new-preface-by-the-author.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: the-strategy-of-conflict.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780674840317-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.2
@@ -13,7 +13,7 @@ book:
   pages: 328
   publication_year: '1960'
   slug: the-strategy-of-conflict
-  spine_color: '#dbd3bf'
+  spine_color: '#f4e927'
   title: The Strategy of Conflict
 plan:
   date_added: 2020-06-06

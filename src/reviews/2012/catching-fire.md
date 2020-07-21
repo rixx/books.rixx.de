@@ -2,7 +2,7 @@
 book:
   author: Suzanne Collins
   cover_image: catching-fire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439023498-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: The Hunger Games
   series_position: '2'
   slug: catching-fire
-  spine_color: '#c14f2c'
+  spine_color: '#552620'
   tags:
   - ya
   title: Catching Fire

@@ -2,7 +2,7 @@
 book:
   author: China Miéville
   cover_image: the-scar.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320435192l/68497._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345460011-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: New Crobuzon
   series_position: '2'
   slug: the-scar
-  spine_color: '#c7d05f'
+  spine_color: '#c6ce5a'
   tags:
   - fantasy
   title: The Scar

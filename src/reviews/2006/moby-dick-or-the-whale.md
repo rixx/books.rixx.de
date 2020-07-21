@@ -2,7 +2,7 @@
 book:
   author: Herman Melville
   cover_image: moby-dick-or-the-whale.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656l/153747._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142437247-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   pages: 654
   publication_year: '1851'
   slug: moby-dick-or-the-whale
-  spine_color: '#726e43'
+  spine_color: '#706c42'
   title: Moby-Dick or, the Whale
 plan:
   date_added: '2015-04-08'

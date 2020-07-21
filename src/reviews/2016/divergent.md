@@ -2,7 +2,7 @@
 book:
   author: Veronica Roth
   cover_image: divergent.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588455221l/13335037._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062024039-L.jpg
   dimensions:
     height: 20.3
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Divergent
   series_position: '1'
   slug: divergent
-  spine_color: '#dbc991'
+  spine_color: '#dbc187'
   tags:
   - fantasy
   - ya

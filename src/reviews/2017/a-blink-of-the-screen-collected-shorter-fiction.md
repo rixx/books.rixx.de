@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: a-blink-of-the-screen-collected-shorter-fiction.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767740l/13536811._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385618984-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   pages: 320
   publication_year: '2012'
   slug: a-blink-of-the-screen-collected-shorter-fiction
-  spine_color: '#8e8266'
+  spine_color: '#9d987b'
   tags:
   - fantasy
   - five-stars

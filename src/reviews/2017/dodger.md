@@ -2,14 +2,14 @@
 book:
   author: Terry Pratchett
   cover_image: dodger.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343828971l/13516846._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062009494-L.jpg
   goodreads: '13516846'
   isbn10: 0062009494
   isbn13: '9780062009494'
   pages: '360'
   publication_year: '2012'
   slug: dodger
-  spine_color: '#e4cb8d'
+  spine_color: '#d5b883'
   tags:
   - historical-fiction
   title: Dodger

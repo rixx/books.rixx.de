@@ -2,7 +2,7 @@
 book:
   author: Ann Leckie
   cover_image: ancillary-sword.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413464739l/20706284._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316246651-L.jpg
   dimensions:
     height: 19.8
   goodreads: '20706284'
@@ -13,7 +13,7 @@ book:
   series: Imperial Radch
   series_position: '2'
   slug: ancillary-sword
-  spine_color: '#7c7264'
+  spine_color: '#cc4327'
   tags:
   - five-stars
   - scifi

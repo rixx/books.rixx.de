@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: coraline.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061139376-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.1
@@ -13,7 +13,7 @@ book:
   pages: 192
   publication_year: '2002'
   slug: coraline
-  spine_color: '#3d3d3d'
+  spine_color: '#666261'
   tags:
   - fantasy
   - five-stars

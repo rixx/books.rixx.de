@@ -2,7 +2,7 @@
 book:
   author: Peter V. Brett
   cover_image: the-painted-man.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217594228l/3322866.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007287758-L.jpg
   dimensions:
     height: 25.0
   goodreads: '3322866'
@@ -13,7 +13,7 @@ book:
   series: Demon Cycle
   series_position: '1'
   slug: the-painted-man
-  spine_color: '#bc6e42'
+  spine_color: '#bc6d43'
   tags:
   - fantasy
   title: The Painted Man

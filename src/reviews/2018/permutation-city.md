@@ -2,7 +2,7 @@
 book:
   author: Greg Egan
   cover_image: permutation-city.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341300l/156784._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061054815-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Subjective Cosmology
   series_position: '2'
   slug: permutation-city
-  spine_color: '#e6c378'
+  spine_color: '#e5c261'
   tags:
   - scifi
   title: Permutation City

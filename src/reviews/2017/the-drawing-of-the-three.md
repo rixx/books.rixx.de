@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: the-drawing-of-the-three.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451210852-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: The Dark Tower
   series_position: '2'
   slug: the-drawing-of-the-three
-  spine_color: '#ac664d'
+  spine_color: '#8b584a'
   tags:
   - fantasy
   title: The Drawing of the Three

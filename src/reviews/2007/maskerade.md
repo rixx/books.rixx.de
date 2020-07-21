@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: maskerade.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170961678l/78876._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575058088-L.jpg
   dimensions:
     height: 20.0
   goodreads: '78876'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '18'
   slug: maskerade
-  spine_color: '#c79a5d'
+  spine_color: '#c6985d'
   title: Maskerade
 plan:
   date_added: '2015-04-08'

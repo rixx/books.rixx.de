@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: the-well-of-lost-plots.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304713470l/27001._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780143034353-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Thursday Next
   series_position: '3'
   slug: the-well-of-lost-plots
-  spine_color: '#a0bdde'
+  spine_color: '#92a8da'
   tags:
   - fantasy
   - german

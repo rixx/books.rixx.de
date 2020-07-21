@@ -2,7 +2,7 @@
 book:
   author: Frank Herbert
   cover_image: dune.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434908555l/234225._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780340839935-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.9
@@ -15,7 +15,7 @@ book:
   series: Dune Chronicles
   series_position: '1'
   slug: dune
-  spine_color: '#5a4f23'
+  spine_color: '#554c23'
   tags:
   - scifi
   - space-monks

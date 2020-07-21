@@ -2,7 +2,7 @@
 book:
   author: Klaus Kordon
   cover_image: ein-trummersommer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267416143l/2978113.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783407784322-L.jpg
   dimensions:
     height: 19.0
   goodreads: '2978113'
@@ -11,7 +11,7 @@ book:
   pages: 199
   publication_year: '1982'
   slug: ein-trummersommer
-  spine_color: '#1764a2'
+  spine_color: '#aa4535'
   tags:
   - german
   - historical-fiction

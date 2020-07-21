@@ -2,7 +2,7 @@
 book:
   author: Vaclav Smil
   cover_image: energy-and-civilization-a-history.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488952920l/31850765._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780262035774-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.0
@@ -13,7 +13,7 @@ book:
   pages: 568
   publication_year: '2017'
   slug: energy-and-civilization-a-history
-  spine_color: '#bcc4a8'
+  spine_color: '#a18e71'
   title: 'Energy and Civilization: A History'
 plan:
   date_added: '2018-08-07'

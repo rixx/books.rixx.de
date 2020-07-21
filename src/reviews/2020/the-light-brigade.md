@@ -2,7 +2,7 @@
 book:
   author: Kameron Hurley
   cover_image: the-light-brigade.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537977912l/40523931._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781481447966-L.jpg
   dimensions:
     height: 22.9
     thickness: 3.6
@@ -13,7 +13,7 @@ book:
   pages: 368
   publication_year: '2019'
   slug: the-light-brigade
-  spine_color: '#22c2b5'
+  spine_color: '#24c0b4'
   tags:
   - fantasy
   title: The Light Brigade

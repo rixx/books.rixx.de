@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: dead-beat.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667776l/17683._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451460912-L.jpg
   dimensions:
     height: 20.0
   goodreads: '17683'
@@ -13,7 +13,7 @@ book:
   series: The Dresden Files
   series_position: '7'
   slug: dead-beat
-  spine_color: '#53646e'
+  spine_color: '#4c5d65'
   tags:
   - urban-fantasy
   title: Dead Beat

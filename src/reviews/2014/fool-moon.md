@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: fool-moon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307616l/91477._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451458124-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '2'
   slug: fool-moon
-  spine_color: '#3d4f64'
+  spine_color: '#9bb1d3'
   tags:
   - urban-fantasy
   title: Fool Moon

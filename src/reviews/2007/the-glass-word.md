@@ -2,7 +2,7 @@
 book:
   author: Kai Meyer
   cover_image: the-glass-word.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391914742l/937003.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780689877919-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Dark Reflections
   series_position: '3'
   slug: the-glass-word
-  spine_color: '#a38c38'
+  spine_color: '#ac894f'
   tags:
   - fantasy
   - german

@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174151858l/366121._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791504452-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '1'
   slug: die-wilden-huhner
-  spine_color: '#efbf15'
+  spine_color: '#eebe15'
   tags:
   - german
   - kids

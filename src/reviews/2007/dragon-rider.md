@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: dragon-rider.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328004947l/100464._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781904442486-L.jpg
   dimensions:
     height: 19.8
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Dragon Rider
   series_position: '1'
   slug: dragon-rider
-  spine_color: '#1f3c77'
+  spine_color: '#262d4f'
   tags:
   - fantasy
   - german

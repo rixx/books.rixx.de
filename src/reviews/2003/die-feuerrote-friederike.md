@@ -2,13 +2,13 @@
 book:
   author: Christine Nöstlinger
   cover_image: die-feuerrote-friederike.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327346583l/296394._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423071338-L.jpg
   goodreads: '296394'
   isbn10: '3423071338'
   isbn13: '9783423071338'
   publication_year: '1970'
   slug: die-feuerrote-friederike
-  spine_color: '#b33a46'
+  spine_color: '#a0484c'
   tags:
   - german
   - kids

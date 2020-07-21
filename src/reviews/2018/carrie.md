@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: carrie.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166254258l/10592._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416524304-L.jpg
   dimensions:
     height: 18.0
   goodreads: '10592'
@@ -11,7 +11,7 @@ book:
   pages: 290
   publication_year: '1974'
   slug: carrie
-  spine_color: '#c63e34'
+  spine_color: '#e82118'
   title: Carrie
 plan:
   date_added: '2018-05-31'

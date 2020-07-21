@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-ersatz-elevator.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514267383l/172327._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060566210-L.jpg
   dimensions:
     height: 19.0
   goodreads: '172327'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '6'
   slug: the-ersatz-elevator
-  spine_color: '#c57064'
+  spine_color: '#995041'
   tags:
   - ya
   title: The Ersatz Elevator

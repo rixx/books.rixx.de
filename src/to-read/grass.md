@@ -2,7 +2,7 @@
 book:
   author: Sheri S. Tepper
   cover_image: grass.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348772895l/104342.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781857987980-L.jpg
   goodreads: '104342'
   isbn10: '1857987985'
   isbn13: '9781857987980'
@@ -11,7 +11,7 @@ book:
   series: Arbai
   series_position: '1'
   slug: grass
-  spine_color: '#c0c4b9'
+  spine_color: '#7a8576'
   title: Grass
 plan:
   date_added: '2019-01-28'

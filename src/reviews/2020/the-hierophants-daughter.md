@@ -2,7 +2,7 @@
 book:
   author: M.F. Sullivan
   cover_image: the-hierophants-daughter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546783070l/43065199._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780996539579-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.7
@@ -13,7 +13,7 @@ book:
   pages: 298
   publication_year: '2019'
   slug: the-hierophants-daughter
-  spine_color: '#cad2d4'
+  spine_color: '#c1cbd1'
   tags:
   - scifi
   title: The Hierophant's Daughter

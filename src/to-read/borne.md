@@ -2,7 +2,7 @@
 book:
   author: Jeff VanderMeer
   cover_image: borne.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477487850l/31451186._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780374115241-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Borne
   series_position: '1'
   slug: borne
-  spine_color: '#c8f6eb'
+  spine_color: '#a29d76'
   title: Borne
 plan:
   date_added: '2018-07-31'

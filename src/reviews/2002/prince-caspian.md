@@ -2,7 +2,7 @@
 book:
   author: C.S. Lewis
   cover_image: prince-caspian.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814880l/121749._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007202300-L.jpg
   dimensions:
     height: 20.0
     width: 13.0
@@ -14,7 +14,7 @@ book:
   series: Chronicles of Narnia
   series_position: '2'
   slug: prince-caspian
-  spine_color: '#b5af85'
+  spine_color: '#b2a97d'
   tags:
   - fantasy
   - german

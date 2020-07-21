@@ -2,7 +2,7 @@
 book:
   author: Robert Jordan
   cover_image: the-eye-of-the-world.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337818095l/228665._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812511819-L.jpg
   goodreads: '228665'
   isbn10: 0812511816
   isbn13: '9780812511819'
@@ -11,7 +11,7 @@ book:
   series: The Wheel of Time
   series_position: '1'
   slug: the-eye-of-the-world
-  spine_color: '#44557c'
+  spine_color: '#dee1c0'
   tags:
   - fantasy
   title: The Eye of the World

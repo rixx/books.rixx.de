@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: thief-of-time.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388177603l/48002.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061031328-L.jpg
   dimensions:
     height: 20.0
   goodreads: '48002'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '26'
   slug: thief-of-time
-  spine_color: '#a7614a'
+  spine_color: '#b37e48'
   title: Thief of Time
 plan:
   date_added: '2015-04-08'

@@ -2,7 +2,7 @@
 book:
   author: Rick Riordan
   cover_image: the-lightning-thief.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609l/28187._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786838653-L.jpg
   goodreads: '28187'
   isbn10: 0786838655
   isbn13: '9780786838653'
@@ -11,7 +11,7 @@ book:
   series: Percy Jackson and the Olympians
   series_position: '1'
   slug: the-lightning-thief
-  spine_color: '#134642'
+  spine_color: '#3d8975'
   tags:
   - fantasy
   - myths-legends

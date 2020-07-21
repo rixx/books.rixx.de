@@ -2,7 +2,7 @@
 book:
   author: Conor Kostick
   cover_image: epic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546094126l/1003985._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670061792-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Epic
   series_position: '1'
   slug: epic
-  spine_color: '#6f614a'
+  spine_color: '#6f6149'
   tags:
   - fantasy
   - scifi

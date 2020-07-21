@@ -2,7 +2,7 @@
 book:
   author: Patrick Süskind
   cover_image: perfume-the-story-of-a-murderer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409112276l/343._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140120837-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.1
@@ -13,7 +13,7 @@ book:
   pages: 263
   publication_year: '1985'
   slug: perfume-the-story-of-a-murderer
-  spine_color: '#f1c067'
+  spine_color: '#e0c972'
   tags:
   - german
   - historical-fiction

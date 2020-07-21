@@ -2,7 +2,7 @@
 book:
   author: Wolfgang Borchert
   cover_image: draussen-vor-der-tur.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412606809l/484436.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783499101700-L.jpg
   dimensions:
     height: 19.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 120
   publication_year: '1947'
   slug: draussen-vor-der-tur
-  spine_color: '#848d9b'
+  spine_color: '#e5dab7'
   tags:
   - german
   title: Draußen vor der Tür

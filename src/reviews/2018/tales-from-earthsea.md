@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: tales-from-earthsea.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309202073l/13659._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441011247-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '5'
   slug: tales-from-earthsea
-  spine_color: '#4562ab'
+  spine_color: '#5764a3'
   tags:
   - fantasy
   title: Tales from Earthsea

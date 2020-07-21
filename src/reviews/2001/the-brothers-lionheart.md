@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: the-brothers-lionheart.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388269738l/19312.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781930900240-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.3
@@ -13,7 +13,7 @@ book:
   pages: 231
   publication_year: '1973'
   slug: the-brothers-lionheart
-  spine_color: '#94c2cb'
+  spine_color: '#93c2cb'
   tags:
   - five-stars
   - german

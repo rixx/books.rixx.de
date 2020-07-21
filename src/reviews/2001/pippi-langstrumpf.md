@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: pippi-langstrumpf.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652364l/942326._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789141614-L.jpg
   dimensions:
     height: 25.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   pages: 140
   publication_year: '1945'
   slug: pippi-langstrumpf
-  spine_color: '#147ce6'
+  spine_color: '#c87431'
   tags:
   - german
   - kids

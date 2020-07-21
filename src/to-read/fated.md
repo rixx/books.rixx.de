@@ -2,7 +2,7 @@
 book:
   author: Benedict Jacka
   cover_image: fated.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330906653l/11737387._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781937007294-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: Alex Verus
   series_position: '1'
   slug: fated
-  spine_color: '#c35e28'
+  spine_color: '#bf5d28'
   title: Fated
 plan:
   date_added: '2018-10-07'

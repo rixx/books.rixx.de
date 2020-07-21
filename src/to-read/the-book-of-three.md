@@ -2,7 +2,7 @@
 book:
   author: Lloyd Alexander
   cover_image: the-book-of-three.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405184012l/24780._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780805080483-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.5
@@ -15,7 +15,7 @@ book:
   series: The Chronicles of Prydain
   series_position: '1'
   slug: the-book-of-three
-  spine_color: '#a32c31'
+  spine_color: '#a92b34'
   title: The Book of Three
 plan:
   date_added: '2019-02-19'

@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: wolves-of-the-calla.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419360231l/4978._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416516934-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Dark Tower
   series_position: '5'
   slug: wolves-of-the-calla
-  spine_color: '#9f7d43'
+  spine_color: '#a88e52'
   tags:
   - fantasy
   - five-stars

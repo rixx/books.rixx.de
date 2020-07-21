@@ -2,7 +2,7 @@
 book:
   author: Walter Moers
   cover_image: das-labyrinth-der-traumenden-bucher.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328007670l/11177312._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783813503937-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Zamonien
   series_position: '6'
   slug: das-labyrinth-der-traumenden-bucher
-  spine_color: '#c09e5b'
+  spine_color: '#bf9f45'
   tags:
   - fantasy
   - german

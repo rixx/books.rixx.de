@@ -2,7 +2,7 @@
 book:
   author: Martha Wells
   cover_image: all-systems-red.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484171189l/32758901._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765397522-L.jpg
   dimensions:
     height: 21.0
   goodreads: '32758901'
@@ -12,7 +12,7 @@ book:
   series: The Murderbot Diaries
   series_position: '1'
   slug: all-systems-red
-  spine_color: '#515b54'
+  spine_color: '#4f5b55'
   tags:
   - scifi
   title: All Systems Red

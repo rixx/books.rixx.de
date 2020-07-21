@@ -2,7 +2,7 @@
 book:
   author: Klaus Kordon
   cover_image: mit-dem-rucken-zur-wand.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188756713l/1817446._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783407789228-L.jpg
   dimensions:
     height: 19.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   pages: 452
   publication_year: '1990'
   slug: mit-dem-rucken-zur-wand
-  spine_color: '#757c98'
+  spine_color: '#c3bba4'
   tags:
   - german
   - historical-fiction

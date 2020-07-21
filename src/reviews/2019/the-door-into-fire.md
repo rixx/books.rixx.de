@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: the-door-into-fire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520785510l/176506._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812536713-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Tale of the Five
   series_position: '1'
   slug: the-door-into-fire
-  spine_color: '#e6d557'
+  spine_color: '#e6d04d'
   tags:
   - fantasy
   - five-stars

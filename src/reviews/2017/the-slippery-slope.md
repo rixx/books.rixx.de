@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-slippery-slope.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518835363l/297792._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410137-L.jpg
   dimensions:
     height: 19.0
   goodreads: '297792'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '10'
   slug: the-slippery-slope
-  spine_color: '#f0d08e'
+  spine_color: '#958c59'
   tags:
   - ya
   title: The Slippery Slope

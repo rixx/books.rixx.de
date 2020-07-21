@@ -2,7 +2,7 @@
 book:
   author: Jeff VanderMeer
   cover_image: annihilation.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780374104092-L.jpg
   dimensions:
     height: 19.0
     thickness: 1.5
@@ -15,7 +15,7 @@ book:
   series: Southern Reach
   series_position: '1'
   slug: annihilation
-  spine_color: '#9db057'
+  spine_color: '#1f316a'
   tags:
   - scifi
   title: Annihilation

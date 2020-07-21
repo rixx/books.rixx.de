@@ -2,7 +2,7 @@
 book:
   author: Nicholas Eames
   cover_image: kings-of-the-wyld.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477027207l/30841984._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316362474-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.3
@@ -15,7 +15,7 @@ book:
   series: The Band
   series_position: '1'
   slug: kings-of-the-wyld
-  spine_color: '#572e2c'
+  spine_color: '#633327'
   tags:
   - fantasy
   title: Kings of the Wyld

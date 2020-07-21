@@ -2,7 +2,7 @@
 book:
   author: Edward Snowden
   cover_image: permanent-record.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250237231-L.jpg
   dimensions:
     height: 24.4
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   pages: 352
   publication_year: '2019'
   slug: permanent-record
-  spine_color: '#8c8c89'
+  spine_color: '#82827e'
   title: Permanent Record
 plan:
   date_added: '2020-01-02'

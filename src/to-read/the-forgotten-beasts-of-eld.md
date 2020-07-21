@@ -2,7 +2,7 @@
 book:
   author: Patricia A. McKillip
   cover_image: the-forgotten-beasts-of-eld.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391203484l/81069._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152055363-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.2
@@ -13,7 +13,7 @@ book:
   pages: 343
   publication_year: '1974'
   slug: the-forgotten-beasts-of-eld
-  spine_color: '#dbaa56'
+  spine_color: '#cea95c'
   title: The Forgotten Beasts of Eld
 plan:
   date_added: '2018-09-15'

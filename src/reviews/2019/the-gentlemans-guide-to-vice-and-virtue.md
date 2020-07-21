@@ -2,7 +2,7 @@
 book:
   author: Mackenzi Lee
   cover_image: the-gentlemans-guide-to-vice-and-virtue.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492601464l/29283884._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062382801-L.jpg
   dimensions:
     height: 22.0
     thickness: 4.0
@@ -15,7 +15,7 @@ book:
   series: Montague Siblings
   series_position: '1'
   slug: the-gentlemans-guide-to-vice-and-virtue
-  spine_color: '#9ebca2'
+  spine_color: '#95b89c'
   tags: []
   title: The Gentleman's Guide to Vice and Virtue
 plan:

@@ -2,7 +2,7 @@
 book:
   author: Brent Weeks
   cover_image: the-way-of-shadows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881551l/3227063._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033671-L.jpg
   dimensions:
     height: 18.0
   goodreads: '3227063'
@@ -13,7 +13,7 @@ book:
   series: Night Angel
   series_position: '1'
   slug: the-way-of-shadows
-  spine_color: '#8f7c7e'
+  spine_color: '#7b7076'
   tags:
   - fantasy
   title: The Way of Shadows

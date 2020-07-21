@@ -2,7 +2,7 @@
 book:
   author: Ben Aaronovitch
   cover_image: foxglove-summer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402338677l/20499240._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575132504-L.jpg
   dimensions:
     height: 22.3
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Rivers of London
   series_position: '5'
   slug: foxglove-summer
-  spine_color: '#992215'
+  spine_color: '#9f1f1a'
   tags:
   - urban-fantasy
   title: Foxglove Summer

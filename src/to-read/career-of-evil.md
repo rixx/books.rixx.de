@@ -2,7 +2,7 @@
 book:
   author: Robert Galbraith
   cover_image: career-of-evil.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217110l/25735012._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316349932-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.1
@@ -15,7 +15,7 @@ book:
   series: Cormoran Strike
   series_position: '3'
   slug: career-of-evil
-  spine_color: '#9b654b'
+  spine_color: '#fbf4e9'
   title: Career of Evil
 plan:
   date_added: '2017-07-11'

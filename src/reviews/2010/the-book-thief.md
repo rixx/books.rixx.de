@@ -2,7 +2,7 @@
 book:
   author: Markus Zusak
   cover_image: the-book-thief.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375831003-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.2
@@ -13,7 +13,7 @@ book:
   pages: 567
   publication_year: '2005'
   slug: the-book-thief
-  spine_color: '#b07840'
+  spine_color: '#8e6335'
   tags:
   - five-stars
   - german

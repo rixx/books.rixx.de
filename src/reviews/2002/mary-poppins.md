@@ -2,7 +2,7 @@
 book:
   author: P.L. Travers
   cover_image: mary-poppins.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327947805l/152380._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152058104-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Mary Poppins
   series_position: '1'
   slug: mary-poppins
-  spine_color: '#ac5d5f'
+  spine_color: '#ad5c5e'
   tags:
   - kids
   title: Mary Poppins

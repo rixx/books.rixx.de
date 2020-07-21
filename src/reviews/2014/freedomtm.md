@@ -2,7 +2,7 @@
 book:
   author: Daniel Suarez
   cover_image: freedomtm.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311704142l/8488830._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451231895-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Daemon
   series_position: '2'
   slug: freedomtm
-  spine_color: '#eb8f2c'
+  spine_color: '#a75f0b'
   tags:
   - five-stars
   - scifi

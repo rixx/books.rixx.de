@@ -2,7 +2,7 @@
 book:
   author: Kazuo Ishiguro
   cover_image: never-let-me-go.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353048590l/6334._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781400078776-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   pages: 288
   publication_year: '2005'
   slug: never-let-me-go
-  spine_color: '#a8897d'
+  spine_color: '#a88778'
   tags:
   - scifi
   title: Never Let Me Go

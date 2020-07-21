@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-clan-corporate.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442876283l/17864._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765309303-L.jpg
   dimensions:
     height: 17.1
   goodreads: '17864'
@@ -13,7 +13,7 @@ book:
   series: The Merchant Princes
   series_position: '3'
   slug: the-clan-corporate
-  spine_color: '#c2b483'
+  spine_color: '#e1b77c'
   tags:
   - scifi
   title: The Clan Corporate

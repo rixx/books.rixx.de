@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-family-trade.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408262924l/17861._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348210-L.jpg
   dimensions:
     height: 17.1
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: The Merchant Princes
   series_position: '1'
   slug: the-family-trade
-  spine_color: '#76665c'
+  spine_color: '#b9a594'
   tags:
   - scifi
   title: The Family Trade

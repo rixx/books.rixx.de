@@ -2,7 +2,7 @@
 book:
   author: Maggie Stiefvater
   cover_image: the-raven-boys.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485l/17675462._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780545424929-L.jpg
   dimensions:
     height: 21.6
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: The Raven Cycle
   series_position: '1'
   slug: the-raven-boys
-  spine_color: '#8c777c'
+  spine_color: '#2e161d'
   title: The Raven Boys
 plan:
   date_added: '2018-09-15'

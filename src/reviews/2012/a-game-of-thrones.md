@@ -2,7 +2,7 @@
 book:
   author: George R.R. Martin
   cover_image: a-game-of-thrones.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553588484-L.jpg
   dimensions:
     height: 18.0
   goodreads: '13496'
@@ -13,7 +13,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '1'
   slug: a-game-of-thrones
-  spine_color: '#cb9e4f'
+  spine_color: '#c7994a'
   tags:
   - fantasy
   - five-stars

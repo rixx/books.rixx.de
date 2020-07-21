@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-jennifer-morgue.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386920541l/14150.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781930846456-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.2

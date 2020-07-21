@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: ghost-story.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329104700l/8058301._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451463791-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '13'
   slug: ghost-story
-  spine_color: '#a29591'
+  spine_color: '#a2938f'
   tags:
   - urban-fantasy
   title: Ghost Story

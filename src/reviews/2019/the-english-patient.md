@@ -2,14 +2,14 @@
 book:
   author: Michael Ondaatje
   cover_image: the-english-patient.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527907l/11713._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780771068713-L.jpg
   goodreads: '11713'
   isbn10: 0771068719
   isbn13: '9780771068713'
   pages: '320'
   publication_year: '1992'
   slug: the-english-patient
-  spine_color: '#766e66'
+  spine_color: '#796f68'
   tags:
   - historical-fiction
   title: The English Patient

@@ -2,7 +2,7 @@
 book:
   author: Orson Scott Card
   cover_image: speaker-for-the-dead.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894l/7967._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812550757-L.jpg
   dimensions:
     height: 24.0
   goodreads: '7967'
@@ -13,7 +13,7 @@ book:
   series: Ender’s Saga
   series_position: '2'
   slug: speaker-for-the-dead
-  spine_color: '#776b9f'
+  spine_color: '#786da3'
   tags:
   - scifi
   - space-monks

@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-vile-village.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352066958l/150037._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060566227-L.jpg
   dimensions:
     height: 19.0
   goodreads: '150037'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '7'
   slug: the-vile-village
-  spine_color: '#ceb48a'
+  spine_color: '#d6bd89'
   tags:
   - ya
   title: The Vile Village

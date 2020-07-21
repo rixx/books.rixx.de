@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: lotta-on-troublemaker-street.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348578002l/19319.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780689846731-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.8
@@ -13,7 +13,7 @@ book:
   pages: 55
   publication_year: '1958'
   slug: lotta-on-troublemaker-street
-  spine_color: '#f6c517'
+  spine_color: '#efce0b'
   tags:
   - german
   - kids

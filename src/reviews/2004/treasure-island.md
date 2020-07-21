@@ -2,7 +2,7 @@
 book:
   author: Robert Louis Stevenson
   cover_image: treasure-island.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485248909l/295._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780753453803-L.jpg
   dimensions:
     height: 21.3
     thickness: 3.5
@@ -13,7 +13,7 @@ book:
   pages: 352
   publication_year: '1879'
   slug: treasure-island
-  spine_color: '#974937'
+  spine_color: '#a2472e'
   tags:
   - five-stars
   - german

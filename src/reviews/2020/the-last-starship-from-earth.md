@@ -2,14 +2,14 @@
 book:
   author: John Boyd
   cover_image: the-last-starship-from-earth.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352461680l/872518._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140048759-L.jpg
   goodreads: '872518'
   isbn10: 0140048758
   isbn13: '9780140048759'
   pages: '182'
   publication_year: '1967'
   slug: the-last-starship-from-earth
-  spine_color: '#d9af64'
+  spine_color: '#795326'
   tags:
   - scifi
   - space-monks

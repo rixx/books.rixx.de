@@ -2,7 +2,7 @@
 book:
   author: Orson Scott Card
   cover_image: xenocide.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924577l/8648.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780312861872-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Ender’s Saga
   series_position: '3'
   slug: xenocide
-  spine_color: '#775041'
+  spine_color: '#a5572c'
   tags:
   - scifi
   title: Xenocide

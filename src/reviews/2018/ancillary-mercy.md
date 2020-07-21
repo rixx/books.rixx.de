@@ -2,7 +2,7 @@
 book:
   author: Ann Leckie
   cover_image: ancillary-mercy.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780356502427-L.jpg
   dimensions:
     height: 19.8
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Imperial Radch
   series_position: '3'
   slug: ancillary-mercy
-  spine_color: '#7c7968'
+  spine_color: '#cd9814'
   tags:
   - five-stars
   - scifi

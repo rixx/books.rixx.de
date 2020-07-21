@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-tombs-of-atuan.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900879l/13662._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780689845369-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -15,7 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '2'
   slug: the-tombs-of-atuan
-  spine_color: '#f2edba'
+  spine_color: '#f2ebb6'
   tags:
   - fantasy
   - five-stars

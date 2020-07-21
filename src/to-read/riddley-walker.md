@@ -2,7 +2,7 @@
 book:
   author: Russell Hoban
   cover_image: riddley-walker.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383166398l/776573._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780253212344-L.jpg
   dimensions:
     height: 23.0
     thickness: 1.7
@@ -13,7 +13,7 @@ book:
   pages: 256
   publication_year: '1980'
   slug: riddley-walker
-  spine_color: '#8a2825'
+  spine_color: '#48536d'
   title: Riddley Walker
 plan:
   date_added: '2018-09-03'

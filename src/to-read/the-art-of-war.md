@@ -2,7 +2,7 @@
 book:
   author: Sun Tzu
   cover_image: the-art-of-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781590302255-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   pages: 273
   publication_year: '-500'
   slug: the-art-of-war
-  spine_color: '#cebba1'
+  spine_color: '#cab89d'
   title: The Art of War
 plan:
   date_added: '2018-08-13'

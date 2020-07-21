@@ -2,7 +2,7 @@
 book:
   author: Joe Haldeman
   cover_image: camouflage.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924306l/21607.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441012527-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.1
@@ -13,7 +13,7 @@ book:
   pages: 289
   publication_year: '2004'
   slug: camouflage
-  spine_color: '#138bc4'
+  spine_color: '#cbc7b7'
   title: Camouflage
 plan:
   date_added: '2015-08-04'

@@ -2,7 +2,7 @@
 book:
   author: Helene Wecker
   cover_image: the-golem-and-the-jinni.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349205573l/15819028._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062110831-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Golem and the Jinni
   series_position: '1'
   slug: the-golem-and-the-jinni
-  spine_color: '#8b7f67'
+  spine_color: '#a26e49'
   title: The Golem and the Jinni
 plan:
   date_added: '2018-08-20'

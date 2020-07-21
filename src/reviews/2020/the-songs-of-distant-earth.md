@@ -2,7 +2,7 @@
 book:
   author: Arthur C. Clarke
   cover_image: the-songs-of-distant-earth.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375814883l/117842._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007115860-L.jpg
   dimensions:
     height: 20.0
     width: 13.0
@@ -12,7 +12,7 @@ book:
   pages: 256
   publication_year: '1986'
   slug: the-songs-of-distant-earth
-  spine_color: '#59719a'
+  spine_color: '#59729b'
   tags:
   - scifi
   title: The Songs of Distant Earth

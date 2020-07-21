@@ -2,7 +2,7 @@
 book:
   author: George Orwell
   cover_image: animal-farm.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780452284241-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 122
   publication_year: '1945'
   slug: animal-farm
-  spine_color: '#f1eedc'
+  spine_color: '#846c64'
   title: Animal Farm
 plan:
   date_added: '2015-04-08'

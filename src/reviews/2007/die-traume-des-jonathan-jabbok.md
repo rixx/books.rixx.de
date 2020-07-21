@@ -2,7 +2,7 @@
 book:
   author: Ralf Isau
   cover_image: die-traume-des-jonathan-jabbok.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999376l/1692789.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522168960-L.jpg
   dimensions:
     height: 21.0
   goodreads: '1692789'
@@ -13,7 +13,7 @@ book:
   series: Neschan-Trilogie
   series_position: '1'
   slug: die-traume-des-jonathan-jabbok
-  spine_color: '#1d1b6e'
+  spine_color: '#1a197e'
   tags:
   - fantasy
   - german

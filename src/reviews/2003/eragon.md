@@ -2,7 +2,7 @@
 book:
   author: Christopher Paolini
   cover_image: eragon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375826696-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: The Inheritance Cycle
   series_position: '1'
   slug: eragon
-  spine_color: '#3e4f73'
+  spine_color: '#6095cf'
   tags:
   - fantasy
   - german

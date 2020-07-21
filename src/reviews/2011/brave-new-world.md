@@ -2,7 +2,7 @@
 book:
   author: Aldous Huxley
   cover_image: brave-new-world.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060929879-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 288
   publication_year: '1932'
   slug: brave-new-world
-  spine_color: '#9f8493'
+  spine_color: '#786a7d'
   tags:
   - scifi
   title: Brave New World

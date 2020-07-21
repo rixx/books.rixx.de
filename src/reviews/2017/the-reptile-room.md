@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-reptile-room.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352146294l/78418._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439206488-L.jpg
   dimensions:
     height: 19.0
   goodreads: '78418'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '2'
   slug: the-reptile-room
-  spine_color: '#e0c290'
+  spine_color: '#ddb88e'
   tags:
   - ya
   title: The Reptile Room

@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: jingo.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327921813l/47990._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154161-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '21'
   slug: jingo
-  spine_color: '#bcb9b1'
+  spine_color: '#b2ada6'
   title: Jingo
 plan:
   date_added: '2015-04-08'

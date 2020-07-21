@@ -2,7 +2,7 @@
 book:
   author: Samuel R. Delany
   cover_image: nova.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320491578l/85863._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375706707-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   pages: 241
   publication_year: '1968'
   slug: nova
-  spine_color: '#8f5e54'
+  spine_color: '#946053'
   tags:
   - scifi
   title: Nova

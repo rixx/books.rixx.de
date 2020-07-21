@@ -2,7 +2,7 @@
 book:
   author: Michelle Paver
   cover_image: wolf-brother.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924715l/295305.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060728274-L.jpg
   dimensions:
     height: 19.4
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: Chronicles of Ancient Darkness
   series_position: '1'
   slug: wolf-brother
-  spine_color: '#b28f74'
+  spine_color: '#b28e74'
   title: Wolf Brother
 plan:
   date_added: '2016-05-19'

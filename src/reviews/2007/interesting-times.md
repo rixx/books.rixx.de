@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: interesting-times.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430881376l/884288._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061056901-L.jpg
   dimensions:
     height: 20.0
   goodreads: '884288'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '17'
   slug: interesting-times
-  spine_color: '#daca6c'
+  spine_color: '#db7334'
   title: Interesting Times
 plan:
   date_added: '2015-04-09'

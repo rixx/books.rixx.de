@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: witches-abroad.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403326937l/2442._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020612-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '12'
   slug: witches-abroad
-  spine_color: '#1155a5'
+  spine_color: '#c5d35c'
   tags:
   - five-stars
   title: Witches Abroad

@@ -2,7 +2,7 @@
 book:
   author: Walter M. Miller Jr.
   cover_image: a-canticle-for-leibowitz.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450516880l/164154._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060892999-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: St. Leibowitz
   series_position: '1'
   slug: a-canticle-for-leibowitz
-  spine_color: '#e3be36'
+  spine_color: '#dab462'
   title: A Canticle for Leibowitz
 plan:
   date_added: '2018-09-25'

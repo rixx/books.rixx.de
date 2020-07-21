@@ -2,7 +2,7 @@
 book:
   author: Philip K. Dick
   cover_image: the-man-in-the-high-castle.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448756803l/216363._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679740674-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 259
   publication_year: '1962'
   slug: the-man-in-the-high-castle
-  spine_color: '#b37043'
+  spine_color: '#d96b25'
   tags:
   - scifi
   title: The Man in the High Castle

@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: feet-of-clay.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320490628l/34527._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552153256-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '19'
   slug: feet-of-clay
-  spine_color: '#5a5851'
+  spine_color: '#59534e'
   title: Feet of Clay
 plan:
   date_added: '2015-04-08'

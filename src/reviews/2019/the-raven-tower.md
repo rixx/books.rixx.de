@@ -2,14 +2,14 @@
 book:
   author: Ann Leckie
   cover_image: the-raven-tower.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531852996l/40537059._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316388696-L.jpg
   goodreads: '40537059'
   isbn10: 0316388696
   isbn13: '9780316388696'
   pages: '416'
   publication_year: '2019'
   slug: the-raven-tower
-  spine_color: '#775f38'
+  spine_color: '#695432'
   tags:
   - fantasy
   title: The Raven Tower

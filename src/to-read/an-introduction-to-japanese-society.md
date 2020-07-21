@@ -1,8 +1,8 @@
 ---
 book:
   author: Yoshio Sugimoto
-  cover_image: an-introduction-to-japanese-society.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: an-introduction-to-japanese-society.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780521529259-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.1
@@ -13,7 +13,7 @@ book:
   pages: 330
   publication_year: '1997'
   slug: an-introduction-to-japanese-society
-  spine_color: '#dbd3bf'
+  spine_color: '#a1e412'
   title: An Introduction to Japanese Society
 plan:
   date_added: 2020-06-07

@@ -2,7 +2,7 @@
 book:
   author: Philip K. Dick
   cover_image: do-androids-dream-of-electric-sheep.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519481930l/7082._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345404473-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.3
@@ -15,7 +15,7 @@ book:
   series: Blade Runner
   series_position: '1'
   slug: do-androids-dream-of-electric-sheep
-  spine_color: '#9c9c95'
+  spine_color: '#a4b564'
   tags:
   - scifi
   title: Do Androids Dream of Electric Sheep?

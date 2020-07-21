@@ -2,7 +2,7 @@
 book:
   author: Francis-Noel Thomas
   cover_image: clear-and-simple-as-the-truth-writing-classic-prose.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348981362l/120549.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780691029177-L.jpg
   dimensions:
     height: 22.0
     thickness: 1.7
@@ -13,7 +13,7 @@ book:
   pages: 240
   publication_year: '1994'
   slug: clear-and-simple-as-the-truth-writing-classic-prose
-  spine_color: '#c4664e'
+  spine_color: '#c7765e'
   title: 'Clear and Simple as the Truth: Writing Classic Prose'
 plan:
   date_added: '2019-11-15'

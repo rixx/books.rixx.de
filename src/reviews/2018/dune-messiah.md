@@ -2,7 +2,7 @@
 book:
   author: Frank Herbert
   cover_image: dune-messiah.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533872326l/106._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441172696-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Dune Chronicles
   series_position: '2'
   slug: dune-messiah
-  spine_color: '#ebe385'
+  spine_color: '#bf622f'
   tags:
   - scifi
   - space-monks

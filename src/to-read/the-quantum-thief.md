@@ -2,7 +2,7 @@
 book:
   author: Hannu Rajaniemi
   cover_image: the-quantum-thief.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327950631l/7562764._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575088870-L.jpg
   goodreads: '7562764'
   isbn10: 0575088877
   isbn13: '9780575088870'
@@ -11,7 +11,7 @@ book:
   series: Jean le Flambeur
   series_position: '1'
   slug: the-quantum-thief
-  spine_color: '#af2f26'
+  spine_color: '#d3473f'
   title: The Quantum Thief
 plan:
   date_added: '2018-07-12'

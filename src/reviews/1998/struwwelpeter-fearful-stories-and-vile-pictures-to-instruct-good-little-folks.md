@@ -2,7 +2,7 @@
 book:
   author: Heinrich Hoffmann
   cover_image: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389846845l/551449.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780922915521-L.jpg
   dimensions:
     height: 28.0
     thickness: 0.5
@@ -13,7 +13,7 @@ book:
   pages: 124
   publication_year: '1845'
   slug: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks
-  spine_color: '#8d8479'
+  spine_color: '#998f84'
   tags:
   - german
   - kids

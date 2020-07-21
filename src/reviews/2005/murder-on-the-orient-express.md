@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: murder-on-the-orient-express.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388267702l/16304.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780425200452-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Hercule Poirot
   series_position: '10'
   slug: murder-on-the-orient-express
-  spine_color: '#8fb1bc'
+  spine_color: '#487f77'
   tags:
   - mystery
   title: Murder on the Orient Express

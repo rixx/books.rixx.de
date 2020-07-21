@@ -2,7 +2,7 @@
 book:
   author: M.F. Sullivan
   cover_image: the-hierophants-daughter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542842946l/42921564._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780996539562-L.jpg
   dimensions:
     height: 22.9
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: The Disgraced Martyr Trilogy
   series_position: '1'
   slug: the-hierophants-daughter
-  spine_color: '#cad2d5'
+  spine_color: '#c0cad0'
   tags:
   - scifi
   title: The Hierophant's Daughter

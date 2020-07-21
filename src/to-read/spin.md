@@ -2,7 +2,7 @@
 book:
   author: Robert Charles Wilson
   cover_image: spin.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406383726l/910863._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348258-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Spin
   series_position: '1'
   slug: spin
-  spine_color: '#656d77'
+  spine_color: '#5a5f68'
   title: Spin
 plan:
   date_added: '2018-08-28'

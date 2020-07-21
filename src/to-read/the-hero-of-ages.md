@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: the-hero-of-ages.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480717763l/2767793._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765316899-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.5
@@ -15,7 +15,7 @@ book:
   series: Mistborn
   series_position: '3'
   slug: the-hero-of-ages
-  spine_color: '#4c343e'
+  spine_color: '#bcd7db'
   title: The Hero of Ages
 plan:
   date_added: '2019-07-15'

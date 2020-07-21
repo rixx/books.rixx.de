@@ -2,7 +2,7 @@
 book:
   author: Diana Gabaldon
   cover_image: outlander.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529065012l/10964._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780440242949-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Outlander
   series_position: '1'
   slug: outlander
-  spine_color: '#ce6c36'
+  spine_color: '#dc922a'
   title: Outlander
 plan:
   date_added: '2018-10-25'

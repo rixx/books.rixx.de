@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: howls-moving-castle.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407450489l/6294._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410342-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: Howl's Moving Castle
   series_position: '1'
   slug: howls-moving-castle
-  spine_color: '#bea667'
+  spine_color: '#6e5237'
   tags:
   - fantasy
   - german

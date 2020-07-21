@@ -2,14 +2,14 @@
 book:
   author: Newt Scamander
   cover_image: fantastic-beasts-and-where-to-find-them.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303738520l/41899._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439321600-L.jpg
   goodreads: '41899'
   isbn10: 0439321603
   isbn13: '9780439321600'
   pages: '128'
   publication_year: '2001'
   slug: fantastic-beasts-and-where-to-find-them
-  spine_color: '#c5221a'
+  spine_color: '#c99b3c'
   tags:
   - fantasy
   - german

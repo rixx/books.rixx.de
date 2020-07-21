@@ -2,7 +2,7 @@
 book:
   author: Simon R. Green
   cover_image: something-from-the-nightside.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354812342l/155421._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441010653-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Nightside
   series_position: '1'
   slug: something-from-the-nightside
-  spine_color: '#cfc178'
+  spine_color: '#d2bf6c'
   title: Something from the Nightside
 plan:
   date_added: '2018-10-02'

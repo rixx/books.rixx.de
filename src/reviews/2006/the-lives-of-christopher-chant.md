@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: the-lives-of-christopher-chant.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356549015l/519933._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780688163655-L.jpg
   dimensions:
     height: 19.4
     thickness: 1.2
@@ -15,7 +15,7 @@ book:
   series: Chrestomanci
   series_position: '2'
   slug: the-lives-of-christopher-chant
-  spine_color: '#7d5b49'
+  spine_color: '#805d49'
   tags:
   - fantasy
   - german

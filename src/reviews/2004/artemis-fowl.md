@@ -2,7 +2,7 @@
 book:
   author: Eoin Colfer
   cover_image: artemis-fowl.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327945104l/249747._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786817870-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '1'
   slug: artemis-fowl
-  spine_color: '#d38326'
+  spine_color: '#ab8917'
   tags:
   - fantasy
   - german

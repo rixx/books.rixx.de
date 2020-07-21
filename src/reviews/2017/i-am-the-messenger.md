@@ -2,7 +2,7 @@
 book:
   author: Markus Zusak
   cover_image: i-am-the-messenger.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398483261l/19057._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375836671-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.9
@@ -13,7 +13,7 @@ book:
   pages: 357
   publication_year: '2002'
   slug: i-am-the-messenger
-  spine_color: '#d4b96c'
+  spine_color: '#8a2930'
   tags:
   - german
   title: I Am the Messenger

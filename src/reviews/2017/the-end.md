@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-end.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524761836l/65112._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410168-L.jpg
   dimensions:
     height: 19.0
   goodreads: '65112'
@@ -13,7 +13,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '13'
   slug: the-end
-  spine_color: '#ddbc89'
+  spine_color: '#dab98a'
   tags:
   - five-stars
   - ya

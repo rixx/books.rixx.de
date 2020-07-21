@@ -2,7 +2,7 @@
 book:
   author: Douglas Adams
   cover_image: the-long-dark-tea-time-of-the-soul.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388257271l/357._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671742515-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: Dirk Gently
   series_position: '2'
   slug: the-long-dark-tea-time-of-the-soul
-  spine_color: '#918d4d'
+  spine_color: '#6f5d2e'
   tags:
   - german
   - scifi

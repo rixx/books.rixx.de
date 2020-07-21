@@ -2,7 +2,7 @@
 book:
   author: Greg Egan
   cover_image: quarantine.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308958448l/156775.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061054235-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.8
@@ -15,7 +15,7 @@ book:
   series: Subjective Cosmology
   series_position: '1'
   slug: quarantine
-  spine_color: '#7b5489'
+  spine_color: '#7e598b'
   tags:
   - five-stars
   - scifi

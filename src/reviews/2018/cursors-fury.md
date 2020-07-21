@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: cursors-fury.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388360145l/29394.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014347-L.jpg
   dimensions:
     height: 24.0
   goodreads: '29394'
@@ -13,7 +13,7 @@ book:
   series: Codex Alera
   series_position: '3'
   slug: cursors-fury
-  spine_color: '#98b1bc'
+  spine_color: '#98b2bd'
   tags:
   - fantasy
   title: Cursor's Fury

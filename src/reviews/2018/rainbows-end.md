@@ -2,7 +2,7 @@
 book:
   author: Vernor Vinge
   cover_image: rainbows-end.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812536362-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   pages: 381
   publication_year: '2006'
   slug: rainbows-end
-  spine_color: '#8388cc'
+  spine_color: '#644b7b'
   tags:
   - scifi
   title: Rainbows End

@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: a-wizard-of-earthsea.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353424536l/13642._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553383041-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.1
@@ -15,7 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '1'
   slug: a-wizard-of-earthsea
-  spine_color: '#eceabc'
+  spine_color: '#f2e8c1'
   tags:
   - fantasy
   title: A Wizard of Earthsea

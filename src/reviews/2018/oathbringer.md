@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: oathbringer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307833l/34002132._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765326379-L.jpg
   dimensions:
     height: 25.0
     thickness: 6.1
@@ -15,7 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '3'
   slug: oathbringer
-  spine_color: '#94866c'
+  spine_color: '#97886c'
   tags:
   - fantasy
   title: Oathbringer

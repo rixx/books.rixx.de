@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: the-last-dragonslayer.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346791460l/13316328._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780547738475-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: The Last Dragonslayer
   series_position: '1'
   slug: the-last-dragonslayer
-  spine_color: '#d8d45f'
+  spine_color: '#455b48'
   tags:
   - fantasy
   title: The Last Dragonslayer

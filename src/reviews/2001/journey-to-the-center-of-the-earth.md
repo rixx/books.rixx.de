@@ -2,7 +2,7 @@
 book:
   author: Jules Verne
   cover_image: journey-to-the-center-of-the-earth.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389754903l/32829.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553213973-L.jpg
   dimensions:
     height: 20.0
   goodreads: '32829'
@@ -13,7 +13,7 @@ book:
   series: Extraordinary Voyages
   series_position: '3'
   slug: journey-to-the-center-of-the-earth
-  spine_color: '#9f8eb5'
+  spine_color: '#a38eba'
   tags:
   - german
   title: Journey to the Center of the Earth

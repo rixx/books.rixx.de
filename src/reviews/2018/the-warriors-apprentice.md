@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: the-warriors-apprentice.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170597854l/61906._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743468404-L.jpg
   dimensions:
     height: 18.0
     width: 11.0
@@ -14,7 +14,7 @@ book:
   series: Vorkosigan Saga
   series_position: '2'
   slug: the-warriors-apprentice
-  spine_color: '#cfa08d'
+  spine_color: '#cd9d8a'
   tags:
   - five-stars
   - scifi

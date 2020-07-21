@@ -2,7 +2,7 @@
 book:
   author: Catherynne M. Valente
   cover_image: the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388179691l/9591398.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780312649616-L.jpg
   goodreads: '9591398'
   isbn10: 0312649614
   isbn13: '9780312649616'
@@ -11,7 +11,7 @@ book:
   series: Fairyland
   series_position: '1'
   slug: the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
-  spine_color: '#b87b4e'
+  spine_color: '#a34e2a'
   tags:
   - fantasy
   - ya

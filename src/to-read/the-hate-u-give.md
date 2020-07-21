@@ -2,7 +2,7 @@
 book:
   author: Angie Thomas
   cover_image: the-hate-u-give.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759l/32075671._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062498533-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.6
@@ -13,7 +13,7 @@ book:
   pages: 464
   publication_year: '2017'
   slug: the-hate-u-give
-  spine_color: '#40261d'
+  spine_color: '#5f4942'
   title: The Hate U Give
 plan:
   date_added: '2017-11-15'

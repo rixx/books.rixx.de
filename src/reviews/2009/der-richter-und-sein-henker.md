@@ -2,7 +2,7 @@
 book:
   author: Friedrich Dürrenmatt
   cover_image: der-richter-und-sein-henker.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168575156l/35090.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780395044995-L.jpg
   dimensions:
     height: 20.3
     thickness: 0.6
@@ -13,7 +13,7 @@ book:
   pages: 208
   publication_year: '1951'
   slug: der-richter-und-sein-henker
-  spine_color: '#9a9d8e'
+  spine_color: '#989a8b'
   tags:
   - german
   - mystery

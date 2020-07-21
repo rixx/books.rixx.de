@@ -2,7 +2,7 @@
 book:
   author: Brooke Bolander
   cover_image: the-only-harmless-great-thing.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518069202l/34659272._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250169488-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.6
@@ -13,7 +13,7 @@ book:
   pages: 96
   publication_year: '2018'
   slug: the-only-harmless-great-thing
-  spine_color: '#f3eba9'
+  spine_color: '#f3eba8'
   title: The Only Harmless Great Thing
 plan:
   date_added: '2018-11-22'

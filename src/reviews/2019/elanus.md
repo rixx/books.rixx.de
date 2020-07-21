@@ -2,13 +2,13 @@
 book:
   author: Ursula Poznanski
   cover_image: elanus.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468233375l/30987220._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783785582312-L.jpg
   goodreads: '30987220'
   isbn13: '9783785582312'
   pages: '416'
   publication_year: '2016'
   slug: elanus
-  spine_color: '#b9c196'
+  spine_color: '#abbc8a'
   tags:
   - german
   - scifi

@@ -2,7 +2,7 @@
 book:
   author: Jack Campbell
   cover_image: dauntless.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309198180l/112292._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014187-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: The Lost Fleet
   series_position: '1'
   slug: dauntless
-  spine_color: '#ccbca2'
+  spine_color: '#c5b199'
   title: Dauntless
 plan:
   date_added: '2018-10-22'

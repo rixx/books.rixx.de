@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: a-tall-tail.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345706382l/15843549._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781466828926-L.jpg
   dimensions: {}
   goodreads: '15843549'
   isbn10: '1466828927'
@@ -10,7 +10,7 @@ book:
   pages: 32
   publication_year: '2012'
   slug: a-tall-tail
-  spine_color: '#070d19'
+  spine_color: '#070e19'
   tags:
   - scifi
   title: A Tall Tail

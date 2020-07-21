@@ -2,14 +2,14 @@
 book:
   author: Philip K. Dick
   cover_image: flow-my-tears-the-policeman-said.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781857983418-L.jpg
   goodreads: '22584'
   isbn10: '1857983416'
   isbn13: '9781857983418'
   pages: '204'
   publication_year: '1974'
   slug: flow-my-tears-the-policeman-said
-  spine_color: '#d3933e'
+  spine_color: '#c65a55'
   tags:
   - scifi
   title: Flow My Tears, the Policeman Said

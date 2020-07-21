@@ -2,7 +2,7 @@
 book:
   author: Patrick Rothfuss
   cover_image: the-name-of-the-wind.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515589515l/186074._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756404079-L.jpg
   dimensions:
     height: 24.0
   goodreads: '186074'
@@ -13,7 +13,7 @@ book:
   series: The Kingkiller Chronicle
   series_position: '1'
   slug: the-name-of-the-wind
-  spine_color: '#b8b19d'
+  spine_color: '#beb79e'
   tags:
   - fantasy
   title: The Name of the Wind

@@ -2,7 +2,7 @@
 book:
   author: Christopher Stasheff
   cover_image: the-warlock-in-spite-of-himself.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1176614464l/640181._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441873029-L.jpg
   dimensions:
     height: 17.3
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Warlock
   series_position: '1'
   slug: the-warlock-in-spite-of-himself
-  spine_color: '#ce997f'
+  spine_color: '#cf9b80'
   tags:
   - fantasy
   title: The Warlock in Spite of Himself

@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: night-watch.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518310l/47989._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154307-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '29'
   slug: night-watch
-  spine_color: '#d8d1b7'
+  spine_color: '#d6ceb1'
   tags:
   - five-stars
   title: Night Watch

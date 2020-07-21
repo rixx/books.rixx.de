@@ -1,8 +1,8 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-thirteen-problems-miss-marple-2.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309305370l/31309._SX98_.jpg
+  cover_image: the-thirteen-problems.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780007120864-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.0
@@ -15,7 +15,7 @@ book:
   series: Miss Marple
   series_position: 2
   slug: the-thirteen-problems
-  spine_color: '#866e62'
+  spine_color: '#aa9081'
   tags:
   - mystery
   title: The Thirteen Problems

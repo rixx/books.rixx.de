@@ -2,7 +2,7 @@
 book:
   author: T.A. Barron
   cover_image: the-lost-years-of-merlin.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388263143l/18392.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441010288-L.jpg
   dimensions:
     height: 17.2
     thickness: 2.3

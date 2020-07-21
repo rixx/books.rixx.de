@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: look-to-windward.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743421928-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Culture
   series_position: '7'
   slug: look-to-windward
-  spine_color: '#33444a'
+  spine_color: '#394b51'
   tags:
   - scifi
   title: Look to Windward

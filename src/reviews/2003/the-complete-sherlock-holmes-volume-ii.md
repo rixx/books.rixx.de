@@ -2,7 +2,7 @@
 book:
   author: Arthur Conan Doyle
   cover_image: the-complete-sherlock-holmes-volume-ii.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347663158l/3586._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781593082048-L.jpg
   dimensions:
     height: 22.0
     thickness: 5.7
@@ -13,7 +13,7 @@ book:
   pages: 752
   publication_year: '1914'
   slug: the-complete-sherlock-holmes-volume-ii
-  spine_color: '#ce413d'
+  spine_color: '#d7403b'
   tags:
   - mystery
   title: 'The Complete Sherlock Holmes: Volume II'

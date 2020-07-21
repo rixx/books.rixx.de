@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: the-books-of-magic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367303662l/17727._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781563890826-L.jpg
   dimensions:
     height: 26.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 200
   publication_year: '1993'
   slug: the-books-of-magic
-  spine_color: '#67384c'
+  spine_color: '#68374c'
   title: The Books of Magic
 plan:
   date_added: '2015-07-02'

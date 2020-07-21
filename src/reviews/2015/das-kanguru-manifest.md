@@ -2,7 +2,7 @@
 book:
   author: Marc-Uwe Kling
   cover_image: das-kanguru-manifest.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948550l/10452269._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783548373836-L.jpg
   dimensions:
     height: 19.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: Die Känguru-Chroniken
   series_position: '2'
   slug: das-kanguru-manifest
-  spine_color: '#ba3823'
+  spine_color: '#be361e'
   tags:
   - german
   title: Das Känguru-Manifest

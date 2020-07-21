@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-nightmare-stacks.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448811411l/24997064._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780356505343-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Laundry Files
   series_position: '7'
   slug: the-nightmare-stacks
-  spine_color: '#8f2d73'
+  spine_color: '#8e2e73'
   tags:
   - urban-fantasy
   title: The Nightmare Stacks

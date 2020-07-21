@@ -2,7 +2,7 @@
 book:
   author: David Levithan
   cover_image: every-day.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356993940l/13262783._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780307931887-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Every Day
   series_position: '1'
   slug: every-day
-  spine_color: '#eae2c1'
+  spine_color: '#e9dfbe'
   tags:
   - urban-fantasy
   title: Every Day

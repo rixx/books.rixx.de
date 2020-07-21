@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: mind-of-my-mind.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389676159l/116254.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446361880-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.3
@@ -15,7 +15,7 @@ book:
   series: Patternmaster
   series_position: '2'
   slug: mind-of-my-mind
-  spine_color: '#b79776'
+  spine_color: '#9b855c'
   tags:
   - scifi
   title: Mind of My Mind

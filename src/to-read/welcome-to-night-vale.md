@@ -2,7 +2,7 @@
 book:
   author: Joseph Fink
   cover_image: welcome-to-night-vale.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447774088l/23129410._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062351425-L.jpg
   goodreads: '23129410'
   isbn10: '0062351427'
   isbn13: '9780062351425'
@@ -11,7 +11,7 @@ book:
   series: Welcome to Night Vale
   series_position: '1'
   slug: welcome-to-night-vale
-  spine_color: '#8e3973'
+  spine_color: '#913a72'
   title: Welcome to Night Vale
 plan:
   date_added: '2016-11-13'

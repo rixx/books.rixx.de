@@ -2,7 +2,7 @@
 book:
   author: Theodora Goss
   cover_image: the-strange-case-of-the-alchemists-daughter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490794116l/34728925.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781534409637-L.jpg
   goodreads: '34728925'
   isbn10: '1534409637'
   isbn13: '9781534409637'
@@ -11,7 +11,7 @@ book:
   series: The Extraordinary Adventures of the Athena Club
   series_position: '1'
   slug: the-strange-case-of-the-alchemists-daughter
-  spine_color: '#d5cfb9'
+  spine_color: '#d3cdb7'
   tags:
   - fantasy
   - ya

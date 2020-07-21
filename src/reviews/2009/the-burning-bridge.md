@@ -2,7 +2,7 @@
 book:
   author: John Flanagan
   cover_image: the-burning-bridge.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440471172l/144349._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780399244551-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Ranger's Apprentice
   series_position: '2'
   slug: the-burning-bridge
-  spine_color: '#894f43'
+  spine_color: '#9f3e27'
   tags:
   - fantasy
   title: The Burning Bridge

@@ -2,7 +2,7 @@
 book:
   author: José Saramago, Giovanni Pontiero
   cover_image: blindness.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327866409l/2526._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780156007757-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 327
   publication_year: '1995'
   slug: blindness
-  spine_color: '#aaadaf'
+  spine_color: '#c8cac1'
   tags:
   - german
   title: Blindness

@@ -2,14 +2,14 @@
 book:
   author: Voltaire
   cover_image: micromegas.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181459579l/1156110.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140389029-L.jpg
   goodreads: '1156110'
   isbn10: 0140389024
   isbn13: '9780140389029'
   pages: '38'
   publication_year: '1752'
   slug: micromegas
-  spine_color: '#f50203'
+  spine_color: '#f50204'
   tags:
   - scifi
   title: Micromegas

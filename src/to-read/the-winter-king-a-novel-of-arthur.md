@@ -2,7 +2,7 @@
 book:
   author: Bernard Cornwell
   cover_image: the-winter-king-a-novel-of-arthur.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311987677l/68520._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780312156961-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: The Warlord Chronicles
   series_position: '1'
   slug: the-winter-king-a-novel-of-arthur
-  spine_color: '#191c25'
+  spine_color: '#aeb4b6'
   title: 'The Winter King: A Novel of Arthur'
 plan:
   date_added: '2018-09-19'

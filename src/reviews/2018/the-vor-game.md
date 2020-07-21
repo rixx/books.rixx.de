@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: the-vor-game.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322571824l/68483._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671720148-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '6'
   slug: the-vor-game
-  spine_color: '#73595b'
+  spine_color: '#8d6a57'
   tags:
   - scifi
   title: The Vor Game

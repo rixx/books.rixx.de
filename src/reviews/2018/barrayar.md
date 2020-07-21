@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: barrayar.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397151220l/61905._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743468411-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '7'
   slug: barrayar
-  spine_color: '#c2532d'
+  spine_color: '#c4532c'
   tags:
   - five-stars
   - scifi

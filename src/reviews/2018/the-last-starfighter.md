@@ -2,7 +2,7 @@
 book:
   author: Alan Dean Foster
   cover_image: the-last-starfighter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331964853l/981786._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780425072554-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 218
   publication_year: '1984'
   slug: the-last-starfighter
-  spine_color: '#9db7b8'
+  spine_color: '#4e5f60'
   tags:
   - scifi
   - ya

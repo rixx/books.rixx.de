@@ -2,7 +2,7 @@
 book:
   author: John Scalzi
   cover_image: redshirts.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348617890l/13055592.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765316998-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   pages: 320
   publication_year: '2012'
   slug: redshirts
-  spine_color: '#ad1e22'
+  spine_color: '#b13d50'
   tags:
   - five-stars
   - scifi

@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: 4-50-from-paddington.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388324483l/140278.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126933-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Miss Marple
   series_position: '7'
   slug: 4-50-from-paddington
-  spine_color: '#f9ef0d'
+  spine_color: '#ddca4a'
   tags:
   - mystery
   title: 4:50 from Paddington

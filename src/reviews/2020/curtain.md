@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: curtain.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386923108l/81903.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780425173749-L.jpg
   dimensions:
     height: 22.0
   goodreads: '81903'
@@ -13,7 +13,7 @@ book:
   series: Hercule Poirot
   series_position: 42
   slug: curtain
-  spine_color: '#5c1819'
+  spine_color: '#784443'
   tags:
   - mystery
   title: Curtain

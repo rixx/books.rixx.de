@@ -2,7 +2,7 @@
 book:
   author: Neil Gaiman
   cover_image: the-graveyard-book.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060530921-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   pages: 320
   publication_year: '2008'
   slug: the-graveyard-book
-  spine_color: '#336786'
+  spine_color: '#7f94b0'
   tags:
   - fantasy
   title: The Graveyard Book

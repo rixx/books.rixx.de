@@ -2,7 +2,7 @@
 book:
   author: Neal Shusterman
   cover_image: scythe.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172676l/28954189._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781442472426-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.6
@@ -15,7 +15,7 @@ book:
   series: Arc of a Scythe
   series_position: '1'
   slug: scythe
-  spine_color: '#ad2018'
+  spine_color: '#a32521'
   tags:
   - scifi
   title: Scythe

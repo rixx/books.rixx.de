@@ -2,7 +2,7 @@
 book:
   author: Stephenie Meyer
   cover_image: twilight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316015844-L.jpg
   dimensions:
     height: 22.0
   goodreads: '41865'
@@ -13,7 +13,7 @@ book:
   series: Twilight
   series_position: '1'
   slug: twilight
-  spine_color: '#8d484d'
+  spine_color: '#824d3e'
   tags:
   - fantasy
   title: Twilight

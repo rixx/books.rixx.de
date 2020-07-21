@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: the-eyre-affair.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445540555l/27003._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142001806-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Thursday Next
   series_position: '1'
   slug: the-eyre-affair
-  spine_color: '#458a75'
+  spine_color: '#6d6053'
   tags:
   - fantasy
   - five-stars

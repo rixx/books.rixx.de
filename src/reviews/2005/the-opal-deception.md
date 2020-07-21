@@ -2,7 +2,7 @@
 book:
   author: Eoin Colfer
   cover_image: the-opal-deception.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266475201l/114954.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781423103998-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.2
@@ -14,7 +14,7 @@ book:
   series: Artemis Fowl
   series_position: '4'
   slug: the-opal-deception
-  spine_color: '#e1b962'
+  spine_color: '#a54e2d'
   tags:
   - fantasy
   - german

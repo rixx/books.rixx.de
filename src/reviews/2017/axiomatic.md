@@ -2,7 +2,7 @@
 book:
   author: Greg Egan
   cover_image: axiomatic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287341765l/156783._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061052651-L.jpg
   dimensions:
     height: 24.0
     thickness: 1.9
@@ -13,7 +13,7 @@ book:
   pages: 293
   publication_year: '1990'
   slug: axiomatic
-  spine_color: '#62493f'
+  spine_color: '#602e2c'
   tags:
   - scifi
   title: Axiomatic

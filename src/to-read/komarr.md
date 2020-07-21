@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: komarr.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322572043l/61884._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780671578084-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '11'
   slug: komarr
-  spine_color: '#d5771d'
+  spine_color: '#d67518'
   title: Komarr
 plan:
   date_added: '2019-08-07'

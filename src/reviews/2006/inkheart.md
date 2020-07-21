@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: inkheart.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538266636l/28194._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439709101-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Inkworld
   series_position: '1'
   slug: inkheart
-  spine_color: '#a2252f'
+  spine_color: '#8c3930'
   tags:
   - fantasy
   - german

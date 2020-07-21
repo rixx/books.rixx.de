@@ -2,7 +2,7 @@
 book:
   author: Noah Gordon
   cover_image: the-physician.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389582565l/4692.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780751503890-L.jpg
   dimensions:
     height: 18.0
     thickness: 4.5
@@ -15,7 +15,7 @@ book:
   series: Cole Family Trilogy
   series_position: '1'
   slug: the-physician
-  spine_color: '#6d4440'
+  spine_color: '#381c17'
   tags:
   - historical-fiction
   title: The Physician

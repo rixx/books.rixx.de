@@ -2,7 +2,7 @@
 book:
   author: Alexandre Dumas
   cover_image: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391122492l/70020.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781933648316-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.7
@@ -13,7 +13,7 @@ book:
   pages: 864
   publication_year: '1870'
   slug: the-last-cavalier-being-the-adventures-of-count-sainte-hermine-in-the-age-of-napoleon
-  spine_color: '#9d9474'
+  spine_color: '#9d9473'
   tags:
   - historical-fiction
   title: 'The Last Cavalier: Being the Adventures of Count Sainte-Hermine in the Age

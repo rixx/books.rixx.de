@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: conrads-fate.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388545536l/13759.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060747459-L.jpg
   dimensions:
     height: 19.4
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Chrestomanci
   series_position: '5'
   slug: conrads-fate
-  spine_color: '#e4b773'
+  spine_color: '#ccad77'
   tags:
   - fantasy
   - german

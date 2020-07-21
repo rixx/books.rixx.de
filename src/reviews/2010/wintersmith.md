@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: wintersmith.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1290229201l/34492._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060890315-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '35'
   slug: wintersmith
-  spine_color: '#311c19'
+  spine_color: '#361f1b'
   tags:
   - five-stars
   title: Wintersmith

@@ -2,7 +2,7 @@
 book:
   author: Frederik Pohl
   cover_image: gateway.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441698400l/218427._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345475831-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: Heechee Saga
   series_position: '1'
   slug: gateway
-  spine_color: '#d0d8a6'
+  spine_color: '#d2dfb5'
   title: Gateway
 plan:
   date_added: '2018-08-25'

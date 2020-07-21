@@ -2,7 +2,7 @@
 book:
   author: Friedrich Schiller
   cover_image: die-rauber.jpg
-  cover_image_url: http://books.google.com/books/content?id=PO7kAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783150000151-L.jpg
   dimensions:
     height: 16.0
   goodreads: '942336'
@@ -11,7 +11,7 @@ book:
   pages: 176
   publication_year: '1781'
   slug: die-rauber
-  spine_color: '#fefefe'
+  spine_color: '#f6f501'
   tags:
   - german
   - stage-play

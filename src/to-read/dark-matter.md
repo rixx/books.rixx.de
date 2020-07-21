@@ -2,7 +2,7 @@
 book:
   author: Blake Crouch
   cover_image: dark-matter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781101904220-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   pages: 342
   publication_year: '2016'
   slug: dark-matter
-  spine_color: '#f44245'
+  spine_color: '#f53c3f'
   title: Dark Matter
 plan:
   date_added: '2018-08-20'

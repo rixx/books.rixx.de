@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: death-masks.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557713l/91479._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451459404-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '5'
   slug: death-masks
-  spine_color: '#568390'
+  spine_color: '#5d424f'
   tags:
   - urban-fantasy
   title: Death Masks

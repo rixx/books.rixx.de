@@ -2,7 +2,7 @@
 book:
   author: Raymond E. Feist
   cover_image: magician-apprentice.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408317983l/13812._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553564945-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: The Riftwar Saga
   series_position: '1'
   slug: magician-apprentice
-  spine_color: '#725eb8'
+  spine_color: '#594c9e'
   title: 'Magician: Apprentice'
 plan:
   date_added: '2017-11-21'

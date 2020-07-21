@@ -2,14 +2,14 @@
 book:
   author: Erich Kästner
   cover_image: doktor-erich-kastners-lyrische-hausapotheke.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337433439l/1477234._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423110013-L.jpg
   goodreads: '1477234'
   isbn10: '3423110015'
   isbn13: '9783423110013'
   pages: '224'
   publication_year: '1936'
   slug: doktor-erich-kastners-lyrische-hausapotheke
-  spine_color: '#f3e08e'
+  spine_color: '#eedc6a'
   tags:
   - german
   - poetry

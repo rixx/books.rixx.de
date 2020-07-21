@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: lost-in-a-good-book.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588691669l/27000._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780142004036-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Thursday Next
   series_position: '2'
   slug: lost-in-a-good-book
-  spine_color: '#93695e'
+  spine_color: '#cfcdbf'
   tags:
   - fantasy
   - german

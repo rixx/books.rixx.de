@@ -2,7 +2,7 @@
 book:
   author: Leigh Bardugo
   cover_image: six-of-crows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459349344l/23437156._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781627792127-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.0
@@ -15,7 +15,7 @@ book:
   series: Six of Crows
   series_position: '1'
   slug: six-of-crows
-  spine_color: '#64717b'
+  spine_color: '#63717b'
   title: Six of Crows
 plan:
   date_added: '2018-07-04'

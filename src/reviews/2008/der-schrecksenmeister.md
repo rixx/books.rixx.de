@@ -2,7 +2,7 @@
 book:
   author: Walter Moers
   cover_image: der-schrecksenmeister.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1184189366l/1491117._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783492049375-L.jpg
   dimensions:
     height: 25.0
   goodreads: '1491117'
@@ -13,7 +13,7 @@ book:
   series: Zamonien
   series_position: '5'
   slug: der-schrecksenmeister
-  spine_color: '#283f69'
+  spine_color: '#417caf'
   tags:
   - fantasy
   - german

@@ -2,7 +2,7 @@
 book:
   author: Eoin Colfer
   cover_image: the-arctic-incident.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388294381l/114955.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780786851478-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '2'
   slug: the-arctic-incident
-  spine_color: '#6b7075'
+  spine_color: '#9a9380'
   tags:
   - fantasy
   - german

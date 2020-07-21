@@ -2,7 +2,7 @@
 book:
   author: Ed McDonald
   cover_image: ravencry.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523487579l/39804476._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781473222052-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.9
@@ -15,7 +15,7 @@ book:
   series: Raven's Mark
   series_position: '2'
   slug: ravencry
-  spine_color: '#30191c'
+  spine_color: '#473436'
   tags:
   - fantasy
   title: Ravencry

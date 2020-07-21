@@ -2,7 +2,7 @@
 book:
   author: Tad Williams
   cover_image: the-dragonbone-chair.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477417642l/91981._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756402693-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Memory, Sorrow, and Thorn
   series_position: '1'
   slug: the-dragonbone-chair
-  spine_color: '#b0a48f'
+  spine_color: '#c5bf8f'
   title: The Dragonbone Chair
 plan:
   date_added: '2018-09-15'

@@ -2,7 +2,7 @@
 book:
   author: Todd Strasser
   cover_image: the-wave.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320402950l/481743._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780440993711-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 138
   publication_year: '1981'
   slug: the-wave
-  spine_color: '#ec1a0b'
+  spine_color: '#780303'
   tags:
   - german
   title: The Wave

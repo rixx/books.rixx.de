@@ -2,7 +2,7 @@
 book:
   author: George R.R. Martin
   cover_image: a-feast-for-crows.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429538615l/13497._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553582024-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: A Song of Ice and Fire
   series_position: '4'
   slug: a-feast-for-crows
-  spine_color: '#bd412e'
+  spine_color: '#a12d36'
   tags:
   - fantasy
   title: A Feast for Crows

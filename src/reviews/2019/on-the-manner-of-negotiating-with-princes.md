@@ -2,14 +2,14 @@
 book:
   author: François de Callières
   cover_image: on-the-manner-of-negotiating-with-princes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175484205l/519931.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780618055128-L.jpg
   goodreads: '519931'
   isbn10: 0618055126
   isbn13: '9780618055128'
   pages: '110'
   publication_year: '1983'
   slug: on-the-manner-of-negotiating-with-princes
-  spine_color: '#7d572c'
+  spine_color: '#7e552b'
   tags:
   - nonfiction
   title: On the Manner of Negotiating with Princes

@@ -2,14 +2,14 @@
 book:
   author: Tsultrim Allione
   cover_image: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270868l/2232663._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316013130-L.jpg
   goodreads: '2232663'
   isbn10: '0316013137'
   isbn13: '9780316013130'
   pages: '288'
   publication_year: '2008'
   slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
-  spine_color: '#e54d26'
+  spine_color: '#da3b18'
   tags:
   - five-stars
   - nonfiction

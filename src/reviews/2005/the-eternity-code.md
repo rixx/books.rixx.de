@@ -2,7 +2,7 @@
 book:
   author: Eoin Colfer
   cover_image: the-eternity-code.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327945417l/227865._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780141321318-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Artemis Fowl
   series_position: '3'
   slug: the-eternity-code
-  spine_color: '#ab3a2e'
+  spine_color: '#a8382b'
   tags:
   - fantasy
   - german

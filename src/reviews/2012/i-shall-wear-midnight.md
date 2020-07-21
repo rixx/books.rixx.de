@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: i-shall-wear-midnight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328232764l/7576115._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385611077-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '38'
   slug: i-shall-wear-midnight
-  spine_color: '#bf9b72'
+  spine_color: '#9e7a5d'
   tags:
   - five-stars
   title: I Shall Wear Midnight

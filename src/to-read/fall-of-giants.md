@@ -2,7 +2,7 @@
 book:
   author: Ken Follett
   cover_image: fall-of-giants.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470384630l/7315573._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780525951650-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.4
@@ -15,7 +15,7 @@ book:
   series: The Century Trilogy
   series_position: '1'
   slug: fall-of-giants
-  spine_color: '#a06c3f'
+  spine_color: '#9a7e62'
   title: Fall of Giants
 plan:
   date_added: '2016-05-19'

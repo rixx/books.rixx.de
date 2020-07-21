@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: ronia-the-robbers-daughter.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451632787l/19314._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140317206-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.1
@@ -13,7 +13,7 @@ book:
   pages: 176
   publication_year: '1981'
   slug: ronia-the-robbers-daughter
-  spine_color: '#aeab71'
+  spine_color: '#a99269'
   tags:
   - five-stars
   - german

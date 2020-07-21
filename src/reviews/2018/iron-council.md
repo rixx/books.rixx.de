@@ -2,7 +2,7 @@
 book:
   author: China Miéville
   cover_image: iron-council.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320419476l/68495._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345458421-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: New Crobuzon
   series_position: '3'
   slug: iron-council
-  spine_color: '#863f47'
+  spine_color: '#893f47'
   tags:
   - fantasy
   title: Iron Council

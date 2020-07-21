@@ -2,7 +2,7 @@
 book:
   author: Martha Wells
   cover_image: the-cloud-roads.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317017378l/9461562._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781597802161-L.jpg
   dimensions:
     height: 23.0
     thickness: 1.8
@@ -15,7 +15,7 @@ book:
   series: Books of the Raksura
   series_position: '1'
   slug: the-cloud-roads
-  spine_color: '#b1922f'
+  spine_color: '#b2912f'
   title: The Cloud Roads
 plan:
   date_added: '2019-05-10'

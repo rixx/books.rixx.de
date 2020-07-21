@@ -2,14 +2,14 @@
 book:
   author: Eric Frank Russell
   cover_image: the-great-explosion.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266916531l/1875974.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780881849912-L.jpg
   goodreads: '1875974'
   isbn10: 088184991X
   isbn13: '9780881849912'
   pages: '160'
   publication_year: '1962'
   slug: the-great-explosion
-  spine_color: '#916463'
+  spine_color: '#7d7896'
   tags:
   - five-stars
   - scifi

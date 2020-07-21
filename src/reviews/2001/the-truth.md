@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: the-truth.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347487127l/34498.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780413771162-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '25'
   slug: the-truth
-  spine_color: '#ecd3b3'
+  spine_color: '#f1f0a9'
   title: The Truth
 plan:
   date_added: '2015-04-08'

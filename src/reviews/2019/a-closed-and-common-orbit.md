@@ -2,7 +2,7 @@
 book:
   author: Becky Chambers
   cover_image: a-closed-and-common-orbit.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781473621442-L.jpg
   dimensions:
     height: 25
   goodreads: '29475447'
@@ -13,7 +13,7 @@ book:
   series: Wayfarers
   series_position: '2'
   slug: a-closed-and-common-orbit
-  spine_color: '#4e3f40'
+  spine_color: '#865c5a'
   tags:
   - scifi
   title: A Closed and Common Orbit

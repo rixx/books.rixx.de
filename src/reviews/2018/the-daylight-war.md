@@ -2,7 +2,7 @@
 book:
   author: Peter V. Brett
   cover_image: the-daylight-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360777092l/9268487._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345503824-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.4
@@ -15,7 +15,7 @@ book:
   series: Demon Cycle
   series_position: '3'
   slug: the-daylight-war
-  spine_color: '#98221e'
+  spine_color: '#8a2a27'
   tags:
   - fantasy
   title: The Daylight War

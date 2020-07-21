@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-lathe-of-heaven.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322l/59924._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060512743-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.0
@@ -13,7 +13,7 @@ book:
   pages: 176
   publication_year: '1971'
   slug: the-lathe-of-heaven
-  spine_color: '#e2b57e'
+  spine_color: '#d9ae7f'
   tags:
   - scifi
   title: The Lathe of Heaven

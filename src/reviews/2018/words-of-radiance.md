@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: words-of-radiance.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307927l/17332218._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765326362-L.jpg
   dimensions:
     height: 25.0
     thickness: 6.6
@@ -15,7 +15,7 @@ book:
   series: The Stormlight Archive
   series_position: '2'
   slug: words-of-radiance
-  spine_color: '#aa8048'
+  spine_color: '#ac8047'
   tags:
   - fantasy
   title: Words of Radiance

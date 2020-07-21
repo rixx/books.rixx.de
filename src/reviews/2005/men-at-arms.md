@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: men-at-arms.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388215150l/400354.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061092190-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '15'
   slug: men-at-arms
-  spine_color: '#bac475'
+  spine_color: '#2a608b'
   title: Men at Arms
 plan:
   date_added: '2015-04-08'

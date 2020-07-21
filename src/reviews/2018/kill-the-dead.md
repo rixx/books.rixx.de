@@ -2,7 +2,7 @@
 book:
   author: Richard Kadrey
   cover_image: kill-the-dead.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275103078l/7778609._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061714313-L.jpg
   dimensions:
     height: 19.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Sandman Slim
   series_position: '2'
   slug: kill-the-dead
-  spine_color: '#9da06d'
+  spine_color: '#829454'
   tags:
   - urban-fantasy
   title: Kill the Dead

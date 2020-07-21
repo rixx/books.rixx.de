@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner-fuchsalarm.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424875703l/1839455._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791504568-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '3'
   slug: die-wilden-huhner-fuchsalarm
-  spine_color: '#9c5b22'
+  spine_color: '#985d2a'
   tags:
   - german
   - kids

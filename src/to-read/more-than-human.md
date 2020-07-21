@@ -2,7 +2,7 @@
 book:
   author: Theodore Sturgeon
   cover_image: more-than-human.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403192694l/541024._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780375703713-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 186
   publication_year: '1953'
   slug: more-than-human
-  spine_color: '#a0472d'
+  spine_color: '#a0492e'
   title: More Than Human
 plan:
   date_added: '2018-09-12'

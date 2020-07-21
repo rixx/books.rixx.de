@@ -2,7 +2,7 @@
 book:
   author: Theodor Fontane
   cover_image: effi-briest.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499908468l/442296._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780140441901-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.7
@@ -13,7 +13,7 @@ book:
   pages: 272
   publication_year: '1894'
   slug: effi-briest
-  spine_color: '#f0e99d'
+  spine_color: '#866c2c'
   tags:
   - german
   title: Effi Briest

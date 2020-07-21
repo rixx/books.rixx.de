@@ -2,7 +2,7 @@
 book:
   author: Robin McKinley
   cover_image: the-blue-sword.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563198223l/407813._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441068807-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: Damar
   series_position: '1'
   slug: the-blue-sword
-  spine_color: '#a44c21'
+  spine_color: '#a44a1c'
   title: The Blue Sword
 plan:
   date_added: '2016-10-05'

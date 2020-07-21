@@ -2,7 +2,7 @@
 book:
   author: Daniel O'Malley
   cover_image: the-rook.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561584006l/10836728._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316098793-L.jpg
   dimensions:
     height: 25.0
     thickness: 4.4
@@ -15,7 +15,7 @@ book:
   series: The Checquy Files
   series_position: '1'
   slug: the-rook
-  spine_color: '#6d6c6b'
+  spine_color: '#020202'
   tags:
   - five-stars
   - urban-fantasy

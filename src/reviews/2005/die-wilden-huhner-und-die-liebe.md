@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: die-wilden-huhner-und-die-liebe.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424875635l/493469._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791504643-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Die Wilden Hühner
   series_position: '5'
   slug: die-wilden-huhner-und-die-liebe
-  spine_color: '#f3e879'
+  spine_color: '#f5efb4'
   tags:
   - german
   - kids

@@ -2,7 +2,7 @@
 book:
   author: James Tiptree Jr.
   cover_image: houston-houston-do-you-read.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325070167l/318011._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781568652511-L.jpg
   dimensions:
     height: 19.0
   goodreads: '318011'
@@ -11,7 +11,7 @@ book:
   pages: 150
   publication_year: '1976'
   slug: houston-houston-do-you-read
-  spine_color: '#d5b161'
+  spine_color: '#fcfbf7'
   title: Houston, Houston, Do You Read?
 plan:
   date_added: '2018-03-13'

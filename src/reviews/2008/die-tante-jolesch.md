@@ -2,7 +2,7 @@
 book:
   author: Friedrich Torberg
   cover_image: die-tante-jolesch.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488750345l/1508991._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423012669-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   pages: 249
   publication_year: '1975'
   slug: die-tante-jolesch
-  spine_color: '#7a6635'
+  spine_color: '#615122'
   tags:
   - german
   - history

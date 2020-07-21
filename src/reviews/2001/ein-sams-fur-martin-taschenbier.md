@@ -2,7 +2,7 @@
 book:
   author: Paul Maar
   cover_image: ein-sams-fur-martin-taschenbier.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382614910l/1632936._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789142109-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Sams
   series_position: '4'
   slug: ein-sams-fur-martin-taschenbier
-  spine_color: '#eb581d'
+  spine_color: '#ea5b1d'
   tags:
   - german
   - kids

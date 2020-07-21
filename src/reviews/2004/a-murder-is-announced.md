@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: a-murder-is-announced.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348508635l/16298.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126292-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Miss Marple
   series_position: '4'
   slug: a-murder-is-announced
-  spine_color: '#f2ad23'
+  spine_color: '#f2ac22'
   tags:
   - mystery
   title: A Murder Is Announced

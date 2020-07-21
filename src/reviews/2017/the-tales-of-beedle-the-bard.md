@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: the-tales-of-beedle-the-bard.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373467575l/3950967._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780747599876-L.jpg
   dimensions:
     height: 18.5
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 109
   publication_year: '2008'
   slug: the-tales-of-beedle-the-bard
-  spine_color: '#546d8d'
+  spine_color: '#587295'
   tags:
   - fantasy
   title: The Tales of Beedle the Bard

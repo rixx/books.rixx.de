@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-prisoner-of-azkaban.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439655484-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Harry Potter
   series_position: '3'
   slug: harry-potter-and-the-prisoner-of-azkaban
-  spine_color: '#bf866f'
+  spine_color: '#c1876e'
   tags:
   - fantasy
   - german

@@ -2,7 +2,7 @@
 book:
   author: Robert Louis Stevenson
   cover_image: the-strange-case-of-dr-jekyll-and-mr-hyde.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451528957-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.1
@@ -13,7 +13,7 @@ book:
   pages: 144
   publication_year: '1886'
   slug: the-strange-case-of-dr-jekyll-and-mr-hyde
-  spine_color: '#573637'
+  spine_color: '#5f4d4d'
   title: The Strange Case of Dr. Jekyll and Mr. Hyde
 plan:
   date_added: '2015-04-17'

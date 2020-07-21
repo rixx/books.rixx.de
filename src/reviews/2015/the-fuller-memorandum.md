@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-fuller-memorandum.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262645028l/7149287._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441018673-L.jpg
   dimensions:
     height: 22.0
   goodreads: '7149287'
@@ -13,7 +13,7 @@ book:
   series: Laundry Files
   series_position: '3'
   slug: the-fuller-memorandum
-  spine_color: '#d1caa6'
+  spine_color: '#ccc7b6'
   tags:
   - urban-fantasy
   title: The Fuller Memorandum

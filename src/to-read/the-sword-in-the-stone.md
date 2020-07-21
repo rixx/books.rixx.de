@@ -2,7 +2,7 @@
 book:
   author: T.H. White
   cover_image: the-sword-in-the-stone.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355212194l/316845._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780006753995-L.jpg
   dimensions:
     height: 20.0
     thickness: 0.9
@@ -15,7 +15,7 @@ book:
   series: The Once and Future King
   series_position: '1'
   slug: the-sword-in-the-stone
-  spine_color: '#b25a22'
+  spine_color: '#af5920'
   title: The Sword in the Stone
 plan:
   date_added: '2018-09-25'

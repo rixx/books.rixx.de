@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: tehanu.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924581l/13661.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416509639-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Earthsea Cycle
   series_position: '4'
   slug: tehanu
-  spine_color: '#bcc99d'
+  spine_color: '#bac2a8'
   tags:
   - fantasy
   title: Tehanu

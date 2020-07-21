@@ -2,7 +2,7 @@
 book:
   author: Iain M. Banks
   cover_image: use-of-weapons.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587400756l/12007._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781857231359-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Culture
   series_position: '3'
   slug: use-of-weapons
-  spine_color: '#84748b'
+  spine_color: '#72497c'
   tags:
   - scifi
   title: Use of Weapons

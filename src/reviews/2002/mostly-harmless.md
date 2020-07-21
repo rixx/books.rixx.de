@@ -2,7 +2,7 @@
 book:
   author: Douglas Adams
   cover_image: mostly-harmless.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320725132l/360._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345418777-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -15,7 +15,7 @@ book:
   series: Hitchhiker's Guide to the Galaxy
   series_position: '5'
   slug: mostly-harmless
-  spine_color: '#9eaf8a'
+  spine_color: '#95a786'
   tags:
   - german
   - scifi

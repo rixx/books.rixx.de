@@ -1,8 +1,8 @@
 ---
 book:
   author: Missy Vineyard
-  cover_image: how-you-stand-how-you-move-how-you-live-learning-the-alexander-technique-to-explore-your-mind-body-connection-and-achieve-self-mastery.png
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image: how-you-stand-how-you-move-how-you-live-learning-the-alexander-technique-to-explore-your-mind-body-connection-and-achieve-self-mastery.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781600940064-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.1
@@ -13,7 +13,7 @@ book:
   pages: 336
   publication_year: '2007'
   slug: how-you-stand-how-you-move-how-you-live-learning-the-alexander-technique-to-explore-your-mind-body-connection-and-achieve-self-mastery
-  spine_color: '#dbd3bf'
+  spine_color: '#6886bc'
   title: 'How You Stand, How You Move, How You Live: Learning the Alexander Technique
     to Explore Your Mind-Body Connection and Achieve Self-Mastery'
 plan:

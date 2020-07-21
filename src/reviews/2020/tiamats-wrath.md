@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: tiamats-wrath.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316332873-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.4
@@ -15,7 +15,7 @@ book:
   series: The Expanse
   series_position: '8'
   slug: tiamats-wrath
-  spine_color: '#9b704a'
+  spine_color: '#9f724a'
   tags:
   - five-stars
   - scifi

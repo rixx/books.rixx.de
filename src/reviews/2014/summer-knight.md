@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: summer-knight.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557469l/91478._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451458926-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '4'
   slug: summer-knight
-  spine_color: '#d5c644'
+  spine_color: '#7a785e'
   tags:
   - urban-fantasy
   title: Summer Knight

@@ -2,14 +2,14 @@
 book:
   author: Iain Banks
   cover_image: whit.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356132227l/290569._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316914369-L.jpg
   goodreads: '290569'
   isbn10: 0316914363
   isbn13: '9780316914369'
   pages: '455'
   publication_year: '1995'
   slug: whit
-  spine_color: '#0e0d0f'
+  spine_color: '#e6e6e5'
   title: Whit
 plan:
   date_added: 2020-06-12

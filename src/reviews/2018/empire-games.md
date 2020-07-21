@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: empire-games.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479244298l/29939336._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765337566-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: Empire Games
   series_position: '1'
   slug: empire-games
-  spine_color: '#e4c57d'
+  spine_color: '#f5be45'
   tags:
   - scifi
   title: Empire Games

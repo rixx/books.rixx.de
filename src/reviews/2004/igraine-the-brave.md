@@ -2,7 +2,7 @@
 book:
   author: Cornelia Funke
   cover_image: igraine-the-brave.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328843240l/613866._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439903790-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   pages: 212
   publication_year: '1998'
   slug: igraine-the-brave
-  spine_color: '#b49363'
+  spine_color: '#b79563'
   tags:
   - german
   - kids

@@ -2,13 +2,13 @@
 book:
   author: Otfried Preußler
   cover_image: der-kleine-wassermann.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173461987l/292186._SX318_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522106207-L.jpg
   goodreads: '292186'
   isbn10: '3522106202'
   isbn13: '9783522106207'
   publication_year: '1956'
   slug: der-kleine-wassermann
-  spine_color: '#5f9161'
+  spine_color: '#5e9160'
   tags:
   - german
   - kids

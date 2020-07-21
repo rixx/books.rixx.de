@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: snuff.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385619264-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '39'
   slug: snuff
-  spine_color: '#1f717c'
+  spine_color: '#418882'
   title: Snuff
 plan:
   date_added: '2015-04-08'

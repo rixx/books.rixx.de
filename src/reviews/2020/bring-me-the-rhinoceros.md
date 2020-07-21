@@ -2,7 +2,7 @@
 book:
   author: John   Tarrant
   cover_image: bring-me-the-rhinoceros.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387745124l/148471.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781400047642-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.7

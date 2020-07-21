@@ -2,7 +2,7 @@
 book:
   author: Philip Pullman
   cover_image: the-golden-compass.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679879244-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: His Dark Materials
   series_position: '1'
   slug: the-golden-compass
-  spine_color: '#152348'
+  spine_color: '#262e48'
   tags:
   - fantasy
   - german

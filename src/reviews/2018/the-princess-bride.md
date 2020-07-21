@@ -2,7 +2,7 @@
 book:
   author: William Goldman
   cover_image: the-princess-bride.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903636l/21787._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345418265-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 456
   publication_year: '1973'
   slug: the-princess-bride
-  spine_color: '#66694f'
+  spine_color: '#6a6a52'
   tags:
   - fantasy
   - five-stars

@@ -2,7 +2,7 @@
 book:
   author: Steven Johnson
   cover_image: where-good-ideas-come-from-the-natural-history-of-innovation.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311705993l/8034188._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781594487712-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.9
@@ -13,7 +13,7 @@ book:
   pages: 326
   publication_year: '2010'
   slug: where-good-ideas-come-from-the-natural-history-of-innovation
-  spine_color: '#d8d56e'
+  spine_color: '#d9d274'
   tags:
   - nonfiction
   - psychology

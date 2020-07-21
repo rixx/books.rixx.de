@@ -2,7 +2,7 @@
 book:
   author: Jack London
   cover_image: the-call-of-the-wild-white-fang.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168977937l/37677._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781587263897-L.jpg
   goodreads: '37677'
   isbn10: '1587263890'
   isbn13: '9781587263897'

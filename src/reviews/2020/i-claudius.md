@@ -2,7 +2,7 @@
 book:
   author: Robert Graves
   cover_image: i-claudius.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185810l/18765.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679724773-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Claudius
   series_position: '1'
   slug: i-claudius
-  spine_color: '#e8e3a0'
+  spine_color: '#eded97'
   tags:
   - historical-fiction
   title: I, Claudius

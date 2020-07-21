@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: equal-rites.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296660066l/833422._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552131056-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.8
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '3'
   slug: equal-rites
-  spine_color: '#b9754d'
+  spine_color: '#a7785e'
   title: Equal Rites
 plan:
   date_added: '2018-03-19'

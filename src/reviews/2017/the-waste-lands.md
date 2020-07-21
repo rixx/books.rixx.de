@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: the-waste-lands.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220386l/34084._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670032563-L.jpg
   dimensions:
     height: 23.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: The Dark Tower
   series_position: '3'
   slug: the-waste-lands
-  spine_color: '#7e6d7c'
+  spine_color: '#7b8aa2'
   tags:
   - fantasy
   title: The Waste Lands

@@ -2,7 +2,7 @@
 book:
   author: Diana Wynne Jones
   cover_image: witch-week.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356548970l/47572._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060298791-L.jpg
   dimensions:
     height: 19.4
   goodreads: '47572'
@@ -13,7 +13,7 @@ book:
   series: Chrestomanci
   series_position: '3'
   slug: witch-week
-  spine_color: '#846051'
+  spine_color: '#87604c'
   tags:
   - fantasy
   - german

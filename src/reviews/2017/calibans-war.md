@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: calibans-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781841499901-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.5
@@ -15,7 +15,7 @@ book:
   series: The Expanse
   series_position: '2'
   slug: calibans-war
-  spine_color: '#432229'
+  spine_color: '#4d1c22'
   tags:
   - scifi
   title: Caliban's War

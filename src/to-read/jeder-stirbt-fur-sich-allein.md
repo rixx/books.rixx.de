@@ -2,7 +2,7 @@
 book:
   author: Hans Fallada
   cover_image: jeder-stirbt-fur-sich-allein.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327901908l/10255545._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783351033491-L.jpg
   dimensions:
     height: 22.0
     width: 125.0
@@ -12,7 +12,7 @@ book:
   pages: 704
   publication_year: '1947'
   slug: jeder-stirbt-fur-sich-allein
-  spine_color: '#8091a6'
+  spine_color: '#7f8fa5'
   title: Jeder stirbt für sich allein
 plan:
   date_added: '2018-07-24'

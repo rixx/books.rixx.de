@@ -2,7 +2,7 @@
 book:
   author: Franz Kafka
   cover_image: das-urteil-und-andere-erzahlungen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519040833l/360470._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783596200191-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.1
@@ -13,7 +13,7 @@ book:
   pages: 188
   publication_year: '1912'
   slug: das-urteil-und-andere-erzahlungen
-  spine_color: '#f6f7ed'
+  spine_color: '#f5f7eb'
   tags:
   - german
   title: Das Urteil und andere Erzählungen

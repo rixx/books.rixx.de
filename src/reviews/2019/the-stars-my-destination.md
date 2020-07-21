@@ -2,7 +2,7 @@
 book:
   author: Alfred Bester
   cover_image: the-stars-my-destination.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433671750l/333867._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679767800-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 258
   publication_year: '1955'
   slug: the-stars-my-destination
-  spine_color: '#a86a23'
+  spine_color: '#885f12'
   tags:
   - scifi
   title: The Stars My Destination

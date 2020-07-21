@@ -2,7 +2,7 @@
 book:
   author: Paul Maar
   cover_image: am-samstag-kam-das-sams-zuruck.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382614776l/1598960._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789119545-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.2
@@ -15,7 +15,7 @@ book:
   series: Sams
   series_position: '2'
   slug: am-samstag-kam-das-sams-zuruck
-  spine_color: '#ecc031'
+  spine_color: '#eb9410'
   tags:
   - german
   - kids

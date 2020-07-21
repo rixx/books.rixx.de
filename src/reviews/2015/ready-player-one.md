@@ -2,7 +2,7 @@
 book:
   author: Ernest Cline
   cover_image: ready-player-one.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780307887436-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Ready Player One
   series_position: '1'
   slug: ready-player-one
-  spine_color: '#e71731'
+  spine_color: '#ec1d37'
   tags:
   - scifi
   - ya

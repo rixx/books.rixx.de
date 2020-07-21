@@ -2,7 +2,7 @@
 book:
   author: Ben Aaronovitch
   cover_image: moon-over-soho.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401386247l/10381195._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575097605-L.jpg
   dimensions:
     height: 22.3
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Rivers of London
   series_position: '2'
   slug: moon-over-soho
-  spine_color: '#7b85ae'
+  spine_color: '#ac2777'
   tags:
   - urban-fantasy
   title: Moon Over Soho

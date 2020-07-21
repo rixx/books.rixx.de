@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: shards-of-honour.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392767899l/61903._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780743468428-L.jpg
   dimensions:
     height: 18.0
   goodreads: '61903'
@@ -13,7 +13,7 @@ book:
   series: Vorkosigan Saga
   series_position: '1'
   slug: shards-of-honour
-  spine_color: '#c93022'
+  spine_color: '#cc2f20'
   tags:
   - scifi
   title: Shards of Honour

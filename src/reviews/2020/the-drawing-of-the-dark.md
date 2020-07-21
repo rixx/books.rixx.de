@@ -2,7 +2,7 @@
 book:
   author: Tim Powers
   cover_image: the-drawing-of-the-dark.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303142797l/209693._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575074262-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.3
@@ -13,7 +13,7 @@ book:
   pages: 336
   publication_year: '1979'
   slug: the-drawing-of-the-dark
-  spine_color: '#233c37'
+  spine_color: '#25413c'
   tags:
   - fantasy
   - historical-fiction

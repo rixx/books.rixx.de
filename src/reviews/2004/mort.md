@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: mort.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388181166l/386372.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020681-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '4'
   slug: mort
-  spine_color: '#d29149'
+  spine_color: '#e9cb5a'
   title: Mort
 plan:
   date_added: '2015-04-08'

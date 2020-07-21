@@ -2,7 +2,7 @@
 book:
   author: Lois McMaster Bujold
   cover_image: dreamweavers-dilemma.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395312075l/990089._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780915368532-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.8
@@ -15,7 +15,7 @@ book:
   series: Vorkosigan Saga
   series_position: '9.1'
   slug: dreamweavers-dilemma
-  spine_color: '#cbb276'
+  spine_color: '#cfa37f'
   tags:
   - scifi
   title: Dreamweaver's Dilemma

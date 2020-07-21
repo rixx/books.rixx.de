@@ -2,7 +2,7 @@
 book:
   author: G. Willow Wilson
   cover_image: alif-the-unseen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325543155l/13239822._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780802120205-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.6
@@ -13,7 +13,7 @@ book:
   pages: 433
   publication_year: '2012'
   slug: alif-the-unseen
-  spine_color: '#f1ec26'
+  spine_color: '#eae10e'
   title: Alif the Unseen
 plan:
   date_added: '2018-08-28'

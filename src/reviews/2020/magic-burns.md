@@ -2,7 +2,7 @@
 book:
   author: Ilona Andrews
   cover_image: magic-burns.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311280284l/1811543._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441015832-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Kate Daniels
   series_position: '2'
   slug: magic-burns
-  spine_color: '#7e5842'
+  spine_color: '#7b5944'
   tags:
   - fantasy
   - urban-fantasy

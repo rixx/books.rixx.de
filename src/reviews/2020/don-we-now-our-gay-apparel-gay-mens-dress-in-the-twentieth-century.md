@@ -2,7 +2,7 @@
 book:
   author: Shaun Cole
   cover_image: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316734389l/1266646._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781859734209-L.jpg
   dimensions:
     height: 24.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 224
   publication_year: '2000'
   slug: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century
-  spine_color: '#e97590'
+  spine_color: '#e8738d'
   tags:
   - history
   - nonfiction

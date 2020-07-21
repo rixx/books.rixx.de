@@ -2,7 +2,7 @@
 book:
   author: Sherwood Smith
   cover_image: inda.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309284273l/222837._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756402648-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.4
@@ -15,7 +15,7 @@ book:
   series: Inda
   series_position: '1'
   slug: inda
-  spine_color: '#efc89b'
+  spine_color: '#efc798'
   title: Inda
 plan:
   date_added: '2018-09-15'

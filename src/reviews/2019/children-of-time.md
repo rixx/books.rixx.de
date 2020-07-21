@@ -2,7 +2,7 @@
 book:
   author: Adrian Tchaikovsky
   cover_image: children-of-time.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431014197l/25499718._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781447273288-L.jpg
   dimensions:
     height: 24.0
     thickness: 119.4
@@ -15,7 +15,7 @@ book:
   series: Children of Time
   series_position: '1'
   slug: children-of-time
-  spine_color: '#4a8264'
+  spine_color: '#457e60'
   tags:
   - scifi
   title: Children of Time

@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: immer-dieser-michel.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1175022925l/468940.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789129469-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.4
@@ -13,7 +13,7 @@ book:
   pages: 335
   publication_year: null
   slug: immer-dieser-michel
-  spine_color: '#f9be1c'
+  spine_color: '#fabe1c'
   tags:
   - german
   - kids

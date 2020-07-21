@@ -2,7 +2,7 @@
 book:
   author: Steven Brust
   cover_image: jhereg.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328204364l/133454._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783608932645-L.jpg
   dimensions:
     height: 21.0
     thickness: 3.4
@@ -15,7 +15,7 @@ book:
   series: Vlad Taltos
   series_position: '1'
   slug: jhereg
-  spine_color: '#454a5f'
+  spine_color: '#898582'
   title: Jhereg
 plan:
   date_added: '2018-09-15'

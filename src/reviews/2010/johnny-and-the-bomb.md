@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: johnny-and-the-bomb.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387702036l/64385.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060541910-L.jpg
   dimensions:
     height: 24.0
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: Johnny Maxwell
   series_position: '3'
   slug: johnny-and-the-bomb
-  spine_color: '#e9bb52'
+  spine_color: '#c9b156'
   tags:
   - fantasy
   title: Johnny and the Bomb

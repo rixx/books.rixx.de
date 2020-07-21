@@ -2,7 +2,7 @@
 book:
   author: Scott Lynch
   cover_image: the-lies-of-locke-lamora.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576333981l/127455._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553804676-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Gentleman Bastard
   series_position: '1'
   slug: the-lies-of-locke-lamora
-  spine_color: '#3b1d41'
+  spine_color: '#3f1e45'
   tags:
   - fantasy
   title: The Lies of Locke Lamora

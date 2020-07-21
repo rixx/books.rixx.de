@@ -2,7 +2,7 @@
 book:
   author: Otfried Preußler
   cover_image: der-rauber-hotzenplotz.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423356l/1246526._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522105903-L.jpg
   dimensions:
     height: 23
   goodreads: '1246526'
@@ -13,7 +13,7 @@ book:
   series: Hotzenplotz
   series_position: '1'
   slug: der-rauber-hotzenplotz
-  spine_color: '#d79a36'
+  spine_color: '#d89c34'
   tags:
   - german
   - kids

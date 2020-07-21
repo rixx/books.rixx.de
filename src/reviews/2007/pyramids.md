@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: pyramids.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439098306l/64217._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020650-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '7'
   slug: pyramids
-  spine_color: '#57bbb4'
+  spine_color: '#7d324e'
   title: Pyramids
 plan:
   date_added: '2015-04-08'

@@ -2,7 +2,7 @@
 book:
   author: Douglas Adams
   cover_image: last-chance-to-see.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327867839l/8696._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345371980-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   pages: 256
   publication_year: '1990'
   slug: last-chance-to-see
-  spine_color: '#bd7e50'
+  spine_color: '#b15d34'
   tags:
   - german
   - nonfiction

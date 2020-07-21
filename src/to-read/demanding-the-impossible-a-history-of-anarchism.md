@@ -2,7 +2,7 @@
 book:
   author: Peter   Marshall
   cover_image: demanding-the-impossible-a-history-of-anarchism.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347731638l/880355.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780006862451-L.jpg
   dimensions:
     height: 20.0
     thickness: 4.5
@@ -13,7 +13,7 @@ book:
   pages: 767
   publication_year: '1992'
   slug: demanding-the-impossible-a-history-of-anarchism
-  spine_color: '#e0d991'
+  spine_color: '#e0d890'
   title: 'Demanding the Impossible: A History of Anarchism'
 plan:
   date_added: '2017-11-20'

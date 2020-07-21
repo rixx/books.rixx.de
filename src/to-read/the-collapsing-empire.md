@@ -2,7 +2,7 @@
 book:
   author: John Scalzi
   cover_image: the-collapsing-empire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464097677l/30078567._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765388896-L.jpg
   dimensions: {}
   goodreads: '30078567'
   isbn10: 0765388898
@@ -12,7 +12,7 @@ book:
   series: The Interdependency
   series_position: '1'
   slug: the-collapsing-empire
-  spine_color: '#1f2240'
+  spine_color: '#212444'
   title: The Collapsing Empire
 plan:
   date_added: '2018-08-07'

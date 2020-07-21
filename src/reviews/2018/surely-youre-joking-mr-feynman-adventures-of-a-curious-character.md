@@ -2,7 +2,7 @@
 book:
   author: Richard P. Feynman
   cover_image: surely-youre-joking-mr-feynman-adventures-of-a-curious-character.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348445281l/5544._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780393316049-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 391
   publication_year: '1985'
   slug: surely-youre-joking-mr-feynman-adventures-of-a-curious-character
-  spine_color: '#d8d3b7'
+  spine_color: '#886559'
   title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
 plan:
   date_added: '2015-04-09'

@@ -2,7 +2,7 @@
 book:
   author: Vernor Vinge
   cover_image: a-fire-upon-the-deep.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333915005l/77711._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812515282-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Zones of Thought
   series_position: '1'
   slug: a-fire-upon-the-deep
-  spine_color: '#ccc8c1'
+  spine_color: '#898f97'
   tags:
   - scifi
   title: A Fire Upon the Deep

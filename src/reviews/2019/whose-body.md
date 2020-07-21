@@ -2,7 +2,7 @@
 book:
   author: Dorothy L. Sayers
   cover_image: whose-body.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387573241l/192893._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061043574-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.4
@@ -15,7 +15,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '1'
   slug: whose-body
-  spine_color: '#a18b87'
+  spine_color: '#ac8e85'
   tags:
   - five-stars
   - german

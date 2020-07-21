@@ -2,13 +2,13 @@
 book:
   author: Michael Ende
   cover_image: momo.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420905611l/68811._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522168571-L.jpg
   goodreads: '68811'
   isbn10: '3522168577'
   isbn13: '9783522168571'
   publication_year: '1973'
   slug: momo
-  spine_color: '#d5832a'
+  spine_color: '#d38527'
   tags:
   - fantasy
   - five-stars

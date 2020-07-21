@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: a-hat-full-of-sky.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1319037274l/34501._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780552552646-L.jpg
   dimensions:
     height: 20.0
   goodreads: '34501'
@@ -13,7 +13,7 @@ book:
   series: Discworld
   series_position: '32'
   slug: a-hat-full-of-sky
-  spine_color: '#9e8d7f'
+  spine_color: '#baa261'
   tags:
   - five-stars
   title: A Hat Full of Sky

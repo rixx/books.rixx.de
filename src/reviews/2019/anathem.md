@@ -2,7 +2,7 @@
 book:
   author: Neal Stephenson
   cover_image: anathem.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488349209l/2845024._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061474095-L.jpg
   dimensions:
     height: 24.0
     thickness: 5.2
@@ -13,7 +13,7 @@ book:
   pages: 937
   publication_year: '2008'
   slug: anathem
-  spine_color: '#706142'
+  spine_color: '#aeae97'
   tags:
   - five-stars
   - scifi

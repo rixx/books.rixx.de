@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: leviathan-wakes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781841499888-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.2
@@ -15,7 +15,7 @@ book:
   series: The Expanse
   series_position: '1'
   slug: leviathan-wakes
-  spine_color: '#19384a'
+  spine_color: '#1b3c4e'
   tags:
   - five-stars
   - scifi

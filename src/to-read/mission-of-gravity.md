@@ -2,7 +2,7 @@
 book:
   author: Hal Clement
   cover_image: mission-of-gravity.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328628795l/525285._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780515034790-L.jpg
   dimensions:
     height: 18.0
   goodreads: '525285'
@@ -11,7 +11,7 @@ book:
   pages: 174
   publication_year: '1954'
   slug: mission-of-gravity
-  spine_color: '#cb7f3e'
+  spine_color: '#f1d975'
   title: Mission of Gravity
 plan:
   date_added: '2018-02-19'

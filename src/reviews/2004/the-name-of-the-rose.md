@@ -2,7 +2,7 @@
 book:
   author: Umberto Eco
   cover_image: the-name-of-the-rose.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415375471l/119073._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780156001311-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.9
@@ -13,7 +13,7 @@ book:
   pages: 536
   publication_year: '1980'
   slug: the-name-of-the-rose
-  spine_color: '#b8413a'
+  spine_color: '#bd352f'
   tags:
   - five-stars
   - german

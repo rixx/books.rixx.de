@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-atrocity-archives.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440461724l/101869._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441013654-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Laundry Files
   series_position: '1'
   slug: the-atrocity-archives
-  spine_color: '#ae332b'
+  spine_color: '#a06f5e'
   tags:
   - five-stars
   - urban-fantasy

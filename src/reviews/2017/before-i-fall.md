@@ -2,14 +2,14 @@
 book:
   author: Lauren Oliver
   cover_image: before-i-fall.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361044695l/6482837._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061726811-L.jpg
   goodreads: '6482837'
   isbn10: 0061726818
   isbn13: '9780061726811'
   pages: '470'
   publication_year: '2010'
   slug: before-i-fall
-  spine_color: '#6a492c'
+  spine_color: '#6f4b31'
   tags:
   - scifi
   title: Before I Fall

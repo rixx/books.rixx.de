@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: wild-seed.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388462753l/52318.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446676977-L.jpg
   dimensions:
     height: 18.0
   goodreads: '52318'
@@ -13,7 +13,7 @@ book:
   series: Patternmaster
   series_position: '1'
   slug: wild-seed
-  spine_color: '#877e55'
+  spine_color: '#877e57'
   tags:
   - scifi
   title: Wild Seed

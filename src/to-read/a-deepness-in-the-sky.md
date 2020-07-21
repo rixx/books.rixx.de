@@ -2,7 +2,7 @@
 book:
   author: Vernor Vinge
   cover_image: a-deepness-in-the-sky.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1217218691l/226004._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780812536355-L.jpg
   dimensions:
     height: 18.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Zones of Thought
   series_position: '2'
   slug: a-deepness-in-the-sky
-  spine_color: '#9a242b'
+  spine_color: '#7f6855'
   title: A Deepness in the Sky
 plan:
   date_added: '2019-03-03'

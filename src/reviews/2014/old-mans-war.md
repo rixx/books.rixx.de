@@ -2,7 +2,7 @@
 book:
   author: John Scalzi
   cover_image: old-mans-war.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487044882l/51964._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348272-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Old Man's War
   series_position: '1'
   slug: old-mans-war
-  spine_color: '#dac98c'
+  spine_color: '#deaa2a'
   tags:
   - scifi
   title: Old Man's War

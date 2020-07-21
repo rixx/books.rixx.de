@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: the-body-in-the-library.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389733809l/16319.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126261-L.jpg
   dimensions:
     height: 22.0
     thickness: 1.8
@@ -15,7 +15,7 @@ book:
   series: Miss Marple
   series_position: '2'
   slug: the-body-in-the-library
-  spine_color: '#f898d1'
+  spine_color: '#e5e0c1'
   tags:
   - mystery
   title: The Body in the Library

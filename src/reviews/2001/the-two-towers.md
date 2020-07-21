@@ -2,7 +2,7 @@
 book:
   author: J.R.R. Tolkien
   cover_image: the-two-towers.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298415523l/15241._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780618346264-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.1
@@ -15,7 +15,7 @@ book:
   series: The Lord of the Rings
   series_position: '2'
   slug: the-two-towers
-  spine_color: '#b19b91'
+  spine_color: '#6c4f4e'
   tags:
   - fantasy
   - german

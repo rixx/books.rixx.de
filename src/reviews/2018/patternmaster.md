@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: patternmaster.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389456750l/116256.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446362818-L.jpg
   dimensions:
     height: 18.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: Patternmaster
   series_position: '4'
   slug: patternmaster
-  spine_color: '#a83a27'
+  spine_color: '#ca5d48'
   tags:
   - fantasy
   title: Patternmaster

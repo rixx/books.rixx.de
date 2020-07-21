@@ -2,7 +2,7 @@
 book:
   author: C.J. Cherryh
   cover_image: downbelow-station.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388858297l/57045.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780756400590-L.jpg
   goodreads: '57045'
   isbn10: 0756400597
   isbn13: '9780756400590'
@@ -11,7 +11,7 @@ book:
   series: The Company Wars
   series_position: '1'
   slug: downbelow-station
-  spine_color: '#403b49'
+  spine_color: '#d6d4be'
   title: Downbelow Station
 plan:
   date_added: '2018-08-28'

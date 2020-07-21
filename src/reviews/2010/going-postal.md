@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: going-postal.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388236899l/64222.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060502935-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.6
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '33'
   slug: going-postal
-  spine_color: '#e32227'
+  spine_color: '#ca4015'
   title: Going Postal
 plan:
   date_added: '2015-04-08'

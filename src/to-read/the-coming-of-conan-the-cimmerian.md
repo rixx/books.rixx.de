@@ -2,7 +2,7 @@
 book:
   author: Robert E. Howard
   cover_image: the-coming-of-conan-the-cimmerian.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168447880l/33482._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345483850-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.3
@@ -15,7 +15,7 @@ book:
   series: Conan the Cimmerian
   series_position: '1'
   slug: the-coming-of-conan-the-cimmerian
-  spine_color: '#cabe89'
+  spine_color: '#c9ba84'
   title: The Coming of Conan the Cimmerian
 plan:
   date_added: '2018-10-25'

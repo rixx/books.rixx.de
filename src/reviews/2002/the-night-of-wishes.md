@@ -2,7 +2,7 @@
 book:
   author: Michael Ende
   cover_image: the-night-of-wishes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389498583l/27719.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780374455033-L.jpg
   dimensions:
     height: 20.5
     thickness: 1.5
@@ -13,7 +13,7 @@ book:
   pages: 224
   publication_year: '1989'
   slug: the-night-of-wishes
-  spine_color: '#e1d6a6'
+  spine_color: '#e0d5a6'
   tags:
   - german
   - kids

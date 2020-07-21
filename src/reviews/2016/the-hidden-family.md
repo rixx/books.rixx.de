@@ -2,7 +2,7 @@
 book:
   author: Charles Stross
   cover_image: the-hidden-family.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399590289l/17867.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765352057-L.jpg
   dimensions:
     height: 17.1
     thickness: 2.3
@@ -15,7 +15,7 @@ book:
   series: The Merchant Princes
   series_position: '2'
   slug: the-hidden-family
-  spine_color: '#6cb7d0'
+  spine_color: '#b5a475'
   tags:
   - scifi
   title: The Hidden Family

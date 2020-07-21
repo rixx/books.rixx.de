@@ -2,7 +2,7 @@
 book:
   author: Pierce Brown
   cover_image: golden-son.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354417l/20697410._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780345539816-L.jpg
   dimensions:
     height: 25.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: Red Rising
   series_position: '2'
   slug: golden-son
-  spine_color: '#c5b175'
+  spine_color: '#8b4419'
   tags:
   - ya
   title: Golden Son

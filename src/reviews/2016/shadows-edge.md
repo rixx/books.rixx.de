@@ -2,7 +2,7 @@
 book:
   author: Brent Weeks
   cover_image: shadows-edge.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881435l/3754016._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033657-L.jpg
   dimensions:
     height: 18.0
   goodreads: '3754016'
@@ -13,7 +13,7 @@ book:
   series: Night Angel
   series_position: '2'
   slug: shadows-edge
-  spine_color: '#bd675d'
+  spine_color: '#c56663'
   tags:
   - fantasy
   title: Shadow's Edge

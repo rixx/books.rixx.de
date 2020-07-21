@@ -2,7 +2,7 @@
 book:
   author: Kim Stanley Robinson
   cover_image: red-mars.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440699787l/77507._SY475_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553560732-L.jpg
   goodreads: '77507'
   isbn10: '0553560735'
   isbn13: '9780553560732'
@@ -11,7 +11,7 @@ book:
   series: Mars Trilogy
   series_position: '1'
   slug: red-mars
-  spine_color: '#8a412e'
+  spine_color: '#982f1b'
   title: Red Mars
 plan:
   date_added: '2018-03-13'

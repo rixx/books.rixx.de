@@ -2,7 +2,7 @@
 book:
   author: John Tiffany
   cover_image: harry-potter-and-the-cursed-child-parts-one-and-two.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780751565355-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Harry Potter
   series_position: '8'
   slug: harry-potter-and-the-cursed-child-parts-one-and-two
-  spine_color: '#bf9954'
+  spine_color: '#d4a637'
   tags:
   - stage-play
   title: 'Harry Potter and the Cursed Child: Parts One and Two'

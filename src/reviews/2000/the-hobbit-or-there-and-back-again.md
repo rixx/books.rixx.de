@@ -2,7 +2,7 @@
 book:
   author: J.R.R. Tolkien
   cover_image: the-hobbit-or-there-and-back-again.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780618260300-L.jpg
   dimensions:
     height: 20.0
   goodreads: '5907'
@@ -11,7 +11,7 @@ book:
   pages: 366
   publication_year: '1937'
   slug: the-hobbit-or-there-and-back-again
-  spine_color: '#bd7442'
+  spine_color: '#107d4b'
   tags:
   - fantasy
   - german

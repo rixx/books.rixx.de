@@ -2,7 +2,7 @@
 book:
   author: Brandon Sanderson
   cover_image: alcatraz-versus-the-scriveners-bones.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275527715l/3485562._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439925532-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.7
@@ -15,7 +15,7 @@ book:
   series: Alcatraz
   series_position: '2'
   slug: alcatraz-versus-the-scriveners-bones
-  spine_color: '#b7bccf'
+  spine_color: '#407097'
   tags:
   - ya
   title: Alcatraz Versus the Scrivener's Bones

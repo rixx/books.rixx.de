@@ -2,7 +2,7 @@
 book:
   author: Terry Pratchett
   cover_image: the-light-fantastic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389554927l/34506.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020704-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Discworld
   series_position: '2'
   slug: the-light-fantastic
-  spine_color: '#d2e062'
+  spine_color: '#bbba2f'
   title: The Light Fantastic
 plan:
   date_added: '2015-04-08'

@@ -2,7 +2,7 @@
 book:
   author: Justina Ireland
   cover_image: dread-nation.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497900615l/30223025._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780062570604-L.jpg
   goodreads: '30223025'
   isbn10: 0062570609
   isbn13: '9780062570604'
@@ -11,7 +11,7 @@ book:
   series: Dread Nation
   series_position: '1'
   slug: dread-nation
-  spine_color: '#6e5e4f'
+  spine_color: '#7f6e5d'
   title: Dread Nation
 plan:
   date_added: '2019-07-21'

@@ -2,7 +2,7 @@
 book:
   author: Ursula K. Le Guin
   cover_image: the-wild-girls.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328742480l/9922371._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781604864038-L.jpg
   dimensions:
     height: 19.0
     thickness: 0.8
@@ -13,7 +13,7 @@ book:
   pages: 128
   publication_year: '2011'
   slug: the-wild-girls
-  spine_color: '#814845'
+  spine_color: '#a52928'
   tags:
   - fantasy
   title: The Wild Girls

@@ -2,7 +2,7 @@
 book:
   author: Ben Aaronovitch
   cover_image: broken-homes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403204872l/16078584._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780575132467-L.jpg
   dimensions:
     height: 22.3
   goodreads: '16078584'
@@ -13,7 +13,7 @@ book:
   series: Rivers of London
   series_position: '4'
   slug: broken-homes
-  spine_color: '#efdb52'
+  spine_color: '#ecd96a'
   tags:
   - urban-fantasy
   title: Broken Homes

@@ -2,7 +2,7 @@
 book:
   author: J.R.R. Tolkien
   cover_image: the-fellowship-of-the-ring.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780618346257-L.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: The Lord of the Rings
   series_position: '1'
   slug: the-fellowship-of-the-ring
-  spine_color: '#bfb695'
+  spine_color: '#b6b188'
   tags:
   - fantasy
   - german

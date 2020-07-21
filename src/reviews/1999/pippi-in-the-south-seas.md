@@ -2,7 +2,7 @@
 book:
   author: Astrid Lindgren
   cover_image: pippi-in-the-south-seas.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348636160l/19307.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670557110-L.jpg
   goodreads: '19307'
   isbn10: '0670557110'
   isbn13: '9780670557110'
@@ -11,7 +11,7 @@ book:
   series: Pippi Langstrumpf
   series_position: '3'
   slug: pippi-in-the-south-seas
-  spine_color: '#25bce1'
+  spine_color: '#3a96d0'
   tags:
   - german
   - kids

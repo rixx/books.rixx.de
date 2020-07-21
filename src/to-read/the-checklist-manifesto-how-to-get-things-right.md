@@ -2,14 +2,14 @@
 book:
   author: Atul Gawande
   cover_image: the-checklist-manifesto-how-to-get-things-right.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312061594l/6667514._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780805091748-L.jpg
   goodreads: '6667514'
   isbn10: 0805091742
   isbn13: '9780805091748'
   pages: '208'
   publication_year: '2009'
   slug: the-checklist-manifesto-how-to-get-things-right
-  spine_color: '#e51d20'
+  spine_color: '#b20404'
   title: 'The Checklist Manifesto: How to Get Things Right'
 plan:
   date_added: '2019-11-27'

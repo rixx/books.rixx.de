@@ -2,7 +2,7 @@
 book:
   author: Alan Bradley
   cover_image: the-sweetness-at-the-bottom-of-the-pie.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187001l/6218281.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385342308-L.jpg
   dimensions:
     height: 20.0
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Flavia de Luce
   series_position: '1'
   slug: the-sweetness-at-the-bottom-of-the-pie
-  spine_color: '#b3cf62'
+  spine_color: '#acce63'
   tags: []
   title: The Sweetness at the Bottom of the Pie
 plan:

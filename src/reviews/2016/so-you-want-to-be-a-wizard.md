@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: so-you-want-to-be-a-wizard.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328877065l/116563._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152047382-L.jpg
   dimensions:
     height: 18.0
   goodreads: '116563'
@@ -13,7 +13,7 @@ book:
   series: Young Wizards
   series_position: '1'
   slug: so-you-want-to-be-a-wizard
-  spine_color: '#c3976d'
+  spine_color: '#c9b291'
   tags:
   - fantasy
   - urban-fantasy

@@ -2,7 +2,7 @@
 book:
   author: Garth Nix
   cover_image: abhorsen.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401683669l/334643._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060278250-L.jpg
   dimensions:
     height: 20.2
   goodreads: '334643'
@@ -13,7 +13,7 @@ book:
   series: Abhorsen
   series_position: '3'
   slug: abhorsen
-  spine_color: '#dee7cb'
+  spine_color: '#766662'
   tags:
   - fantasy
   - ya

@@ -2,7 +2,7 @@
 book:
   author: Christopher Moore
   cover_image: lamb-the-gospel-according-to-biff-christs-childhood-pal.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331419009l/28881._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780380813810-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.9
@@ -13,7 +13,7 @@ book:
   pages: 464
   publication_year: '2002'
   slug: lamb-the-gospel-according-to-biff-christs-childhood-pal
-  spine_color: '#f8da2c'
+  spine_color: '#e6ac4a'
   tags:
   - historical-fiction
   title: 'Lamb: The Gospel According to Biff, Christ''s Childhood Pal'

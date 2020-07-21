@@ -2,7 +2,7 @@
 book:
   author: Tamora Pierce
   cover_image: wild-magic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554192590l/13836._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416903437-L.jpg
   goodreads: '13836'
   isbn10: '1416903437'
   isbn13: '9781416903437'
@@ -11,7 +11,7 @@ book:
   series: Immortals
   series_position: '1'
   slug: wild-magic
-  spine_color: '#86735c'
+  spine_color: '#85715a'
   title: Wild Magic
 plan:
   date_added: '2016-10-05'

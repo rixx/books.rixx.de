@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: sleeping-murder.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308808135l/16300._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780002317856-L.jpg
   dimensions:
     height: 22.0
   goodreads: '16300'
@@ -13,7 +13,7 @@ book:
   series: Miss Marple
   series_position: '13'
   slug: sleeping-murder
-  spine_color: '#d5ddba'
+  spine_color: '#cbd8aa'
   tags:
   - mystery
   title: Sleeping Murder

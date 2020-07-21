@@ -2,7 +2,7 @@
 book:
   author: Roger Zelazny
   cover_image: lord-of-light.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330127327l/13821._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780060567231-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.7
@@ -13,7 +13,7 @@ book:
   pages: 304
   publication_year: '1967'
   slug: lord-of-light
-  spine_color: '#9bc2b8'
+  spine_color: '#72ac96'
   title: Lord of Light
 plan:
   date_added: '2018-02-19'

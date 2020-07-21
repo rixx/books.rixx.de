@@ -2,7 +2,7 @@
 book:
   author: C.M. Spivey
   cover_image: from-under-the-mountain.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534814966l/25456839._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781942111399-L.jpg
   dimensions:
     height: 20.3
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: Trident Chronicles
   series_position: '1'
   slug: from-under-the-mountain
-  spine_color: '#5e2d31'
+  spine_color: '#612f33'
   title: From Under the Mountain
 plan:
   date_added: '2018-09-28'

@@ -2,7 +2,7 @@
 book:
   author: V.E. Schwab
   cover_image: a-darker-shade-of-magic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851l/22055262._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765376459-L.jpg
   dimensions:
     height: 22.0
     thickness: 3.5
@@ -15,7 +15,7 @@ book:
   series: Shades of Magic
   series_position: '1'
   slug: a-darker-shade-of-magic
-  spine_color: '#db5c4e'
+  spine_color: '#e45746'
   tags:
   - fantasy
   - parallel-worlds

@@ -2,7 +2,7 @@
 book:
   author: John Gwynne
   cover_image: a-time-of-dread.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501499989l/34392663._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781509812943-L.jpg
   goodreads: '34392663'
   isbn10: '1509812946'
   isbn13: '9781509812943'
@@ -11,7 +11,7 @@ book:
   series: Of Blood and Bone
   series_position: '1'
   slug: a-time-of-dread
-  spine_color: '#bb9886'
+  spine_color: '#a9654c'
   title: A Time of Dread
 plan:
   date_added: '2019-04-03'

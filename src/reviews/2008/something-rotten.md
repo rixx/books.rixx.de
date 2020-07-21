@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: something-rotten.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479773726l/26999._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780143035411-L.jpg
   dimensions:
     height: 20.0
     thickness: 1.9
@@ -15,7 +15,7 @@ book:
   series: Thursday Next
   series_position: '4'
   slug: something-rotten
-  spine_color: '#a0988e'
+  spine_color: '#918188'
   tags:
   - fantasy
   - german

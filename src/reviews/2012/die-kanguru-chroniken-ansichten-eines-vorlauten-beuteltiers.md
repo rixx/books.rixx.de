@@ -2,7 +2,7 @@
 book:
   author: Marc-Uwe Kling
   cover_image: die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327948621l/6392654._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783548372570-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Die Känguru-Chroniken
   series_position: '1'
   slug: die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers
-  spine_color: '#a5b630'
+  spine_color: '#a7b60a'
   tags:
   - german
   title: Die Känguru-Chroniken. Ansichten eines vorlauten Beuteltiers

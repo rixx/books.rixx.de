@@ -2,7 +2,7 @@
 book:
   author: Diane Duane
   cover_image: high-wizardry.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922145l/176534.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780152049416-L.jpg
   dimensions:
     height: 18.0
     thickness: 2.5
@@ -15,7 +15,7 @@ book:
   series: Young Wizards
   series_position: '3'
   slug: high-wizardry
-  spine_color: '#813c45'
+  spine_color: '#8b6277'
   tags:
   - fantasy
   - five-stars

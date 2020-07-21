@@ -2,7 +2,7 @@
 book:
   author: Lois Lowry
   cover_image: the-giver.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780385732550-L.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -15,7 +15,7 @@ book:
   series: The Giver
   series_position: '1'
   slug: the-giver
-  spine_color: '#927d5c'
+  spine_color: '#6c5e53'
   title: The Giver
 plan:
   date_added: '2017-11-15'

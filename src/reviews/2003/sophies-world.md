@@ -2,7 +2,7 @@
 book:
   author: Jostein Gaarder
   cover_image: sophies-world.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343459906l/10959._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781857993288-L.jpg
   dimensions:
     height: 20.0
   goodreads: '10959'
@@ -11,7 +11,7 @@ book:
   pages: 403
   publication_year: '1991'
   slug: sophies-world
-  spine_color: '#ba3e2c'
+  spine_color: '#951f14'
   tags:
   - german
   title: Sophie's World

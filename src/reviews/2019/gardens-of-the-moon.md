@@ -2,7 +2,7 @@
 book:
   author: Steven Erikson
   cover_image: gardens-of-the-moon.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548497031l/55399._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348784-L.jpg
   goodreads: '55399'
   isbn10: 0765348780
   isbn13: '9780765348784'
@@ -11,7 +11,7 @@ book:
   series: Malazan Book of the Fallen
   series_position: '1'
   slug: gardens-of-the-moon
-  spine_color: '#446457'
+  spine_color: '#8e423a'
   tags:
   - fantasy
   title: Gardens of the Moon

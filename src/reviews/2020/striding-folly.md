@@ -2,7 +2,7 @@
 book:
   author: Dorothy L. Sayers
   cover_image: striding-folly.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370374055l/192889._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780450033407-L.jpg
   dimensions:
     height: 20.0
   goodreads: '192889'
@@ -13,7 +13,7 @@ book:
   series: Lord Peter Wimsey
   series_position: '15'
   slug: striding-folly
-  spine_color: '#d9c9ad'
+  spine_color: '#849b69'
   tags:
   - mystery
   title: Striding Folly

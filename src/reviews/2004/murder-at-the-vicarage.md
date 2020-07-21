@@ -2,7 +2,7 @@
 book:
   author: Agatha Christie
   cover_image: murder-at-the-vicarage.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388386575l/16331.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126254-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.4
@@ -15,7 +15,7 @@ book:
   series: Miss Marple
   series_position: '1'
   slug: murder-at-the-vicarage
-  spine_color: '#3e6a74'
+  spine_color: '#097e71'
   tags:
   - mystery
   title: Murder at the Vicarage

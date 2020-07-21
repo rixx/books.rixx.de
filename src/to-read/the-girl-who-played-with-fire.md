@@ -2,7 +2,7 @@
 book:
   author: Stieg Larsson
   cover_image: the-girl-who-played-with-fire.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780307269980-L.jpg
   dimensions:
     height: 23
   goodreads: '5060378'
@@ -13,7 +13,7 @@ book:
   series: Millennium
   series_position: '2'
   slug: the-girl-who-played-with-fire
-  spine_color: '#da5d3c'
+  spine_color: '#e82b16'
   title: The Girl Who Played with Fire
 plan:
   date_added: '2017-02-01'

@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: the-casual-vacancy.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509893913l/13497818._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316228534-L.jpg
   dimensions: {}
   goodreads: '13497818'
   isbn10: 0316228532
@@ -10,7 +10,7 @@ book:
   pages: 512
   publication_year: '2012'
   slug: the-casual-vacancy
-  spine_color: '#f6c411'
+  spine_color: '#c52314'
   title: The Casual Vacancy
 plan:
   date_added: '2016-05-08'

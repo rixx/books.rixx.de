@@ -2,7 +2,7 @@
 book:
   author: Robin Hobb
   cover_image: ship-of-magic.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360507722l/45100._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780006498858-L.jpg
   dimensions:
     height: 18.0
     thickness: 4.6
@@ -15,7 +15,7 @@ book:
   series: Liveship Traders
   series_position: '1'
   slug: ship-of-magic
-  spine_color: '#ad9f88'
+  spine_color: '#4c5162'
   title: Ship of Magic
 plan:
   date_added: '2017-02-01'

@@ -2,7 +2,7 @@
 book:
   author: Garth Nix
   cover_image: sabriel.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY160_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064471831-L.jpg
   dimensions:
     height: 20.2
   goodreads: '518848'
@@ -13,7 +13,7 @@ book:
   series: Abhorsen
   series_position: '1'
   slug: sabriel
-  spine_color: '#e5d6ac'
+  spine_color: '#e5d4a8'
   tags:
   - fantasy
   - ya

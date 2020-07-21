@@ -2,7 +2,7 @@
 book:
   author: Jasper Fforde
   cover_image: shades-of-grey.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327563734l/2113260._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670019632-L.jpg
   goodreads: '2113260'
   isbn10: 0670019631
   isbn13: '9780670019632'
@@ -11,7 +11,7 @@ book:
   series: Shades of Grey
   series_position: '1'
   slug: shades-of-grey
-  spine_color: '#8b785e'
+  spine_color: '#123d25'
   tags:
   - fantasy
   title: Shades of Grey

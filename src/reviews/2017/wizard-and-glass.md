@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: wizard-and-glass.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327946510l/5096._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780340829783-L.jpg
   dimensions:
     height: 23.0
   goodreads: '5096'
@@ -13,7 +13,7 @@ book:
   series: The Dark Tower
   series_position: '4'
   slug: wizard-and-glass
-  spine_color: '#5a4a72'
+  spine_color: '#584971'
   title: Wizard and Glass
 plan:
   date_added: '2017-06-05'

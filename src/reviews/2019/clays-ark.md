@@ -2,7 +2,7 @@
 book:
   author: Octavia E. Butler
   cover_image: clays-ark.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461533398l/60933._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603706-L.jpg
   dimensions:
     height: 18.0
   goodreads: '60933'
@@ -13,7 +13,7 @@ book:
   series: Patternmaster
   series_position: '3'
   slug: clays-ark
-  spine_color: '#e3d096'
+  spine_color: '#e0cd94'
   tags:
   - fantasy
   title: Clay's Ark

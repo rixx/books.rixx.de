@@ -2,7 +2,7 @@
 book:
   author: Rainbow Rowell
   cover_image: carry-on.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481729252l/32768522._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781250135025-L.jpg
   dimensions:
     height: 21.0
     thickness: 4.8
@@ -15,7 +15,7 @@ book:
   series: Simon Snow
   series_position: '1'
   slug: carry-on
-  spine_color: '#79556e'
+  spine_color: '#794a6f'
   title: Carry On
 plan:
   date_added: '2018-09-15'

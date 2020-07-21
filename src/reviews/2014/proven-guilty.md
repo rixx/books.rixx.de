@@ -2,7 +2,7 @@
 book:
   author: Jim Butcher
   cover_image: proven-guilty.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667469l/91474._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451461032-L.jpg
   dimensions:
     height: 20.0
     thickness: 3.0
@@ -15,7 +15,7 @@ book:
   series: The Dresden Files
   series_position: '8'
   slug: proven-guilty
-  spine_color: '#4f7851'
+  spine_color: '#4b6e4d'
   tags:
   - urban-fantasy
   title: Proven Guilty

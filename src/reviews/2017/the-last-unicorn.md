@@ -2,7 +2,7 @@
 book:
   author: Peter S. Beagle
   cover_image: the-last-unicorn.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524764327l/29127._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451450524-L.jpg
   dimensions:
     height: 23.0
     thickness: 1.7
@@ -15,7 +15,7 @@ book:
   series: The Last Unicorn
   series_position: '1'
   slug: the-last-unicorn
-  spine_color: '#8c764e'
+  spine_color: '#8993aa'
   tags:
   - fantasy
   title: The Last Unicorn

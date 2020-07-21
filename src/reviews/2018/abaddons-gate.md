@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: abaddons-gate.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572059l/16131032._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316129077-L.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -15,7 +15,7 @@ book:
   series: The Expanse
   series_position: '3'
   slug: abaddons-gate
-  spine_color: '#ab9a53'
+  spine_color: '#b7a555'
   tags:
   - five-stars
   - scifi

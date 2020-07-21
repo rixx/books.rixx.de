@@ -2,7 +2,7 @@
 book:
   author: Lemony Snicket
   cover_image: the-carnivorous-carnival.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518209848l/324277._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410120-L.jpg
   dimensions:
     height: 19.0
     thickness: 2.8
@@ -15,7 +15,7 @@ book:
   series: A Series of Unfortunate Events
   series_position: '9'
   slug: the-carnivorous-carnival
-  spine_color: '#3384ba'
+  spine_color: '#a78a59'
   tags:
   - ya
   title: The Carnivorous Carnival

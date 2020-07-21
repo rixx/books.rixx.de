@@ -2,7 +2,7 @@
 book:
   author: Stephen King
   cover_image: the-little-sisters-of-eluria.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328794822l/6356190._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781880418734-L.jpg
   dimensions:
     height: 23.0
   goodreads: '6356190'
@@ -13,7 +13,7 @@ book:
   series: The Dark Tower
   series_position: '0.5'
   slug: the-little-sisters-of-eluria
-  spine_color: '#837434'
+  spine_color: '#847538'
   tags:
   - fantasy
   title: The Little Sisters of Eluria

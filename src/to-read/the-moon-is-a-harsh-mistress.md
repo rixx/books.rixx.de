@@ -2,14 +2,14 @@
 book:
   author: Robert A. Heinlein
   cover_image: the-moon-is-a-harsh-mistress.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348768309l/16690.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780340837948-L.jpg
   goodreads: '16690'
   isbn10: 0340837942
   isbn13: '9780340837948'
   pages: '288'
   publication_year: '1966'
   slug: the-moon-is-a-harsh-mistress
-  spine_color: '#b3422c'
+  spine_color: '#b4422c'
   title: The Moon is a Harsh Mistress
 plan:
   date_added: '2018-03-13'

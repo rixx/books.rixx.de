@@ -2,7 +2,7 @@
 book:
   author: Gretchen McCulloch
   cover_image: because-internet-understanding-the-new-rules-of-language.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547222587l/36739320._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780735210936-L.jpg
   dimensions:
     height: 23.7
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   pages: 327
   publication_year: '2019'
   slug: because-internet-understanding-the-new-rules-of-language
-  spine_color: '#f8ee09'
+  spine_color: '#faee05'
   tags:
   - language
   - nonfiction

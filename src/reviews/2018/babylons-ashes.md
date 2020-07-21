@@ -2,7 +2,7 @@
 book:
   author: James S.A. Corey
   cover_image: babylons-ashes.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442247299l/25877663._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780356504261-L.jpg
   dimensions:
     height: 24.0
     thickness: 4.6
@@ -15,7 +15,7 @@ book:
   series: The Expanse
   series_position: '6'
   slug: babylons-ashes
-  spine_color: '#698d8c'
+  spine_color: '#67878a'
   tags:
   - five-stars
   - scifi

@@ -2,7 +2,7 @@
 book:
   author: Nnedi Okorafor
   cover_image: akata-witch.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347794798l/7507944._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670011964-L.jpg
   dimensions:
     height: 21.6
     thickness: 2.9
@@ -15,7 +15,7 @@ book:
   series: Akata Witch
   series_position: '1'
   slug: akata-witch
-  spine_color: '#c0b797'
+  spine_color: '#c3bc97'
   tags:
   - fantasy
   - ya

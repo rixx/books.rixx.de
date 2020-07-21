@@ -2,7 +2,7 @@
 book:
   author: Noam Chomsky
   cover_image: on-anarchism.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328694314l/12618._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781904859208-L.jpg
   dimensions:
     height: 23.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   pages: 256
   publication_year: '2005'
   slug: on-anarchism
-  spine_color: '#461e18'
+  spine_color: '#471f18'
   title: On Anarchism
 plan:
   date_added: '2017-11-20'

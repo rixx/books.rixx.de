@@ -2,7 +2,7 @@
 book:
   author: Carol Emshwiller
   cover_image: report-to-the-mens-club-and-other-stories.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354903748l/94711._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9781931520027-L.jpg
   dimensions:
     height: 22.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   pages: 282
   publication_year: '2002'
   slug: report-to-the-mens-club-and-other-stories
-  spine_color: '#e88e54'
+  spine_color: '#e88e55'
   title: Report to the Men's Club and Other Stories
 plan:
   date_added: '2017-11-29'
