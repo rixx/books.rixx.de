@@ -474,15 +474,8 @@ def create_book(search_term=None):
     if review.goodreads_url:
         print(review.goodreads_url)
     review.update_tags()
-    if review.metadata["book"]["cover_image_url"]:
-        review.download_cover()
-        review.show_cover()
-        if not inquirer.list_input(
-            message="Cover ok?", choices=(True, False), carousel=True
-        ):
-            review.find_cover(force_new=True)
-    else:
-        review.find_cover()
+    review.find_cover(force_new=True)
+    review.show_cover()
     review.save()
 
     review.edit()
