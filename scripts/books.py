@@ -150,16 +150,16 @@ class Review:
             goodreads.change_shelf(review=self)
         subprocess.check_call(["git", "add", self.path, old_path])
 
-    def get_core_path(self):
-        if self.entry_type == "reviews":
-            year = self.metadata["review"]["date_read"].year
-            out_dir = f"reviews/{year}"
-        elif self.entry_type == "to-read":
-            out_dir = "to-read"
-        return Path(out_dir) / self.metadata["book"]["slug"]
+    def get_url_path(self):
+        author = slugify(self.metadata["book"]["author"])
+        return Path(author) / self.metadata["book"]["slug"]
 
     def get_path(self):
-        core_path = self.get_core_path()
+        if self.entry_type == "reviews":
+            out_dir = slugify(self.metadata["book"]["author"])
+        elif self.entry_type == "to-read":
+            out_dir = "to-read"
+        core_path = Path(out_dir) / self.metadata["book"]["slug"]
         out_path = Path("src") / (str(core_path) + ".md")
         out_path.parent.mkdir(parents=True, exist_ok=True)
         return out_path

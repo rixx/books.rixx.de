@@ -29,7 +29,7 @@
             <span class="rating rating-inline">★</span>
             {% endif %}
             {% if review.text %}
-              <a href="/{{ review.get_core_path() }}">{{ review.metadata.book.title }}</a>
+              <a href="/{{ review.get_url_path() }}">{{ review.metadata.book.title }}</a>
             {% else %}
               {{ review.metadata.book.title }}
             {% endif %}

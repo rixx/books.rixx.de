@@ -1,6 +1,6 @@
 <div id="shelf">
   {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
-  <a href="/{{ review.get_core_path() }}/">
+  <a href="/{{ review.get_url_path() }}/">
     <div class="spine" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; margin-top: {{ 120 - review.spine.height }}px; --cover-img: url('/thumbnails/{{ review.spine.cover }}')">
       {% if review.spine.starred %}
       <div class="spine-label spine-starred">

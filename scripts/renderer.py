@@ -306,7 +306,7 @@ def build_site(**kwargs):
     for review in all_reviews:
         render(
             "review.html",
-            review.get_core_path() / "index.html",
+            review.get_url_path() / "index.html",
             review=review,
             title=f"Review of {review.metadata['book']['title']}",
             active="read",

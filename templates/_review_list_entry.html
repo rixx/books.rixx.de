@@ -1,5 +1,5 @@
 <div class="review_preview {% if review.metadata.review.rating == 5 %}review_fave{% endif %}">
-  <a {% if review.text %}href="/{{ review.get_core_path() }}"{% else %}class="no-link"{% endif %}>
+  <a {% if review.text %}href="/{{ review.get_url_path() }}"{% else %}class="no-link"{% endif %}>
     <div class="book_metadata">
       <div class="book_thumbnail">
         {% set book = review.metadata.book %}
