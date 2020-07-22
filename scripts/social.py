@@ -128,10 +128,10 @@ def post(review, number, in_reply_to=None, dry_run=False):
 
 
 def post_next(dry_run=False):
-    from .books import _load_entries
+    from .books import load_reviews
 
     current_year = dt.datetime.now().year
-    reviews = _load_entries(dirpath=f"src/reviews/{current_year}")
+    reviews = [rev for rev in load_reviews() if rev.relevant_date.year == current_year]
     reviews = sorted(reviews, key=lambda x: x.relevant_date)
 
     last_review = None
