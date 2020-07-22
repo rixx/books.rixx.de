@@ -292,7 +292,7 @@ def build_site(**kwargs):
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
-    this_year = dt.datetime.now().year
+    this_year = dt.datetime.now().strftime("%Y")
     all_reviews = list(books.load_reviews())
     all_plans = list(books.load_to_read())
     all_events = all_plans + all_reviews
