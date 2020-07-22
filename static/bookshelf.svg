@@ -5,17 +5,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="95.919998"
    inkscape:export-xdpi="95.919998"
-   inkscape:export-filename="/home/rixx/bookshelf.png"
+   inkscape:export-filename="/home/rixx/src/books.rixx.de/static/bookshelf.png"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   height="125.50124"
-   width="901.39557"
-   sodipodi:docname="bookshelf-svgrepo-com.svg"
+   height="125"
+   width="400"
+   sodipodi:docname="bookshelf.svg"
    xml:space="preserve"
-   viewBox="0 0 901.39558 125.50124"
+   viewBox="0 0 400 125"
    y="0px"
    x="0px"
    id="Capa_1"
@@ -23,7 +24,15 @@
    id="metadata1045"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs1043">
+   id="defs1043"><linearGradient
+   id="linearGradient1084"
+   inkscape:collect="always"><stop
+     id="stop1080"
+     offset="0"
+     style="stop-color:#724935;stop-opacity:1" /><stop
+     id="stop1082"
+     offset="1"
+     style="stop-color:#4b3025;stop-opacity:1" /></linearGradient>
 	
 	
 	
@@ -50,14 +59,23 @@
 	
 	
 		
-</defs><sodipodi:namedview
-   inkscape:current-layer="Capa_1"
+<linearGradient
+   gradientTransform="matrix(0.46106337,0,0,0.97335182,-31.871419,-116.13751)"
+   gradientUnits="userSpaceOnUse"
+   y2="150.07811"
+   x2="473.98007"
+   y1="219.31708"
+   x1="473.98007"
+   id="linearGradient1086"
+   xlink:href="#linearGradient1084"
+   inkscape:collect="always" /></defs><sodipodi:namedview
+   inkscape:current-layer="layer1"
    inkscape:window-maximized="1"
    inkscape:window-y="58"
    inkscape:window-x="0"
-   inkscape:cy="53.984569"
-   inkscape:cx="850.10682"
-   inkscape:zoom="2.7599194"
+   inkscape:cy="124.15548"
+   inkscape:cx="198.00824"
+   inkscape:zoom="1.1828027"
    fit-margin-bottom="0"
    fit-margin-right="0"
    fit-margin-left="0"
@@ -74,24 +92,7 @@
    borderopacity="1"
    bordercolor="#666666"
    pagecolor="#ffffff" />
-<rect
-   x="16.000359"
-   y="6.6133385"
-   style="fill:#a25425;stroke-width:1.67744"
-   width="879.44708"
-   height="117.12907"
-   id="rect980" /><path
-   sodipodi:nodetypes="ccccssccc"
-   style="fill:#7f4122"
-   d="M 12.148529,6.6133392 V 22.613339 122.40923 h 16 V 54.613343 c 0,-17.673004 14.327,-32.000004 32,-32.000004 H 891.10458 V 6.6133392 Z"
-   id="path982" /><path
-   inkscape:export-ydpi="95.919998"
-   inkscape:export-xdpi="95.919998"
-   inkscape:export-filename="/home/rixx/path986.png"
-   sodipodi:nodetypes="sccccccsccccccccccccc"
-   style="fill:#c87629"
-   d="M 885.29593,2.26e-4 H 192.00036 9.067618e-7 C 8.5190676e-4,44.943375 -3.2093238e-5,84.85481 9.0676214e-7,125.50124 64.000121,125.50038 128.00024,125.50089 192.00036,125.50089 c 64.03321,0.001 645.362,-0.002 709.39521,3.5e-4 C 901.15979,75.32236 901.32217,45.388586 901.28657,0 c 0,0 -11.59064,2.26e-4 -15.99064,2.26e-4 z M 889.5,120.19227 h -649.49964 -40 -16 -16 H 12.148529 V 6.6133392 h 155.851831 16 16 40 H 889.5 Z"
-   id="path986" />
+
 <g
    transform="translate(-68.264999,-37.578)"
    id="g1010">
@@ -152,4 +153,25 @@
    transform="translate(-68.264999,-37.578)"
    id="g1038">
 </g>
-</svg>
+<g
+   inkscape:label="outer"
+   id="layer1"
+   inkscape:groupmode="layer"><rect
+     y="-1.3580287"
+     x="-3.1835182"
+     height="106.80924"
+     width="406.21353"
+     id="rect1074"
+     style="fill:#946549;fill-opacity:1;stroke:#f6f4df;stroke-width:0.460568" /></g><g
+   inkscape:label="inner"
+   id="layer2"
+   inkscape:groupmode="layer"><rect
+     inkscape:export-ydpi="95.919998"
+     inkscape:export-xdpi="95.919998"
+     inkscape:export-filename="/home/rixx/src/books.rixx.de/static/rect980.png"
+     x="-3.2784717"
+     y="14.753426"
+     style="fill:url(#linearGradient1086);fill-opacity:1;stroke-width:1.12372"
+     width="405.48077"
+     height="114.00778"
+     id="rect980" /></g></svg>

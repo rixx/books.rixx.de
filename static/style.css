@@ -638,20 +638,34 @@ header a {
   background-image: url("/static/bookshelf.png");
   background-size: 100% 125px;
   padding: 0 15px;
-  background-position-y: 5px;
-  border-bottom: #c87629 solid 15px;
+  background-position-y: 0px;
+  border: #946549 solid 15px;
+  border-top: none;
+  box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.43);
+}
+
+#shelftop, #shelfbottom {
+  height: 15px;
+}
+#shelftop img, #shelfbottom img {
+  width: 107%;
+  margin-left: -3.5%;
+  margin-right: -3.5%;
+  height: 100%;
+  object-fit: cover;
+}
+#shelfbottom {
+  margin: -7px 2px 0 2px;
+}
+#shelfbottom img {
+  transform: rotate(180deg);
 }
 
 #shelf .spine {
   position: relative;
   display: flex;
   flex-direction: column;
-  border-right: 1px solid rgba(0, 0, 0, 0.03);
-  border-left: 1px solid rgba(0, 0, 0, 0.03);
-}
-
-#shelf .spine:hover {
-  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.15);
 }
 
 #shelf .spine:after {
@@ -663,7 +677,6 @@ header a {
   width: 100px;
   left: 100%;
   bottom: 0;
-  margin-left: 1px;
   background-size: contain;
   background-repeat: no-repeat;
 }

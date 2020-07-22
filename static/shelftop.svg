@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="95.919998"
+   inkscape:export-xdpi="95.919998"
+   inkscape:export-filename="/home/rixx/src/books.rixx.de/static/shelftop.png"
+   sodipodi:docname="shelftop.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1179"
+   version="1.1"
+   viewBox="0 0 67.250833 3.6566729"
+   height="3.656673mm"
+   width="67.250832mm">
+  <defs
+     id="defs1173" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="58"
+     inkscape:window-x="0"
+     inkscape:window-height="1022"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="41.540463"
+     inkscape:cx="132.62057"
+     inkscape:zoom="3.2552511"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1176">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-57,-75.129931)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:export-ydpi="95.919998"
+       inkscape:export-xdpi="95.919998"
+       sodipodi:nodetypes="ccccc"
+       id="path1772"
+       d="m 59.913312,78.786604 h 61.395398 l 1.98715,-2.471888 -65.322335,0.02644 z"
+       style="fill:#4b3025;fill-opacity:1;stroke:none;stroke-width:0.135662px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="95.919998"
+       inkscape:export-xdpi="95.919998"
+       sodipodi:nodetypes="ccccc"
+       style="fill:#946549;fill-opacity:1;stroke:none;stroke-width:0.14127px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.500751,77.008374 h 64.236919 l 1.51316,-1.878443 H 57 Z"
+       id="path1772-2" />
+  </g>
+</svg>

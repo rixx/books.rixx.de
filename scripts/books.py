@@ -375,9 +375,9 @@ class Spine:
                 width = random.randint(1, 4) / 2
             else:
                 width = (
-                    int(pages) * 0.007
+                    int(pages) * 0.0075
                 )  # Factor taken from known thickness/page ratio
-        return min(max(int(width * 4), 10), 30)  # Clamp between 10 and 30
+        return min(max(int(width * 4), 12), 32)  # Clamp between 12 and 32
 
 
 def _load_entries(dirpath):
