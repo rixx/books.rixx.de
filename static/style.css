@@ -668,8 +668,11 @@ header a {
   flex-direction: column;
   box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.15);
 }
+#shelf .spine-wrapper {
+  position: relative;
+}
 
-#shelf .spine:after {
+#shelf .spine-wrapper:after {
   display: none;
   position: absolute;
   z-index: 100;
@@ -682,7 +685,7 @@ header a {
   background-repeat: no-repeat;
 }
 
-#shelf .spine:hover:after {
+#shelf .spine-wrapper:hover:after {
   display: block;
   background-image: var(--cover-img);
 }
@@ -695,7 +698,7 @@ header a {
   align-self: center;
   display: none;
 }
-#shelf .spine:hover .spine-label {
+#shelf .spine-wrapper:hover .spine-label {
   display: block;
 }
 .spine .spine-label:first-child {
