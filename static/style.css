@@ -257,6 +257,7 @@ button {
 .book_metadata p {
   margin: 0;
   padding: 0 12px 0px 24px;
+  font-weight: normal;
 }
 .rating {
   font-size: 23px;
