@@ -17,19 +17,9 @@
             {% if review.metadata.review.date_read|length > 1 %}last {% endif %}read {{ review.metadata.review.date_read[-1] | render_date }}
             <br/>
           {% endif %}
-          <div class="rating">
-          {% if review.metadata.review.rating %}
-            {% for _ in range(review.metadata.review.rating) %}
-            ★
-            {% endfor %}
-            {% for _ in range(5 - review.metadata.review.rating) %}
-            ☆
-            {% endfor %}
+          {% if review.metadata.review and review.metadata.review.rating %}
+            {% include "_rating.html" %}
           {% endif %}
-          {% if review.metadata.review.did_not_finish %}
-            (did not finish)
-          {% endif %}
-          </div>
         </small>
       </p>
     </div>

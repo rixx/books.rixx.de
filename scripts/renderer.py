@@ -290,13 +290,12 @@ def build_site(**kwargs):
 
     print("📔 Loading reviews from files")
     this_year = dt.datetime.now().strftime("%Y")
-    review_lookup = {
-        f"{review.author_slug}/{review.metadata['book']['title']}": review
-        for review in books.load_reviews()
-    }
+    review_lookup = {review.id: review for review in books.load_reviews()}
     all_plans = list(books.load_to_read())
 
-    all_reviews = sorted(review_lookup.values(), key=lambda x: x.relevant_date, reverse=True)
+    all_reviews = sorted(
+        review_lookup.values(), key=lambda x: x.relevant_date, reverse=True
+    )
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
     all_events = all_plans + all_reviews
     all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
@@ -310,10 +309,7 @@ def build_site(**kwargs):
     for review in all_reviews:
         review.spine = books.Spine(review)
         review.related_books = [
-            {
-                "review": review_lookup[related["book"]],
-                "text": related["text"],
-            }
+            {"review": review_lookup[related["book"]], "text": related["text"],}
             for related in review.metadata.get("related_books", [])
         ]
         for timestamp in review.metadata["review"]["date_read"]:
@@ -365,7 +361,9 @@ def build_site(**kwargs):
     all_years = sorted(list(reviews_by_year.keys()), reverse=True)
     for (year, reviews) in reviews_by_year.items():
         kwargs = {
-            "reviews": sorted(list(reviews), key=lambda rev: rev.date_read_lookup[year], reverse=True),
+            "reviews": sorted(
+                list(reviews), key=lambda rev: rev.date_read_lookup[year], reverse=True
+            ),
             "all_years": all_years,
             "year": year,
             "current_year": (year == this_year),

@@ -127,6 +127,15 @@
     </article>
     {% endif %}{% endif %}
 
+    {% if review.related_books %}
+    <h2>Related books</h2>
+      {% for related in review.related_books %}
+        {% set review = related.review %}
+        {% set review_text = related.text %}
+        {% include  "_list_entry.html" %}
+      {% endfor %}
+    {% endif %}
+
   <hr>
 
   {% if review.metadata.book.goodreads %}

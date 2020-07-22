@@ -1,4 +1,7 @@
 <div class="reading">
+  {% if review.metadata.review and review.metadata.review.date_read and review.text %}
+    <a href="/{{ review.get_url_path() }}">
+  {% endif %}
   <div class="reading_inner book_metadata">
     <div class="book_thumbnail">
       {% set book = review.metadata.book %}
@@ -16,11 +19,20 @@
         {%- endif %}
       </small>
     </p>
-    {% if review.text %}
-    <hr>
+    {% if review.metadata.review and review.metadata.review.rating %}
+      {% include "_rating.html" %}
+    {% endif %}
+    {% if not review_text and review.text %}
+      <hr>
+      {% set review_text = review.text %}
+    {% endif %}
+    {% if review_text %}
     <p class="note">
-      {{ review.text | render_markdown | safe }}
+      {{ review_text | render_markdown | safe }}
     </p>
     {% endif %}
   </div>
+  {% if review.metadata.review and review.metadata.review.date_read and review.text %}
+    </a>
+  {% endif %}
 </div>

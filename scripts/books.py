@@ -126,6 +126,10 @@ class Review:
     def author_slug(self):
         return slugify(self.metadata["book"]["author"])
 
+    @property
+    def id(self):
+        return f"{self.author_slug}/{self.metadata['book']['slug']}"
+
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.name
@@ -295,7 +299,10 @@ class Review:
 
     @property
     def date_read_lookup(self):
-        return {d.strftime("%Y"): d for d in self.metadata.get("review", {}).get("date_read", [])}
+        return {
+            d.strftime("%Y"): d
+            for d in self.metadata.get("review", {}).get("date_read", [])
+        }
 
     def find_goodreads_cover(self, force_new=False):
         if "goodreads.com" in self.metadata["book"]["cover_image_url"]:
