@@ -72,11 +72,6 @@ def _create_new_thumbnail(src_path, dst_path):
     im.save(dst_path)
 
 
-def thumbnail_1x(name):
-    path = pathlib.Path(name)
-    return f"{path.stem}_1x{path.suffix}"
-
-
 def _create_new_square(src_path, square_path):
     square_path.parent.mkdir(exist_ok=True, parents=True)
 
@@ -277,6 +272,7 @@ def get_stats(reviews, years):
 
 
 def build_site(**kwargs):
+    print("✨ Starting to build the site … ✨")
     env = Environment(
         loader=FileSystemLoader("templates"),
         autoescape=select_autoescape(["html", "xml"]),
@@ -284,21 +280,25 @@ def build_site(**kwargs):
     env.filters["render_markdown"] = render_markdown
     env.filters["render_date"] = render_date
     env.filters["smartypants"] = smartypants.smartypants
-    env.filters["thumbnail_1x"] = thumbnail_1x
     render = partial(render_page, env=env)
 
+    print("📷 Generating thumbnails")
     create_thumbnails()
 
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
 
+    print("📔 Loading reviews from files")
     this_year = dt.datetime.now().strftime("%Y")
-    all_reviews = list(books.load_reviews())
+    review_lookup = {
+        f"{review.author_slug}/{review.metadata['book']['title']}": review
+        for review in books.load_reviews()
+    }
     all_plans = list(books.load_to_read())
-    all_events = all_plans + all_reviews
 
-    all_reviews = sorted(all_reviews, key=lambda x: x.relevant_date, reverse=True)
+    all_reviews = sorted(review_lookup.values(), key=lambda x: x.relevant_date, reverse=True)
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
+    all_events = all_plans + all_reviews
     all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
     tags = defaultdict(list)
     reviews_by_year = defaultdict(list)
@@ -306,14 +306,16 @@ def build_site(**kwargs):
     # Render single review pages
     redirects = []
 
+    print("🖋 Rendering review pages")
     for review in all_reviews:
-        render(
-            "review.html",
-            review.get_url_path() / "index.html",
-            review=review,
-            title=f"Review of {review.metadata['book']['title']}",
-            active="read",
-        )
+        review.spine = books.Spine(review)
+        review.related_books = [
+            {
+                "review": review_lookup[related["book"]],
+                "text": related["text"],
+            }
+            for related in review.metadata.get("related_books", [])
+        ]
         for timestamp in review.metadata["review"]["date_read"]:
             year = timestamp.strftime("%Y")
             redirects.append(
@@ -323,11 +325,20 @@ def build_site(**kwargs):
                 )
             )
             reviews_by_year[year].append(review)
-        review.spine = books.Spine(review)
         for tag in review.metadata["book"].get("tags", []):
             tags[tag].append(review)
+        render(
+            "review.html",
+            review.get_url_path() / "index.html",
+            review=review,
+            title=f"Review of {review.metadata['book']['title']}",
+            active="read",
+        )
 
     render("redirects.conf", "redirects.conf", redirects=redirects)
+
+    # Render tag pages
+    print("🔖 Rendering tag pages")
     tags = {
         books.Tag(tag): sorted(
             tags[tag],
@@ -342,12 +353,14 @@ def build_site(**kwargs):
         for tag in sorted(tags.keys())
     }
 
-    # Render tag pages
-
     for tag, reviews in tags.items():
         render_tag_page(tag, reviews, render)
 
+    render("tags.html", "lists/index.html", tags=tags, active="lists")
+
     # Render the "all reviews" page
+
+    print("🔎 Rendering list pages")
 
     all_years = sorted(list(reviews_by_year.keys()), reverse=True)
     for (year, reviews) in reviews_by_year.items():
@@ -486,7 +499,7 @@ def build_site(**kwargs):
     )
 
     # Render feeds
-
+    print("📰 Rendering feed pages")
     render_feed(all_events[:20], "feed.atom", render)
     render_feed(all_reviews[:20], "reviews.atom", render)
 
@@ -500,7 +513,7 @@ def build_site(**kwargs):
     )
 
     # Render stats page
-
+    print("📊 Rendering stats")
     stats = get_stats(reviews=all_reviews, years=all_years)
     stats["table"] = [
         ("Total books read", len(all_reviews)),
@@ -526,7 +539,5 @@ def build_site(**kwargs):
     render(
         "stats.html", "stats/index.html", stats=stats,
     )
-
-    render("tags.html", "lists/index.html", tags=tags, active="lists")
 
     print("✨ Rendered HTML files to _html ✨")
