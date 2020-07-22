@@ -1,5 +1,6 @@
 import datetime as dt
 import glob
+import math
 import os
 import random
 import re
@@ -378,6 +379,13 @@ class Spine:
                     int(pages) * 0.0075
                 )  # Factor taken from known thickness/page ratio
         return min(max(int(width * 4), 12), 32)  # Clamp between 12 and 32
+
+    def get_margin(self, tilt):
+        tilt = abs(tilt)
+        long_side = self.height * math.cos(math.radians(90 - tilt))
+        short_side = self.width * math.cos(math.radians(tilt))
+        total_required_margin = long_side + short_side - self.width
+        return total_required_margin / 2
 
 
 def _load_entries(dirpath):

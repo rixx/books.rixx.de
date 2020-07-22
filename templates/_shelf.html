@@ -2,23 +2,23 @@
   <img src="/static/shelftop.svg">
 </div>
 <div id="shelf">
-  {% set is_tilted = false %}
+  {% set is_tilted = {'flag': False} %}
   {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
-  {% if is_tilted %}
-    {% set is_tilted = False %}
+  {% if is_tilted.flag %}
+    {% if is_tilted.update({'flag': False }) %}{% endif %}
   {% else %}
     {% if range(1, 30) | random == 1 %}
-      {% set is_tilted = True %}
+      {% if is_tilted.update({'flag': True }) %}{% endif %}
       {% set tilt_degree = range(5, 15) | random %}
-      {% set side_margin = tilt_degree - 2 %}
+      {% set side_margin = review.spine.get_margin(tilt_degree) %}
       {% if range(0, 2) | random == 1 %}
         {% set tilt_degree = tilt_degree * -1 %}
       {% endif %}
     {% endif %}
   {% endif %}
 
-  <a href="/{{ review.get_url_path() }}/" class="spine-wrapper" style="--cover-img: url('/thumbnails/{{ review.spine.cover }}')">
-    <div class="spine" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px; margin-left: {{ side_margin }}px; margin-right: {{ side_margin }}px{% endif %}">
+  <a href="/{{ review.get_url_path() }}/" class="spine-wrapper" style="--cover-img: url('/thumbnails/{{ review.spine.cover }}'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
+    <div class="spine" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted.flag %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px{% endif %}">
       {% if review.spine.starred %}
       <div class="spine-label spine-starred">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
