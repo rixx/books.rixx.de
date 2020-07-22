@@ -18,8 +18,8 @@
 
 
   {% for review in reviews %}
-    {% if review.metadata.review.date_read.strftime("%Y-%m") != dread %}
-      {% set dread = review.metadata.review.date_read.strftime("%Y-%m") %}
+    {% if review.date_read_lookup[year].strftime("%Y-%m") != dread %}
+      {% set dread = review.date_read_lookup[year].strftime("%Y-%m") %}
       <p id="{{ dread }}"></p>
     {% endif %}
     {% include "_review_list_entry.html" %}

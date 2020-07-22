@@ -14,7 +14,7 @@
           {%- endif -%}
             <br/>
           {% if review.metadata.review.date_read %}
-          read {{ review.metadata.review.date_read | render_date }}
+            {% if review.metadata.review.date_read|length > 1 %}last {% endif %}read {{ review.metadata.review.date_read[-1] | render_date }}
             <br/>
           {% endif %}
           <div class="rating">

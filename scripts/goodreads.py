@@ -222,7 +222,7 @@ def push_to_goodreads(review):
         "review[rating]": review.metadata.get("review", {}).get("rating", 0),
         "shelf_name": shelf_name,
     }
-    read_at = review.metadata.get("review", {}).get("date_read", "")
+    read_at = review.metadata.get("review", {}).get("date_read", [])[-1]
     if read_at:
         if isinstance(read_at, (dt.date, dt.datetime)):
             read_at = read_at.strftime("%Y-%m-%d")

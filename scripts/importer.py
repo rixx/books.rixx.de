@@ -93,7 +93,7 @@ def import_books():
             if not read_at:
                 raise Exception(book)
             metadata["review"] = {
-                "date_read": read_at,
+                "date_read": [read_at],
                 "rating": book["rating"],
                 "did_not_finish": False,
             }

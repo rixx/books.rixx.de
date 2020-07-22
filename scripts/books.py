@@ -114,7 +114,7 @@ class Review:
     @property
     def relevant_date(self):
         if self.entry_type == "reviews":
-            result = self.metadata["review"]["date_read"]
+            result = sorted(self.metadata["review"]["date_read"])[-1]
         else:
             result = self.metadata["plan"]["date_added"]
         if isinstance(result, dt.date):
@@ -225,7 +225,7 @@ class Review:
 
         if "review" in self.metadata and self.entry_type == "reviews":
             if not self.metadata["review"].get("date_read"):
-                raise Exception(f"A review needs a date_read. ({self.path})")
+                raise Exception(f"A review needs at least one date_read. ({self.path})")
 
         if "plan" in self.metadata:
             if not self.metadata["plan"].get("date_added"):
@@ -291,6 +291,10 @@ class Review:
         if not goodreads_id:
             return False
         return f"https://www.goodreads.com/book/show/{goodreads_id}-blabla"
+
+    @property
+    def date_read_lookup(self):
+        return {d.strftime("%Y"): d for d in self.metadata.get("review", {}).get("date_read", [])}
 
     def find_goodreads_cover(self, force_new=False):
         if "goodreads.com" in self.metadata["book"]["cover_image_url"]:
@@ -443,7 +447,7 @@ def get_review_info(review=None):
         )
 
     return {
-        "date_read": date_read,
+        "date_read": sorted(known_metadata.get("date_read", []) + [date_read]),
         "rating": rating,
         "did_not_finish": did_not_finish,
     }

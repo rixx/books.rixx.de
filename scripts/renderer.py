@@ -210,8 +210,9 @@ def get_stats(reviews, years):
     stats = {}
     time_lookup = defaultdict(list)
     for review in reviews:
-        key = review.relevant_date.strftime("%Y-%m")
-        time_lookup[key].append(review)
+        for timestamp in review.metadata["review"]["date_read"]:
+            key = timestamp.strftime("%Y-%m")
+            time_lookup[key].append(review)
 
     most_monthly_books = 0
     most_monthly_pages = 0
@@ -300,6 +301,7 @@ def build_site(**kwargs):
     all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
     all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
     tags = defaultdict(list)
+    reviews_by_year = defaultdict(list)
 
     # Render single review pages
     redirects = []
@@ -312,12 +314,15 @@ def build_site(**kwargs):
             title=f"Review of {review.metadata['book']['title']}",
             active="read",
         )
-        redirects.append(
-            (
-                f"reviews/{review.relevant_date.year}/{review.metadata['book']['slug']}",
-                review.get_url_path(),
+        for timestamp in review.metadata["review"]["date_read"]:
+            year = timestamp.strftime("%Y")
+            redirects.append(
+                (
+                    f"reviews/{year}/{review.metadata['book']['slug']}",
+                    review.get_url_path(),
+                )
             )
-        )
+            reviews_by_year[year].append(review)
         review.spine = books.Spine(review)
         for tag in review.metadata["book"].get("tags", []):
             tags[tag].append(review)
@@ -344,14 +349,10 @@ def build_site(**kwargs):
 
     # Render the "all reviews" page
 
-    all_years = sorted(
-        list(set(review.relevant_date.year for review in all_reviews)), reverse=True,
-    )
-    for (year, reviews) in itertools.groupby(
-        all_reviews, key=lambda rev: rev.relevant_date.year
-    ):
+    all_years = sorted(list(reviews_by_year.keys()), reverse=True)
+    for (year, reviews) in reviews_by_year.items():
         kwargs = {
-            "reviews": list(reviews),
+            "reviews": sorted(list(reviews), key=lambda rev: rev.date_read_lookup[year], reverse=True),
             "all_years": all_years,
             "year": year,
             "current_year": (year == this_year),

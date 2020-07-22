@@ -36,7 +36,7 @@
     {% if review.metadata.review.date_read %}
     <tr>
       <td>date read:</td>
-      <th>{{ review.metadata.review.date_read | render_date }}</th>
+      <th>{% for d in review.metadata.review.date_read %}{{ d | render_date }}<br>{% endfor %}</th>
     </tr>
     {% endif %}
     {% if review.metadata.book.pages %}
