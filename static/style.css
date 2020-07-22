@@ -635,6 +635,11 @@ header a {
   flex-wrap: wrap;
   align-items: flex-end;
   justify-content: center;
+  background-image: url("/static/bookshelf.png");
+  background-size: 100% 125px;
+  padding: 0 15px;
+  background-position-y: 5px;
+  border-bottom: #c87629 solid 15px;
 }
 
 #shelf .spine {
