@@ -681,7 +681,7 @@ header a {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.15);
+  box-shadow: inset 1px 0px 1px 0px rgba(0,0,0,0.12), inset 3px 0px 4px 0px rgba(0,0,0,0.09), inset -1px 0px 1px 0px rgba(0,0,0,0.12), inset -3px 0px 4px 0px rgba(0,0,0,0.092);
 }
 #shelf .spine-wrapper {
   position: relative;
