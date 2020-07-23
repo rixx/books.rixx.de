@@ -641,7 +641,7 @@ header a {
   background-position-y: 0px;
   box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.43);
   padding: 0 1px;
-  max-width: calc(100% - 30px);
+  width: calc(100% - 30px);
 }
 
 #shelf-wrapper {
