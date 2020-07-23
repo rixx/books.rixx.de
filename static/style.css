@@ -638,25 +638,39 @@ header a {
   justify-content: center;
   background-image: url("/static/bookshelf.png");
   background-size: 100% 125px;
-  padding: 0 15px;
   background-position-y: 0px;
-  border: #946549 solid 15px;
-  border-top: none;
   box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.43);
+  padding: 0 1px;
+  max-width: calc(100% - 30px);
+}
+
+#shelf-wrapper {
+  display:flex;
+  align-items: stretch;
+  align-content: stretch;
+}
+#shelf-wrapper .shelf-side {
+  margin:-1px;
+  width: 15px;
+  object-fit: cover;
+  position: relative;
+  z-index: 10;
 }
 
 #shelftop, #shelfbottom {
-  height: 15px;
+  height: 20px;
+  position: relative;
+  z-index: 20;
 }
 #shelftop img, #shelfbottom img {
-  width: 107%;
-  margin-left: -3.5%;
-  margin-right: -3.5%;
+  width: calc(100% + 48px);
+  margin-left: -24px;
+  margin-right: -24px;
   height: 100%;
   object-fit: cover;
 }
 #shelfbottom {
-  margin: -7px 2px 0 2px;
+  margin-top: -7px;
 }
 #shelfbottom img {
   transform: rotate(180deg);
@@ -740,6 +754,9 @@ header a {
 }
 .spine.spine-grid {
   background-image: url('/static/grid.png')
+}
+.spine.spine-lined {
+  background-image: url('/static/lined.png')
 }
 
 @media (max-width: 480px) {

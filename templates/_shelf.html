@@ -1,6 +1,8 @@
 <div id="shelftop">
-  <img src="/static/shelftop.svg">
+  <img src="/static/shelftop.png">
 </div>
+<div id="shelf-wrapper">
+  <img class="shelf-side" src="/static/shelfside.svg">
 <div id="shelf">
   {% set is_tilted = {'flag': False} %}
   {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
@@ -36,6 +38,8 @@
       {% set spine_style = "embossed" %}
     {% elif style_choice == 9 %}
       {% set spine_style = "grid" %}
+    {% elif style_choice == 10 %}
+      {% set spine_style = "lined" %}
     {% endif %}
 
   <a href="/{{ review.get_url_path() }}/" class="spine-wrapper" style="--cover-img: url('/thumbnails/{{ review.spine.cover }}'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
@@ -65,6 +69,8 @@
   </a>
   {% endif %}{% endfor %}
 </div>
+  <img class="shelf-side" src="/static/shelfside.svg">
+</div>
 <div id="shelfbottom">
-  <img src="/static/shelftop.svg">
+  <img src="/static/shelftop.png">
 </div>
