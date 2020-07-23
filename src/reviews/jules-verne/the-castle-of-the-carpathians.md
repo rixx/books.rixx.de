@@ -17,6 +17,9 @@ book:
   title: The Castle of the Carpathians
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: jules-verne/around-the-world-in-eighty-days
+  text: The previous book in the series.
 review:
   date_read:
   - 2002-04-01

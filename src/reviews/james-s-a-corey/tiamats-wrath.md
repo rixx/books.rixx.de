@@ -22,6 +22,11 @@ book:
   title: Tiamat's Wrath
 plan:
   date_added: '2019-02-19'
+related_books:
+- book: james-s-a-corey/persepolis-rising
+  text: The previous book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2020-02-11

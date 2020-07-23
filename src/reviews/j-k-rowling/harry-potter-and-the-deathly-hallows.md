@@ -22,6 +22,13 @@ book:
   title: Harry Potter and the Deathly Hallows
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-half-blood-prince
+  text: The previous book in the series.
+- book: john-tiffany/harry-potter-and-the-cursed-child-parts-one-and-two
+  text: The next book in the series.
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The first book in the series.
 review:
   date_read:
   - 2007-12-01

@@ -19,6 +19,13 @@ book:
   title: Equal Rites
 plan:
   date_added: '2018-03-19'
+related_books:
+- book: terry-pratchett/the-light-fantastic
+  text: The previous book in the series.
+- book: terry-pratchett/mort
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2014-05-13

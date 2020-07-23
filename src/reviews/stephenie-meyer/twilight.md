@@ -19,6 +19,9 @@ book:
   title: Twilight
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: stephenie-meyer/breaking-dawn
+  text: The next book in the series.
 review:
   date_read:
   - 2008-10-01

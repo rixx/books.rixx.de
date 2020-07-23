@@ -21,6 +21,11 @@ book:
   title: Imago
 plan:
   date_added: '2018-02-20'
+related_books:
+- book: octavia-e-butler/adulthood-rites
+  text: The previous book in the series.
+- book: octavia-e-butler/dawn
+  text: The first book in the series.
 review:
   date_read:
   - 2018-04-04

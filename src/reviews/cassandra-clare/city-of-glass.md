@@ -22,6 +22,11 @@ book:
   title: City of Glass
 plan:
   date_added: '2016-11-22'
+related_books:
+- book: cassandra-clare/city-of-ashes
+  text: The previous book in the series.
+- book: cassandra-clare/city-of-bones
+  text: The first book in the series.
 review:
   date_read:
   - 2016-11-22

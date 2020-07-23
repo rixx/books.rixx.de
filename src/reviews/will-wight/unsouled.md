@@ -17,6 +17,7 @@ book:
   title: Unsouled
 plan:
   date_added: '2018-08-20'
+related_books: []
 review:
   date_read:
   - 2020-04-30

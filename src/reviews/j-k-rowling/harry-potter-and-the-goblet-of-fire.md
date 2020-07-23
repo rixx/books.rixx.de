@@ -19,6 +19,13 @@ book:
   title: Harry Potter and the Goblet of Fire
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
+  text: The previous book in the series.
+- book: j-k-rowling/harry-potter-and-the-order-of-the-phoenix
+  text: The next book in the series.
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The first book in the series.
 review:
   date_read:
   - 2001-03-01

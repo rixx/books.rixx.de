@@ -15,6 +15,9 @@ book:
   title: Soulsmith
 plan:
   date_added: '2020-04-30'
+related_books:
+- book: will-wight/unsouled
+  text: The previous book in the series.
 ---
 
 [Unsouled](/reviews/2020/unsouled) was fun, but I resented the cliffhanger ending. I expect a lot of escalation in this

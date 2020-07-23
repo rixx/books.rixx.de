@@ -22,6 +22,11 @@ book:
   title: Ein Sams für Martin Taschenbier
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: paul-maar/neue-punkte-fur-das-sams
+  text: The previous book in the series.
+- book: paul-maar/eine-woche-voller-samstage
+  text: The first book in the series.
 review:
   date_read:
   - 2001-08-01

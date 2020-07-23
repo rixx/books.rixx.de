@@ -17,6 +17,9 @@ book:
   title: A Study in Winning
 plan:
   date_added: '2020-02-23'
+related_books:
+- book: jupiterash/a-study-in-doubles
+  text: The next part in the series.
 review:
   date_read:
   - 2020-02-24
@@ -45,9 +48,6 @@ social:
       it was formulaic, it executed the formula well.
 
       https://books.rixx.de/reviews/2020/a-study-in-winning/'
-related_books:
-  - book: jupiterash/a-study-in-doubles
-    text: The next part in the series.
 ---
 
 Too much steam, too much tennis puns, but undeniably good pacing. Follows a formula but follows it well.

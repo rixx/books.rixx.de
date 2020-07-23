@@ -22,6 +22,9 @@ book:
   title: The Atrocity Archives
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: charles-stross/the-concrete-jungle
+  text: The next book in the series.
 review:
   date_read:
   - 2015-07-02

@@ -19,6 +19,9 @@ book:
   title: A Deepness in the Sky
 plan:
   date_added: '2019-03-03'
+related_books:
+- book: vernor-vinge/a-fire-upon-the-deep
+  text: The previous book in the series.
 review: {}
 ---
 

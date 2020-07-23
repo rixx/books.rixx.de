@@ -23,6 +23,11 @@ book:
   title: The Arctic Incident
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: eoin-colfer/artemis-fowl
+  text: The previous book in the series.
+- book: eoin-colfer/the-eternity-code
+  text: The next book in the series.
 review:
   date_read:
   - 2004-06-01

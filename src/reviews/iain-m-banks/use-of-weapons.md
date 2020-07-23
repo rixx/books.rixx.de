@@ -21,6 +21,13 @@ book:
   title: Use of Weapons
 plan:
   date_added: '2018-02-14'
+related_books:
+- book: iain-m-banks/the-player-of-games
+  text: The previous book in the series.
+- book: iain-m-banks/the-state-of-the-art
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-03-09

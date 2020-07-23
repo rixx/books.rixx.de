@@ -21,6 +21,13 @@ book:
   title: Brothers in Arms
 plan:
   date_added: '2018-04-11'
+related_books:
+- book: lois-mcmaster-bujold/falling-free
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/labyrinth
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-11

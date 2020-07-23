@@ -22,6 +22,13 @@ book:
   title: Murder Must Advertise
 plan:
   date_added: '2016-05-07'
+related_books:
+- book: dorothy-l-sayers/hangmans-holiday-a-collection-of-short-mysteries
+  text: The previous book in the series.
+- book: dorothy-l-sayers/the-nine-tailors
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2005-12-01

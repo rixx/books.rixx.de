@@ -21,6 +21,11 @@ book:
   title: Der Auftrag des Magiers
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: licia-troisi/im-land-des-windes
+  text: The previous book in the series.
+- book: licia-troisi/der-talisman-der-macht
+  text: The next book in the series.
 review:
   date_read:
   - 2009-12-01

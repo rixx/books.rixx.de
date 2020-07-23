@@ -19,4 +19,9 @@ book:
   title: Career of Evil
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: robert-galbraith/the-silkworm
+  text: The previous book in the series.
+- book: robert-galbraith/the-cuckoos-calling
+  text: The first book in the series.
 ---

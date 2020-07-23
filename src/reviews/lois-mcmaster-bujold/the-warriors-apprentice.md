@@ -21,6 +21,11 @@ book:
   title: The Warrior's Apprentice
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/ethan-of-athos
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-23

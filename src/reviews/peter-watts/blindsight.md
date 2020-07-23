@@ -21,6 +21,7 @@ book:
   title: Blindsight
 plan:
   date_added: '2015-04-09'
+related_books: []
 review:
   date_read:
   - 2019-01-11

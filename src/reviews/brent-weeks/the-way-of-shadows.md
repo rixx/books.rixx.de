@@ -19,6 +19,9 @@ book:
   title: The Way of Shadows
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: brent-weeks/shadows-edge
+  text: The next book in the series.
 review:
   date_read:
   - 2016-03-01

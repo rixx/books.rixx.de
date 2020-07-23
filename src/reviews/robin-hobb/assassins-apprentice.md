@@ -21,6 +21,9 @@ book:
   title: Assassin's Apprentice
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: robin-hobb/royal-assassin
+  text: The next book in the series.
 review:
   date_read:
   - 2016-10-11

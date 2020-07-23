@@ -21,6 +21,11 @@ book:
   title: Permutation City
 plan:
   date_added: '2018-03-26'
+related_books:
+- book: greg-egan/quarantine
+  text: The previous book in the series.
+- book: greg-egan/distress
+  text: The next book in the series.
 review:
   date_read:
   - 2018-04-24

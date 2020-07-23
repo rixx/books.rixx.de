@@ -17,6 +17,9 @@ book:
   title: The Monster Baru Cormorant
 plan:
   date_added: '2019-05-02'
+related_books:
+- book: seth-dickinson/the-traitor-baru-cormorant
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-05-08

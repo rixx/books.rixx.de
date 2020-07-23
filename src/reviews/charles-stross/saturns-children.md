@@ -21,6 +21,9 @@ book:
   title: Saturn's Children
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: charles-stross/bit-rot
+  text: The next book in the series.
 review:
   date_read:
   - 2017-11-19

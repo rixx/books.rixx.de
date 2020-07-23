@@ -19,6 +19,11 @@ book:
   title: The Reptile Room
 plan:
   date_added: '2017-02-03'
+related_books:
+- book: lemony-snicket/the-bad-beginning
+  text: The previous book in the series.
+- book: lemony-snicket/the-wide-window
+  text: The next book in the series.
 review:
   date_read:
   - 2017-02-03

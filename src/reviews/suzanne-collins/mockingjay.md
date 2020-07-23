@@ -19,6 +19,11 @@ book:
   title: Mockingjay
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: suzanne-collins/catching-fire
+  text: The previous book in the series.
+- book: suzanne-collins/the-hunger-games
+  text: The first book in the series.
 review:
   date_read:
   - 2013-03-01

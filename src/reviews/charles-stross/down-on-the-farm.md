@@ -17,6 +17,13 @@ book:
   title: Down on the Farm
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: charles-stross/the-jennifer-morgue
+  text: The previous book in the series.
+- book: charles-stross/equoid
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2015-07-07

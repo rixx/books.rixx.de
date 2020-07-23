@@ -21,6 +21,11 @@ book:
   title: Beyond the Shadows
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: brent-weeks/shadows-edge
+  text: The previous book in the series.
+- book: brent-weeks/the-way-of-shadows
+  text: The first book in the series.
 review:
   date_read:
   - 2016-03-01

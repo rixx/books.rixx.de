@@ -22,6 +22,11 @@ book:
   title: Clouds of Witness
 plan:
   date_added: '2016-05-07'
+related_books:
+- book: dorothy-l-sayers/whose-body
+  text: The previous book in the series.
+- book: dorothy-l-sayers/unnatural-death
+  text: The next book in the series.
 review:
   date_read:
   - 2006-06-01

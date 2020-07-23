@@ -22,6 +22,9 @@ book:
   title: Dawn
 plan:
   date_added: '2018-02-01'
+related_books:
+- book: octavia-e-butler/adulthood-rites
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-15

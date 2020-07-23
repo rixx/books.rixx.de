@@ -21,6 +21,11 @@ book:
   title: Murder on the Orient Express
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: agatha-christie/the-murder-of-roger-ackroyd
+  text: The previous book in the series.
+- book: agatha-christie/the-abc-murders
+  text: The next book in the series.
 review:
   date_read:
   - 2005-08-01

@@ -18,6 +18,11 @@ book:
   title: The Stone Sky
 plan:
   date_added: '2018-10-28'
+related_books:
+- book: n-k-jemisin/the-obelisk-gate
+  text: The previous book in the series.
+- book: n-k-jemisin/the-fifth-season
+  text: The first book in the series.
 review:
   date_read:
   - 2019-02-13

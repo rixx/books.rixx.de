@@ -21,6 +21,11 @@ book:
   title: The Wise Man's Fear
 plan:
   date_added: '2016-06-07'
+related_books:
+- book: patrick-rothfuss/the-name-of-the-wind
+  text: The previous book in the series.
+- book: patrick-rothfuss/the-slow-regard-of-silent-things
+  text: The next book in the series.
 review:
   date_read:
   - 2016-07-05

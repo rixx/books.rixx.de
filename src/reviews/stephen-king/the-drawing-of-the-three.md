@@ -21,6 +21,11 @@ book:
   title: The Drawing of the Three
 plan:
   date_added: '2017-05-31'
+related_books:
+- book: stephen-king/the-gunslinger
+  text: The previous book in the series.
+- book: stephen-king/the-waste-lands
+  text: The next book in the series.
 review:
   date_read:
   - 2017-06-03

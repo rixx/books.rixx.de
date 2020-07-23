@@ -22,6 +22,13 @@ book:
   title: 'Hangman''s Holiday: A Collection of Short Mysteries'
 plan:
   date_added: '2020-01-23'
+related_books:
+- book: dorothy-l-sayers/have-his-carcase
+  text: The previous book in the series.
+- book: dorothy-l-sayers/murder-must-advertise
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-27

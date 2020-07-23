@@ -19,6 +19,7 @@ book:
   title: Senlin Ascends
 plan:
   date_added: '2018-09-11'
+related_books: []
 review:
   date_read:
   - 2019-07-07

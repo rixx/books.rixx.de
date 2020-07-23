@@ -19,6 +19,9 @@ book:
   title: The Lion, the Witch and the Wardrobe
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: c-s-lewis/prince-caspian
+  text: The next book in the series.
 review:
   date_read:
   - 2002-06-01

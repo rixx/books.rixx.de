@@ -22,6 +22,13 @@ book:
   title: Abaddon's Gate
 plan:
   date_added: '2017-11-14'
+related_books:
+- book: james-s-a-corey/calibans-war
+  text: The previous book in the series.
+- book: james-s-a-corey/cibola-burn
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-05

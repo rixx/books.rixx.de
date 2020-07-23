@@ -23,6 +23,11 @@ book:
   title: The Golem's Eye
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jonathan-stroud/the-amulet-of-samarkand
+  text: The previous book in the series.
+- book: jonathan-stroud/ptolemys-gate
+  text: The next book in the series.
 review:
   date_read:
   - 2007-05-01

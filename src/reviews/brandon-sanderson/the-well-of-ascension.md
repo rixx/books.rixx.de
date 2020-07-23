@@ -21,6 +21,9 @@ book:
   title: The Well of Ascension
 plan:
   date_added: '2019-02-22'
+related_books:
+- book: brandon-sanderson/the-final-empire
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-07-15

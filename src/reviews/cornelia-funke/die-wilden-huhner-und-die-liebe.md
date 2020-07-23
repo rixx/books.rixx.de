@@ -22,6 +22,11 @@ book:
   title: Die Wilden Hühner und die Liebe
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: cornelia-funke/die-wilden-huhner-und-das-gluck-der-erde
+  text: The previous book in the series.
+- book: cornelia-funke/die-wilden-huhner
+  text: The first book in the series.
 review:
   date_read:
   - 2005-10-01

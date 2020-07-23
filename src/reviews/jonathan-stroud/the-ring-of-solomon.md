@@ -20,6 +20,9 @@ book:
   title: The Ring of Solomon
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jonathan-stroud/the-amulet-of-samarkand
+  text: The next book in the series.
 review:
   date_read:
   - 2011-01-01

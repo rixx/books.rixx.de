@@ -21,6 +21,9 @@ book:
   title: Red Sister
 plan:
   date_added: '2018-07-28'
+related_books:
+- book: mark-lawrence/grey-sister
+  text: The next book in the series.
 review:
   date_read:
   - 2018-12-04

@@ -17,6 +17,13 @@ book:
   title: The Five Red Herrings
 plan:
   date_added: '2020-01-10'
+related_books:
+- book: dorothy-l-sayers/strong-poison
+  text: The previous book in the series.
+- book: dorothy-l-sayers/have-his-carcase
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-22

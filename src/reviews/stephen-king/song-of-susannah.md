@@ -19,6 +19,13 @@ book:
   title: Song of Susannah
 plan:
   date_added: '2017-06-20'
+related_books:
+- book: stephen-king/wolves-of-the-calla
+  text: The previous book in the series.
+- book: stephen-king/the-dark-tower
+  text: The next book in the series.
+- book: stephen-king/the-gunslinger
+  text: The first book in the series.
 review:
   date_read:
   - 2017-06-22

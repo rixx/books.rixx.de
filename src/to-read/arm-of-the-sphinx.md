@@ -17,6 +17,9 @@ book:
   title: Arm of the Sphinx
 plan:
   date_added: '2019-07-07'
+related_books:
+- book: josiah-bancroft/senlin-ascends
+  text: The previous book in the series.
 ---
 
 Putting it off because the first part was good and also Kafka

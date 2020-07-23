@@ -21,6 +21,11 @@ book:
   title: A Feast for Crows
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: george-r-r-martin/a-storm-of-swords
+  text: The previous book in the series.
+- book: george-r-r-martin/a-game-of-thrones
+  text: The first book in the series.
 review:
   date_read:
   - 2013-07-01

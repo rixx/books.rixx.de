@@ -19,6 +19,9 @@ book:
   title: American Gods
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: neil-gaiman/anansi-boys
+  text: The next book in the series.
 review:
   date_read:
   - 2012-02-01

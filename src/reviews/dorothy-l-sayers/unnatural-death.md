@@ -21,6 +21,13 @@ book:
   title: Unnatural Death
 plan:
   date_added: '2019-12-19'
+related_books:
+- book: dorothy-l-sayers/clouds-of-witness
+  text: The previous book in the series.
+- book: dorothy-l-sayers/lord-peter-views-the-body
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2019-12-25

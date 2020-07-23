@@ -19,6 +19,13 @@ book:
   title: Whispers Under Ground
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: ben-aaronovitch/moon-over-soho
+  text: The previous book in the series.
+- book: ben-aaronovitch/broken-homes
+  text: The next book in the series.
+- book: ben-aaronovitch/rivers-of-london
+  text: The first book in the series.
 review:
   date_read:
   - 2014-01-01

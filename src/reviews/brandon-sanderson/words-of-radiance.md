@@ -21,6 +21,11 @@ book:
   title: Words of Radiance
 plan:
   date_added: '2018-08-05'
+related_books:
+- book: brandon-sanderson/the-way-of-kings
+  text: The previous book in the series.
+- book: brandon-sanderson/oathbringer
+  text: The next book in the series.
 review:
   date_read:
   - 2018-09-17

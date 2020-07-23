@@ -21,6 +21,13 @@ book:
   title: Tales from Earthsea
 plan:
   date_added: '2018-03-04'
+related_books:
+- book: ursula-k-le-guin/tehanu
+  text: The previous book in the series.
+- book: ursula-k-le-guin/the-other-wind
+  text: The next book in the series.
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: The first book in the series.
 review:
   date_read:
   - 2018-04-03

@@ -19,6 +19,13 @@ book:
   title: Labyrinth
 plan:
   date_added: '2018-11-26'
+related_books:
+- book: lois-mcmaster-bujold/brothers-in-arms
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/the-borders-of-infinity
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2019-03-12

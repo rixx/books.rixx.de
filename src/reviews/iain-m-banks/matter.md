@@ -19,6 +19,13 @@ book:
   title: Matter
 plan:
   date_added: '2018-09-10'
+related_books:
+- book: iain-m-banks/look-to-windward
+  text: The previous book in the series.
+- book: iain-m-banks/surface-detail
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-10-27

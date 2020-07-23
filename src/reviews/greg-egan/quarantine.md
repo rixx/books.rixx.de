@@ -22,6 +22,9 @@ book:
   title: Quarantine
 plan:
   date_added: '2018-02-21'
+related_books:
+- book: greg-egan/permutation-city
+  text: The next book in the series.
 review:
   date_read:
   - 2018-03-26

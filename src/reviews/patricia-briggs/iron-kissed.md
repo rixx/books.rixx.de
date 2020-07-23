@@ -21,6 +21,11 @@ book:
   title: Iron Kissed
 plan:
   date_added: '2016-12-31'
+related_books:
+- book: patricia-briggs/blood-bound
+  text: The previous book in the series.
+- book: patricia-briggs/moon-called
+  text: The first book in the series.
 review:
   date_read:
   - 2016-12-17

@@ -22,6 +22,11 @@ book:
   title: City of Ashes
 plan:
   date_added: '2016-11-20'
+related_books:
+- book: cassandra-clare/city-of-bones
+  text: The previous book in the series.
+- book: cassandra-clare/city-of-glass
+  text: The next book in the series.
 review:
   date_read:
   - 2016-11-20

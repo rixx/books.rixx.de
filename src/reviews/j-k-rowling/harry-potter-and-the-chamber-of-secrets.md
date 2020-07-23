@@ -23,6 +23,11 @@ book:
   title: Harry Potter and the Chamber of Secrets
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The previous book in the series.
+- book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
+  text: The next book in the series.
 review:
   date_read:
   - 2003-10-01

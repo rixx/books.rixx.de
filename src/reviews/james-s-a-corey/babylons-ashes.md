@@ -22,6 +22,13 @@ book:
   title: Babylon's Ashes
 plan:
   date_added: '2018-09-12'
+related_books:
+- book: james-s-a-corey/nemesis-games
+  text: The previous book in the series.
+- book: james-s-a-corey/persepolis-rising
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2018-11-04

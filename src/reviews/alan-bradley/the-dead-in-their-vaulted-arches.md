@@ -20,6 +20,13 @@ book:
   title: The Dead in Their Vaulted Arches
 plan:
   date_added: '2017-11-26'
+related_books:
+- book: alan-bradley/speaking-from-among-the-bones
+  text: The previous book in the series.
+- book: alan-bradley/the-curious-case-of-the-copper-corpse
+  text: The next book in the series.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-26

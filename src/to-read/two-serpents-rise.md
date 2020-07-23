@@ -19,6 +19,9 @@ book:
   title: Two Serpents Rise
 plan:
   date_added: '2019-10-05'
+related_books:
+- book: max-gladstone/three-parts-dead
+  text: The previous book in the series.
 ---
 
 Three Parts Dead was lots of fun, kind of like a more light-hearted Miéville

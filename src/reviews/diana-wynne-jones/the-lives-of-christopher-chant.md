@@ -23,6 +23,9 @@ book:
   title: The Lives of Christopher Chant
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: diana-wynne-jones/witch-week
+  text: The next book in the series.
 review:
   date_read:
   - 2006-05-01

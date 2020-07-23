@@ -23,6 +23,11 @@ book:
   title: The Stone Light
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: kai-meyer/the-water-mirror
+  text: The previous book in the series.
+- book: kai-meyer/the-glass-word
+  text: The next book in the series.
 review:
   date_read:
   - 2008-08-01

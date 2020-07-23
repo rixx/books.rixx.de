@@ -22,6 +22,11 @@ book:
   title: Am Samstag kam das Sams zurück
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: paul-maar/eine-woche-voller-samstage
+  text: The previous book in the series.
+- book: paul-maar/neue-punkte-fur-das-sams
+  text: The next book in the series.
 review:
   date_read:
   - 2000-11-01

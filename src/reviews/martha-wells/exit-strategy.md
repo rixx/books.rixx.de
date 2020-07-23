@@ -17,6 +17,11 @@ book:
   title: Exit Strategy
 plan:
   date_added: '2019-01-05'
+related_books:
+- book: martha-wells/rogue-protocol
+  text: The previous book in the series.
+- book: martha-wells/all-systems-red
+  text: The first book in the series.
 review:
   date_read:
   - 2019-05-10

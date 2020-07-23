@@ -21,6 +21,13 @@ book:
   title: The Waste Lands
 plan:
   date_added: '2017-06-05'
+related_books:
+- book: stephen-king/the-drawing-of-the-three
+  text: The previous book in the series.
+- book: stephen-king/wizard-and-glass
+  text: The next book in the series.
+- book: stephen-king/the-gunslinger
+  text: The first book in the series.
 review:
   date_read:
   - 2017-06-05

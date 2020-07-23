@@ -19,6 +19,11 @@ book:
   title: Devil in the Dollhouse
 plan:
   date_added: '2018-04-30'
+related_books:
+- book: richard-kadrey/aloha-from-hell
+  text: The previous book in the series.
+- book: richard-kadrey/sandman-slim
+  text: The first book in the series.
 review:
   date_read:
   - 2018-06-07

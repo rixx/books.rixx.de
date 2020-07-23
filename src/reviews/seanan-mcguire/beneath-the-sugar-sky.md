@@ -21,6 +21,13 @@ book:
   title: Beneath the Sugar Sky
 plan:
   date_added: '2019-01-05'
+related_books:
+- book: seanan-mcguire/down-among-the-sticks-and-bones
+  text: The previous book in the series.
+- book: seanan-mcguire/in-an-absent-dream
+  text: The next book in the series.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: The first book in the series.
 review:
   date_read:
   - 2019-05-10

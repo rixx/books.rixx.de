@@ -19,6 +19,9 @@ book:
   title: The Door Into Shadow
 plan:
   date_added: '2019-11-15'
+related_books:
+- book: diane-duane/the-door-into-fire
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-04-30

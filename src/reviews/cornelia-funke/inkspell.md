@@ -24,6 +24,11 @@ book:
   title: Inkspell
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: cornelia-funke/inkheart
+  text: The previous book in the series.
+- book: cornelia-funke/inkdeath
+  text: The next book in the series.
 review:
   date_read:
   - 2006-01-01

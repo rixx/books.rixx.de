@@ -18,6 +18,11 @@ book:
   title: The Dark Tower
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: stephen-king/song-of-susannah
+  text: The previous book in the series.
+- book: stephen-king/the-gunslinger
+  text: The first book in the series.
 review:
   date_read:
   - 2017-06-24

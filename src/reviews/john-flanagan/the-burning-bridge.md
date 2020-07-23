@@ -21,6 +21,9 @@ book:
   title: The Burning Bridge
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: john-flanagan/the-ruins-of-gorlan
+  text: The previous book in the series.
 review:
   date_read:
   - 2009-07-01

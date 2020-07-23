@@ -16,6 +16,7 @@ book:
   title: Clockwork Boys
 plan:
   date_added: '2018-09-19'
+related_books: []
 review:
   date_read:
   - 2020-01-26

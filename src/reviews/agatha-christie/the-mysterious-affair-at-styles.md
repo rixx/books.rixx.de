@@ -19,6 +19,9 @@ book:
   title: The Mysterious Affair at Styles
 plan:
   date_added: 2020-06-14
+related_books:
+- book: agatha-christie/the-murder-of-roger-ackroyd
+  text: The next book in the series.
 review:
   date_read:
   - 2020-06-14

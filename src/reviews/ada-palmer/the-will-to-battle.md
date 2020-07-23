@@ -21,6 +21,11 @@ book:
   title: The Will to Battle
 plan:
   date_added: '2018-04-17'
+related_books:
+- book: ada-palmer/seven-surrenders
+  text: The previous book in the series.
+- book: ada-palmer/too-like-the-lightning
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-15

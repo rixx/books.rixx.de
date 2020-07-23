@@ -19,4 +19,7 @@ book:
   title: The Engines of God
 plan:
   date_added: '2018-08-12'
+related_books:
+- book: jack-mcdevitt/the-engines-of-god
+  text: The previous book in the series.
 ---

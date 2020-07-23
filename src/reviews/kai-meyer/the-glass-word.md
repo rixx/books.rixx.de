@@ -23,6 +23,11 @@ book:
   title: The Glass Word
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: kai-meyer/the-stone-light
+  text: The previous book in the series.
+- book: kai-meyer/the-water-mirror
+  text: The first book in the series.
 review:
   date_read:
   - 2007-07-01

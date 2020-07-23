@@ -19,6 +19,11 @@ book:
   title: The Shepherd's Crown
 plan:
   date_added: '2017-11-22'
+related_books:
+- book: terry-pratchett/raising-steam
+  text: The previous book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-22

@@ -21,6 +21,11 @@ book:
   title: Caliban's War
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: james-s-a-corey/abaddons-gate
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-14

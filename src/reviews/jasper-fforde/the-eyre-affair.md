@@ -23,6 +23,9 @@ book:
   title: The Eyre Affair
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: jasper-fforde/lost-in-a-good-book
+  text: The next book in the series.
 review:
   date_read:
   - 2007-08-01

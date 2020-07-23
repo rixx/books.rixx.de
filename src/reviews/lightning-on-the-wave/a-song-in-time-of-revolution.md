@@ -17,6 +17,13 @@ book:
   title: A Song In Time of Revolution
 plan:
   date_added: '2018-01-23'
+related_books:
+- book: lightning-on-the-wave/wind-that-shakes-the-seas-and-stars
+  text: The previous book in the series.
+- book: lightning-on-the-wave/i-am-also-thy-brother
+  text: The next book in the series.
+- book: lightning-on-the-wave/saving-connor
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-01

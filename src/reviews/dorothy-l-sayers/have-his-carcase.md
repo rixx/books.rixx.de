@@ -17,6 +17,13 @@ book:
   title: Have His Carcase
 plan:
   date_added: '2020-01-22'
+related_books:
+- book: dorothy-l-sayers/the-five-red-herrings
+  text: The previous book in the series.
+- book: dorothy-l-sayers/hangmans-holiday-a-collection-of-short-mysteries
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-23

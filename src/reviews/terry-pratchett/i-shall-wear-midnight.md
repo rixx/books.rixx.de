@@ -21,6 +21,13 @@ book:
   title: I Shall Wear Midnight
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/making-money
+  text: The previous book in the series.
+- book: terry-pratchett/snuff
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2012-03-01

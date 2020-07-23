@@ -19,6 +19,9 @@ book:
   title: The Name of the Wind
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: patrick-rothfuss/the-wise-mans-fear
+  text: The next book in the series.
 review:
   date_read:
   - 2016-06-04

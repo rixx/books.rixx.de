@@ -20,6 +20,11 @@ book:
   title: The Hanging Tree
 plan:
   date_added: '2017-12-20'
+related_books:
+- book: ben-aaronovitch/the-furthest-station
+  text: The previous book in the series.
+- book: ben-aaronovitch/rivers-of-london
+  text: The first book in the series.
 review:
   date_read:
   - 2017-12-19

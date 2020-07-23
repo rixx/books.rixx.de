@@ -23,6 +23,9 @@ book:
   title: Whose Body?
 plan:
   date_added: '2019-09-29'
+related_books:
+- book: dorothy-l-sayers/clouds-of-witness
+  text: The next book in the series.
 review:
   date_read:
   - 2019-09-29

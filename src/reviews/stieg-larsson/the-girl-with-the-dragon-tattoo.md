@@ -15,6 +15,7 @@ book:
   title: The Girl with the Dragon Tattoo
 plan:
   date_added: '2015-04-08'
+related_books: []
 review:
   date_read:
   - 2016-02-01

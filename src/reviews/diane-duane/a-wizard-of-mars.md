@@ -23,6 +23,11 @@ book:
   title: A Wizard of Mars
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: diane-duane/wizards-at-war
+  text: The previous book in the series.
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: The first book in the series.
 review:
   date_read:
   - 2016-05-17

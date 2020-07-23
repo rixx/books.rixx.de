@@ -21,6 +21,9 @@ book:
   title: The Ruins of Gorlan
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: john-flanagan/the-burning-bridge
+  text: The next book in the series.
 review:
   date_read:
   - 2007-11-01

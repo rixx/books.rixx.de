@@ -18,6 +18,11 @@ book:
   title: The Restaurant at the End of the Universe
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: The previous book in the series.
+- book: douglas-adams/life-the-universe-and-everything
+  text: The next book in the series.
 review:
   date_read:
   - 2003-07-01

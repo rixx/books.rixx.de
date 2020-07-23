@@ -19,6 +19,13 @@ book:
   title: The Fuller Memorandum
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: charles-stross/equoid
+  text: The previous book in the series.
+- book: charles-stross/overtime
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2015-07-22

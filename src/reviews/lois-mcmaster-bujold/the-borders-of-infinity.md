@@ -17,6 +17,13 @@ book:
   title: The Borders of Infinity
 plan:
   date_added: '2019-03-12'
+related_books:
+- book: lois-mcmaster-bujold/labyrinth
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/weatherman
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2019-03-12

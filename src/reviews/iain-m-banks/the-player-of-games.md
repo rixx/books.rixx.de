@@ -22,6 +22,11 @@ book:
   title: The Player of Games
 plan:
   date_added: '2017-05-29'
+related_books:
+- book: iain-m-banks/consider-phlebas
+  text: The previous book in the series.
+- book: iain-m-banks/use-of-weapons
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-14

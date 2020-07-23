@@ -17,6 +17,9 @@ book:
   title: The Pureblood Pretense
 plan:
   date_added: '2019-02-01'
+related_books:
+- book: murkybluematter/the-serpentine-subterfuge
+  text: The next book in the series.
 review:
   date_read:
   - 2019-02-02

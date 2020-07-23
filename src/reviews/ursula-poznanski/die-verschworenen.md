@@ -21,6 +21,11 @@ book:
   title: Die Verschworenen
 plan:
   date_added: '2017-01-09'
+related_books:
+- book: ursula-poznanski/die-verratenen
+  text: The previous book in the series.
+- book: ursula-poznanski/die-vernichteten
+  text: The next book in the series.
 review:
   date_read:
   - 2017-01-09

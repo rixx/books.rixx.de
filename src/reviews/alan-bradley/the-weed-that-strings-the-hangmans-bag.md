@@ -20,6 +20,11 @@ book:
   title: The Weed That Strings the Hangman's Bag
 plan:
   date_added: '2017-11-23'
+related_books:
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The previous book in the series.
+- book: alan-bradley/a-red-herring-without-mustard
+  text: The next book in the series.
 review:
   date_read:
   - 2017-11-23

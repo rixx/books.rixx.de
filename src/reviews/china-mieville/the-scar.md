@@ -21,6 +21,11 @@ book:
   title: The Scar
 plan:
   date_added: '2018-06-19'
+related_books:
+- book: china-mieville/perdido-street-station
+  text: The previous book in the series.
+- book: china-mieville/iron-council
+  text: The next book in the series.
 review:
   date_read:
   - 2018-07-24

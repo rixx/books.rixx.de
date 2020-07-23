@@ -17,6 +17,7 @@ book:
   title: Midnight Riot
 plan:
   date_added: '2015-07-02'
+related_books: []
 review:
   date_read:
   - 2016-06-02

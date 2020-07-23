@@ -18,6 +18,11 @@ book:
   title: The Return of the King
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: j-r-r-tolkien/the-two-towers
+  text: The previous book in the series.
+- book: j-r-r-tolkien/the-fellowship-of-the-ring
+  text: The first book in the series.
 review:
   date_read:
   - 2001-05-01

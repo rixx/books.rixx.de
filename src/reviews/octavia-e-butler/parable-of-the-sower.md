@@ -21,6 +21,9 @@ book:
   title: Parable of the Sower
 plan:
   date_added: '2018-03-06'
+related_books:
+- book: octavia-e-butler/parable-of-the-talents
+  text: The next book in the series.
 review:
   date_read:
   - 2018-04-09

@@ -20,6 +20,9 @@ book:
   title: Shards of Honour
 plan:
   date_added: '2015-08-06'
+related_books:
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: The next book in the series.
 review:
   date_read:
   - 2017-01-01

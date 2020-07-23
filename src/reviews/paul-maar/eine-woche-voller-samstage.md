@@ -22,6 +22,9 @@ book:
   title: Eine Woche voller Samstage
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: paul-maar/am-samstag-kam-das-sams-zuruck
+  text: The next book in the series.
 review:
   date_read:
   - 2000-05-01

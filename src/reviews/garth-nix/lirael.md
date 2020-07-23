@@ -22,6 +22,11 @@ book:
   title: Lirael
 plan:
   date_added: '2017-05-16'
+related_books:
+- book: garth-nix/sabriel
+  text: The previous book in the series.
+- book: garth-nix/abhorsen
+  text: The next book in the series.
 review:
   date_read:
   - 2017-12-25

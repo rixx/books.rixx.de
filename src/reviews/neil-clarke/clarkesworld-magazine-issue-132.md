@@ -17,6 +17,9 @@ book:
   title: Clarkesworld Magazine, Issue 132
 plan:
   date_added: '2018-08-09'
+related_books:
+- book: neil-clarke/clarkesworld-magazine-issue-137
+  text: The next book in the series.
 review:
   date_read:
   - 2018-08-09

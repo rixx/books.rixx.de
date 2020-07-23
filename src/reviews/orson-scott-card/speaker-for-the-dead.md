@@ -20,6 +20,11 @@ book:
   title: Speaker for the Dead
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: orson-scott-card/enders-game
+  text: The previous book in the series.
+- book: orson-scott-card/xenocide
+  text: The next book in the series.
 review:
   date_read:
   - 2014-03-01

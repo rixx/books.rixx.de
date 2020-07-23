@@ -21,6 +21,11 @@ book:
   title: Fool Moon
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jim-butcher/storm-front
+  text: The previous book in the series.
+- book: jim-butcher/grave-peril
+  text: The next book in the series.
 review:
   date_read:
   - 2014-04-01

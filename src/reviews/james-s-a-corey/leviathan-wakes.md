@@ -22,6 +22,7 @@ book:
   title: Leviathan Wakes
 plan:
   date_added: '2017-03-31'
+related_books: []
 review:
   date_read:
   - 2017-07-06

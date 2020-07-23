@@ -20,6 +20,13 @@ book:
   title: As Chimney Sweepers Come to Dust
 plan:
   date_added: '2017-11-26'
+related_books:
+- book: alan-bradley/the-curious-case-of-the-copper-corpse
+  text: The previous book in the series.
+- book: alan-bradley/thrice-the-brinded-cat-hath-mewd
+  text: The next book in the series.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-26

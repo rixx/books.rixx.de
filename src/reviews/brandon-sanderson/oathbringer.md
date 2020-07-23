@@ -21,6 +21,11 @@ book:
   title: Oathbringer
 plan:
   date_added: '2018-09-17'
+related_books:
+- book: brandon-sanderson/words-of-radiance
+  text: The previous book in the series.
+- book: brandon-sanderson/the-way-of-kings
+  text: The first book in the series.
 review:
   date_read:
   - 2018-11-10

@@ -18,6 +18,13 @@ book:
   title: Strong Poison
 plan:
   date_added: '2020-01-06'
+related_books:
+- book: dorothy-l-sayers/the-unpleasantness-at-the-bellona-club
+  text: The previous book in the series.
+- book: dorothy-l-sayers/the-five-red-herrings
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-10

@@ -20,6 +20,9 @@ book:
   title: Sabriel
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: garth-nix/lirael
+  text: The next book in the series.
 review:
   date_read:
   - 2017-01-01

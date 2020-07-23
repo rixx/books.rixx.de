@@ -17,6 +17,11 @@ book:
   title: No Mouth But Some Serpent's
 plan:
   date_added: '2018-01-23'
+related_books:
+- book: lightning-on-the-wave/saving-connor
+  text: The previous book in the series.
+- book: lightning-on-the-wave/comes-out-of-darkness-morn
+  text: The next book in the series.
 review:
   date_read:
   - 2018-01-14

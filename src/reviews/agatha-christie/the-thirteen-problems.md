@@ -21,6 +21,11 @@ book:
   title: The Thirteen Problems
 plan:
   date_added: 2020-06-16
+related_books:
+- book: agatha-christie/murder-at-the-vicarage
+  text: The previous book in the series.
+- book: agatha-christie/the-body-in-the-library
+  text: The next book in the series.
 review:
   date_read:
   - 2020-06-15

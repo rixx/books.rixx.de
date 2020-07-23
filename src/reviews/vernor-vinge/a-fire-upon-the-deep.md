@@ -21,6 +21,7 @@ book:
   title: A Fire Upon the Deep
 plan:
   date_added: '2016-05-08'
+related_books: []
 review:
   date_read:
   - 2019-03-03

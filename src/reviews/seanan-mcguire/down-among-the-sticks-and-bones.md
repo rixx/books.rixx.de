@@ -22,6 +22,11 @@ book:
   title: Down Among the Sticks and Bones
 plan:
   date_added: '2018-10-06'
+related_books:
+- book: seanan-mcguire/every-heart-a-doorway
+  text: The previous book in the series.
+- book: seanan-mcguire/beneath-the-sugar-sky
+  text: The next book in the series.
 review:
   date_read:
   - 2019-01-03

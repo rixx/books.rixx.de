@@ -21,6 +21,9 @@ book:
   title: Im Land des Windes
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: licia-troisi/die-drachenkampferin-der-auftrag-des-magiers
+  text: The next book in the series.
 review:
   date_read:
   - 2008-06-01

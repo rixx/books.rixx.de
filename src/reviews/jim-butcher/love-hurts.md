@@ -16,6 +16,13 @@ book:
   title: Love Hurts
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jim-butcher/turn-coat
+  text: The previous book in the series.
+- book: jim-butcher/changes
+  text: The next book in the series.
+- book: jim-butcher/storm-front
+  text: The first book in the series.
 review:
   date_read:
   - 2014-02-01

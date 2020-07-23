@@ -21,6 +21,13 @@ book:
   title: Foxglove Summer
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: ben-aaronovitch/broken-homes
+  text: The previous book in the series.
+- book: ben-aaronovitch/the-furthest-station
+  text: The next book in the series.
+- book: ben-aaronovitch/rivers-of-london
+  text: The first book in the series.
 review:
   date_read:
   - 2017-12-18

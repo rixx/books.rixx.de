@@ -23,6 +23,11 @@ book:
   title: Seven Surrenders
 plan:
   date_added: '2018-03-19'
+related_books:
+- book: ada-palmer/too-like-the-lightning
+  text: The previous book in the series.
+- book: ada-palmer/the-will-to-battle
+  text: The next book in the series.
 review:
   date_read:
   - 2018-04-17

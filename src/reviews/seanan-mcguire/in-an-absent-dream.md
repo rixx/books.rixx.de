@@ -17,6 +17,13 @@ book:
   title: In an Absent Dream
 plan:
   date_added: '2019-05-10'
+related_books:
+- book: seanan-mcguire/beneath-the-sugar-sky
+  text: The previous book in the series.
+- book: seanan-mcguire/come-tumbling-down
+  text: The next book in the series.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: The first book in the series.
 review:
   date_read:
   - 2019-09-23

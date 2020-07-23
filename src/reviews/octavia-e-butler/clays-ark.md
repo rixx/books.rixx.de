@@ -19,6 +19,13 @@ book:
   title: Clay's Ark
 plan:
   date_added: '2018-10-06'
+related_books:
+- book: octavia-e-butler/mind-of-my-mind
+  text: The previous book in the series.
+- book: octavia-e-butler/patternmaster
+  text: The next book in the series.
+- book: octavia-e-butler/wild-seed
+  text: The first book in the series.
 review:
   date_read:
   - 2019-01-08

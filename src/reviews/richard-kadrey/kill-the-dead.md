@@ -21,6 +21,11 @@ book:
   title: Kill the Dead
 plan:
   date_added: '2018-02-19'
+related_books:
+- book: richard-kadrey/sandman-slim
+  text: The previous book in the series.
+- book: richard-kadrey/aloha-from-hell
+  text: The next book in the series.
 review:
   date_read:
   - 2018-04-05

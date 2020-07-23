@@ -22,6 +22,11 @@ book:
   title: The Two Towers
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: j-r-r-tolkien/the-fellowship-of-the-ring
+  text: The previous book in the series.
+- book: j-r-r-tolkien/the-return-of-the-king
+  text: The next book in the series.
 review:
   date_read:
   - 2001-03-01

@@ -19,6 +19,11 @@ book:
   title: Adulthood Rites
 plan:
   date_added: '2018-02-15'
+related_books:
+- book: octavia-e-butler/dawn
+  text: The previous book in the series.
+- book: octavia-e-butler/imago
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-20

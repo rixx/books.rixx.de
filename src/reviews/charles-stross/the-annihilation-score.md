@@ -19,6 +19,13 @@ book:
   title: The Annihilation Score
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: charles-stross/the-rhesus-chart
+  text: The previous book in the series.
+- book: charles-stross/the-nightmare-stacks
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2015-08-04

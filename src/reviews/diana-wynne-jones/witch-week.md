@@ -21,6 +21,11 @@ book:
   title: Witch Week
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: diana-wynne-jones/the-lives-of-christopher-chant
+  text: The previous book in the series.
+- book: diana-wynne-jones/the-magicians-of-caprona
+  text: The next book in the series.
 review:
   date_read:
   - 2008-09-01

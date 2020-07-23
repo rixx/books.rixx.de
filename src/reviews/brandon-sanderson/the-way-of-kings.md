@@ -21,6 +21,9 @@ book:
   title: The Way of Kings
 plan:
   date_added: '2016-10-14'
+related_books:
+- book: brandon-sanderson/words-of-radiance
+  text: The next book in the series.
 review:
   date_read:
   - 2018-08-05

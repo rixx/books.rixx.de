@@ -21,6 +21,11 @@ book:
   title: The Murder of Roger Ackroyd
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: agatha-christie/the-mysterious-affair-at-styles
+  text: The previous book in the series.
+- book: agatha-christie/murder-on-the-orient-express
+  text: The next book in the series.
 review:
   date_read:
   - 2005-02-01

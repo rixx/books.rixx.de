@@ -19,6 +19,9 @@ book:
   title: The Bad Beginning
 plan:
   date_added: '2017-02-02'
+related_books:
+- book: lemony-snicket/the-reptile-room
+  text: The next book in the series.
 review:
   date_read:
   - 2017-02-02

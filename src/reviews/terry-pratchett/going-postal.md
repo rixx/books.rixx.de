@@ -19,6 +19,13 @@ book:
   title: Going Postal
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/a-hat-full-of-sky
+  text: The previous book in the series.
+- book: terry-pratchett/thud
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2010-02-01

@@ -15,6 +15,13 @@ book:
   title: The Curious Case of the Copper Corpse
 plan:
   date_added: '2017-11-26'
+related_books:
+- book: alan-bradley/the-dead-in-their-vaulted-arches
+  text: The previous book in the series.
+- book: alan-bradley/as-chimney-sweepers-come-to-dust
+  text: The next book in the series.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-26

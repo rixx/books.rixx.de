@@ -22,6 +22,13 @@ book:
   title: Life, the Universe and Everything
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: douglas-adams/the-restaurant-at-the-end-of-the-universe
+  text: The previous book in the series.
+- book: douglas-adams/so-long-and-thanks-for-all-the-fish
+  text: The next book in the series.
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: The first book in the series.
 review:
   date_read:
   - 2004-08-01

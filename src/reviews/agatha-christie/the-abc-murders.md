@@ -19,6 +19,11 @@ book:
   title: The ABC Murders
 plan:
   date_added: 2020-06-21
+related_books:
+- book: agatha-christie/murder-on-the-orient-express
+  text: The previous book in the series.
+- book: agatha-christie/curtain
+  text: The next book in the series.
 review:
   date_read:
   - 2020-06-20

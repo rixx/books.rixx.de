@@ -15,6 +15,13 @@ book:
   title: Theatre of Cruelty
 plan:
   date_added: '2016-06-08'
+related_books:
+- book: terry-pratchett/lords-and-ladies
+  text: The previous book in the series.
+- book: terry-pratchett/men-at-arms
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2016-06-08

@@ -19,6 +19,9 @@ book:
   title: The Cuckoo's Calling
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: robert-galbraith/the-silkworm
+  text: The next book in the series.
 review:
   date_read:
   - 2017-01-15

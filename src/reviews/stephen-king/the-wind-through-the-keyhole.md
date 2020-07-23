@@ -17,6 +17,13 @@ book:
   title: The Wind Through the Keyhole
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: stephen-king/wizard-and-glass
+  text: The previous book in the series.
+- book: stephen-king/wolves-of-the-calla
+  text: The next book in the series.
+- book: stephen-king/the-gunslinger
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-17

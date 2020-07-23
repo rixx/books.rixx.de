@@ -16,6 +16,11 @@ book:
   title: The Daughter of Odren
 plan:
   date_added: '2018-09-30'
+related_books:
+- book: ursula-k-le-guin/the-other-wind
+  text: The previous book in the series.
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-30

@@ -22,6 +22,11 @@ book:
   title: Das Labyrinth der Träumenden Bücher
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: walter-moers/der-schrecksenmeister
+  text: The previous book in the series.
+- book: walter-moers/the-13-12-lives-of-captain-bluebear
+  text: The first book in the series.
 review:
   date_read:
   - 2011-10-01

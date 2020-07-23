@@ -21,6 +21,9 @@ book:
   title: The Lies of Locke Lamora
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: scott-lynch/red-seas-under-red-skies
+  text: The next book in the series.
 review:
   date_read:
   - 2016-10-19

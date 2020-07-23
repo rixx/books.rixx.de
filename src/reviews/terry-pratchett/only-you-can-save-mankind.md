@@ -19,6 +19,9 @@ book:
   title: Only You Can Save Mankind
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/johnny-and-the-dead
+  text: The next book in the series.
 review:
   date_read:
   - 2004-03-01

@@ -21,6 +21,13 @@ book:
   title: Surface Detail
 plan:
   date_added: '2018-10-26'
+related_books:
+- book: iain-m-banks/matter
+  text: The previous book in the series.
+- book: iain-m-banks/the-hydrogen-sonata
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2019-02-08

@@ -22,6 +22,9 @@ book:
   title: Dune Messiah
 plan:
   date_added: '2018-07-09'
+related_books:
+- book: frank-herbert/dune
+  text: The previous book in the series.
 review:
   date_read:
   - 2018-08-04

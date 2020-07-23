@@ -16,6 +16,13 @@ book:
   title: The Delirium Brief
 plan:
   date_added: '2018-03-19'
+related_books:
+- book: charles-stross/the-nightmare-stacks
+  text: The previous book in the series.
+- book: charles-stross/the-labyrinth-index
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2018-10-16

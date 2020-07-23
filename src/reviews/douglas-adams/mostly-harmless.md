@@ -22,6 +22,11 @@ book:
   title: Mostly Harmless
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: douglas-adams/so-long-and-thanks-for-all-the-fish
+  text: The previous book in the series.
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: The first book in the series.
 review:
   date_read:
   - 2002-01-01

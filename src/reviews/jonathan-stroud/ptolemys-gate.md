@@ -21,6 +21,11 @@ book:
   title: Ptolemy's Gate
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: jonathan-stroud/the-golems-eye
+  text: The previous book in the series.
+- book: jonathan-stroud/the-amulet-of-samarkand
+  text: The first book in the series.
 review:
   date_read:
   - 2008-10-01

@@ -21,6 +21,13 @@ book:
   title: The Daylight War
 plan:
   date_added: '2018-06-24'
+related_books:
+- book: peter-v-brett/the-desert-spear
+  text: The previous book in the series.
+- book: peter-v-brett/the-skull-throne
+  text: The next book in the series.
+- book: peter-v-brett/the-painted-man
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-28

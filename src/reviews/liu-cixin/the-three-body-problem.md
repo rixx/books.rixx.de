@@ -21,6 +21,9 @@ book:
   title: The Three-Body Problem
 plan:
   date_added: '2018-02-13'
+related_books:
+- book: liu-cixin/the-dark-forest
+  text: The next book in the series.
 review:
   date_read:
   - 2018-08-10

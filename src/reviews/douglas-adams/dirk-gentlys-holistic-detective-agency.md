@@ -19,6 +19,9 @@ book:
   title: Dirk Gently's Holistic Detective Agency
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: douglas-adams/the-long-dark-tea-time-of-the-soul
+  text: The next book in the series.
 review:
   date_read:
   - 2007-02-01

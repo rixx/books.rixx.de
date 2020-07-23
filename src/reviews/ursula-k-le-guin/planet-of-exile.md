@@ -19,6 +19,9 @@ book:
   title: Planet of Exile
 plan:
   date_added: '2018-03-03'
+related_books:
+- book: ursula-k-le-guin/the-left-hand-of-darkness
+  text: The next book in the series.
 review:
   date_read:
   - 2018-04-20

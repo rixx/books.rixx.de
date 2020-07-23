@@ -16,6 +16,11 @@ book:
   title: The Door into Sunset
 plan:
   date_added: '2020-04-30'
+related_books:
+- book: diane-duane/the-door-into-shadow
+  text: The previous book in the series.
+- book: diane-duane/the-door-into-fire
+  text: The first book in the series.
 ---
 
 Still haven't read all of Diane Duane. I like the Tale of the Five series tremendously so far, especially for the

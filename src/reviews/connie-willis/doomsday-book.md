@@ -22,6 +22,9 @@ book:
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'
+related_books:
+- book: connie-willis/to-say-nothing-of-the-dog
+  text: The next book in the series.
 review:
   date_read:
   - 2019-11-20

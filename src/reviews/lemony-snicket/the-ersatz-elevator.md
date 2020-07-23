@@ -19,6 +19,13 @@ book:
   title: The Ersatz Elevator
 plan:
   date_added: '2017-02-07'
+related_books:
+- book: lemony-snicket/the-austere-academy
+  text: The previous book in the series.
+- book: lemony-snicket/the-vile-village
+  text: The next book in the series.
+- book: lemony-snicket/the-bad-beginning
+  text: The first book in the series.
 review:
   date_read:
   - 2017-02-06

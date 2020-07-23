@@ -17,6 +17,13 @@ book:
   title: Maze of Light
 plan:
   date_added: '2018-02-10'
+related_books:
+- book: lightning-on-the-wave/comes-out-of-darkness-morn
+  text: The previous book in the series.
+- book: lightning-on-the-wave/freedom-and-not-peace
+  text: The next book in the series.
+- book: lightning-on-the-wave/saving-connor
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-11

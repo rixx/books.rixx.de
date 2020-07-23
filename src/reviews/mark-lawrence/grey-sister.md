@@ -19,6 +19,9 @@ book:
   title: Grey Sister
 plan:
   date_added: '2018-12-04'
+related_books:
+- book: mark-lawrence/red-sister
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-04-04

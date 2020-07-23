@@ -22,6 +22,13 @@ book:
   title: Something Rotten
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jasper-fforde/the-well-of-lost-plots
+  text: The previous book in the series.
+- book: jasper-fforde/first-among-sequels
+  text: The next book in the series.
+- book: jasper-fforde/the-eyre-affair
+  text: The first book in the series.
 review:
   date_read:
   - 2008-05-01

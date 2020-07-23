@@ -17,6 +17,13 @@ book:
   title: Lord Peter Views the Body
 plan:
   date_added: '2019-12-30'
+related_books:
+- book: dorothy-l-sayers/unnatural-death
+  text: The previous book in the series.
+- book: dorothy-l-sayers/the-unpleasantness-at-the-bellona-club
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-05

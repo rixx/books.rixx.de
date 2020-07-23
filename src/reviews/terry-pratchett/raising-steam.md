@@ -19,6 +19,13 @@ book:
   title: Raising Steam
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/the-world-of-poo-discworld
+  text: The previous book in the series.
+- book: terry-pratchett/the-shepherds-crown
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2017-07-11

@@ -21,6 +21,13 @@ book:
   title: 4:50 from Paddington
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: agatha-christie/a-murder-is-announced
+  text: The previous book in the series.
+- book: agatha-christie/nemesis
+  text: The next book in the series.
+- book: agatha-christie/murder-at-the-vicarage
+  text: The first book in the series.
 review:
   date_read:
   - 2004-05-01

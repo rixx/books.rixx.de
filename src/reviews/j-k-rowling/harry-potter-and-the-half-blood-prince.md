@@ -19,6 +19,13 @@ book:
   title: Harry Potter and the Half-Blood Prince
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-order-of-the-phoenix
+  text: The previous book in the series.
+- book: j-k-rowling/harry-potter-and-the-deathly-hallows
+  text: The next book in the series.
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The first book in the series.
 review:
   date_read:
   - 2006-06-01

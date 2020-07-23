@@ -21,6 +21,11 @@ book:
   title: Matters of Choice
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: noah-gordon/shaman
+  text: The previous book in the series.
+- book: noah-gordon/the-physician
+  text: The first book in the series.
 review:
   date_read:
   - 2009-08-01

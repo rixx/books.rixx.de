@@ -21,6 +21,9 @@ book:
   title: Sandman Slim
 plan:
   date_added: '2016-06-08'
+related_books:
+- book: richard-kadrey/kill-the-dead
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-19

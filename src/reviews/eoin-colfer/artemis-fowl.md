@@ -23,6 +23,9 @@ book:
   title: Artemis Fowl
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: eoin-colfer/the-arctic-incident
+  text: The next book in the series.
 review:
   date_read:
   - 2004-02-01

@@ -21,6 +21,11 @@ book:
   title: Around the World in Eighty Days
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jules-verne/journey-to-the-center-of-the-earth
+  text: The previous book in the series.
+- book: jules-verne/the-castle-of-the-carpathians
+  text: The next book in the series.
 review:
   date_read:
   - 2002-09-01

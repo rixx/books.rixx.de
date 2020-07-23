@@ -23,6 +23,9 @@ book:
   title: Too Like the Lightning
 plan:
   date_added: '2018-02-19'
+related_books:
+- book: ada-palmer/seven-surrenders
+  text: The next book in the series.
 review:
   date_read:
   - 2018-03-19

@@ -21,6 +21,9 @@ book:
   title: Moon Called
 plan:
   date_added: '2016-05-23'
+related_books:
+- book: patricia-briggs/blood-bound
+  text: The next book in the series.
 review:
   date_read:
   - 2016-12-14

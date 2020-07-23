@@ -22,6 +22,11 @@ book:
   title: Brisingr
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: christopher-paolini/eldest
+  text: The previous book in the series.
+- book: christopher-paolini/eragon
+  text: The first book in the series.
 review:
   date_read:
   - 2009-06-01

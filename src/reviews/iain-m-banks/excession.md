@@ -21,6 +21,13 @@ book:
   title: Excession
 plan:
   date_added: '2018-04-10'
+related_books:
+- book: iain-m-banks/the-state-of-the-art
+  text: The previous book in the series.
+- book: iain-m-banks/inversions
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-02

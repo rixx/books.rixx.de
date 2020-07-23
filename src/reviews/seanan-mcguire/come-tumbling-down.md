@@ -21,6 +21,11 @@ book:
   title: Come Tumbling Down
 plan:
   date_added: '2020-01-26'
+related_books:
+- book: seanan-mcguire/in-an-absent-dream
+  text: The previous book in the series.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: The first book in the series.
 review:
   date_read:
   - 2020-01-26

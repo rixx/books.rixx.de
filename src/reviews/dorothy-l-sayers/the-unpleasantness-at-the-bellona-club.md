@@ -21,6 +21,13 @@ book:
   title: The Unpleasantness at the Bellona Club
 plan:
   date_added: '2019-12-30'
+related_books:
+- book: dorothy-l-sayers/lord-peter-views-the-body
+  text: The previous book in the series.
+- book: dorothy-l-sayers/strong-poison
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2019-12-29

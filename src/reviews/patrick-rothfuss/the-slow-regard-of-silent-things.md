@@ -21,6 +21,11 @@ book:
   title: The Slow Regard of Silent Things
 plan:
   date_added: '2016-07-05'
+related_books:
+- book: patrick-rothfuss/the-wise-mans-fear
+  text: The previous book in the series.
+- book: patrick-rothfuss/the-name-of-the-wind
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-28

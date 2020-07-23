@@ -20,6 +20,11 @@ book:
   title: Der unsichtbare Freund
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: ralf-isau/der-weisse-wanderer
+  text: The previous book in the series.
+- book: ralf-isau/das-jahrhundertkind
+  text: The first book in the series.
 review:
   date_read:
   - 2005-09-01

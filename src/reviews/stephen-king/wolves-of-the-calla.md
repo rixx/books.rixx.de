@@ -22,6 +22,13 @@ book:
   title: Wolves of the Calla
 plan:
   date_added: '2017-06-18'
+related_books:
+- book: stephen-king/the-wind-through-the-keyhole
+  text: The previous book in the series.
+- book: stephen-king/song-of-susannah
+  text: The next book in the series.
+- book: stephen-king/the-gunslinger
+  text: The first book in the series.
 review:
   date_read:
   - 2017-06-20

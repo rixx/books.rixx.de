@@ -21,6 +21,9 @@ book:
   title: So You Want to Be a Wizard
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: diane-duane/deep-wizardry
+  text: The next book in the series.
 review:
   date_read:
   - 2016-05-05

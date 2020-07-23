@@ -17,6 +17,9 @@ book:
   title: The Girl Who Played with Fire
 plan:
   date_added: '2017-02-01'
+related_books:
+- book: stieg-larsson/the-girl-with-the-dragon-tattoo
+  text: The previous book in the series.
 ---
 
 +1 from [Eva](https://literatur.social/@Columbia/104231525124552719)

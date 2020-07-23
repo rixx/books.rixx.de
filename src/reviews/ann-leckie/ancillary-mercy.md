@@ -22,6 +22,11 @@ book:
   title: Ancillary Mercy
 plan:
   date_added: '2018-04-14'
+related_books:
+- book: ann-leckie/ancillary-sword
+  text: The previous book in the series.
+- book: ann-leckie/ancillary-justice
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-13

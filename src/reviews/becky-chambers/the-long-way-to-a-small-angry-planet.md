@@ -19,6 +19,9 @@ book:
   title: The Long Way to a Small, Angry Planet
 plan:
   date_added: '2017-11-15'
+related_books:
+- book: becky-chambers/a-closed-and-common-orbit
+  text: The next book in the series.
 review:
   date_read:
   - 2018-11-19

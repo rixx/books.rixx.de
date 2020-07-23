@@ -22,6 +22,9 @@ book:
   title: The Fellowship of the Ring
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: j-r-r-tolkien/the-two-towers
+  text: The next book in the series.
 review:
   date_read:
   - 2001-05-01

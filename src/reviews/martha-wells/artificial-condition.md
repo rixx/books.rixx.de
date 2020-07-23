@@ -22,6 +22,11 @@ book:
   title: Artificial Condition
 plan:
   date_added: '2018-09-02'
+related_books:
+- book: martha-wells/all-systems-red
+  text: The previous book in the series.
+- book: martha-wells/rogue-protocol
+  text: The next book in the series.
 review:
   date_read:
   - 2018-10-19

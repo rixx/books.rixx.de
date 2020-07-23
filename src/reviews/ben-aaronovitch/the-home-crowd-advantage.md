@@ -17,6 +17,11 @@ book:
   title: The Home Crowd Advantage
 plan:
   date_added: '2017-12-20'
+related_books:
+- book: ben-aaronovitch/rivers-of-london
+  text: The previous book in the series.
+- book: ben-aaronovitch/moon-over-soho
+  text: The next book in the series.
 review:
   date_read:
   - 2018-01-29

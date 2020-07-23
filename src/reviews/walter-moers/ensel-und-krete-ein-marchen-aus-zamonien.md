@@ -19,6 +19,11 @@ book:
   title: Ensel und Krete. Ein Märchen aus Zamonien
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: walter-moers/the-13-12-lives-of-captain-bluebear
+  text: The previous book in the series.
+- book: walter-moers/rumo-his-miraculous-adventures
+  text: The next book in the series.
 review:
   date_read:
   - 2003-02-01

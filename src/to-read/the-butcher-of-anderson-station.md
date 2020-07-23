@@ -15,6 +15,11 @@ book:
   title: The Butcher of Anderson Station
 plan:
   date_added: '2020-02-11'
+related_books:
+- book: james-s-a-corey/leviathan-wakes
+  text: The previous book in the series.
+- book: james-s-a-corey/calibans-war
+  text: The next book in the series.
 ---
 
 Having some of The Expanse to look forward to, even just novellas, is surprisingly nice.

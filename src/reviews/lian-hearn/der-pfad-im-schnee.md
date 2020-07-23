@@ -20,6 +20,11 @@ book:
   title: Der Pfad im Schnee
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: lian-hearn/das-schwert-in-der-stille
+  text: The previous book in the series.
+- book: lian-hearn/der-glanz-des-mondes
+  text: The next book in the series.
 review:
   date_read:
   - 2006-10-01

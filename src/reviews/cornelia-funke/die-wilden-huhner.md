@@ -22,6 +22,9 @@ book:
   title: Die Wilden Hühner
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: cornelia-funke/die-wilden-huhner-fuchsalarm
+  text: The next book in the series.
 review:
   date_read:
   - 2004-11-01

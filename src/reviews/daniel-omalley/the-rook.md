@@ -22,6 +22,7 @@ book:
   title: The Rook
 plan:
   date_added: '2017-05-23'
+related_books: []
 review:
   date_read:
   - 2017-05-24

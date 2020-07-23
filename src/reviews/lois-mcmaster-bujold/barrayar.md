@@ -22,6 +22,13 @@ book:
   title: Barrayar
 plan:
   date_added: '2018-08-16'
+related_books:
+- book: lois-mcmaster-bujold/the-vor-game
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/mirror-dance
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-29

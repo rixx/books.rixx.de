@@ -21,6 +21,13 @@ book:
   title: Dreamweaver's Dilemma
 plan:
   date_added: '2018-11-23'
+related_books:
+- book: lois-mcmaster-bujold/cetaganda
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/memory
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2018-11-23

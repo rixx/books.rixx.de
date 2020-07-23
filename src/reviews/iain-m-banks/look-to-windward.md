@@ -21,6 +21,13 @@ book:
   title: Look to Windward
 plan:
   date_added: '2018-07-30'
+related_books:
+- book: iain-m-banks/inversions
+  text: The previous book in the series.
+- book: iain-m-banks/matter
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-07

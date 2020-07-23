@@ -21,6 +21,9 @@ book:
   title: Blackwing
 plan:
   date_added: '2018-09-11'
+related_books:
+- book: ed-mcdonald/ravencry
+  text: The next book in the series.
 review:
   date_read:
   - 2019-05-05

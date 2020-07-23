@@ -19,6 +19,13 @@ book:
   title: The State of the Art
 plan:
   date_added: '2018-03-10'
+related_books:
+- book: iain-m-banks/use-of-weapons
+  text: The previous book in the series.
+- book: iain-m-banks/excession
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-04-10

@@ -17,4 +17,7 @@ book:
   title: Lies Sleeping
 plan:
   date_added: '2018-12-04'
+related_books:
+- book: ben-aaronovitch/midnight-riot
+  text: The previous book in the series.
 ---

@@ -22,6 +22,11 @@ book:
   title: First Among Sequels
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: jasper-fforde/something-rotten
+  text: The previous book in the series.
+- book: jasper-fforde/the-eyre-affair
+  text: The first book in the series.
 review:
   date_read:
   - 2008-06-01

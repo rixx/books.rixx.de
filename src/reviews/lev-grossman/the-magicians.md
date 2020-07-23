@@ -21,6 +21,7 @@ book:
   title: The Magicians
 plan:
   date_added: '2018-03-19'
+related_books: []
 review:
   date_read:
   - 2020-05-05

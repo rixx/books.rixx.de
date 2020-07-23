@@ -22,6 +22,11 @@ book:
   title: Eldest
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: christopher-paolini/eragon
+  text: The previous book in the series.
+- book: christopher-paolini/brisingr
+  text: The next book in the series.
 review:
   date_read:
   - 2008-02-01

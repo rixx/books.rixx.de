@@ -17,6 +17,11 @@ book:
   title: I Am Also Thy Brother
 plan:
   date_added: '2018-02-01'
+related_books:
+- book: lightning-on-the-wave/a-song-in-time-of-revolution
+  text: The previous book in the series.
+- book: lightning-on-the-wave/saving-connor
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-10

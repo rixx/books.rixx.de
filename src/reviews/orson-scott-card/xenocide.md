@@ -21,6 +21,11 @@ book:
   title: Xenocide
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: orson-scott-card/speaker-for-the-dead
+  text: The previous book in the series.
+- book: orson-scott-card/enders-game
+  text: The first book in the series.
 review:
   date_read:
   - 2014-07-01

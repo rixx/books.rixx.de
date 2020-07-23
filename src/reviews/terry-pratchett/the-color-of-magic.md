@@ -19,6 +19,9 @@ book:
   title: The Color of Magic
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/the-light-fantastic
+  text: The next book in the series.
 review:
   date_read:
   - 2007-01-01

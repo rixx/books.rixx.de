@@ -19,6 +19,9 @@ book:
   title: Curtain
 plan:
   date_added: 2020-06-19
+related_books:
+- book: agatha-christie/the-abc-murders
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-06-18

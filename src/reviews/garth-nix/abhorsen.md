@@ -20,6 +20,11 @@ book:
   title: Abhorsen
 plan:
   date_added: '2017-12-24'
+related_books:
+- book: garth-nix/lirael
+  text: The previous book in the series.
+- book: garth-nix/sabriel
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-18

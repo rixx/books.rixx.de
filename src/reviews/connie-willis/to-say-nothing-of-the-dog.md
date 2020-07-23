@@ -21,6 +21,9 @@ book:
   title: To Say Nothing of the Dog
 plan:
   date_added: '2019-11-20'
+related_books:
+- book: connie-willis/doomsday-book
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-02-22

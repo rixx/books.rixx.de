@@ -19,6 +19,13 @@ book:
   title: Equoid
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: charles-stross/down-on-the-farm
+  text: The previous book in the series.
+- book: charles-stross/the-fuller-memorandum
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2015-08-04

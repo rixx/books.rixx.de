@@ -18,6 +18,11 @@ book:
   title: The Gunslinger
 plan:
   date_added: '2016-11-13'
+related_books:
+- book: stephen-king/the-little-sisters-of-eluria
+  text: The previous book in the series.
+- book: stephen-king/the-drawing-of-the-three
+  text: The next book in the series.
 review:
   date_read:
   - 2017-05-30

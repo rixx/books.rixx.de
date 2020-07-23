@@ -21,6 +21,13 @@ book:
   title: The World of Poo
 plan:
   date_added: 2020-05-24
+related_books:
+- book: terry-pratchett/snuff
+  text: The previous book in the series.
+- book: terry-pratchett/raising-steam
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2020-04-23

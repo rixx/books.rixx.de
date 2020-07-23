@@ -20,6 +20,11 @@ book:
   title: Memory
 plan:
   date_added: '2019-03-17'
+related_books:
+- book: lois-mcmaster-bujold/dreamweavers-dilemma
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2019-08-07

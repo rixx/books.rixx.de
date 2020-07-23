@@ -19,6 +19,11 @@ book:
   title: The Hero of Ages
 plan:
   date_added: '2019-07-15'
+related_books:
+- book: brandon-sanderson/the-well-of-ascension
+  text: The previous book in the series.
+- book: brandon-sanderson/the-final-empire
+  text: The first book in the series.
 ---
 
 Mistborn is not nearly as good as his newer stuff, but a nice diversion

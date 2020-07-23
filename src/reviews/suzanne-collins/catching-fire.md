@@ -21,6 +21,11 @@ book:
   title: Catching Fire
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: suzanne-collins/the-hunger-games
+  text: The previous book in the series.
+- book: suzanne-collins/mockingjay
+  text: The next book in the series.
 review:
   date_read:
   - 2012-08-01

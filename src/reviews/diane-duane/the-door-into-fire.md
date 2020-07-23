@@ -22,6 +22,9 @@ book:
   title: The Door Into Fire
 plan:
   date_added: '2019-10-05'
+related_books:
+- book: diane-duane/the-door-into-shadow
+  text: The next book in the series.
 review:
   date_read:
   - 2019-11-15

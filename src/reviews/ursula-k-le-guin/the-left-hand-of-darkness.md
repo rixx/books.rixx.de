@@ -19,6 +19,11 @@ book:
   title: The Left Hand of Darkness
 plan:
   date_added: '2016-10-13'
+related_books:
+- book: ursula-k-le-guin/planet-of-exile
+  text: The previous book in the series.
+- book: ursula-k-le-guin/the-telling
+  text: The next book in the series.
 review:
   date_read:
   - 2017-03-01

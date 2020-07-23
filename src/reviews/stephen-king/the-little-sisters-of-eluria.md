@@ -19,6 +19,9 @@ book:
   title: The Little Sisters of Eluria
 plan:
   date_added: '2017-07-11'
+related_books:
+- book: stephen-king/the-gunslinger
+  text: The next book in the series.
 review:
   date_read:
   - 2017-12-25

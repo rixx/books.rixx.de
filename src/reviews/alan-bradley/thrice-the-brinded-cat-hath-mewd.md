@@ -18,6 +18,11 @@ book:
   title: Thrice the Brinded Cat Hath Mew'd
 plan:
   date_added: '2017-11-28'
+related_books:
+- book: alan-bradley/as-chimney-sweepers-come-to-dust
+  text: The previous book in the series.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-28

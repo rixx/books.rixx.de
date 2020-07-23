@@ -21,6 +21,9 @@ book:
   title: Murder at the Vicarage
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: agatha-christie/the-thirteen-problems
+  text: The next book in the series.
 review:
   date_read:
   - 2004-07-01

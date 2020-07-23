@@ -14,6 +14,9 @@ book:
   title: Bit Rot
 plan:
   date_added: '2017-11-28'
+related_books:
+- book: charles-stross/saturns-children
+  text: The previous book in the series.
 review:
   date_read:
   - 2017-11-28

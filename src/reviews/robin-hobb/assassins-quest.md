@@ -21,6 +21,11 @@ book:
   title: Assassin's Quest
 plan:
   date_added: '2016-12-08'
+related_books:
+- book: robin-hobb/royal-assassin
+  text: The previous book in the series.
+- book: robin-hobb/assassins-apprentice
+  text: The first book in the series.
 review:
   date_read:
   - 2016-12-07

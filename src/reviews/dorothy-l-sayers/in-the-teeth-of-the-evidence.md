@@ -18,6 +18,13 @@ book:
   title: In the Teeth of the Evidence
 plan:
   date_added: '2020-05-09'
+related_books:
+- book: dorothy-l-sayers/busmans-honeymoon
+  text: The previous book in the series.
+- book: dorothy-l-sayers/striding-folly
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-05-09

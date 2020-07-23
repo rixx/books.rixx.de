@@ -17,6 +17,9 @@ book:
   title: Blood Song
 plan:
   date_added: '2018-07-20'
+related_books:
+- book: anthony-ryan/tower-lord
+  text: The next book in the series.
 review:
   date_read:
   - 2018-10-12

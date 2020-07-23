@@ -22,6 +22,11 @@ book:
   title: The Tombs of Atuan
 plan:
   date_added: '2017-02-27'
+related_books:
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: The previous book in the series.
+- book: ursula-k-le-guin/the-farthest-shore
+  text: The next book in the series.
 review:
   date_read:
   - 2018-02-12

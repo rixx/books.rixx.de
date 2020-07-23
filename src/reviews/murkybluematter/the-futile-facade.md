@@ -13,6 +13,11 @@ book:
   title: The Futile Facade
 plan:
   date_added: '2019-02-07'
+related_books:
+- book: murkybluematter/the-ambiguous-artifice
+  text: The previous book in the series.
+- book: murkybluematter/the-pureblood-pretense
+  text: The first book in the series.
 review:
   date_read:
   - 2019-02-08

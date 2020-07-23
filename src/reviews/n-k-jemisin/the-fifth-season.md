@@ -19,6 +19,9 @@ book:
   title: The Fifth Season
 plan:
   date_added: '2018-03-19'
+related_books:
+- book: n-k-jemisin/the-obelisk-gate
+  text: The next book in the series.
 review:
   date_read:
   - 2018-09-10

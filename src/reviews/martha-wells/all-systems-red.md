@@ -18,6 +18,9 @@ book:
   title: All Systems Red
 plan:
   date_added: '2018-05-31'
+related_books:
+- book: martha-wells/artificial-condition
+  text: The next book in the series.
 review:
   date_read:
   - 2018-09-02

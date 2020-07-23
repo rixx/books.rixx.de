@@ -23,6 +23,9 @@ book:
   title: The Water Mirror
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: kai-meyer/the-stone-light
+  text: The next book in the series.
 review:
   date_read:
   - 2007-07-01

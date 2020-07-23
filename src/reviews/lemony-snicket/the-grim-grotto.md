@@ -20,6 +20,13 @@ book:
   title: The Grim Grotto
 plan:
   date_added: '2017-02-09'
+related_books:
+- book: lemony-snicket/the-slippery-slope
+  text: The previous book in the series.
+- book: lemony-snicket/the-penultimate-peril
+  text: The next book in the series.
+- book: lemony-snicket/the-bad-beginning
+  text: The first book in the series.
 review:
   date_read:
   - 2017-02-08

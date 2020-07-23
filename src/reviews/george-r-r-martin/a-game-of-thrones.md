@@ -20,6 +20,9 @@ book:
   title: A Game of Thrones
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: george-r-r-martin/a-clash-of-kings
+  text: The next book in the series.
 review:
   date_read:
   - 2012-10-01

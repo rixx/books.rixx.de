@@ -21,6 +21,9 @@ book:
   title: Harka
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: liselotte-welskopf-henrich/der-weg-in-die-verbannung
+  text: The next book in the series.
 review:
   date_read:
   - 2003-07-01

@@ -21,6 +21,9 @@ book:
   title: A Wizard of Earthsea
 plan:
   date_added: '2016-10-25'
+related_books:
+- book: ursula-k-le-guin/the-tombs-of-atuan
+  text: The next book in the series.
 review:
   date_read:
   - 2017-02-27

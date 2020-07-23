@@ -19,6 +19,11 @@ book:
   title: Record of a Spaceborn Few
 plan:
   date_added: '2019-03-07'
+related_books:
+- book: becky-chambers/a-closed-and-common-orbit
+  text: The previous book in the series.
+- book: becky-chambers/the-long-way-to-a-small-angry-planet
+  text: The first book in the series.
 review:
   date_read:
   - 2019-12-04

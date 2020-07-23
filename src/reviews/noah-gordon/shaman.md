@@ -21,6 +21,11 @@ book:
   title: Shaman
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: noah-gordon/the-physician
+  text: The previous book in the series.
+- book: noah-gordon/matters-of-choice
+  text: The next book in the series.
 review:
   date_read:
   - 2006-09-01

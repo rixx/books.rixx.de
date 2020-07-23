@@ -21,6 +21,9 @@ book:
   title: The Physician
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: noah-gordon/shaman
+  text: The next book in the series.
 review:
   date_read:
   - 2006-07-01

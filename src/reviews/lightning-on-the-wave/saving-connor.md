@@ -17,6 +17,9 @@ book:
   title: Saving Connor
 plan:
   date_added: '2018-01-23'
+related_books:
+- book: lightning-on-the-wave/no-mouth-but-some-serpents
+  text: The next book in the series.
 review:
   date_read:
   - 2018-01-12

@@ -20,6 +20,13 @@ book:
   title: Falling Free
 plan:
   date_added: '2018-03-10'
+related_books:
+- book: lois-mcmaster-bujold/ethan-of-athos
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/brothers-in-arms
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2018-04-11

@@ -22,13 +22,13 @@ book:
   title: Magic Burns
 plan:
   date_added: 2020-07-12
+related_books:
+- book: ilona-andrews/magic-bites
+  text: The first book in the series
 review:
   date_read:
   - 2020-07-11
   rating: 3
-related_books:
-  - book: ilona-andrews/magic-bites
-    text: The first book in the series
 ---
 
 Magic Burns continues where [Magic Bites](https://books.rixx.de/reviews/2020/magic-bites) left off. It continues to be

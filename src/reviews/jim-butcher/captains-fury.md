@@ -21,6 +21,13 @@ book:
   title: Captain's Fury
 plan:
   date_added: '2018-01-03'
+related_books:
+- book: jim-butcher/cursors-fury
+  text: The previous book in the series.
+- book: jim-butcher/princeps-fury
+  text: The next book in the series.
+- book: jim-butcher/furies-of-calderon
+  text: The first book in the series.
 review:
   date_read:
   - 2018-01-08

@@ -21,6 +21,9 @@ book:
   title: Die Verratenen
 plan:
   date_added: '2017-01-08'
+related_books:
+- book: ursula-poznanski/die-verschworenen
+  text: The next book in the series.
 review:
   date_read:
   - 2017-01-09

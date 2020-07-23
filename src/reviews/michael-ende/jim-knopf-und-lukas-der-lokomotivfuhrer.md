@@ -22,6 +22,9 @@ book:
   title: Jim Button and Luke the Engine Driver
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: michael-ende/jim-knopf-und-die-wilde-13
+  text: The next book in the series.
 review:
   date_read:
   - 1999-05-01

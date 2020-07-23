@@ -22,6 +22,9 @@ book:
   title: City of Bones
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: cassandra-clare/city-of-ashes
+  text: The next book in the series.
 review:
   date_read:
   - 2016-11-20

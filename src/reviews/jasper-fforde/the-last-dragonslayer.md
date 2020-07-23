@@ -21,6 +21,7 @@ book:
   title: The Last Dragonslayer
 plan:
   date_added: '2016-05-08'
+related_books: []
 review:
   date_read:
   - 2016-06-11

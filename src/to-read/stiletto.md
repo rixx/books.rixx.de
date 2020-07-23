@@ -19,4 +19,7 @@ book:
   title: Stiletto
 plan:
   date_added: '2018-09-15'
+related_books:
+- book: daniel-omalley/the-rook
+  text: The previous book in the series.
 ---

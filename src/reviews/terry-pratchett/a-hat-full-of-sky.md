@@ -19,6 +19,13 @@ book:
   title: A Hat Full of Sky
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/monstrous-regiment
+  text: The previous book in the series.
+- book: terry-pratchett/going-postal
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2011-09-01

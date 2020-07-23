@@ -21,6 +21,13 @@ book:
   title: Inversions
 plan:
   date_added: '2018-07-02'
+related_books:
+- book: iain-m-banks/excession
+  text: The previous book in the series.
+- book: iain-m-banks/look-to-windward
+  text: The next book in the series.
+- book: iain-m-banks/consider-phlebas
+  text: The first book in the series.
 review:
   date_read:
   - 2018-07-30

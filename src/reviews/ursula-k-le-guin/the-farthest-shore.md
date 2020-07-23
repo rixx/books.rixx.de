@@ -22,6 +22,13 @@ book:
   title: The Farthest Shore
 plan:
   date_added: '2018-02-12'
+related_books:
+- book: ursula-k-le-guin/the-tombs-of-atuan
+  text: The previous book in the series.
+- book: ursula-k-le-guin/tehanu
+  text: The next book in the series.
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-22

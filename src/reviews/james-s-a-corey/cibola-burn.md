@@ -17,6 +17,13 @@ book:
   title: Cibola Burn
 plan:
   date_added: '2018-07-05'
+related_books:
+- book: james-s-a-corey/abaddons-gate
+  text: The previous book in the series.
+- book: james-s-a-corey/nemesis-games
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2018-08-01

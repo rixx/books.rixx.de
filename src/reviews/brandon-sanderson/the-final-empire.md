@@ -21,6 +21,9 @@ book:
   title: The Final Empire
 plan:
   date_added: '2018-11-10'
+related_books:
+- book: brandon-sanderson/the-well-of-ascension
+  text: The next book in the series.
 review:
   date_read:
   - 2019-02-22

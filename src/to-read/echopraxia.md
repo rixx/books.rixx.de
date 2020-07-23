@@ -19,6 +19,9 @@ book:
   title: Echopraxia
 plan:
   date_added: '2019-01-14'
+related_books:
+- book: peter-watts/blindsight
+  text: The previous book in the series.
 ---
 
 Benthor. Doubling down on the vampire from Blindsight, horrifying thought. Need to re-visit Blindsight first.

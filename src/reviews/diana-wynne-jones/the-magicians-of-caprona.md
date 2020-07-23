@@ -23,6 +23,11 @@ book:
   title: The Magicians of Caprona
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: diana-wynne-jones/witch-week
+  text: The previous book in the series.
+- book: diana-wynne-jones/conrads-fate
+  text: The next book in the series.
 review:
   date_read:
   - 2007-03-01

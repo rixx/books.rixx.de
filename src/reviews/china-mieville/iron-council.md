@@ -21,6 +21,11 @@ book:
   title: Iron Council
 plan:
   date_added: '2018-07-24'
+related_books:
+- book: china-mieville/the-scar
+  text: The previous book in the series.
+- book: china-mieville/perdido-street-station
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-02

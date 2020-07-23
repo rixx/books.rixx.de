@@ -17,4 +17,7 @@ book:
   title: The Song of the Quarkbeast
 plan:
   date_added: '2018-07-04'
+related_books:
+- book: jasper-fforde/the-last-dragonslayer
+  text: The previous book in the series.
 ---

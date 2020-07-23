@@ -19,6 +19,11 @@ book:
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'
+related_books:
+- book: ann-leckie/nights-slow-poison
+  text: The previous book in the series.
+- book: ann-leckie/ancillary-sword
+  text: The next book in the series.
 review:
   date_read:
   - 2018-03-13

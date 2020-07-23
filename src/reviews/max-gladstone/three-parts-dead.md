@@ -21,6 +21,7 @@ book:
   title: Three Parts Dead
 plan:
   date_added: '2016-06-08'
+related_books: []
 review:
   date_read:
   - 2019-10-05

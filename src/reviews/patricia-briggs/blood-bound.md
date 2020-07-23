@@ -21,6 +21,11 @@ book:
   title: Blood Bound
 plan:
   date_added: '2016-12-31'
+related_books:
+- book: patricia-briggs/moon-called
+  text: The previous book in the series.
+- book: patricia-briggs/iron-kissed
+  text: The next book in the series.
 review:
   date_read:
   - 2016-12-16

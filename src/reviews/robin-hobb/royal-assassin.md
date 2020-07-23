@@ -21,6 +21,11 @@ book:
   title: Royal Assassin
 plan:
   date_added: '2016-10-11'
+related_books:
+- book: robin-hobb/assassins-apprentice
+  text: The previous book in the series.
+- book: robin-hobb/assassins-quest
+  text: The next book in the series.
 review:
   date_read:
   - 2016-12-05

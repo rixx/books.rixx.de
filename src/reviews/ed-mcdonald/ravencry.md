@@ -21,6 +21,9 @@ book:
   title: Ravencry
 plan:
   date_added: '2019-05-05'
+related_books:
+- book: ed-mcdonald/blackwing
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-11-20

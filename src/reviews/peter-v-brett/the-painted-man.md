@@ -19,6 +19,9 @@ book:
   title: The Painted Man
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: peter-v-brett/the-desert-spear
+  text: The next book in the series.
 review:
   date_read:
   - 2016-08-08

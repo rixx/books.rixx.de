@@ -21,6 +21,9 @@ book:
   title: Ender’s Game
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: orson-scott-card/speaker-for-the-dead
+  text: The next book in the series.
 review:
   date_read:
   - 2014-01-01

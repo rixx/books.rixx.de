@@ -18,6 +18,13 @@ book:
   title: Der junge Häuptling
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: liselotte-welskopf-henrich/heimkehr-zu-den-dakota
+  text: The previous book in the series.
+- book: liselotte-welskopf-henrich/uber-den-missouri
+  text: The next book in the series.
+- book: liselotte-welskopf-henrich/harka
+  text: The first book in the series.
 review:
   date_read:
   - 2003-09-01

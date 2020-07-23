@@ -19,6 +19,13 @@ book:
   title: Broken Homes
 plan:
   date_added: '2017-12-12'
+related_books:
+- book: ben-aaronovitch/whispers-under-ground
+  text: The previous book in the series.
+- book: ben-aaronovitch/foxglove-summer
+  text: The next book in the series.
+- book: ben-aaronovitch/rivers-of-london
+  text: The first book in the series.
 review:
   date_read:
   - 2017-12-14

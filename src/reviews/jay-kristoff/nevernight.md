@@ -21,6 +21,9 @@ book:
   title: Nevernight
 plan:
   date_added: '2018-10-16'
+related_books:
+- book: jay-kristoff/godsgrave
+  text: The next book in the series.
 review:
   date_read:
   - 2019-01-06

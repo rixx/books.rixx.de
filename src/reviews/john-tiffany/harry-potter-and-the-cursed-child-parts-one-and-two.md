@@ -21,6 +21,11 @@ book:
   title: 'Harry Potter and the Cursed Child: Parts One and Two'
 plan:
   date_added: '2016-08-16'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-deathly-hallows
+  text: The previous book in the series.
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The first book in the series.
 review:
   date_read:
   - 2016-08-08

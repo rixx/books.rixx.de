@@ -17,6 +17,13 @@ book:
   title: Wind That Shakes the Seas and Stars
 plan:
   date_added: '2018-01-23'
+related_books:
+- book: lightning-on-the-wave/freedom-and-not-peace
+  text: The previous book in the series.
+- book: lightning-on-the-wave/a-song-in-time-of-revolution
+  text: The next book in the series.
+- book: lightning-on-the-wave/saving-connor
+  text: The first book in the series.
 review:
   date_read:
   - 2018-01-20

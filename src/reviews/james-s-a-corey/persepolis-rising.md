@@ -19,6 +19,13 @@ book:
   title: Persepolis Rising
 plan:
   date_added: '2018-11-04'
+related_books:
+- book: james-s-a-corey/babylons-ashes
+  text: The previous book in the series.
+- book: james-s-a-corey/tiamats-wrath
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2019-02-19

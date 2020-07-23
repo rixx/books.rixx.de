@@ -19,6 +19,13 @@ book:
   title: Aloha from Hell
 plan:
   date_added: '2018-04-05'
+related_books:
+- book: richard-kadrey/kill-the-dead
+  text: The previous book in the series.
+- book: richard-kadrey/devil-in-the-dollhouse
+  text: The next book in the series.
+- book: richard-kadrey/sandman-slim
+  text: The first book in the series.
 review:
   date_read:
   - 2018-04-30

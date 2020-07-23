@@ -21,6 +21,11 @@ book:
   title: Red Seas Under Red Skies
 plan:
   date_added: '2016-10-19'
+related_books:
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: The previous book in the series.
+- book: scott-lynch/the-republic-of-thieves
+  text: The next book in the series.
 review:
   date_read:
   - 2017-05-15

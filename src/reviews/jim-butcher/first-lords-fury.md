@@ -21,6 +21,11 @@ book:
   title: First Lord's Fury
 plan:
   date_added: '2018-08-06'
+related_books:
+- book: jim-butcher/princeps-fury
+  text: The previous book in the series.
+- book: jim-butcher/furies-of-calderon
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-19

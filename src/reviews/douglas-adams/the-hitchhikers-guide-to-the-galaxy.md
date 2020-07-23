@@ -18,6 +18,9 @@ book:
   title: The Hitchhiker's Guide to the Galaxy
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: douglas-adams/the-restaurant-at-the-end-of-the-universe
+  text: The next book in the series.
 review:
   date_read:
   - 2004-12-01

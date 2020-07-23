@@ -15,6 +15,9 @@ book:
   title: The Wonder Engine
 plan:
   date_added: '2020-01-26'
+related_books:
+- book: t-kingfisher/clockwork-boys
+  text: The previous book in the series.
 ---
 
 The first part was my first T. Kingfisher book, and I want more

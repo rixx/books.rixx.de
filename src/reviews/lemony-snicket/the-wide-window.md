@@ -21,6 +21,13 @@ book:
   title: The Wide Window
 plan:
   date_added: '2017-02-04'
+related_books:
+- book: lemony-snicket/the-reptile-room
+  text: The previous book in the series.
+- book: lemony-snicket/the-miserable-mill
+  text: The next book in the series.
+- book: lemony-snicket/the-bad-beginning
+  text: The first book in the series.
 review:
   date_read:
   - 2017-01-01

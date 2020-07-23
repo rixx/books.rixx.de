@@ -17,6 +17,11 @@ book:
   title: The Concrete Jungle
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: The previous book in the series.
+- book: charles-stross/the-jennifer-morgue
+  text: The next book in the series.
 review:
   date_read:
   - 2015-07-03

@@ -21,6 +21,9 @@ book:
   title: The Telling
 plan:
   date_added: '2018-11-30'
+related_books:
+- book: ursula-k-le-guin/the-left-hand-of-darkness
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-04-02

@@ -17,6 +17,7 @@ book:
   title: Ninefox Gambit
 plan:
   date_added: '2018-08-22'
+related_books: []
 review:
   date_read:
   - 2019-03-31

@@ -21,6 +21,11 @@ book:
   title: Der Ruf des Reihers
 plan:
   date_added: '2015-07-03'
+related_books:
+- book: lian-hearn/der-glanz-des-mondes
+  text: The previous book in the series.
+- book: lian-hearn/das-schwert-in-der-stille
+  text: The first book in the series.
 review:
   date_read:
   - 2006-03-01

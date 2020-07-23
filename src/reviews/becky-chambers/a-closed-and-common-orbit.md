@@ -19,6 +19,11 @@ book:
   title: A Closed and Common Orbit
 plan:
   date_added: '2018-11-19'
+related_books:
+- book: becky-chambers/the-long-way-to-a-small-angry-planet
+  text: The previous book in the series.
+- book: becky-chambers/record-of-a-spaceborn-few
+  text: The next book in the series.
 review:
   date_read:
   - 2019-03-07

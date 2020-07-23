@@ -21,6 +21,9 @@ book:
   title: Furies of Calderon
 plan:
   date_added: '2017-11-15'
+related_books:
+- book: jim-butcher/academs-fury
+  text: The next book in the series.
 review:
   date_read:
   - 2018-01-01

@@ -14,6 +14,11 @@ book:
   title: A Family Like None Other
 plan:
   date_added: '2020-02-29'
+related_books:
+- book: aspen-in-the-sunlight/a-summer-like-none-other
+  text: The previous book in the series.
+- book: aspen-in-the-sunlight/a-year-like-none-other
+  text: The first book in the series.
 review:
   date_read:
   - 2020-02-29

@@ -21,6 +21,11 @@ book:
   title: Mind of My Mind
 plan:
   date_added: '2018-08-26'
+related_books:
+- book: octavia-e-butler/wild-seed
+  text: The previous book in the series.
+- book: octavia-e-butler/clays-ark
+  text: The next book in the series.
 review:
   date_read:
   - 2018-10-06

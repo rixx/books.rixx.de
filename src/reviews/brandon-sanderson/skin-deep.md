@@ -17,6 +17,9 @@ book:
   title: Skin Deep
 plan:
   date_added: '2017-11-28'
+related_books:
+- book: brandon-sanderson/legion
+  text: The previous book in the series.
 review:
   date_read:
   - 2018-01-29

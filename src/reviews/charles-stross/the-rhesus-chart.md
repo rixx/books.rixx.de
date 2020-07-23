@@ -18,6 +18,13 @@ book:
   title: The Rhesus Chart
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: charles-stross/the-apocalypse-codex
+  text: The previous book in the series.
+- book: charles-stross/the-annihilation-score
+  text: The next book in the series.
+- book: charles-stross/the-atrocity-archives
+  text: The first book in the series.
 review:
   date_read:
   - 2015-08-04

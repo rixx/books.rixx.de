@@ -21,6 +21,13 @@ book:
   title: Blood Rites
 plan:
   date_added: '2015-04-13'
+related_books:
+- book: jim-butcher/death-masks
+  text: The previous book in the series.
+- book: jim-butcher/dead-beat
+  text: The next book in the series.
+- book: jim-butcher/storm-front
+  text: The first book in the series.
 review:
   date_read:
   - 2014-01-01

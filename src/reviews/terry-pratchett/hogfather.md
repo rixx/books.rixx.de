@@ -21,6 +21,13 @@ book:
   title: Hogfather
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/feet-of-clay
+  text: The previous book in the series.
+- book: terry-pratchett/jingo
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2010-03-01

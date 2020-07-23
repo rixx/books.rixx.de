@@ -20,6 +20,11 @@ book:
   title: Neues vom Räuber Hotzenplotz
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: otfried-preussler/der-rauber-hotzenplotz
+  text: The previous book in the series.
+- book: otfried-preussler/hotzenplotz-3
+  text: The next book in the series.
 review:
   date_read:
   - 2000-12-01

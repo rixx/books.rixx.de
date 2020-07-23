@@ -23,6 +23,13 @@ book:
   title: Harry Potter and the Order of the Phoenix
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-goblet-of-fire
+  text: The previous book in the series.
+- book: j-k-rowling/harry-potter-and-the-half-blood-prince
+  text: The next book in the series.
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The first book in the series.
 review:
   date_read:
   - 2003-01-01

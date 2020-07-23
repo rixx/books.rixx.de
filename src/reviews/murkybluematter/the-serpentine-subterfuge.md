@@ -17,6 +17,11 @@ book:
   title: The Serpentine Subterfuge
 plan:
   date_added: '2019-02-01'
+related_books:
+- book: murkybluematter/the-pureblood-pretense
+  text: The previous book in the series.
+- book: murkybluematter/the-ambiguous-artifice
+  text: The next book in the series.
 review:
   date_read:
   - 2019-02-01

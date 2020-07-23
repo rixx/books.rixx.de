@@ -19,6 +19,9 @@ book:
   title: Jim Button and the Wild 13
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: michael-ende/jim-knopf-und-lukas-der-lokomotivfuhrer
+  text: The previous book in the series.
 review:
   date_read:
   - 1999-11-01

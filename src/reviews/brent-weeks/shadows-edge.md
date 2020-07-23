@@ -19,6 +19,11 @@ book:
   title: Shadow's Edge
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: brent-weeks/the-way-of-shadows
+  text: The previous book in the series.
+- book: brent-weeks/beyond-the-shadows
+  text: The next book in the series.
 review:
   date_read:
   - 2016-03-01

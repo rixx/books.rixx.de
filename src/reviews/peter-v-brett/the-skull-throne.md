@@ -19,6 +19,11 @@ book:
   title: The Skull Throne
 plan:
   date_added: '2018-07-28'
+related_books:
+- book: peter-v-brett/the-daylight-war
+  text: The previous book in the series.
+- book: peter-v-brett/the-painted-man
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-03

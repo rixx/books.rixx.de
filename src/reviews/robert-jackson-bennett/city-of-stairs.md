@@ -21,6 +21,7 @@ book:
   title: City of Stairs
 plan:
   date_added: '2019-05-31'
+related_books: []
 review:
   date_read:
   - 2020-05-08

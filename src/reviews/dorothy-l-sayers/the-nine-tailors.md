@@ -23,6 +23,13 @@ book:
   title: The Nine Tailors
 plan:
   date_added: '2016-05-07'
+related_books:
+- book: dorothy-l-sayers/murder-must-advertise
+  text: The previous book in the series.
+- book: dorothy-l-sayers/gaudy-night
+  text: The next book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2005-08-01

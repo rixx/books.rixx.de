@@ -21,6 +21,11 @@ book:
   title: Deep Wizardry
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: The previous book in the series.
+- book: diane-duane/high-wizardry
+  text: The next book in the series.
 review:
   date_read:
   - 2016-05-07

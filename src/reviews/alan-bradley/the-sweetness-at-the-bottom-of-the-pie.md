@@ -20,6 +20,9 @@ book:
   title: The Sweetness at the Bottom of the Pie
 plan:
   date_added: '2016-12-05'
+related_books:
+- book: alan-bradley/the-weed-that-strings-the-hangmans-bag
+  text: The next book in the series.
 review:
   date_read:
   - 2017-11-23

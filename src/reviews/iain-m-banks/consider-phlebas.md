@@ -21,6 +21,9 @@ book:
   title: Consider Phlebas
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: iain-m-banks/the-player-of-games
+  text: The next book in the series.
 review:
   date_read:
   - 2017-05-29

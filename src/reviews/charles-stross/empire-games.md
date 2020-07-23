@@ -21,6 +21,9 @@ book:
   title: Empire Games
 plan:
   date_added: '2018-02-19'
+related_books:
+- book: charles-stross/dark-state
+  text: The next book in the series.
 review:
   date_read:
   - 2018-03-03

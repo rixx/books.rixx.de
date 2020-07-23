@@ -22,6 +22,9 @@ book:
   title: The Long Dark Tea-Time of the Soul
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: douglas-adams/dirk-gentlys-holistic-detective-agency
+  text: The previous book in the series.
 review:
   date_read:
   - 2008-02-01

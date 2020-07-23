@@ -19,6 +19,9 @@ book:
   title: The Silkworm
 plan:
   date_added: '2017-01-16'
+related_books:
+- book: robert-galbraith/the-cuckoos-calling
+  text: The previous book in the series.
 review:
   date_read:
   - 2017-06-27

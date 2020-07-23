@@ -19,6 +19,13 @@ book:
   title: The Furthest Station
 plan:
   date_added: '2017-12-20'
+related_books:
+- book: ben-aaronovitch/foxglove-summer
+  text: The previous book in the series.
+- book: ben-aaronovitch/the-hanging-tree
+  text: The next book in the series.
+- book: ben-aaronovitch/rivers-of-london
+  text: The first book in the series.
 review:
   date_read:
   - 2018-02-15

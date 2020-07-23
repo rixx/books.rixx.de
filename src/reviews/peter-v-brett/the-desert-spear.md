@@ -21,6 +21,11 @@ book:
   title: The Desert Spear
 plan:
   date_added: '2017-12-08'
+related_books:
+- book: peter-v-brett/the-painted-man
+  text: The previous book in the series.
+- book: peter-v-brett/the-daylight-war
+  text: The next book in the series.
 review:
   date_read:
   - 2018-06-24

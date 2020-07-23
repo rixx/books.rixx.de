@@ -18,6 +18,13 @@ book:
   title: Nemesis Games
 plan:
   date_added: '2018-08-01'
+related_books:
+- book: james-s-a-corey/cibola-burn
+  text: The previous book in the series.
+- book: james-s-a-corey/babylons-ashes
+  text: The next book in the series.
+- book: james-s-a-corey/leviathan-wakes
+  text: The first book in the series.
 review:
   date_read:
   - 2018-09-12

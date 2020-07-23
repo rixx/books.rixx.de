@@ -21,6 +21,9 @@ book:
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'
+related_books:
+- book: seanan-mcguire/down-among-the-sticks-and-bones
+  text: The next book in the series.
 review:
   date_read:
   - 2018-10-06

@@ -21,6 +21,11 @@ book:
   title: Johnny and the Bomb
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/johnny-and-the-dead
+  text: The previous book in the series.
+- book: terry-pratchett/only-you-can-save-mankind
+  text: The first book in the series.
 review:
   date_read:
   - 2010-08-01

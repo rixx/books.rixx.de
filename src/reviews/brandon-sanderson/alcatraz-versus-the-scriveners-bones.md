@@ -21,6 +21,9 @@ book:
   title: Alcatraz Versus the Scrivener's Bones
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: brandon-sanderson/alcatraz-versus-the-evil-librarians
+  text: The previous book in the series.
 review:
   date_read:
   - 2015-05-01

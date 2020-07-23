@@ -17,6 +17,9 @@ book:
   title: A Study in Doubles
 plan:
   date_added: '2020-02-24'
+related_books:
+- book: jupiterash/a-study-in-winning
+  text: The first part in the series.
 review:
   date_read:
   - 2020-02-24
@@ -44,9 +47,6 @@ social:
       part.
 
       https://books.rixx.de/reviews/2020/a-study-in-doubles/'
-related_books:
-  - book: jupiterash/a-study-in-winning
-    text: The first part in the series.
 ---
 
 Bit less inspired than the first part, but still solid writing. Thankfully less of the tennis puns.

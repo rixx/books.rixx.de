@@ -19,6 +19,11 @@ book:
   title: The Clan Corporate
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: charles-stross/the-hidden-family
+  text: The previous book in the series.
+- book: charles-stross/the-family-trade
+  text: The first book in the series.
 review:
   date_read:
   - 2016-02-07

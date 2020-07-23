@@ -19,16 +19,17 @@ book:
   title: Harry Potter and the Sorcerer's Stone
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: violet-haberdasher/knightley-academy
+  text: If you want to read the same again, down to the characters and sub-plots,
+    go here.
+- book: j-k-rowling/harry-potter-and-the-chamber-of-secrets
+  text: The next book in the series.
 review:
   date_read:
   - 2001-09-01
   did_not_finish: false
   rating: 4
-related_books:
-  - book: violet-haberdasher/knightley-academy
-    text: If you want to read the same again, down to the characters and sub-plots, go here.
-  - book: j-k-rowling/harry-potter-and-the-chamber-of-secrets
-    text: The next book in the series.
 ---
 
 Harry Potter – look, I can't be objective. I grew up on these books. My friends and I could act out entire scenes by

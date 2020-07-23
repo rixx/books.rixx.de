@@ -19,6 +19,11 @@ book:
   title: Striding Folly
 plan:
   date_added: '2020-02-22'
+related_books:
+- book: dorothy-l-sayers/in-the-teeth-of-the-evidence
+  text: The previous book in the series.
+- book: dorothy-l-sayers/whose-body
+  text: The first book in the series.
 review:
   date_read:
   - 2020-02-22

@@ -23,6 +23,11 @@ book:
   title: The Amulet of Samarkand
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: jonathan-stroud/the-ring-of-solomon
+  text: The previous book in the series.
+- book: jonathan-stroud/the-golems-eye
+  text: The next book in the series.
 review:
   date_read:
   - 2007-01-01

@@ -21,6 +21,9 @@ book:
   title: Perdido Street Station
 plan:
   date_added: '2018-02-19'
+related_books:
+- book: china-mieville/the-scar
+  text: The next book in the series.
 review:
   date_read:
   - 2018-06-19

@@ -19,6 +19,9 @@ book:
   title: The Magician King
 plan:
   date_added: '2020-05-05'
+related_books:
+- book: lev-grossman/the-magicians
+  text: The previous book in the series.
 ---
 
 The Magicians was partly good, partly depressing – if the good parts continue, it should be fun (otherwise I'll drop the

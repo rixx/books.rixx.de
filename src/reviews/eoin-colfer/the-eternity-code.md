@@ -23,6 +23,13 @@ book:
   title: The Eternity Code
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: eoin-colfer/the-arctic-incident
+  text: The previous book in the series.
+- book: eoin-colfer/the-opal-deception
+  text: The next book in the series.
+- book: eoin-colfer/artemis-fowl
+  text: The first book in the series.
 review:
   date_read:
   - 2005-12-01

@@ -19,6 +19,11 @@ book:
   title: The Obelisk Gate
 plan:
   date_added: '2018-09-10'
+related_books:
+- book: n-k-jemisin/the-fifth-season
+  text: The previous book in the series.
+- book: n-k-jemisin/the-stone-sky
+  text: The next book in the series.
 review:
   date_read:
   - 2018-10-28

@@ -20,6 +20,9 @@ book:
   title: Legion
 plan:
   date_added: '2016-06-08'
+related_books:
+- book: brandon-sanderson/skin-deep
+  text: The next book in the series.
 review:
   date_read:
   - 2017-11-28

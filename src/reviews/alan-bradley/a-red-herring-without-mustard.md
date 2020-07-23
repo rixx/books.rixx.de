@@ -18,6 +18,13 @@ book:
   title: A Red Herring Without Mustard
 plan:
   date_added: '2017-11-25'
+related_books:
+- book: alan-bradley/the-weed-that-strings-the-hangmans-bag
+  text: The previous book in the series.
+- book: alan-bradley/i-am-half-sick-of-shadows
+  text: The next book in the series.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: The first book in the series.
 review:
   date_read:
   - 2017-11-24

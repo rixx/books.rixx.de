@@ -17,6 +17,9 @@ book:
   title: Night's Slow Poison
 plan:
   date_added: '2018-07-13'
+related_books:
+- book: ann-leckie/ancillary-justice
+  text: The next book in the series.
 review:
   date_read:
   - 2018-08-23

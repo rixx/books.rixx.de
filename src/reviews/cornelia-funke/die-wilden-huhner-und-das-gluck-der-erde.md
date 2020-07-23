@@ -22,6 +22,13 @@ book:
   title: Die Wilden Hühner und das Glück der Erde
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: cornelia-funke/die-wilden-huhner-fuchsalarm
+  text: The previous book in the series.
+- book: cornelia-funke/die-wilden-huhner-und-die-liebe
+  text: The next book in the series.
+- book: cornelia-funke/die-wilden-huhner
+  text: The first book in the series.
 review:
   date_read:
   - 2008-03-01

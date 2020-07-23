@@ -19,6 +19,13 @@ book:
   title: The Truth
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/the-fifth-elephant
+  text: The previous book in the series.
+- book: terry-pratchett/thief-of-time
+  text: The next book in the series.
+- book: terry-pratchett/the-color-of-magic
+  text: The first book in the series.
 review:
   date_read:
   - 2001-08-01

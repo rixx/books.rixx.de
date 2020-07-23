@@ -21,6 +21,9 @@ book:
   title: Godsgrave
 plan:
   date_added: '2019-01-06'
+related_books:
+- book: jay-kristoff/nevernight
+  text: The previous book in the series.
 review:
   date_read:
   - 2019-05-26

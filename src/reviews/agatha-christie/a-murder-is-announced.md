@@ -21,6 +21,13 @@ book:
   title: A Murder Is Announced
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: agatha-christie/the-body-in-the-library
+  text: The previous book in the series.
+- book: agatha-christie/4-50-from-paddington
+  text: The next book in the series.
+- book: agatha-christie/murder-at-the-vicarage
+  text: The first book in the series.
 review:
   date_read:
   - 2004-01-01

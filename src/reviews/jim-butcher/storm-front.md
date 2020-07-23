@@ -21,6 +21,9 @@ book:
   title: Storm Front
 plan:
   date_added: '2015-04-13'
+related_books:
+- book: jim-butcher/fool-moon
+  text: The next book in the series.
 review:
   date_read:
   - 2014-07-01

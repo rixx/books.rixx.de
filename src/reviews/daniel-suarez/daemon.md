@@ -21,6 +21,9 @@ book:
   title: Daemon
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: daniel-suarez/freedomtm
+  text: The next book in the series.
 review:
   date_read:
   - 2011-03-01

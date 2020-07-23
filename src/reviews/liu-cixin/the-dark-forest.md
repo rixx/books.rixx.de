@@ -17,6 +17,9 @@ book:
   title: The Dark Forest
 plan:
   date_added: '2018-08-10'
+related_books:
+- book: liu-cixin/the-three-body-problem
+  text: The previous book in the series.
 review:
   date_read:
   - 2018-09-24

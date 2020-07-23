@@ -21,6 +21,11 @@ book:
   title: Patternmaster
 plan:
   date_added: '2018-07-20'
+related_books:
+- book: octavia-e-butler/clays-ark
+  text: The previous book in the series.
+- book: octavia-e-butler/wild-seed
+  text: The first book in the series.
 review:
   date_read:
   - 2018-08-26

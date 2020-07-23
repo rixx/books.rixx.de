@@ -22,6 +22,13 @@ book:
   title: The Well of Lost Plots
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jasper-fforde/lost-in-a-good-book
+  text: The previous book in the series.
+- book: jasper-fforde/something-rotten
+  text: The next book in the series.
+- book: jasper-fforde/the-eyre-affair
+  text: The first book in the series.
 review:
   date_read:
   - 2008-03-01

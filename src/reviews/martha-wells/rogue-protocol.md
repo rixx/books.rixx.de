@@ -21,6 +21,13 @@ book:
   title: Rogue Protocol
 plan:
   date_added: '2018-10-19'
+related_books:
+- book: martha-wells/artificial-condition
+  text: The previous book in the series.
+- book: martha-wells/exit-strategy
+  text: The next book in the series.
+- book: martha-wells/all-systems-red
+  text: The first book in the series.
 review:
   date_read:
   - 2019-01-04

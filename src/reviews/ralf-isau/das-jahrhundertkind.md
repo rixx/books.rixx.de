@@ -22,6 +22,9 @@ book:
   title: Das Jahrhundertkind
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: ralf-isau/der-wahrheitsfinder
+  text: The next book in the series.
 review:
   date_read:
   - 2005-06-01

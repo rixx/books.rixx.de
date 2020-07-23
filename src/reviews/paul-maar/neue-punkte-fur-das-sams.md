@@ -22,6 +22,13 @@ book:
   title: Neue Punkte für das Sams
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: paul-maar/am-samstag-kam-das-sams-zuruck
+  text: The previous book in the series.
+- book: paul-maar/ein-sams-fur-martin-taschenbier
+  text: The next book in the series.
+- book: paul-maar/eine-woche-voller-samstage
+  text: The first book in the series.
 review:
   date_read:
   - 2001-06-01
