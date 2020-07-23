@@ -160,3 +160,60 @@ def normalize_series_height():
                 book.metadata["book"]["dimensions"] = {}
             book.metadata["book"]["dimensions"]["height"] = height
             book.save()
+
+
+def series_related_books(books: list):
+    books = sorted(
+        books, key=lambda book: float(book.metadata["book"]["series_position"])
+    )
+    first_book = [
+        book for book in books if book.metadata["book"]["series_position"] == "1"
+    ]
+    if first_book:
+        first_book = first_book[0]
+    else:
+        first_book = None
+
+    for index, book in enumerate(books):
+        related = book.metadata.get("related_books") or []
+        related_ids = [rel.get("book") for rel in related]
+
+        if index > 0:
+            previous_book = books[index - 1]
+        else:
+            previous_book = None
+        if index + 1 < len(books):
+            next_book = books[index + 1]
+
+        if (
+            previous_book
+            and previous_book.id not in related_ids
+            and previous_book.entry_type == "reviews"
+        ):
+            related.append(
+                {"book": previous_book.id, "text": "The previous book in the series."}
+            )
+
+        if (
+            next_book
+            and next_book.id not in related_ids
+            and next_book.entry_type == "reviews"
+        ):
+            related.append(
+                {"book": next_book.id, "text": "The next book in the series."}
+            )
+
+        if (
+            first_book
+            and book != first_book
+            and previous_book != first_book
+            and next_book != first_book
+            and first_book.id not in related_ids
+            and first_book.entry_type == "reviews"
+        ):
+            related.append(
+                {"book": first_book.id, "text": "The first book in the series."}
+            )
+
+        book.metadata["related_books"] = related
+        book.save()
