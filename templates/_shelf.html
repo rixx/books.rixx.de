@@ -4,21 +4,42 @@
 <div id="shelf">
   {% set is_tilted = {'flag': False} %}
   {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
-  {% if is_tilted.flag %}
-    {% if is_tilted.update({'flag': False }) %}{% endif %}
-  {% else %}
-    {% if range(1, 30) | random == 1 %}
-      {% if is_tilted.update({'flag': True }) %}{% endif %}
-      {% set tilt_degree = range(5, 15) | random %}
-      {% set side_margin = review.spine.get_margin(tilt_degree) %}
-      {% if range(0, 2) | random == 1 %}
-        {% set tilt_degree = tilt_degree * -1 %}
+    {% if is_tilted.flag %}
+      {% if is_tilted.update({'flag': False }) %}{% endif %}
+    {% else %}
+      {% if range(1, 30) | random == 1 %}
+        {% if is_tilted.update({'flag': True }) %}{% endif %}
+        {% set tilt_degree = range(5, 15) | random %}
+        {% set side_margin = review.spine.get_margin(tilt_degree) %}
+        {% if range(0, 2) | random == 1 %}
+          {% set tilt_degree = tilt_degree * -1 %}
+        {% endif %}
       {% endif %}
     {% endif %}
-  {% endif %}
+
+    {% set style_choice = range(1, 20) | random %}
+    {% if style_choice == 1 %}
+      {% set spine_style = "ribbed" %}
+    {% elif style_choice == 2 %}
+      {% set spine_style = "noisy" %}
+    {% elif style_choice == 3 %}
+      {% set spine_style = "linen" %}
+    {% elif style_choice == 4 %}
+      {% set spine_style = "arches" %}
+    {% elif style_choice == 5 %}
+      {% set spine_style = "corrugation" %}
+    {% elif style_choice == 6 %}
+      {% set spine_style = "exa" %}
+    {% elif style_choice == 7 %}
+      {% set spine_style = "decal" %}
+    {% elif style_choice == 8 %}
+      {% set spine_style = "embossed" %}
+    {% elif style_choice == 9 %}
+      {% set spine_style = "grid" %}
+    {% endif %}
 
   <a href="/{{ review.get_url_path() }}/" class="spine-wrapper" style="--cover-img: url('/thumbnails/{{ review.spine.cover }}'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
-    <div class="spine" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted.flag %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px{% endif %}">
+    <div class="spine{% if spine_style %} spine-{{ spine_style }}{% endif %}" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted.flag %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px{% endif %}">
       {% if review.spine.starred %}
       <div class="spine-label spine-starred">
         <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -31,6 +52,10 @@
               C22.602,0.567,25.338,0.567,26.285,2.486z"/>
         </svg>
       </div>
+      {% elif spine_style == "ribbed" %}
+        {% for _ in range(5) %}
+          <div class="spine-separator"></div>
+        {% endfor %}
       {% endif %}
       {% for label in review.spine.labels %}
         <div class="spine-label" style="background-color: {{ label.metadata.color }}" title="{{ label.metadata.name or label.slug }}">

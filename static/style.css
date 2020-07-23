@@ -666,6 +666,7 @@ header a {
   position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
   box-shadow: inset 0px 0px 5px 1px rgba(0,0,0,0.15);
 }
 #shelf .spine-wrapper {
@@ -711,7 +712,35 @@ header a {
   width: 10px;
   align-self: center;
 }
-
+.spine .spine-separator {
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+  box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.4), 0px -2px 3px 0px rgba(0,0,0,0.2);
+  height: 1px;
+}
+.spine.spine-noisy {
+  background-image: url('/static/noise1.png')
+}
+.spine.spine-linen {
+  background-image: url('/static/linen.png')
+}
+.spine.spine-arches {
+  background-image: url('/static/arches.png')
+}
+.spine.spine-corrugation {
+  background-image: url('/static/corrugation.png')
+}
+.spine.spine-exa {
+  background-image: url('/static/exa.png')
+}
+.spine.spine-decal {
+  background-image: url('/static/decal.png')
+}
+.spine.spine-embossed {
+  background-image: url('/static/embossed.png')
+}
+.spine.spine-grid {
+  background-image: url('/static/grid.png')
+}
 
 @media (max-width: 480px) {
   main {
