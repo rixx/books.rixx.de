@@ -27,6 +27,9 @@ review:
   - 2020-06-04
   did_not_finish: false
   rating: 3
+related_books:
+  - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+    text: Need I say more?
 ---
 
 Knightly Academy is, in a sentence, a conservative Harry Potter knockoff without magic.
@@ -68,7 +71,3 @@ makes her life hell. Yup.
 The book definitely carries off decent writing and worldbuilding, and I enjoyed (for the most part) reading it despite
 the predictable plot and weak characters. It's no worse than Harry Potter, and plays to the same level of writing, the
 same readership, the same general vibe. If you're into a light Harry-Potter-alike, this is a good book to read.
-
-## Further Reading
-
-Obviously, [Harry Potter](https://books.rixx.de/reviews/2001/harry-potter-and-the-sorcerers-stone), need I say more?
