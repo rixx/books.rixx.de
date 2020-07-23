@@ -27,6 +27,11 @@ review:
   - 2020-06-21
   did_not_finish: false
   rating: 4
+related_books:
+  - book: gail-carriger/soulless
+    text: The same, only very dainty and Victorian.
+  - book: ilona-andrews/magic-burns
+    text: The next book in the series
 ---
 
 Magic Bites was honestly decent Urban Fantasy. Strong characters with more than one dimension (admittedly sometimes only
