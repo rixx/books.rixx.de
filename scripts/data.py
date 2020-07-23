@@ -189,6 +189,7 @@ def series_related_books(books: list):
             previous_book
             and previous_book.id not in related_ids
             and previous_book.entry_type == "reviews"
+            and previous_book != book
         ):
             related.append(
                 {"book": previous_book.id, "text": "The previous book in the series."}
@@ -198,6 +199,7 @@ def series_related_books(books: list):
             next_book
             and next_book.id not in related_ids
             and next_book.entry_type == "reviews"
+            and next_book != book
         ):
             related.append(
                 {"book": next_book.id, "text": "The next book in the series."}
