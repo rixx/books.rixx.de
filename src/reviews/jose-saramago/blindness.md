@@ -1,6 +1,6 @@
 ---
 book:
-  author: José Saramago, Giovanni Pontiero
+  author: José Saramago
   cover_image: blindness.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156007757-L.jpg
   dimensions:
@@ -23,13 +23,11 @@ review:
   date_read:
   - 2014-03-01
   rating: 4
+related_books:
+- book: albert-camus/the-plague
+  text: Due to the similar theme and feeling, The Plague is the obvious choice for related book.
 ---
 
 Blindness felt really strong – the general vibe of the book is still easy to recall for me years later. The epidemic
 blindness that befalls everybdoy in contact with a victim is terrifying, but the terror isn't overdone. It's humanized,
 low-key, loving even. I'm glad I read this book.
-
-## Further Reading
-
-A book that's often paired due to a similar theme and feeling is [The
-Plague](https://books.rixx.de/reviews/2010/the-plague) – though I prefer Blindness, to be honest.

@@ -24,6 +24,11 @@ review:
   - 2008-03-01
   did_not_finish: false
   rating: 3
+related_books:
+  - book: samuel-beckett/waiting-for-godot
+    text: For less depressing nihilism, Waiting for Godot is absurdist in a nice way.
+  - book: albert-camus/the-plague
+    text: If you really need existentialist books, look no further.
 ---
 
 I don't do well with Kafka, and this one was no exception. I'm not debating the quality or skill of execution, it's just
@@ -31,9 +36,3 @@ that Kafka makes me feel truly terrible in a way that I don't care to introduce 
 
 I remember sitting in school during breaks and reading this and suddenly feeling that my entire future could only be
 like this, that this was all there ever could be. Shudders.
-
-## Further Reading
-
-For less depressing nihilism, [Waiting for Godot](https://books.rixx.de/reviews/2018/waiting-for-godot) is absurdist in
-a nice way. If you really need existentialist books, [The Plague](https://books.rixx.de/reviews/2010/the-plague)
-would work.

@@ -20,15 +20,14 @@ review:
   date_read:
   - 2008-04-07
   rating: 3
+related_books:
+- book: franz-kafka/the-trial
+  text: If you can stand him, Kafka's Trial is the logical next step.
+- book: franz-kafka/the-castle
+  text: Kafka's Castle also works as transition into total bleakness.
+- book: lewis-carroll/alice-in-wonderland
+  text: If you'd rather lean into the weirdness, consider turning towards trippy books and starting with Alice.
 ---
 
 Waiting for Godot showed me how free literature was, and the things a determined author can do with and through (and
 arguably to) a group of actors. I like it for this learning impact, a lot.
-
-## Further Reading
-
-If you can stand him, the logical next step would be Kafka, both his
-[Trial](https://books.rixx.de/reviews/2008/the-trial) and [Castle](https://books.de/reviews/2009/the-castle).
-
-If you'd rather not go deeper into bleakness, consider turning towards trippy books and starting with [Alice in
-Wonderland](https://books.rixx.de/reviews/2004/alice-in-wonderland).
