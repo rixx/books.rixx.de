@@ -519,9 +519,9 @@ def build_site(**kwargs):
         ("Reading pile", len(all_plans)),
         ("Books without review", len([b for b in all_reviews if not b.text.strip()])),
         (
-            "Reviews without cross-reference",
+            "Books without related books",
             len(
-                [b for b in all_reviews if b.text.strip() and "https://" not in b.text]
+                [b for b in all_reviews if not b.metadata.get("related_books")]
             ),
         ),
         (
