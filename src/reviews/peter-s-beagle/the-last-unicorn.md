@@ -26,13 +26,11 @@ review:
   - 2017-02-23
   did_not_finish: false
   rating: 3
+related_books:
+  - book: neil-gaiman/stardust
+    text: A similarly romantic-realistic Fantasy, though following a more conventional arc.
+  - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
+    text: If you liked the lyrical language and the brutal humour, and don't mind reading a bit of sci-fi, this book is the perfect fit.
 ---
 
 I really enjoyed this one - it's a fairytale, it's very very lyrical, but at the same time it surprises you with bursts of dry humour. The length and pacing is perfect, too - it's a fairly short book, but it carries its length well.
-
-## Further Reading
-
-[Stardust](https://books.rixx.de/reviews/2013/stardust) is similar romantic-realistic Fantasy, though it follows of a
-more conventional arc. If you liked the lyrical language and the brutal humour, and don't mind reading a bit of sci-fi,
-[This is how you lose the time war](https://books.rixx.de/reviews/2019/this-is-how-you-lose-the-time-war) would be a
-good fit.

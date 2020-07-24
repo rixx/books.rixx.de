@@ -24,6 +24,11 @@ review:
   - 2019-04-22
   did_not_finish: false
   rating: 3
+related_books:
+ - book: neil-gaiman/stardust
+   text: If you liked the concept of a vaguely British place at the border of Faerie.
+ - book: j-r-r-tolkien/the-hobbit-or-there-and-back-again
+   text: The Hobbit has the same feeling of proper British middle-class suddenly having to deal with fantastic occurrences.
 ---
 
 Lud-in-the-Mist by *Hope Mirrlees* is a fantasy novel from 1926, which means it reads a bit aged – but not only that, it
@@ -39,8 +44,3 @@ how the fantastic and the real world can relate, she also demonstrates a great i
 found descriptions of the characters' tics and peculiarities (along with the hints where they come from/how they relate
 to everything else this person is doint) very insightful and amusing. Very recommended if you want to see fantasy that
 is different.
-
-## Further Reading
-
-If you liked the concept of a vaguely British place at the border of Faerie, consider looking at
-[Stardust](https://books.rixx.de/reviews/2013/stardust).

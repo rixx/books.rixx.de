@@ -23,6 +23,9 @@ review:
   rating: 5
   tldr: Excellent content semi-obscured behind impressive degrees of obnoxious writing.
     Punchable, yet useful. One of the most important books to me this year.
+related_books:
+  - book: carolyn-elliott/existential-kink
+    text: Existential Kink agrees with most premises in this book, but puts an entirely positive spin of shameless enjoyment on them. A good book to balance the dour stuffiness of this one.
 social:
   mastodon:
     datetime: 2020-07-12 01:24:33.701270

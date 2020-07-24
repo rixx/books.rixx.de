@@ -12,7 +12,7 @@ book:
   isbn13: '9781592407330'
   pages: 287
   publication_year: '2012'
-  slug: daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead
+  slug: daring-greatly
   spine_color: '#3fb0cc'
   tags:
   - nonfiction
@@ -26,6 +26,9 @@ review:
   - 2019-10-01
   did_not_finish: false
   rating: 4
+related_books:
+  - book: carolyn-elliott/existential-kink
+    text: Existential Kink offers a different, practical look at shame that boils down to "Have you considered that you might be into it?"
 ---
 
 Daring Greatly by *Brené Brown* is a book on vulnerability, and touches on many emotional and structural concepts that influence how we can or cannot be vulnerable in our current societes, such as hero worship, scarcity culture, disengagement, perfectionism, and above everything else, **guilt and shame**.

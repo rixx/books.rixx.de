@@ -24,6 +24,11 @@ review:
   date_read:
   - 2020-06-01
   rating: 4
+related_books:
+ - book: diane-duane/so-you-want-to-be-a-wizard
+   text: The Young Wizards series has in general a very similar tone and content to this book.
+ - book: diane-duane/high-wizardry
+   text: Within the Young Wizards series, the exploration of galactic space is strongest, and perhaps most similar to this book, in High Wizardry.
 ---
 
 I usually avoid classic sci-fi: I've had mostly negative run-ins, where books had aged badly and either didn't interest
@@ -39,11 +44,5 @@ A big point in favour is also that while there are noticeable references to aged
 travelling with a younger girl for a time – he acknowledges both his protective impulses and that they are not always
 appropriate, which was funny, charming, and somewhat impressive.
 
-## Further Reading
-
 My next Heinlein will be "The Moon is a Harsh Mistress", which feels less forbidding now that I know that Heinlein is
 readable.
-
-This book with its very real exploration of intergalactic space reminded me in tone and content of the [Young
-Wizards](https://books.rixx.de/reviews/2016/so-you-want-to-be-a-wizard) series that is really more space-faring that its
-name suggests, particularly the third part, [High Wizardry](https://books.rixx.de/reviews/2016/high-wizardry).

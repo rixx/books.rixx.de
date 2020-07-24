@@ -23,6 +23,13 @@ review:
   - 2000-07-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: hope-mirrlees/lud-in-the-mist
+  text: Hope Mirrlees managed the same impression of proper British middle-class frowning upon their own involvement with the fantastic, and eleven years ahead of Tolkien at that.
+- book: neil-gaiman/stardust
+  text: Stardust has the same well-written, well-considered feeling of fantasy that doesn't take itself too seriously.
+- book: michael-ende/the-neverending-story
+  text: For more of this gently exploratory feeling, The Neverending Story works, provided you don't have a problem with thinly veiled moral lessons.
 ---
 
 The hobbit was my first Tolkien. I read it first when I was eight, but I had already listened to the excellent audio
@@ -39,15 +46,3 @@ pick up a lot of pieces to get there.
 I'm pretty sure that unless you're a die-hard fan of old epics, the Hobbit is vastly better than the Lord of the Rings.
 It's not as drawn-out, the characters are more than stereotypes, there's actual humour, and it's just super rewarding to
 read.
-
-## Further Reading
-
-The Hobbit is a decent start for reading [The Fellowship of the
-Ring](https://books.rixx.de/reviews/2001/the-fellowship-of-the-ring), I think, because you are already introduced to the
-world, you like the hobbits, and this investment will help you through stretches that will seem long and dry otherwise.
-Don't go into the [Silmarillion](https://books.rixx.de/reviews/2008/the-silmarillion) unless you like reading the bible,
-too.
-
-[The Neverending Story](https://books.rixx.de/reviews/2002/the-neverending-story) has a similar feeling of
-exploration of a wildly different fantastic world for me, but it has more thinly veiled lessons and morality.
-[Stardust](https://books.rixx.de/reviews/2013/stardust) has the same British-but-not-British fantasy feeling.

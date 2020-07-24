@@ -24,6 +24,19 @@ review:
   - 2013-04-01
   did_not_finish: false
   rating: 4
+related_books:
+ - book: peter-s-beagle/the-last-unicorn
+   text: The Last Unicorn is similar in how it combines everyday concerns and poetic fantasy in a sensitive-yet-brutal mix.
+ - book: william-goldman/the-princess-bride
+   text: For more banter and fantasy romance that doesn't take itself too seriously.
+ - book: j-r-r-tolkien/the-hobbit-or-there-and-back-again
+   text: For a similarly tongue-in-cheek meta-British hero's journey.
+ - book: hope-mirrlees/lud-in-the-mist
+   text: If you liked the village on the border of Faerie.
+ - book: neil-gaiman/the-ocean-at-the-end-of-the-lane
+   text: If you want to read more Neil Gaiman fantasy, this book will provide you with a similar atmospheric world-building.
+ - book: neil-gaiman/american-gods
+   text: If you want more masterful Neil Gaiman, but are ready for bleak brutality.
 ---
 
 Stardust is a joyful and lovely fantasy novel by Neil Gaiman, that has been turned into an equally joyful and loving
@@ -34,15 +47,3 @@ The best thing about Stardust is that it doesn't take itself too seriously. It's
 model of a folkloric brutal fairytale world, with brilliant atmosphere. The young hero is terrible at first, though, but
 in learning to navigate the magical world and the not-so-magical British village, he gets his bit of backstory, growing
 up, redemption, love interest, blah blah. It's Neil Gaiman's talent as a storyteller that make this book stand out.
-
-## Further Reading
-
-For a similarly tongue-in-cheek meta-British hero's journey, read [The
-Hobbit](https://books.rixx.de/reviews/2000/the-hobbit-or-there-and-back-again). For more of the sensitive-yet-brutal
-approach to Fantasy, [The Last Unicorn](https://books.rixx.de/reviews/2017/the-last-unicorn) would work well. If you
-just liked the village on the border of Faerie, give
-[Lud-in-the-mist](https://books.rixx.de/reviews/2019/lud-in-the-mist) a go.
-
-If you want to read more of Neil Gaiman, I'd recommend [The Ocean at the End of the
-Lane](https://books.rixx.de/reviews/2015/the-ocean-at-the-end-of-the-lane) for more atmospheric worldbuilding and
-[American Gods](https://books.rixx.de/reviews/2012/american-gods) for more epic bleak brutality.
