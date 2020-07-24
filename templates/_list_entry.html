@@ -1,6 +1,6 @@
 <div class="reading">
   {% if review.metadata.review and review.metadata.review.date_read and review.text %}
-    <a href="/{{ review.get_url_path() }}">
+    <a href="/{{ review.id }}/">
   {% endif %}
   <div class="reading_inner book_metadata">
     <div class="book_thumbnail">

@@ -8,6 +8,7 @@ import subprocess
 import uuid
 from collections import defaultdict
 from functools import partial
+from pathlib import Path
 
 import markdown
 import smartypants
@@ -317,7 +318,7 @@ def build_site(**kwargs):
             redirects.append(
                 (
                     f"reviews/{year}/{review.metadata['book']['slug']}",
-                    review.get_url_path(),
+                    review.id,
                 )
             )
             reviews_by_year[year].append(review)
@@ -325,7 +326,7 @@ def build_site(**kwargs):
             tags[tag].append(review)
         render(
             "review.html",
-            review.get_url_path() / "index.html",
+            Path(review.id) / "index.html",
             review=review,
             title=f"Review of {review.metadata['book']['title']}",
             active="read",

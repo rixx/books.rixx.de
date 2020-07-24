@@ -25,7 +25,7 @@
     {%- else -%}
     <entry>
       <title>{{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/{{ event.get_url_path() }}" rel="alternate"/>
+      <link href="https://books.rixx.de/{{ event.id }}/" rel="alternate"/>
       <id>urn:uuid:{{ event.feed_uuid }}</id>
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
       <content type="html">I finished reading {{ event.metadata.book.title }} by {{ event.metadata.book.author }}.

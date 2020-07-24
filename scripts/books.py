@@ -159,9 +159,6 @@ class Review:
             goodreads.change_shelf(review=self)
         subprocess.check_call(["git", "add", self.path, old_path])
 
-    def get_url_path(self):
-        return Path(self.author_slug) / self.metadata["book"]["slug"]
-
     def get_path(self):
         if self.entry_type == "reviews":
             out_dir = f"reviews/{self.author_slug}"

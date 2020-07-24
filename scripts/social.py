@@ -105,7 +105,7 @@ def post(review, number, in_reply_to=None, dry_run=False):
     print(f"Tweet length: {len(text) + 24}/280")
     if len(text) > (280 - 1 - 23):  # URLs are always 23 chars
         raise Exception("tl;dr too long")
-    text = f"{text}\nhttps://books.rixx.de/{review.get_url_path()}/"
+    text = f"{text}\nhttps://books.rixx.de/{review.id}/"
 
     if not review.metadata.get("social"):
         review.metadata["social"] = {}
