@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2019-11-20'
 related_books:
+- book: dorothy-l-sayers/gaudy-night
+  text: If you have the time and inclination, please read Gaudy Night before encountering spoilers here! It's worth it.
 - book: connie-willis/doomsday-book
   text: The previous book in the series.
 review:

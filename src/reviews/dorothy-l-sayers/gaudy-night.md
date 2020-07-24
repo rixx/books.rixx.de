@@ -21,6 +21,10 @@ book:
 plan:
   date_added: '2020-02-04'
 related_books:
+- book: a-a-milne/winnie-the-pooh
+  text: If you enjoy this book, you're probably a nerd for classical education and allusions, so if you had the misfortune of having to learn Latin, why not put it to good use with Winnie Ille Pu?
+- book: connie-willis/to-say-nothing-of-the-dog
+  text: This book is very heavily referenced by Connie Willis in this excellent part of the Oxford Timetravel series.
 - book: dorothy-l-sayers/the-nine-tailors
   text: The previous book in the series.
 - book: dorothy-l-sayers/busmans-honeymoon
@@ -64,8 +68,3 @@ The first half of this book – written centered on Harriet and her old college,
 Then Lord Peter swoops in and saves Harriet. Not literally, though that happens too, but he saves the book, and her character, and everything is just wonderful.
 
 The mystery itself, as usually, is nothing to write home about, but the *setting*, oh!, the setting. It's lovely and heart-breakingly well-written. As are the characters, even when they are annoying, and the banter, and long-budding romance. In the first half I didn't understand why people would put it up there with Nine Tailors because it was clearly worse, and the second half more than changed my opinion.
-
-## Further Reading
-
-If you enjoy this book, you're probably a nerd for classical education and allusions, so you should absolutely go ahead
-and read [Winnie ille Pu](https://books.rixx.de/reviews/1999/winnie-the-pooh/).

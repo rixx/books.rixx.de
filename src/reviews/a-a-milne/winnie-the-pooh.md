@@ -22,7 +22,15 @@ review:
   - 1999-01-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: dorothy-l-sayers/gaudy-night
+  text: If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read Gaudy Night.
 ---
+
+## Further Reading
+
+If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read
+[Gaudy Night](https://books.rixx.de/reviews/2020/gaudy-night/).
 
 This book is, of course, adorable in every way. The dorky bear with his friends in various stages being excitable,
 exuberant, worried, forgetful, depressed, busy, or superior are delightful and a neat way to keep a child entertained.
@@ -38,8 +46,3 @@ It's always nice to be reminded that the nerds have always been out there.
 [Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html), Lenard had a
 long-standing correspondence with Robert Grave in Latin – in character for both of them! For more of Robert Graves, see
 [I, Claudius](https://books.rixx.de/reviews/2020/i-claudius).
-
-## Further Reading
-
-If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read
-[Gaudy Night](https://books.rixx.de/reviews/2020/gaudy-night/).
