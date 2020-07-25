@@ -30,7 +30,10 @@ review:
   date_read:
   - 2017-12-14
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
 
-Ohh, I like this. Inner-city architecture meets black mages meets WW2 mages.
+Inner-city architecture meets black mages meets WW2 mages. I liked it, and it was entertaining, but also felt very
+episodic. Yet another London estate market mystery that turns out – shocker! – to have a supernatural component.
+
+The banter and commentary continues to be entertaining without punching down, though, which felt remarkably refershing.

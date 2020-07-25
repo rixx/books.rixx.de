@@ -35,4 +35,6 @@ review:
   rating: 4
 ---
 
+More of our favourite supernatural London policeman.
+
 Jazz vampires. Would be five stars (for wit, and tugging at heart strings, and great descriptions) if I wasn't so irritated by the stereotyping. It's not bad, it might even be accurate and non-invasive, but I can't say, 'cause I'm not from London, so I'm mildly uncomfortable.

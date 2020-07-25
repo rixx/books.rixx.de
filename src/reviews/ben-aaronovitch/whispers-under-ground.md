@@ -30,7 +30,9 @@ review:
   date_read:
   - 2014-01-01
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
 
-Magic develops further, and we get an entire new race below London. Still very witty, and I just cannot resist a "magic underground in London" story.
+Magic develops further, and we get an entire new race below London. Still very witty, and I just cannot resist a "magic
+underground in London" story. At the same time, it's a whodunnit, and the banter continues the strong suit of the
+series, while the plot (especially the overarching series plot) does well to stay in the background.
