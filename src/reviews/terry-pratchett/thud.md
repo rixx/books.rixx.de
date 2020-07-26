@@ -28,3 +28,4 @@ review:
   did_not_finish: false
   rating: 4
 ---
+It's not Night Watch, but not every Vimes book can be Night Watch.

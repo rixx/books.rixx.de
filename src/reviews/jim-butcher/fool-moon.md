@@ -32,3 +32,4 @@ review:
   did_not_finish: false
   rating: 3
 ---
+More of the first book. Jim Butcher has found a niche, and *by god* he's going to keep it.

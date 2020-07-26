@@ -24,5 +24,9 @@ review:
   date_read:
   - 2014-10-01
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
+Often, I'm a reader of simple tastes. This is a drabble, a writing exercise, 320 pages long, that cheerfully tears into
+bad TV show scifi. It enjoys itself, it spends most of its time not punching down. It's not high art, it's not deep,
+it's just straight-up fun – if you're into the meta underpinnings. Otherwise, it's probably 300 pages of tedious jokes.
+It made me laugh, a lot.

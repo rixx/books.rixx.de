@@ -36,8 +36,11 @@ review:
   rating: 5
 ---
 
-Okay, wow, this book had me discussing and screaming at it a lot. People die. People nearly die. Some of those deaths I was not at all okay with.
+Okay, wow, this book had me discussing and screaming at it a lot. People die. People nearly die. Some of those deaths I
+was not at all okay with.
 
-Bull and Sam. And nearly Naomi. I swear I'd have stopped reading the book and the series if Naomi had died.
+<div class="spoiler">Bull and Sam. And nearly Naomi. I swear I'd have stopped reading the book and the series if Naomi had died.</div>
 
-Discovering the background of the protomolecule, the history, the vast other worlds out there, and the threat was awesome. Seeing both personal and political interactions in the crisis in a closed-off environment, too. God this series is brilliant.
+Discovering the background of the protomolecule, the history, the vast other worlds out there, and the threat was
+awesome. Seeing both personal and political interactions in the crisis in a closed-off environment, too. God this series
+is brilliant.

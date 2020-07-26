@@ -35,4 +35,8 @@ review:
   rating: 4
 ---
 
-I loved this one. I'm not a space nut, not even a real sci-fi fan, but this book just really, really worked for me. The combination of space, and magic, and physics, and human and alien conflict, sprinkled with a bit of time line technicalities? Yeah, more, please.
+I loved this one. Even if you're not a space nut, or not a real sci-fi fan, I suspect this book will really work for
+you. The combination of space, and magic, and physics, and human and alien conflict, sprinkled with a bit of time line
+technicalities? Yeah, more, please.
+
+Also, Carmela. I love an author who's not afraid to let the side-characters grow into upstaging the main cast.

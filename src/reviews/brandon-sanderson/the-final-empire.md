@@ -32,3 +32,6 @@ review:
 ---
 
 The Final Empire is good Fantasy, no more, no less. In comparison with Sanderson's Stormlight Archives it feels much more YA-y (not in a bad way, though). I enjoyed that I wasn't able to predict the plot too far ahead, aside of generalities. This book didn't shake my perception of the world – it's too generic for that, but it's genuinely touching in enough places to keep it from feeling boring/overly generic/as if I had read it already.
+
+Of course, Sanderson shows off how bloody much he loves magic systems here, and woe to you if you don't feel like
+remembering what ten different effects the Ten Metals have, and what "Protagonist surged copper" means.

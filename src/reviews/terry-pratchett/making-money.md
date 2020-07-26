@@ -30,5 +30,7 @@ review:
   date_read:
   - 2008-09-01
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
+As before, I didn't care about the protagonist, and not that much about the innovation commentary, either. I suspect the
+problem is same disinterest in economics that also makes me bounce of Charlie Stross's more economy-oriented sci-fi.

@@ -34,3 +34,15 @@ review:
 ---
 
 Whee! The good kind of Sci-fi!
+
+This book was set up excellently by Leviathan Wakes. We know enough about humans and politics in this world to see how
+things are going to go wrong, and then the authors tilt things a bit further. The plot feels never quite predictable,
+but stays within your general forecast, so it also feels plausible.
+
+Character-wise, this book *also* shines, though I was a bit meh on the botanist. Yes, he felt realistic. No, I didn't
+care about reading more of him when there were other exciting new and old characters to explore. The multiple POV thing
+works out perfectly, too.
+
+Is this series a serious take on *Alien*? Maybe. Are the big corporations always at fault? Yes, emphatically. On a
+smaller level, and also on the highest level, the series avoids simple answers, but in between, the answer is obviously
+"centralising rich assholes are a problem". I don't disagree, but I want to note that the series plays to my opinions.

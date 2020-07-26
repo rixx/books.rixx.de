@@ -30,7 +30,9 @@ review:
   date_read:
   - 2018-04-30
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
 
 This whole series continues its spree of positive surprises. This time we get a new Lucifer, and we get various conversations with God. Well well well.
+
+Would work better with a smaller scope, tbh – the over-the-top ridiculousness doesn't always work well.

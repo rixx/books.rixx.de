@@ -34,3 +34,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Completely predictable, but you don't read these books for the plot. Or the characters. You read them because you are
+into stock badass-but-broken characters, so you'll like this one just as well. Even if you can only tell it from the
+others because the title is even more descriptive of the story than on average.

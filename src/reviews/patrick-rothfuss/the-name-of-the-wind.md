@@ -31,6 +31,9 @@ review:
 
 I really liked this book - it hits all the sweet spots for me. Brilliant language, not-too-overbearing fantasy setting, believable characters, good pacing and narration (and a bit of training in the $arts).
 
-Kvothe is relatable even when he's making mistakes, which is really important in protagonists. Halfway through the book I started thinking that he was maybe just too much of a Mary-Sue character, but when I stopped to think about it, it turned out that he isn't one, really. He just comes off that way because he's allowed to tell his own story, and with enough conviction, everybody's their own Mary Sue.
+Kvothe is relatable even when he's making mistakes, which is really important in protagonists. Though of course that's
+easy to hit, when you write a Mary Sue author stand-in as protagonist.
+At the same time, this is very much a male nerd power fantasy. I still enjoyed the book a lot, but if that's not a lens
+or genre you like reading, this probably won't be fun for you.
 
 Can't wait to read the second part.

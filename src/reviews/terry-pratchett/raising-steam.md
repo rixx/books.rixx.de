@@ -30,5 +30,12 @@ review:
   date_read:
   - 2017-07-11
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
+This … is not it. I wasn't into this Discworld arc to begin with, to be entirely fair – but even for that, this book
+felt off. The rhythm is changed. It's less ready to cut you open and make you like it. At the same time, it's not early
+Pratchett style, either.
+
+I think I'm less disturbed by the change in rhythm and more disturbed at how little this book hurt. Because there's a
+lot of potential in the story for very real pain, and yet it doesn't hurt. I mean, it does, of course: on a meta-level,
+because we all suspect that this is due to Pratchett's illness and we don't want to live in a world where that's true.

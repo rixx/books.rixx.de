@@ -33,6 +33,7 @@ review:
   rating: 4
 ---
 
-Just a review to remind myself of why I liked this book:
-
-The Fuller Memorandum details the break-up of a cultist organization and a Laundry leak, we also get to know TEAPOT and Angleton's story. We see Mo and Bob as a married couple, and Bob on his way *up*. Good work, to my mind a generic Laundry book if there ever was one. Nice read nonetheless.
+The Fuller Memorandum details the break-up of a cultist organization and a Laundry leak, we also get to know TEAPOT and
+Angleton's story. We see Mo and Bob as a married couple, and Bob on his way *up*. Good work, to my mind a generic
+Laundry book if there ever was one, what with the exorcism of WW2 airplanes that escalates into horrors. Nice read
+nonetheless.

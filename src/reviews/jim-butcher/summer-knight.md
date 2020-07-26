@@ -34,3 +34,4 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Generick kick-ass, but kick-ass.

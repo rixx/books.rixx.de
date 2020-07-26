@@ -23,3 +23,10 @@ review:
   did_not_finish: false
   rating: 4
 ---
+Nation is amazing. Non-Discworld, YA-ish story of a Victorian girl meeting a boy from an islander tribe – she strands,
+his tribe is wiped out by the same tidal wave. As you'd expect from Pratchett, he thoroughly does away with any notions
+of civilisation and superiority. Not as over-the-top as Discworld, while still retaining Pratchett charme, which makes
+it more touching and raw and real.
+
+Great way to have people read Pratchett who bounced off the more forced silliness of Discworld, and don't like Victorian
+fanboying.

@@ -32,4 +32,5 @@ review:
   rating: 3
 ---
 
-Very YA. Good YA! But … too YA for me atm for a five star rating. Much better YA than most things I know, though.
+Very YA. Good YA! But … too YA for me atm for a five star rating. Much better YA than many things I know, though.
+Doesn't feel like it can keep up with the previous parts of the series.

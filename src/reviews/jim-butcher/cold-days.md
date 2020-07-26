@@ -34,3 +34,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Combines on-the-run stock plot with power escalation stock route and doesn't give the protagonist even the little bit of
+introspection time he sometimes managed to snag, because blah blah the US is about to blow up, let's defuse Lake
+Michigan or something.

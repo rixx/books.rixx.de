@@ -34,3 +34,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+It's impressive for how long Jim Butcher can just do "more of the same, please". Come to think of it, Codex Alera was
+also a long series of "more of the same", only with a different set of tropes, and arguably more imagination.

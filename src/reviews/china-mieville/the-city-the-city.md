@@ -26,4 +26,6 @@ review:
   rating: 3
 ---
 
-The City &amp; the City is a very impressive scifi book, but while I can appreciate its coolness and weirdness, and I can't point to a single flaw, somehow the story didn't quite grip me, although the concept of the two cities was introduced beautifully.
+The City & the City is a very impressive scifi book, but while I can appreciate its coolness and weirdness, and I
+can't point to a single flaw, somehow the story didn't quite grip me, although the concept of the two cities was
+introduced beautifully.

@@ -34,3 +34,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+I can't tell this book apart from the other ones. You gotta give it to Butcher, though: His writing is nothing if not
+consistent.

@@ -50,4 +50,11 @@ social:
       https://books.rixx.de/reviews/2020/the-goblin-emperor/'
 ---
 
-Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, maybe, and a fairly large cast, but still a good read.
+Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, maybe, and a
+fairly large cast, but still a good read – and that's saying something for a novel that may be Fantasy, but has not the
+least bit adventure in it, instead going for ALL the politics.
+
+What I liked best about this book is how everybody in there is a *person*. Not necessarily a good person, oh no! But
+there are good people, and there are people who try to be good, and people who maybe occasionally try to be good but
+mostly try to be powerful – but they are all very much themselves and you won't get them confused with each other even
+if the names don't stick.

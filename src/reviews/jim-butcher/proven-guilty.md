@@ -34,3 +34,4 @@ review:
   did_not_finish: false
   rating: 3
 ---
+This week's stock trope is "past mistakes catch up to our broken-but-sympathetic hero".

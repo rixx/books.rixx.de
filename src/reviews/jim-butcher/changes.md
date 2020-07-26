@@ -34,3 +34,4 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Nothing ever changes in Harry Dresden land. Power levels slowly escalate, everything else stays the same.

@@ -34,3 +34,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+I continue to go think "predictable, stock, lazy, booooring" and "ohhhh this is fun fun fun": If I was willing to feel
+guilty about any books, these would be guilty pleasure books.

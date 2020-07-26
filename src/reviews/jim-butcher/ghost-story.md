@@ -34,3 +34,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Different angle on the ever-same story (Harry is mostly intangible for this book). We get some sudden – but
+well-prepared! – development, mostly in Molly. I'm very ambivalent about Molly, which is *good*. The Harry Dresden books
+aren't usually ones to foster ambivalence, to say the least.

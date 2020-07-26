@@ -22,11 +22,16 @@ book:
 plan:
   date_added: '2015-04-13'
 related_books:
+- book: ben-aaronovitch/rivers-of-london
+  text: A similar series, only with a supernatural cop in London, and arguably much better.
 - book: jim-butcher/fool-moon
   text: The next book in the series.
 review:
   date_read:
   - 2014-07-01
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
+
+It's the height of generic Urban Fantasy, complete with edgy protagonist who can't be allowed to have his shit together
+(very House, MD style). Stock elements taped together.

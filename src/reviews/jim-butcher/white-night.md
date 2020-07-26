@@ -34,3 +34,4 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Stakes rise. Supernatural battles continue. The snark feels tired.

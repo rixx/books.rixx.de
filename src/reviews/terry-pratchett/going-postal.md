@@ -32,3 +32,6 @@ review:
   did_not_finish: false
   rating: 4
 ---
+The post office story about innovation and all sorts of things was a bit too on-the-nose allegorical for my tastes
+(though I liked Thud!, so I really shouldn't complain I suppose). As an ardent Miles Vorkosigan fan, I loved the
+momentum, but didn't get on with the protagonist. This might've been a three-star book, but was saved by Vetinari.

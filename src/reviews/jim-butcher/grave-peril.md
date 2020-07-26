@@ -34,3 +34,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+This book actually felt a bit better than the first and second ones. It's as if now that he's staked his claim on all
+the tropes, Jim Butcher is feeling a bit more free to explore what to do with magic in this world.

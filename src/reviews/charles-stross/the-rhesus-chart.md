@@ -32,8 +32,6 @@ review:
   rating: 4
 ---
 
-Just a review to remind myself what happened here and why I liked the book.
-
-We meet Mhari again! Bob is amazingly grown-up about it. Everybody realizes they get played early on … and still: people die. A lot of them. Including Angleton. Because their opponent is a century-old PHANG.
+We meet Mhari again! Bob is amazingly grown-up about it. Everybody realizes they get played early on … and still: people die. A lot of them. Including <span class="spoilers">Angleton</span>. Because their opponent is a century-old PHANG.
 
 Written very smoothly, Stross is really in his element here. Feels effortless, and is easy to read.

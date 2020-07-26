@@ -24,6 +24,11 @@ review:
   - 2020-05-02
   did_not_finish: false
   rating: 4
+related_books:
+ - book: neil-gaiman/neverwhere
+   text: The obvious comparison for weird magical London. Little else in common, but there's a somewhat shared vibe.
 ---
 
-Exactly how you'd imagine a magical London YA novel by China Mieville to turn out: appropriately wonderful weird worldbuilding, good enough story arc. Above average amount of painful puns.
+Exactly how you'd imagine a magical London YA novel by China Mieville to turn out: appropriately wonderful weird
+worldbuilding, good enough story arc. Above average amount of painful puns. Plus, and this is something you might not
+think, actually suited for kids. I wasn't sure Mieville would reign in his weirder tendencies.

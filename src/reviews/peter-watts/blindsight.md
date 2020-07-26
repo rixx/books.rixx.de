@@ -29,6 +29,11 @@ review:
   rating: 4
 ---
 
-Through most of **Blindsight**, I thought this was a typical scifi novel – better than most, sure, because the aliens were truly alien, and incomprehensible, and the humans had real characters, and futuristic modifications, and were clever, while engaging with this unknown and potentially unknowable alien, far from home, to save/represent Earth.
+Through most of **Blindsight**, I thought this was a typical scifi novel – better than most, sure, because the aliens
+were truly alien, and incomprehensible, and the humans had real characters, and futuristic modifications, and were
+clever, while engaging with this unknown and potentially unknowable alien, far from home, to save/represent Earth.
 
-But then, *Peter Watts* had to go and pack a final twist, sending me thinking about the correlations of intelligence and awareness, and the consequences of his novel, for the next days. This book packs a punch, and it's only in the very end that you spot it. I loved it. (Not least due to the appendix, where he lists all the recent science and studies that influenced his book, and which parts of it might feasibly be possible soon.)
+But then, *Peter Watts* had to go and pack a final twist, sending me thinking about the correlations of intelligence and
+awareness, and the consequences of his novel, for the next days. This book packs a punch, and it's only in the very end
+that you spot it. I loved it. (Not least due to the appendix, where he lists all the recent science and studies that
+influenced his book, and which parts of it might feasibly be possible soon.)
