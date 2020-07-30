@@ -27,7 +27,7 @@ review:
   date_read:
   - 2017-05-24
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Wow! This book has bits of Charles Stross in it (as in: secret modern British agency dealing with the supernatural), but at the same time it's totally different. A bit more action oriented, fast-paced, witty, and it never felt like a Laundry knockoff. I'm really interested in where the sequel is going.

@@ -17,7 +17,6 @@ book:
   slug: dawn
   spine_color: '#ae8136'
   tags:
-  - five-stars
   - scifi
   title: Dawn
 plan:
@@ -29,7 +28,7 @@ review:
   date_read:
   - 2018-02-15
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
-Wow wow wow. Real scifi, brilliant scifi.
+Wow wow wow. Real scifi, brilliant scifi. The Oankali are delightfully alien.

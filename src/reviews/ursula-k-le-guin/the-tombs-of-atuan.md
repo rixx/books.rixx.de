@@ -18,7 +18,6 @@ book:
   spine_color: '#f2ebb6'
   tags:
   - fantasy
-  - five-stars
   title: The Tombs of Atuan
 plan:
   date_added: '2017-02-27'
@@ -31,7 +30,7 @@ review:
   date_read:
   - 2018-02-12
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Oh wow. This touched me, and the ending was perfect. It didn't follow all the fantasy rules, it followed Earthsea rules. &lt;3

@@ -1,8 +1,6 @@
 ---
 book:
   author: Daryl Gregory
-  cover_image: second-person-present-tense.jpg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560554018l/40172404._SX98_.jpg
   goodreads: '40172404'
   pages: '32'
   publication_year: '2005'

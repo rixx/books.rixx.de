@@ -14,7 +14,6 @@ book:
   spine_color: '#c57044'
   tags:
   - fantasy
-  - five-stars
   title: The Dark Tower
 plan:
   date_added: '2017-07-11'
@@ -27,7 +26,7 @@ review:
   date_read:
   - 2017-06-24
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 A really, really good end to the series. Wow.

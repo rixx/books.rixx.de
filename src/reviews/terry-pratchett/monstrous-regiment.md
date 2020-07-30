@@ -12,8 +12,6 @@ book:
   series_position: '31'
   slug: monstrous-regiment
   spine_color: '#c6bdbc'
-  tags:
-  - five-stars
   title: Monstrous Regiment
 plan:
   date_added: '2015-04-08'
@@ -30,3 +28,9 @@ review:
   did_not_finish: false
   rating: 5
 ---
+
+Monstrous Regiment is not one of the best Discworld books, I'd argue. It shows Pratchett's personal politics a bit more
+than some, and its final character arc is so cheesy it's downright embarassing.
+
+That said, it stands among my five-star books because it was (and possibly is) tremendously important to me and I can't
+get it out of my head. Also, props for accurate depiction of what eastern Europe feels like, sometimes.

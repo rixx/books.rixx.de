@@ -16,7 +16,6 @@ book:
   spine_color: '#303246'
   tags:
   - fantasy
-  - five-stars
   title: Legion
 plan:
   date_added: '2016-06-08'
@@ -27,7 +26,7 @@ review:
   date_read:
   - 2017-11-28
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Woop, amazing stuff! Haven't really read Sanderson apart from Alcatraz (which was annoying af), and this short story was *so* good!

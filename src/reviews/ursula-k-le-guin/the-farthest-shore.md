@@ -18,7 +18,6 @@ book:
   spine_color: '#597a6d'
   tags:
   - fantasy
-  - five-stars
   title: The Farthest Shore
 plan:
   date_added: '2018-02-12'
@@ -33,7 +32,7 @@ review:
   date_read:
   - 2018-02-22
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 4.5 stars, really.

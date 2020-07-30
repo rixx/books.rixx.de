@@ -15,7 +15,6 @@ book:
   slug: the-book-thief
   spine_color: '#8e6335'
   tags:
-  - five-stars
   - german
   title: The Book Thief
 plan:
@@ -24,5 +23,5 @@ review:
   date_read:
   - 2010-06-01
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---

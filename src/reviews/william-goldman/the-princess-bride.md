@@ -16,7 +16,6 @@ book:
   spine_color: '#6a6a52'
   tags:
   - fantasy
-  - five-stars
   title: The Princess Bride
 plan:
   date_added: '2017-05-16'
@@ -24,7 +23,7 @@ review:
   date_read:
   - 2018-02-28
   did_not_finish: false
-  rating: 5
+  rating: 4
 related_books:
 - book: neil-gaiman/stardust
   text: Strangely enough, Stardust feels similar to Princess Bride. Though admittedly, the similarity is more prominent in the movie version of Stardust, which in turn cannot hope to compete with the Princess Bride movie.

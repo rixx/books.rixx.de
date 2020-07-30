@@ -16,7 +16,6 @@ book:
   spine_color: '#9d987b'
   tags:
   - fantasy
-  - five-stars
   title: 'A Blink of the Screen: Collected Shorter Fiction'
 plan:
   date_added: '2015-04-08'
@@ -24,7 +23,8 @@ review:
   date_read:
   - 2017-02-02
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
-Some mediocre-okayish stuff, but a few really, really great ones. In the end, Granny overshadowed everything as per usual, but the barbarian hero who went to meet his maker stands out, too.
+Some mediocre-okayish stuff, but a few really, really great ones. In the end, Granny overshadowed everything as per
+usual, but the barbarian hero who went to meet his maker stands out, too.

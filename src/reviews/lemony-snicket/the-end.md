@@ -15,7 +15,6 @@ book:
   slug: the-end
   spine_color: '#dab98a'
   tags:
-  - five-stars
   - ya
   title: The End
 plan:
@@ -29,7 +28,7 @@ review:
   date_read:
   - 2017-02-21
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
 Yes. &lt;3

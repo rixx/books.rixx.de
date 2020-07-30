@@ -17,7 +17,6 @@ book:
   slug: artificial-condition
   spine_color: '#c7935f'
   tags:
-  - five-stars
   - scifi
   title: Artificial Condition
 plan:
@@ -31,7 +30,12 @@ review:
   date_read:
   - 2018-10-19
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
-The Artificial Condition is the second volume of *Martha Wells*' Murderbot series, and it's definitely better than the first one. I see why people love Murderbot, now – they, and their interaction with both humans and other bots, are bittersweet and relatable. In this second volume, Murderbot has to figure out what to do with their freedom, and they use it well – to examine their past, and work on ways to live their future. I enjoyed that while the protagonist is snarky, the snarkiness isn't overdone at all, and leaves spaces for cleverness, and vulnerability, and all kinds of connections to other people.
+The Artificial Condition is the second volume of *Martha Wells*' Murderbot series, and it's definitely better than the
+first one. I see why people love Murderbot, now – they, and their interaction with both humans and other bots, are
+bittersweet and relatable. In this second volume, Murderbot has to figure out what to do with their freedom, and they
+use it well – to examine their past, and work on ways to live their future. I enjoyed that while the protagonist is
+snarky, the snarkiness isn't overdone at all, and leaves spaces for cleverness, and vulnerability, and all kinds of
+connections to other people.

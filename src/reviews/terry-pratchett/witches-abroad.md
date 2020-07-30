@@ -34,3 +34,9 @@ review:
   did_not_finish: false
   rating: 5
 ---
+By a wide margin the earliest Pratchett book that I can give five stars. It's still part of his silly phase, and it
+predates Night Watch by eleven years, but there's a hard core, flinty and unwavering and willing to punch you in the
+feelings. In particular, it punched feelings I needed punched. Compared to later Witches books, the whole "people don't
+always want what they need" arc is soft and fluffy, of course, and it's not what drew me. No: what's stuck in my head is
+the final scene in the mirror, with Granny and her sister. It's powerful and I'm happy to ignore a book full of Oz
+references to get there.

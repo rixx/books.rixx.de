@@ -15,7 +15,6 @@ book:
   slug: treasure-island
   spine_color: '#a2472e'
   tags:
-  - five-stars
   - german
   title: Treasure Island
 plan:
@@ -24,5 +23,5 @@ review:
   date_read:
   - 2004-07-01
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---

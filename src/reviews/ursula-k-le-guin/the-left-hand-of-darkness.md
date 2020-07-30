@@ -13,7 +13,6 @@ book:
   slug: the-left-hand-of-darkness
   spine_color: '#3792b5'
   tags:
-  - five-stars
   - scifi
   - space-monks
   title: The Left Hand of Darkness
@@ -28,7 +27,18 @@ review:
   date_read:
   - 2017-03-01
   did_not_finish: false
-  rating: 5
+  rating: 4
 ---
 
-Wow! This is a fantastic, clever, wonderful scifi book. I loved the explicitly humanoid species (that are probably expanded on, especially their origin, in other parts of the series). I loved the mostly-androgynous species, their peculiarities, the mechanics of it all, the implications. I loved the protagonist and the carefully spun story arch - but I loved most that the narrator/protagonist was both clever, relatable, and fallible - there were several instances where, in the middle of narration, you started to think "Hold up, I'm sure that's not quite …" or "Isn't that just your weird bisexual bias …?"
+Wow! This is a fantastic, clever, wonderful scifi book. I loved the explicitly humanoid species (that are probably
+expanded on, especially their origin, in other parts of the series). I loved the mostly-androgynous species, their
+peculiarities, the mechanics of it all, the implications. I loved the protagonist and the carefully spun story arch -
+but I loved most that the narrator/protagonist was both clever, relatable, and fallible - there were several instances
+where, in the middle of narration, you started to think "Hold up, I'm sure that's not quite …" or "Isn't that just your
+weird bisexual bias …?"
+
+I also love the meta. My personal meta: This is where I started to get into sci-fi, really. The author's meta: This book
+is clearly very early in the tradition of gender-based scifi, and as a consequence, some of it is conservative to say
+the least. The author was *clearly* a straight woman who was not very into feminist theory yet at the time. That shortly
+changed, and there is a very neat later essay(?) where she explains her journey towards feminism, very visible in her
+Earthsea series. I wish I could remember where to find it.
