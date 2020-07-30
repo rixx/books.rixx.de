@@ -17,6 +17,11 @@ book:
   slug: london-falling
   spine_color: '#85a175'
   title: London Falling
+  tags:
+  - fantasy
+  - urban-fantasy
 plan:
   date_added: '2018-09-03'
 ---
+
+Good Urban Fantasy, London detective variety, [as per](https://www.eblong.com/zarf/bookscan/review/cornell_paul_london_falling.html)
