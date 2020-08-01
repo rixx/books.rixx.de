@@ -17,6 +17,7 @@ book:
   tags:
   - five-stars
   - historical-fiction
+  - learning-the-arts
   title: The Count of Monte Cristo
 plan:
   date_added: '2015-04-08'

@@ -16,6 +16,7 @@ book:
   spine_color: '#6a6a52'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Princess Bride
 plan:
   date_added: '2017-05-16'

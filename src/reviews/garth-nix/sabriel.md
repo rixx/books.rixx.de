@@ -16,6 +16,7 @@ book:
   spine_color: '#e5d4a8'
   tags:
   - fantasy
+  - learning-the-arts
   - ya
   title: Sabriel
 plan:

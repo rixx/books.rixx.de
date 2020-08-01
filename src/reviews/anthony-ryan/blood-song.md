@@ -14,6 +14,7 @@ book:
   spine_color: '#c2ab95'
   tags:
   - fantasy
+  - learning-the-arts
   title: Blood Song
 plan:
   date_added: '2018-07-20'

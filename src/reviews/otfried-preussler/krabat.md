@@ -15,6 +15,7 @@ book:
   tags:
   - five-stars
   - german
+  - learning-the-arts
   - myths-legends
   title: Krabat
 plan:

@@ -18,6 +18,7 @@ book:
   spine_color: '#3f1e45'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Lies of Locke Lamora
 plan:
   date_added: '2016-05-18'

@@ -19,6 +19,7 @@ book:
   tags:
   - fantasy
   - five-stars
+  - learning-the-arts
   - urban-fantasy
   - ya
   title: High Wizardry

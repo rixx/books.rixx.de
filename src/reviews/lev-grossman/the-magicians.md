@@ -18,6 +18,7 @@ book:
   spine_color: '#a1997e'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Magicians
 plan:
   date_added: '2018-03-19'

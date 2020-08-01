@@ -18,6 +18,7 @@ book:
   spine_color: '#c3bc97'
   tags:
   - fantasy
+  - learning-the-arts
   - ya
   title: Akata Witch
 plan:

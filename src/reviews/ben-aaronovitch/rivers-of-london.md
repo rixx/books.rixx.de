@@ -12,6 +12,7 @@ book:
   slug: rivers-of-london
   spine_color: '#a21f16'
   tags:
+  - learning-the-arts
   - urban-fantasy
   title: Rivers of London
 plan:

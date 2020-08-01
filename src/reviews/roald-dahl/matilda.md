@@ -17,6 +17,7 @@ book:
   tags:
   - german
   - kids
+  - learning-the-arts
   title: Matilda
 plan:
   date_added: '2016-05-18'

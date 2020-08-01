@@ -18,6 +18,7 @@ book:
   spine_color: '#f2e8c1'
   tags:
   - fantasy
+  - learning-the-arts
   title: A Wizard of Earthsea
 plan:
   date_added: '2016-10-25'

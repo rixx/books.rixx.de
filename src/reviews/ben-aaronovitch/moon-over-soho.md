@@ -17,6 +17,7 @@ book:
   slug: moon-over-soho
   spine_color: '#ac2777'
   tags:
+  - learning-the-arts
   - urban-fantasy
   title: Moon Over Soho
 plan:

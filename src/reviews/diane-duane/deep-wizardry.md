@@ -16,6 +16,7 @@ book:
   spine_color: '#bcc3cb'
   tags:
   - fantasy
+  - learning-the-arts
   - urban-fantasy
   - ya
   title: Deep Wizardry

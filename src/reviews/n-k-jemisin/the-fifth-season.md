@@ -15,6 +15,7 @@ book:
   tags:
   - fantasy
   - five-stars
+  - learning-the-arts
   - scifi
   title: The Fifth Season
 plan:

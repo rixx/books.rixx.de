@@ -16,6 +16,7 @@ book:
   spine_color: '#beb79e'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Name of the Wind
 plan:
   date_added: '2015-04-09'

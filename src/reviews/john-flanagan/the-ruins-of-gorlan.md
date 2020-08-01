@@ -18,6 +18,7 @@ book:
   spine_color: '#2e3c4b'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Ruins of Gorlan
 plan:
   date_added: '2015-07-02'

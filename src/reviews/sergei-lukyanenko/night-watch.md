@@ -18,6 +18,7 @@ book:
   spine_color: '#a74757'
   tags:
   - german
+  - learning-the-arts
   title: Night Watch
 plan:
   date_added: '2016-05-06'

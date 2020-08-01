@@ -16,6 +16,7 @@ book:
   spine_color: '#c9b291'
   tags:
   - fantasy
+  - learning-the-arts
   - urban-fantasy
   - ya
   title: So You Want to Be a Wizard

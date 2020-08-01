@@ -18,6 +18,7 @@ book:
   spine_color: '#977e69'
   tags:
   - fantasy
+  - learning-the-arts
   title: Red Sister
 plan:
   date_added: '2018-07-28'
