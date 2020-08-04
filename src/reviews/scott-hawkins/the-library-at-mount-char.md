@@ -16,6 +16,7 @@ book:
   spine_color: '#cfb694'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Library at Mount Char
 plan:
   date_added: '2018-09-11'

@@ -18,6 +18,7 @@ book:
   - five-stars
   - german
   - historical-fiction
+  - learning-the-arts
   title: Harka
 plan:
   date_added: '2015-07-03'

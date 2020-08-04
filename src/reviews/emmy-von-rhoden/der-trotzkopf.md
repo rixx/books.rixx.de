@@ -12,6 +12,7 @@ book:
   spine_color: '#6bc0d1'
   tags:
   - german
+  - romance
   - ya
   title: Der Trotzkopf
 plan:

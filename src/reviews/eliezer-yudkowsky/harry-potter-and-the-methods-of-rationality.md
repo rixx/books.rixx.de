@@ -11,6 +11,7 @@ book:
   tags:
   - fanfic
   - fantasy
+  - learning-the-arts
   title: Harry Potter and the Methods of Rationality
 plan:
   date_added: '2015-04-09'

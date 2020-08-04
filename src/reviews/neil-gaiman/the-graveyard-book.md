@@ -16,6 +16,7 @@ book:
   spine_color: '#7f94b0'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Graveyard Book
 plan:
   date_added: '2015-04-08'

@@ -15,6 +15,7 @@ book:
   slug: the-diamond-age-or-a-young-ladys-illustrated-primer
   spine_color: '#709497'
   tags:
+  - learning-the-arts
   - scifi
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:

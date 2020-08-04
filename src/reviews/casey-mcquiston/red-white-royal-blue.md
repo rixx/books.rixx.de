@@ -9,6 +9,8 @@ book:
   slug: red-white-royal-blue
   spine_color: '#cf332e'
   tags:
+  - romance
+  - queer
   - ya
   title: Red, White & Royal Blue
 plan:

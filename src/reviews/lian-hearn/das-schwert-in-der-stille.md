@@ -18,6 +18,7 @@ book:
   tags:
   - fantasy
   - german
+  - learning-the-arts
   - ya
   title: Das Schwert in der Stille
 plan:

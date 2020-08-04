@@ -18,6 +18,7 @@ book:
   spine_color: '#d3a56d'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Goblin Emperor
 plan:
   date_added: '2018-08-28'

@@ -12,6 +12,7 @@ book:
   spine_color: '#df954b'
   tags:
   - five-stars
+  - learning-the-arts
   - scifi
   title: The Martian
 plan:

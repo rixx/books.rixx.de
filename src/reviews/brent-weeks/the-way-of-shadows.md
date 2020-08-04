@@ -16,6 +16,7 @@ book:
   spine_color: '#7b7076'
   tags:
   - fantasy
+  - learning-the-arts
   title: The Way of Shadows
 plan:
   date_added: '2015-04-08'

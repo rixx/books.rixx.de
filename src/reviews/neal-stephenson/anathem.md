@@ -16,6 +16,7 @@ book:
   spine_color: '#aeae97'
   tags:
   - five-stars
+  - learning-the-arts
   - scifi
   - space-monks
   title: Anathem

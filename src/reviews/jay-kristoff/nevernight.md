@@ -18,6 +18,7 @@ book:
   spine_color: '#9c9590'
   tags:
   - fantasy
+  - learning-the-arts
   title: Nevernight
 plan:
   date_added: '2018-10-16'

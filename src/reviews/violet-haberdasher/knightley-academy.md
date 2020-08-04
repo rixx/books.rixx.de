@@ -18,18 +18,19 @@ book:
   spine_color: '#6e652f'
   tags:
   - fantasy
+  - learning-the-arts
   - ya
   title: Knightley Academy
 plan:
   date_added: '2017-11-21'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: Need I say more?
 review:
   date_read:
   - 2020-06-04
   did_not_finish: false
   rating: 3
-related_books:
-  - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
-    text: Need I say more?
 ---
 
 Knightly Academy is, in a sentence, a conservative Harry Potter knockoff without magic.

@@ -16,6 +16,7 @@ book:
   spine_color: '#da8e49'
   tags:
   - fantasy
+  - romance
   title: A Brother's Price
 plan:
   date_added: '2018-09-10'

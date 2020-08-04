@@ -18,6 +18,7 @@ book:
   spine_color: '#381c17'
   tags:
   - historical-fiction
+  - learning-the-arts
   title: The Physician
 plan:
   date_added: '2016-05-06'

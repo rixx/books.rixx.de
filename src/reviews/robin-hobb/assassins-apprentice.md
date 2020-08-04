@@ -18,6 +18,7 @@ book:
   spine_color: '#8d9483'
   tags:
   - fantasy
+  - learning-the-arts
   title: Assassin's Apprentice
 plan:
   date_added: '2016-05-18'

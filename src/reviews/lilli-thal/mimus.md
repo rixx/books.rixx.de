@@ -11,6 +11,7 @@ book:
   spine_color: '#c7af7f'
   tags:
   - german
+  - learning-the-arts
   - ya
   title: Mimus
 plan:
