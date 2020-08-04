@@ -354,21 +354,109 @@ header a {
   margin-bottom: 1em;
 }
 
-.book-cover .cover {
-  float: right;
-  max-width:  180px;
-  max-height: 300px;
-  margin-top: 10px;
-  margin-left: 10px;
-  margin-bottom: 10px;
-  box-shadow: 0px 5px 5px rgba(0,0,0,0.25);
-}
-
 .review_preview .cover, .reading_inner .cover {
   max-width: 140px;
   max-height: 130px;
   box-shadow: 0px 2.5px 2.5px rgba(0,0,0,0.25);
   margin: 0px 36px 12px 24px;
+}
+
+.book-data {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.book-data .book_metadata {
+  margin: 0;
+}
+.book-cover-container {
+  perspective: 1300px;
+  height: 300px;
+}
+
+@keyframes initAnimation {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(-26deg);
+  }
+}
+
+.book-cover-container .book-cover {
+  /* width: 200px; */
+  /* height: 300px; */
+  position: relative;
+  transform-style: preserve-3d;
+  transform: rotateY(-26deg);
+  transition: 1s ease;
+  animation: 1s ease 0s 1 initAnimation;
+}
+
+.book-cover-container .book-cover:hover {
+  transform: rotateY(0deg);
+}
+
+.book-cover .cover {
+  position: absolute;
+  right: 10px;
+  width:  150px;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.25);
+  background-color: red;
+  transform: translateZ(var(--calculated-width));
+  background-color: var(--cover-color);
+  border-radius: 0 2px 2px 0;
+  box-shadow: 5px 5px 20px #666;
+}
+
+.book-cover-container .book-cover::before {
+  position: absolute;
+  content: ' ';
+  right: 10px;
+  top: 17px;
+  height: calc(var(--calculated-height) - 13px);
+  transform: translateX(calc(var(--calculated-width) * 0.5 + 2px)) rotateY(90deg);
+  width: calc(var(--calculated-width) + 20px);
+  background: linear-gradient(90deg,
+    #fff 0%,
+    #f9f9f9 5%,
+    #fff 10%,
+    #f9f9f9 15%,
+    #fff 20%,
+    #f9f9f9 25%,
+    #fff 30%,
+    #f9f9f9 35%,
+    #fff 40%,
+    #f9f9f9 45%,
+    #fff 50%,
+    #f9f9f9 55%,
+    #fff 60%,
+    #f9f9f9 65%,
+    #fff 70%,
+    #f9f9f9 75%,
+    #fff 80%,
+    #f9f9f9 85%,
+    #fff 90%,
+    #f9f9f9 95%,
+    #fff 100%
+    );
+}
+
+.book-cover-container .book-cover::after {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  content: ' ';
+  width: 150px;
+  height: var(--calculated-height);
+  transform: translateZ(0px - calc(var(--calculated-width)));
+  background-color: var(--cover-color);
+  border-radius: 0 2px 2px 0;
+  /* box-shadow: -10px 0 50px 10px #666; */
 }
 
 .book_thumbnail {

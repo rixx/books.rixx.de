@@ -63,22 +63,17 @@ def render_tag_page(tag, reviews, render):
     )
 
 
-def _create_new_thumbnail(src_path, dst_path):
+def _create_new_thumbnail(im, dst_path):
     dst_path.parent.mkdir(exist_ok=True, parents=True)
-
-    im = Image.open(src_path)
 
     if im.width > 240 and im.height > 240:
         im.thumbnail((240, 240))
     im.save(dst_path)
 
 
-def _create_new_square(src_path, square_path):
+def _create_new_square(im, square_path):
     square_path.parent.mkdir(exist_ok=True, parents=True)
-
-    im = Image.open(src_path)
     im.thumbnail((240, 240))
-
     dimension = max(im.size)
 
     new = Image.new("RGB", size=(dimension, dimension), color=(255, 255, 255))
@@ -92,12 +87,15 @@ def _create_new_square(src_path, square_path):
 
 
 def create_thumbnails():
+    image_sizes = {}
     for image_name in os.listdir("src/covers"):
         src_path = pathlib.Path("src/covers") / image_name
         dst_path = pathlib.Path("_html/thumbnails") / image_name
+        image = Image.open(src_path)
+        image_sizes[image_name] = (image.width, image.height)
 
         if not dst_path.exists() or src_path.stat().st_mtime > dst_path.stat().st_mtime:
-            _create_new_thumbnail(src_path, dst_path)
+            _create_new_thumbnail(image, dst_path)
 
         square_path = pathlib.Path("_html/squares") / image_name
 
@@ -105,7 +103,8 @@ def create_thumbnails():
             not square_path.exists()
             or src_path.stat().st_mtime > square_path.stat().st_mtime
         ):
-            _create_new_square(src_path, square_path)
+            _create_new_square(image, square_path)
+    return image_sizes
 
 
 def isfloat(value):
@@ -284,7 +283,7 @@ def build_site(**kwargs):
     render = partial(render_page, env=env)
 
     print("📷 Generating thumbnails")
-    create_thumbnails()
+    image_sizes = create_thumbnails()
 
     rsync(source="src/covers/", destination="_html/covers/")
     rsync(source="static/", destination="_html/static/")
@@ -309,6 +308,11 @@ def build_site(**kwargs):
     print("🖋 Rendering review pages")
     for review in all_reviews:
         review.spine = books.Spine(review)
+        cover = review.metadata["book"].get("cover_image")
+        if cover and cover in image_sizes:
+            width, height = image_sizes[cover]
+            review.spine.cover_relative_height = height * 150 / width
+        review.spine.cover_depth = int(review.metadata["book"].get("pages") or "240") // 50 + 30
         review.related_books = [
             {"review": review_lookup[related["book"]], "text": related["text"],}
             for related in review.metadata.get("related_books", [])
