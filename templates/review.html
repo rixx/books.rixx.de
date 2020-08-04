@@ -4,10 +4,10 @@
 
 {% block content %}
   {% if review.metadata.book.cover_image %}
-    <div class="book-cover">
+  <a class="book-cover" href="/covers/{{ review.metadata.book.cover_image }}">
       {% set book = review.metadata.book %}
       {% include "_book_cover.html" %}
-    </div>
+    </a>
   {% endif %}
 
   <h1>{{ review.metadata.book.title | smartypants | safe }}</h1>
