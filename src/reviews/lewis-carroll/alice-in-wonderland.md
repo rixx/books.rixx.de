@@ -13,6 +13,9 @@ book:
   title: Alice in Wonderland
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: lewis-carroll/alice-in-wonderland
+  text: I read both books around the same time, and both have the underlying ambience of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio more of the casually brutal kind.
 review:
   date_read:
   - 2004-06-01

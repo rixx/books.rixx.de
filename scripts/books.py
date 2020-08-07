@@ -757,10 +757,11 @@ def random_review():
         unconfirmed = [
             review
             for review in reviews
-            if not review.metadata.get("review", {}).get("proofread", False)
+            if not review.metadata.get("review", {}).get("proofed", False)
         ]
         review = _choose_from(unconfirmed)
 
-    review.metadata["review"]["proofread"] = True
+    review.metadata["review"]["proofed"] = True
     review.save()
     review.edit()
+    goodreads.push_to_goodreads(review)
