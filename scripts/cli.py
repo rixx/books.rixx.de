@@ -6,7 +6,7 @@ import click
 import inquirer
 from rauth.service import OAuth1Service
 
-from .books import change_book, change_tags, create_book
+from .books import change_book, change_tags, create_book, random_review
 from .goodreads import get_shelves
 from .renderer import build_site
 
@@ -24,7 +24,9 @@ def cli(*lol, **trololol):
             ("Edit an existing book", change_book),
             ("Tag books", change_tags),
             ("Build the site", build_site),
+            ("Review a random book", random_review),
         ),
+        carousel=True,
     )()
 
 

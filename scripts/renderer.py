@@ -316,10 +316,7 @@ def build_site(**kwargs):
         for timestamp in review.metadata["review"]["date_read"]:
             year = timestamp.strftime("%Y")
             redirects.append(
-                (
-                    f"reviews/{year}/{review.metadata['book']['slug']}",
-                    review.id,
-                )
+                (f"reviews/{year}/{review.metadata['book']['slug']}", review.id,)
             )
             reviews_by_year[year].append(review)
         for tag in review.metadata["book"].get("tags", []):
@@ -520,9 +517,7 @@ def build_site(**kwargs):
         ("Books without review", len([b for b in all_reviews if not b.text.strip()])),
         (
             "Books without related books",
-            len(
-                [b for b in all_reviews if not b.metadata.get("related_books")]
-            ),
+            len([b for b in all_reviews if not b.metadata.get("related_books")]),
         ),
         (
             "Books per week",

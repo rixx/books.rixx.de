@@ -733,3 +733,34 @@ def change_tags(**kwargs):
             review.add_tag(tag)
         else:
             review.remove_tag(tag)
+
+
+def random_review():
+    reviews = load_reviews()
+    unreviewed = [review for review in reviews if not review.text.strip()]
+
+    def _choose_from(options):
+        while True:
+            choice = random.choice(options)
+            prompt = f"{choice.metadata['book']['title']} by {choice.metadata['book']['author']}"
+            approved = inquirer.list_input(
+                message=prompt,
+                choices=(("OK", True), ("Give me another one", False)),
+                carousel=True,
+            )
+            if approved:
+                return choice
+
+    if unreviewed:
+        review = _choose_from(unreviewed)
+    else:
+        unconfirmed = [
+            review
+            for review in reviews
+            if not review.metadata.get("review", {}).get("proofread", False)
+        ]
+        review = _choose_from(unconfirmed)
+
+    review.metadata["review"]["proofread"] = True
+    review.save()
+    review.edit()
