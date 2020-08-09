@@ -10,6 +10,7 @@ book:
   slug: the-christmas-mystery
   spine_color: '#ce4039'
   tags:
+  - christmas
   - german
   title: The Christmas Mystery
 plan:

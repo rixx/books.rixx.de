@@ -9,6 +9,8 @@ book:
   slug: the-winter-riddle
   spine_color: '#387488'
   title: The Winter Riddle
+  tags:
+  - christmas
 plan:
   date_added: '2019-01-14'
 ---

@@ -17,7 +17,7 @@ book:
   slug: hogfather
   spine_color: '#161118'
   tags:
-  - five-stars
+  - christmas
   title: Hogfather
 plan:
   date_added: '2015-04-08'
@@ -33,7 +33,7 @@ review:
   - 2010-03-01
   did_not_finish: false
   proofed: true
-  rating: 5
+  rating: 4
 ---
 
 Hogfather is not quite peak Pratchett, but it's getting there. And, of course, even so it is better than most genre

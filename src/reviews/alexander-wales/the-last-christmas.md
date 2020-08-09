@@ -10,6 +10,8 @@ book:
   title: The Last Christmas
 plan:
   date_added: '2018-09-20'
+tags:
+- christmas
 review:
   date_read:
   - 2018-09-21

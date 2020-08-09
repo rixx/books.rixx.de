@@ -15,6 +15,7 @@ book:
   slug: das-fliegende-klassenzimmer
   spine_color: '#f4df18'
   tags:
+  - christmas
   - five-stars
   - german
   - kids

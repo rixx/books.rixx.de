@@ -13,6 +13,7 @@ book:
   slug: overtime
   spine_color: '#abbd73'
   tags:
+  - christmas
   - urban-fantasy
   title: Overtime
 plan:
