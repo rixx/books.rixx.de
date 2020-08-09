@@ -32,5 +32,18 @@ review:
   date_read:
   - 2010-03-01
   did_not_finish: false
+  proofed: true
   rating: 5
 ---
+
+Hogfather is not quite peak Pratchett, but it's getting there. And, of course, even so it is better than most genre
+fiction by a margin. Hogfather beats you over the head with uncomfortable truths, while also having you giggle at Death
+trying to be jolly Father Christmas, because the cosmic bureaucrats sent out assassins against him. This is a slight
+problem because Hogfather is responsible for making the sun rise, naturally.
+
+Apart from the neat plot, this book provides a lot of worldbuilding that fleshes out Discworld details for future use: A
+A crash-course in gods by way of the Oh God of Hangovers, turning the badassery of Susan Sto Helit up to eleven,
+impressive women using household implements as weapons against stronger opponents when defending little children in
+their care (recognise [that theme?](https://books.rixx.de/terry-pratchett/the-wee-free-men/)) …
+
+It's fun and also good for your soul if you read it just before Christmas, is what I'm saying.
