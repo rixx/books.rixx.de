@@ -459,7 +459,9 @@ def get_review_info(review=None):
         )
 
     return {
-        "date_read": sorted(known_metadata.get("date_read", []) + [date_read]),
+        "date_read": date_read
+        if isinstance(date_read, list)
+        else sorted(known_metadata.get("date_read", []) + [date_read]),
         "rating": rating,
         "did_not_finish": did_not_finish,
     }

@@ -28,6 +28,14 @@ related_books:
 review:
   date_read:
   - 2007-11-01
+  - 2020-08-08
   did_not_finish: false
   rating: 4
 ---
+
+This book goes beyond just comfort food and makes straight for "guilty pleasure": While it's simple, formulaic (if
+well-executed!) Fantasy, I can't help but feel good when I read it. Its plot and characters trigger all the right
+pleasure centres: Sympathetic but imperfect orphan boy becomes the mysterious ranger's apprentice, learns the nearly
+supernatural arts of tracking, hunting, espionage, and hiding in plain sight. Saves the day, keeps his friends, and one
+former enemy also turns into a friend. The series goes on (forever, it seems), but the book stands on its own and
+has a satisfying ending. It's very easy to make me happy, really.
