@@ -25,6 +25,7 @@ review:
   - 2020-03-31
   did_not_finish: false
   rating: 3
+  tldr: Good first 10%, and then more good advice hidden among neverending examples.
 ---
 
 How to Solve It is decent, but overrated – the first 10% are pretty good, and then there are a few nuggets of really good advice interspersed with the neverending examples of the principles introduced in the first part.

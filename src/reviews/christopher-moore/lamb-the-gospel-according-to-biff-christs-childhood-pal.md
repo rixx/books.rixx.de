@@ -19,9 +19,17 @@ book:
   title: 'Lamb: The Gospel According to Biff, Christ''s Childhood Pal'
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: terry-pratchett/good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+  text: My favourite riff on Christianity.
 review:
   date_read:
   - 2009-02-01
   did_not_finish: false
+  proofed: true
   rating: 1
 ---
+
+My only memory of this book is that it was over-the-top silly and I didn't know at all what to do with it. Everything
+felt forced and unpleasant, but I can't tell anymore how much of that was the book and how much was my confusion and
+projection.

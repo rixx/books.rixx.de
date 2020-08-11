@@ -21,9 +21,19 @@ book:
   title: Mio, My Son
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: amal-el-mohtar/this-is-how-you-lose-the-time-war
+  text: The same, just for adults. And not about heroism or morality, instead contains
+    love letters and time travel. But still, the same vibe.
 review:
   date_read:
   - 2001-02-01
   did_not_finish: false
+  proofed: true
   rating: 5
 ---
+
+Mio, my Mio. A book for children, with heart-breaking beauty. The beauty is in how it uses fairytale and lyrical
+resonance to spin a story that is both familiar and strange. It meant a lot to me: The unhappy boy who runs away from
+home, only to find out that he's the prince of a magical realm – but the realm is in trouble. There is love in every
+word. It's *This Is How You Lose The Time War*, only for children.

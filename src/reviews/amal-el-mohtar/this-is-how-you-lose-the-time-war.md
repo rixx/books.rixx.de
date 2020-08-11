@@ -22,6 +22,8 @@ review:
 related_books:
  - book: peter-s-beagle/the-last-unicorn
    text: If you're looking for similar levels of lyrical language that is still rooted in a brutal (yet beautiful) reality, The Last Unicorn could be for you.
+ - book: astrid-lindgren/mio-my-son
+   text: The same, just for children. Except that it has no time travel, no love letters, no relationships, and is about entirely different things. And yet, it feels like the same, just for kids.
 ---
 This Is How You Lose the Time War was written by *Amal El-Mohtar* and *Max Gladstone*. They must be magic. They can't just write like this without magic. Trust me.
 
