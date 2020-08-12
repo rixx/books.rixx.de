@@ -11,7 +11,9 @@
         {% set book = review.metadata.book %}
         {% include "_book_cover.html" %}
       </div>
-      <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
+      <p class="title{% if not review.metadata.review or not review.metadata.review.rating %} title-padded{% endif %}">
+        {{ review.metadata.book.title | smartypants | safe }}
+      </p>
       <small>
         by 
         {%- if review.link_author and not is_link %}
@@ -19,21 +21,19 @@
         {%- else %}
           {{ review.metadata.book.author }}
         {%- endif %}
+        <span class="muted">
+        {% if review.metadata.book.publication_year %}· published {{ review.metadata.book.publication_year }}{% endif %}
+        {% if review.metadata.review and review.metadata.review.date_read %}
+          ·
+          {% if review.metadata.review.date_read|length > 1 %} last{% endif %} read {{ review.metadata.review.date_read[-1] | render_date }}
+        {% elif review.metadata.plan and review.metadata.plan.date_added -%}
+          · added on {{ review.metadata.plan.date_added | render_date }}
+        {% endif %}
+        </span>
       </small>
-      {% if review.metadata.plan or review.metadata.review %}
-        <div class="metadata-row">
-          {% if review.metadata.review and review.metadata.review.rating %}
+      {% if review.metadata.review and review.metadata.review.rating %}
+        <div class="rating">
             {% include "_rating.html" %}
-          {% endif %}
-          <small>
-            {% if review.metadata.book.publication_year %} published {{ review.metadata.book.publication_year }}{% endif %}
-            {% if review.metadata.review and review.metadata.review.date_read %}
-              ·
-              {% if review.metadata.review.date_read|length > 1 %} last{% endif %} read {{ review.metadata.review.date_read[-1] | render_date }}
-            {% elif review.metadata.plan and review.metadata.plan.date_added -%}
-              · added on {{ review.metadata.plan.date_added | render_date }}
-            {% endif %}
-          </small>
         </div>
       {% endif %}
         {% if not review_text and review.text %}

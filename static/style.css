@@ -260,6 +260,9 @@ hr + .external-link {
 .book-card .book-metadata p.title {
   margin-bottom: -2px;
 }
+.book-card .book-metadata p.title.title-padded {
+  padding-top: 12px;
+}
 .book-metadata hr {
   margin-right: 24px
 }
@@ -284,15 +287,14 @@ div.rating {
 a .book-review {
   font-weight: normal;
 }
-.metadata-row {
-  display: flex;
-  align-items: baseline;
-  color: #777;
+.rating {
   margin: 4px;
 }
-.metadata-row > * {
+
+.muted {
   margin-right: 8px;
   font-weight: normal;
+  color: #777;
 }
 header {
   display: flex;
