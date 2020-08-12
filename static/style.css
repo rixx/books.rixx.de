@@ -112,7 +112,7 @@ h3 {
 a {
   font-weight: bold;
 }
-a:link {
+a:link, .book-card .book-review a, .book-card .book-metadata a {
   color: #007171;
   text-decoration: none;
 }
@@ -283,6 +283,9 @@ div.rating {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+.book-review.book-review-padded {
+  padding-top: 8px;
 }
 a .book-review {
   font-weight: normal;
