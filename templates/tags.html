@@ -19,7 +19,7 @@
 {% for tag, reviews in tags.items() %}{% if not tag.metadata.boring %}
   <a href="/lists/{{ tag.slug }}">
     <div class="lists">
-      <div class="book_metadata">
+      <div class="book-metadata">
         <p class="title">{{ tag.metadata.title or tag.slug }} ({{ reviews|length }} books)</p>
       </div>
       <div class="covers">

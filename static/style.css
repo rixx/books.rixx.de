@@ -172,7 +172,7 @@ button {
   display: block;
 }
 
-.book-card {
+.book-card, .lists {
   min-height: 161px;
   position: relative;
   flex: 1 0 auto;
@@ -211,15 +211,11 @@ hr + .external-link {
   margin-left: 7px;
 }
 
-.book-card a.no-link {
-  cursor: default;
-}
-
 .book-card:hover {
   box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
 }
 
-.book-card-fav {
+.book-card-fav, .lists {
   border-color: #990000;
 }
 
@@ -238,11 +234,11 @@ hr + .external-link {
 
 .lists .covers img.cover {
   margin: 0 4px;
-  min-height: 80px;
+  height: 160px;
 }
 
-.lists .book-metadata p.title {
-  padding-top: 10;
+.lists p.title {
+  margin-left: 24px;
 }
 
 .book-metadata {
