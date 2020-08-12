@@ -8,6 +8,7 @@ import subprocess
 import uuid
 from collections import defaultdict
 from functools import partial
+from io import StringIO
 from pathlib import Path
 
 import markdown
@@ -19,12 +20,34 @@ from PIL import Image
 from . import books
 
 
+def unmark_element(element, stream=None):
+    if stream is None:
+        stream = StringIO()
+    if element.text:
+        stream.write(element.text)
+    for sub in element:
+        unmark_element(sub, stream)
+    if element.tail:
+        stream.write(element.tail)
+    return stream.getvalue()
+
+
+# patching Markdown
+markdown.Markdown.output_formats["plain"] = unmark_element
+plain_markdown = markdown.Markdown(output_format="plain")
+plain_markdown.stripTopLevelTags = False
+
+
 def rsync(source, destination):
     subprocess.check_call(["rsync", "--recursive", "--delete", source, destination])
 
 
 def render_markdown(text):
     return markdown.markdown(text, extensions=[SmartyExtension()])
+
+
+def strip_markdown(text):
+    return plain_markdown.convert(text)
 
 
 def render_date(date_value):
@@ -279,6 +302,7 @@ def build_site(**kwargs):
         autoescape=select_autoescape(["html", "xml"]),
     )
     env.filters["render_markdown"] = render_markdown
+    env.filters["strip_markdown"] = strip_markdown
     env.filters["render_date"] = render_date
     env.filters["smartypants"] = smartypants.smartypants
     render = partial(render_page, env=env)
