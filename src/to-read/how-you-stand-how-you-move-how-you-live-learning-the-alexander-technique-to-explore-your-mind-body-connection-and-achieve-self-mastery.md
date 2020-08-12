@@ -21,5 +21,5 @@ plan:
 ---
 
 Recommended by David as an addition/contrast to [The Inner Game of
-Tennis](https://books.rixx.de/reviews/2020/the-inner-game-of-tennis-the-classic-guide-to-the-mental-side-of-peak-performance/)
+Tennis](https://books.rixx.de/reviews/2020/the-inner-game-of-tennis/)
 after his [rant](https://notebook.drmaciver.com/posts/2020-05-27-07:21.html)
