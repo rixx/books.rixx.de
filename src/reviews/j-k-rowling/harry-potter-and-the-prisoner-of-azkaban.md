@@ -2,7 +2,7 @@
 book:
   author: J.K. Rowling
   cover_image: harry-potter-and-the-prisoner-of-azkaban.jpg
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780439655484-L.jpg
+  cover_image_url: https://img.webme.com/pic/p/potterspace/gh.jpg
   dimensions:
     height: 24.0
     thickness: 3.2
@@ -15,7 +15,7 @@ book:
   series: Harry Potter
   series_position: '3'
   slug: harry-potter-and-the-prisoner-of-azkaban
-  spine_color: '#c1876e'
+  spine_color: '#cbe1b0'
   tags:
   - fantasy
   - german
@@ -34,5 +34,11 @@ review:
   date_read:
   - 2001-09-01
   did_not_finish: false
+  proofed: true
   rating: 4
 ---
+
+There's nothing left to be said about Harry Potter books. This was the first one that felt like Harry was changing,
+growing up maybe, having some kind of agency.  The whole book felt like autumn, with the smell of wet leaves clinging to
+everything.  Naturally I liked the whole "finding a new home" arc. And, equally naturally, I felt very seen in the plot
+arc that introduces time travel for the primary purpose of reading more books and learning more things.
