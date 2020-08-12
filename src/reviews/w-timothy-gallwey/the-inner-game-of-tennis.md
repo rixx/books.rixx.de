@@ -18,7 +18,7 @@ book:
   - five-stars
   - nonfiction
   - personal-development
-  title: 'The Inner Game of Tennis'
+  title: The Inner Game of Tennis
 plan:
   date_added: '2020-03-30'
 review:
@@ -26,7 +26,28 @@ review:
   - 2020-03-31
   did_not_finish: false
   rating: 5
-  tldr: Surprise Zen book! Excellent insight into dealng well with competitive situations. Also, good cues for anything that's a physical activity.
+  tldr: Surprise Zen book! Excellent insight into dealng well with competitive situations.
+    Also, good cues for anything that's a physical activity.
+social:
+  mastodon:
+    datetime: 2020-08-12 15:24:07.911505
+    id: '104676632011038823'
+    in_reply_to: '104673162761067727'
+    text: '47/ The Inner Game of Tennis by W. Timothy Gallwey. Surprise Zen book!
+      Excellent insight into dealng well with competitive situations. Also, good cues
+      for anything that''s a physical activity.
+
+      https://books.rixx.de/w-timothy-gallwey/the-inner-game-of-tennis/ #rixxReads'
+  number: 47
+  twitter:
+    datetime: 2020-08-12 15:24:07.298705
+    id: '1293538756780265472'
+    in_reply_to: '1293316725371437057'
+    text: '47/ The Inner Game of Tennis by W. Timothy Gallwey. Surprise Zen book!
+      Excellent insight into dealng well with competitive situations. Also, good cues
+      for anything that''s a physical activity.
+
+      https://books.rixx.de/w-timothy-gallwey/the-inner-game-of-tennis/'
 ---
 
 I hadn't expected a Zen book, but here we are. This book is short and to the point, and presents a couple of very good
