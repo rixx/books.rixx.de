@@ -15,3 +15,4 @@ book:
 plan:
   date_added: '2017-11-15'
 ---
+Big +1 from [Rae](https://www.goodreads.com/review/show/2181858803)

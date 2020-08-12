@@ -16,3 +16,4 @@ book:
 plan:
   date_added: '2017-08-16'
 ---
+Nontrad zombie book.

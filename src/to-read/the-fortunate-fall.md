@@ -18,3 +18,4 @@ book:
 plan:
   date_added: '2016-07-24'
 ---
+Reporter with virtual reality broadcast brain implant. Kathy and Rae liked it.

@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2016-06-08'
 ---
+
+Big heroic fantasy classic.

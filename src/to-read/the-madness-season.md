@@ -11,3 +11,5 @@ book:
 plan:
   date_added: '2016-05-11'
 ---
+
+Dystopian vampire sci-fi.

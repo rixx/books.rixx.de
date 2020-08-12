@@ -20,3 +20,4 @@ book:
 plan:
   date_added: '2018-07-23'
 ---
+Russian fantasy. Stalinist house elves, magical quests, secrecy and bureaucracy, and games of lust and power.
