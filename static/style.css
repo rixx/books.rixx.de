@@ -137,7 +137,7 @@ img {
   vertical-align: middle;
 }
 
-table.book_metadata {
+table.book-metadata {
   border-collapse: collapse;
   margin-bottom: 1em;
 }
@@ -172,16 +172,9 @@ button {
   display: block;
 }
 
-.review_preview {
-  height: 161px;
-}
-
-.reading {
+.book-card {
   min-height: 161px;
   position: relative;
-}
-
-.review_preview, .reading {
   flex: 1 0 auto;
   align-self: stretch;
   background: white;
@@ -193,89 +186,86 @@ button {
   overflow: hidden;
 }
 
-.reading .external-link {
+.external-link {
   position: absolute;
   top: 10px;
   right: 10px;
 }
+hr + .external-link {
+  position: relative;
+  top: none;
+  right: none;
+  display: flex;
+  justify-content: center;
+}
 
-.reading .external-link img, .external-icon {
+.external-link img, .external-icon {
   height: 24px;
   width: 24px;
   margin-left: 10px;
 }
 
-.reading .external-link img.amazon, .external-icon.amazon {
+.external-link img.amazon, .external-icon.amazon {
   height: 28px;
   width: 28px;
   margin-left: 7px;
 }
 
-.review_preview a.no-link {
+.book-card a.no-link {
   cursor: default;
 }
 
-.review_preview:hover, .reading:hover {
+.book-card:hover {
   box-shadow: 0 1px 7px rgba(0,0,0,0.24),0 1px 5px rgba(0,0,0,0.36);
 }
 
-.review_fave {
+.book-card-fav {
   border-color: #990000;
 }
 
-.review_preview a, .reading_inner {
+.book-card a {
   height: 100%;
   width: 100%;
   color: black;
   text-decoration: none;
 }
 
-.review_preview.lists {
-  height: auto;
-}
-
-.review_preview.lists .covers {
+.lists .covers {
   margin: 20px 24px;
   display: flex;
   overflow: hidden;
 }
 
-.review_preview.lists .covers img.cover {
+.lists .covers img.cover {
   margin: 0 4px;
   min-height: 80px;
 }
 
-.review_preview.lists .book_metadata p.title {
-  padding-top: 0;
+.lists .book-metadata p.title {
+  padding-top: 10;
 }
 
-.book_metadata {
-  margin-top:    auto;
-  margin-bottom: auto;
+.book-metadata {
+  margin: auto 24px;
   line-height: 1.25em;
 }
 
-.book_metadata p.title {
+.book-metadata p.title {
   font-family: 'EB Garamond SC 8';
   color: #990000;
   margin: 4px 0;
   margin-bottom: 4px;
   margin-top: 15px;
 }
-.review_preview .book_metadata p.title {
-  padding-top: 20px;
+.book-card .book-metadata p.title {
+  margin-bottom: -2px;
 }
-.book_metadata p.note {
-  margin-top: 15px;
-}
-
-.book_metadata hr {
+.book-metadata hr {
   margin-right: 24px
 }
 
-.book_metadata p {
+.book-metadata p {
   margin: 0;
-  padding: 0 12px 0px 24px;
   font-weight: normal;
 }
 .rating {
@@ -284,6 +274,25 @@ button {
 }
 div.rating {
   margin-top: 2px;
+}
+.book-review {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+a .book-review {
+  font-weight: normal;
+}
+.metadata-row {
+  display: flex;
+  align-items: baseline;
+  color: #777;
+  margin: 4px;
+}
+.metadata-row > * {
+  margin-right: 8px;
+  font-weight: normal;
 }
 header {
   display: flex;
@@ -383,15 +392,14 @@ header a {
   box-shadow: 0px 5px 5px rgba(0,0,0,0.25);
 }
 
-.review_preview .cover, .reading_inner .cover {
+.book-card .cover {
   max-width: 140px;
   max-height: 130px;
   box-shadow: 0px 2.5px 2.5px rgba(0,0,0,0.25);
-  margin: 0px 36px 12px 24px;
+  margin: 0px 36px 12px 0px;
 }
 
 .book_thumbnail {
-  text-align: center;
   float: left;
 }
 .cover-placeholder {
@@ -783,19 +791,19 @@ header a {
     border-left: none;
     border-right: none;
   }
-  main .review_preview, main .reading {
+  main .book-card {
     padding: 0;
     padding-bottom: 15px;
     margin: 15px 0;
     height: auto;
   }
-  .review_preview .cover, .reading_inner .cover {
-    margin: 0 18px 6px 18px;
+  .book-card .cover {
+    margin: 0 18px 6px 0px;
   }
   div.rating {
     padding-left: 118px
   }
-  table.book_metadata {
+  table.book-metadata {
     clear: both;
   }
   #nav-links a {

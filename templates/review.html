@@ -132,21 +132,13 @@
       {% for related in review.related_books %}
         {% set review = related.review %}
         {% set review_text = related.text %}
-        {% include  "_list_entry.html" %}
+        {% include  "_book_card.html" %}
       {% endfor %}
     {% endif %}
 
   <hr>
 
-  {% if review.metadata.book.goodreads %}
-    <a href="https://www.goodreads.com/book/show/{{ review.metadata.book.goodreads }}"><img class="external-icon" src="/static/goodreads.png"></a>
-  {% elif review.isbn %}
-    <a href="https://www.goodreads.com/search?q={{ review.isbn }}&search_type=books"><img class="external-icon" src="/static/goodreads.png"></a>
-  {% endif %}
-  {% if review.isbn %}
-    <a href="https://www.librarything.com/isbn/{{ review.isbn }}"><img class="external-icon" src="/static/librarything.png"></a>
-    <a href="https://www.amazon.com/s?k=isbn+{{ review.isbn }}&ref=nb_sb_noss"><img class="external-icon amazon" src="/static/amazon.png"></a>
-  {% endif %}
+  {% include "_external_links.html" %}
   <hr>
 
 {% endblock %}

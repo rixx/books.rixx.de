@@ -1,0 +1,11 @@
+<div class="external-link">
+  {%- if review.metadata.book.goodreads %}
+  <a href="https://www.goodreads.com/book/show/{{ review.metadata.book.goodreads }}"><img src="/static/goodreads.png"></a>
+  {%- elif review.isbn %}
+  <a href="https://www.goodreads.com/search?q={{ review.isbn }}&search_type=books"><img src="/static/goodreads.png"></a>
+  {%- endif %}
+  {%- if review.isbn %}
+  <a href="https://www.librarything.com/isbn/{{ review.isbn }}"><img src="/static/librarything.png"></a>
+  <a href="https://www.amazon.com/s?k=isbn+{{ review.isbn }}&ref=nb_sb_noss"><img class="amazon" src="/static/amazon.png"></a>
+  {%- endif %}
+</div>

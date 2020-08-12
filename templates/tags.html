@@ -18,7 +18,7 @@
 <section>
 {% for tag, reviews in tags.items() %}{% if not tag.metadata.boring %}
   <a href="/lists/{{ tag.slug }}">
-    <div class="review_preview review_fave lists">
+    <div class="lists">
       <div class="book_metadata">
         <p class="title">{{ tag.metadata.title or tag.slug }} ({{ reviews|length }} books)</p>
       </div>
