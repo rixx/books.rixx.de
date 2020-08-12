@@ -36,20 +36,19 @@
             {% include "_rating.html" %}
         </div>
       {% endif %}
-        {% if not review_text and review.text %}
-          {% if not show_full_review and review.text|length > 200 %}
-            {% set review_text = review.text|strip_markdown|truncate(200, False, "…") %}
-          {% else %}
-            {% set review_text = review.text %}
-          {% endif %}
+      {% if not review_text and review.text %}
+        {% if not show_full_review and review.text|length > 200 %}
+          {% set review_text = review.text|strip_markdown|truncate(200, False, "…") %}
+        {% else %}
+          {% set review_text = review.text %}
         {% endif %}
-        {% if review_text %}
-          <div class="book-review">
-          {% if is_link %} {{ review_text | strip_markdown | safe }}{% else %}{{ review_text | render_markdown | safe }}{% endif %}
-          </div>
-        {% endif %}
-      </p>
-    </div>
+      {% endif %}
+      {% if review_text %}
+        <div class="book-review">
+        {% if is_link %} {{ review_text | strip_markdown | safe }}{% else %}{{ review_text | render_markdown | safe }}{% endif %}
+        </div>
+      {% endif %}
+  </div>
   {%- if is_link %}
     </a>
   {% else %}
