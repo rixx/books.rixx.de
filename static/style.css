@@ -178,6 +178,7 @@ button {
 
 .reading {
   min-height: 161px;
+  position: relative;
 }
 
 .review_preview, .reading {
@@ -190,6 +191,24 @@ button {
   margin: 16px 8px;
   box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
   overflow: hidden;
+}
+
+.reading .external-link {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.reading .external-link img, .external-icon {
+  height: 24px;
+  width: 24px;
+  margin-left: 10px;
+}
+
+.reading .external-link img.amazon, .external-icon.amazon {
+  height: 28px;
+  width: 28px;
+  margin-left: 7px;
 }
 
 .review_preview a.no-link {

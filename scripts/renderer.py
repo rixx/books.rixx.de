@@ -331,6 +331,22 @@ def build_site(**kwargs):
 
     render("redirects.conf", "redirects.conf", redirects=redirects)
 
+    authors_with_reviews = sorted(
+        [
+            (author, list(reviews))
+            for (author, reviews) in itertools.groupby(
+                sorted(all_reviews, key=lambda rev: rev.metadata["book"]["author"],),
+                key=lambda review: review.metadata["book"]["author"],
+            )
+        ],
+        key=lambda x: x[0].upper(),
+    )
+    author_lookup = dict(authors_with_reviews)
+
+    for plan in all_plans:
+        if plan.metadata["book"]["author"] in author_lookup:
+            plan.link_author = True
+
     # Render tag pages
     print("🔖 Rendering tag pages")
     tags = {
@@ -403,17 +419,6 @@ def build_site(**kwargs):
     )
 
     # Render the "by author" page
-    authors_with_reviews = sorted(
-        [
-            (author, list(reviews))
-            for (author, reviews) in itertools.groupby(
-                sorted(all_reviews, key=lambda rev: rev.metadata["book"]["author"],),
-                key=lambda review: review.metadata["book"]["author"],
-            )
-        ],
-        key=lambda x: x[0].upper(),
-    )
-
     author_reviews = sorted(
         [
             (letter, list(authors))

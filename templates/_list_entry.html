@@ -2,6 +2,19 @@
   {% if review.metadata.review and review.metadata.review.date_read and review.text %}
     <a href="/{{ review.id }}/">
   {% endif %}
+  {% if show_goodreads %}
+  <div class="external-link">
+    {% if review.metadata.book.goodreads %}
+    <a href="https://www.goodreads.com/book/show/{{ review.metadata.book.goodreads }}"><img src="/static/goodreads.png"></a>
+    {% elif review.isbn %}
+    <a href="https://www.goodreads.com/search?q={{ review.isbn }}&search_type=books"><img src="/static/goodreads.png"></a>
+    {% endif %}
+    {% if review.isbn %}
+    <a href="https://www.librarything.com/isbn/{{ review.isbn }}"><img src="/static/librarything.png"></a>
+    <a href="https://www.amazon.com/s?k=isbn+{{ review.isbn }}&ref=nb_sb_noss"><img class="amazon" src="/static/amazon.png"></a>
+    {% endif %}
+  </div>
+  {% endif %}
   <div class="reading_inner book_metadata">
     <div class="book_thumbnail">
       {% set book = review.metadata.book %}
@@ -10,7 +23,12 @@
     <p class="title">{{ review.metadata.book.title | smartypants | safe }}</p>
     <p>
       <small>
-        by {{ review.metadata.book.author }}
+        by 
+        {%- if review.link_author %}
+          <a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
+        {%- else %}
+          {{ review.metadata.book.author }}
+        {%- endif %}
         {%- if review.metadata.book.publication_year %}
           ({{ review.metadata.book.publication_year}})
         {%- endif -%}
