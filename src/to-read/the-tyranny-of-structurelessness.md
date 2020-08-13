@@ -15,4 +15,4 @@ plan:
   date_added: '2019-11-15'
 ---
 
-Not sure, thought it came via book Discord.
+Not sure, thought it came via book Discord. Nonfiction.

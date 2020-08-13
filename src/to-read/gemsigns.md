@@ -16,3 +16,5 @@ book:
 plan:
   date_added: '2019-03-09'
 ---
+
+Social science fiction.

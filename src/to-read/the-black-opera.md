@@ -16,4 +16,4 @@ plan:
   date_added: 2020-07-26
 ---
 
-I'm going to ignore goodreads reviews in favour [of](https://www.eblong.com/zarf/bookscan/review/gentle_mary_the_black_opera.html)
+Naples, 1835, and the Church and produce miracles on-demand. Ignoring goodreads reviews in favour [of](https://www.eblong.com/zarf/bookscan/review/gentle_mary_the_black_opera.html)

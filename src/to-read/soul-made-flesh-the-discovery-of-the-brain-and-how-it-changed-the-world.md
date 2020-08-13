@@ -19,4 +19,4 @@ plan:
   date_added: '2020-03-08'
 ---
 
-Mentioned in [Intelligence](/reviews/2020/intelligence-a-very-short-introduction).
+Mentioned in [Intelligence](/reviews/2020/intelligence-a-very-short-introduction). Nonfiction.

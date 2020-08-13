@@ -18,3 +18,5 @@ book:
 plan:
   date_added: '2018-09-29'
 ---
+
+Rural US portal space travel scifi, excellent writing (they say).

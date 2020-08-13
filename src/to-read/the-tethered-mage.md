@@ -21,4 +21,4 @@ plan:
   date_added: '2019-11-15'
 ---
 
-David, I think?
+David, I think? Fantasy, magical armies.

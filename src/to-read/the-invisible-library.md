@@ -15,4 +15,4 @@ plan:
   date_added: '2019-03-09'
 ---
 
-It says library.
+It says library. Alternate realities, dangerous books. YA-ish and funny.

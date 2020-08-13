@@ -23,4 +23,4 @@ plan:
   date_added: 2020-06-30
 ---
 
-[via](https://chaos.social/@joshi/104421362013194546)
+Historical fiction of Sulla, and Caesar's granddad, and others. Details, strong characters. [via](https://chaos.social/@joshi/104421362013194546)

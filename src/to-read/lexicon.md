@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2018-09-30'
 ---
+
+Learning-the-arts, persuasion/coercion edition.

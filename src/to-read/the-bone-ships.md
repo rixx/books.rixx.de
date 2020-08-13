@@ -21,4 +21,4 @@ plan:
   date_added: '2019-07-26'
 ---
 
-via [Nerds of a Feather](http://www.nerds-feather.com/2020/01/microreview-book-bone-ships-by-rj-barker.html)
+Naval fantasy with dragons and ships. via [Nerds of a Feather](http://www.nerds-feather.com/2020/01/microreview-book-bone-ships-by-rj-barker.html), plus a rec from Robin Hobb.

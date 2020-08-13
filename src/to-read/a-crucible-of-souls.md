@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2018-10-09'
 ---
+
+Generic but possibly good coming-of-age learning-the-arts epic fantasy.

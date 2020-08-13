@@ -17,4 +17,4 @@ plan:
   date_added: 2020-07-26
 ---
 
-[via](https://www.eblong.com/zarf/bookscan/review/abnett_dan_triumff_her_majesty_s_hero.html)
+"Discworld fanfic", [via](https://www.eblong.com/zarf/bookscan/review/abnett_dan_triumff_her_majesty_s_hero.html)

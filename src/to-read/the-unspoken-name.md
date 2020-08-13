@@ -14,4 +14,5 @@ plan:
   date_added: '2020-03-26'
 ---
 
-Recommended by [Nerds of a Feather](http://www.nerds-feather.com/2020/01/microreview-book-unspoken-name-by-ak.html).
+Recommended by [Nerds of a Feather](http://www.nerds-feather.com/2020/01/microreview-book-unspoken-name-by-ak.html) as
+queer grimdark.

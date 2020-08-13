@@ -15,4 +15,6 @@ plan:
   date_added: 2020-06-07
 ---
 
-Rec by [pornokitsch](https://www.reddit.com/r/Fantasy/comments/gtf34j/what_are_some_underrated_sff_books_by_black/fsbcxv0/)
+Rec by
+[pornokitsch](https://www.reddit.com/r/Fantasy/comments/gtf34j/what_are_some_underrated_sff_books_by_black/fsbcxv0/) as
+heart-breaking sci-fi, tense and character-driven.

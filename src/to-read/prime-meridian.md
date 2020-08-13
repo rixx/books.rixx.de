@@ -18,3 +18,5 @@ book:
 plan:
   date_added: '2019-03-09'
 ---
+
+Protagonist has to struggle and work towards her dream in a crumbling future.

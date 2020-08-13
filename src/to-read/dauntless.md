@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2018-10-22'
 ---
+
+Mil sci-fi. Revived/thawed old hero.

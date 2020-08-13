@@ -19,4 +19,4 @@ plan:
   date_added: '2020-01-03'
 ---
 
-Recommended by [Jo Walton](https://www.tor.com/2020/01/03/jo-waltons-reading-list-december-2019/)
+Recommended by [Jo Walton](https://www.tor.com/2020/01/03/jo-waltons-reading-list-december-2019/) as rich, strange SF.

@@ -6,10 +6,11 @@ book:
   goodreads: '38311524'
   pages: '14'
   publication_year: '2017'
-  slug: the-woman-who-smashed-codes-a-true-story-of-love-spies-and-the-unlikely-heroine-who-outwitted-americas-enemies
+  slug: the-woman-who-smashed-codes
   spine_color: '#777d89'
-  title: 'The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely
-    Heroine who Outwitted America''s Enemies'
+  title: 'The Woman Who Smashed Codes'
 plan:
   date_added: '2020-01-07'
 ---
+
+History, nonfiction.

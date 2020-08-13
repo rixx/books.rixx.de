@@ -18,3 +18,5 @@ book:
 plan:
   date_added: 2020-08-10
 ---
+
+Next part of [Cradle](/will-wight/).

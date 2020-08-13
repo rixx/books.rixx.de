@@ -19,4 +19,4 @@ plan:
   date_added: 2020-06-07
 ---
 
-via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)
+Love, desire, tragic romance with a gender twist. via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)

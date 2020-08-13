@@ -19,4 +19,4 @@ plan:
   date_added: 2020-06-07
 ---
 
-[Extremely strong recommendation here](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
+[Extremely strong recommendation here](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/). Nonfiction.

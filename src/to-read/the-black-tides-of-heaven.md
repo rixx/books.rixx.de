@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2019-03-17'
 ---
+
+Fantasy, Tensorate series. Asian inspired. Genderfun. Compelling.

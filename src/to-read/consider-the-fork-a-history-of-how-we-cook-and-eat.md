@@ -12,9 +12,11 @@ book:
   isbn13: '9780465021765'
   pages: 327
   publication_year: '2012'
-  slug: consider-the-fork-a-history-of-how-we-cook-and-eat
+  slug: consider-the-fork
   spine_color: '#a29c91'
-  title: 'Consider the Fork: A History of How We Cook and Eat'
+  title: 'Consider the Fork'
 plan:
   date_added: '2018-09-30'
 ---
+
+Nonfiction, history

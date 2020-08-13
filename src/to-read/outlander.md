@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2018-10-25'
 ---
+
+Historical fiction, time travel from 1944 to 1744, Scotland. Romance.

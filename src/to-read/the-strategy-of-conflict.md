@@ -20,4 +20,4 @@ plan:
 ---
 
 David recommends it regularly, and it featured on [Scholar's
-Stage](https://scholars-stage.blogspot.com/2020/05/on-days-of-disorder.html) in an article on riots.
+Stage](https://scholars-stage.blogspot.com/2020/05/on-days-of-disorder.html) in an article on riots. Nonfiction.

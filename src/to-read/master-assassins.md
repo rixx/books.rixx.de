@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2018-11-05'
 ---
+
+Indian-flavoured Fantasy, apparently with excellent writing.

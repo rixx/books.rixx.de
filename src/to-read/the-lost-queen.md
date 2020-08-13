@@ -16,3 +16,5 @@ book:
 plan:
   date_added: '2018-11-26'
 ---
+
+Historical fiction in 6th-century Scotland, Arthur-flavoured.

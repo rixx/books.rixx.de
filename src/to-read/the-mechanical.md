@@ -16,3 +16,5 @@ book:
 plan:
   date_added: '2018-10-20'
 ---
+
+Alternate history, 1900s, mechanical robot going for independence.

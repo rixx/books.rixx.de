@@ -15,4 +15,4 @@ plan:
   date_added: 2020-06-07
 ---
 
-via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)
+Historical fiction with a strong inner and outer plot, about a trans thief in the 1720s. via [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/31/may-reading/)

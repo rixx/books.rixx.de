@@ -18,4 +18,4 @@ plan:
   date_added: 2020-07-05
 ---
 
-[via Lisa](https://notebook.lisamcnulty.co.uk/2020/06/30/june-reading/)
+Far-future dandies, "soft sf with a vengeance", tribute to fin de siecle/Oscar Wildes. jml's favourite. [via Lisa](https://notebook.lisamcnulty.co.uk/2020/06/30/june-reading/)

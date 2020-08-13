@@ -14,4 +14,4 @@ plan:
   date_added: '2018-12-04'
 ---
 
-Multiple recs
+Multiple recs. Indian-flavoured fantasy. Magical heroine whose strength is in compassion.

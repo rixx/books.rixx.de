@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2018-10-02'
 ---
+
+Urban fantasy, Dresden Files in London.

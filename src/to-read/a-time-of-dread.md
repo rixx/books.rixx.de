@@ -16,3 +16,5 @@ book:
 plan:
   date_added: '2019-04-03'
 ---
+
+Very good fantasy, say people with good taste.

@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2019-03-09'
 ---
+
+Scifi, first settlers on a new planet. More than it seems. Rae liked it.

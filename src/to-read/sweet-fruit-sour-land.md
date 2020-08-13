@@ -13,3 +13,5 @@ book:
 plan:
   date_added: '2018-11-12'
 ---
+
+Post-apocalyptic UK, queer lead.

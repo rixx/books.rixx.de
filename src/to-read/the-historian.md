@@ -16,5 +16,6 @@ plan:
   date_added: 2020-06-24
 ---
 
-"history and research while exploring museums, monasteries and libraries in Istanbul and Cold War Eastern Europe"
+Historical fiction. "history and research while exploring museums, monasteries and libraries in Istanbul and Cold War
+Eastern Europe"
 [via](https://www.reddit.com/r/Fantasy/comments/hazt57/oddly_specific_fantasy_recommendation_requests/fv6rgb9/)

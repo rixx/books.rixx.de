@@ -19,4 +19,4 @@ plan:
   date_added: '2020-01-02'
 ---
 
-It feels more like a chore to read, despite people seemingly actually liking it
+It feels more like a chore to read, despite people seemingly actually liking it. Nonfiction.

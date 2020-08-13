@@ -20,4 +20,4 @@ plan:
 ---
 
 Recommended by [Lisa](https://notebook.lisamcnulty.co.uk/2020/05/04/consistency-is-the-enemy/) and David, "if you're
-interested in the question of how people learn morality at a practical level"
+interested in the question of how people learn morality at a practical level". Nonfiction.

@@ -15,4 +15,4 @@ plan:
   date_added: 2020-06-14
 ---
 
-[via ribbonfarm](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)
+Nonfiction about global logistics, [via ribbonfarm](https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/)

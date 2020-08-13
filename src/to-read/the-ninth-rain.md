@@ -16,3 +16,6 @@ book:
 plan:
   date_added: '2018-11-03'
 ---
+
+Fantasy, epic, "very good Wellsian concept of creepy alien invasion, older lesbian heroine, moral complexity, well
+written".

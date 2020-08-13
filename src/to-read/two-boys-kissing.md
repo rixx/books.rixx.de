@@ -19,4 +19,4 @@ plan:
   date_added: '2019-01-23'
 ---
 
-SSIA
+SSIA. Queer.

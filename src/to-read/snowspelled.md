@@ -15,4 +15,4 @@ plan:
   date_added: '2019-02-11'
 ---
 
-just for fun, probably via reddit
+just for fun, fantasy romance with magic and a mix of regency romance and frozen

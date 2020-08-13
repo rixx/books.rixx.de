@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2018-10-05'
 ---
+
+Peter S. Beagle does fantasy. Strong characters, connections, high stakes.

@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2018-10-07'
 ---
+
+Alex Verus. Urban Fantasy, running a magic shop in London. Generic but not bad.
