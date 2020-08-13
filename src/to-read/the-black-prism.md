@@ -20,3 +20,5 @@ book:
 plan:
   date_added: '2018-09-15'
 ---
+
+Allegedly better than The Way of Shadows.
