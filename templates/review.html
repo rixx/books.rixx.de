@@ -6,6 +6,7 @@
   {% if review.metadata.book.cover_image %}
   <a class="book-cover" href="/covers/{{ review.metadata.book.cover_image }}">
       {% set book = review.metadata.book %}
+      {% set spine_border = True %}
       {% include "_book_cover.html" %}
     </a>
   {% endif %}

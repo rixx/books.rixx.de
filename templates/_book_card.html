@@ -1,4 +1,4 @@
-<div class="book-card {% if review.metadata.review and review.metadata.review.rating == 5 %}book-card-fav{% endif %}">
+<div class="book-card {% if review.metadata.review and review.metadata.review.rating == 5 %}book-card-fav{% endif %}"{% if review.metadata.book.spine_color %}style="border-color: {{ review.metadata.book.spine_color }}{% endif %}">
   {% include "_external_links.html" %}
   {% set is_link=review.metadata.review and review.metadata.review.date_read and review.text %}
   {% set has_rating=review.metadata.review and review.metadata.review.rating %}

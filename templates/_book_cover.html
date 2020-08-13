@@ -3,6 +3,7 @@
     class="cover"
     src="/thumbnails/{{ book.cover_image }}"
     alt="Cover of {{ book.title }}. {{ book.cover_description }}"
+    {% if spine_border and book.spine_color %}style="border: 1px solid {{ book.spine_color }}; border-left: 24px solid {{ book.spine_color }};"{% endif %}
   >
 {% else %}
   <div class="cover cover-placeholder"></div>
