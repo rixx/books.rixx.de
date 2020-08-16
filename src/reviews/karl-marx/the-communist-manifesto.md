@@ -25,6 +25,7 @@ review:
   - 2020-04-12
   did_not_finish: false
   rating: 3
+  tldr: I had not expected to find a perfect description of startup culture, but here we are. Very readable and clarified some terms, like reactionary vs conservative socialism.
 ---
 
 Short, readable, to the point. The predictive parts were outdated shortly after publishing the manifesto, but the analytical parts were highly interesting and often spot on.
