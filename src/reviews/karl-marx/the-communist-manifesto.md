@@ -25,7 +25,29 @@ review:
   - 2020-04-12
   did_not_finish: false
   rating: 3
-  tldr: I had not expected to find a perfect description of startup culture, but here we are. Very readable and clarified some terms, like reactionary vs conservative socialism.
+  tldr: I had not expected to find a perfect description of startup culture, but here
+    we are. Very readable and clarified some terms, like reactionary vs conservative
+    socialism.
+social:
+  mastodon:
+    datetime: 2020-08-16 21:04:37.760747
+    id: '104700620147345947'
+    in_reply_to: '104683023777397338'
+    text: '50/ The Communist Manifesto by Karl Marx. I had not expected to find a
+      perfect description of startup culture, but here we are. Very readable and clarified
+      some terms, like reactionary vs conservative socialism.
+
+      https://books.rixx.de/karl-marx/the-communist-manifesto/ #rixxReads'
+  number: 50
+  twitter:
+    datetime: 2020-08-16 21:04:37.366973
+    id: '1295073998234169345'
+    in_reply_to: '1293947830881734660'
+    text: '50/ The Communist Manifesto by Karl Marx. I had not expected to find a
+      perfect description of startup culture, but here we are. Very readable and clarified
+      some terms, like reactionary vs conservative socialism.
+
+      https://books.rixx.de/karl-marx/the-communist-manifesto/'
 ---
 
 Short, readable, to the point. The predictive parts were outdated shortly after publishing the manifesto, but the analytical parts were highly interesting and often spot on.
