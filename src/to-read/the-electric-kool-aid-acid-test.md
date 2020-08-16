@@ -21,4 +21,5 @@ plan:
   date_added: 2020-08-15
 ---
 
-Nonfiction. Recommended in stead of *The Right Stuff* by danohu in Book Discord.
+Nonfiction. Recommended in stead of *The Right Stuff* by danohu in Book Discord, who offered to lend me a copy.
+

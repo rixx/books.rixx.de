@@ -17,6 +17,9 @@ book:
   title: 'Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict'
 plan:
   date_added: 2020-05-26
+related_books:
+- book: eugene-t-gendlin/focusing
+  text: Very similar approach without the visualisation part, goes for verbalisation instead.
 review:
   date_read:
   - 2020-05-24
