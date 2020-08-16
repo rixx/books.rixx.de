@@ -141,6 +141,7 @@
     {% endif %}{% endif %}
 
     {% if review.related_books %}
+    {% set spine_border = False %}
     <h2>Related books</h2>
       {% for related in review.related_books %}
         {% set review = related.review %}
