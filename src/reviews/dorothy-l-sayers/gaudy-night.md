@@ -21,10 +21,12 @@ book:
 plan:
   date_added: '2020-02-04'
 related_books:
-- book: a-a-milne/winnie-the-pooh
-  text: If you enjoy this book, you're probably a nerd for classical education and allusions, so if you had the misfortune of having to learn Latin, why not put it to good use with Winnie Ille Pu?
 - book: connie-willis/to-say-nothing-of-the-dog
   text: This book is very heavily referenced by Connie Willis in this excellent part of the Oxford Timetravel series.
+- book: lois-mcmaster-bujold/komarr
+  text: It's the same, just with a tad less romance and in sci-fi. But trust me, it's the same.
+- book: a-a-milne/winnie-the-pooh
+  text: If you enjoy this book, you're probably a nerd for classical education and allusions, so if you had the misfortune of having to learn Latin, why not put it to good use with Winnie Ille Pu?
 - book: dorothy-l-sayers/the-nine-tailors
   text: The previous book in the series.
 - book: dorothy-l-sayers/busmans-honeymoon

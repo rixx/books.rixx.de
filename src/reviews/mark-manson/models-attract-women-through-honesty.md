@@ -25,6 +25,7 @@ review:
   - 2020-04-16
   did_not_finish: false
   rating: 2
+  tldr: 'Some good advice, particularly if you are not interested in dating women. Less good for the target group. Take care not to get the first edition, please.'
 ---
 
 Do not read this book, except if you're not interested in dating women. In that case, read my objection below and replace all "woman" with "person" and "women" with "people" so that the ridiculous parts stand out better.
@@ -33,3 +34,6 @@ For the most part, it has good and bad points: A lot of gross evopsych, think "w
 It also comes with good theory of interaction, by advocating to fix your relationship to yourself and then polarise people early. During that part, it's been a depressing read because it's tailored to average guys and I hate how this looks – tough talk, dumbing things down, dominance games.
 
 Up to 95% I was at "Icky, but good points for the clueless target group I suppose". Then it advised to treat objections to having sex with saying "OK" and then keeping going. ("Oh unless she really really says STOP, then listen to her objection and figure out if her reasons are serious or silly"). This is SO VERY MUCH NOT advice I want anybody to read, least of all clueless guys in the target group. WTF. no.
+
+*Edit:* Apparently later editions have the truly problematic part removed, and feature an apology for the unfortunate
+phrasing in the preface.
