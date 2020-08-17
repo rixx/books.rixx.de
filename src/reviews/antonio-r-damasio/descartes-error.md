@@ -12,12 +12,12 @@ book:
   isbn13: '9780143036227'
   pages: 336
   publication_year: '1994'
-  slug: descartes-error-emotion-reason-and-the-human-brain
+  slug: descartes-error
   spine_color: '#d10606'
   tags:
   - nonfiction
   - psychology
-  title: 'Descartes'' Error: Emotion, Reason and the Human Brain'
+  title: 'Descartes'' Error'
 plan:
   date_added: '2020-04-17'
 review:
@@ -25,6 +25,7 @@ review:
   - 2020-04-18
   did_not_finish: false
   rating: 4
+  tldr: Not so groundbreaking now as it was 25 years ago when it was publised, but still a solid overview over the role of emotions in human thinking and reasoning.
 ---
 
 Didn't hold much new information for me, because its contents have grown so accepted and foundational in the 25 years since publication. Nevertheless it provides a solid fundamental overview in a very readable way, despite also dealing in a bit of technical details.

@@ -31,5 +31,10 @@ review:
   date_read:
   - 2017-11-25
   did_not_finish: false
+  proofed: true
   rating: 3
 ---
+
+The Flavia de Luce books started blurring together a bit before this one, and even series-changing big reveals didn't
+change that fact. Too much time spent demonstrating sassy storytelling – completely in line with the rest of the series,
+but increasingly less amusing.
