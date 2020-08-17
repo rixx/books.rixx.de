@@ -40,7 +40,7 @@ everybody could be an informer about to tattle. This common assumption is born w
 reliance on community bonds. While the protagonist is in prison, friends check in on his wife and stand up to her
 neighbours to end the ongoing bullying, for example. I'm waving hands here, but trust me: The whole book feels like it's
 taking place in the Russian steppe, not in Canada. I'm not sure I could've pointed this out before moving to Western
-Germany – maybe? I'm still trying to find better words.
+Germany. I'm still trying to find better words.
 
 The book, of course, is slice-of-life – everything else would feel pretentious and wrong. There are starts and stops,
 and there is an end, but it doesn't follow a dramatic arc: one thing happens, and then the next. Sometimes one thing

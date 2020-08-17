@@ -64,6 +64,6 @@ assassination attempts, and is in no way prepared for it. The tech level seems t
 and security cameras in places, but no very hard propaganda or surveillance. Either no computers at all or completely
 under-utilised ones. The bit of deeper worldbuilding we get is "Rome wants war because they're running low on slaves".
 
-The characters have their one, maybe two, adjectives and stay flat, too. What really shone in places, though, was the
+The characters have their one or two adjectives and stay flat, too. What really shone in places, though, was the
 writing. McDougall manages to conjure up atmosphere very well, and the actual interactions between people often felt raw
 and real and deeply uncomfortable. It's what kept me going despite my lack of immersion.

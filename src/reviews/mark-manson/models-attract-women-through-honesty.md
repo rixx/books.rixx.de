@@ -25,7 +25,28 @@ review:
   - 2020-04-16
   did_not_finish: false
   rating: 2
-  tldr: 'Some good advice, particularly if you are not interested in dating women. Less good for the target group. Take care not to get the first edition, please.'
+  tldr: Some good advice, particularly if you are not interested in dating women.
+    Less good for the target group. Take care not to get the first edition, please.
+social:
+  mastodon:
+    datetime: 2020-08-16 22:40:09.872411
+    id: '104700995810346944'
+    in_reply_to: '104700644531500793'
+    text: '52/ Models: Attract Women Through Honesty by Mark Manson. Some good advice,
+      particularly if you are not interested in dating women. Less good for the target
+      group. Take care not to get the first edition, please.
+
+      https://books.rixx.de/mark-manson/models-attract-women-through-honesty/ #rixxReads'
+  number: 52
+  twitter:
+    datetime: 2020-08-16 22:40:09.535497
+    id: '1295098040836128771'
+    in_reply_to: '1295075559031156736'
+    text: '52/ Models: Attract Women Through Honesty by Mark Manson. Some good advice,
+      particularly if you are not interested in dating women. Less good for the target
+      group. Take care not to get the first edition, please.
+
+      https://books.rixx.de/mark-manson/models-attract-women-through-honesty/'
 ---
 
 Do not read this book, except if you're not interested in dating women. In that case, read my objection below and replace all "woman" with "person" and "women" with "people" so that the ridiculous parts stand out better.

@@ -32,7 +32,7 @@ the while playing with the default Fantasy tropes.
 It's unapologetically weird. I adored the weirdness. I could even have lived with the lame storytelling device of
 "protagonist loses memory, brings reader up to speed", if only …
 
-I think what threw me off was really how the protagonist didn't feel real. Maybe unemotional, maybe just unrelatable?
+I think what threw me off was really how the protagonist didn't feel real. Unemotional, or just unrelatable?
 But if you chuck the protagonist into prison for several years, blinding him in the process, I'd expect to have some
 emotional stake in it, even if it isn't [Monte Cristo](https://books.rixx.de/reviews/2003/the-count-of-monte-cristo/)
 level. But I didn't.

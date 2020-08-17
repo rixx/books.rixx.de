@@ -39,6 +39,6 @@ review:
 ---
 
 There's nothing left to be said about Harry Potter books. This was the first one that felt like Harry was changing,
-growing up maybe, having some kind of agency.  The whole book felt like autumn, with the smell of wet leaves clinging to
+growing up, getting some kind of agency.  The whole book felt like autumn, with the smell of wet leaves clinging to
 everything.  Naturally I liked the whole "finding a new home" arc. And, equally naturally, I felt very seen in the plot
 arc that introduces time travel for the primary purpose of reading more books and learning more things.

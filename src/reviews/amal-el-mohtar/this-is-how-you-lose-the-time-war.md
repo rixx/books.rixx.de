@@ -33,4 +33,4 @@ It's a war story. No, really: It's a series of war stories.
 
 It's a fairytale. It's a high-tech dystopia.
 
-It's none of those. The breathless travel through the time war, seen from opposing agents on both sides, does not leave time for petty worldbuilding, and instead hands us poetical outlines that work far better than a thousand pages of in-depth worldbuilding could. (I want those thousand pages. But they wouldn't improve the book.) It's a book-long poem, or at least half the time it is. I can't do it justice here, but I read it in a day, and I liked it very much. Maybe you will, too.
+It's none of those. The breathless travel through the time war, seen from opposing agents on both sides, does not leave time for petty worldbuilding, and instead hands us poetical outlines that work far better than a thousand pages of in-depth worldbuilding could. (I want those thousand pages. But they wouldn't improve the book.) It's a book-long poem, or at least half the time it is. I can't do it justice here, but I read it in a day, and I liked it very much. You might, too.

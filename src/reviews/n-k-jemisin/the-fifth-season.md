@@ -30,7 +30,7 @@ review:
   rating: 5
 ---
 
-There was nothing about The Fifth Season by N.K. Jemisin that I didn't like. It's a bit short, maybe, but we have two more volumes to balance that.
+There was nothing about The Fifth Season by N.K. Jemisin that I didn't like. It's a bit short, but we have two more volumes to balance that.
 
 The Broken Earth is stunning scifi/fantasy. It contains a world with a huge (and very relevant) history. It has intricate and important environmental mechanics. It has different cultures, and those have different ticks and traditions grown from aforementioned history and environments. And these are the things that are the backdrop the reader is expected to pick up.
 

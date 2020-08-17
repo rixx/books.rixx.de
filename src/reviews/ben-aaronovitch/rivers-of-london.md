@@ -19,7 +19,7 @@ plan:
   date_added: '2015-07-02'
 related_books:
 - book: jim-butcher/storm-front
-  text: A freelance investigator with supernatural capabilities in Chicago. Long series – Maybe the same quality, just stretched over more books.
+  text: A freelance investigator with supernatural capabilities in Chicago. Long series – same quality, just stretched over more books.
 - book: ben-aaronovitch/the-home-crowd-advantage
   text: The next book in the series.
 review:

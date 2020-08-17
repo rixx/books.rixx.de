@@ -51,7 +51,7 @@ everything is horrible forever.</span>)
 I also keep noting that while banter and characters are where Bujold shines, exposition is not her strength. The first
 two chapters always feel uncharacteristically clumsy. I'm not sure what's up with that.
 
-I kind of feel that Dorothy Sayers made a better call in how she built her romance: They get to know each other a while,
+I feel that Dorothy Sayers made a better call in how she built her romance: They get to know each other a while,
 then there's one intense book leading up to the engagement, and the next starts basically with the wedding. In contrast,
 Miles and Ekaterin go through an intense leadup in their first book, then a slower one in this book leading up to a
 proposal, then get married in a short story on the side. It's not *bad*, it just feels like it could've been more

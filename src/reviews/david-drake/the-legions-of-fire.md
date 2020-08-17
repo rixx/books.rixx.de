@@ -23,7 +23,7 @@ review:
 ---
 
 **The Legions of Fire** is Historical Fantasy: It takes place in Ancient Rome while Tiberius is emperor, only that Rome
-is called Carce, so that Drake doesn't get punched by history nerds, maybe? Though the history nerds would have just
+is called Carce, so that Drake doesn't get punched by history nerds. Though the history nerds would have just
 about zero reason for punching him – Drake majored in history (with honours) and Latin, and it shows in loving
 background details. All other names stayed the same as in our history – Gaul, Carthage, Germany etc, even Octavianus
 Augustus, so I didn't quite see the point of calling it Carce. Either do Rome, or go the [Codex

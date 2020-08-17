@@ -29,7 +29,7 @@ review:
   did_not_finish: false
   rating: 4
   tldr: Fairytale-style romance, very English. I enjoyed the (queer) characters and
-    the writing, even though the standard hurt/comfort arc was maybe a little low
+    the writing, even though the standard hurt/comfort arc was a little low
     on substance.
 social:
   mastodon:
@@ -38,7 +38,7 @@ social:
     in_reply_to: '104444710479471639'
     text: '27/ Silver in the Wood by Emily Tesh. Fairytale-style romance, very English.
       I enjoyed the (queer) characters and the writing, even though the standard hurt/comfort
-      arc was maybe a little low on substance.
+      arc was a little low on substance.
 
       https://books.rixx.de/reviews/2020/silver-in-the-wood/ #rixxReads'
   number: 27
@@ -48,7 +48,7 @@ social:
     in_reply_to: '1278695779293593601'
     text: '27/ Silver in the Wood by Emily Tesh. Fairytale-style romance, very English.
       I enjoyed the (queer) characters and the writing, even though the standard hurt/comfort
-      arc was maybe a little low on substance.
+      arc was a little low on substance.
 
       https://books.rixx.de/reviews/2020/silver-in-the-wood/'
 ---

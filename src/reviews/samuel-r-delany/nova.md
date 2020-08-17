@@ -26,4 +26,4 @@ review:
   rating: 3
 ---
 
-Nova by *Samuel Delany* was alright – a beautiful space opera telling the story of a captain and is impromptu crew in a well-thought, well-described future a thousand years from now. I can't really say why it didn't grip me as much as other Delany books, maybe my mood and the book just weren't a fit at the time.
+Nova by *Samuel Delany* was alright – a beautiful space opera telling the story of a captain and is impromptu crew in a well-thought, well-described future a thousand years from now. I can't really say why it didn't grip me as much as other Delany books. My mood and the book just weren't a fit at the time.

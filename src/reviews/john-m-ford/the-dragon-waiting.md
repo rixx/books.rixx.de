@@ -40,8 +40,8 @@ The story follows four POV characters: a Welsh Wizard, a Byzantian noble from Ga
 engineer ("Fachritter"), and a Florentine doctor. Surrounding them, we encounter a huge cast of historical figures:
 Lorenzo de Medici, Ficino, Richard III and all the nobles surrounding him, Owain Glyn Dŵr, Henry VII, … it's a big cast.
 
-I'm not sure what caused me to feel so distant from the book. Maybe it's that it often skipped the parts of the story
-that I'd have wanted to see. Maybe it's that I concentrated so much on catching all the clues (I only read the
-concordance once I was done with the book) that the characters seemed like just plot points to me. I enjoyed the book,
-but in a technical, cerebral way. The further the reading experience is in the past, the more I enjoy looking back on it
-– I have no doubt that this is a book that is now stuck in my head, and I'm happy to have it.
+A couple of things caused me to feel so distant from the book: It often skipped the parts of the story that I'd have
+wanted to see. I concentrated so much on catching all the clues (I only read the concordance once I was done with the
+book) that the characters seemed like just plot points to me. I enjoyed the book, but in a technical, cerebral way. The
+further the reading experience is in the past, the more I enjoy looking back on it – I have no doubt that this is a book
+that is now stuck in my head, and I'm happy to have it.

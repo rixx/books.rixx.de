@@ -49,6 +49,6 @@ In the same way, you could attribute all opinions about Helix to the protagonist
 society, but they come across as too neat, too women-am-I-right-mate. Even with the final reveal <span class="spoilers">
 that Helix was sent to get Haldane to Hell, and is really quite brilliant</span>, it didn't feel like it made up for the
 bulk of the book. If you're charitable, you have to assume that we get an entire book presented through the lens of a
-pompous self-important mathematician, so you can just laugh it all off – but it didn't click for me. Maybe it's just
+pompous self-important mathematician, so you can just laugh it all off – but it didn't click for me. It's could be
 that humour markers were lost in time, the 60s were another country after all. Anyways, I didn't enjoy it very much,
 even though parts of it – the mechanical Pope! – were creative and neat.

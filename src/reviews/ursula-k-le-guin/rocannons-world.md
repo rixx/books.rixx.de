@@ -21,4 +21,4 @@ review:
   rating: 2
 ---
 
-As opposed to most Le Guin books, this one did not work for me. Maybe I was too distracted by the different species on the planet, or the odd pacing, or … I don't know. The ending nearly raised the book to 3/5, but not quite.
+As opposed to most Le Guin books, this one did not work for me. I was distracted by the different species on the planet, and the pacing was off, and there's something I can't name. The ending nearly raised the book to 3/5, but not quite.

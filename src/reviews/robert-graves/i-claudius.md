@@ -30,8 +30,8 @@ review:
 
 This book has been languishing on my to-read pile for nearly two years, and when I saw it mentioned in [Among
 Others](https://books.rixx.de/reviews/2020/among-others), I was reminded of it and plunged into it. I'm a bit of a
-history nerd, but I never got too much into Roman history beyond the basics: Maybe nine years of learning Latin left me
-scarred, or maybe it just felt a bit icky because I mostly see military history fans being into it. Pre-imperial Rome
+history nerd, but I never got too much into Roman history beyond the basics: Nine years of learning Latin left me
+scarred, and it just felt a bit icky because I mostly see military history fans being into it. Pre-imperial Rome
 is fun though, and then later East Rome, too, because who can resist a good collapse?
 
 Whatever the case, I approached this book with a healthy dose of ignorance about Roman emperors. "I, Claudius" is the

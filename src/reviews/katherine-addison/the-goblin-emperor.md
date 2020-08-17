@@ -28,14 +28,14 @@ review:
   did_not_finish: false
   rating: 4
   tldr: Fun, well-written Fantasy with strong characters and actual development. A
-    bit predictable maybe, but the setting and writing make up for it.
+    bit predictable, but the setting and writing make up for it.
 social:
   mastodon:
     datetime: 2020-07-04 23:32:47.377242
     id: '104457723394589441'
     in_reply_to: '104457718493334932'
     text: '29/ The Goblin Emperor by Katherine Addison. Fun, well-written Fantasy
-      with strong characters and actual development. A bit predictable maybe, but
+      with strong characters and actual development. A bit predictable, but
       the setting and writing make up for it.
 
       https://books.rixx.de/reviews/2020/the-goblin-emperor/ #rixxReads'
@@ -45,17 +45,17 @@ social:
     id: '1279528605970825223'
     in_reply_to: '1279528292559831041'
     text: '29/ The Goblin Emperor by Katherine Addison. Fun, well-written Fantasy
-      with strong characters and actual development. A bit predictable maybe, but
+      with strong characters and actual development. A bit predictable, but
       the setting and writing make up for it.
 
       https://books.rixx.de/reviews/2020/the-goblin-emperor/'
 ---
 
-Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, maybe, and a
+Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, and a
 fairly large cast, but still a good read – and that's saying something for a novel that may be Fantasy, but has not the
 least bit adventure in it, instead going for ALL the politics.
 
 What I liked best about this book is how everybody in there is a *person*. Not necessarily a good person, oh no! But
-there are good people, and there are people who try to be good, and people who maybe occasionally try to be good but
+there are good people, and there are people who try to be good, and people who occasionally try to be good but
 mostly try to be powerful – but they are all very much themselves and you won't get them confused with each other even
 if the names don't stick.

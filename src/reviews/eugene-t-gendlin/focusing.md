@@ -50,7 +50,7 @@ hard to get through the material. So, spoilers, here is their methodology:
 2. Choose the problem you want to work on. Keep an emotional distance and instead figure out how your body feels when
    concentrating on that problem (this will be uncomfortable). Disregard your inner monologue (i.e. analysis, guilt,
    etc.).
-3. Focus on finding the word (or maybe a very short phrase) that *exactly* describes your *feeling* regarding the
+3. Focus on finding the word (or a very short phrase) that *exactly* describes your *feeling* regarding the
    problem. You'll notice when you hit on the right one, because your feeling will change (usually ease). This will take
    a while.
 4. Compare the word/image you found in the last step and compare them with the feeling you found and defined in the
@@ -63,7 +63,7 @@ hard to get through the material. So, spoilers, here is their methodology:
 6. Accept the answers you find, without judgement. You can always decide to disagree with them later, but you have to
    accept them without judgement first.
 
-The first step is a bit like unfocused meditation, maybe even metta meditation. I liked the question "How would my body
+The first step is a bit like unfocused meditation or metta meditation. I liked the question "How would my body
 feel if this problem was somehow solved?" as an entrypoint to exploring a problem. The other steps are more focused
 meditation, and all involve being calm, slightly distanced, and taking some time (at least half a minute or a minute) of
 waiting for answers to show up. Not terribly exciting, and worse for the fact that it sees itself as more of a therapy

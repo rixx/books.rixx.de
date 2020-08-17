@@ -35,6 +35,6 @@ review:
 
 I'm seriously impressed – **Words of Radiance** doesn't come with the usual drop or lull second volumes tend to bring. It advances the plot *and* the worldbuilding *and* the character development at a great pace. While we got the backstory of one major POV character, Kaladin, in the first volume, we get more backstory to the other major POV character, Shannan. The worldbuilding tells us more about the past of the various nations and their lore, but also on day-to-day life in different roles, and how gender roles play out and came to be. All of this is well-written (though the prose is more of a functional carrier of the content), and well-paced, and absolutely worth reading. Good thing there is another volume of **The Stormlight Archive** waiting for me.
 
-… Maybe at a bit less bulk or a bit more development, though?
+… Hopefully with a bit less bulk or a bit more development, though?
 
 Edit: Downgraded to three stars after reading the pornokitsch review (<a target="_blank" href="https://www.pornokitsch.com/2015/07/words-of-radiance-by-brandon-sanderson.html" rel="nofollow">https://www.pornokitsch.com/2015/07/w...</a>) and considering the racial subtext.

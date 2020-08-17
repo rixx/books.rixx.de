@@ -26,8 +26,8 @@ review:
 ---
 
 This is a very nice little book, filled with Faerie and language that is exceedingly ornate but never quite pretentious.
-And it's a modern fairy tale at that - September, the protagonist, didn't grow too close to my heart (maybe I'm too old
-for that), but the narrator did, and maybe that is good enough.
+And it's a modern fairy tale at that - September, the protagonist, didn't grow too close to my heart, but the narrator
+did, and that is good enough.
 
 ## Further Reading
 

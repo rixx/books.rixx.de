@@ -27,7 +27,7 @@ review:
   rating: 4
 ---
 
-Désirée got me started on serious historical fiction – or maybe that honour goes to [Klaus
+Désirée got me started on serious historical fiction – this, or [Klaus
 Kordon](/klaus-kordon/die-roten-matrosen/), but it's a close race. Désirée is the true tale of Désirée Clary, told in
 the form of her fictional diary.
 

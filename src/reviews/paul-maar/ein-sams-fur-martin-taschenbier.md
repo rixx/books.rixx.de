@@ -36,7 +36,7 @@ review:
 
 I don't have many memories of the third Sams book. I think I had more pity for Martin than for his father, because kids
 being bullied was relatable, whereas adults who were bullied looked weird and even contemptuous to me. But at the same
-time, I think both Martin and his father were self-inserts, and Paul Maar just is a better adult than kid. Or maybe he
+time, I think both Martin and his father were self-inserts, and Paul Maar just is a better adult than kid. Or he
 just had forgotten about being a kid.
 
 ## Further Reading

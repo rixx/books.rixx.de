@@ -41,7 +41,7 @@ It exists in an interesting intersection. It accepts the premises on [shame and 
 Brown](https://books.rixx.de/reviews/2019/daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead),
 and possibly explains the self-determination parts of [Courage to be
 Disliked](https://books.rixx.de/reviews/2020/the-courage-to-be-disliked) better than that book did, and then, gleefully,
-suggests that maybe you should lean the fuck in.
+suggests that you should lean the fuck in.
 
 This is what is good about the book: It makes its point very clearly, repeatedly, and in a way that will allow you to
 apply it confidently. It includes a variety of strategies and methods of applying it. And, most notably, it includes a

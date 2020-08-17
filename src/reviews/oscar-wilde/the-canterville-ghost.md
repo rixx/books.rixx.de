@@ -33,7 +33,7 @@ It feels a bit like comparing the two books – Yankee and Canterville – is un
 meant to be fun, both contrast British and American attitudes in not-quite-serious ways. One is a short story and the
 other drags on forever, but that's the author's choice, in the end. Both Wilde and Twain are funny and quotable, but at
 least from these two books, Wilde's wit appears to me both sharper and more forgiving (when he feels like it, at least).
-Maybe it's just that Twain goes out of his way to make the obvious jokes and then goes further, whereas Wilde goes out
+Twain goes out of his way to make the obvious jokes and then goes further, whereas Wilde goes out
 of his way to skip the obvious jokes.
 
 The last time I read The Canterville Ghost, I tried to follow up with Dorian, and gave up pretty soon. I might want to

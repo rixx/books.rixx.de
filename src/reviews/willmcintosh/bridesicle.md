@@ -17,4 +17,4 @@ review:
   rating: 2
 ---
 
-Good title. Sadly, [Bridesicle](<a target="_blank" href="http://will.tip.dhappy.org/blog/Profit-Donation%20Funding/.../book/by/Will%20McIntosh/Bridesicle/Will%20McIntosh%20-%20Bridesicle.html" rel="nofollow">http://will.tip.dhappy.org/blog/Profi...</a>) by *Will McIntosh* is not as good as its title – cryo facilities where people can be revived by prospective partners. He tries to capture the horror of it all, but (maybe due to it being so short) it fell flat for me.
+Good title. Sadly, [Bridesicle](<a target="_blank" href="http://will.tip.dhappy.org/blog/Profit-Donation%20Funding/.../book/by/Will%20McIntosh/Bridesicle/Will%20McIntosh%20-%20Bridesicle.html" rel="nofollow">http://will.tip.dhappy.org/blog/Profi...</a>) by *Will McIntosh* is not as good as its title – cryo facilities where people can be revived by prospective partners. He tries to capture the horror of it all, but it fell flat for me.

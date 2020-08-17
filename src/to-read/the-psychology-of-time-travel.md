@@ -15,4 +15,4 @@ plan:
   date_added: '2019-03-09'
 ---
 
-time travel maybe done well? Never going to give up hope.
+time travel possibly done well? Never going to give up hope.

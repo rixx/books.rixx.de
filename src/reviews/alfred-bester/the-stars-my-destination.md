@@ -26,4 +26,9 @@ review:
   rating: 3
 ---
 
-The Stars My Destination by *Alfred Bester* is a scifi classic, and most of those don't work for me. This one was better than average, but I still felt like I was in a weird dream. Maybe it's just that my tolerance for people behaving horribly and/or stupidly is pretty low at the moment. I enjoyed the exploration of what the power of personal teleportation at a whim would do to society, and I laughed at the outrageously absurd parts of the novel, but the middle part felt like a drag, not due to lack of action, but due to the characters being weird/horrible/stupid or alternating between those three in rapid succession.
+The Stars My Destination by *Alfred Bester* is a scifi classic, and most of those don't work for me. This one was better
+than average, but I still felt like I was in a weird dream. I have a low tolerance for people behaving horribly and/or
+stupidly at the moment, which is certainly part of it. I enjoyed the exploration of what the power of personal
+teleportation at a whim would do to society, and I laughed at the outrageously absurd parts of the novel, but the middle
+part felt like a drag, not due to lack of action, but due to the characters being weird/horrible/stupid or alternating
+between those three in rapid succession.

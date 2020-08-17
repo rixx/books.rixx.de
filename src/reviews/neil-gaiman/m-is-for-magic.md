@@ -36,5 +36,5 @@ Again - Neil Gaiman can write short stories like the best of them.
  - Chivalry: *So* lovely, *so* English, and not about the Holy Grail at all.
  - The Price: Wonderful dark story - who doesn't want to believe that a certain black cat can save us from the devil?
  - How to Talk to Girls at Parties: Knew that one already, was as lyrical as I remembered it to be.
- - Sunbird: I really love this story, and maybe that's why the Ponti Bridge didn't work for me - it was similar, but not quite the same.
+ - Sunbird: I really love this story, and that's why the Ponti Bridge didn't work for me - it was similar, but not quite the same.
  - The Witch's Headstone: Well, it's the Graveyard Book short story and I adore that book.
