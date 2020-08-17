@@ -11,12 +11,12 @@ book:
   series: Jean le Flambeur
   series_position: '2'
   slug: the-fractal-prince
-  spine_color: '#c3bd9a'
+  spine_color: '#c1bb99'
   tags:
   - scifi
   title: The Fractal Prince
 plan:
-  date_added: 2020-08-13
+  date_added: 2020-08-18
 ---
 
-Follows The Quantum Thief, which I enjoyed very much
+The Quantum Thief was amazing. I have no idea if The Fractal Prince will be similar or completely different.

@@ -23,6 +23,8 @@ book:
 plan:
   date_added: '2016-05-18'
 related_books:
+- book: hannu-rajaniemi/the-quantum-thief
+  text: Another fast-paced fun heist story with strong world-building, the same energy just in scifi.
 - book: scott-lynch/red-seas-under-red-skies
   text: The next book in the series.
 review:
