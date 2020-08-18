@@ -17,7 +17,7 @@ book:
   tags:
   - nonfiction
   - psychology
-  title: 'Descartes'' Error'
+  title: Descartes' Error
 plan:
   date_added: '2020-04-17'
 review:
@@ -25,7 +25,28 @@ review:
   - 2020-04-18
   did_not_finish: false
   rating: 4
-  tldr: Not so groundbreaking now as it was 25 years ago when it was publised, but still a solid overview over the role of emotions in human thinking and reasoning.
+  tldr: Not so groundbreaking now as it was 25 years ago when it was publised, but
+    still a solid overview over the role of emotions in human thinking and reasoning.
+social:
+  mastodon:
+    datetime: 2020-08-18 01:18:39.561264
+    id: '104707281338767793'
+    in_reply_to: '104707187610202771'
+    text: '54/ Descartes'' Error by António R. Damásio. Not so groundbreaking now
+      as it was 25 years ago when it was publised, but still a solid overview over
+      the role of emotions in human thinking and reasoning.
+
+      https://books.rixx.de/antonio-r-damasio/descartes-error/ #rixxReads'
+  number: 54
+  twitter:
+    datetime: 2020-08-18 01:18:39.091032
+    id: '1295500314712449024'
+    in_reply_to: '1295494315960086528'
+    text: '54/ Descartes'' Error by António R. Damásio. Not so groundbreaking now
+      as it was 25 years ago when it was publised, but still a solid overview over
+      the role of emotions in human thinking and reasoning.
+
+      https://books.rixx.de/antonio-r-damasio/descartes-error/'
 ---
 
 Didn't hold much new information for me, because its contents have grown so accepted and foundational in the 25 years since publication. Nevertheless it provides a solid fundamental overview in a very readable way, despite also dealing in a bit of technical details.

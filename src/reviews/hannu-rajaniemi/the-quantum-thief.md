@@ -13,6 +13,7 @@ book:
   slug: the-quantum-thief
   spine_color: '#d3473f'
   tags:
+  - five-stars
   - scifi
   title: The Quantum Thief
 plan:
