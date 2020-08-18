@@ -38,11 +38,7 @@
         </div>
       {% endif %}
       {% if not review_text and review.text %}
-        {% if not show_full_review and review.text|length > 200 %}
-          {% set review_text = review.text|strip_markdown|truncate(200, False, "…") %}
-        {% else %}
-          {% set review_text = review.text %}
-        {% endif %}
+        {% set review_text = review.first_paragraph %}
       {% endif %}
       {% if review_text %}
       <div class="book-review{% if not has_rating %} book-review-padded{% endif %}">

@@ -130,6 +130,10 @@ class Review:
     def id(self):
         return f"{self.author_slug}/{self.metadata['book']['slug']}"
 
+    @property
+    def first_paragraph(self):
+        return self.text.strip().split("\n\n")[0] if self.text else ""
+
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
         entry_type = self.path.parent.name
