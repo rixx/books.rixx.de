@@ -20,6 +20,7 @@ review:
   date_read:
   - 2020-04-22
   rating: 3
+  tldr: Short story, showing off chemistry knowledge the way Umberto Eco shows off literature knowledge.
 ---
 
 A nice Stross short story. Interesting how different cultures show off about different things, but in completely similar
