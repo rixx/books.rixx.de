@@ -23,5 +23,9 @@ review:
   date_read:
   - 2005-03-01
   did_not_finish: false
+  proofed: true
   rating: 3
 ---
+
+Twain humour and snarky class commentary – I wouldn't swear that it holds up to a re-read, but I liked it a lot when I
+was young.

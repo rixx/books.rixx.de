@@ -20,7 +20,26 @@ review:
   date_read:
   - 2020-04-22
   rating: 3
-  tldr: Short story, showing off chemistry knowledge the way Umberto Eco shows off literature knowledge.
+  tldr: Short story, showing off chemistry knowledge the way Umberto Eco shows off
+    literature knowledge.
+social:
+  mastodon:
+    datetime: 2020-08-19 00:25:07.409210
+    id: '104712733144354976'
+    in_reply_to: '104710337634098715'
+    text: '56/ A Tall Tail by Charles Stross. Short story, showing off chemistry knowledge
+      the way Umberto Eco shows off literature knowledge.
+
+      https://books.rixx.de/charles-stross/a-tall-tail/ #rixxReads'
+  number: 56
+  twitter:
+    datetime: 2020-08-19 00:25:06.988242
+    id: '1295849229466963968'
+    in_reply_to: '1295695917299961857'
+    text: '56/ A Tall Tail by Charles Stross. Short story, showing off chemistry knowledge
+      the way Umberto Eco shows off literature knowledge.
+
+      https://books.rixx.de/charles-stross/a-tall-tail/'
 ---
 
 A nice Stross short story. Interesting how different cultures show off about different things, but in completely similar

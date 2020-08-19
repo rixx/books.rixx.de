@@ -24,4 +24,26 @@ review:
   - 2020-04-22
   did_not_finish: false
   rating: 4
+  tldr: His way home after the end of WW2, from Auschwitz to Italy. So matter-of-fact
+    it reads as deadpan in a Europe that consists only of leftovers and confusion.
+social:
+  mastodon:
+    datetime: 2020-08-19 18:33:56.564666
+    id: '104717014558922786'
+    in_reply_to: '104712733144354976'
+    text: '57/ The Reawakening by Primo Levi. His way home after the end of WW2, from
+      Auschwitz to Italy. So matter-of-fact it reads as deadpan in a Europe that consists
+      only of leftovers and confusion.
+
+      https://books.rixx.de/primo-levi/the-reawakening/ #rixxReads'
+  number: 57
+  twitter:
+    datetime: 2020-08-19 18:33:56.241591
+    id: '1296123240813940737'
+    in_reply_to: '1295849229466963968'
+    text: '57/ The Reawakening by Primo Levi. His way home after the end of WW2, from
+      Auschwitz to Italy. So matter-of-fact it reads as deadpan in a Europe that consists
+      only of leftovers and confusion.
+
+      https://books.rixx.de/primo-levi/the-reawakening/'
 ---

@@ -32,8 +32,18 @@ related_books:
 review:
   date_read:
   - 2018-09-29
+  - 2020-08-19
   did_not_finish: false
   rating: 5
 ---
 
-Barrayar was another truly brilliant entry in *Lois McMaster Bujold*'s **Vorkosigan Saga**. On just a few pages, we the reader is overrun with witty, wonderful characters, who face absurdly horrible problems, and deal with them in very human ways. It strikes a perfect balance between bantering charm and deep thoughts and feelings amid fast-paced action. Having read other parts of the Vorkosigan Saga improves the book even further by having more context, but it works well even on its own. I'm so thankful that this is not a short series and that I have more ahead of me – Cordelia is a POV character that's even cooler than Miles himself.
+Update: This book is a perfect read after [Gentleman Jole and the Red
+Queen](https://books.rixx.de/lois-mcmaster-bujold/gentleman-jole-and-the-red-queen). Sadly, *Gentleman Jole* is also the
+perfect read after *Barrayar*, somebody send help, please?
+
+Barrayar was another truly brilliant entry in *Lois McMaster Bujold*'s **Vorkosigan Saga**. On just a few pages, we the
+reader is overrun with witty, wonderful characters, who face absurdly horrible problems, and deal with them in very
+human ways. It strikes a perfect balance between bantering charm and deep thoughts and feelings amid fast-paced action.
+Having read other parts of the Vorkosigan Saga improves the book even further by having more context, but it works well
+even on its own. I'm so thankful that this is not a short series and that I have more ahead of me – Cordelia is a POV
+character even cooler than Miles.
