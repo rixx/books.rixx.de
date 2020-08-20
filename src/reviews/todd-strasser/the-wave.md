@@ -23,5 +23,8 @@ review:
   date_read:
   - 2006-11-01
   did_not_finish: false
+  proofed: true
   rating: 3
 ---
+
+Given a choice among classics in the "scaring the youngsters off bad politics" genre, I prefer *The Wave* to *1986*.

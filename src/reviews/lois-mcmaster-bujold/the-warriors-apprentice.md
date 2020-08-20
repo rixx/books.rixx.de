@@ -29,6 +29,7 @@ related_books:
 review:
   date_read:
   - 2018-02-23
+  - 2020-08-19
   did_not_finish: false
   rating: 5
 ---
@@ -36,3 +37,5 @@ review:
 Wow! If you're new to the series, … start here. This book has all the fun, and action, and, y'know, forwards momentum.
 
 (Our beloved hero is crippled, but clever, and builds a mercenary army by accident. Yep.)
+
+*Edit:* Just as fun on my second read, though definitely more painful.

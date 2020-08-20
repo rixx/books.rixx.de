@@ -32,4 +32,28 @@ review:
   date_read:
   - 2020-04-23
   rating: 3
+  tldr: An adorable Discworld book, really. As Ankh-Morpork adventures go, definitely
+    better than some of the very early ones.
+social:
+  mastodon:
+    datetime: 2020-08-20 20:52:00.377541
+    id: '104723219756904519'
+    in_reply_to: '104717014558922786'
+    text: '58/ The World of Poo by Terry Pratchett. An adorable Discworld book, really.
+      As Ankh-Morpork adventures go, definitely better than some of the very early
+      ones.
+
+      https://books.rixx.de/terry-pratchett/the-world-of-poo-discworld/ #rixxReads'
+  number: 58
+  twitter:
+    datetime: 2020-08-20 20:51:59.838543
+    id: '1296520372515491841'
+    in_reply_to: '1296123240813940737'
+    text: '58/ The World of Poo by Terry Pratchett. An adorable Discworld book, really.
+      As Ankh-Morpork adventures go, definitely better than some of the very early
+      ones.
+
+      https://books.rixx.de/terry-pratchett/the-world-of-poo-discworld/'
 ---
+
+An adorable Discworld book, really. As Ankh-Morpork adventures go, definitely better than some of the very early ones.
