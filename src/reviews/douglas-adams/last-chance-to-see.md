@@ -24,5 +24,8 @@ review:
   date_read:
   - 2011-08-01
   did_not_finish: false
+  proofed: true
   rating: 3
 ---
+
+Douglas Adams presents: Humans destroying the Earth (for a change). As fun as a book on this topic can be.

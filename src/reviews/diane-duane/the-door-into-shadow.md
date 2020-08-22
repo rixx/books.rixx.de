@@ -27,6 +27,29 @@ review:
   - 2020-04-30
   did_not_finish: false
   rating: 4
+  tldr: Brutal second part, but in a good way. Extremely good character-building for
+    the protagonists, and not grim or depressing despite the unrelenting plot.
+social:
+  mastodon:
+    datetime: 2020-08-22 20:22:34.450291
+    id: '104734428646483346'
+    in_reply_to: '104723696067970248'
+    text: '61/ The Door Into Shadow by Diane Duane. Brutal second part, but in a good
+      way. Extremely good character-building for the protagonists, and not grim or
+      depressing despite the unrelenting plot.
+
+      https://books.rixx.de/diane-duane/the-door-into-shadow/ #rixxReads'
+  number: 61
+  twitter:
+    datetime: 2020-08-22 20:22:34.151350
+    id: '1297237742418571264'
+    in_reply_to: '1296550857195040769'
+    text: '61/ The Door Into Shadow by Diane Duane. Brutal second part, but in a good
+      way. Extremely good character-building for the protagonists, and not grim or
+      depressing despite the unrelenting plot.
+
+      https://books.rixx.de/diane-duane/the-door-into-shadow/'
 ---
 
-Brutal, in a good way. Incredible character-building. Story arc is so Duane that you'd recognise it anywhere, but let's not pretend that this is a bad thing.
+Brutal, in a good way. Incredible character-building. Story arc is so Duane that you'd recognise it anywhere, but let's
+not pretend that this is a bad thing.

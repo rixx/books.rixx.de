@@ -28,5 +28,10 @@ review:
   date_read:
   - 2017-02-03
   did_not_finish: false
+  proofed: true
   rating: 4
 ---
+
+First time's an ~~accident~~ unfortunate event, second time's establishing a theme: Adults are either criminally
+incompetent or evil, good adults die, everything is terrible, but you get to expand your vocabulary. Somebody warn
+readers that things are only going to go downhill from here – oh wait.

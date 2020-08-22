@@ -22,7 +22,9 @@ book:
   title: The Magicians
 plan:
   date_added: '2018-03-19'
-related_books: []
+related_books:
+- book: max-barry/lexicon
+  text: Also a current-time grey morality magic school in a depressing and grim world, NLP edition.
 review:
   date_read:
   - 2020-05-05
