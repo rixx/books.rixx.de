@@ -20,5 +20,11 @@ review:
   date_read:
   - 2007-09-01
   did_not_finish: false
+  proofed: true
   rating: 2
 ---
+
+Read because the title sounded so intriguing. The plot requires you to understand some of the most convoluted absurd
+Greek family soap drama first. Iphigenie starts out as bored and frustrated, which felt very relatable. The rest is more
+of "people talk about people and hilariously don't know who they are", ad infinitum. Plus a lot of hamletian waffling
+between duty and inclination – ugh, really.
