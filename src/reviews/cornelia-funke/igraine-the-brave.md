@@ -24,5 +24,10 @@ review:
   date_read:
   - 2004-02-01
   did_not_finish: false
+  proofed: true
   rating: 4
 ---
+
+Igraine is a very sweet book for kids. Igraine wants to be a knight, not a boring wizard like everybody else in her
+family, and she gets her wish – and has to save her family in the process. A bit saccharine in the general direction,
+possibly, but the execution borders on dry and is just generally sparking joy.
