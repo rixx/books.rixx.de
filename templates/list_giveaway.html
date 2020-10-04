@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <h2>Books I want to get rid of</h2>
+
+  <select id="language-select">
+    <option value="all">🗺 All</option>
+    <option value="de">🇩🇪 Deutsch</option>
+    <option value="en">🇬🇧 English</option>
+    <option value="hu">🇭🇺 Magyarul</option>
+  </select>
+
+  <script>
+    document.querySelector("#language-select").addEventListener("change", (ev => {
+      const language = document.querySelector("#language-select").value
+      if (language == "all") {
+        document.querySelectorAll(".book-card").forEach(element => {
+          element.style.display = "block"
+        })
+      } else {
+        document.querySelectorAll(".book-card").forEach(element => {
+          if (element.dataset.language === language) {
+            element.style.display = "block"
+          } else {
+            element.style.display = "none"
+          }
+        })
+      }
+    }))
+  </script>
+
+  {% set shelf_books = all_giveaway %}
+  {% set full_length = True %}
+  {% set show_lang = True %}
+  {% include "_shelf.html" %}
+
+  {% for review in all_giveaway %}
+  {% include "_book_card.html" %}
+  {% endfor %}
+
+{% endblock %}
