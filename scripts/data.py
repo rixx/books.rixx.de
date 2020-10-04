@@ -80,6 +80,13 @@ def fix_page_number(review, google_data, openlib_data):
     review.metadata["book"]["pages"] = max([review_pages, google_pages, openlib_pages])
 
 
+def fix_language(review, google_data, openlib_data):
+    review_language = review.metadata["book"].get("language", "") or ""
+    google_language = google_data.get("language", "") or ""
+    if review_language or google_language:
+        review.metadata["book"]["language"] = google_language or review_language
+
+
 def fix_dimensions(review, google_data, openlib_data):
     review_dimensions = review.metadata["book"].get("dimensions") or {}
     google_dimensions = google_data.get("dimensions") or {}
@@ -133,6 +140,7 @@ def update_book_data(review):
     fix_publication_year(review, google_data, openlib_data)
     fix_page_number(review, google_data, openlib_data)
     fix_dimensions(review, google_data, openlib_data)
+    fix_language(review, google_data, openlib_data)
     review.save()
 
 

@@ -135,12 +135,12 @@ class Review:
         return self.text.strip().split("\n\n")[0] if self.text else ""
 
     def entry_type_from_path(self):
-        valid_entry_types = ("reviews", "to-read")
+        valid_entry_types = ("reviews", "to-read", "giveaway")
         entry_type = self.path.parent.name
         if entry_type not in valid_entry_types:
             entry_type = self.path.parent.parent.name
         if entry_type not in valid_entry_types:
-            raise Exception(f"Wrong path for review: {entry_type}")
+            raise Exception(f"Wrong path for review: {entry_type} for {self.path}")
         return entry_type
 
     def change_entry_type(
@@ -166,8 +166,8 @@ class Review:
     def get_path(self):
         if self.entry_type == "reviews":
             out_dir = f"reviews/{self.author_slug}"
-        elif self.entry_type == "to-read":
-            out_dir = "to-read"
+        elif self.entry_type in ("to-read", "giveaway"):  # Flat directories
+            out_dir = self.entry_type
         core_path = Path(out_dir) / self.metadata["book"]["slug"]
         out_path = Path("src") / (str(core_path) + ".md")
         out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -306,9 +306,10 @@ class Review:
         }
 
     def find_goodreads_cover(self, force_new=False):
+        url = None
         if "goodreads.com" in self.metadata["book"]["cover_image_url"]:
             url = self.metadata["book"]["cover_image_url"]
-        else:
+        elif self.goodreads_url:
             data = goodreads.get_book_data(self.goodreads_url)
             url = data["cover_image_url"]
         if url:
@@ -413,12 +414,11 @@ def get_book_from_input():
     questions = [
         inquirer.Text("title", message="What’s the title of the book?"),
         inquirer.Text("author", message="Who’s the author?"),
-        inquirer.Text("publication_year", message="When was it published?"),
+        # inquirer.Text("publication_year", message="When was it published?"),
         inquirer.Text("cover_image_url", message="What’s the cover URL?"),
-        inquirer.Text("cover_description", message="What’s the cover?"),
         inquirer.Text("isbn10", message="Do you know the ISBN-10?"),
         inquirer.Text("isbn13", message="Do you know the ISBN-13?"),
-        inquirer.Number("pages", message="How many pages does the book have?"),
+        # inquirer.Number("pages", message="How many pages does the book have?"),
         inquirer.List(
             "series",
             message="Is this book part of a series?",
@@ -480,7 +480,7 @@ def create_book(search_term=None):
     )
     entry_type = inquirer.list_input(
         message="What type of book is this?",
-        choices=[("One I’ve read", "reviews"), ("One I want to read", "to-read"),],
+        choices=[("One I’ve read", "reviews"), ("One I want to read", "to-read"), ("One I'm giving away", "giveaway")],
         carousel=True,
     )
 
@@ -498,32 +498,46 @@ def create_book(search_term=None):
     review = Review(metadata=metadata, text="", entry_type=entry_type)
     if review.goodreads_url:
         print(review.goodreads_url)
-    review.update_tags()
-    review.find_cover(force_new=True)
+    # review.update_tags()
+    # todo remove this
+    review.metadata["book"]["language"] = inquirer.text(message="Language", default="de")
+    if review.metadata["book"]["cover_image_url"]:
+        review.download_cover()
+    else:
+        review.find_cover(force_new=True)
     review.show_cover()
+    if not metadata.get("cover_image_url"):
+        cover_change = inquirer.list_input(
+            message="Do you want to change the cover?",
+            choices=[("Yes", True), ("No", False)],
+            carousel=True,
+            default=False,
+        )
+        if cover_change:
+            _change_cover(review, push_to_goodreads=False)
     review.save()
 
-    review.edit()
+    # review.edit()
 
-    push_to_goodreads = inquirer.list_input(
-        message="Do you want to push this change to Goodreads?",
-        choices=[("Yes", True), ("No", False)],
-        default=True,
-        carousel=True,
-    )
+    # push_to_goodreads = inquirer.list_input(
+    #     message="Do you want to push this change to Goodreads?",
+    #     choices=[("Yes", True), ("No", False)],
+    #     default=True,
+    #     carousel=True,
+    # )
 
-    if push_to_goodreads:
-        review = Review(path=review.path)  # need to reload
-        goodreads.push_to_goodreads(review)
+    # if push_to_goodreads:
+    #     review = Review(path=review.path)  # need to reload
+    #     goodreads.push_to_goodreads(review)
 
-    subprocess.check_call(
-        [
-            "git",
-            "add",
-            review.path,
-            Path("src/covers") / (review.metadata["book"].get("cover_image") or ""),
-        ]
-    )
+    # subprocess.check_call(
+    #     [
+    #         "git",
+    #         "add",
+    #         review.path,
+    #         Path("src/covers") / (review.metadata["book"].get("cover_image") or ""),
+    #     ]
+    # )
 
     if review.isbn:
         from .data import update_book_data
@@ -602,7 +616,7 @@ def _change_manually(review, push_to_goodreads):
 
 
 def _change_cover(review, push_to_goodreads):
-    old_cover_url = review.metadata["book"]["cover_image_url"]
+    old_cover_url = review.metadata["book"].get("cover_image_url")
     source = inquirer.list_input(
         message="Where do you want to retrieve the cover image from?",
         choices=[

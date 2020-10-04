@@ -93,7 +93,11 @@ def _create_new_thumbnail(src_path, dst_path):
 
     if im.width > 240 and im.height > 240:
         im.thumbnail((240, 240))
-    im.save(dst_path)
+    try:
+        im.save(dst_path)
+    except Exception as e:
+        print(f"Could not save thumbnail for {src_path}!")
+        raise
 
 
 def _create_new_square(src_path, square_path):
@@ -317,6 +321,7 @@ def build_site(**kwargs):
     this_year = dt.datetime.now().strftime("%Y")
     review_lookup = {review.id: review for review in books.load_reviews()}
     all_plans = list(books.load_to_read())
+    all_giveaway = list(books._load_entries(dirpath="src/giveaway"))
 
     all_reviews = sorted(
         review_lookup.values(), key=lambda x: x.relevant_date, reverse=True
@@ -521,6 +526,18 @@ def build_site(**kwargs):
         all_plans=all_plans,
         title="Books i want to read",
         active="to-read",
+    )
+
+    # Render the giveaway list
+    for review in all_giveaway:
+        review.spine = books.Spine(review)
+
+    render(
+        "list_giveaway.html",
+        "giveaway/index.html",
+        all_giveaway=sorted(all_giveaway, key=lambda review: review.metadata["book"]["author"]),
+        title="Books I want to get rid of",
+        active=None,
     )
 
     # Render feeds
