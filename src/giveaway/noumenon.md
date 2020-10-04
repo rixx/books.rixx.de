@@ -1,6 +1,7 @@
 ---
 book:
   author: Marina J.lostetter
+  cover_image: noumenon.jpg
   isbn13: '9780008223397'
   language: en
   slug: noumenon

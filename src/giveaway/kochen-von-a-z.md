@@ -2,7 +2,7 @@
 book:
   author: Oetker
   isbn13: '9783767005624'
-  language: en
+  language: de
   slug: kochen-von-a-z
   title: Kochen Von A-z
 plan:

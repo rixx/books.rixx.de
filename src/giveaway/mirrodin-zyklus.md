@@ -2,7 +2,7 @@
 book:
   author: Jess Lebow
   isbn13: '9783833211195'
-  language: en
+  language: de
   slug: mirrodin-zyklus
   title: Mirrodin-Zyklus
 plan:

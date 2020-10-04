@@ -2,7 +2,7 @@
 book:
   author: Autorengruppe
   isbn13: '9783468730153'
-  language: ''
+  language: 'de'
   slug: englisch
   title: Englisch
 plan:

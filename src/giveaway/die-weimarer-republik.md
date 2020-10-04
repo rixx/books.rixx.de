@@ -1,6 +1,7 @@
 ---
 book:
   author: Gunther Mai
+  cover_image: die-weimarer-republik.jpg
   isbn13: '9783406562778'
   language: de
   slug: die-weimarer-republik
