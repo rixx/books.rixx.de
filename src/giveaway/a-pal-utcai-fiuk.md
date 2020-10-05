@@ -16,4 +16,5 @@ book:
   language: hu
 plan:
   date_added: 2020-10-04
+  gone: µ
 ---
