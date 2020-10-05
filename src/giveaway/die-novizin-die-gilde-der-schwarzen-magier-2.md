@@ -14,4 +14,5 @@ book:
   title: 'Die Novizin (Die Gilde der Schwarzen Magier, #2)'
 plan:
   date_added: '2020-10-04'
+  gone: ю
 ---

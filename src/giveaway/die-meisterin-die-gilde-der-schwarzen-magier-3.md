@@ -16,4 +16,5 @@ book:
   title: 'Die Meisterin (Die Gilde der Schwarzen Magier, #3)'
 plan:
   date_added: '2020-10-04'
+  gone: ю
 ---
