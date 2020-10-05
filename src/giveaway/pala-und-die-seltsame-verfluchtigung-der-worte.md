@@ -8,4 +8,5 @@ book:
   title: Pala und die seltsame Verflüchtigung der Worte
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

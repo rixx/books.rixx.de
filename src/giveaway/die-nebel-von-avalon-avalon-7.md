@@ -10,7 +10,8 @@ book:
   publication_year: '1988'
   slug: die-nebel-von-avalon-avalon-7
   spine_color: '#92a0b2'
-  title: 'Die Nebel von Avalon'
+  title: Die Nebel von Avalon
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

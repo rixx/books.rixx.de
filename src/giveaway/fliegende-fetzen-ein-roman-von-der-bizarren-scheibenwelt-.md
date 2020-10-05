@@ -10,4 +10,5 @@ book:
   title: Fliegende Fetzen. Ein Roman Von Der Bizarren Scheibenwelt.
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

@@ -10,4 +10,5 @@ book:
   title: 'Mord im Gurkenbeet (Flavia de Luce, #1)'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

@@ -10,4 +10,5 @@ book:
   title: Mythen und Legenden der Scheibenwelt
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

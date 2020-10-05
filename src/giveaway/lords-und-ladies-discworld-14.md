@@ -10,4 +10,5 @@ book:
   title: 'Lords und Ladies (Discworld, #14)'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

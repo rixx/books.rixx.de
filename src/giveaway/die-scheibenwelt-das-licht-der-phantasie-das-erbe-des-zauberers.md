@@ -10,4 +10,5 @@ book:
   title: 'Die Scheibenwelt: Das Licht der Phantasie/Das Erbe des Zauberers'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

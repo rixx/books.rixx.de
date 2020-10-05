@@ -14,4 +14,5 @@ book:
   title: Die Neuromancer-Trilogie
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

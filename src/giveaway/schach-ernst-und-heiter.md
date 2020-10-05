@@ -12,4 +12,5 @@ book:
   title: Schach – ernst und heiter
 plan:
   date_added: 2020-10-04
+  gone: χ
 ---

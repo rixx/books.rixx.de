@@ -10,4 +10,5 @@ book:
   title: Das magische Zeichen
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

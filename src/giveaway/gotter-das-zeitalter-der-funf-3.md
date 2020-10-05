@@ -10,4 +10,5 @@ book:
   title: 'Götter (Das Zeitalter der Fünf, #3)'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

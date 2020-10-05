@@ -16,4 +16,5 @@ book:
   title: The Gates of the Necronomicon
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

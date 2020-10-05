@@ -20,4 +20,5 @@ book:
   title: Mark of Chaos (Warhammer)
 plan:
   date_added: 2020-10-04
+  gone: χ
 ---

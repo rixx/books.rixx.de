@@ -10,4 +10,5 @@ book:
   title: 'Magic - The Gathering: Mirrodin-zyklus 1. Die Monde Von Mirrodin.'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

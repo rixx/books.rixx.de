@@ -10,4 +10,5 @@ book:
   title: 'Die Seufzende Wendeltreppe (Lockwood & Co., #1)'
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---

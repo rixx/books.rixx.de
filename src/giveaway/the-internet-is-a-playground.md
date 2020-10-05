@@ -10,4 +10,5 @@ book:
   title: The Internet is a Playground
 plan:
   date_added: '2020-10-04'
+  gone: χ
 ---
