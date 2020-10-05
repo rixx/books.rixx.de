@@ -16,4 +16,5 @@ book:
   title: 'Das Känguru-Manifest (Die Känguru-Chroniken, #2)'
 plan:
   date_added: '2020-10-04'
+  gone: λ
 ---

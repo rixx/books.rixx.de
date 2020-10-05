@@ -10,4 +10,5 @@ book:
   title: 'Homo Deus: Eine Geschichte von Morgen'
 plan:
   date_added: '2020-10-04'
+  gone: λ
 ---
