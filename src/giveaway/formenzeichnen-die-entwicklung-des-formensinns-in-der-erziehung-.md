@@ -14,4 +14,5 @@ book:
   title: Formenzeichnen. Die Entwicklung des Formensinns in der Erziehung.
 plan:
   date_added: 2020-10-04
+  gone: ρ
 ---

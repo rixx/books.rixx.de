@@ -10,4 +10,5 @@ book:
   title: Duden Das große Buch der Zitate und Redewendungen, m. CD-ROM
 plan:
   date_added: '2020-10-04'
+  gone: ρ
 ---
