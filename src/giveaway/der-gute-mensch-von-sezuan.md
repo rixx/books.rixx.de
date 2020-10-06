@@ -16,4 +16,5 @@ book:
   title: Der gute Mensch von Sezuan
 plan:
   date_added: '2020-10-04'
+  gone: ч
 ---
