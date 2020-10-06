@@ -10,4 +10,5 @@ book:
   title: Computer-Forensik Hacks
 plan:
   date_added: '2020-10-04'
+  gone: ρ
 ---
