@@ -33,28 +33,41 @@
     <option value="hu">🇭🇺 Magyarul</option>
   </select>
 
+  <input type="checkbox" id="available"><label for="available">Only available books</label>
   <script>
-    document.querySelector("#language-select").addEventListener("change", (ev => {
+    const filterBooks = () => {
       const language = document.querySelector("#language-select").value
+      const onlyAvailable = document.querySelector("#available").checked
       if (language == "all") {
         document.querySelectorAll(".book-card").forEach(element => {
-          element.style.display = "block"
+          if (element.dataset.gone && onlyAvailable) {
+            element.style.display = "none"
+          } else {
+            element.style.display = "block"
+          }
         })
       } else {
         document.querySelectorAll(".book-card").forEach(element => {
-          if (element.dataset.language === language) {
-            element.style.display = "block"
-          } else {
+          if (element.dataset.gone && onlyAvailable) {
             element.style.display = "none"
+          } else {
+            if (element.dataset.language === language) {
+              element.style.display = "block"
+            } else {
+              element.style.display = "none"
+            }
           }
         })
       }
-    }))
+    }
+    document.querySelector("#language-select").addEventListener("change", filterBooks)
+    document.querySelector("#available").addEventListener("change", filterBooks)
   </script>
 
   {% set shelf_books = all_giveaway %}
   {% set full_length = True %}
   {% set show_lang = True %}
+  {% set local_link = True %}
   {% include "_shelf.html" %}
 
   {% for review in all_giveaway %}
