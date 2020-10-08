@@ -24,6 +24,9 @@ review:
   - 2018-08-18
   did_not_finish: false
   rating: 5
+related_books:
+- book: janet-kagan/hellspark
+  text: Delightful linguistics sci-fi, also rapid and fun. More practical, but also more into linguistics. Do read!
 ---
 
 It's been a long time (apart from Too Like The Lightning) that I've read a novel that felt so tailored to me like **Babel-17**. I mean, it's a queer polyamorous scifi novel where linguistics are key, even to winning space battles, which there are plenty of. I have no words. It's also been the first time in a while that a novel brought me to tears.
