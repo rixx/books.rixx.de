@@ -26,14 +26,17 @@
   de.</p>
   
 
-  <select id="language-select">
-    <option value="all">🗺 All</option>
-    <option value="de">🇩🇪 Deutsch</option>
-    <option value="en">🇬🇧 English</option>
-    <option value="hu">🇭🇺 Magyarul</option>
-  </select>
+  <div id="giveaway-filter">
+    <select id="language-select">
+      <option value="all">🗺 All</option>
+      <option value="de">🇩🇪 Deutsch</option>
+      <option value="en">🇬🇧 English</option>
+      <option value="hu">🇭🇺 Magyarul</option>
+    </select>
 
-  <input type="checkbox" id="available"><label for="available">Only available books</label>
+    <input type="checkbox" id="available"><label for="available">Only available books</label>
+    <span id="giveaway-stats">{{ available }}/{{ all_giveaway|length }} still available</span>
+  </div>
   <script>
     const filterBooks = () => {
       const language = document.querySelector("#language-select").value

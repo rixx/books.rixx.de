@@ -538,6 +538,7 @@ def build_site(**kwargs):
         all_giveaway=sorted(all_giveaway, key=lambda review: review.metadata["book"]["author"]),
         title="Books I want to get rid of",
         active=None,
+        available=len(all_giveaway) - len(list(r for r in all_giveaway if r.metadata["plan"].get("gone"))),
     )
 
     # Render feeds
