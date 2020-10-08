@@ -867,3 +867,9 @@ header a {
     border: 1px solid white;
   }
 }
+#giveaway {
+  text-align: center;
+  padding: 12px 0 8px 0;
+  background: repeating-linear-gradient(140deg, rgba(200,0,0,1) 0px 15px, rgba(250,0,0,1) 15px 30px);
+  color: white;
+}
