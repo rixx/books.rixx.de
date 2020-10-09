@@ -14,4 +14,5 @@ book:
   title: Dschinnistan Oder Auserlesene Feen  Und Geistermärchen
 plan:
   date_added: 2020-10-04
+  gone: θ
 ---

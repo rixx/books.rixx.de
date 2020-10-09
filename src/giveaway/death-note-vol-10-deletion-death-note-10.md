@@ -16,4 +16,5 @@ book:
   title: 'Death Note, Vol. 10: Deletion (Death Note, #10)'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

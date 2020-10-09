@@ -14,4 +14,5 @@ book:
   title: Die rote Zora und ihre Bande
 plan:
   date_added: '2020-10-04'
+  gone: ø
 ---

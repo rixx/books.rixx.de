@@ -16,4 +16,5 @@ book:
   title: Drums For Dummies
 plan:
   date_added: '2020-10-04'
+  gone: ð
 ---

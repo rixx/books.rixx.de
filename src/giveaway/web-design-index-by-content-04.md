@@ -16,4 +16,5 @@ book:
   title: Web Design Index by Content.04
 plan:
   date_added: '2020-10-04'
+  gone: j
 ---

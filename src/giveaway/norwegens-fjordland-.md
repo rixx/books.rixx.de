@@ -10,4 +10,5 @@ book:
   title: Norwegens Fjordland.
 plan:
   date_added: '2020-10-04'
+  gone: ι
 ---

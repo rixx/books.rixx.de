@@ -14,4 +14,5 @@ book:
   title: 'Death Note, Vol. 8: Target (Death Note, #8)'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

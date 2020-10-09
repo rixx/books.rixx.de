@@ -10,4 +10,5 @@ book:
   title: Red Team Field Manual (RTFM)
 plan:
   date_added: '2020-10-04'
+  gone: ζ
 ---

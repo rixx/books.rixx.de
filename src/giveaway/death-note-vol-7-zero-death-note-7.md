@@ -16,4 +16,5 @@ book:
   title: 'Death Note, Vol. 7: Zero (Death Note, #7)'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

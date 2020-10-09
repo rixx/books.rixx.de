@@ -16,4 +16,5 @@ book:
   title: 'Darwin''s Dangerous Idea: Evolution and the Meanings of Life'
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

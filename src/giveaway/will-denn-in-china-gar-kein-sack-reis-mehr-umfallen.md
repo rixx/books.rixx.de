@@ -10,4 +10,5 @@ book:
   title: Will denn in China gar kein Sack Reis mehr umfallen?
 plan:
   date_added: '2020-10-04'
+  gone: φ
 ---

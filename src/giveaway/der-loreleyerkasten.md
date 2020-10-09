@@ -12,4 +12,5 @@ book:
   title: Der Loreleyerkasten
 plan:
   date_added: 2020-10-04
+  gone: o
 ---

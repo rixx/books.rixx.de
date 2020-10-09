@@ -16,5 +16,6 @@ book:
   title: 'A Dance with Dragons (A Song of Ice and Fire, #5)'
 plan:
   date_added: '2020-10-04'
+  gone: ι
 ---
 Huge hardcover version.

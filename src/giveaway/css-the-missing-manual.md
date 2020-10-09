@@ -14,4 +14,5 @@ book:
   title: 'CSS: The Missing Manual'
 plan:
   date_added: '2020-10-04'
+  gone: θ
 ---

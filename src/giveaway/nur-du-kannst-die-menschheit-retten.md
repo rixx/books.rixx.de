@@ -10,4 +10,5 @@ book:
   title: Nur du kannst die Menschheit retten · Nur du kannst sie verstehen · Nur du hast den Schlüssel
 plan:
   date_added: '2020-10-04'
+  gone: ø
 ---

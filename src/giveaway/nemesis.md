@@ -14,4 +14,5 @@ book:
   title: Nemesis
 plan:
   date_added: '2020-10-04'
+  gone: j
 ---

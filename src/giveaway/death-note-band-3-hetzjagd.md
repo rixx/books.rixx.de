@@ -10,4 +10,5 @@ book:
   title: 'Death Note, Band 3: Hetzjagd'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

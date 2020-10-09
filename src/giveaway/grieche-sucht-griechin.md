@@ -18,4 +18,5 @@ book:
   title: Grieche sucht Griechin
 plan:
   date_added: 2020-10-04
+  gone: π
 ---

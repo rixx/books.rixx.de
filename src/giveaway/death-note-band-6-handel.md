@@ -10,4 +10,5 @@ book:
   title: 'Death Note, Band 6: Handel'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

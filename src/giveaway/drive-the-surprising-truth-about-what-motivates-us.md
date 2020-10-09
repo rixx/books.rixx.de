@@ -16,4 +16,5 @@ book:
   title: 'Drive: The Surprising Truth About What Motivates Us'
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

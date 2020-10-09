@@ -8,4 +8,5 @@ book:
   title: Die Revolution von 1918/19
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

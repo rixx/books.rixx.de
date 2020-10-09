@@ -16,4 +16,5 @@ book:
   title: Entertaining Mathematical Puzzles
 plan:
   date_added: '2020-10-04'
+  gone: τ
 ---

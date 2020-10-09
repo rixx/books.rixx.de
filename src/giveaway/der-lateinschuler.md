@@ -20,4 +20,5 @@ book:
   title: Der Lateinschüler
 plan:
   date_added: 2020-10-04
+  gone: φ
 ---

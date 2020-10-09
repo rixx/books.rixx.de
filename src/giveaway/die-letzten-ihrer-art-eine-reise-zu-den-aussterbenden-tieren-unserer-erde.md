@@ -16,4 +16,5 @@ book:
   title: 'Die Letzten ihrer Art: Eine Reise zu den aussterbenden Tieren unserer Erde'
 plan:
   date_added: '2020-10-04'
+  gone: ι
 ---

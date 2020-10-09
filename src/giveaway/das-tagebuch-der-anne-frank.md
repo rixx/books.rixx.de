@@ -10,4 +10,5 @@ book:
   title: Das Tagebuch der Anne Frank
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

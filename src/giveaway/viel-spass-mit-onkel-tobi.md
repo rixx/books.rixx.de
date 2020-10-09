@@ -14,4 +14,5 @@ book:
   title: Viel Spaß mit Onkel Tobi
 plan:
   date_added: 2020-10-04
+  gone: π
 ---

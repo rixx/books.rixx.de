@@ -10,4 +10,5 @@ book:
   title: Das Geheimnis des Kalligraphen
 plan:
   date_added: '2020-10-04'
+  gone: θ
 ---

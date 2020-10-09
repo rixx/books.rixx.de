@@ -16,4 +16,5 @@ book:
   title: 'The Portable Atheist: Essential Readings for the Nonbeliever'
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

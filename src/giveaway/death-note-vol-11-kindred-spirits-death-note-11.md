@@ -16,4 +16,5 @@ book:
   title: 'Death Note, Vol. 11: Kindred Spirits (Death Note, #11)'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

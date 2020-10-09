@@ -16,4 +16,5 @@ book:
   title: 'Death Note, Vol. 12: Finis (Death Note, #12)'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

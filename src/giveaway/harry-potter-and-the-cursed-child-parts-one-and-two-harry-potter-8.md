@@ -16,4 +16,5 @@ book:
   title: 'Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)'
 plan:
   date_added: '2020-10-04'
+  gone: m
 ---

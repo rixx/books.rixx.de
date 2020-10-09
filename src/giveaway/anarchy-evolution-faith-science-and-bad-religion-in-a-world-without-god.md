@@ -16,4 +16,5 @@ book:
   title: 'Anarchy Evolution: Faith, Science, And Bad Religion In A World Without God'
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

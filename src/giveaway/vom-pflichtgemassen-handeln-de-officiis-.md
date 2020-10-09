@@ -10,4 +10,5 @@ book:
   title: Vom pflichtgemäßen Handeln / De officiis.
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---

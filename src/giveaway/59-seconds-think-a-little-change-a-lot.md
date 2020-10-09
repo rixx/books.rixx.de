@@ -16,4 +16,5 @@ book:
   title: '59 Seconds: Think a Little, Change a Lot'
 plan:
   date_added: '2020-10-04'
+  gone: q,sc
 ---

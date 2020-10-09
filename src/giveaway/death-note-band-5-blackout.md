@@ -10,4 +10,5 @@ book:
   title: 'Death Note, Band 5: Blackout'
 plan:
   date_added: '2020-10-04'
+  gone: '&'
 ---

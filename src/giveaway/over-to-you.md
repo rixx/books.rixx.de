@@ -16,4 +16,5 @@ book:
   title: '... Steigen Aus... Maschine Brennt... 10 Fliegergeschichten'
 plan:
   date_added: 2020-10-04
+  gone: mc
 ---

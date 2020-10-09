@@ -10,4 +10,5 @@ book:
   title: 'Hunger (Gone, #2)'
 plan:
   date_added: '2020-10-04'
+  gone: j
 ---

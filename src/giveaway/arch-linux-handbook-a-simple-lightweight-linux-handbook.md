@@ -10,4 +10,5 @@ book:
   title: 'Arch Linux Handbook: A Simple, Lightweight Linux Handbook'
 plan:
   date_added: '2020-10-04'
+  gone: ν
 ---
