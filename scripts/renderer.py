@@ -248,7 +248,7 @@ def get_stats(reviews, years):
             reviews = time_lookup[written_date]
             book_count = len(reviews)
             page_count = sum(
-                int(review.metadata["book"].get("pages", 0)) for review in reviews
+                int(review.metadata["book"].get("pages", 0) or 0) for review in reviews
             )
             total_pages += page_count
             total_books += book_count
