@@ -18,6 +18,9 @@ review:
   - 2017-12-21
   did_not_finish: false
   rating: 4
+related_books:
+- book: suzette-haden-elgin/native-tongue
+  text: Same, but with Xenolinguistics and flat characters.
 ---
 
 Oh *yes*, definitely the dystopic tale I needed without knowing it. Nicely done.
