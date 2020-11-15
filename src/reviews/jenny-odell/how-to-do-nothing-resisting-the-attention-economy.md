@@ -12,7 +12,7 @@ book:
   isbn13: '9781612197494'
   pages: 256
   publication_year: '2019'
-  slug: how-to-do-nothing-resisting-the-attention-economy
+  slug: how-to-do-nothing
   spine_color: '#b0365f'
   tags:
   - nonfiction
@@ -22,7 +22,8 @@ plan:
   date_added: '2020-01-26'
 review:
   date_read:
-  - 2020-01-26
+  - 2019-12-26
+  - 2020-11-09
   did_not_finish: false
   rating: 1
   tldr: I didn't finish this book. Extreme tech pessimism ("kids these days don't
@@ -50,4 +51,11 @@ social:
       https://books.rixx.de/reviews/2020/how-to-do-nothing-resisting-the-attention-economy/'
 ---
 
-DNF: The writing style was grating for me, and the book opened with such strong tech pessimism ("kids these days don't know how to talk to each other", phrased a bit more nicely) that I disengaged very soon. Later she goes on to say that she only objects to *commercial* social networks, and that she's sure that decentralised communal ones are perfectly nice, but she had already lost me.
+DNF: The writing style was grating for me, and the book opened with such strong tech pessimism ("kids these days don't
+know how to talk to each other", phrased a bit more nicely) that I disengaged very soon. Later she goes on to say that
+she only objects to *commercial* social networks, and that she's sure that decentralised communal ones are perfectly
+nice, but she had already lost me.
+
+It's also just … shallow – both the do-nothing part and the "capitalism is out for your brains" part (which is very much
+written to the liberal Twitter crowd). If the general premise interests you, [Bring Me the
+Rhinoceros](/john-tarrant/bring-me-the-rhinoceros) would make a much better read, accompanied by any James Scott.
