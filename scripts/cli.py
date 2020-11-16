@@ -9,6 +9,7 @@ from rauth.service import OAuth1Service
 from .books import change_book, change_tags, create_book, random_review
 from .goodreads import get_shelves
 from .renderer import build_site
+from .server import run_server
 
 
 @click.group(invoke_without_command=True)
@@ -117,6 +118,12 @@ def add():
 def edit():
     """ Edit a book """
     change_book()
+
+
+@cli.command()
+def serve():
+    """ Run the editor server """
+    run_server()
 
 
 @cli.command()

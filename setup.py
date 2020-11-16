@@ -11,6 +11,7 @@ setup(
         books=scripts.cli:cli
     """,
     install_requires=[
+        "aiohttp==3.7.*",
         "attrs==19.3.*",
         "click",
         "hyperlink==19.0.*",
