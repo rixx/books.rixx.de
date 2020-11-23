@@ -5,9 +5,8 @@ book:
   cover_image_url: ''
   isbn10: ''
   isbn13: ''
-  pages: '90'
+  pages: 90
   publication_year: '1960'
-  series: false
   slug: traktat-uber-die-klugheit
   tags:
   - nonfiction

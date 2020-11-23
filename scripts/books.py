@@ -441,6 +441,8 @@ def get_book_from_input():
             ),
         ]
         answers = {**answers, **inquirer.prompt(series_questions)}
+    else:
+        answers.pop("series")
     return answers
 
 
