@@ -509,16 +509,17 @@ def create_book(search_term=None):
 
     review.edit()
 
-    push_to_goodreads = inquirer.list_input(
-        message="Do you want to push this change to Goodreads?",
-        choices=[("Yes", True), ("No", False)],
-        default=True,
-        carousel=True,
-    )
+    if review.goodreads_url:
+        push_to_goodreads = inquirer.list_input(
+            message="Do you want to push this change to Goodreads?",
+            choices=[("Yes", True), ("No", False)],
+            default=True,
+            carousel=True,
+        )
 
-    if push_to_goodreads:
-        review = Review(path=review.path)  # need to reload
-        goodreads.push_to_goodreads(review)
+        if push_to_goodreads:
+            review = Review(path=review.path)  # need to reload
+            goodreads.push_to_goodreads(review)
 
     subprocess.check_call(
         [
@@ -652,7 +653,7 @@ def change_book():
         if action == "book":
             return change_book()
         push_to_goodreads = False
-        if review.metadata["book"].get("goodreads") and action != "cover":
+        if review.goodreads_url and action != "cover":
             push_to_goodreads = inquirer.list_input(
                 message="Do you want to push this change to Goodreads?",
                 choices=[("Yes", True), ("No", False)],
