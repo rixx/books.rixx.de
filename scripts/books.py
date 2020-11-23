@@ -418,7 +418,7 @@ def get_book_from_input():
         inquirer.Text("cover_description", message="What’s the cover?"),
         inquirer.Text("isbn10", message="Do you know the ISBN-10?"),
         inquirer.Text("isbn13", message="Do you know the ISBN-13?"),
-        inquirer.Number("pages", message="How many pages does the book have?"),
+        inquirer.Text("pages", message="How many pages does the book have?"),
         inquirer.List(
             "series",
             message="Is this book part of a series?",
