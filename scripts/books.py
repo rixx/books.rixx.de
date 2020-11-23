@@ -308,9 +308,11 @@ class Review:
     def find_goodreads_cover(self, force_new=False):
         if "goodreads.com" in self.metadata["book"]["cover_image_url"]:
             url = self.metadata["book"]["cover_image_url"]
-        else:
+        elif self.goodreads_url:
             data = goodreads.get_book_data(self.goodreads_url)
             url = data["cover_image_url"]
+        else:
+            return False
         if url:
             with suppress(Exception):
                 return self.download_cover(url, force_new=force_new)
