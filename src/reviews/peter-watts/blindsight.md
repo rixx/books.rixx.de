@@ -25,15 +25,28 @@ related_books: []
 review:
   date_read:
   - 2019-01-11
+  - 2020-11-26
   did_not_finish: false
   rating: 4
 ---
 
-Through most of **Blindsight**, I thought this was a typical scifi novel – better than most, sure, because the aliens
-were truly alien, and incomprehensible, and the humans had real characters, and futuristic modifications, and were
-clever, while engaging with this unknown and potentially unknowable alien, far from home, to save/represent Earth.
+Re-read notes: I love a couple of things about this book. I love that it is well-written, particularly
+for sci-fi, particularly for hard sci-fi. It reads well, if you're into sci-fi in the first place. I love that it is
+clever, and that it is also not stupid. There is a lot of clever sci-fi that is also very stupid. I love the vampires.
+
+<p class="spoiler">I love that the protagonist becomes human. Some of the best sci-fi books follow this arc – the
+Ancillary trilogy, for example, if you squint a little. It's like Pinocchio, in space, with horrible tentacle
+monsters.</p>
+
+---
+
+Original review: Through most of **Blindsight**, I thought this was a typical scifi novel – better than most, sure,
+because the aliens were truly alien, and incomprehensible, and the humans had real characters, and futuristic
+modifications, and were clever, while engaging with this unknown and potentially unknowable alien, far from home, to
+save/represent Earth.
 
 But then, *Peter Watts* had to go and pack a final twist, sending me thinking about the correlations of intelligence and
 awareness, and the consequences of his novel, for the next days. This book packs a punch, and it's only in the very end
 that you spot it. I loved it. (Not least due to the appendix, where he lists all the recent science and studies that
 influenced his book, and which parts of it might feasibly be possible soon.)
+
