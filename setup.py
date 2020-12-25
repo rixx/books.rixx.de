@@ -13,6 +13,7 @@ setup(
     install_requires=[
         "aiohttp==3.7.*",
         "attrs==19.3.*",
+        "bs4",
         "click",
         "hyperlink==19.0.*",
         "inquirer==2.6.*",
@@ -24,6 +25,7 @@ setup(
         "python-frontmatter==0.5.*",
         "rauth",
         "requests",
+        "sklearn",
         "smartypants==2.0.*",
         "unidecode==1.1.*",
         "tweepy",
