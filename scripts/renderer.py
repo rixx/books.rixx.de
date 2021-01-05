@@ -115,27 +115,18 @@ def _create_new_square(src_path, square_path):
 
 
 def create_thumbnail(review):
-    # create thumbnail
-    # create square
     if not review.cover_path:
         return
 
     html_path = pathlib.Path("_html") / review.id
     thumbnail_path = html_path / review.thumbnail_name
     square_path = html_path / review.square_name
+    cover_path = html_path / review.cover_path.name
+    cover_age = review.cover_path.stat().st_mtime
 
-    rsync(review.cover_path, html_path / review.cover_path.name)  # copy full cover
-
-    if (
-        not thumbnail_path.exists()
-        or review.cover_path.stat().st_mtime > thumbnail_path.stat().st_mtime
-    ):
+    if not cover_path.exists() or cover_age > cover_path.stat().st_mtime:
+        rsync(review.cover_path, cover_path)
         _create_new_thumbnail(review.cover_path, thumbnail_path)
-
-    if (
-        not square_path.exists()
-        or review.cover_path.stat().st_mtime > square_path.stat().st_mtime
-    ):
         _create_new_square(review.cover_path, square_path)
 
 
@@ -381,6 +372,7 @@ def build_site(**kwargs):
     for plan in all_plans:
         if plan.metadata["book"]["author"] in author_lookup:
             plan.link_author = True
+        (Path("_html") / plan.id).mkdir(parents=True, exist_ok=True)
 
     # Render tag pages
     print("🔖 Rendering tag pages")
@@ -554,7 +546,7 @@ def build_site(**kwargs):
     render(
         "index.html",
         "index.html",
-        text=open("src/index.md").read(),
+        text=open("data/index.md").read(),
         reviews=all_reviews[:5],
         shelf_books=sorted(all_reviews, key=lambda x: x.metadata["book"]["author"]),
     )

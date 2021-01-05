@@ -145,13 +145,13 @@ class Review:
     def thumbnail_name(self):
         if not self.cover_path:
             return
-        return f"thumbnail.{self.cover_path.suffix}"
+        return f"thumbnail{self.cover_path.suffix}"
 
     @cached_property
     def square_name(self):
         if not self.cover_path:
             return
-        return f"square.{self.cover_path.suffix}"
+        return f"square{self.cover_path.suffix}"
 
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
