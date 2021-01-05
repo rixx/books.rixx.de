@@ -114,21 +114,29 @@ def _create_new_square(src_path, square_path):
     new.save(square_path)
 
 
-def create_thumbnails():
-    for image_name in os.listdir("src/covers"):
-        src_path = pathlib.Path("src/covers") / image_name
-        dst_path = pathlib.Path("_html/thumbnails") / image_name
+def create_thumbnail(review):
+    # create thumbnail
+    # create square
+    if not review.cover_path:
+        return
 
-        if not dst_path.exists() or src_path.stat().st_mtime > dst_path.stat().st_mtime:
-            _create_new_thumbnail(src_path, dst_path)
+    html_path = pathlib.Path("_html") / review.id
+    thumbnail_path = html_path / review.thumbnail_name
+    square_path = html_path / review.square_name
 
-        square_path = pathlib.Path("_html/squares") / image_name
+    rsync(review.cover_path, html_path / review.cover_path.name)  # copy full cover
 
-        if (
-            not square_path.exists()
-            or src_path.stat().st_mtime > square_path.stat().st_mtime
-        ):
-            _create_new_square(src_path, square_path)
+    if (
+        not thumbnail_path.exists()
+        or review.cover_path.stat().st_mtime > thumbnail_path.stat().st_mtime
+    ):
+        _create_new_thumbnail(review.cover_path, thumbnail_path)
+
+    if (
+        not square_path.exists()
+        or review.cover_path.stat().st_mtime > square_path.stat().st_mtime
+    ):
+        _create_new_square(review.cover_path, square_path)
 
 
 def isfloat(value):
@@ -306,12 +314,6 @@ def build_site(**kwargs):
     env.filters["render_date"] = render_date
     env.filters["smartypants"] = smartypants.smartypants
     render = partial(render_page, env=env)
-
-    print("📷 Generating thumbnails")
-    create_thumbnails()
-
-    rsync(source="src/covers/", destination="_html/covers/")
-    rsync(source="static/", destination="_html/static/")
 
     print("📔 Loading reviews from files")
     this_year = dt.datetime.now().strftime("%Y")
@@ -522,6 +524,12 @@ def build_site(**kwargs):
         title="Books i want to read",
         active="to-read",
     )
+
+    print("📷 Generating thumbnails")
+    for event in all_events:
+        create_thumbnail(event)
+
+    rsync(source="static/", destination="_html/static/")
 
     # Render feeds
     print("📰 Rendering feed pages")

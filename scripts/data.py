@@ -24,7 +24,7 @@ def get_dominant_colours(path, count):
 
 
 def choose_spine_color(review, cluster_count=3):
-    cover_path = Path("src/covers") / review.metadata["book"]["cover_image"]
+    cover_path = review.cover_path
 
     dominant_colors = get_dominant_colours(cover_path, count=cluster_count)
     hsv_candidates = {

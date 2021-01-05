@@ -7,6 +7,7 @@ import re
 import shutil
 import subprocess
 from contextlib import suppress
+from functools import cached_property
 from pathlib import Path
 from urllib.request import urlretrieve
 
@@ -134,11 +135,29 @@ class Review:
     def first_paragraph(self):
         return self.text.strip().split("\n\n")[0] if self.text else ""
 
+    @cached_property
+    def cover_path(self):
+        covers = list(self.path.parent.glob("cover.*"))
+        if covers:
+            return covers[0]
+
+    @cached_property
+    def thumbnail_name(self):
+        if not self.cover_path:
+            return
+        return f"thumbnail.{self.cover_path.suffix}"
+
+    @cached_property
+    def square_name(self):
+        if not self.cover_path:
+            return
+        return f"square.{self.cover_path.suffix}"
+
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
-        entry_type = self.path.parent.name
+        entry_type = self.path.parent.parent.name
         if entry_type not in valid_entry_types:
-            entry_type = self.path.parent.parent.name
+            entry_type = self.path.parent.parent.parent.name
         if entry_type not in valid_entry_types:
             raise Exception(f"Wrong path for review: {entry_type}")
         return entry_type
@@ -240,8 +259,6 @@ class Review:
             self.metadata["plan"] = {"date_added": dt.datetime.now().date()}
 
     def download_cover(self, cover_image_url=None, force_new=False):
-        destination = Path("src") / "covers"
-        destination.mkdir(parents=True, exist_ok=True)
         if not cover_image_url:
             cover_image_url = self.metadata["book"]["cover_image_url"]
 
@@ -254,18 +271,16 @@ class Review:
             )
             return
 
-        filename, headers = urlretrieve(cover_image_url)
         extension = {"image/jpeg": "jpg", "image/png": "png", "image/gif": "gif"}[
             headers["Content-Type"]
         ]
-        cover_name = f"{self.metadata['book']['slug']}.{extension}"
-        destination = destination / cover_name
+        destination = self.path.parent / f"cover.{extension}"
 
         if not destination.exists() or force_new:
-            destination.parent.mkdir(parents=True, exist_ok=True)
+            if self.cover_path:
+                self.cover_path.unlink()
             shutil.move(filename, destination)
 
-        self.metadata["book"]["cover_image"] = cover_name
         self.metadata["book"]["cover_image_url"] = cover_image_url
         choose_spine_color(self)
         return cover_name
@@ -340,12 +355,10 @@ class Review:
                 return result
 
     def show_cover(self):
-        if not "cover_image" in self.metadata["book"]:
+        if not self.cover_path:
             print("No cover image found.")
             return
-        subprocess.check_call(
-            ["xdg-open", Path("src/covers") / self.metadata["book"]["cover_image"]]
-        )
+        subprocess.check_call(["xdg-open", self.cover_path])
 
 
 class Spine:
@@ -354,7 +367,7 @@ class Spine:
         self.height = self.get_spine_height()
         self.width = self.get_spine_width()
         self.color = self.review.metadata["book"].get("spine_color")
-        self.cover = self.review.metadata["book"].get("cover_image")
+        self.cover = self.review.cover_path
         current_tags = self.review.metadata["book"].get("tags", [])
         self.starred = "five-stars" in current_tags
         self.labels = []
@@ -526,7 +539,7 @@ def create_book(search_term=None):
             "git",
             "add",
             review.path,
-            Path("src/covers") / (review.metadata["book"].get("cover_image") or ""),
+            review.cover_path,
         ]
     )
 
