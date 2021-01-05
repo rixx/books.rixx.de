@@ -42,7 +42,7 @@
       {% set spine_style = "lined" %}
     {% endif %}
 
-  <a href="/{{ review.id }}/" class="spine-wrapper" style="--cover-img: url('/thumbnails/{{ review.spine.cover }}'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
+    <a href="/{{ review.id }}/" class="spine-wrapper" style="--cover-img: url('/{{ review.id }}/{{ review.thumbnail_name }}'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
     <div class="spine{% if spine_style %} spine-{{ spine_style }}{% endif %}" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted.flag %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px{% endif %}">
       {% if review.spine.starred %}
       <div class="spine-label spine-starred">

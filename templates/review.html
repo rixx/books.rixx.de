@@ -4,19 +4,21 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@rixxtr"/>
 <meta name="twitter:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
-<meta name="twitter:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>
 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://books.rixx.de/{{ review.id }}/">
 <meta property="og:title" content="Tobias's review of {{ review.metadata.book.title }}">
-{% if review.metadata.book.cover_image %}<meta property="og:image" content="https://books.rixx.de/squares/{{ review.metadata.book.cover_image }}"/>{% endif %}
+{% if review.cover_path %}
+<meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/{{ review.square_name }}"/>
+<meta property="og:image" content="https://books.rixx.de/{{ review.id }}/{{ review.square_name }}"/>
+{% endif %}
 
 <link rel="canonical" href="https://books.rixx.de/{{ review.id }}/"/>
 {% endblock %}
 
 {% block content %}
-  {% if review.metadata.book.cover_image %}
-  <a class="book-cover" href="/covers/{{ review.metadata.book.cover_image }}">
+  {% if review.cover_path %}
+  <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
       {% set book = review.metadata.book %}
       {% set spine_border = True %}
       {% include "_book_cover.html" %}
