@@ -155,9 +155,7 @@ class Review:
 
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
-        entry_type = self.path.parent.parent.name
-        if entry_type not in valid_entry_types:
-            entry_type = self.path.parent.parent.parent.name
+        entry_type = self.path.parent.parent.parent.name
         if entry_type not in valid_entry_types:
             raise Exception(f"Wrong path for review: {entry_type}")
         return entry_type
@@ -224,8 +222,11 @@ class Review:
     def save(self):
         self.clean()
         current_path = self.get_path()
-        if self.path and current_path != self.path and Path(self.path).exists():
-            Path(self.path).unlink()
+        if self.path and current_path != self.path:
+            if Path(self.path).exists():
+                Path(self.path).unlink()
+            for other_file in self.path.parent.glob("*"):
+                other_file.rename(current_path.parent / other_file.name)
         with open(current_path, "wb") as out_file:
             frontmatter.dump(
                 frontmatter.Post(content=self.text, **self.metadata), out_file
