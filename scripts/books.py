@@ -68,8 +68,8 @@ class Tag:
         name = str(name)
         if not name.endswith(".md"):
             name = f"{name}.md"
-        if not name.startswith("src/tags"):
-            name = Path("src/tags") / name
+        if not name.startswith("data/tags"):
+            name = Path("data/tags") / name
         data = frontmatter.load(name)
         self.metadata = data.metadata
         self.text = data.content
@@ -78,7 +78,7 @@ class Tag:
 
 def load_tags():
     tags = sorted(
-        [Tag(path) for path in Path("src/tags").glob("*.md")], key=lambda x: x.slug
+        [Tag(path) for path in Path("data/tags").glob("*.md")], key=lambda x: x.slug
     )
     return {tag.slug: tag for tag in tags}
 
@@ -186,12 +186,7 @@ class Review:
         subprocess.check_call(["git", "add", self.path, old_path])
 
     def get_path(self):
-        if self.entry_type == "reviews":
-            out_dir = f"reviews/{self.author_slug}"
-        elif self.entry_type == "to-read":
-            out_dir = "to-read"
-        core_path = Path(out_dir) / self.metadata["book"]["slug"]
-        out_path = Path("src") / (str(core_path) + ".md")
+        out_path = Path("data") / self.entry_type / self.id / "index.md"
         out_path.parent.mkdir(parents=True, exist_ok=True)
         return out_path
 
@@ -420,11 +415,11 @@ def _load_entries(dirpath):
 
 
 def load_reviews():
-    return _load_entries(dirpath="src/reviews")
+    return _load_entries(dirpath="data/reviews")
 
 
 def load_to_read():
-    return _load_entries(dirpath="src/to-read")
+    return _load_entries(dirpath="data/to-read")
 
 
 def get_book_from_input():
@@ -561,8 +556,8 @@ def get_review_from_user():
     while not review:
         original_search = inquirer.text(message="What's the book called?")
         search = original_search.strip().lower().replace(" ", "-")
-        files = list(glob.glob(f"src/**/*{search}*.md")) + list(
-            glob.glob(f"src/reviews/**/*{search}*.md")
+        files = list(glob.glob(f"data/**/*{search}*.md")) + list(
+            glob.glob(f"data/reviews/**/*{search}*.md")
         )
         if len(files) == 0:
             click.echo(click.style("No book like that was found.", fg="red"))
