@@ -19,7 +19,6 @@
 {% block content %}
   {% if review.cover_path %}
   <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
-      {% set book = review.metadata.book %}
       {% set spine_border = True %}
       {% include "_book_cover.html" %}
     </a>

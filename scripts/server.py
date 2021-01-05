@@ -13,11 +13,11 @@ def insert_js(html):
 
 async def handle_get(request):
     path = Path(__file__).parent.parent / "_html" / str(request.path.strip("/"))
-    if str(path).endswith("/") or path.is_dir():
+    if not path.exists() or not path.is_file():
         path = path / "index.html"
-    if not path.exists():
-        print(f"404 {path}")
-        return web.Response(text="", status=404)
+        if not path.exists() or not path.is_file():
+            print(f"404 {path}")
+            return web.Response(text="", status=404)
     print(f"200 {request.path}")
     content_type = mimetypes.guess_type(path)[0]
     content = open(path, "rb").read()

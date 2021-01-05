@@ -9,7 +9,6 @@
   {% endif %}
     <div class="book-metadata">
       <div class="book_thumbnail">
-        {% set book = review.metadata.book %}
         {% include "_book_cover.html" %}
       </div>
       <p class="title{% if not has_rating %} title-padded{% endif %}">
