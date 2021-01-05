@@ -7,7 +7,7 @@ from aiohttp import web
 def insert_js(html):
     html = html.decode()
     head, body = html.split("</head>", maxsplit=1)
-    head += "<script src=\"/static/editor.js\"></script>"
+    head += '<script src="/static/editor.js"></script>'
     return f"{head}</head>{body}".encode()
 
 
@@ -19,8 +19,8 @@ async def handle_get(request):
         print(f"404 {path}")
         return web.Response(text="", status=404)
     print(f"200 {request.path}")
-    content_type=mimetypes.guess_type(path)[0]
-    content=open(path, "rb").read()
+    content_type = mimetypes.guess_type(path)[0]
+    content = open(path, "rb").read()
     if content_type == "text/html":
         content = insert_js(content)
     return web.Response(body=content, content_type=content_type)
@@ -29,7 +29,9 @@ async def handle_get(request):
 def run_server():
     # load all data
     app = web.Application()
-    app.add_routes([
-        web.get(r'/{path:.*}', handle_get),
-    ])
+    app.add_routes(
+        [
+            web.get(r"/{path:.*}", handle_get),
+        ]
+    )
     web.run_app(app)

@@ -163,7 +163,10 @@ class Review:
         return entry_type
 
     def change_entry_type(
-        self, entry_type, save=True, push_to_goodreads=False,
+        self,
+        entry_type,
+        save=True,
+        push_to_goodreads=False,
     ):
         old_path = self.path or ""
         if entry_type != self.entry_type:
@@ -462,7 +465,8 @@ def get_book_from_input():
 def get_review_info(review=None):
     known_metadata = (review.metadata.get("review") or {}) if review else {}
     date_read = get_date(
-        "When did you finish reading it?", default=known_metadata.get("date_read"),
+        "When did you finish reading it?",
+        default=known_metadata.get("date_read"),
     )
     rating = inquirer.list_input(
         message="What’s your rating?",
@@ -497,7 +501,10 @@ def create_book(search_term=None):
     )
     entry_type = inquirer.list_input(
         message="What type of book is this?",
-        choices=[("One I’ve read", "reviews"), ("One I want to read", "to-read"),],
+        choices=[
+            ("One I’ve read", "reviews"),
+            ("One I want to read", "to-read"),
+        ],
         carousel=True,
     )
 
@@ -603,7 +610,9 @@ def _change_rating(review, push_to_goodreads):
 
 def _change_to_tbr(review, push_to_goodreads):
     review.change_entry_type(
-        "to-read", save=True, push_to_goodreads=push_to_goodreads,
+        "to-read",
+        save=True,
+        push_to_goodreads=push_to_goodreads,
     )
 
 
@@ -674,7 +683,8 @@ def change_book():
                 carousel=True,
             )
         globals()[f"_change_{action}"](
-            review=review, push_to_goodreads=push_to_goodreads,
+            review=review,
+            push_to_goodreads=push_to_goodreads,
         )
         if action == "remove":
             return change_book()
@@ -701,7 +711,9 @@ def change_tags(**kwargs):
                 choices=tags + ["no tags"],
             ),
             inquirer.Checkbox(
-                name="exclude", message="Exclude books with these tags", choices=tags,
+                name="exclude",
+                message="Exclude books with these tags",
+                choices=tags,
             ),
         ]
     )

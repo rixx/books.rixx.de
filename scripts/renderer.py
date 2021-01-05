@@ -336,13 +336,19 @@ def build_site(**kwargs):
     for review in all_reviews:
         review.spine = books.Spine(review)
         review.related_books = [
-            {"review": review_lookup[related["book"]], "text": related["text"],}
+            {
+                "review": review_lookup[related["book"]],
+                "text": related["text"],
+            }
             for related in review.metadata.get("related_books", [])
         ]
         for timestamp in review.metadata["review"]["date_read"]:
             year = timestamp.strftime("%Y")
             redirects.append(
-                (f"reviews/{year}/{review.metadata['book']['slug']}", review.id,)
+                (
+                    f"reviews/{year}/{review.metadata['book']['slug']}",
+                    review.id,
+                )
             )
             reviews_by_year[year].append(review)
         for tag in review.metadata["book"].get("tags", []):
@@ -361,7 +367,10 @@ def build_site(**kwargs):
         [
             (author, list(reviews))
             for (author, reviews) in itertools.groupby(
-                sorted(all_reviews, key=lambda rev: rev.metadata["book"]["author"],),
+                sorted(
+                    all_reviews,
+                    key=lambda rev: rev.metadata["book"]["author"],
+                ),
                 key=lambda review: review.metadata["book"]["author"],
             )
         ],
@@ -411,11 +420,15 @@ def build_site(**kwargs):
             "active": "read",
         }
         render(
-            "list_reviews.html", f"reviews/{year or 'other'}/index.html", **kwargs,
+            "list_reviews.html",
+            f"reviews/{year or 'other'}/index.html",
+            **kwargs,
         )
         if year == this_year:
             render(
-                "list_reviews.html", "reviews/index.html", **kwargs,
+                "list_reviews.html",
+                "reviews/index.html",
+                **kwargs,
             )
 
     # Render the "by title" page
@@ -471,7 +484,8 @@ def build_site(**kwargs):
             f"{reviews[0].author_slug}/index.html",
             author=author,
             reviews=sorted(
-                reviews, key=lambda rev: 5 - (rev.metadata["review"]["rating"] or 5),
+                reviews,
+                key=lambda rev: 5 - (rev.metadata["review"]["rating"] or 5),
             ),
             active="read",
         )
@@ -568,7 +582,9 @@ def build_site(**kwargs):
         ("Median publication year (reading pile)", median_year(all_plans)),
     ]
     render(
-        "stats.html", "stats/index.html", stats=stats,
+        "stats.html",
+        "stats/index.html",
+        stats=stats,
     )
 
     print("✨ Rendered HTML files to _html ✨")
