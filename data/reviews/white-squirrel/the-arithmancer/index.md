@@ -8,6 +8,7 @@ book:
   pages: '2117'
   publication_year: '2015'
   slug: the-arithmancer
+  spine_color: '#b39d8c'
   tags:
   - fanfic
   title: 'The Arithmancer (Arithmancer, #1)'
