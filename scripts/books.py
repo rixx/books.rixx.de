@@ -137,9 +137,10 @@ class Review:
 
     @cached_property
     def cover_path(self):
-        covers = list(self.path.parent.glob("cover.*"))
-        if covers:
-            return covers[0]
+        if self.path:
+            covers = list(self.path.parent.glob("cover.*"))
+            if covers:
+                return covers[0]
 
     @cached_property
     def thumbnail_name(self):
@@ -541,8 +542,7 @@ def create_book(search_term=None):
         [
             "git",
             "add",
-            review.path,
-            review.cover_path,
+            review.path.parent,
         ]
     )
 
