@@ -7,7 +7,7 @@ book:
   isbn13: null
   pages: '2117'
   publication_year: '2015'
-  slug: the-arithmancer-arithmancer-1
+  slug: the-arithmancer
   tags:
   - fanfic
   title: 'The Arithmancer (Arithmancer, #1)'
@@ -15,7 +15,7 @@ plan:
   date_added: 2021-01-06
 review:
   date_read:
-  - 2020-01-03
+  - 2021-01-03
   rating: 3
 ---
 
