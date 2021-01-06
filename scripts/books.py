@@ -280,8 +280,8 @@ class Review:
             shutil.move(filename, destination)
 
         self.metadata["book"]["cover_image_url"] = cover_image_url
-        choose_spine_color(self)
         del self.cover_path
+        choose_spine_color(self)
         return self.cover_path
 
     def find_openlibrary_cover(self, force_new=False):
@@ -519,6 +519,7 @@ def create_book(search_term=None):
     if review.goodreads_url:
         print(review.goodreads_url)
     review.update_tags()
+    review.save()
     review.find_cover(force_new=True)
     review.show_cover()
     review.save()
