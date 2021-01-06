@@ -144,5 +144,7 @@ def post_next(dry_run=False):
             last_review = review
         else:
             break
-    past_number = last_review.metadata["social"]["number"] if last_review else 0
-    post(review, number=past_number + 1, in_reply_to=last_review, dry_run=dry_run)
+
+    if review:
+        past_number = last_review.metadata["social"]["number"] if last_review else 0
+        post(review, number=past_number + 1, in_reply_to=last_review, dry_run=dry_run)
