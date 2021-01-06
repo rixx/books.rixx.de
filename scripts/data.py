@@ -1,6 +1,5 @@
 import colorsys
 from collections import defaultdict
-from pathlib import Path
 from statistics import median_high
 
 import requests

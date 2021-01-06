@@ -1,7 +1,6 @@
 import datetime as dt
 import hashlib
 import itertools
-import os
 import pathlib
 import statistics
 import subprocess

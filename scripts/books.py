@@ -262,15 +262,13 @@ class Review:
         if not cover_image_url:
             cover_image_url = self.metadata["book"]["cover_image_url"]
 
-        if not force_new and any(
-            list(destination.glob(f"{self.metadata['book']['slug']}.{extension}"))
-            for extension in ("jpg", "png", "gif")
-        ):
+        if not force_new and self.cover_path:
             click.echo(
                 f"Cover for {self.metadata['book']['slug']} already exists, passing."
             )
             return
 
+        filename, headers = urlretrieve(cover_image_url)
         extension = {"image/jpeg": "jpg", "image/png": "png", "image/gif": "gif"}[
             headers["Content-Type"]
         ]
@@ -283,7 +281,8 @@ class Review:
 
         self.metadata["book"]["cover_image_url"] = cover_image_url
         choose_spine_color(self)
-        return cover_name
+        del self.cover_path
+        return self.cover_path
 
     def find_openlibrary_cover(self, force_new=False):
         if not self.isbn:
