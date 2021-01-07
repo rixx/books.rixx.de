@@ -162,11 +162,11 @@ def generate_svg(
     fallback_color = "#ebedf0"
     content = ""
     year_width = 45
-    rect_width = 15
+    rect_height = 15
     gap = 3
-    block_width = rect_width + gap
+    block_width = rect_height + gap
     stats_width = 6 * block_width
-    total_width = (block_width * 12) + year_width + stats_width
+    total_width = (block_width * 12) + year_width * 3 + stats_width
     total_height = block_width * len(data)
     for row, year in enumerate(data):
         year_content = (
@@ -192,8 +192,8 @@ def generate_svg(
             rect = xml_element(
                 "rect",
                 title,
-                width=rect_width,
-                height=rect_width,
+                width=rect_height,
+                height=rect_height,
                 x=column * block_width + year_width,
                 y=row * block_width,
                 fill=color,
@@ -206,17 +206,29 @@ def generate_svg(
 
         total = year.get(f"total_{key}")
         title = xml_element("title", f"{year['year']}: {total}")
+        rect_width = total * stats_width / max_year
         rect = xml_element(
             "rect",
             title,
-            width=total * stats_width / max_year,
-            height=rect_width,
+            width=rect_width,
+            height=rect_height,
             x=12 * block_width + year_width,
             y=row * block_width,
             fill=secondary_color.format(0.42),
             _class="total",
         )
         content += year_content + rect + "\n"
+        content += (
+            xml_element(
+                "text",
+                total,
+                x=12.5 * block_width + year_width + rect_width,
+                y=row * 18 + 13,
+                width=year_width * 2,
+                fill="#97989a",
+            )
+            + "\n"
+        )
 
     return xml_element(
         "svg", content, style=f"width: {total_width}px; height: {total_height}px"

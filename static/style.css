@@ -429,6 +429,7 @@ header a {
 #stats-section svg {
   margin-left: auto;
   margin-right: auto;
+  padding-left: 120px;
 }
 #stats-section svg rect {
   outline: 1px solid rgba(27,31,35,.02);
