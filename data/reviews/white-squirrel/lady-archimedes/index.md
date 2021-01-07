@@ -23,6 +23,29 @@ review:
   date_read:
   - 2021-01-04
   rating: 2
+  tldr: Second part of the fanfic series. Better plot, worse writing, and gets an
+    honourable mention for having a bibliography that includes Heinlein, Sagan, Niven
+    and Tolkien.
+social:
+  mastodon:
+    datetime: 2021-01-07 13:25:21.398472
+    id: '105514422818321144'
+    in_reply_to: '105514413849851164'
+    text: '2/ Lady Archimedes by White Squirrel. Second part of the fanfic series.
+      Better plot, worse writing, and gets an honourable mention for having a bibliography
+      that includes Heinlein, Sagan, Niven and Tolkien.
+
+      https://books.rixx.de/white-squirrel/lady-archimedes/ #rixxReads'
+  number: 2
+  twitter:
+    datetime: 2021-01-07 13:25:20.630813
+    id: '1347157369080459264'
+    in_reply_to: '1347156794699898880'
+    text: '2/ Lady Archimedes by White Squirrel. Second part of the fanfic series.
+      Better plot, worse writing, and gets an honourable mention for having a bibliography
+      that includes Heinlein, Sagan, Niven and Tolkien.
+
+      https://books.rixx.de/white-squirrel/lady-archimedes/'
 ---
 
 Second part of a Harry Potter fanfic. Better plot elements, maybe, but worse writing – started being a drag at some

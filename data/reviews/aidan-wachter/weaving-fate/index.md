@@ -28,6 +28,29 @@ review:
   - 2021-01-06
   did_not_finish: false
   rating: 4
+  tldr: Several useful introspection techniques, both meditation and journaling. My
+    favourite was the one where you write a journal as your future self. Very useful
+    stuff if you can ignore the, uhm, magic.
+social:
+  mastodon:
+    datetime: 2021-01-07 13:27:11.752981
+    id: '105514430027900820'
+    in_reply_to: '105514423614152878'
+    text: '4/ Weaving Fate by Aidan Wachter. Several useful introspection techniques,
+      both meditation and journaling. My favourite was the one where you write a journal
+      as your future self. Very useful stuff if you can ignore the, uhm, magic.
+
+      https://books.rixx.de/aidan-wachter/weaving-fate/ #rixxReads'
+  number: 4
+  twitter:
+    datetime: 2021-01-07 13:27:10.654444
+    id: '1347157830604881921'
+    in_reply_to: '1347157419793784833'
+    text: '4/ Weaving Fate by Aidan Wachter. Several useful introspection techniques,
+      both meditation and journaling. My favourite was the one where you write a journal
+      as your future self. Very useful stuff if you can ignore the, uhm, magic.
+
+      https://books.rixx.de/aidan-wachter/weaving-fate/'
 ---
 
 Weaving Fate is a woo book. The author believes in magic and assumes you do, too. I found this strangely refreshing, to

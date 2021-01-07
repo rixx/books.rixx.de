@@ -21,6 +21,31 @@ review:
   date_read:
   - 2021-01-05
   rating: 2
+  tldr: Conclusion to the fanfic trilogy. Contained the quote "The extinction of the
+    human race will come from its inability to emotionally comprehend the exponential
+    function." – hitting a bit hard right now.
+social:
+  mastodon:
+    datetime: 2021-01-07 13:25:33.219096
+    id: '105514423614152878'
+    in_reply_to: '105514422818321144'
+    text: '3/ Annals of Arithmancy by White Squirrel. Conclusion to the fanfic trilogy.
+      Contained the quote "The extinction of the human race will come from its inability
+      to emotionally comprehend the exponential function." – hitting a bit hard right
+      now.
+
+      https://books.rixx.de/white-squirrel/annals-of-arithmancy/ #rixxReads'
+  number: 3
+  twitter:
+    datetime: 2021-01-07 13:25:32.807951
+    id: '1347157419793784833'
+    in_reply_to: '1347157369080459264'
+    text: '3/ Annals of Arithmancy by White Squirrel. Conclusion to the fanfic trilogy.
+      Contained the quote "The extinction of the human race will come from its inability
+      to emotionally comprehend the exponential function." – hitting a bit hard right
+      now.
+
+      https://books.rixx.de/white-squirrel/annals-of-arithmancy/'
 ---
 
 Last part of the trilogy. Not *bad* per se, but far from good. A collection of "look where I could take this" stories,

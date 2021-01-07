@@ -14,13 +14,36 @@ book:
   title: 'The Arithmancer (Arithmancer, #1)'
 plan:
   date_added: 2021-01-06
+related_books:
+- book: white-squirrel/lady-archimedes
+  text: The next book in the series
 review:
   date_read:
   - 2021-01-03
   rating: 3
-related_books:
-  - book: white-squirrel/lady-archimedes
-    text: The next book in the series
+  tldr: Decent Harry Potter fanfic whith Hermione as math genius. Rat adjacent but
+    nowhere near the mess that is HPMOR. Imagine having actual characters *and* science,
+    at the same time.
+social:
+  mastodon:
+    datetime: 2021-01-07 13:23:04.327790
+    id: '105514413849851164'
+    in_reply_to: null
+    text: '1/ The Arithmancer (Arithmancer, #1) by White Squirrel. Decent Harry Potter
+      fanfic whith Hermione as math genius. Rat adjacent but nowhere near the mess
+      that is HPMOR. Imagine having actual characters *and* science, at the same time.
+
+      https://books.rixx.de/white-squirrel/the-arithmancer/ #rixxReads'
+  number: 1
+  twitter:
+    datetime: 2021-01-07 13:23:03.699876
+    id: '1347156794699898880'
+    in_reply_to: null
+    text: '1/ The Arithmancer (Arithmancer, #1) by White Squirrel. Decent Harry Potter
+      fanfic whith Hermione as math genius. Rat adjacent but nowhere near the mess
+      that is HPMOR. Imagine having actual characters *and* science, at the same time.
+
+      https://books.rixx.de/white-squirrel/the-arithmancer/'
 ---
 
 Honestly decent Harry Potter fanfic: Hermione starts out a math genius and things escalate. Good writing, a bunch of
