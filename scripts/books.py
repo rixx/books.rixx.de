@@ -557,9 +557,7 @@ def get_review_from_user():
     while not review:
         original_search = inquirer.text(message="What's the book called?")
         search = original_search.strip().lower().replace(" ", "-")
-        files = list(glob.glob(f"data/**/*{search}*.md")) + list(
-            glob.glob(f"data/reviews/**/*{search}*.md")
-        )
+        files = list(glob.glob(f"data/**/**/*{search}*/index.md"))
         if len(files) == 0:
             click.echo(click.style("No book like that was found.", fg="red"))
             progress = inquirer.list_input(
