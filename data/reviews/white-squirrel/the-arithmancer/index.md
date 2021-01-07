@@ -18,6 +18,9 @@ review:
   date_read:
   - 2021-01-03
   rating: 3
+related_books:
+  - book: white-squirrel/lady-archimedes
+    text: The next book in the series
 ---
 
 Honestly decent Harry Potter fanfic: Hermione starts out a math genius and things escalate. Good writing, a bunch of
