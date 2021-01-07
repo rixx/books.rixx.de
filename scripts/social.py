@@ -6,6 +6,10 @@ import tweepy
 from mastodon import Mastodon
 
 
+START_TOOT = "105514390528757710"
+START_TWEET = "1347155275552329730"
+
+
 def _print_tweet(tweet_data):
     text = tweet_data["text"]
     media = tweet_data.get("media")
@@ -39,16 +43,12 @@ def _send_tweet(tweet_data):
         result = api.update_with_media(
             tweet_data["media"],
             tweet_data["text"],
-            in_reply_to_status_id=tweet_data.get(
-                "in_reply_to"
-            ),  # or "1276612774735511552",
+            in_reply_to_status_id=tweet_data.get("in_reply_to") or START_TWEET,
         )
     else:
         result = api.update_status(
             tweet_data["text"],
-            in_reply_to_status_id=tweet_data.get(
-                "in_reply_to"
-            ),  # or "1276612774735511552"
+            in_reply_to_status_id=tweet_data.get("in_reply_to") or START_TWEET,
         )
     return result
 
@@ -60,8 +60,8 @@ def _send_toot(toot_data):
         api_base_url="https://chaos.social",
     )
     result = mastodon.status_post(
-        toot_data["text"], in_reply_to_id=toot_data.get("in_reply_to")
-    )  # or "104412156609066689"
+        toot_data["text"], in_reply_to_id=toot_data.get("in_reply_to") or START_TOOT
+    )
     return result
 
 
@@ -144,6 +144,6 @@ def post_next(dry_run=False):
         else:
             break
 
-    if review:
+    if review and not review.metadata.get("social", {}).get("twitter", {}).get("id"):
         past_number = last_review.metadata["social"]["number"] if last_review else 0
         post(review, number=past_number + 1, in_reply_to=last_review, dry_run=dry_run)
