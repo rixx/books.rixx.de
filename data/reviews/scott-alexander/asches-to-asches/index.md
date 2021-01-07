@@ -11,7 +11,9 @@ review:
   date_read:
   - 2019-09-20
   did_not_finish: false
-  rating: null
+  rating: 4
 ---
 
-What is truth, quoth Pontius Pilate. [Asches to Asches](<a target="_blank" href="https://slatestarcodex.com/2014/06/03/asches-to-asches/" rel="nofollow">https://slatestarcodex.com/2014/06/03...</a>) is one of those witty stories by *Scott Alexander*. It illustrates **precisely** the source of my anxiety when reading non-fiction: I think I can be conned into believing anything if you just dress it up correctly. Good read, good ending.
+What is truth, quoth Pontius Pilate. [Asches to Asches](https://slatestarcodex.com/2014/06/03/asches-to-asches/) is one
+of those witty stories by *Scott Alexander*. It illustrates **precisely** the source of my anxiety when reading
+non-fiction: I think I can be conned into believing anything if you just dress it up correctly. Good read, good ending.

@@ -24,7 +24,7 @@ review:
   date_read:
   - 2020-02-24
   did_not_finish: false
-  rating: null
+  rating: 3
   tldr: A Sherlock Holmes fanfic in … current day competitive tennis? I was following
     a personal recommendation and while it was formulaic, it executed the formula
     well.

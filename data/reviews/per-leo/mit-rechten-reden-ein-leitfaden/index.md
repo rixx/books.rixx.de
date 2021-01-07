@@ -17,5 +17,5 @@ review:
   date_read:
   - 2018-05-29
   did_not_finish: false
-  rating: null
+  rating: 3
 ---
