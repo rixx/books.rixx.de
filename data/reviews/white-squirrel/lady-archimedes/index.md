@@ -17,7 +17,7 @@ plan:
 related_books:
 - book: white-squirrel/the-arithmancer
   text: The first part of the series
-- book: white-squirrels/annals-of-arithmancy
+- book: white-squirrel/annals-of-arithmancy
   text: The next part of the series
 review:
   date_read:

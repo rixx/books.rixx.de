@@ -5,6 +5,7 @@ import pathlib
 import statistics
 import subprocess
 import uuid
+import sys
 from collections import defaultdict
 from functools import partial
 from io import StringIO
@@ -337,13 +338,18 @@ def build_site(**kwargs):
     print("🖋 Rendering review pages")
     for review in all_reviews:
         review.spine = books.Spine(review)
-        review.related_books = [
-            {
-                "review": review_lookup[related["book"]],
-                "text": related["text"],
-            }
-            for related in review.metadata.get("related_books", [])
-        ]
+        try:
+            review.related_books = [
+                {
+                    "review": review_lookup[related["book"]],
+                    "text": related["text"],
+                }
+                for related in review.metadata.get("related_books", [])
+            ]
+        except KeyError as e:
+            print(f"Cannot find related book for {review.path}!")
+            print(str(e))
+            sys.exit(-1)
         for timestamp in review.metadata["review"]["date_read"]:
             year = timestamp.strftime("%Y")
             redirects.append(
