@@ -12,6 +12,7 @@ book:
   tags:
   - fanfic
   title: Annals of Arithmancy
+  source: https://www.fanfiction.net/s/13001252/1/Annals-of-Arithmancy
 plan:
   date_added: 2021-01-07
 related_books:

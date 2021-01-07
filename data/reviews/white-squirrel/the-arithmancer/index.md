@@ -12,6 +12,7 @@ book:
   tags:
   - fanfic
   title: 'The Arithmancer (Arithmancer, #1)'
+  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
 plan:
   date_added: 2021-01-06
 related_books:
