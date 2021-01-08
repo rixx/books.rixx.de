@@ -131,7 +131,13 @@ def post_next(dry_run=False):
 
     current_year = dt.datetime.now().year
     reviews = [rev for rev in load_reviews() if rev.relevant_date.year == current_year]
-    reviews = sorted(reviews, key=lambda x: x.relevant_date)
+    reviews = sorted(
+        reviews,
+        key=lambda x: (
+            not bool(x.metadata.get("social", {}).get("twitter", {}).get("id")),
+            x.relevant_date,
+        ),
+    )
 
     last_review = None
     for review in reviews:
