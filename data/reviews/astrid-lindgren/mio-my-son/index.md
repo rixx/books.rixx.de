@@ -31,6 +31,9 @@ review:
   did_not_finish: false
   proofed: true
   rating: 5
+related_books:
+- book: amal-el-mohtar/this-is-how-you-lose-the-time-war
+  text: Similar beauty, only for adults. Completely different book.
 ---
 
 Mio, my Mio. A book for children, with heart-breaking beauty. The beauty is in how it uses fairytale and lyrical

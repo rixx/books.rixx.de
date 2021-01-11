@@ -21,4 +21,13 @@ review:
   - 2001-01-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: astrid-lindgren/pippi-langstrumpf
+  text: More Lindgren goodness
 ---
+Madita is a somewhat less intense Pippi: she has a younger sister and is up to all sorts of ridiculous nonsense, but
+doesn't go to society-breaking extremes. Well, usually.
+
+I really admire how Lindgren just manages to make children sound exactly their age, without making them seem stupid or
+annoying (much). She manages to make their thoughts relatable to anybody, and it's just magic. The German translation is
+also, by several accounts, really good, while you should skip the English one.

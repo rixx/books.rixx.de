@@ -21,4 +21,18 @@ review:
   - 2001-01-01
   did_not_finish: false
   rating: 2
+related_books:
+- book: erich-kastner/das-doppelte-lottchen
+  text: Also Kästner about two children from different class backgrounds, dealing with each other's life.
+- book: erich-kastner/das-fliegende-klassenzimmer
+  text: Also Kästner about a good, poor boy dealing with poverty and the richer kids.
+- book: erich-kastner/emil-and-the-detectives
+  text: Also Kästner about a good, poor boy who only wants to support his single mother.
 ---
+
+Goddamnit, this book might have been good. Instead it is infuriating – Kästner inserts sermons (in italics, at least, to
+make them easier to skip) into an already heavily moralising story, and tells children about social injustice, money and
+the revolution. Other than that, it's a decent story about a rich girl and a poor boy, their friendship, their worries
+and woes and joy.
+
+Read any other Kästner instead.

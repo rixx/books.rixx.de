@@ -23,8 +23,11 @@ review:
   - 2001-02-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: cornelia-funke/die-wilden-huhner
+  text: The longer and better-known girl series.
 ---
 
 I have a vaguely positive memory of this book, but that's about it. The protagonist was nice, had an annoying older
 sister, and dealt with ghosts with cleverness and hacked up techy devices? It's basically the Cornelia Funke boy series
-to her more famous [girl series](https://books.rixx.de/reviews/2004/die-wilden-huhner).
+to her more famous [girl series](/cornelia-funke/die-wilden-huhner).
