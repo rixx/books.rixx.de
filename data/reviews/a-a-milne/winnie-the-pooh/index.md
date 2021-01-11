@@ -27,11 +27,6 @@ related_books:
   text: If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read Gaudy Night.
 ---
 
-## Further Reading
-
-If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read
-[Gaudy Night](https://books.rixx.de/reviews/2020/gaudy-night/).
-
 This book is, of course, adorable in every way. The dorky bear with his friends in various stages being excitable,
 exuberant, worried, forgetful, depressed, busy, or superior are delightful and a neat way to keep a child entertained.
 

@@ -24,6 +24,9 @@ review:
   - 1998-09-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: cornelia-funke/herr-der-diebe
+  text: If it doesn't have to be a detective book, The Thief Lord also features responsible-but-real wonderful kids on a mission.
 ---
 
 My first, own, **serious** book! Serious in that it was long, and the book I got for my first day at school. Despite
@@ -41,6 +44,3 @@ Kalle Blomquist alway stood out to me for being real in a way that other detecti
 The three ???, or TKKG, or similar books could not compete because they were too excited, too dramatised. The best I can
 recommend are basically all the other books by [Astrid
 Lindgred](https://books.rixx.de/astrid-lindgren/), who is consistently good or great.
-
-If it doesn't have to be a detective book, [The Thief Lord](https://books.rixx.de/2001/herr-der-diebe) also features
-responsible-but-real wonderful kids on a mission.

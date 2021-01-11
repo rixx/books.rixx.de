@@ -10,7 +10,7 @@ book:
   isbn13: '9780618260300'
   pages: 366
   publication_year: '1937'
-  slug: the-hobbit-or-there-and-back-again
+  slug: the-hobbit
   spine_color: '#107d4b'
   tags:
   - fantasy
@@ -32,7 +32,7 @@ related_books:
   text: For more of this gently exploratory feeling, The Neverending Story works, provided you don't have a problem with thinly veiled moral lessons.
 ---
 
-The hobbit was my first Tolkien. I read it first when I was eight, but I had already listened to the excellent audio
+The Hobbit was my first Tolkien. I read it first when I was eight, but I had already listened to the excellent audio
 book about a million times – I got that for my fifth or sixth birthday. It introduced me to so many concepts.
 
 There could be tongue-in-cheek humour hiding in plain sight! In a book! Foreshadowing was a thing! You could just

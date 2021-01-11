@@ -17,6 +17,7 @@ book:
   tags:
   - german
   - kids
+  - trickster
   title: Pippi Langstrumpf
 plan:
   date_added: '2015-06-28'

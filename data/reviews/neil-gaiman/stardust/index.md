@@ -29,7 +29,7 @@ related_books:
    text: The Last Unicorn is similar in how it combines everyday concerns and poetic fantasy in a sensitive-yet-brutal mix.
  - book: william-goldman/the-princess-bride
    text: For more banter and fantasy romance that doesn't take itself too seriously.
- - book: j-r-r-tolkien/the-hobbit-or-there-and-back-again
+ - book: j-r-r-tolkien/the-hobbit
    text: For a similarly tongue-in-cheek meta-British hero's journey.
  - book: hope-mirrlees/lud-in-the-mist
    text: If you liked the village on the border of Faerie.

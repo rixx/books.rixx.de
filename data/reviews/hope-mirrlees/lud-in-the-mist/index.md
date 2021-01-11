@@ -27,7 +27,7 @@ review:
 related_books:
  - book: neil-gaiman/stardust
    text: If you liked the concept of a vaguely British place at the border of Faerie.
- - book: j-r-r-tolkien/the-hobbit-or-there-and-back-again
+ - book: j-r-r-tolkien/the-hobbit
    text: The Hobbit has the same feeling of proper British middle-class suddenly having to deal with fantastic occurrences.
 ---
 

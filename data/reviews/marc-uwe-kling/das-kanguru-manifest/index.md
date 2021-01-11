@@ -18,11 +18,12 @@ book:
   spine_color: '#be361e'
   tags:
   - german
+  - trickster
   title: Das Känguru-Manifest
 plan:
   date_added: '2018-02-19'
 related_books:
-- book: marc-uwe-kling/die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers
+- book: marc-uwe-kling/die-kanguru-chroniken
   text: The previous book in the series.
 review:
   date_read:

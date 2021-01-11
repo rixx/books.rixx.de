@@ -8,7 +8,7 @@ book:
   isbn13: '9783938264621'
   pages: '32'
   publication_year: '1865'
-  slug: max-und-moritz-eine-bubengeschichte-in-sieben-streichen
+  slug: max-und-moritz
   spine_color: '#f5e32e'
   tags:
   - five-stars
@@ -22,6 +22,11 @@ review:
   - 2000-01-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: heinrich-hoffmann/struwwelpeter
+  text: Less fun, more moralising, but still an old story of misbehaving children.
+- book: nils-werner-heinz-behling/alarm-im-kasperletheater
+  text: Alarm im Kasperletheater is clearly aiming for a Busch-like style, too.
 ---
 
 Max and Moritz is an extremely quotable gruesome story of two boys and their pranks. It's written in rhymed couplets,
@@ -40,8 +45,5 @@ It's a wild ride, it's utterly hilarious, and the things Busch does to language 
 ## Further Reading
 
 Many other poems and stories by Busch come close – consider "Der Affe Fips", which is written in the same style – and
-when two old professors meet, he suddenly switches to hexameters. [Alarm im
-Kasperletheater](https://books.rixx.de/reviews/1998/alarm-im-kasperletheater/) is clearly aiming for a Busch-like style,
-too.
-
-A modern author similar to Busch would be Robert Gernhardt.
+when two old professors meet, he suddenly switches to hexameters. A modern author similar to Busch would be Robert
+Gernhardt.

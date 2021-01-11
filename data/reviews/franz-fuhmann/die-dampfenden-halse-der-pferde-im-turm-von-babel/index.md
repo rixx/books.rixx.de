@@ -47,6 +47,5 @@ illustration, in the humour at the expense of the adults, in the core material, 
 ## Further Reading
 
 I honestly cannot think of a book that even tries to come close. Reading masters of playful language comes closest, I
-think. Morgenstern is good, [Wilhelm
-Busch](https://books.rixx.de/reviews/2000/max-und-moritz-eine-bubengeschichte-in-sieben-streichen) works. The book
-closest to this exploratory approach to language in my library is probably Umberto Eco's "Experiences in translation".
+think. Morgenstern is good, [Wilhelm Busch](https://books.rixx.de/wilhelm-busch/max-und-moritz) works. The book closest
+to this exploratory approach to language in my library is probably Umberto Eco's "Experiences in translation".

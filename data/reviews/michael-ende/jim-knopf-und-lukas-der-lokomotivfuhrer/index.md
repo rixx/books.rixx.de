@@ -25,6 +25,10 @@ plan:
 related_books:
 - book: michael-ende/jim-knopf-und-die-wilde-13
   text: The next book in the series.
+- book: michael-ende/the-neverending-story
+  text: Michael Ende is best known for the Neverending Story, which I also liked a lot (though a decade later).
+- book: erich-kastner/das-fliegende-klassenzimmer
+  text: I got a similar feeling from Erich Kästner, particularly from The Flying Classroom.
 review:
   date_read:
   - 1999-05-01
@@ -53,9 +57,3 @@ it's kind of stunning to see them in a book for children like this.
 
 All of this, though, I only noticed when I re-read the book in ~2018. Until then, I only remembered the amazing
 adventures, that involved a lot of danger, but also integrity and strength and curiosity and honesty.
-
-## Further Reading
-
-Michael Ende is best known for the [Neverending Story](https://books.rixx.de/reviews/2002/the-neverending-story), which
-I also liked a lot (though a decade later). I got a similar feeling from Erich Kästner, particularly from [The Flying
-Classroom](https://books.rixx.de/reviews/2001/das-fliegende-klassenzimmer).

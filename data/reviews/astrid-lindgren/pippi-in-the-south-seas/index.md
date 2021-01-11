@@ -15,6 +15,7 @@ book:
   tags:
   - german
   - kids
+  - trickster
   title: Pippi in the South Seas
 plan:
   date_added: '2016-05-05'
@@ -23,6 +24,13 @@ review:
   - 1999-07-01
   did_not_finish: false
   rating: 2
+related_books:
+- book: astrid-lindgren/ronia-the-robbers-daughter
+  text: I think pretty much anything that Astrid Lindgren wrote makes for a better read. If you're looking for more stories of strong and wild girls, Ronia the robber's daughter would be a good way to get started.
+- book: astrid-lindgren/pippi-langstrumpf
+  text: If it's the absurd anarchist vibe that you're looking for, try the first part, which is a bit better.
+- book: roald-dahl/matilda
+  text: Matilda is also good for strong unconventional girls.
 ---
 
 While I generally love everything Astrid Lindgren has written, the Pippi books rank lowest among her books for me. Pippi
@@ -33,13 +41,3 @@ much a real horse! But as a book, it is a bit light on plot.
 
 I think, looking back, for a book that features a south sea island, it is surprisingly light on racism. And I enjoyed
 the ending, where Pippi and her friends take a pill against growing up, in a very matter-of-fact way.
-
-## Further Reading
-
-I think pretty much anything that [Astrid Lindgren](https://books.rixx.de/astrid-lindgren/) wrote
-makes for a better read. If you're looking for more stories of strong and wild girls, [Ronia the robber's
-daughter](https://books.rixx.de/reviews/2001/ronia-the-robbers-daughter/) would be a good way to get started.
-
-If it's the absurd anarchist vibe that you're looking for, try the [first
-part](https://books.rixx.de/reviews/2001/pippi-langstrumpf), which is a bit stronger, or
-[Matilda](https://books.rixx.de/reviews/2004/matilda)

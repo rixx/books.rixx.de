@@ -14,10 +14,11 @@ book:
   publication_year: '2009'
   series: Die Känguru-Chroniken
   series_position: '1'
-  slug: die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers
+  slug: die-kanguru-chroniken
   spine_color: '#a7b60a'
   tags:
   - german
+  - trickster
   title: Die Känguru-Chroniken. Ansichten eines vorlauten Beuteltiers
 plan:
   date_added: '2015-04-08'

@@ -28,11 +28,18 @@ review:
   - 1999-09-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: nils-werner-heinz-behling/alarm-im-kasperletheater
+  text: Alarm im Kasperletheater is another German book for children that uses the Punch-and-Judy characters, though in a very different way.
+- book: otfried-preussler/the-little-ghost
+  text: Another good children's book by Otfried Preußler is The Little Ghost.
+- book: otfried-preussler/krabat
+  text: If you're looking for more serious books by Preußler, Krabat is my favourite by far.
 ---
 
-As [Alarm im Kasperletheater](https://books.rixx.de/reviews/1998/alarm-im-kasperletheater/), this book is a riff off the
-usual characters of a Punch-and-Judy show. There's the Robber, Hotzenplotz, who opens the book by stealing(!)
-grandmother's coffee grinder, which is particularly beautiful and plays a melody while you grind the coffee.
+As [Alarm im Kasperletheater](https://books.rixx.de/nils-werner-heinz-behling/alarm-im-kasperletheater/), this book is a
+riff off the usual characters of a Punch-and-Judy show. There's the Robber, Hotzenplotz, who opens the book by
+stealing(!) grandmother's coffee grinder, which is particularly beautiful and plays a melody while you grind the coffee.
 
 Kasper and his friend Seppl decide to track down the dread Hotzenplotz and get the mill back. They go into this with a
 wonderfully elaborate plan that completely falls apart, so that they are captured by Hotzenplotz. Hotzenplotz doesn't
@@ -51,12 +58,3 @@ happy, except for Hotzenplotz. It really is a nice book. Don't watch the movie, 
 
 Hotzenplotz has been translated a lot, and has received some adorable names in other languages, such as *Le Brigand
 Briquambroque*, *Il Brigante Pennastorta*, *El bandido Saltodemata*, or *Haydut Haytazot*.
-
-## Further Reading
-
-[Alarm im Kasperletheater](https://books.rixx.de/reviews/1998/alarm-im-kasperletheater) is another German book for
-children that uses the Punch-and-Judy characters, though in a very different way.
-
-Another good children's book by [Otfried Preußler](https://books.rixx.de/otfried-preussler/) is
-[The Little Ghost](https://books.rixx.de/reviews/2001/the-little-ghost). If you're looking for more serious books by
-him, [Krabat](https://books.rixx.de/reviews/2005/krabat) is my favourite by far.

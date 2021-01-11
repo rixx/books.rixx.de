@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: michael-ende/jim-knopf-und-lukas-der-lokomotivfuhrer
   text: The previous book in the series.
+- book: michael-ende/the-night-of-wishes
+  text: For more light-hearted but inconsequential childhood fun like this, The Night of Wishes should be a good fit.
 review:
   date_read:
   - 1999-11-01
@@ -36,8 +38,3 @@ when I re-read the book, I was confused and suspicious about Ende's motivation.
 
 But also, this book features a lot of screen time (so to speak) for Molly, the **baby locomotive**, who is just adorable
 beyond words.
-
-## Further Reading
-
-For more light-hearted but inconsequential childhood fun like this, [The Night of
-Wishes](https://books.rixx.de/reviews/2002/the-night-of-wishes) should be a good fit.

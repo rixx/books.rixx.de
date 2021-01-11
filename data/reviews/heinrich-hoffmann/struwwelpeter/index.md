@@ -12,7 +12,7 @@ book:
   isbn13: '9780922915521'
   pages: 124
   publication_year: '1845'
-  slug: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks
+  slug: struwwelpeter
   spine_color: '#998f84'
   tags:
   - german
@@ -26,6 +26,11 @@ review:
   - 1998-02-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: klaus-kordon/die-roten-matrosen
+  text: This book offers us a view into the attitude towards children 150 years ago, and shows that some patterns of behaviour, like attention deficit with and without hyperactivity, were well-known in certain circles. I haven't read any more about education in that time, but Die roten Matrosen features school and educational attitudes in Germany between 1910 and 1920, which comes close and provides interesting historical insights.
+- book: wilhelm-busch/max-und-moritz
+  text: Wilhelm Busch had a much better written (if still moralising) take on misbehaving children.
 ---
 
 An old book of German horror stories to frighten, erm, educate! kids. The rhymed stories are terrifying and illustrated,
@@ -48,11 +53,3 @@ and I can still recall lots of the rhymes now. They include
 Honestly, as a kid I didn't think anything about them – they're not really more gruesome than a grandmother getting
 eaten by a wolf, or a witch baked in her own oven. But then, they were only in use for entertainment, and never as
 education, so I got off lightly.
-
-## Further Reading
-
-This book offers us a view into the attitude towards children 150 years ago, and shows that some patterns of behaviour,
-like attention deficit with and without hyperactivity, were well-known in certain circles. I haven't read any more about
-education in that time, but [Die roten Matrosen](https://books.rixx.de/reviews/2004/die-roten-matrosen) features school
-and educational attitudes in Germany between 1910 and 1920, which comes close and provides interesting historical
-insights.

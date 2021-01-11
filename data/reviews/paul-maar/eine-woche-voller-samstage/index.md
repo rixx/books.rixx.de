@@ -19,12 +19,17 @@ book:
   tags:
   - german
   - kids
+  - trickster
   title: Eine Woche voller Samstage
 plan:
   date_added: '2015-04-08'
 related_books:
 - book: paul-maar/am-samstag-kam-das-sams-zuruck
   text: The next book in the series.
+- book: astrid-lindgren/pippi-langstrumpf
+  text: For more chaotic trickster energy.
+- book: marc-uwe-kling/die-kanguru-chroniken
+  text: "For the same chaotic energy with no magic wishing powers, and for grown-ups: Känguru-Chroniken, which are just as impossible to translate, incidentally."
 review:
   date_read:
   - 2000-05-01
@@ -42,12 +47,3 @@ extremely alive and cares about nothing. It's not a girl and not a boy, not huma
 the book in school, and I liked it a lot both before and after that. It's got a wild chaotic energy that kids tend to
 love – and the only hidden moral lesson is "be yourself and fuck the bullies", which seems like a good thing to teach
 kids.
-
-## Further Reading
-
-For more chaotic energy, [Pippi](https://books.rixx.de/reviews/2001/pippi-langstrumpf). For more Sams, [the second
-part](https://books.rixx.de/am-samstag-kam-das-sams-zuruck).
-
-For the same chaotic energy with no magic wishing powers, and for grown-ups:
-[Känguru-Chroniken](https://books.rixx.de/reviews/2012/die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers),
-which are just as impossible to translate, incidentally.
