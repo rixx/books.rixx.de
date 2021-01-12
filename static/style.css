@@ -283,6 +283,10 @@ div.rating {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.book-card.expand .book-review {
+  overflow: visible;
+  display: block;
+}
 .book-review.book-review-padded {
   padding-top: 8px;
 }

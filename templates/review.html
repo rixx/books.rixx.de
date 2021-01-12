@@ -147,6 +147,7 @@
       {% for related in review.related_books %}
         {% set review = related.review %}
         {% set review_text = related.text %}
+        {% set expand_card = True %}
         {% include  "_book_card.html" %}
       {% endfor %}
     {% endif %}
