@@ -7,6 +7,7 @@ const changeCurrentBook = (book) => {
     // create HTML
     const div = document.createElement("div")
     div.id = "book-preview"
+    div.classList.add("book-cover")
     let content = ""
     const link = `<a href="/${book.id}/">`
     if (book.cover) {

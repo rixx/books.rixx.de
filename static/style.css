@@ -796,6 +796,9 @@ header a {
   display: flex;
   height: calc(100vh - 100px);
 }
+#graph-wrapper #book-graph {
+  width: 100%;
+}
 #graph-wrapper #graph-sidebar {
   width: 250px;
   box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
