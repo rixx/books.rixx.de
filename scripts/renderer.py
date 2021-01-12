@@ -605,31 +605,43 @@ def build_site(**kwargs):
 
     # Render graph page
     print("🕸  Rendering graphs")
-    nodes = set()
-    edges = set()
+    node_set = set()
+    edge_set = set()
     for review in all_reviews:
         for related in review.metadata.get("related_books", []):
-            edges.add(tuple(sorted([related["book"], review.id])))
-            nodes.add(related["book"])
-            nodes.add(review.id)
-    nodes = [
-        {
-            "id": review,
-            "name": review_lookup[review].metadata["book"]["title"],
+            edge_set.add(tuple(sorted([related["book"], review.id])))
+            node_set.add(related["book"])
+            node_set.add(review.id)
+    nodes = {}
+    for node in node_set:
+        review = review_lookup[node]
+        nodes[node] = {
+            "id": node,
+            "cover": review.thumbnail_name,
+            "name": review.metadata["book"]["title"],
+            "author": review.metadata["book"]["author"],
+            "rating": int(review.metadata["review"]["rating"]),
+            "color": review.metadata["book"].get("spine_color"),
+            "connections": 0,
         }
-        for review in nodes
-    ]
-    edges = [
-        {
-            "source": source,
-            "target": target,
-        }
-        for source, target in edges
-    ]
-    render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
+    edges = []
+    for source, target in edge_set:
+        edges.append(
+            {
+                "source": source,
+                "target": target,
+            }
+        )
+        nodes[source]["connections"] += 1
+        nodes[target]["connections"] += 1
+    render_string(
+        "graph.json", json.dumps({"nodes": list(nodes.values()), "links": edges})
+    )
     render(
         "graph.html",
         "graph/index.html",
+        node_count=len(nodes),
+        edge_count=len(edges),
     )
 
     # Render quotes

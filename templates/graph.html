@@ -9,7 +9,16 @@
 
 <div id="graph-wrapper">
     <div id="book-graph"></div>
-    <div id="book-preview"></div>
+    <div id="graph-sidebar">
+        <div id="book-preview">
+        </div>
+        <div id="graph-stats">
+            <ul>
+                <li>{{ node_count }} books</li>
+                <li>{{ edge_count }} connections</li>
+            </ul>
+        </div>
+    </div>
 </div>
 
 {% endblock %}
