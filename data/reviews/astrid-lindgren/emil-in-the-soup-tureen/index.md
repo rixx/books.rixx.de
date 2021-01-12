@@ -25,6 +25,13 @@ review:
   - 2001-04-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: astrid-lindgren/immer-dieser-michel
+  text: Another book in the series
+- book: astrid-lindgren/pippi-langstrumpf
+  text: Michel, just dialled to 11.
+- book: astrid-lindgren/madita
+  text: Michel, just as a girl (and Madita is less of an intentional troublemaker).
 ---
 
 Adorable book for kids. Emil is wonderful, as is everybody else. As usual, Astrid Lindgren doesn't flinch away from real
@@ -32,5 +39,5 @@ life, so Emil is for instance regularly locked away because his parents don't kn
 
 ## Fun Fact
 
-Emil is called Michel in German, because [Emil](https://books.rixx.de/reviews/2004/emil-and-the-detectives) was already
+Emil is called Michel in German, because [Emil](/erich-kastner/emil-and-the-detectives) was already
 taken.

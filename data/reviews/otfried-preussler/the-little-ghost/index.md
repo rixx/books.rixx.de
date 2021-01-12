@@ -25,4 +25,10 @@ review:
   - 2001-06-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: otfried-preussler/der-kleine-wassermann
+  text: A similar book by Preußler, in a more unique setting.
 ---
+
+Cheeky, fun, but nothing special: I think I only remember this book because I had the audio book and listened to it
+several times. I enjoy Preußler's other books more.

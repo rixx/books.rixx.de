@@ -25,7 +25,7 @@ plan:
 related_books:
 - book: j-k-rowling/harry-potter-and-the-half-blood-prince
   text: The previous book in the series.
-- book: john-tiffany/harry-potter-and-the-cursed-child-parts-one-and-two
+- book: john-tiffany/harry-potter-and-the-cursed-child
   text: The next book in the series.
 - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
   text: The first book in the series.
@@ -33,5 +33,10 @@ review:
   date_read:
   - 2007-12-01
   did_not_finish: false
-  rating: 4
+  rating: 3
 ---
+
+Here ends the story – and by the time the ending came, I wasn't all that invested in the world anymore. It was
+interesting, it was dramatic, but it was far from life-changing. Much of it seemed more of an intellectual exercise to
+me: How will she wrap things up, who is going to live? And after getting answers, I closed that chapter of my reading
+life. The excitement had been long gone.

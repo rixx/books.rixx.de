@@ -36,3 +36,6 @@ review:
   did_not_finish: false
   rating: 2
 ---
+My low point of the series. I remember getting this book, at a midnight release party, and then reading it within the
+next day. I wasn't immediately disappointed, but I hated the whole "teenager yells at cloud" thing, and while Umbridge
+was delightfully evil, I just wasn't on board with the weird plot shape and the growing pains.

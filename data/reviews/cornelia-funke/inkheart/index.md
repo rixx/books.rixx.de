@@ -27,6 +27,8 @@ plan:
 related_books:
 - book: cornelia-funke/inkspell
   text: The next book in the series.
+- book: michael-ende/the-neverending-story
+  text: The original book that sucks you in.
 review:
   date_read:
   - 2006-08-01

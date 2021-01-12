@@ -20,9 +20,14 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: If you like the angle of young disadvantaged kids getting to do magic in a realistic world, I will not stop recommending the Young Wizards series. It does so many things so much better than Harry Potter – it comes at it from a more grounded, more realistic view, and carries it off extremely well. It helps that Diane Duane is also a better writer if you just compare their prose.
+
 - book: violet-haberdasher/knightley-academy
   text: If you want to read the same again, down to the characters and sub-plots,
     go here.
+- book: newt-scamander/fantastic-beasts-and-where-to-find-them
+  text: Add-on book that is actually fun.
 - book: j-k-rowling/harry-potter-and-the-chamber-of-secrets
   text: The next book in the series.
 review:
@@ -47,14 +52,5 @@ read the books, and that's really all that matters.
 
 ## Further Reading
 
-If you like the angle of young disadvantaged kids getting to do magic in a realistic world, I will not stop recommending
-the [Young Wizards](https://books.rixx.de/reviews/2016/so-you-want-to-be-a-wizard) series. It does so many things so
-much better than Harry Potter – it comes at it from a more grounded, more realistic view, and carries it off extremely
-well. It helps that Diane Duane is also a better writer if you just compare their prose.
-
-A very similar book to Harry Potter (read: knockoff) is [Knightley
-Academy](https://books.rixx.de/reviews/2020/knightley-academy), so if you just want more of the same, that's where you
-should go.
-
 And then, of course, there is fanfiction. I have not added all the Harry Potter fanfiction I've read to this site, but
-I've added notable ones, and over time I'll list them here.
+I've added notable ones, and you can find them [here](/lists/fanfic).

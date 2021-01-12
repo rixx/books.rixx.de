@@ -22,8 +22,11 @@ review:
   - 2001-10-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: I really should link the third part of the series.
 ---
 
 I loved this book as a kid, both for the fantastic beasts and for the scrawled notes by Harry, Ron and Hermione. Imagine
-if the [Silmarillion](https://books.rixx.de/reviews/2008/the-silmarillion) came with scrawled notes in the margins from
+if the [Silmarillion](j-r-r-tolkien/the-silmarillion) came with scrawled notes in the margins from
 Gandalf and Galadriel.

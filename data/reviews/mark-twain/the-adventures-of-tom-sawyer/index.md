@@ -24,4 +24,7 @@ review:
   - 2002-10-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: carlo-collodi/pinocchio
+  text: If you would like more moralising with your mischievous and brutal childhood tales, Pinocchio is the place to go.
 ---

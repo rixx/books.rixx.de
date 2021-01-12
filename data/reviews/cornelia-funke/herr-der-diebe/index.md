@@ -20,6 +20,11 @@ review:
   - 2001-07-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: astrid-lindgren/kalle-blomquist
+  text: Kalle Blomquist is also about children taking care of things, without talking down to them.
+- book: lemony-snicket/the-bad-beginning
+  text: The Unfortunate Event series does something similar, but is much more cruel.
 ---
 
 Possibly my first good magical realism book. I loved this so much that I took the real name of one of the characters as
@@ -30,13 +35,6 @@ mysterious backstory. They steal and sell small things, and take care of their o
 brothers, the older being heart-breakingly responsible for the younger. The entire worldbuilding is incredibly detailed
 and sucked me in back then.
 
-There was one girl who routinely grabbed cheap books out of the trash and had built a small
-fort of them surrounding her bed in the old cinema they were living in.
-I didn't really care for the plot or the magic – there's a bit of moralising about growing up that was just meh – but
-the worldbuilding was top notch.
-
-## Further Reading
-
-The [Unfortunate Events](https://books.rixx.de/reviews/2017/the-bad-beginning) series does something similar in places,
-but is more cruel. [Kalle Blomquist](https://books.rixx.de/reviews/1998/kalle-blomquist) has a similar
-feeling of children taking care of things in a serious way.
+There was one girl who routinely grabbed cheap books out of the trash and had built a small fort of them surrounding her
+bed in the old cinema they were living in.  I didn't really care for the plot or the magic – there's a bit of moralising
+about growing up that was just meh – but the worldbuilding was top notch.

@@ -18,7 +18,7 @@ book:
   - german
   - kids
   - trickster
-  title: Pippi Langstrumpf
+  title: Pippi Longstocking
 plan:
   date_added: '2015-06-28'
 review:
@@ -26,4 +26,16 @@ review:
   - 2001-11-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: astrid-lindgren/pippi-in-the-south-seas
+  text: Another book in the series.
+- book: astrid-lindgren/madita
+  text: A bit less over-the-top, but still with joyful trickster energy.
+- book: astrid-lindgren/immer-dieser-michel
+  text: More pranks!
+- book: paul-maar/eine-woche-voller-samstage
+  text: Another series with a very similar trickster vibe.
 ---
+
+Joyful is what this book is. Thoroughly joyful, and I'd love to blame it for my anarchist tendencies (but that would
+probably be unfair).

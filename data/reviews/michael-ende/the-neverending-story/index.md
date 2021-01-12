@@ -27,4 +27,22 @@ review:
   - 2002-03-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: cornelia-funke/inkheart
+  text: A more modern and less philosophical take on books that suck you in.
+- book: astrid-lindgren/the-brothers-lionheart
+  text: The books don't have much in common beyond being 70s fantasy for kids, but I loved them at the same time.
 ---
+Neverending – oh, if only! I loved this book as a kid, and there are infinite possibilities for tie-ins (though arguably
+the book is better off without them).
+
+The Neverending Story is special to me. It has some serious messages, and I read it early enough to have them buried
+deep in my brain, emerging slowly as I age. The first one was about being the loner kid who loves books, and how that
+doesn't have to be a bad thing. The next one was about not forgetting your friends, and being there for them. Then we
+have a sharp reminder that when you do new things, you become a different person, which is both an opportunity for
+change and a danger if you're not careful. An understanding that wishes emerge naturally from within, and that when you
+get your wish, a new one will soon arise. And finally, a belief that you can, in fact, get what you wish for, often just
+by focusing on the wish.
+
+If you know only the movie, give the book a chance – the movie is very different, and covers only roughly the first half
+of the book.

@@ -32,3 +32,10 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Imagine being 14 when this book comes out, and being just not quite good enough to read it in English. So you have to
+wait for painful months while your mother (your *own mother*, the traitor) reads it in English and can then threaten you
+with spoilers.
+
+I think this book is where I kind of detached emotionally from the series. I read it, and I was impatient for it, but
+while I was waiting for it, my interest dropped and never quite picked up again. I found the book much better than the
+fifth part though, and more atmospheric than the seventh.

@@ -14,11 +14,11 @@ book:
   publication_year: '2016'
   series: Harry Potter
   series_position: '8'
-  slug: harry-potter-and-the-cursed-child-parts-one-and-two
+  slug: harry-potter-and-the-cursed-child
   spine_color: '#d4a637'
   tags:
   - stage-play
-  title: 'Harry Potter and the Cursed Child: Parts One and Two'
+  title: 'Harry Potter and the Cursed Child'
 plan:
   date_added: '2016-08-16'
 related_books:

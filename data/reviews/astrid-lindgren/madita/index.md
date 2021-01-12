@@ -19,6 +19,7 @@ plan:
 review:
   date_read:
   - 2001-01-01
+  - 2021-01-12
   did_not_finish: false
   rating: 3
 related_books:

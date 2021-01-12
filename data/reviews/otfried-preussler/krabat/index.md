@@ -25,4 +25,7 @@ review:
   - 2005-07-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: astrid-lindgren/ronia-the-robbers-daughter
+  text: A completely different book for a slightly younger audience, but with the same vibe of strenght and darkness and no attempt to coddle its readers.
 ---

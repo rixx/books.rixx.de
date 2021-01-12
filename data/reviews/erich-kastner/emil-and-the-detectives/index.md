@@ -27,3 +27,8 @@ review:
   did_not_finish: false
   rating: 5
 ---
+
+## Fun Fact
+
+This book is the reason why Astrid Lindgren's [Emil](/astrid-Lindgren/emil-in-the-soup-tureen) is called Michel in
+German. Can't have two Emils, apparently!

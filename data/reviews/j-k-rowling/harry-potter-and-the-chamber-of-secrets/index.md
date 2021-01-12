@@ -34,3 +34,7 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
+Felt sense for books is a weird thing. The first book has a felt sense of warmth and wonder, while this one has a felt
+sense of damp and cold and wet and danger. I enjoyed it less than the first or the third one, but I still tore through
+it.
