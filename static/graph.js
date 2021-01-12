@@ -86,16 +86,18 @@ d3.json("/graph.json").then(data => {
         //.attr("stroke-width", d => Math.sqrt(d.value));
 
     const colorScale = d3.scaleLinear().domain([0, 20]).range(["grey", "blue"]);
-    const node = svg.append("g")
+    const node = svg
+        .append("g")
         .attr("stroke", "#fff")
         .attr("stroke-width", 1.5)
         .selectAll("circle")
         .data(data.nodes)
-        .join("circle")
+        .join("a")
+        .attr("href", (d) => "/" + d.id)
+        .append("circle")
         .attr("r", (d) => 5 + (d.rating || 0))
         //.attr("fill", (d) => colorScale(d.connections))
         .attr("fill", (d) => d.color || "grey")
-        .on("click", (d, i) => {window.location.href = "/" + i.id})
         .on("mouseover", hoverHandler)
         .call(drag(simulation));
 
