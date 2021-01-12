@@ -21,6 +21,10 @@ body {
   font-feature-settings: "liga", "xtex";
 }
 main {
+  z-index: 10;
+  position: relative;
+}
+main:not(.wide) {
   margin-left: auto;
   margin-right: auto;
   padding: 1em;
@@ -31,8 +35,6 @@ main {
   background: white;
   border-left: solid 1px #990000;
   border-right: solid 1px #990000;
-  z-index: 10;
-  position: relative;
 }
 code, pre, .code.literal-block {
   font-family: "Ubuntu Mono", "Inconsolata", monospace;
@@ -158,6 +160,7 @@ footer {
   font-size: 0.75em;
   padding: 1em;
   text-align: center;
+  z-index: 20;
 }
 
 button {
@@ -787,6 +790,19 @@ header a {
 }
 .spine.spine-lined {
   background-image: url('/static/lined.png')
+}
+
+#graph-wrapper {
+  display: flex;
+  height: calc(100vh - 100px);
+}
+#graph-wrapper #book-preview {
+  width: 250px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
+  height: 100%;
+}
+#graph-wrapper svg circle {
+  cursor: pointer;
 }
 
 @media (max-width: 480px) {

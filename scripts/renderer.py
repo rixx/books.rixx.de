@@ -1,6 +1,7 @@
 import datetime as dt
 import hashlib
 import itertools
+import json
 import pathlib
 import statistics
 import subprocess
@@ -62,6 +63,12 @@ def render_page(template_name, path, env=None, **context):
     out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(html)
+
+
+def render_string(path, string):
+    out_path = pathlib.Path("_html") / path
+    out_path.parent.mkdir(exist_ok=True, parents=True)
+    out_path.write_text(string)
 
 
 def render_feed(events, path, render):
@@ -595,5 +602,37 @@ def build_site(**kwargs):
         "stats/index.html",
         stats=stats,
     )
+
+    # Render graph page
+    print("🕸  Rendering graphs")
+    nodes = set()
+    edges = set()
+    for review in all_reviews:
+        for related in review.metadata.get("related_books", []):
+            edges.add(tuple(sorted([related["book"], review.id])))
+            nodes.add(related["book"])
+            nodes.add(review.id)
+    nodes = [
+        {
+            "id": review,
+            "name": review_lookup[review].metadata["book"]["title"],
+        }
+        for review in nodes
+    ]
+    edges = [
+        {
+            "source": source,
+            "target": target,
+        }
+        for source, target in edges
+    ]
+    render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
+    render(
+        "graph.html",
+        "graph/index.html",
+    )
+
+    # Render quotes
+    print("💬 Rendering quotes")
 
     print("✨ Rendered HTML files to _html ✨")

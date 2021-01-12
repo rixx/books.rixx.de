@@ -17,7 +17,7 @@
   <body>
     {% include "_header.html" %}
 
-    <main>
+    <main{% block main_class %}{% endblock %}>
       {% block content %}{% endblock %}
     </main>
 
