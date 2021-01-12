@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: douglas-adams/the-long-dark-tea-time-of-the-soul
+  text: A very different take on living gods.
 - book: neil-gaiman/anansi-boys
   text: The next book in the series.
 review:

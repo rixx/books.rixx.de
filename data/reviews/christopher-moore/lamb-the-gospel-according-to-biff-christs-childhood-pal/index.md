@@ -20,7 +20,7 @@ book:
 plan:
   date_added: '2016-05-18'
 related_books:
-- book: terry-pratchett/good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+- book: terry-pratchett/good-omens
   text: My favourite riff on Christianity.
 review:
   date_read:

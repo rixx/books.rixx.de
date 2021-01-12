@@ -24,4 +24,7 @@ review:
   - 2009-04-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: bram-stoker/dracula
+  text: Published only five years apart, about creepy Transsylvanian castles.
 ---

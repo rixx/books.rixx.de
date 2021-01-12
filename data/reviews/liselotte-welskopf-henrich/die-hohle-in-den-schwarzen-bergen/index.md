@@ -33,3 +33,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+I didn't relate to this book all that much, and I kinda disliked the whole gold story arc. The story might have been
+better off without it. It's definitely good setup for the second half of the series though, so I won't grump too much.

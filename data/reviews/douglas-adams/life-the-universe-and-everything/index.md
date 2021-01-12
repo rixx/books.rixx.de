@@ -35,3 +35,4 @@ review:
   did_not_finish: false
   rating: 2
 ---
+I liked the series less and less, the longer it went on, but I still read it – and not just out of pop-cultural duty.

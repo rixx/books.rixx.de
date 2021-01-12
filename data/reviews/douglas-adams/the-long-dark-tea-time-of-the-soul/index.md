@@ -25,9 +25,14 @@ plan:
 related_books:
 - book: douglas-adams/dirk-gentlys-holistic-detective-agency
   text: The previous book in the series.
+- book: neil-gaiman/american-gods
+  text: A very different take on living gods.
 review:
   date_read:
   - 2008-02-01
   did_not_finish: false
   rating: 3
 ---
+Fun ride, but not outstanding. I liked the gods, the absurdness, and – for some reason – the protagonist. Slightly
+annoyed with featureless female sidekicks, but what can you do. I have on occasion had the uncharitable thought that the
+title might be better than the book. It's not, but it's also not not.

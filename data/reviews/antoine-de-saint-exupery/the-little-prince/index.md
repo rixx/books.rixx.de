@@ -16,4 +16,10 @@ review:
   - 2002-04-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: george-orwell/animal-farm
+  text: In most ways the strict opposite of this book. Where the Little Prince is whimsical and caring, Animal Farm is harsh and brutal. And yet, both want nothing more than convince a child-like audience of their point.
 ---
+The adorable faux-philosophical book with delightfully whimsical moments was something I enjoyed a lot as a kid. I would
+imagine that much of its charm is due to my age when reading it though, and if I had read it for the first time now, I
+wouldn't be nearly as enchanted by the rose and the sheep and so on.

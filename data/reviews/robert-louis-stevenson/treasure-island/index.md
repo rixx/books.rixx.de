@@ -24,4 +24,7 @@ review:
   - 2004-07-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: jules-verne/dick-sands-the-boy-captain
+  text: Similar spirit of adventure, very different execution
 ---

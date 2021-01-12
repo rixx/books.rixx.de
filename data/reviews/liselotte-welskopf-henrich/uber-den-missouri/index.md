@@ -31,3 +31,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Concluding the series – I really should re-read to see what I think now. Back in the day I liked the early books more,
+but then, that's where the protagonist was closer to my own age. I wonder if my reading tastes just shuffle along with
+the protagonist's age …

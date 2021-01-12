@@ -29,3 +29,5 @@ review:
   did_not_finish: false
   rating: 2
 ---
+Everything is a bit less new and a bit less shiny in this book compared to its predecessor, but it's by no means bad.
+Still lots of hilarious moment, and lots of absurdity.

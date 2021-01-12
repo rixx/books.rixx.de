@@ -31,3 +31,6 @@ review:
   did_not_finish: false
   rating: 3
 ---
+
+More goodness: Harka has really come into his own and gotten back from his (well, his father's) banishment. Many
+well-loved characters from the first book re-occur. Welskopf-Henrich handles the reuniting very well, if memory serves.

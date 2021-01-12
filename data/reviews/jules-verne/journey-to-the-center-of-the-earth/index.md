@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: jules-verne/the-castle-of-the-carpathians
+  text: Even more nature descriptions. So much nature.
 - book: jules-verne/around-the-world-in-eighty-days
   text: The next book in the series.
 review:

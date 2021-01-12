@@ -18,4 +18,7 @@ review:
   - 2015-04-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: Wildly different books, except in spirit, where they are closely related.
 ---

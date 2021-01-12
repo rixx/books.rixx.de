@@ -24,6 +24,8 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: More British absurdities. Very different, but certainly related.
 - book: jasper-fforde/lost-in-a-good-book
   text: The next book in the series.
 review:

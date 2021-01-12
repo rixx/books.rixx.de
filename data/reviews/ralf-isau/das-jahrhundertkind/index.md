@@ -23,6 +23,8 @@ book:
 plan:
   date_added: '2015-06-28'
 related_books:
+- book: liselotte-welskopf-henrich/harka
+  text: A completely different story, but one that also follows its protagonist from childhood to old age over several books.
 - book: ralf-isau/der-wahrheitsfinder
   text: The next book in the series.
 review:

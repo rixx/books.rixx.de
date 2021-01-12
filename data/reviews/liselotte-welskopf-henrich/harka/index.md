@@ -23,6 +23,8 @@ book:
 plan:
   date_added: '2015-07-03'
 related_books:
+- book: ralf-isau/das-jahrhundertkind
+  text: A completely different story, but one that also follows its protagonist from childhood to old age over several books.
 - book: liselotte-welskopf-henrich/der-weg-in-die-verbannung
   text: The next book in the series.
 review:
@@ -31,3 +33,7 @@ review:
   did_not_finish: false
   rating: 5
 ---
+This series … weirdly enough, I wouldn't say that it has had a huge influence on me, despite being one of my favourites
+at the time. And the first part was my favourite among the series (once I got to read it – my introduction was a
+shortened mashup of volumes 4-6, if I recall correctly). Seeing the young Harka encounter hardship and deal with it with
+strength and grace was enchanting.

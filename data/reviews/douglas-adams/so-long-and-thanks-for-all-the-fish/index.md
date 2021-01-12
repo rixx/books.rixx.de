@@ -33,3 +33,5 @@ review:
   did_not_finish: false
   rating: 2
 ---
+I honestly didn't enjoy the later parts of the Hitchhiker's Guide. Maybe it was the novelty wearing off, the jokes
+becoming too predictable? Not the jokes themselves, of course, just their general shape.

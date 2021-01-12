@@ -19,6 +19,11 @@ review:
   - 2017-07-02
   did_not_finish: false
   rating: 3
+related_books:
+- book: robert-galbraith/the-cuckoos-calling
+  text: More non-magic books by Rowling
 ---
 
-I cannot call this book enjoyable, because it was horribly depressing, but it was spot on writing that really drew me in. Rowling apparently has a gift to protrait real life people (both in the Cormoran Strike books and here).
+I cannot call this book enjoyable, because it was horribly depressing, but it was spot on writing that really drew me
+in. It felt like meeting real life people (and I had the same feeling in the Cormoran books), though that may only be in
+contrast to Harry Potter.

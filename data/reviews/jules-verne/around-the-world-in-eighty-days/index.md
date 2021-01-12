@@ -32,3 +32,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+Not quite sci-fi, but the inner geek of Verne makes a strong showing. The research and vividness of his descriptions is
+impeccable, and makes the characters tolerable (and the final twist, of course, is delightful).

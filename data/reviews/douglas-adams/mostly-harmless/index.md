@@ -33,3 +33,5 @@ review:
   did_not_finish: false
   rating: 3
 ---
+I honestly don't have real memories of reading this book. I only completed it out of a sense of duty – wouldn't have
+done so today.

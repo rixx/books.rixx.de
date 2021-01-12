@@ -20,4 +20,16 @@ review:
   - 2002-08-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: jules-verne/around-the-world-in-eighty-days
+  text: More Verne travels, though in a more privileged and safer manner.
+- book: robert-louis-stevenson/treasure-island
+  text: Similar spirit of adventure, very different execution
 ---
+Verne could write pure adventure stories, too, and didn't need to put in scifi to make them work. I read this book
+multiple times as a kid and was utterly captivated by it. The vivid nature descriptions of Africa and South America, the
+young protagonist responsible for the crew, the strong and brutal depiction and condemnation of slavery … This book
+flinches away from very little. I still can tell you about the characters and the plot today, and it's been nearly
+twenty years since I've read the book.
+
+Plus, it's responsible for teaching me what an entomologist is and does, so there's that.
