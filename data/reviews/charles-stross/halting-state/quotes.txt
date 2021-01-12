@@ -1,0 +1,6 @@
+You’re a grown-up, these days. You don’t wear a kamikaze pilot’s rising sun headband and a tee-shirt that screams DEBUG THIS! and you don’t spend your weekends competing in extreme programming slams at a windy campsite near Frankfurt, but it’s generally difficult for you to use any machine that doesn’t have at least one compiler installed: In fact, you had to stick Python on your phone before you even opened its address book because not being able to brainwash it left you feeling handicapped, like you were a passenger instead of a pilot. In another age you would have been a railway mechanic or a grease monkey crawling over the spark plugs of a DC-3. This is what you are, and the sad fact is, they can put the code monkey in a suit but they can’t take the code out of the monkey.
+%
+They can put the code monkey in a suit but they can’t take the code out of the monkey.
+%
+But you’re more at home with SQL than socialization: Innuendo wasn’t a language they taught in CS lab.
+%

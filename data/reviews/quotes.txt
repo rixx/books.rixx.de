@@ -1,0 +1,392 @@
+Sometimes me think "What is friend?", and then me say, "Friend is someone to share the last cookie with."
+ - Cookie Monster
+%
+On the Continent people have good food; in England people have good table manners.
+ - George Mikes
+%
+To err is human; to really screw up requires the root password.
+ - The Practice of System and Network Administration
+%
+If at first you do succeed - try to hide your astonishment.
+ - Harry Banks
+%
+The most likely way for the world to be destroyed, most experts agree, is by accident. That's where we come in; we're computer professionals. We cause accidents.
+ - Nathaniel Borenstein
+%
+Man is the lowest-cost, 150-pound, nonlinear, all-purpose computer system which can be mass-produced by unskilled labor.
+ - NASA
+%
+Typing is no substitute for thinking.
+ - Dartmouth Basic Manual, 1964
+%
+Trying to outsmart a compiler defeats much of the purpose of using one.
+ - Kernighan & Player, The Elements of Programming Style
+%
+Lambdas are relegated to relative obscurity until Java makes them popular by not having them.
+ - A brief, incomplete and mostly wrong history of Programming Languages
+%
+The last good thing written in C++ was the Pachelbel canon.
+ - Jerry Olson
+%
+Sprint's ring cycle - the time the phone rings befor going to voicemail - is 23 seconds. (For those keeping score, Wagner's is 2,350 times longer.)
+ - Randall Munroe
+%
+Opportunity is missed by most people because it is dressed in overalls and looks like work.
+ - Thomas Edison
+%
+Don't practice until you get it right. Practice until you can't get it wrong.
+%
+The computer itself can be viewed as a finite state system, although doing so turns out not to be as useful as one would like.
+ - Introduction to Automata Theory, Languages and Computation
+%
+My pain may be the reason for somebody's laugh. But my laugh may never be the reason for somebody's pain.
+ - Charlie Chaplin
+%
+And don't tell me there isn't one bit of difference between null and space, because that's exactly how much difference there is.
+ - Larry Wall
+%
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+ - Tom Cargill
+%
+Early to rise, early to bed, makes a man healthy, wealthy and dead.
+ - James Thurber
+%
+Why does Oedipus avoid using profane language?
+
+Because he's going to kiss his mother with that mouth.
+%
+Reading Trotsky to find out Stalin's role in the revolution is like reading Stalin to find out Trotsky's role in the revolution.
+%
+You think it’ll last forever. People and cars and concrete. But it won’t. One day it’s all gone. Even the sky. It’s just rocks and dust.
+ - The Doctor
+%
+Who looks at a screwdriver and thinks, “Ooh, this could be a little more sonic.”?
+ - Jack Harkness
+%
+Doctor: Who am I to argue with history?
+Rose: Usually the first in line.
+%
+Funny thing. Last time I was sentenced to death I ordered four hyper-vodkas for my breakfast. All a bit of a blur after that. Woke up in bed with both my executioners. Lovely couple. They stayed in touch. Can’t say that about most executioners.
+ - Jack Harkness
+%
+Rose: Doctor, they’ve got guns.
+The Doctor: And I haven’t. Which makes me the better person, don’t you think? They can shoot me dead but the moral high ground is mine.
+%
+Cyberman: Your design in inelegant.
+Dalek: Daleks have no concept of elegance!
+Cyberman: This is obvious.
+%
+There’s no such thing as an ordinary human.
+ - The Doctor
+%
+Tracked you down with this. This is my Timey-Wimey detector. Goes ding when there’s stuff.
+ - The Doctor
+%
+Don't meddle in the affairs of sysadmins, for they are subtle, and quick to anger.
+%
+A change in perceptive is worth 80 IQ points.
+ - Alan Kay
+%
+Technology is anything that wasn't around when you were born.
+ - Alan Kay
+%
+The whole thing that makes a mathematician's life worthwhile is that he gets the grudging admiration of three or four colleagues.
+ - Donald Knuth
+%
+I define UNIX as 30 definitions of regular expressions living under one roof.
+ - Donald Knuth
+%
+Random numbers should not be generated with a method chosen at random.
+ - Donald Knuth
+%
+Premature optimization is the root of all evil.
+ - Donald Knuth
+%
+Simplicity is a great virtue, but it requires hard work to achieve it and education to appreaciate it. And to make matters worse: Complexity sells better.
+ - Edsger W. Dijkstra
+%
+Life's not fair, but the root password helps.
+ - BOFH
+%
+Young man, in mathematics you don't understand things. You just get used to them.
+ - John von Neumann
+%
+It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl.
+ - John von Neumann
+%
+There's no system foolproof enough to defeat a sufficiently great fool.
+ - Edward Teller
+%
+Strive to be consistently good, and the greatness will take care of itself.
+ - Jeff Atwood
+%
+If at first you do succeed - try to hide your astonishment.
+ - Harry Banks
+%
+The city's central computer told you? R2D2, you know better than to trust a strange computer!
+ - C3PO
+%
+Voodoo Programming: Things programmers do that they know shouldn't work but they try anyway, and which sometimes actually work, such as recompiling everything.
+ - Karl Lehenbauer
+%
+If you have any trouble sounding condescending, find a UNIX user to show you how it's done.
+ - Scott Adams
+%
+It should be noted, that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+ - Nathaniel Borenstein
+%
+There's nothing funny about IBM or FORTRAN. It is a syntax error to write FORTRAN while not wearing a blue tie.
+ - A brief, incomplete and mostly wrong history of Programming Languages
+%
+Due to high costs caused by a post-war depletion of the strategic parentheses reserve LISP never became popular.
+ - A brief, incomplete and mostly wrong history of Programming Languages
+%
+In spite of its lack of popularity, LISP remains an influential language in "key algorithmic techniques such as recursion and condescension."
+ - A brief, incomplete and mostly wrong history of Programming Languages
+%
+1964: John Kemeny and Thomas Kurtz create BASIC, an unstructured programming language for non-computer scientists.
+1965: Kemeny and Kurzt go to 1964.
+ - A brief, incomplete and mostly wrong history of Programming Languages
+%
+By policy, LISP has never really catered to mere mortals. And, of course, mere mortals have never really forgiven LISP for not catering to them.
+ - Larry Wall
+%
+Physics is like sex: sure, it may give some practical results, but that's not why we do it.
+ - Richard Feynman
+%
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+ - Tom Cargill
+%
+I don't want drugs, I am drugs.
+ - Salvador Dali
+%
+Magnets work because they're mined from the ground with their gravity still inside them.
+%
+Also, parking cars is apparently a very masculine occupation. God knows I couldn't do it; my vagina would get caught on the stick shift and I'd menstruate everywhere and then I'd probably start crying.
+ - Pervocracy
+%
+Any sufficiently advanced stupidity is indistinguishable from malice.
+ ― Paul Chvostek by way of Arthur C. Clarke (via John Ripley)
+%
+Nature and nature’s laws lay hid in night; God said ‘Let Newton be’ and all was light.
+ - Alexander Pope
+%
+Once is happenstance, twice is coincidence, three times is enemy action.
+ - Ian Fleming
+%
+As far as we know, quantum mechanics provides an exact description of every physical system, but some things are massive enough that quantum mechanics can be reliably approximated by classical mechanics.
+ - Leonard Susskind, Quantum Mechanics
+%
+Quantum mechanics is technically much easier than classical mechanics.
+ - Leonard Susskind, Quantum Mechanics
+%
+I have discovered a truly remarkable proof of this theorem, which this margin is too small to contain.
+ - Pierre Fermat
+%
+… the Analytical Engine weaves algebraic patterns just as the Jacquard-loom weaves flowers and leaves.
+ - Ada Augusta
+%
+First actual case of bug being found.
+ - Grace Hopper
+%
+For about a year now I’ve been occupied with thoughts about a mechanical brain.
+ - Konrad Zuse
+%
+I’m doing a (free) operating system (just a hobby, won’t be big and professional like GNU) for 386 (486) AT clones.
+ - Linus Torvalds
+%
+It's funny how the earth never opens up and swallows you when you want it to.
+ - Xander Harris
+%
+A new idea is delicate. It can be killed by a sneer or a yawn; it can be stabbed to death by a quip and worried to death by a frown on the right man’s brow.
+ – Ovid
+%
+Cordelia: Does looking at big guns make you think about sex?
+Xander: I'm 17. Looking at linoleum makes me think about sex.
+%
+ As long as valor remains a virtue, we shall have soldiers. So, I preach cowardice. Through cowardice, we shall all be saved.
+ - The Americanization of Emily
+%
+God save us all from people doing the morally right thing.
+ - The Americanization of Emily
+%
+It is said that the only tamper-proof hardware is Voyager 2.
+ - Peter Gutmann
+%
+All of humanity's problems stem from man's inability to sit quietly in a room alone.
+ - Blaise Pascal, Pensées
+%
+The best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.
+ - Mihaly Csikszentmihalyi
+%
+I beseech you, in the bowels of Christ, think it possible you may be mistaken.
+ - Oliver Cromwell
+%
+Given ships or sails adapted to the breezes of heaven, there will be those who will not shrink from even that vast expanse.
+ - Johannes Kepler in a letter to Galileo, 1610
+%
+Don’t you know how, in talking a foreign language, even fluently, one says half the time, not what one wants to, but what one can?
+ - Edith Wharton
+%
+Education is experience, and the essence of experience is self-reliance.
+ - T. H. White, The Sword in the Stone
+%
+If you know in the morning what your day looks like with any precision, you are a little bit dead - the more precision the more dead.
+ - Nassim Nicholas Taleb
+%
+No plan of operations extends with any certainty beyond the first contact with the main hostile force.
+ - Helmuth Karl Bernhard von Moltke
+%
+May the butterflies of your mind never obscure the truth.
+ - The Discworld MUD
+%
+That’s Kipling, and he’s so problematic he washes his uniforms at the problemat.
+ - Paul Ford
+%
+Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.
+ - Viktor Frankl
+%
+The psychological rule says that when an inner situation is not made conscious, it happens outside, as fate.
+ - C. G. Jung
+%
+As the astronomers unanimously teach, the circuit of the whole earth, which to us seems endless, compared with the greatness of the universe has the likeness of a mere tiny point.
+ - Ammianus Marcellinus, The Chronicle of Events, ca. 380 CE
+%
+Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives.
+ - Carl Sagan, Pale Blue Dot
+%
+Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, ever king and peasant, every young couple in love, every moth and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar,” every "supreme leader," every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.
+ - Carl Sagan, Pale Blue Dot
+%
+Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+ - Carl Sagan, Pale Blue Dot
+%
+And after the Earth dies, some 5 billion years from now, after it is burned to a crisp or even swallowed by the Sun, there will be other worlds and stars and galaxies coming into being—and they will know nothing of a place once called Earth.
+ - Carl Sagan, Pale Blue Dot
+%
+We at the center and everything else circling us is built into our languages; we teach it to our children. We are unreconstructed geocentrists hiding behind a Copernican veneer.
+ - Carl Sagan, Pale Blue Dot
+%
+Despite explicit orders to the contrary, a woman and a man once ate of an apple, and that this act of insubordination transformed the Universe into a contrivance for operant-conditioning their remote descendants.
+ - Carl Sagan, Pale Blue Dot
+%
+Culture eats strategy for breakfast.
+ - Peter Drucker
+%
+If we crave some cosmic purpose, then let us find ourselves a worthy goal.
+ - Carl Sagan, Pale Blue Dot
+%
+At depth on Jupiter and Saturn, the pressures are so great that atoms sweat electrons, and the air becomes a metal.
+ - Carl Sagan, Pale Blue Dot
+%
+Turn off the Sun and the planet soon chills—not to trifling Antarctic cold, not just so cold that the oceans freeze, but to a cold so intense that the very air precipitates out, forming a ten-meter-thick layer of oxygen and nitrogen snows covering the whole planet.
+ - Carl Sagan, Pale Blue Dot
+%
+Everyone is conservative about what they know best.
+ - Robert Conquest
+%
+Suede shoes should only be worn by consenting adults in private.
+ - John Taylor
+%
+At many levels of human interaction there is the opportunity to conflate discomfort with threat, to mistake internal anxiety for exterior danger, and in turn to escalate rather than resolve.
+ - Sarah Schulman, Conflict is not Abuse
+%
+People seem to think that the big thing is the factory or the store or the financial backing or the management. The big thing is the product, and any hurry in getting into fabrication before designs are completed is just so much waste time.
+ - Henry Ford, My Life and Work
+%
+If ever I wanted to kill opposition by unfair means I would endow the opposition with experts. They would have so much good advice that I could be sure they would do little work.
+ - Henry Ford, My Life and Work
+%
+I cannot say that it was hard work. No work with interest is ever hard.
+ - Henry Ford, My Life and Work
+%
+Everything is in flux, and was meant to be. Life flows. We may live at the same number of the street, but it is never the same man who lives there.
+ - Henry Ford, My Life and Work
+%
+It could almost be written down as a formula that when a man begins to think that he has at last found his method he had better begin a most searching examination of himself to see whether some part of his brain has not gone to sleep.
+ - Henry Ford, My Life and Work
+%
+When one of my cars breaks down I know I am to blame.
+ - Henry Ford, My Life and Work
+%
+Any customer can have a car painted any colour that he wants so long as it is black.
+ - Henry Ford, My Life and Work
+%
+Of course it is not the employer who pays wages. He only handles the money. It is the product that pays the wages and it is the management that arranges the production so that the product may pay the wages.
+ - Henry Ford, My Life and Work
+%
+We have most unfortunately found it necessary to get rid of a man as soon as he thinks himself an expert—because no one ever considers himself expert if he really knows his job. A man who knows a job sees so much more to be done than he has done, that he is always pressing forward and never gives up an instant of thought to how good and how efficient he is. Thinking always ahead, thinking always of trying to do more, brings a state of mind in which nothing is impossible. The moment one gets into the “expert” state of mind a great number of things become impossible.
+ - Henry Ford, My Life and Work
+%
+The effect of a title is very peculiar. It has been used too much as a sign of emancipation from work. It is almost equivalent to a badge bearing the legend: “This man has nothing to do but regard himself as important and all others as inferior.” Not only is a title often injurious to the wearer, but it has its effect on others as well. There is perhaps no greater single source of personal dissatisfaction among men than the fact that the title-bearers are not always the real leaders. Everybody acknowledges a real leader—a man who is fit to plan and command. And when you find a real leader who bears a title, you will have to inquire of someone else what his title is. He doesn’t boast about it.
+ - Henry Ford, My Life and Work
+%
+the vast majority of men want to stay put. They want to be led. They want to have everything done for them and to have no responsibility. Therefore, in spite of the great mass of men, the difficulty is not to discover men to advance, but men who are willing to be advanced.
+ - Henry Ford, My Life and Work
+%
+Usually it so works out that adopting the way which is easier on the men also decreases the cost. There is most intimate connection between decency and good business.
+ - Henry Ford, My Life and Work
+%
+Every accident, no matter how trivial, is traced back by a skilled man employed solely for that purpose, and a study is made of the machine to make that same accident in the future impossible.
+ - Henry Ford, My Life and Work
+%
+Something like seven hundred men are detailed exclusively to keeping the shops clean, the windows washed, and all of the paint fresh. The dark corners which invite expectoration are painted white. One cannot have morale without cleanliness. We tolerate makeshift cleanliness no more than makeshift methods.
+ - Henry Ford, My Life and Work
+%
+If a man has worked too hard or through too long hours he gets into a mental state that invites accidents. Part of the work of preventing accidents is to avoid this mental state; part is to prevent carelessness, and part is to make machinery absolutely fool-proof.
+ - Henry Ford, My Life and Work
+%
+The employer who is seriously trying to do his duty in the world must be a hard worker. He cannot say, “I have so many thousand men working for me.” The fact of the matter is that so many thousand men have him working for them.
+ - Henry Ford, My Life and Work
+%
+Concentrating on prices instead of on service is a sure indication of the kind of business man who can give no justification for his existence as a proprietor.
+ - Henry Ford, My Life and Work
+%
+People do not stay put. That is the trouble with all the framers of Socialistic and Communistic, and of all other plans for the ideal regulation of society. They all presume that people will stay put. The reactionary has the same idea. He insists that everyone ought to stay put. Nobody does, and for that I am thankful.
+ - Henry Ford, My Life and Work
+%
+Speculation will kill any manufacturer. Give him a couple of good purchases on which he makes money and before long he will be thinking more about making money out of buying and selling than out of his legitimate business, and he will smash. The only way to keep out of trouble is to buy what one needs—no more and no less.
+ - Henry Ford, My Life and Work
+%
+The payment of high wages fortunately contributes to the low costs because the men become steadily more efficient on account of being relieved of outside worries.
+ - Henry Ford, My Life and Work
+%
+One does not become enlightened by imagining figures of light but by making the darkness conscious.
+ - Carl G. Jung
+%
+I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated.
+ - Poul Anderson
+%
+The real choice in the management of a nonrenewable resource is whether to get rich very fast or to get less rich but stay that way longer.
+ - Donella H. Meadows, Thinking in Systems
+%
+Being in a Conflict is a position that is filled with responsibility and opportunity.
+ - Sarah Schulman, Conflict is not Abuse
+%
+An apology that doesn’t allow the other person to talk is not an apology.
+ - Sarah Schulman, Conflict is not Abuse
+%
+Being accused of desire is as old as history itself, and is central to the queer experience.
+ - Sarah Schulman, Conflict is not Abuse
+%
+The fact that something could go wrong does not mean that we are in danger. It means that we are alive.
+ - Sarah Schulman, Conflict is not Abuse
+%
+It’s pretty thin, the wall separating healthy confidence and unhealthy pride.
+ - Haruki Murakami, What I Talk About When I Talk About Running
+%
+The most important thing we ever learn at school is the fact that the most important things can’t be learned at school.
+ - Haruki Murakami, What I Talk About When I Talk About Running
+%
+As a young man I used to have four supple members and one stiff one. Now I have four stiff and one supple.
+ - Henri, Duc d'Aumale, 1822-1897
+%
+We don't march towards the future, we charge it.
+ – Imperial Military Academy, Barrayar
+%
+There is absolutely no truth that does not spell salvation to one person and damnation to another.
+ – C. G. Jung
+%
+A novel is a prose work of a certain length that has something wrong with it.
+ – Randall Jarrell
+%
