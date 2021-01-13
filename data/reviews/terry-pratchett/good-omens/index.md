@@ -6,7 +6,7 @@ book:
   goodreads: '12067'
   pages: '491'
   publication_year: '1990'
-  slug: good-omens-the-nice-and-accurate-prophecies-of-agnes-nutter-witch
+  slug: good-omens
   spine_color: '#c9b588'
   tags:
   - fantasy

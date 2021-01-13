@@ -16,16 +16,37 @@ book:
   title: Madita
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: astrid-lindgren/pippi-langstrumpf
+  text: More Lindgren goodness
 review:
   date_read:
   - 2001-01-01
   - 2021-01-12
   did_not_finish: false
   rating: 3
-related_books:
-- book: astrid-lindgren/pippi-langstrumpf
-  text: More Lindgren goodness
+  tldr: My yearly Lindgren re-read, just to confirm that she's still one of my favourite
+    authors. Yep, still is.
+social:
+  mastodon:
+    datetime: 2021-01-13 08:40:09.011439
+    id: '105547275226621278'
+    in_reply_to: '105522805550661268'
+    text: '7/ Madita by Astrid Lindgren. My yearly Lindgren re-read, just to confirm
+      that she''s still one of my favourite authors. Yep, still is.
+
+      https://books.rixx.de/astrid-lindgren/madita/ #rixxReads'
+  number: 7
+  twitter:
+    datetime: 2021-01-13 08:40:08.647576
+    id: '1349259923356610562'
+    in_reply_to: '1347693863943741445'
+    text: '7/ Madita by Astrid Lindgren. My yearly Lindgren re-read, just to confirm
+      that she''s still one of my favourite authors. Yep, still is.
+
+      https://books.rixx.de/astrid-lindgren/madita/'
 ---
+
 Madita is a somewhat less intense Pippi: she has a younger sister and is up to all sorts of ridiculous nonsense, but
 doesn't go to society-breaking extremes. Well, usually.
 
