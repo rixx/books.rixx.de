@@ -1,7 +1,6 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: die-wilden-huhner.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783791504452-L.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1993'
   series: Die Wilden Hühner
   series_position: '1'
-  slug: die-wilden-huhner
   spine_color: '#eebe15'
   tags:
   - german
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2004-11-01
-  did_not_finish: false
   rating: 3
 ---
 
@@ -39,6 +36,6 @@ some of the characters and their general vibe (ok, mostly Sprotte), which is a m
 ## Further Reading
 
 This is the girl series of Cornelia Funke, she also has a [boy
-series](https://books.rixx.de/reviews/2001/ghosthunters-and-the-incredibly-revolting-ghost). For teenagers, her
+series](https://books.rixx.de/reviews/2001/ghosthunters). For teenagers, her
 [Inkworld seris](https://books.rixx.de/reviews/2006/inkheart) is much better. For the intended age group, I always
 thought her [Thief Lord](https://books.rixx.de/reviews/2001/herr-der-diebe) was in a completely different league.

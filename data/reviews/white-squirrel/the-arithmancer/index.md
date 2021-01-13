@@ -7,12 +7,11 @@ book:
   isbn13: null
   pages: '2117'
   publication_year: '2015'
-  slug: the-arithmancer
+  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
   spine_color: '#b39d8c'
   tags:
   - fanfic
   title: 'The Arithmancer (Arithmancer, #1)'
-  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
 plan:
   date_added: 2021-01-06
 related_books:

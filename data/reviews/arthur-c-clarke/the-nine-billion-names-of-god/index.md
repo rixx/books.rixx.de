@@ -1,14 +1,12 @@
 ---
 book:
   author: Arthur C. Clarke
-  cover_image: the-nine-billion-names-of-god.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1224576760l/149075.jpg
   goodreads: '149075'
   isbn10: '0451147553'
   isbn13: '9780451147554'
   pages: '240'
   publication_year: '1967'
-  slug: the-nine-billion-names-of-god
   spine_color: '#dba65b'
   tags:
   - scifi
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-02-19
-  did_not_finish: false
   rating: 3
 ---
 

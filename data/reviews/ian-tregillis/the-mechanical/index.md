@@ -1,7 +1,6 @@
 ---
 book:
   author: Ian Tregillis
-  cover_image: the-mechanical.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316248006-L.jpg
   goodreads: '20980667'
   isbn10: 0316248002
@@ -10,7 +9,6 @@ book:
   publication_year: '2015'
   series: The Alchemy Wars
   series_position: '1'
-  slug: the-mechanical
   spine_color: '#961613'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2020-09-30
-  did_not_finish: false
   rating: 2
 ---
 

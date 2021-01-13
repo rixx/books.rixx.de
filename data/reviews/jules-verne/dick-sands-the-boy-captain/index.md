@@ -1,31 +1,29 @@
 ---
 book:
   author: Jules Verne
-  cover_image: dick-sands-the-boy-captain.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298481301l/237699._SX98_.jpg
   goodreads: '237699'
   pages: '492'
   publication_year: '1878'
   series: The Extraordinary Voyages
   series_position: '17'
-  slug: dick-sands-the-boy-captain
   spine_color: '#5d5d5d'
   tags:
   - german
   title: Dick Sands the Boy Captain
 plan:
   date_added: '2016-05-08'
-review:
-  date_read:
-  - 2002-08-01
-  did_not_finish: false
-  rating: 4
 related_books:
 - book: jules-verne/around-the-world-in-eighty-days
   text: More Verne travels, though in a more privileged and safer manner.
 - book: robert-louis-stevenson/treasure-island
   text: Similar spirit of adventure, very different execution
+review:
+  date_read:
+  - 2002-08-01
+  rating: 4
 ---
+
 Verne could write pure adventure stories, too, and didn't need to put in scifi to make them work. I read this book
 multiple times as a kid and was utterly captivated by it. The vivid nature descriptions of Africa and South America, the
 young protagonist responsible for the crew, the strong and brutal depiction and condemnation of slavery … This book

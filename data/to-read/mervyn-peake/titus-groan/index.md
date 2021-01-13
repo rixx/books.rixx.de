@@ -1,7 +1,6 @@
 ---
 book:
   author: Mervyn Peake
-  cover_image: titus-groan.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780879514259-L.jpg
   goodreads: '39063'
   isbn10: 0879514256
@@ -10,7 +9,6 @@ book:
   publication_year: '1946'
   series: Gormenghast
   series_position: '1'
-  slug: titus-groan
   spine_color: '#4c6858'
   title: Titus Groan
 plan:

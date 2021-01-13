@@ -1,7 +1,6 @@
 ---
 book:
   author: Emily Tesh
-  cover_image: silver-in-the-wood.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250229793-L.jpg
   dimensions:
     height: 20.3
@@ -14,7 +13,6 @@ book:
   publication_year: '2019'
   series: The Greenhollow Duology
   series_position: '1'
-  slug: silver-in-the-wood
   spine_color: '#76694b'
   tags:
   - fantasy
@@ -26,11 +24,9 @@ plan:
 review:
   date_read:
   - 2020-02-20
-  did_not_finish: false
   rating: 4
   tldr: Fairytale-style romance, very English. I enjoyed the (queer) characters and
-    the writing, even though the standard hurt/comfort arc was a little low
-    on substance.
+    the writing, even though the standard hurt/comfort arc was a little low on substance.
 social:
   mastodon:
     datetime: 2020-07-04 23:30:07.482520

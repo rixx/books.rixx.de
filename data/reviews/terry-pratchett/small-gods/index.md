@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: small-gods.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552152976-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Discworld
   series_position: '13'
-  slug: small-gods
   spine_color: '#7e714d'
   title: Small Gods
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2005-01-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ellen Kushner
-  cover_image: swordspoint.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388903158l/68485.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: Riverside
   series_position: '1'
-  slug: swordspoint
   spine_color: '#7e674b'
   title: Swordspoint
 plan:

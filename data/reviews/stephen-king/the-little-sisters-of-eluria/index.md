@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: the-little-sisters-of-eluria.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781880418734-L.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1998'
   series: The Dark Tower
   series_position: '0.5'
-  slug: the-little-sisters-of-eluria
   spine_color: '#847538'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2017-12-25
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Richard Kadrey
-  cover_image: sandman-slim.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311727590l/5776788._SX98_.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: Sandman Slim
   series_position: '1'
-  slug: sandman-slim
   spine_color: '#d6d2cb'
   tags:
   - urban-fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-02-19
-  did_not_finish: false
   rating: 4
 ---
 

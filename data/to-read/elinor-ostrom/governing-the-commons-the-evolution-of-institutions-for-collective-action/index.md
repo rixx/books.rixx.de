@@ -1,7 +1,6 @@
 ---
 book:
   author: Elinor Ostrom
-  cover_image: governing-the-commons-the-evolution-of-institutions-for-collective-action.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780521405997-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780521405997'
   pages: 298
   publication_year: '1990'
-  slug: governing-the-commons-the-evolution-of-institutions-for-collective-action
   spine_color: '#2f1b87'
   title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
 plan:

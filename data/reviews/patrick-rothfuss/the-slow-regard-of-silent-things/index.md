@@ -1,7 +1,6 @@
 ---
 book:
   author: Patrick Rothfuss
-  cover_image: the-slow-regard-of-silent-things.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756410438-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2014'
   series: The Kingkiller Chronicle
   series_position: '2.5'
-  slug: the-slow-regard-of-silent-things
   spine_color: '#155371'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-09-28
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Gretchen McCulloch
-  cover_image: because-internet-understanding-the-new-rules-of-language.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780735210936-L.jpg
   dimensions:
     height: 23.7
@@ -12,7 +11,6 @@ book:
   isbn13: '9780735210936'
   pages: 327
   publication_year: '2019'
-  slug: because-internet
   spine_color: '#faee05'
   tags:
   - language
@@ -21,16 +19,15 @@ book:
   title: 'Because Internet: Understanding the New Rules of Language'
 plan:
   date_added: '2020-04-18'
-review:
-  date_read:
-  - 2020-04-18
-  did_not_finish: false
-  rating: 4
-  tldr: Comprehensive and pleasant study of internet linguistics. The details about
-    our very own inter-generational communications problems are notable and noted.
 related_books:
 - book: mark-twain/the-awful-german-language
   text: Another look at a second language closely related to English.
+review:
+  date_read:
+  - 2020-04-18
+  rating: 4
+  tldr: Comprehensive and pleasant study of internet linguistics. The details about
+    our very own inter-generational communications problems are notable and noted.
 social:
   mastodon:
     datetime: 2020-08-18 14:15:54.774879

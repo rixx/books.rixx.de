@@ -1,7 +1,6 @@
 ---
 book:
   author: Mary Doria Russell
-  cover_image: the-sparrow.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780449912553-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: The Sparrow
   series_position: '1'
-  slug: the-sparrow
   spine_color: '#194ac5'
   tags:
   - scifi
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2020-01-08
-  did_not_finish: false
   rating: 4
   tldr: "Alien life is discovered, and the Jesuits make First Contact because they
     have their shit together. Well-told with strong characters. Humanoid aliens \U0001F644

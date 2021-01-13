@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: furies-of-calderon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441012688-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Codex Alera
   series_position: '1'
-  slug: furies-of-calderon
   spine_color: '#afa1c3'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-01-01
-  did_not_finish: false
   rating: 4
 ---
 

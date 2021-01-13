@@ -1,7 +1,6 @@
 ---
 book:
   author: China Miéville
-  cover_image: the-city-the-city.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345497512-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780345497512'
   pages: 312
   publication_year: '2009'
-  slug: the-city-the-city
   spine_color: '#6686c1'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-11-14
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Thomas F. Green
-  cover_image: voices-the-educational-formation-of-conscience.jpg
   cover_image_url: http://books.google.com/books/content?id=roCfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780268019242'
   pages: 214
   publication_year: '1999'
-  slug: voices-the-educational-formation-of-conscience
   spine_color: '#a7c6af'
   title: 'Voices: The Educational Formation Of Conscience'
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Mark  Lawrence
-  cover_image: grey-sister.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780008152345-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2018'
   series: Book of the Ancestor
   series_position: '2'
-  slug: grey-sister
   spine_color: '#8a9c9f'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2019-04-04
-  did_not_finish: false
   rating: 3
 ---
 

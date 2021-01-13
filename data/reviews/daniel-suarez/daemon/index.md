@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Suarez
-  cover_image: daemon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780525951117-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Daemon
   series_position: '1'
-  slug: daemon
   spine_color: '#da9038'
   tags:
   - scifi
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2011-03-01
-  did_not_finish: false
   rating: 4
 ---

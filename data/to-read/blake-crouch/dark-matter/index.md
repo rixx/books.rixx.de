@@ -1,7 +1,6 @@
 ---
 book:
   author: Blake Crouch
-  cover_image: dark-matter.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781101904220-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781101904220'
   pages: 342
   publication_year: '2016'
-  slug: dark-matter
   spine_color: '#f53c3f'
   title: Dark Matter
 plan:

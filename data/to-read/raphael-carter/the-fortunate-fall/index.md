@@ -1,7 +1,6 @@
 ---
 book:
   author: Raphael Carter
-  cover_image: the-fortunate-fall.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311988750l/1037021._SX98_.jpg
   dimensions:
     height: 20.9
@@ -12,10 +11,10 @@ book:
   isbn13: '9780312863272'
   pages: 288
   publication_year: '1996'
-  slug: the-fortunate-fall
   spine_color: '#c8aa66'
   title: The Fortunate Fall
 plan:
   date_added: '2016-07-24'
 ---
+
 Reporter with virtual reality broadcast brain implant. Kathy and Rae liked it.

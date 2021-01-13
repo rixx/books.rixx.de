@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-rhesus-chart.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780356502533-L.jpg
   dimensions:
     height: 22.0
@@ -11,7 +10,6 @@ book:
   publication_year: '2014'
   series: Laundry Files
   series_position: '5'
-  slug: the-rhesus-chart
   spine_color: '#88565a'
   tags:
   - urban-fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2015-08-04
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Tad Williams
-  cover_image: the-dragonbone-chair.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756402693-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1988'
   series: Memory, Sorrow, and Thorn
   series_position: '1'
-  slug: the-dragonbone-chair
   spine_color: '#c5bf8f'
   title: The Dragonbone Chair
 plan:

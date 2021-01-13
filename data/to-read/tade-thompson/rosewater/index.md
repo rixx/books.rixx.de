@@ -1,7 +1,6 @@
 ---
 book:
   author: Tade Thompson
-  cover_image: rosewater.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534300082l/38362809._SX98_.jpg
   goodreads: '38362809'
   isbn10: 0316449059
@@ -10,7 +9,6 @@ book:
   publication_year: '2017'
   series: The Wormwood Trilogy
   series_position: '1'
-  slug: rosewater
   spine_color: '#994645'
   title: Rosewater
 plan:

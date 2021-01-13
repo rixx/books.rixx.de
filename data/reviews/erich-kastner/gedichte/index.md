@@ -1,7 +1,6 @@
 ---
 book:
   author: Erich Kästner
-  cover_image: gedichte.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783150083734-L.jpg
   dimensions:
     height: 15.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9783150083734'
   pages: 174
   publication_year: '1987'
-  slug: gedichte
   spine_color: '#f0df19'
   tags:
   - german
@@ -23,6 +21,5 @@ plan:
 review:
   date_read:
   - 2009-10-01
-  did_not_finish: false
   rating: 4
 ---

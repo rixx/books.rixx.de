@@ -1,7 +1,6 @@
 ---
 book:
   author: Paul Maar
-  cover_image: eine-woche-voller-samstage.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783789119521-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1973'
   series: Sams
   series_position: '1'
-  slug: eine-woche-voller-samstage
   spine_color: '#c28646'
   tags:
   - german
@@ -29,11 +27,11 @@ related_books:
 - book: astrid-lindgren/pippi-langstrumpf
   text: For more chaotic trickster energy.
 - book: marc-uwe-kling/die-kanguru-chroniken
-  text: "For the same chaotic energy with no magic wishing powers, and for grown-ups: Känguru-Chroniken, which are just as impossible to translate, incidentally."
+  text: 'For the same chaotic energy with no magic wishing powers, and for grown-ups:
+    Känguru-Chroniken, which are just as impossible to translate, incidentally.'
 review:
   date_read:
   - 2000-05-01
-  did_not_finish: false
   rating: 3
 ---
 

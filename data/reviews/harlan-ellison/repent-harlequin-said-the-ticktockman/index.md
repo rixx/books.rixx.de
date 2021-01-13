@@ -1,7 +1,6 @@
 ---
 book:
   author: Harlan Ellison
-  cover_image: repent-harlequin-said-the-ticktockman.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1171217501l/90629.jpg
   dimensions:
     height: 34.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781887424356'
   pages: 48
   publication_year: '1965'
-  slug: repent-harlequin-said-the-ticktockman
   spine_color: '#4f4a27'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-07-13
-  did_not_finish: false
   rating: 3
 ---
 

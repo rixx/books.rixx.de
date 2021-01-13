@@ -1,7 +1,6 @@
 ---
 book:
   author: Lev Grossman
-  cover_image: the-magician-king.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780434020805-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: The Magicians
   series_position: '2'
-  slug: the-magician-king
   spine_color: '#a43428'
   title: The Magician King
 plan:

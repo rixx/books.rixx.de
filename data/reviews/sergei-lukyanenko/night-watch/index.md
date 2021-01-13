@@ -1,7 +1,6 @@
 ---
 book:
   author: Sergei Lukyanenko
-  cover_image: night-watch.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781401359799-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Watch
   series_position: '1'
-  slug: night-watch
   spine_color: '#a74757'
   tags:
   - german
@@ -25,6 +23,5 @@ plan:
 review:
   date_read:
   - 2010-01-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Hope Mirrlees
-  cover_image: lud-in-the-mist.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781593600419-L.jpg
   dimensions:
     height: 21.6
@@ -12,23 +11,22 @@ book:
   isbn13: '9781593600419'
   pages: 288
   publication_year: '1926'
-  slug: lud-in-the-mist
   spine_color: '#7997c0'
   tags:
   - fantasy
   title: Lud-in-the-Mist
 plan:
   date_added: '2019-04-10'
+related_books:
+- book: neil-gaiman/stardust
+  text: If you liked the concept of a vaguely British place at the border of Faerie.
+- book: j-r-r-tolkien/the-hobbit
+  text: The Hobbit has the same feeling of proper British middle-class suddenly having
+    to deal with fantastic occurrences.
 review:
   date_read:
   - 2019-04-22
-  did_not_finish: false
   rating: 3
-related_books:
- - book: neil-gaiman/stardust
-   text: If you liked the concept of a vaguely British place at the border of Faerie.
- - book: j-r-r-tolkien/the-hobbit
-   text: The Hobbit has the same feeling of proper British middle-class suddenly having to deal with fantastic occurrences.
 ---
 
 Lud-in-the-Mist by *Hope Mirrlees* is a fantasy novel from 1926, which means it reads a bit aged – but not only that, it

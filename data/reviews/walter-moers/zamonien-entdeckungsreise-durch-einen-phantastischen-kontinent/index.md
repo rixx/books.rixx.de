@@ -11,7 +11,6 @@ book:
   isbn13: '9783813505306'
   pages: 312
   publication_year: '2012'
-  slug: zamonien-entdeckungsreise-durch-einen-phantastischen-kontinent
   spine_color: '#da9536'
   tags:
   - fantasy

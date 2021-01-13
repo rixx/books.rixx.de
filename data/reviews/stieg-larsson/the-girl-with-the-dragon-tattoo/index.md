@@ -1,7 +1,6 @@
 ---
 book:
   author: Stieg Larsson
-  cover_image: the-girl-with-the-dragon-tattoo.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX98_.jpg
   dimensions:
     height: 23
@@ -10,7 +9,6 @@ book:
   publication_year: '2005'
   series: Millennium
   series_position: '1'
-  slug: the-girl-with-the-dragon-tattoo
   spine_color: '#ede73e'
   title: The Girl with the Dragon Tattoo
 plan:
@@ -19,7 +17,6 @@ related_books: []
 review:
   date_read:
   - 2016-02-01
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: the-waste-lands.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670032563-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1991'
   series: The Dark Tower
   series_position: '3'
-  slug: the-waste-lands
   spine_color: '#7b8aa2'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2017-06-05
-  did_not_finish: false
   rating: 4
 ---
 

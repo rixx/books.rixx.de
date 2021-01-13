@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: pyramids.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020650-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1989'
   series: Discworld
   series_position: '7'
-  slug: pyramids
   spine_color: '#7d324e'
   title: Pyramids
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2007-05-01
-  did_not_finish: false
   rating: 4
 ---

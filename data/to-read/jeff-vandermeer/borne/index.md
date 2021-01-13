@@ -1,7 +1,6 @@
 ---
 book:
   author: Jeff VanderMeer
-  cover_image: borne.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780374115241-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Borne
   series_position: '1'
-  slug: borne
   spine_color: '#a29d76'
   title: Borne
 plan:

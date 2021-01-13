@@ -1,7 +1,6 @@
 ---
 book:
   author: Chris Moriarty
-  cover_image: spin-state.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553586244-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Spin Trilogy
   series_position: '1'
-  slug: spin-state
   spine_color: '#795144'
   title: Spin State
 plan:

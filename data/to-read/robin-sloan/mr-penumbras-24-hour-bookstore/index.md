@@ -1,7 +1,6 @@
 ---
 book:
   author: Robin Sloan
-  cover_image: mr-penumbras-24-hour-bookstore.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780374214913-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Mr. Penumbra's 24-Hour Bookstore
   series_position: '1'
-  slug: mr-penumbras-24-hour-bookstore
   spine_color: '#f7ea29'
   title: Mr. Penumbra's 24-Hour Bookstore
 plan:

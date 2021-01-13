@@ -1,14 +1,12 @@
 ---
 book:
   author: Nils Werner, Heinz Behling
-  cover_image: alarm-im-kasperletheater.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522664409l/39702504._SX98_.jpg
   goodreads: '39702504'
   isbn10: null
   isbn13: null
   pages: '28'
   publication_year: '1958'
-  slug: alarm-im-kasperletheater
   spine_color: '#bc1d20'
   tags:
   - five-stars
@@ -17,15 +15,17 @@ book:
   title: Alarm im Kasperletheater
 plan:
   date_added: 2020-05-24
+related_books:
+- book: otfried-preussler/der-rauber-hotzenplotz
+  text: Der Räuber Hotzenplotz is another German book for children that uses the Punch-and-Judy
+    characters, though in a very different way.
+- book: wilhelm-busch/max-und-moritz
+  text: For more witty/funny rhymes like these, turn to the master of the genre, Wilhelm
+    Busch.
 review:
   date_read:
   - 1998-12-31
   rating: 5
-related_books:
-- book: otfried-preussler/der-rauber-hotzenplotz
-  text: Der Räuber Hotzenplotz is another German book for children that uses the Punch-and-Judy characters, though in a very different way.
-- book: wilhelm-busch/max-und-moritz
-  text: For more witty/funny rhymes like these, turn to the master of the genre, Wilhelm Busch.
 ---
 
 And this is how I learnt to read: Too early, to general displeasure, and by this book. It's a beautifully illustrated

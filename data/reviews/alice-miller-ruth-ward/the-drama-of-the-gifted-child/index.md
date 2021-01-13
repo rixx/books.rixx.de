@@ -1,7 +1,6 @@
 ---
 book:
   author: Alice   Miller, Ruth Ward
-  cover_image: das-drama-des-begabten-kindes-und-die-suche-nach-dem-wahren-selbst.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780465016907-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1979'
   series: 'The Drama of the Gifted Child: The Search for the True Self'
   series_position: ''
-  slug: the-drama-of-the-gifted-child
   spine_color: '#441b17'
   tags:
   - nonfiction

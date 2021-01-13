@@ -1,7 +1,6 @@
 ---
 book:
   author: Dan Simmons
-  cover_image: hyperion.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553283686-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1989'
   series: Hyperion Cantos
   series_position: '1'
-  slug: hyperion
   spine_color: '#d5ab94'
   tags:
   - scifi
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2018-11-16
-  did_not_finish: false
   rating: 3
 ---
 

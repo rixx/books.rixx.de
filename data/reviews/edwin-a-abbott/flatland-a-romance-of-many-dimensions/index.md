@@ -1,7 +1,6 @@
 ---
 book:
   author: Edwin A. Abbott
-  cover_image: flatland-a-romance-of-many-dimensions.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780486272634-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780486272634'
   pages: 96
   publication_year: '1884'
-  slug: flatland-a-romance-of-many-dimensions
   spine_color: '#dcdf87'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-06-01
-  did_not_finish: false
   rating: 1
 ---
 

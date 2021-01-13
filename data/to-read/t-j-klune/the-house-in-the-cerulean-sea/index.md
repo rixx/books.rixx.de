@@ -1,14 +1,12 @@
 ---
 book:
   author: T.J. Klune
-  cover_image: the-house-in-the-cerulean-sea.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569514209l/45047384._SY475_.jpg
   goodreads: '45047384'
   isbn10: null
   isbn13: null
   pages: '393'
   publication_year: '2020'
-  slug: the-house-in-the-cerulean-sea
   spine_color: '#60979c'
   tags:
   - fantasy

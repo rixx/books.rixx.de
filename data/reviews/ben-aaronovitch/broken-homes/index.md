@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: broken-homes.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575132467-L.jpg
   dimensions:
     height: 22.3
@@ -12,7 +11,6 @@ book:
   publication_year: '2013'
   series: Rivers of London
   series_position: '4'
-  slug: broken-homes
   spine_color: '#ecd96a'
   tags:
   - urban-fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-12-14
-  did_not_finish: false
   rating: 3
 ---
 

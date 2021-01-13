@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: the-state-of-the-art.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781597800747-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1991'
   series: Culture
   series_position: '4'
-  slug: the-state-of-the-art
   spine_color: '#33619e'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-04-10
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: something-rotten.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780143035411-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Thursday Next
   series_position: '4'
-  slug: something-rotten
   spine_color: '#918188'
   tags:
   - fantasy
@@ -32,6 +30,5 @@ related_books:
 review:
   date_read:
   - 2008-05-01
-  did_not_finish: false
   rating: 3
 ---

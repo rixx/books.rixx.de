@@ -1,7 +1,6 @@
 ---
 book:
   author: José Saramago
-  cover_image: blindness.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156007757-L.jpg
   dimensions:
     height: 21.0
@@ -12,20 +11,20 @@ book:
   isbn13: '9780156007757'
   pages: 327
   publication_year: '1995'
-  slug: blindness
   spine_color: '#c8cac1'
   tags:
   - german
   title: Blindness
 plan:
   date_added: 2020-05-29
+related_books:
+- book: albert-camus/the-plague
+  text: Due to the similar theme and feeling, The Plague is the obvious choice for
+    related book.
 review:
   date_read:
   - 2014-03-01
   rating: 4
-related_books:
-- book: albert-camus/the-plague
-  text: Due to the similar theme and feeling, The Plague is the obvious choice for related book.
 ---
 
 Blindness felt really strong – the general vibe of the book is still easy to recall for me years later. The epidemic

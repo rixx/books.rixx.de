@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: moving-pictures.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552152945-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Discworld
   series_position: '10'
-  slug: moving-pictures
   spine_color: '#89847c'
   title: Moving Pictures
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2005-04-01
-  did_not_finish: false
   rating: 3
 ---

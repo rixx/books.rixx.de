@@ -1,7 +1,6 @@
 ---
 book:
   author: Joel Kramer, Diana Alstad
-  cover_image: the-guru-papers.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781883319007-L.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781883319007'
   pages: 408
   publication_year: '1993'
-  slug: the-guru-papers
   spine_color: '#907d5f'
   tags:
   - nonfiction

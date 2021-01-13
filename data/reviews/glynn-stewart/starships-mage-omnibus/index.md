@@ -1,13 +1,11 @@
 ---
 book:
   author: Glynn Stewart
-  cover_image: starships-mage-omnibus.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425613194l/23848809.jpg
   goodreads: '23848809'
   publication_year: '2014'
   series: Starship's Mage
   series_position: '1'
-  slug: starships-mage-omnibus
   spine_color: '#314958'
   tags:
   - fantasy
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-11-22
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: the-emperors-soul.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343059311l/13578175._SX98_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781616960926'
   pages: 176
   publication_year: '2012'
-  slug: the-emperors-soul
   spine_color: '#8e7260'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2017-11-29
-  did_not_finish: false
   rating: 4
 ---
 

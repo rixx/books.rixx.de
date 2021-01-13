@@ -1,7 +1,6 @@
 ---
 book:
   author: Liselotte Welskopf-Henrich
-  cover_image: uber-den-missouri.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427643091l/6083621._SX98_.jpg
   dimensions:
     height: 25
@@ -12,7 +11,6 @@ book:
   publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '6'
-  slug: uber-den-missouri
   spine_color: '#677a23'
   tags:
   - german
@@ -28,9 +26,9 @@ related_books:
 review:
   date_read:
   - 2003-03-01
-  did_not_finish: false
   rating: 3
 ---
+
 Concluding the series – I really should re-read to see what I think now. Back in the day I liked the early books more,
 but then, that's where the protagonist was closer to my own age. I wonder if my reading tastes just shuffle along with
 the protagonist's age …

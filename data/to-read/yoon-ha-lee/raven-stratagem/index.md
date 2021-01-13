@@ -1,7 +1,6 @@
 ---
 book:
   author: Yoon Ha Lee
-  cover_image: raven-stratagem.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781781085370-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: The Machineries of Empire
   series_position: '2'
-  slug: raven-stratagem
   spine_color: '#2e8c77'
   title: Raven Stratagem
 plan:

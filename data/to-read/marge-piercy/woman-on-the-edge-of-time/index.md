@@ -1,7 +1,6 @@
 ---
 book:
   author: Marge Piercy
-  cover_image: woman-on-the-edge-of-time.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780449210826-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780449210826'
   pages: 381
   publication_year: '1976'
-  slug: woman-on-the-edge-of-time
   spine_color: '#7a4e35'
   title: Woman on the Edge of Time
 plan:

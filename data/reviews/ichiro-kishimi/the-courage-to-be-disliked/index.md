@@ -1,13 +1,11 @@
 ---
 book:
   author: Ichiro Kishimi
-  cover_image: the-courage-to-be-disliked-how-to-free-yourself-change-your-life-and-achieve-real-happiness.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545421684l/43306206._SY475_.jpg
   goodreads: '43306206'
   isbn10: 176063073X
   isbn13: '9781760630737'
   publication_year: '2013'
-  slug: the-courage-to-be-disliked
   spine_color: '#ba3939'
   tags:
   - five-stars
@@ -16,16 +14,17 @@ book:
   title: The Courage to Be Disliked
 plan:
   date_added: '2020-03-10'
+related_books:
+- book: carolyn-elliott/existential-kink
+  text: Existential Kink agrees with most premises in this book, but puts an entirely
+    positive spin of shameless enjoyment on them. A good book to balance the dour
+    stuffiness of this one.
 review:
   date_read:
   - 2020-03-11
-  did_not_finish: false
   rating: 5
   tldr: Excellent content semi-obscured behind impressive degrees of obnoxious writing.
     Punchable, yet useful. One of the most important books to me this year.
-related_books:
-  - book: carolyn-elliott/existential-kink
-    text: Existential Kink agrees with most premises in this book, but puts an entirely positive spin of shameless enjoyment on them. A good book to balance the dour stuffiness of this one.
 social:
   mastodon:
     datetime: 2020-07-12 01:24:33.701270

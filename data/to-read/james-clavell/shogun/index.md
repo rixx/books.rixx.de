@@ -1,7 +1,6 @@
 ---
 book:
   author: James Clavell
-  cover_image: shogun.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780440178002-L.jpg
   dimensions: {}
   goodreads: '402093'
@@ -11,7 +10,6 @@ book:
   publication_year: '1946'
   series: Asian Saga
   series_position: '1'
-  slug: shogun
   spine_color: '#a03527'
   title: Shōgun
 plan:

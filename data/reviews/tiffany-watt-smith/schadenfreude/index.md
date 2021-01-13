@@ -11,7 +11,6 @@ book:
   isbn13: '9780316470308'
   pages: 176
   publication_year: '2018'
-  slug: schadenfreude
   spine_color: '#ebda09'
   tags:
   - nonfiction

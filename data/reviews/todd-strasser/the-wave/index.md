@@ -1,7 +1,6 @@
 ---
 book:
   author: Todd Strasser
-  cover_image: the-wave.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780440993711-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780440993711'
   pages: 138
   publication_year: '1981'
-  slug: the-wave
   spine_color: '#780303'
   tags:
   - german
@@ -22,8 +20,6 @@ plan:
 review:
   date_read:
   - 2006-11-01
-  did_not_finish: false
-  proofed: true
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: labyrinth.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328032566l/7195389.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1989'
   series: Vorkosigan Saga
   series_position: '5.2'
-  slug: labyrinth
   spine_color: '#6d0305'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2019-03-12
-  did_not_finish: false
   rating: 4
 ---
 

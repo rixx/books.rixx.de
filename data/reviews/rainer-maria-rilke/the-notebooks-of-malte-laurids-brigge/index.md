@@ -1,7 +1,6 @@
 ---
 book:
   author: Rainer Maria Rilke
-  cover_image: the-notebooks-of-malte-laurids-brigge.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348925210l/93405.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780393308815'
   pages: 237
   publication_year: '1910'
-  slug: the-notebooks-of-malte-laurids-brigge
   spine_color: '#50375a'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2008-11-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Chris Beckett
-  cover_image: dark-eden.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379954042l/18166988._SX98_.jpg
   goodreads: '18166988'
   isbn10: 0804138680
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Dark Eden
   series_position: '1'
-  slug: dark-eden
   spine_color: '#691258'
   title: Dark Eden
 plan:

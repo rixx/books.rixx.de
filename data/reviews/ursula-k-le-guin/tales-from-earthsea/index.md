@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: tales-from-earthsea.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441011247-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Earthsea Cycle
   series_position: '5'
-  slug: tales-from-earthsea
   spine_color: '#5764a3'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-04-03
-  did_not_finish: false
   rating: 3
 ---
 

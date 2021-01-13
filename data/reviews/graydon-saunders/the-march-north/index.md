@@ -1,7 +1,6 @@
 ---
 book:
   author: Graydon Saunders
-  cover_image: the-march-north.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780993712609-L.jpg
   dimensions: {}
   goodreads: '21801573'
@@ -9,7 +8,6 @@ book:
   isbn13: '9780993712609'
   pages: 444
   publication_year: '2014'
-  slug: the-march-north
   spine_color: '#abada5'
   tags:
   - fantasy

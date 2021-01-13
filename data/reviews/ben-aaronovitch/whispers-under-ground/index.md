@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: whispers-under-ground.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345524614-L.jpg
   dimensions:
     height: 22.3
@@ -12,7 +11,6 @@ book:
   publication_year: '2012'
   series: Rivers of London
   series_position: '3'
-  slug: whispers-under-ground
   spine_color: '#7596b1'
   tags:
   - urban-fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2014-01-01
-  did_not_finish: false
   rating: 3
 ---
 

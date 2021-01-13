@@ -1,7 +1,6 @@
 ---
 book:
   author: Svante Pääbo
-  cover_image: neanderthal-man-in-search-of-lost-genomes.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780465020836-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780465020836'
   pages: 288
   publication_year: '2014'
-  slug: neanderthal-man-in-search-of-lost-genomes
   spine_color: '#e6d5a9'
   title: 'Neanderthal Man: In Search of Lost Genomes'
 plan:

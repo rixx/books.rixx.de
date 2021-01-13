@@ -1,7 +1,6 @@
 ---
 book:
   author: Lemony Snicket
-  cover_image: the-wide-window.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780064407687-L.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: A Series of Unfortunate Events
   series_position: '3'
-  slug: the-wide-window
   spine_color: '#ebd494'
   tags:
   - ya
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2017-01-01
-  did_not_finish: false
   rating: 3
 ---

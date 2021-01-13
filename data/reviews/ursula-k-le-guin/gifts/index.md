@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: gifts.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152051242-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Annals of the Western Shore
   series_position: '1'
-  slug: gifts
   spine_color: '#7caca4'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2019-11-15
-  did_not_finish: false
   rating: 3
 ---
 

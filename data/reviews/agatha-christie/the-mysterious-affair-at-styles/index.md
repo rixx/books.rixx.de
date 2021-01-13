@@ -1,7 +1,6 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-mysterious-affair-at-styles-hercule-poirot-1.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922393l/16343.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1920'
   series: Hercule Poirot
   series_position: 1
-  slug: the-mysterious-affair-at-styles
   spine_color: '#973c28'
   tags:
   - mystery

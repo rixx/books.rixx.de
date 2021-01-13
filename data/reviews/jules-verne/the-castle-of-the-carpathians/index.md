@@ -1,7 +1,6 @@
 ---
 book:
   author: Jules Verne
-  cover_image: the-castle-of-the-carpathians.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307523714l/1540877._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1892'
   series: Extraordinary Voyages
   series_position: '37'
-  slug: the-castle-of-the-carpathians
   spine_color: '#cdbb8c'
   tags:
   - german
@@ -27,9 +25,9 @@ related_books:
 review:
   date_read:
   - 2002-04-01
-  did_not_finish: false
   rating: 2
 ---
+
 Published five whole years before Stoker's Dracula, this is the story of a creepy castle in the Carpathians, where
 unexplained lights and other unnatural occurrences terrify the surrounding villages. It's unusual for Verne, in that
 it's barely sci-fi (<span class="spoiler">or at least, the sci-fi enters very late and is nearly invisible for most of

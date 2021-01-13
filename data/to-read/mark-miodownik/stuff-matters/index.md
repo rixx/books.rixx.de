@@ -1,7 +1,6 @@
 ---
 book:
   author: Mark Miodownik
-  cover_image: stuff-matters-exploring-the-marvelous-materials-that-shape-our-man-made-world.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780544236042-L.jpg
   dimensions:
     height: 22.0
@@ -12,9 +11,8 @@ book:
   isbn13: '9780544236042'
   pages: 272
   publication_year: '2013'
-  slug: stuff-matters
   spine_color: '#b4b273'
-  title: 'Stuff Matters'
+  title: Stuff Matters
 plan:
   date_added: '2020-03-08'
 ---

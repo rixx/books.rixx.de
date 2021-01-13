@@ -1,7 +1,6 @@
 ---
 book:
   author: Jules Verne
-  cover_image: around-the-world-in-eighty-days.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140449068-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1873'
   series: Extraordinary Voyages
   series_position: '11'
-  slug: around-the-world-in-eighty-days
   spine_color: '#4a4946'
   tags:
   - german
@@ -29,8 +27,8 @@ related_books:
 review:
   date_read:
   - 2002-09-01
-  did_not_finish: false
   rating: 3
 ---
+
 Not quite sci-fi, but the inner geek of Verne makes a strong showing. The research and vividness of his descriptions is
 impeccable, and makes the characters tolerable (and the final twist, of course, is delightful).

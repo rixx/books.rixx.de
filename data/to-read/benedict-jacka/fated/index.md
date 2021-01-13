@@ -1,7 +1,6 @@
 ---
 book:
   author: Benedict Jacka
-  cover_image: fated.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781937007294-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Alex Verus
   series_position: '1'
-  slug: fated
   spine_color: '#bf5d28'
   title: Fated
 plan:

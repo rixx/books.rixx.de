@@ -1,7 +1,6 @@
 ---
 book:
   author: Raymond E. Feist
-  cover_image: magician-apprentice.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553564945-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1982'
   series: The Riftwar Saga
   series_position: '1'
-  slug: magician-apprentice
   spine_color: '#594c9e'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2020-07-24
-  did_not_finish: false
   rating: 3
 ---
 

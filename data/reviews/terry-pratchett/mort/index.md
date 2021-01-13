@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: mort.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020681-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: Discworld
   series_position: '4'
-  slug: mort
   spine_color: '#e9cb5a'
   title: Mort
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2004-04-01
-  did_not_finish: false
   rating: 4
 ---

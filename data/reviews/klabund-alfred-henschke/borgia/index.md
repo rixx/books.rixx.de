@@ -7,7 +7,6 @@ book:
   isbn13: '9783932412233'
   pages: 122
   publication_year: '1928'
-  slug: borgia
   tags:
   - german
   - historical-fiction

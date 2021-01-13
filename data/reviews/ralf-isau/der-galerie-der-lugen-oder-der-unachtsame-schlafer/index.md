@@ -1,7 +1,6 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: der-galerie-der-lugen-oder-der-unachtsame-schlafer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999380l/1692793._SY475_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9783431036367'
   pages: 637
   publication_year: '2005'
-  slug: der-galerie-der-lugen-oder-der-unachtsame-schlafer
   spine_color: '#104a6b'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2017-01-28
-  did_not_finish: false
   rating: 1
 ---
 

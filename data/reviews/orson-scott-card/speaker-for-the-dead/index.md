@@ -1,7 +1,6 @@
 ---
 book:
   author: Orson Scott Card
-  cover_image: speaker-for-the-dead.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780812550757-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1986'
   series: Ender’s Saga
   series_position: '2'
-  slug: speaker-for-the-dead
   spine_color: '#786da3'
   tags:
   - scifi
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2014-03-01
-  did_not_finish: false
   rating: 3
 ---

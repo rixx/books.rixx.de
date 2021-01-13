@@ -1,7 +1,6 @@
 ---
 book:
   author: Dieter Kindermann
-  cover_image: die-habsburger-ohne-reich.jpg
   cover_image_url: https://images-na.ssl-images-amazon.com/images/I/51K10KcydKL._SX277_BO1,204,203,200_.jpg
   goodreads: '19242892'
   isbn10: 321800814X
@@ -10,7 +9,6 @@ book:
   publication_year: '2010'
   series: 'Die Habsburger ohne Reich: Geschichte einer Familie seit 1918'
   series_position: ''
-  slug: die-habsburger-ohne-reich
   spine_color: '#d2d0b8'
   tags:
   - history

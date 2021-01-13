@@ -1,13 +1,11 @@
 ---
 book:
   author: Jay Hulme
-  cover_image: clouds-cannot-cover-us.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566762340l/52421742._SX318_SY475_.jpg
   goodreads: '52421742'
   isbn10: '1912745100'
   isbn13: '9781912745104'
   publication_year: null
-  slug: clouds-cannot-cover-us
   spine_color: '#18999e'
   tags:
   - poetry
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2020-01-13
-  did_not_finish: false
   rating: 4
   tldr: A collection of modern poems. Some were not for me at all, but one or two
     dropkicked me in the feelings. Imo the best possible outcome of reading a selection

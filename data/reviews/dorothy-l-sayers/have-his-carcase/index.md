@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: have-his-carcase.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515620585l/37906597._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1932'
   series: Lord Peter Wimsey
   series_position: '8'
-  slug: have-his-carcase
   spine_color: '#70a8a7'
   tags:
   - mystery
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2020-01-23
-  did_not_finish: false
   rating: 3
   tldr: I went on a bit of a mystery streak here. This one is mostly character building
     for Peter and Harriet and their interactions. Good to read through a historian's

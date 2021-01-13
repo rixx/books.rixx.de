@@ -1,14 +1,12 @@
 ---
 book:
   author: Tsultrim Allione
-  cover_image: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316013130-L.jpg
   goodreads: '2232663'
   isbn10: '0316013137'
   isbn13: '9780316013130'
   pages: '288'
   publication_year: '2008'
-  slug: feeding-your-demons
   spine_color: '#da3b18'
   tags:
   - five-stars
@@ -19,7 +17,8 @@ plan:
   date_added: 2020-05-26
 related_books:
 - book: eugene-t-gendlin/focusing
-  text: Very similar approach without the visualisation part, goes for verbalisation instead.
+  text: Very similar approach without the visualisation part, goes for verbalisation
+    instead.
 review:
   date_read:
   - 2020-05-24

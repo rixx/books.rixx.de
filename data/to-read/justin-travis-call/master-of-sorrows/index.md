@@ -1,14 +1,12 @@
 ---
 book:
   author: Justin Travis Call
-  cover_image: master-of-sorrows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524605610l/39308821._SX98_.jpg
   goodreads: '39308821'
   pages: '448'
   publication_year: '2019'
   series: The Silent Gods
   series_position: '1'
-  slug: master-of-sorrows
   spine_color: '#555950'
   title: Master of Sorrows
 plan:

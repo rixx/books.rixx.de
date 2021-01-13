@@ -1,7 +1,6 @@
 ---
 book:
   author: Oscar Wilde
-  cover_image: the-canterville-ghost.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780744549515-L.jpg
   dimensions:
     height: 19.0
@@ -11,7 +10,6 @@ book:
   isbn13: '9780744549515'
   pages: 126
   publication_year: '1887'
-  slug: the-canterville-ghost
   spine_color: '#e3c4a2'
   tags:
   - german

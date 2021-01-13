@@ -1,7 +1,6 @@
 ---
 book:
   author: bell hooks
-  cover_image: all-about-love-new-visions.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387754966l/17607.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780688168445'
   pages: 240
   publication_year: '1999'
-  slug: all-about-love-new-visions
   spine_color: '#821c1d'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-03-15
-  did_not_finish: false
   rating: 2
   tldr: This was me reading up on bell hooks. I'd have guessed a much earlier publication
     date. Good discussion of oppressive structures, but I did some heavy skipping

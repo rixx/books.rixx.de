@@ -1,7 +1,6 @@
 ---
 book:
   author: John   Tarrant
-  cover_image: bring-me-the-rhinoceros.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781400047642-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781400047642'
   pages: 176
   publication_year: '2004'
-  slug: bring-me-the-rhinoceros
   spine_color: '#fefccc'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-06-21
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Sophia McDougall
-  cover_image: romanitas.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780752877099-L.jpg
   dimensions:
     height: 19.7
@@ -14,22 +13,21 @@ book:
   publication_year: '2005'
   series: Romanitas
   series_position: '1'
-  slug: romanitas
   spine_color: '#b8bbbe'
   tags:
   - fantasy
   - historical-fiction
   - ya
   title: Romanitas
-related_books:
-- book: jim-butcher/furies-of-calderon
-  text: Alternate Rome with Pokemons, arguably with a clearer understanding of what Rome was about.
 plan:
   date_added: 2020-06-24
+related_books:
+- book: jim-butcher/furies-of-calderon
+  text: Alternate Rome with Pokemons, arguably with a clearer understanding of what
+    Rome was about.
 review:
   date_read:
   - 2020-07-29
-  did_not_finish: false
   rating: 2
 ---
 

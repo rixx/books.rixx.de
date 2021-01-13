@@ -1,7 +1,6 @@
 ---
 book:
   author: Jerry Z. Muller
-  cover_image: the-tyranny-of-metrics.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511400900l/36644895._SY475_.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780691174952'
   pages: 240
   publication_year: '2017'
-  slug: the-tyranny-of-metrics
   spine_color: '#b69f57'
   tags:
   - nonfiction
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-04-17
-  did_not_finish: false
   rating: 3
   tldr: Good points about the dangers of metrics (particularly targeting metrics),
     tediously made.

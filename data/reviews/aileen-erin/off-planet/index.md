@@ -1,7 +1,6 @@
 ---
 book:
   author: Aileen Erin
-  cover_image: off-planet.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551222186l/44148432._SX98_.jpg
   goodreads: '44148432'
   isbn13: '9781943858729'
@@ -9,7 +8,6 @@ book:
   publication_year: '2019'
   series: Aunare Chronicles
   series_position: '1'
-  slug: off-planet
   spine_color: '#3b102f'
   tags:
   - ya
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-03-17
-  did_not_finish: false
   rating: 2
 ---
 

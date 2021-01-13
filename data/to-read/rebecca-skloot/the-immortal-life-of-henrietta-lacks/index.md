@@ -1,7 +1,6 @@
 ---
 book:
   author: Rebecca Skloot
-  cover_image: the-immortal-life-of-henrietta-lacks.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781400052172-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781400052172'
   pages: 370
   publication_year: '2010'
-  slug: the-immortal-life-of-henrietta-lacks
   spine_color: '#ed983e'
   title: The Immortal Life of Henrietta Lacks
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Stefan Zweig
-  cover_image: the-world-of-yesterday.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780803252240-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780803252240'
   pages: 461
   publication_year: '1941'
-  slug: the-world-of-yesterday
   spine_color: '#2a4367'
   tags:
   - german
@@ -23,6 +21,5 @@ plan:
 review:
   date_read:
   - 2008-12-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: grave-peril.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451458445-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: The Dresden Files
   series_position: '3'
-  slug: grave-peril
   spine_color: '#5e5663'
   tags:
   - urban-fantasy
@@ -31,8 +29,8 @@ related_books:
 review:
   date_read:
   - 2014-12-01
-  did_not_finish: false
   rating: 3
 ---
+
 This book actually felt a bit better than the first and second ones. It's as if now that he's staked his claim on all
 the tropes, Jim Butcher is feeling a bit more free to explore what to do with magic in this world.

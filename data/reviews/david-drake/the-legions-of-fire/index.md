@@ -1,14 +1,12 @@
 ---
 book:
   author: David Drake
-  cover_image: the-legions-of-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316131317l/7697892._SX98_.jpg
   goodreads: '7697892'
   isbn10: 0765320789
   isbn13: '9780765320780'
   pages: '367'
   publication_year: '2010'
-  slug: the-legions-of-fire
   spine_color: '#d1a242'
   tags:
   - fantasy

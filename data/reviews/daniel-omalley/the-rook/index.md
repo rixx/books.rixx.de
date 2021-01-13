@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel O'Malley
-  cover_image: the-rook.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316098793-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: The Checquy Files
   series_position: '1'
-  slug: the-rook
   spine_color: '#020202'
   tags:
   - five-stars
@@ -26,7 +24,6 @@ related_books: []
 review:
   date_read:
   - 2017-05-24
-  did_not_finish: false
   rating: 4
 ---
 

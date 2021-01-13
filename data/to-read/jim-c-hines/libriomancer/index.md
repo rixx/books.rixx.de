@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim C. Hines
-  cover_image: libriomancer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318277038l/12844699._SX98_.jpg
   goodreads: '12844699'
   isbn10: 0756407397
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Magic Ex Libris
   series_position: '1'
-  slug: libriomancer
   spine_color: '#beac6b'
   title: Libriomancer
 plan:

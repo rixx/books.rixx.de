@@ -1,7 +1,6 @@
 ---
 book:
   author: Angie Thomas
-  cover_image: the-hate-u-give.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780062498533-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780062498533'
   pages: 464
   publication_year: '2017'
-  slug: the-hate-u-give
   spine_color: '#5f4942'
   title: The Hate U Give
 plan:

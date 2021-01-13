@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: the-city-of-dreaming-books.jpg
   cover_image_url: https://www.bluecher.blog/wp-content/uploads/sites/1/moers-stadt-der-tr%C3%A4umenden-b%C3%BCcher.jpg
   dimensions:
     height: 23.4
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Zamonen
   series_position: '4'
-  slug: the-city-of-dreaming-books
   spine_color: '#9e863c'
   tags:
   - fantasy
@@ -29,8 +27,6 @@ related_books:
 review:
   date_read:
   - 2007-11-01
-  did_not_finish: false
-  proofed: true
   rating: 5
 ---
 

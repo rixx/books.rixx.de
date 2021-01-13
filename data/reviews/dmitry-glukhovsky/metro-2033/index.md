@@ -1,7 +1,6 @@
 ---
 book:
   author: Dmitry Glukhovsky
-  cover_image: metro-2033.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781481845700-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: Metro
   series_position: '1'
-  slug: metro-2033
   spine_color: '#512b2c'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2018-08-13
-  did_not_finish: false
   rating: 1
 ---
 

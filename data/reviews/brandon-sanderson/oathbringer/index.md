@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: oathbringer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765326379-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: The Stormlight Archive
   series_position: '3'
-  slug: oathbringer
   spine_color: '#97886c'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-11-10
-  did_not_finish: false
   rating: 4
 ---
 

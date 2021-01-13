@@ -1,12 +1,10 @@
 ---
 book:
   author: Kurt Vonnegut Jr.
-  cover_image: 2br02b.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328301776l/5048174.jpg
   goodreads: '5048174'
   pages: '15'
   publication_year: '1968'
-  slug: 2br02b
   spine_color: '#0a3838'
   title: 2BR02B
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2019-07-16
-  did_not_finish: false
   rating: 3
 ---
 

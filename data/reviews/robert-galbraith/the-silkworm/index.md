@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Galbraith
-  cover_image: the-silkworm.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414._SX98_.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2014'
   series: Cormoran Strike
   series_position: '2'
-  slug: the-silkworm
   spine_color: '#ae6449'
   tags:
   - mystery
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2017-06-27
-  did_not_finish: false
   rating: 3
 ---
 

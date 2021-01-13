@@ -1,12 +1,10 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-word-for-world-is-forest.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1283091038l/276767._SY160_.jpg
   goodreads: '276767'
   pages: '160'
   publication_year: '1972'
-  slug: the-word-for-world-is-forest
   spine_color: '#89b9b8'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-02-21
-  did_not_finish: false
   rating: 4
 ---
 

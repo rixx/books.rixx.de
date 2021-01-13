@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: the-13-12-lives-of-captain-bluebear.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176963l/62032.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1999'
   series: Zamonien
   series_position: '1'
-  slug: the-13-12-lives-of-captain-bluebear
   spine_color: '#e8bb35'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2006-05-01
-  did_not_finish: false
   rating: 5
 ---

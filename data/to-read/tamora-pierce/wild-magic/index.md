@@ -1,7 +1,6 @@
 ---
 book:
   author: Tamora Pierce
-  cover_image: wild-magic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416903437-L.jpg
   goodreads: '13836'
   isbn10: '1416903437'
@@ -10,7 +9,6 @@ book:
   publication_year: '1992'
   series: Immortals
   series_position: '1'
-  slug: wild-magic
   spine_color: '#85715a'
   title: Wild Magic
 plan:

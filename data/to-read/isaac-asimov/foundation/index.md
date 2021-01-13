@@ -1,7 +1,6 @@
 ---
 book:
   author: Isaac Asimov
-  cover_image: foundation.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553803716-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1951'
   series: Foundation
   series_position: '1'
-  slug: foundation
   spine_color: '#f3791d'
   title: Foundation
 plan:

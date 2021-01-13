@@ -1,7 +1,6 @@
 ---
 book:
   author: Ada Palmer
-  cover_image: too-like-the-lightning.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443106959l/26114545._SX98_.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: Terra Ignota
   series_position: '1'
-  slug: too-like-the-lightning
   spine_color: '#eeba8d'
   tags:
   - five-stars
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-03-19
-  did_not_finish: false
   rating: 5
 ---
 

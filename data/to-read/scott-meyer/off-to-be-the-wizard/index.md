@@ -1,7 +1,6 @@
 ---
 book:
   author: Scott  Meyer
-  cover_image: off-to-be-the-wizard.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390179189l/18616975._SX98_.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2013'
   series: Magic 2.0
   series_position: '1'
-  slug: off-to-be-the-wizard
   spine_color: '#09834b'
   title: Off to Be the Wizard
 plan:

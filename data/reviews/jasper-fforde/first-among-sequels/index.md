@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: first-among-sequels.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670038718-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Thursday Next
   series_position: '5'
-  slug: first-among-sequels
   spine_color: '#654938'
   tags:
   - fantasy
@@ -30,6 +28,5 @@ related_books:
 review:
   date_read:
   - 2008-06-01
-  did_not_finish: false
   rating: 4
 ---

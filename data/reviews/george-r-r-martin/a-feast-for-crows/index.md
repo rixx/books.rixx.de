@@ -1,7 +1,6 @@
 ---
 book:
   author: George R.R. Martin
-  cover_image: a-feast-for-crows.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553582024-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: A Song of Ice and Fire
   series_position: '4'
-  slug: a-feast-for-crows
   spine_color: '#a12d36'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2013-07-01
-  did_not_finish: false
   rating: 4
 ---

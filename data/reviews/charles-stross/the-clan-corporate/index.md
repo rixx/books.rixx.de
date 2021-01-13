@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-clan-corporate.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765309303-L.jpg
   dimensions:
     height: 17.1
@@ -12,7 +11,6 @@ book:
   publication_year: '2006'
   series: The Merchant Princes
   series_position: '3'
-  slug: the-clan-corporate
   spine_color: '#e1b77c'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2016-02-07
-  did_not_finish: false
   rating: 2
 ---
 

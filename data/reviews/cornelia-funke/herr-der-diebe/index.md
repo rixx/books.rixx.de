@@ -1,12 +1,10 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: herr-der-diebe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453425294l/28670585._SY475_.jpg
   goodreads: '28670585'
   isbn10: '3841501974'
   publication_year: '2000'
-  slug: herr-der-diebe
   spine_color: '#5cb3de'
   tags:
   - five-stars
@@ -15,16 +13,16 @@ book:
   title: Herr der Diebe
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: astrid-lindgren/kalle-blomquist
+  text: Kalle Blomquist is also about children taking care of things, without talking
+    down to them.
+- book: lemony-snicket/the-bad-beginning
+  text: The Unfortunate Event series does something similar, but is much more cruel.
 review:
   date_read:
   - 2001-07-01
-  did_not_finish: false
   rating: 5
-related_books:
-- book: astrid-lindgren/kalle-blomquist
-  text: Kalle Blomquist is also about children taking care of things, without talking down to them.
-- book: lemony-snicket/the-bad-beginning
-  text: The Unfortunate Event series does something similar, but is much more cruel.
 ---
 
 Possibly my first good magical realism book. I loved this so much that I took the real name of one of the characters as

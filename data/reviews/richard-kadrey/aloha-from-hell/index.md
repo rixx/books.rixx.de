@@ -1,7 +1,6 @@
 ---
 book:
   author: Richard Kadrey
-  cover_image: aloha-from-hell.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061714320-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2011'
   series: Sandman Slim
   series_position: '3'
-  slug: aloha-from-hell
   spine_color: '#b73422'
   tags:
   - urban-fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-04-30
-  did_not_finish: false
   rating: 3
 ---
 

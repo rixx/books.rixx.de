@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: only-you-can-save-mankind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388351358l/34521.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1992'
   series: Johnny Maxwell
   series_position: '1'
-  slug: only-you-can-save-mankind
   spine_color: '#cbb083'
   tags:
   - fantasy
@@ -25,6 +23,5 @@ related_books:
 review:
   date_read:
   - 2004-03-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Defoe
-  cover_image: robinson-crusoe.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375757327-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780375757327'
   pages: 320
   publication_year: '1719'
-  slug: robinson-crusoe
   spine_color: '#757b70'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2005-11-01
-  did_not_finish: false
   rating: 2
 ---

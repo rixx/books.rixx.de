@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: the-graveyard-book.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060530921-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060530921'
   pages: 320
   publication_year: '2008'
-  slug: the-graveyard-book
   spine_color: '#7f94b0'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2015-04-15
-  did_not_finish: false
   rating: 4
 ---
 

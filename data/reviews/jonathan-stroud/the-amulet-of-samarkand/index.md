@@ -1,7 +1,6 @@
 ---
 book:
   author: Jonathan Stroud
-  cover_image: the-amulet-of-samarkand.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552550291-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Bartimaeus
   series_position: '1'
-  slug: the-amulet-of-samarkand
   spine_color: '#ccbc9e'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2007-01-01
-  did_not_finish: false
   rating: 4
 ---

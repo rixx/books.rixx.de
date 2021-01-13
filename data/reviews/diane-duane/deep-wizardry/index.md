@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: deep-wizardry.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389585314l/176494.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1985'
   series: Young Wizards
   series_position: '2'
-  slug: deep-wizardry
   spine_color: '#bcc3cb'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2016-05-07
-  did_not_finish: false
   rating: 3
 ---
 

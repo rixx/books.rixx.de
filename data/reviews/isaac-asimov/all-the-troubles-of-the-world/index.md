@@ -1,14 +1,12 @@
 ---
 book:
   author: Isaac Asimov
-  cover_image: all-the-troubles-of-the-world.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402097239l/101048._SX98_.jpg
   goodreads: '101048'
   isbn10: 0886822335
   isbn13: '9780886822330'
   pages: '32'
   publication_year: '1958'
-  slug: all-the-troubles-of-the-world
   spine_color: '#ebcc7d'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2018-08-27
-  did_not_finish: false
   rating: 4
 ---
 

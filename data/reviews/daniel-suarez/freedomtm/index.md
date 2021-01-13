@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Suarez
-  cover_image: freedomtm.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451231895-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Daemon
   series_position: '2'
-  slug: freedomtm
   spine_color: '#a75f0b'
   tags:
   - five-stars
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2014-02-13
-  did_not_finish: false
   rating: 5
 ---

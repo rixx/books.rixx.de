@@ -1,12 +1,10 @@
 ---
 book:
   author: Abbey Mei Otis
-  cover_image: sweetheart.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329281136l/13485563._SX98_.jpg
   goodreads: '13485563'
   pages: '5'
   publication_year: '2010'
-  slug: sweetheart
   spine_color: '#957d5f'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-09-20
-  did_not_finish: false
   rating: 3
 ---
 

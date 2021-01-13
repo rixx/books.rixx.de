@@ -1,7 +1,6 @@
 ---
 book:
   author: Friedrich Dürrenmatt
-  cover_image: the-visit.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780802130662-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780802130662'
   pages: 112
   publication_year: '1962'
-  slug: the-visit
   spine_color: '#a52015'
   tags:
   - five-stars
@@ -24,6 +22,5 @@ plan:
 review:
   date_read:
   - 2009-01-01
-  did_not_finish: false
   rating: 5
 ---

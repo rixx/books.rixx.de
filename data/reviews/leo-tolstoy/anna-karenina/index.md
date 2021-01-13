@@ -1,12 +1,10 @@
 ---
 book:
   author: Leo Tolstoy
-  cover_image: anna-karenina.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX98_.jpg
   goodreads: '15823480'
   pages: '964'
   publication_year: '1877'
-  slug: anna-karenina
   spine_color: '#887662'
   tags:
   - german
@@ -16,6 +14,5 @@ plan:
 review:
   date_read:
   - 2011-12-01
-  did_not_finish: false
   rating: 3
 ---

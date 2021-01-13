@@ -1,7 +1,6 @@
 ---
 book:
   author: Nnedi Okorafor
-  cover_image: akata-witch.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670011964-L.jpg
   dimensions:
     height: 21.6
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Akata Witch
   series_position: '1'
-  slug: akata-witch
   spine_color: '#c3bc97'
   tags:
   - fantasy
@@ -26,7 +24,6 @@ plan:
 review:
   date_read:
   - 2018-03-04
-  did_not_finish: false
   rating: 4
 ---
 

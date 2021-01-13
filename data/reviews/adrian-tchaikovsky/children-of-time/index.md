@@ -1,7 +1,6 @@
 ---
 book:
   author: Adrian Tchaikovsky
-  cover_image: children-of-time.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781447273288-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Children of Time
   series_position: '1'
-  slug: children-of-time
   spine_color: '#457e60'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2019-11-15
-  did_not_finish: false
   rating: 2
 ---
 

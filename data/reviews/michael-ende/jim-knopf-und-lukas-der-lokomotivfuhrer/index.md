@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael Ende
-  cover_image: jim-knopf-und-lukas-der-lokomotivfuhrer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522176507-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1960'
   series: Jim Knopf
   series_position: '1'
-  slug: jim-knopf-und-lukas-der-lokomotivfuhrer
   spine_color: '#d29a19'
   tags:
   - german
@@ -26,13 +24,13 @@ related_books:
 - book: michael-ende/jim-knopf-und-die-wilde-13
   text: The next book in the series.
 - book: michael-ende/the-neverending-story
-  text: Michael Ende is best known for the Neverending Story, which I also liked a lot (though a decade later).
+  text: Michael Ende is best known for the Neverending Story, which I also liked a
+    lot (though a decade later).
 - book: erich-kastner/das-fliegende-klassenzimmer
   text: I got a similar feeling from Erich Kästner, particularly from The Flying Classroom.
 review:
   date_read:
   - 1999-05-01
-  did_not_finish: false
   rating: 4
 ---
 

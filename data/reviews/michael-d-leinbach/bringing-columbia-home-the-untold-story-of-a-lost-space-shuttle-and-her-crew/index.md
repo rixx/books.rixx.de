@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael D. Leinbach
-  cover_image: bringing-columbia-home-the-untold-story-of-a-lost-space-shuttle-and-her-crew.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502131204l/34145295._SX98_.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781628728514'
   pages: 400
   publication_year: '2018'
-  slug: bringing-columbia-home-the-untold-story-of-a-lost-space-shuttle-and-her-crew
   spine_color: '#57554f'
   tags:
   - history
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2018-10-04
-  did_not_finish: false
   rating: 3
 ---
 

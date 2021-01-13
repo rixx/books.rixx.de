@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: alcatraz-versus-the-evil-librarians.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439925501-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Alcatraz
   series_position: '1'
-  slug: alcatraz-versus-the-evil-librarians
   spine_color: '#9d5736'
   tags:
   - ya
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2015-05-01
-  did_not_finish: false
   rating: 1
 ---

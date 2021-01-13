@@ -1,7 +1,6 @@
 ---
 book:
   author: Diana Wynne Jones
-  cover_image: the-tough-guide-to-fantasyland.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780142407226-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780142407226'
   pages: 234
   publication_year: '1996'
-  slug: the-tough-guide-to-fantasyland
   spine_color: '#796058'
   title: The Tough Guide to Fantasyland
 plan:

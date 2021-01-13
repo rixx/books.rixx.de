@@ -1,11 +1,9 @@
 ---
 book:
   author: Fonda Lee
-  cover_image: i-28m-created-a-deepfake-girlfriend-and-now-my-parents-think-were-getting-married.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577497218l/50003099._SX98_.jpg
   goodreads: '50003099'
   publication_year: '2019'
-  slug: i-28m-created-a-deepfake-girlfriend-and-now-my-parents-think-were-getting-married
   source: https://www.technologyreview.com/s/614942/deepfake-girlfriend-fiction-story/
   spine_color: '#877971'
   tags:
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2020-02-12
-  did_not_finish: false
   rating: 2
   tldr: Exactly what's on the tin.
 social:

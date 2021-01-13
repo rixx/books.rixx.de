@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephenie Meyer
-  cover_image: breaking-dawn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442776569l/1162544._SY475_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Twilight
   series_position: '4'
-  slug: breaking-dawn
   spine_color: '#6b5e5a'
   tags:
   - fantasy
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2009-02-01
-  did_not_finish: false
   rating: 1
 ---

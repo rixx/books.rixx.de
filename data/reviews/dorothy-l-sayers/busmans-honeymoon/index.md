@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: busmans-honeymoon.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431714605l/116971._SY475_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1937'
   series: Lord Peter Wimsey
   series_position: '13'
-  slug: busmans-honeymoon
   spine_color: '#815e5f'
   tags:
   - five-stars
@@ -32,7 +30,6 @@ related_books:
 review:
   date_read:
   - 2020-02-11
-  did_not_finish: false
   rating: 5
   tldr: At some point, Dorothy Sayers figured out that her forte was characters and
     dialogue, not plot, and this book delivers. It's a honeymoon with a murder, and

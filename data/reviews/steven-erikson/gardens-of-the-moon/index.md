@@ -1,7 +1,6 @@
 ---
 book:
   author: Steven Erikson
-  cover_image: gardens-of-the-moon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348784-L.jpg
   goodreads: '55399'
   isbn10: 0765348780
@@ -10,7 +9,6 @@ book:
   publication_year: '1999'
   series: Malazan Book of the Fallen
   series_position: '1'
-  slug: gardens-of-the-moon
   spine_color: '#8e423a'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2019-01-05
-  did_not_finish: false
   rating: 1
 ---
 

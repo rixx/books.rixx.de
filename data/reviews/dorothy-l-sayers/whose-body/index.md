@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: whose-body.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061043574-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1923'
   series: Lord Peter Wimsey
   series_position: '1'
-  slug: whose-body
   spine_color: '#ac8e85'
   tags:
   - five-stars
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2019-09-29
-  did_not_finish: false
   rating: 5
 ---
 

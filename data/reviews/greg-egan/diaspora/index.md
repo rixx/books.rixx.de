@@ -1,7 +1,6 @@
 ---
 book:
   author: Greg Egan
-  cover_image: diaspora.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264162l/156785.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9783453161818'
   pages: 443
   publication_year: '1997'
-  slug: diaspora
   spine_color: '#9bacaa'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-08-25
-  did_not_finish: false
   rating: 2
 ---
 

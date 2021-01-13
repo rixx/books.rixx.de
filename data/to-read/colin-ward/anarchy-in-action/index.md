@@ -1,7 +1,6 @@
 ---
 book:
   author: Colin     Ward
-  cover_image: anarchy-in-action.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780900384202-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780900384202'
   pages: 152
   publication_year: '1973'
-  slug: anarchy-in-action
   spine_color: '#ef382b'
   title: Anarchy in Action
 plan:

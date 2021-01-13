@@ -1,7 +1,6 @@
 ---
 book:
   author: Ilona Andrews
-  cover_image: magic-burns.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441015832-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Kate Daniels
   series_position: '2'
-  slug: magic-burns
   spine_color: '#7b5944'
   tags:
   - fantasy

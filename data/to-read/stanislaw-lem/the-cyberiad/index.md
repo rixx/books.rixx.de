@@ -1,7 +1,6 @@
 ---
 book:
   author: Stanisław Lem
-  cover_image: the-cyberiad.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156027595-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780156027595'
   pages: 312
   publication_year: '1965'
-  slug: the-cyberiad
   spine_color: '#c83b1f'
   title: The Cyberiad
 plan:

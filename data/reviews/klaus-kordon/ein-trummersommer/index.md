@@ -1,7 +1,6 @@
 ---
 book:
   author: Klaus Kordon
-  cover_image: ein-trummersommer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783407784322-L.jpg
   dimensions:
     height: 19.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9783407784322'
   pages: 199
   publication_year: '1982'
-  slug: ein-trummersommer
   spine_color: '#aa4535'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2006-04-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-hidden-family.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765352057-L.jpg
   dimensions:
     height: 17.1
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: The Merchant Princes
   series_position: '2'
-  slug: the-hidden-family
   spine_color: '#b5a475'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2016-02-05
-  did_not_finish: false
   rating: 3
 ---
 

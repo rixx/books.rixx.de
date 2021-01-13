@@ -1,7 +1,6 @@
 ---
 book:
   author: Erich Kästner
-  cover_image: emil-and-the-detectives.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347878822l/67270.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780099413127'
   pages: 224
   publication_year: '1928'
-  slug: emil-and-the-detectives
   spine_color: '#6895d6'
   tags:
   - five-stars
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2004-12-01
-  did_not_finish: false
   rating: 5
 ---
 

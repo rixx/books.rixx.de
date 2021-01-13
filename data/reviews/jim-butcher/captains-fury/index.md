@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: captains-fury.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441015276-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Codex Alera
   series_position: '4'
-  slug: captains-fury
   spine_color: '#d07942'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-01-08
-  did_not_finish: false
   rating: 4
 ---
 

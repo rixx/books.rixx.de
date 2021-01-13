@@ -3,14 +3,12 @@ book:
   author: Scott   Alexander
   goodreads: '26111676'
   publication_year: '2014'
-  slug: asches-to-asches
   title: Asches to Asches
 plan:
   date_added: '2019-09-20'
 review:
   date_read:
   - 2019-09-20
-  did_not_finish: false
   rating: 4
 ---
 

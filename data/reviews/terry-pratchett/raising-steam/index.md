@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: raising-steam.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780857522276-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2013'
   series: Discworld
   series_position: '40'
-  slug: raising-steam
   spine_color: '#7c7d58'
   title: Raising Steam
 plan:
@@ -29,9 +27,9 @@ related_books:
 review:
   date_read:
   - 2017-07-11
-  did_not_finish: false
   rating: 3
 ---
+
 This … is not it. I wasn't into this Discworld arc to begin with, to be entirely fair – but even for that, this book
 felt off. The rhythm is changed. It's less ready to cut you open and make you like it. At the same time, it's not early
 Pratchett style, either.

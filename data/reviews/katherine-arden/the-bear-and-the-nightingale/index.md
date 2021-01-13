@@ -1,7 +1,6 @@
 ---
 book:
   author: Katherine Arden
-  cover_image: the-bear-and-the-nightingale.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470731420l/25489134._SX98_.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Winternight Trilogy
   series_position: '1'
-  slug: the-bear-and-the-nightingale
   spine_color: '#46577c'
   tags:
   - fantasy
@@ -22,14 +20,13 @@ book:
   title: The Bear and the Nightingale
 plan:
   date_added: '2018-08-27'
+related_books:
+- book: hans-christian-andersen/the-complete-fairy-tales
+  text: Very similar vibe of darkness and real magic.
 review:
   date_read:
   - 2019-07-07
-  did_not_finish: false
   rating: 3
-related_books:
-- hans-christian-andersen/the-complete-fairy-tales
-  text: Very similar vibe of darkness and real magic.
 ---
 
 In **The Bear and the Nightingale**, *Katherine Arden* tells a Russian fairytale, and she does it with a lot of feeling. The atmosphere is wonderful and a great mix of fairytale logic: everything is slightly off, belief and patterns carry more weight than logic, and if you're clever, you'll pick the right one of the two.

@@ -1,7 +1,6 @@
 ---
 book:
   author: Alex Gino
-  cover_image: george.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780545812542-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780545812542'
   pages: 208
   publication_year: '2015'
-  slug: george
   spine_color: '#e4873d'
   title: George
 plan:

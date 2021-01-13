@@ -1,14 +1,12 @@
 ---
 book:
   author: Friedrich Schiller
-  cover_image: maria-stuart.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652403l/942339._SY475_.jpg
   goodreads: '942339'
   isbn10: '3150000645'
   isbn13: '9783150000649'
   pages: '168'
   publication_year: '1800'
-  slug: maria-stuart
   spine_color: '#f3d938'
   tags:
   - german
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2008-02-01
-  did_not_finish: false
   rating: 2
 ---

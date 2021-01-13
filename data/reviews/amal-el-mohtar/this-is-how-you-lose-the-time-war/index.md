@@ -1,12 +1,10 @@
 ---
 book:
   author: Amal El-Mohtar
-  cover_image: this-is-how-you-lose-the-time-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg
   goodreads: '43352954'
   pages: '209'
   publication_year: '2019'
-  slug: this-is-how-you-lose-the-time-war
   spine_color: '#532b30'
   tags:
   - five-stars
@@ -14,17 +12,20 @@ book:
   title: This Is How You Lose the Time War
 plan:
   date_added: '2019-09-21'
+related_books:
+- book: peter-s-beagle/the-last-unicorn
+  text: If you're looking for similar levels of lyrical language that is still rooted
+    in a brutal (yet beautiful) reality, The Last Unicorn could be for you.
+- book: astrid-lindgren/mio-my-son
+  text: The same, just for children. Except that it has no time travel, no love letters,
+    no relationships, and is about entirely different things. And yet, it feels like
+    the same, just for kids.
 review:
   date_read:
   - 2019-09-21
-  did_not_finish: false
   rating: 5
-related_books:
- - book: peter-s-beagle/the-last-unicorn
-   text: If you're looking for similar levels of lyrical language that is still rooted in a brutal (yet beautiful) reality, The Last Unicorn could be for you.
- - book: astrid-lindgren/mio-my-son
-   text: The same, just for children. Except that it has no time travel, no love letters, no relationships, and is about entirely different things. And yet, it feels like the same, just for kids.
 ---
+
 This Is How You Lose the Time War was written by *Amal El-Mohtar* and *Max Gladstone*. They must be magic. They can't just write like this without magic. Trust me.
 
 It's a love letter. No, really: It's a series of love letters.

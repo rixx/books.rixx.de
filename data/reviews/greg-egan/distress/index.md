@@ -1,7 +1,6 @@
 ---
 book:
   author: Greg Egan
-  cover_image: distress.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223643478l/156781.jpg
   dimensions:
     height: 18.0
@@ -11,7 +10,6 @@ book:
   publication_year: '1995'
   series: Subjective Cosmology
   series_position: '3'
-  slug: distress
   spine_color: '#a0694e'
   tags:
   - scifi
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2018-07-20
-  did_not_finish: false
   rating: 4
 ---
 

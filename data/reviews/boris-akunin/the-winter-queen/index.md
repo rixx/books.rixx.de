@@ -1,7 +1,6 @@
 ---
 book:
   author: Boris Akunin
-  cover_image: the-winter-queen.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780753817599-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Erast Fandorin Mysteries
   series_position: '1'
-  slug: the-winter-queen
   spine_color: '#e6c8a1'
   tags:
   - german
@@ -25,6 +23,5 @@ plan:
 review:
   date_read:
   - 2008-04-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: gaudy-night.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388197565l/93575.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1935'
   series: Lord Peter Wimsey
   series_position: '12'
-  slug: gaudy-night
   spine_color: '#372a3e'
   tags:
   - five-stars
@@ -22,11 +20,15 @@ plan:
   date_added: '2020-02-04'
 related_books:
 - book: connie-willis/to-say-nothing-of-the-dog
-  text: This book is very heavily referenced by Connie Willis in this excellent part of the Oxford Timetravel series.
+  text: This book is very heavily referenced by Connie Willis in this excellent part
+    of the Oxford Timetravel series.
 - book: lois-mcmaster-bujold/komarr
-  text: It's the same, just with a tad less romance and in sci-fi. But trust me, it's the same.
+  text: It's the same, just with a tad less romance and in sci-fi. But trust me, it's
+    the same.
 - book: a-a-milne/winnie-the-pooh
-  text: If you enjoy this book, you're probably a nerd for classical education and allusions, so if you had the misfortune of having to learn Latin, why not put it to good use with Winnie Ille Pu?
+  text: If you enjoy this book, you're probably a nerd for classical education and
+    allusions, so if you had the misfortune of having to learn Latin, why not put
+    it to good use with Winnie Ille Pu?
 - book: dorothy-l-sayers/the-nine-tailors
   text: The previous book in the series.
 - book: dorothy-l-sayers/busmans-honeymoon
@@ -36,7 +38,6 @@ related_books:
 review:
   date_read:
   - 2020-02-08
-  did_not_finish: false
   rating: 5
   tldr: Objectively, this book is around 3.5-4 stars, but the romance broke my heart
     and the banter moved me to tears. 5/5, and I probably won't shut up about this

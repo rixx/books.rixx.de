@@ -1,7 +1,6 @@
 ---
 book:
   author: Patricia Briggs
-  cover_image: blood-bound.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014736-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Mercy Thompson
   series_position: '2'
-  slug: blood-bound
   spine_color: '#895345'
   tags:
   - urban-fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2016-12-16
-  did_not_finish: false
   rating: 2
 ---

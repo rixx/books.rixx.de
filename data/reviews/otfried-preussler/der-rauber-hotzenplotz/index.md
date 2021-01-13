@@ -1,7 +1,6 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image: der-rauber-hotzenplotz.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522105903-L.jpg
   dimensions:
     height: 23
@@ -12,7 +11,6 @@ book:
   publication_year: '1962'
   series: Hotzenplotz
   series_position: '1'
-  slug: der-rauber-hotzenplotz
   spine_color: '#d89c34'
   tags:
   - german
@@ -21,20 +19,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: otfried-preussler/neues-vom-rauber-hotzenplotz
-  text: The next book in the series.
-review:
-  date_read:
-  - 1999-09-01
-  did_not_finish: false
-  rating: 4
-related_books:
 - book: nils-werner-heinz-behling/alarm-im-kasperletheater
-  text: Alarm im Kasperletheater is another German book for children that uses the Punch-and-Judy characters, though in a very different way.
+  text: Alarm im Kasperletheater is another German book for children that uses the
+    Punch-and-Judy characters, though in a very different way.
 - book: otfried-preussler/the-little-ghost
   text: Another good children's book by Otfried Preußler is The Little Ghost.
 - book: otfried-preussler/krabat
-  text: If you're looking for more serious books by Preußler, Krabat is my favourite by far.
+  text: If you're looking for more serious books by Preußler, Krabat is my favourite
+    by far.
+review:
+  date_read:
+  - 1999-09-01
+  rating: 4
 ---
 
 As [Alarm im Kasperletheater](https://books.rixx.de/nils-werner-heinz-behling/alarm-im-kasperletheater/), this book is a

@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: sourcery.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020674-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1988'
   series: Discworld
   series_position: '5'
-  slug: sourcery
   spine_color: '#3f5b4e'
   title: Sourcery
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2003-07-01
-  did_not_finish: false
   rating: 4
 ---

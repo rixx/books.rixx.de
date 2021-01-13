@@ -3,14 +3,12 @@ book:
   author: Scott   Alexander
   goodreads: '27394352'
   publication_year: '2015'
-  slug: it-was-you-who-made-my-blue-eyes-blue
   title: It Was You Who Made My Blue Eyes Blue
 plan:
   date_added: '2019-09-20'
 review:
   date_read:
   - 2019-09-20
-  did_not_finish: false
   rating: 4
 ---
 

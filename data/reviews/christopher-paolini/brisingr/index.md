@@ -1,7 +1,6 @@
 ---
 book:
   author: Christopher Paolini
-  cover_image: brisingr.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375826726-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: The Inheritance Cycle
   series_position: '3'
-  slug: brisingr
   spine_color: '#b18640'
   tags:
   - fantasy
@@ -30,6 +28,5 @@ related_books:
 review:
   date_read:
   - 2009-06-01
-  did_not_finish: false
   rating: 2
 ---

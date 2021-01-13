@@ -1,7 +1,6 @@
 ---
 book:
   author: Larry Niven
-  cover_image: the-mote-in-gods-eye.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399490037l/100365._SX98_.jpg
   goodreads: '100365'
   isbn10: 156865054X
@@ -10,7 +9,6 @@ book:
   publication_year: '1974'
   series: Moties
   series_position: '1'
-  slug: the-mote-in-gods-eye
   spine_color: '#4bd1e0'
   title: The Mote in God's Eye
 plan:

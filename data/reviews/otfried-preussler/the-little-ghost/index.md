@@ -1,7 +1,6 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image: the-little-ghost.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392994064l/316808._SX98_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9783522174404'
   pages: 137
   publication_year: '1966'
-  slug: the-little-ghost
   spine_color: '#b19c62'
   tags:
   - german
@@ -20,14 +18,13 @@ book:
   title: The Little Ghost
 plan:
   date_added: '2015-04-08'
-review:
-  date_read:
-  - 2001-06-01
-  did_not_finish: false
-  rating: 3
 related_books:
 - book: otfried-preussler/der-kleine-wassermann
   text: A similar book by Preußler, in a more unique setting.
+review:
+  date_read:
+  - 2001-06-01
+  rating: 3
 ---
 
 Cheeky, fun, but nothing special: I think I only remember this book because I had the audio book and listened to it

@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: strong-poison.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060809089-L.jpg
   dimensions:
     height: 20.0
@@ -11,7 +10,6 @@ book:
   publication_year: '1930'
   series: Lord Peter Wimsey
   series_position: '6'
-  slug: strong-poison
   spine_color: '#d6b094'
   tags:
   - mystery
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2020-01-10
-  did_not_finish: false
   rating: 4
   tldr: Another Lord Peter Wimsey mystery. As always, meh plot, but brilliant character
     writing. This one introduces Harriet, leading up to several books of fun.

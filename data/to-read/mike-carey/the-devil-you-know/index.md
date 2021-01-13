@@ -1,7 +1,6 @@
 ---
 book:
   author: Mike Carey
-  cover_image: the-devil-you-know.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446580304-L.jpg
   goodreads: '663098'
   isbn10: 0446580309
@@ -10,7 +9,6 @@ book:
   publication_year: '2006'
   series: Felix Castor
   series_position: '1'
-  slug: the-devil-you-know
   spine_color: '#9f8f82'
   tags:
   - fantasy

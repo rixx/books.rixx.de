@@ -1,14 +1,12 @@
 ---
 book:
   author: Jo Walton
-  cover_image: my-real-children.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765332653-L.jpg
   goodreads: '18490637'
   isbn10: '0765332655'
   isbn13: '9780765332653'
   pages: '320'
   publication_year: '2014'
-  slug: my-real-children
   spine_color: '#917669'
   tags:
   - five-stars
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-09-29
-  did_not_finish: false
   rating: 5
 ---
 

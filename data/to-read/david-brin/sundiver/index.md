@@ -1,7 +1,6 @@
 ---
 book:
   author: David Brin
-  cover_image: sundiver.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388176548l/96472.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1980'
   series: The Uplift Saga
   series_position: '1'
-  slug: sundiver
   spine_color: '#c9984f'
   title: Sundiver
 plan:

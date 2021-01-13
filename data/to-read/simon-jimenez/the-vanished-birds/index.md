@@ -1,7 +1,6 @@
 ---
 book:
   author: Simon Jimenez
-  cover_image: the-vanished-birds.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780593128985-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780593128985'
   pages: 400
   publication_year: '2020'
-  slug: the-vanished-birds
   spine_color: '#ab7c50'
   title: The Vanished Birds
 plan:

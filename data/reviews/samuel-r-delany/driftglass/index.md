@@ -1,14 +1,12 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image: driftglass.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331251248l/722587._SY160_.jpg
   goodreads: '722587'
   isbn10: '0451144244'
   isbn13: '9780451144249'
   pages: '278'
   publication_year: '1971'
-  slug: driftglass
   spine_color: '#f8efb8'
   tags:
   - five-stars
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-09-29
-  did_not_finish: false
   rating: 5
 ---
 

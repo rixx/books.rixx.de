@@ -1,7 +1,6 @@
 ---
 book:
   author: David Louis Edelman
-  cover_image: infoquake.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781591024422-L.jpg
   goodreads: '959166'
   isbn10: '1591024420'
@@ -10,7 +9,6 @@ book:
   publication_year: '2006'
   series: Jump 225
   series_position: '1'
-  slug: infoquake
   spine_color: '#226369'
   tags:
   - scifi
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2015-03-01
-  did_not_finish: false
   rating: 2
 ---

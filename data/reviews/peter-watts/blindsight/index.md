@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter Watts
-  cover_image: blindsight.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765312181-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Firefall
   series_position: '1'
-  slug: blindsight
   spine_color: '#e62c2a'
   tags:
   - scifi
@@ -26,7 +24,6 @@ review:
   date_read:
   - 2019-01-11
   - 2020-11-26
-  did_not_finish: false
   rating: 4
 ---
 
@@ -49,4 +46,3 @@ But then, *Peter Watts* had to go and pack a final twist, sending me thinking ab
 awareness, and the consequences of his novel, for the next days. This book packs a punch, and it's only in the very end
 that you spot it. I loved it. (Not least due to the appendix, where he lists all the recent science and studies that
 influenced his book, and which parts of it might feasibly be possible soon.)
-

@@ -1,7 +1,6 @@
 ---
 book:
   author: Eleanor Lerman
-  cover_image: radiomen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420048056l/24234467._SX98_.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781579623838'
   pages: 288
   publication_year: '2015'
-  slug: radiomen
   spine_color: '#aa8f78'
   title: Radiomen
 plan:

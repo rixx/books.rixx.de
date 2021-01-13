@@ -1,7 +1,6 @@
 ---
 book:
   author: Margaret Atwood
-  cover_image: oryx-and-crake.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385721677-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: MaddAddam
   series_position: '1'
-  slug: oryx-and-crake
   spine_color: '#584831'
   title: Oryx and Crake
 plan:

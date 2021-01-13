@@ -1,7 +1,6 @@
 ---
 book:
   author: Tim Powers
-  cover_image: the-drawing-of-the-dark.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575074262-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780575074262'
   pages: 336
   publication_year: '1979'
-  slug: the-drawing-of-the-dark
   spine_color: '#25413c'
   tags:
   - fantasy

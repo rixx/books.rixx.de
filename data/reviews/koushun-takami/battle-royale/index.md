@@ -1,7 +1,6 @@
 ---
 book:
   author: Koushun Takami
-  cover_image: battle-royale.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781569317785-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781569317785'
   pages: 617
   publication_year: '1999'
-  slug: battle-royale
   spine_color: '#bd1329'
   tags:
   - ya
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-09-27
-  did_not_finish: false
   rating: 1
 ---
 

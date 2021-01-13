@@ -1,7 +1,6 @@
 ---
 book:
   author: Alan Bradley
-  cover_image: i-am-half-sick-of-shadows.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409945571l/11277218._SX98_.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2011'
   series: Flavia de Luce
   series_position: '4'
-  slug: i-am-half-sick-of-shadows
   spine_color: '#ea2b27'
   tags: []
   title: I Am Half-Sick of Shadows
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2017-11-25
-  did_not_finish: false
   rating: 3
 ---
 

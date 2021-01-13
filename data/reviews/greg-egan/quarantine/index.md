@@ -1,7 +1,6 @@
 ---
 book:
   author: Greg Egan
-  cover_image: quarantine.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061054235-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Subjective Cosmology
   series_position: '1'
-  slug: quarantine
   spine_color: '#7e598b'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-03-26
-  did_not_finish: false
   rating: 5
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: John Wyndham
-  cover_image: the-day-of-the-triffids.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780812967128-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780812967128'
   pages: 228
   publication_year: '1951'
-  slug: the-day-of-the-triffids
   spine_color: '#67b562'
   title: The Day of the Triffids
 plan:

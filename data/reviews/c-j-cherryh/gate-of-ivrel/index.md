@@ -1,7 +1,6 @@
 ---
 book:
   author: C.J. Cherryh
-  cover_image: gate-of-ivrel.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213925505l/57084.jpg
   goodreads: '57084'
   isbn10: 0886772575
@@ -10,7 +9,6 @@ book:
   publication_year: '1976'
   series: Gate of Ivrel
   series_position: '1'
-  slug: gate-of-ivrel
   spine_color: '#7cadcb'
   tags:
   - fantasy

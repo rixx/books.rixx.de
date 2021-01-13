@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: ethan-of-athos.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671656041-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '3'
-  slug: ethan-of-athos
   spine_color: '#915d5e'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-03-10
-  did_not_finish: false
   rating: 4
 ---
 

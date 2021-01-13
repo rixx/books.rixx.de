@@ -1,7 +1,6 @@
 ---
 book:
   author: Cassandra Clare
-  cover_image: city-of-glass.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416914303-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: The Mortal Instruments
   series_position: '3'
-  slug: city-of-glass
   spine_color: '#b8a280'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2016-11-22
-  did_not_finish: false
   rating: 2
 ---
 

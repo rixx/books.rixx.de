@@ -1,14 +1,12 @@
 ---
 book:
   author: Mark Twain
-  cover_image: a-connecticut-yankee-in-king-arthurs-court.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348239402l/162898.jpg
   goodreads: '162898'
   isbn10: null
   isbn13: null
   pages: '480'
   publication_year: '1889'
-  slug: a-connecticut-yankee-in-king-arthurs-court
   spine_color: '#867d47'
   tags:
   - historical-fiction
@@ -16,17 +14,20 @@ book:
   title: A Connecticut Yankee in King Arthur's Court
 plan:
   date_added: 2020-06-09
-review:
-  date_read:
-  - 2020-06-08
-  rating: 1
 related_books:
 - book: oscar-wilde/the-canterville-ghost
-  text: If you want to read about Americans in England, and want a castle thrown into the mix, read The Canterville Ghost instead. It was published two years before A Connecticut Yankee in King Arthur's Court and has the advantage of being actually funny.
+  text: If you want to read about Americans in England, and want a castle thrown into
+    the mix, read The Canterville Ghost instead. It was published two years before
+    A Connecticut Yankee in King Arthur's Court and has the advantage of being actually
+    funny.
 - book: mark-twain/the-diaries-of-adam-and-eve
   text: Twain when he's funny.
 - book: mark-twain/the-adventures-of-huckleberry-finn
   text: Probably the closest of Twain's books in tone.
+review:
+  date_read:
+  - 2020-06-08
+  rating: 1
 ---
 
 I only barely finished this book. I picked it up on a whim – Twain sounded like fun, time travel into old England

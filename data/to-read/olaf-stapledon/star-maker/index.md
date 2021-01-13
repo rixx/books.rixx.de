@@ -1,7 +1,6 @@
 ---
 book:
   author: Olaf Stapledon
-  cover_image: star-maker.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781857988079-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781857988079'
   pages: 272
   publication_year: '1937'
-  slug: star-maker
   spine_color: '#c79575'
   title: Star Maker
 plan:

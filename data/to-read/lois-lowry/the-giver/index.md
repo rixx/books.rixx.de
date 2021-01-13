@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois Lowry
-  cover_image: the-giver.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385732550-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1993'
   series: The Giver
   series_position: '1'
-  slug: the-giver
   spine_color: '#6c5e53'
   title: The Giver
 plan:

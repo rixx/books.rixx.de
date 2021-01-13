@@ -1,7 +1,6 @@
 ---
 book:
   author: Martha Wells
-  cover_image: all-systems-red.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765397522-L.jpg
   dimensions:
     height: 21.0
@@ -11,7 +10,6 @@ book:
   publication_year: '2017'
   series: The Murderbot Diaries
   series_position: '1'
-  slug: all-systems-red
   spine_color: '#4f5b55'
   tags:
   - scifi
@@ -24,7 +22,6 @@ related_books:
 review:
   date_read:
   - 2018-09-02
-  did_not_finish: false
   rating: 3
 ---
 

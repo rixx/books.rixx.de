@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: the-unpleasantness-at-the-bellona-club.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389759541l/192887.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1928'
   series: Lord Peter Wimsey
   series_position: '5'
-  slug: the-unpleasantness-at-the-bellona-club
   spine_color: '#dba68e'
   tags:
   - mystery
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2019-12-29
-  did_not_finish: false
   rating: 3
 ---
 

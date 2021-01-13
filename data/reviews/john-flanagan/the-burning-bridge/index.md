@@ -1,7 +1,6 @@
 ---
 book:
   author: John Flanagan
-  cover_image: the-burning-bridge.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780399244551-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: Ranger's Apprentice
   series_position: '2'
-  slug: the-burning-bridge
   spine_color: '#9f3e27'
   tags:
   - fantasy
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2009-07-01
-  did_not_finish: false
   rating: 4
 ---

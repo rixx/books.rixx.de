@@ -1,7 +1,6 @@
 ---
 book:
   author: Suzanne Collins
-  cover_image: mockingjay.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439023511-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2010'
   series: The Hunger Games
   series_position: '3'
-  slug: mockingjay
   spine_color: '#91a8d2'
   tags:
   - ya
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2013-03-01
-  did_not_finish: false
   rating: 3
 ---

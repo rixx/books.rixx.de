@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: wild-seed.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446676977-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1980'
   series: Patternmaster
   series_position: '1'
-  slug: wild-seed
   spine_color: '#877e57'
   tags:
   - scifi
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2018-07-20
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Lemony Snicket
-  cover_image: the-slippery-slope.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780064410137-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2003'
   series: A Series of Unfortunate Events
   series_position: '10'
-  slug: the-slippery-slope
   spine_color: '#958c59'
   tags:
   - ya
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-02-08
-  did_not_finish: false
   rating: 4
 ---
 

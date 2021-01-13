@@ -1,7 +1,6 @@
 ---
 book:
   author: Ada Palmer
-  cover_image: seven-surrenders.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517514624l/28220647._SX98_.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Terra Ignota
   series_position: '2'
-  slug: seven-surrenders
   spine_color: '#31527a'
   tags:
   - five-stars
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-04-17
-  did_not_finish: false
   rating: 5
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: a-civil-campaign.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671578855-L.jpg
   dimensions:
     height: 17.1
@@ -14,7 +13,6 @@ book:
   publication_year: '1999'
   series: Vorkosigan Saga
   series_position: '12'
-  slug: a-civil-campaign
   spine_color: '#a26964'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-08-14
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter V. Brett
-  cover_image: the-painted-man.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780007287758-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2008'
   series: Demon Cycle
   series_position: '1'
-  slug: the-painted-man
   spine_color: '#bc6d43'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2016-08-08
-  did_not_finish: false
   rating: 4
 ---
 

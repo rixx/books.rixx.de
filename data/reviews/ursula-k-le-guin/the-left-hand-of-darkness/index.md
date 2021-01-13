@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-left-hand-of-darkness.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
   dimensions:
     height: 18.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1969'
   series: Hainish Cycle
   series_position: '4'
-  slug: the-left-hand-of-darkness
   spine_color: '#3792b5'
   tags:
   - scifi
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2017-03-01
-  did_not_finish: false
   rating: 4
 ---
 

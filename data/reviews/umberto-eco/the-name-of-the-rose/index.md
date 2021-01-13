@@ -1,7 +1,6 @@
 ---
 book:
   author: Umberto Eco
-  cover_image: the-name-of-the-rose.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156001311-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780156001311'
   pages: 536
   publication_year: '1980'
-  slug: the-name-of-the-rose
   spine_color: '#bd352f'
   tags:
   - five-stars
@@ -24,6 +22,5 @@ plan:
 review:
   date_read:
   - 2004-04-01
-  did_not_finish: false
   rating: 5
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Elizabeth Bear
-  cover_image: range-of-ghosts.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765327543-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Eternal Sky
   series_position: '1'
-  slug: range-of-ghosts
   spine_color: '#696b71'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-05-08
-  did_not_finish: false
   rating: 2
 ---
 

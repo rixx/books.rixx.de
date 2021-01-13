@@ -1,7 +1,6 @@
 ---
 book:
   author: Stieg Larsson
-  cover_image: the-girl-who-played-with-fire.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780307269980-L.jpg
   dimensions:
     height: 23
@@ -12,7 +11,6 @@ book:
   publication_year: '2006'
   series: Millennium
   series_position: '2'
-  slug: the-girl-who-played-with-fire
   spine_color: '#e82b16'
   title: The Girl Who Played with Fire
 plan:

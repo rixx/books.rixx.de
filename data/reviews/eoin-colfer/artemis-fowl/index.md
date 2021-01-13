@@ -1,7 +1,6 @@
 ---
 book:
   author: Eoin Colfer
-  cover_image: artemis-fowl.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780786817870-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Artemis Fowl
   series_position: '1'
-  slug: artemis-fowl
   spine_color: '#ab8917'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2004-02-01
-  did_not_finish: false
   rating: 2
 ---

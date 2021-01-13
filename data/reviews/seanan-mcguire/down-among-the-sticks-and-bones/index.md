@@ -1,7 +1,6 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image: down-among-the-sticks-and-bones.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473685781l/31450908._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Wayward Children
   series_position: '2'
-  slug: down-among-the-sticks-and-bones
   spine_color: '#2c2730'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2019-01-03
-  did_not_finish: false
   rating: 5
 ---
 

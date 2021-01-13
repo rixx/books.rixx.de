@@ -1,7 +1,6 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: igraine-the-brave.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439903790-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780439903790'
   pages: 212
   publication_year: '1998'
-  slug: igraine-the-brave
   spine_color: '#b79563'
   tags:
   - german
@@ -23,8 +21,6 @@ plan:
 review:
   date_read:
   - 2004-02-01
-  did_not_finish: false
-  proofed: true
   rating: 4
 ---
 

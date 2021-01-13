@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: look-to-windward.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780743421928-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: Culture
   series_position: '7'
-  slug: look-to-windward
   spine_color: '#394b51'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-09-07
-  did_not_finish: false
   rating: 2
 ---
 

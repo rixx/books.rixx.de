@@ -1,7 +1,6 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: the-water-mirror.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780689877872-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Dark Reflections
   series_position: '1'
-  slug: the-water-mirror
   spine_color: '#90b0a2'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2007-07-01
-  did_not_finish: false
   rating: 4
 ---

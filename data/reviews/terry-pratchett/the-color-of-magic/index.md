@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-color-of-magic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060855925-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1983'
   series: Discworld
   series_position: '1'
-  slug: the-color-of-magic
   spine_color: '#b67310'
   title: The Color of Magic
 plan:
@@ -25,6 +23,5 @@ related_books:
 review:
   date_read:
   - 2007-01-01
-  did_not_finish: false
   rating: 4
 ---

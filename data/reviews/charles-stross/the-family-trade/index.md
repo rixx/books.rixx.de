@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-family-trade.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348210-L.jpg
   dimensions:
     height: 17.1
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: The Merchant Princes
   series_position: '1'
-  slug: the-family-trade
   spine_color: '#b9a594'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2016-02-05
-  did_not_finish: false
   rating: 3
 ---
 

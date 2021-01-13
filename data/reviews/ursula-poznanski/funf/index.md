@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula Poznanski
-  cover_image: funf.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327223739l/13269028._SX98_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2012'
   series: Beatrice Kaspary
   series_position: '1'
-  slug: funf
   spine_color: '#91866c'
   tags:
   - german
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2016-05-14
-  did_not_finish: false
   rating: 3
 ---
 

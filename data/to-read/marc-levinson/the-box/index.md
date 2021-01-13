@@ -1,14 +1,12 @@
 ---
 book:
   author: Marc Levinson
-  cover_image: the-box.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780691123240-L.jpg
   goodreads: '316767'
   isbn10: 0691123241
   isbn13: '9780691123240'
   pages: '376'
   publication_year: '2006'
-  slug: the-box
   spine_color: '#325987'
   title: The Box
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Stanisław Lem, Michael Kandel
-  cover_image: his-masters-voice.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780810117310-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780810117310'
   pages: 199
   publication_year: '1968'
-  slug: his-masters-voice
   spine_color: '#33531e'
   title: His Master's Voice
 plan:

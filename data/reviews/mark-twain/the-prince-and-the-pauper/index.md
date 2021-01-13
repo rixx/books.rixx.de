@@ -1,7 +1,6 @@
 ---
 book:
   author: Mark Twain
-  cover_image: the-prince-and-the-pauper.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451528353-L.jpg
   dimensions:
     height: 18.0
@@ -12,22 +11,19 @@ book:
   isbn13: '9780451528353'
   pages: 240
   publication_year: '1881'
-  slug: the-prince-and-the-pauper
   spine_color: '#b89e79'
   tags:
   - historical-fiction
   title: The Prince and the Pauper
 plan:
   date_added: '2015-04-08'
-review:
-  date_read:
-  - 2005-03-01
-  did_not_finish: false
-  proofed: true
-  rating: 3
 related_books:
 - book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
   text: Mark Twain's other try at historical fiction.
+review:
+  date_read:
+  - 2005-03-01
+  rating: 3
 ---
 
 Twain humour and snarky class commentary – I wouldn't swear that it holds up to a re-read, but I liked it a lot when I

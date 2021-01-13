@@ -1,7 +1,6 @@
 ---
 book:
   author: Colleen McCullough
-  cover_image: the-first-man-in-rome.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780380710812-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Masters of Rome
   series_position: '1'
-  slug: the-first-man-in-rome
   spine_color: '#a22311'
   tags:
   - historical-fiction

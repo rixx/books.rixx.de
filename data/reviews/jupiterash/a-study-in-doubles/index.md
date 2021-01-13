@@ -1,7 +1,6 @@
 ---
 book:
   author: Jupiter_Ash
-  cover_image: a-study-in-doubles.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381674191l/18666098._SX98_.jpg
   dimensions:
     height: 22
@@ -10,7 +9,6 @@ book:
   publication_year: null
   series: Tennis
   series_position: '2'
-  slug: a-study-in-doubles
   spine_color: '#a38062'
   tags:
   - fanfic
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2020-02-24
-  did_not_finish: false
   rating: 2
   tldr: I'm still confused about competitive tennis Sherlock Holmes, but apparently
     it worked well enough to read the second part.

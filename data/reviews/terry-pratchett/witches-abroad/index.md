@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: witches-abroad.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020612-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1991'
   series: Discworld
   series_position: '12'
-  slug: witches-abroad
   spine_color: '#c5d35c'
   tags:
   - five-stars
@@ -31,9 +29,9 @@ related_books:
 review:
   date_read:
   - 2006-01-01
-  did_not_finish: false
   rating: 5
 ---
+
 By a wide margin the earliest Pratchett book that I can give five stars. It's still part of his silly phase, and it
 predates Night Watch by eleven years, but there's a hard core, flinty and unwavering and willing to punch you in the
 feelings. In particular, it punched feelings I needed punched. Compared to later Witches books, the whole "people don't

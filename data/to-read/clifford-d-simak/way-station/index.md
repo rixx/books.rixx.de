@@ -1,7 +1,6 @@
 ---
 book:
   author: Clifford D. Simak
-  cover_image: way-station.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780020248712-L.jpg
   dimensions:
     height: 20.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9780020248712'
   pages: 210
   publication_year: '1963'
-  slug: way-station
   spine_color: '#25131f'
   title: Way Station
 plan:

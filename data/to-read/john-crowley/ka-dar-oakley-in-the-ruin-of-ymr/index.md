@@ -1,7 +1,6 @@
 ---
 book:
   author: John Crowley
-  cover_image: ka-dar-oakley-in-the-ruin-of-ymr.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781481495592-L.jpg
   dimensions:
     height: 22.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9781481495592'
   pages: 464
   publication_year: '2017'
-  slug: ka-dar-oakley-in-the-ruin-of-ymr
   spine_color: '#b2b373'
   title: 'Ka: Dar Oakley in the Ruin of Ymr'
 plan:

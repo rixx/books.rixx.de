@@ -1,7 +1,6 @@
 ---
 book:
   author: John Flanagan
-  cover_image: the-ruins-of-gorlan.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780142406632-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Ranger's Apprentice
   series_position: '1'
-  slug: the-ruins-of-gorlan
   spine_color: '#2e3c4b'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ review:
   date_read:
   - 2007-11-01
   - 2020-08-08
-  did_not_finish: false
   rating: 4
 ---
 

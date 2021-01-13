@@ -4,14 +4,12 @@ book:
   goodreads: '41018921'
   pages: '5'
   publication_year: '2017'
-  slug: ars-longa-vita-brevis
   title: Ars Longa, Vita Brevis
 plan:
   date_added: '2019-09-20'
 review:
   date_read:
   - 2019-09-20
-  did_not_finish: false
   rating: 2
 ---
 

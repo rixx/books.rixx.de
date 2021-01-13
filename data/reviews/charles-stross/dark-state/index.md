@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: dark-state.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781509823529-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2018'
   series: Empire Games
   series_position: '2'
-  slug: dark-state
   spine_color: '#f10809'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-04-06
-  did_not_finish: false
   rating: 4
 ---
 

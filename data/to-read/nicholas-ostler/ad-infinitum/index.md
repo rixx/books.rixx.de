@@ -1,7 +1,6 @@
 ---
 book:
   author: Nicholas Ostler
-  cover_image: ad-infinitum.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780802715159-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780802715159'
   pages: 400
   publication_year: '2007'
-  slug: ad-infinitum
   spine_color: '#e1cba1'
   tags:
   - language

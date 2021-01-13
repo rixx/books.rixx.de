@@ -1,12 +1,10 @@
 ---
 book:
   author: Friedrich Schiller
-  cover_image: kabale-und-liebe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652398l/942335.jpg
   goodreads: '942335'
   pages: '143'
   publication_year: '1784'
-  slug: kabale-und-liebe
   spine_color: '#fbd407'
   tags:
   - german
@@ -17,6 +15,5 @@ plan:
 review:
   date_read:
   - 2006-02-01
-  did_not_finish: false
   rating: 1
 ---

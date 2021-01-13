@@ -1,7 +1,6 @@
 ---
 book:
   author: Jack McDevitt
-  cover_image: the-engines-of-god.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334436065l/337048._SX98_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1994'
   series: The Academy
   series_position: '1'
-  slug: the-engines-of-god
   spine_color: '#db902b'
   title: The Engines of God
 plan:

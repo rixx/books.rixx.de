@@ -1,7 +1,6 @@
 ---
 book:
   author: Sherwood Smith
-  cover_image: inda.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756402648-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Inda
   series_position: '1'
-  slug: inda
   spine_color: '#efc798'
   title: Inda
 plan:

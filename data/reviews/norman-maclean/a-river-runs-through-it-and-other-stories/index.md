@@ -1,7 +1,6 @@
 ---
 book:
   author: Norman Maclean
-  cover_image: a-river-runs-through-it-and-other-stories.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386924914l/30043.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780226500669'
   pages: 240
   publication_year: '1976'
-  slug: a-river-runs-through-it-and-other-stories
   spine_color: '#bebe9a'
   title: A River Runs Through it and Other Stories
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-02-23
-  did_not_finish: false
   rating: 1
 ---
 

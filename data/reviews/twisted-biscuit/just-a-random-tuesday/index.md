@@ -7,7 +7,6 @@ book:
   isbn13: null
   pages: '235'
   publication_year: '2006'
-  slug: just-a-random-tuesday
   source: https://www.fanfiction.net/s/3124159/3/Just-a-Random-Tuesday
   spine_color: '#dbd3bf'
   tags:

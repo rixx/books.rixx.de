@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: interesting-times.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061056901-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1994'
   series: Discworld
   series_position: '17'
-  slug: interesting-times
   spine_color: '#db7334'
   title: Interesting Times
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2007-12-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ilona Andrews
-  cover_image: magic-strikes.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441017027-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: Kate Daniels
   series_position: '3'
-  slug: magic-strikes
   spine_color: '#67483e'
   tags:
   - fantasy

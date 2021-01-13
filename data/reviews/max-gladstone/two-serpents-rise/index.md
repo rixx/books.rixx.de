@@ -1,7 +1,6 @@
 ---
 book:
   author: Max Gladstone
-  cover_image: two-serpents-rise.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355469010l/16059411._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2013'
   series: Craft Sequence
   series_position: '2'
-  slug: two-serpents-rise
   spine_color: '#e4d66f'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2020-09-30
-  did_not_finish: false
   rating: 4
 ---
 

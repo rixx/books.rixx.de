@@ -1,7 +1,6 @@
 ---
 book:
   author: Samuel R. Delany, Neil Gaiman
-  cover_image: the-einstein-intersection.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780819563361-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780819563361'
   pages: 136
   publication_year: '1967'
-  slug: the-einstein-intersection
   spine_color: '#f01a15'
   tags:
   - scifi

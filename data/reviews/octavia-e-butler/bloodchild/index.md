@@ -1,12 +1,10 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: bloodchild.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394278990l/21265321.jpg
   goodreads: '21265321'
   pages: '31'
   publication_year: '1984'
-  slug: bloodchild
   spine_color: '#0bb89f'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-01-24
-  did_not_finish: false
   rating: 4
   tldr: 'Short story that could not be more Octavia Butler: Aliens and humans being
     wildly different, but cohabitating, in a functional yet gross way.'

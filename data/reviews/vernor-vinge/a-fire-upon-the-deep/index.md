@@ -1,7 +1,6 @@
 ---
 book:
   author: Vernor Vinge
-  cover_image: a-fire-upon-the-deep.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780812515282-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Zones of Thought
   series_position: '1'
-  slug: a-fire-upon-the-deep
   spine_color: '#898f97'
   tags:
   - scifi
@@ -25,7 +23,6 @@ related_books: []
 review:
   date_read:
   - 2019-03-03
-  did_not_finish: false
   rating: 4
 ---
 

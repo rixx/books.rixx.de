@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: striding-folly.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780450033407-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1972'
   series: Lord Peter Wimsey
   series_position: '15'
-  slug: striding-folly
   spine_color: '#849b69'
   tags:
   - mystery
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2020-02-22
-  did_not_finish: false
   rating: 3
   tldr: Three short stories. One fun, one meh, one whatever. Worth it for the fun
     one only if you're already invested in the universe.

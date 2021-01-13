@@ -1,7 +1,6 @@
 ---
 book:
   author: China Miéville
-  cover_image: un-lun-dun.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345495167-L.jpg
   dimensions:
     height: 25.0
@@ -12,21 +11,20 @@ book:
   isbn13: '9780345495167'
   pages: 432
   publication_year: '2007'
-  slug: un-lun-dun
   spine_color: '#c77d44'
   tags:
   - fantasy
   title: Un Lun Dun
 plan:
   date_added: '2019-03-12'
+related_books:
+- book: neil-gaiman/neverwhere
+  text: The obvious comparison for weird magical London. Little else in common, but
+    there's a somewhat shared vibe.
 review:
   date_read:
   - 2020-05-02
-  did_not_finish: false
   rating: 4
-related_books:
- - book: neil-gaiman/neverwhere
-   text: The obvious comparison for weird magical London. Little else in common, but there's a somewhat shared vibe.
 ---
 
 Exactly how you'd imagine a magical London YA novel by China Mieville to turn out: appropriately wonderful weird

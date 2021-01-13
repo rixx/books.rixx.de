@@ -1,12 +1,10 @@
 ---
 book:
   author: Kelly Barnhill
-  cover_image: probably-still-the-chosen-one.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498630386l/34383322._SX98_.jpg
   goodreads: '34383322'
   pages: '17'
   publication_year: '2017'
-  slug: probably-still-the-chosen-one
   spine_color: '#cfa156'
   title: Probably Still the Chosen One
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2018-12-06
-  did_not_finish: false
   rating: 3
 ---
 

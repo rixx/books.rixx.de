@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: wyrd-sisters.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061020667-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1988'
   series: Discworld
   series_position: '6'
-  slug: wyrd-sisters
   spine_color: '#8cac5e'
   title: Wyrd Sisters
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2007-12-01
-  did_not_finish: false
   rating: 4
 ---

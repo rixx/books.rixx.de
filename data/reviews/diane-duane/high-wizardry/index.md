@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: high-wizardry.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152049416-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Young Wizards
   series_position: '3'
-  slug: high-wizardry
   spine_color: '#8b6277'
   tags:
   - fantasy
@@ -27,7 +25,8 @@ plan:
   date_added: '2016-05-03'
 related_books:
 - book: robert-a-heinlein/have-space-suit-will-travel
-  text: For a similar feeling of interstellar travel by kids who have to deal with very real conflicts, Have Space Suit–Will Travel is a good match.
+  text: For a similar feeling of interstellar travel by kids who have to deal with
+    very real conflicts, Have Space Suit–Will Travel is a good match.
 - book: diane-duane/deep-wizardry
   text: The previous book in the series.
 - book: diane-duane/a-wizard-abroad
@@ -37,7 +36,6 @@ related_books:
 review:
   date_read:
   - 2016-05-08
-  did_not_finish: false
   rating: 5
 ---
 

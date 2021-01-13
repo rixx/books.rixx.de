@@ -1,7 +1,6 @@
 ---
 book:
   author: Robin Hobb
-  cover_image: assassins-quest.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399584431l/45112._SY160_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1997'
   series: Farseer Trilogy
   series_position: '3'
-  slug: assassins-quest
   spine_color: '#eed134'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2016-12-07
-  did_not_finish: false
   rating: 3
 ---
 

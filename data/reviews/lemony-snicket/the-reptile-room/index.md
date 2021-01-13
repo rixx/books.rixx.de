@@ -1,7 +1,6 @@
 ---
 book:
   author: Lemony Snicket
-  cover_image: the-reptile-room.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439206488-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1999'
   series: A Series of Unfortunate Events
   series_position: '2'
-  slug: the-reptile-room
   spine_color: '#ddb88e'
   tags:
   - ya
@@ -27,8 +25,6 @@ related_books:
 review:
   date_read:
   - 2017-02-03
-  did_not_finish: false
-  proofed: true
   rating: 4
 ---
 

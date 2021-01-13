@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: dreamweavers-dilemma.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780915368532-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1995'
   series: Vorkosigan Saga
   series_position: '9.1'
-  slug: dreamweavers-dilemma
   spine_color: '#cfa37f'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-11-23
-  did_not_finish: false
   rating: 3
 ---
 

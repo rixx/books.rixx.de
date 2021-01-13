@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: norse-mythology.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780393609097-L.jpg
   dimensions:
     height: 21.8
@@ -12,7 +11,6 @@ book:
   isbn13: '9780393609097'
   pages: 299
   publication_year: '2017'
-  slug: norse-mythology
   spine_color: '#af9f90'
   tags:
   - myths-legends
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-02-26
-  did_not_finish: false
   rating: 3
 ---
 

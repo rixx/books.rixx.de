@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: a-fisherman-of-the-inland-sea.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060763510-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060763510'
   pages: 224
   publication_year: '1994'
-  slug: a-fisherman-of-the-inland-sea
   spine_color: '#5a6150'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-11-30
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Shaun Cole
-  cover_image: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781859734209-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781859734209'
   pages: 224
   publication_year: '2000'
-  slug: don-we-now-our-gay-apparel-gay-mens-dress-in-the-twentieth-century
   spine_color: '#e8738d'
   tags:
   - history
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-02-18
-  did_not_finish: false
   rating: 4
   tldr: This book is a treasure. It explores gay history and culture by following
     clothing trends from Oscar Wilde to the 90s. Easy to read, well-sourced, incredibly

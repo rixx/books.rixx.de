@@ -1,7 +1,6 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image: tiamats-wrath.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316332873-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2019'
   series: The Expanse
   series_position: '8'
-  slug: tiamats-wrath
   spine_color: '#9f724a'
   tags:
   - five-stars
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2020-02-11
-  did_not_finish: false
   rating: 5
   tldr: Another easy 5/5 rating. There's no way I can describe this book without spoilers,
     so I'll just say that despite all odds and fears, the Expanse series just keeps

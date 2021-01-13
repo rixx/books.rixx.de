@@ -1,7 +1,6 @@
 ---
 book:
   author: T. Kingfisher
-  cover_image: the-wonder-engine.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517810851l/38352077._SY475_.jpg
   dimensions:
     height: 18
@@ -10,7 +9,6 @@ book:
   publication_year: '2018'
   series: Clocktaur War
   series_position: '2'
-  slug: the-wonder-engine
   spine_color: '#d2b16d'
   title: The Wonder Engine
 plan:

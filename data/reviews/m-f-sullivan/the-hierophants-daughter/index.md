@@ -1,7 +1,6 @@
 ---
 book:
   author: M.F. Sullivan
-  cover_image: the-hierophants-daughter.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780996539562-L.jpg
   dimensions:
     height: 22.9
@@ -14,7 +13,6 @@ book:
   publication_year: '2019'
   series: The Disgraced Martyr Trilogy
   series_position: '1'
-  slug: the-hierophants-daughter
   spine_color: '#c0cad0'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2019-03-17
-  did_not_finish: false
   rating: 1
 ---
 

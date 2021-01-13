@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter Høeg
-  cover_image: smillas-sense-of-snow.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385315142-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780385315142'
   pages: 469
   publication_year: '1992'
-  slug: smillas-sense-of-snow
   spine_color: '#c9dacf'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-10-01
-  did_not_finish: false
   rating: 4
 ---

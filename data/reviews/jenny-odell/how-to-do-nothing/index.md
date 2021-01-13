@@ -1,7 +1,6 @@
 ---
 book:
   author: Jenny Odell
-  cover_image: how-to-do-nothing-resisting-the-attention-economy.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781612197494-L.jpg
   dimensions:
     height: 21.6
@@ -12,7 +11,6 @@ book:
   isbn13: '9781612197494'
   pages: 256
   publication_year: '2019'
-  slug: how-to-do-nothing
   spine_color: '#b0365f'
   tags:
   - nonfiction
@@ -24,7 +22,6 @@ review:
   date_read:
   - 2019-12-26
   - 2020-11-09
-  did_not_finish: false
   rating: 1
   tldr: I didn't finish this book. Extreme tech pessimism ("kids these days don't
     talk to each other" basically) is not something I'm ever in the mood for.

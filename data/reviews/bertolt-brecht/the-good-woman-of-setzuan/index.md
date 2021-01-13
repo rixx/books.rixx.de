@@ -1,7 +1,6 @@
 ---
 book:
   author: Bertolt Brecht
-  cover_image: the-good-woman-of-setzuan.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388460254l/64416.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780816635276'
   pages: 112
   publication_year: '1953'
-  slug: the-good-woman-of-setzuan
   spine_color: '#827976'
   tags:
   - german
@@ -23,6 +21,5 @@ plan:
 review:
   date_read:
   - 2011-02-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Scott Lynch
-  cover_image: the-republic-of-thieves.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406961069l/2890090.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2013'
   series: Gentleman Bastard
   series_position: '3'
-  slug: the-republic-of-thieves
   spine_color: '#534b3a'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-06-11
-  did_not_finish: false
   rating: 4
 ---
 

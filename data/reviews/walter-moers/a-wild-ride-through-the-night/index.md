@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: a-wild-ride-through-the-night.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180378641l/1032913.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780436220548'
   pages: 224
   publication_year: '2001'
-  slug: a-wild-ride-through-the-night
   spine_color: '#ecc906'
   tags:
   - fantasy
@@ -20,21 +18,24 @@ book:
   title: A Wild Ride Through the Night
 plan:
   date_added: '2016-05-06'
-review:
-  date_read:
-  - 2006-11-01
-  - 2021-01-13
-  did_not_finish: false
-  rating: 4
-  tldr: Walter Moers connects 21 illustrations by Gustave Doré in a delightfully weird story
 related_books:
 - book: lewis-carroll/alice-in-wonderland
-  text: This book actually has strong Alice vibes: Absurd interactions with fantastical creatures in a dream-like world?  Sometimes scary and sometimes hilarious? Yes, please.
+  text: 'This book actually has strong Alice vibes: Absurd interactions with fantastical
+    creatures in a dream-like world?  Sometimes scary and sometimes hilarious? Yes,
+    please.'
 - book: johann-wolfgang-von-goethe/faust
   text: Quotes Faust for intellectual points
 - book: terry-pratchett/reaper-man
   text: Another death who tries to smile without the requisite muscles.
+review:
+  date_read:
+  - 2006-11-01
+  - 2021-01-13
+  rating: 4
+  tldr: Walter Moers connects 21 illustrations by Gustave Doré in a delightfully weird
+    story
 ---
+
 Walter Moers decided to branch out and do something wildly different. Okay, maybe not wildly: there's still much
 absurdity going on. But it's not Zamonien. Instead, it's the story of Gustave Doré, the famous painter. Or rather, his
 paintings. Or rather, all of his paintings, shoved together into a rather trippy (but entertaining!) story.

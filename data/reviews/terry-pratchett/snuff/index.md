@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: snuff.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385619264-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Discworld
   series_position: '39'
-  slug: snuff
   spine_color: '#418882'
   title: Snuff
 plan:
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-07-07
-  did_not_finish: false
   rating: 4
 ---
 

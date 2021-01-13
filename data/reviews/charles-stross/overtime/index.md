@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: overtime.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX98_.jpg
   dimensions:
     height: 22.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2009'
   series: Laundry Files
   series_position: '3.5'
-  slug: overtime
   spine_color: '#abbd73'
   tags:
   - christmas
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2015-07-18
-  did_not_finish: false
   rating: 4
 ---
 

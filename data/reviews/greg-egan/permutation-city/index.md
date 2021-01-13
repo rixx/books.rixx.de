@@ -1,7 +1,6 @@
 ---
 book:
   author: Greg Egan
-  cover_image: permutation-city.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061054815-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1994'
   series: Subjective Cosmology
   series_position: '2'
-  slug: permutation-city
   spine_color: '#e5c261'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-04-24
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Mary Roach
-  cover_image: packing-for-mars-the-curious-science-of-life-in-the-void.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780393068474-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780393068474'
   pages: 334
   publication_year: '2010'
-  slug: packing-for-mars-the-curious-science-of-life-in-the-void
   spine_color: '#6d4a42'
   title: 'Packing for Mars: The Curious Science of Life in the Void'
 plan:

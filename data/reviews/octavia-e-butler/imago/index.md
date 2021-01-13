@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: imago.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603638-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1989'
   series: Xenogenesis
   series_position: '3'
-  slug: imago
   spine_color: '#e4c490'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-04-04
-  did_not_finish: false
   rating: 4
 ---
 

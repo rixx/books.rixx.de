@@ -1,7 +1,6 @@
 ---
 book:
   author: N.K. Jemisin
-  cover_image: the-obelisk-gate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578523237l/26228034._SX98_.jpg
   dimensions:
     height: 19
@@ -10,7 +9,6 @@ book:
   publication_year: '2016'
   series: The Broken Earth
   series_position: '2'
-  slug: the-obelisk-gate
   spine_color: '#b9a498'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-10-28
-  did_not_finish: false
   rating: 5
 ---
 

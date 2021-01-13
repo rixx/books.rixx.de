@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: the-well-of-ascension.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765316882-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Mistborn
   series_position: '2'
-  slug: the-well-of-ascension
   spine_color: '#b2a791'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-07-15
-  did_not_finish: false
   rating: 2
 ---
 

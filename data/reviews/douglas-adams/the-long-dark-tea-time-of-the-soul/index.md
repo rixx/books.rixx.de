@@ -1,7 +1,6 @@
 ---
 book:
   author: Douglas Adams
-  cover_image: the-long-dark-tea-time-of-the-soul.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671742515-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1988'
   series: Dirk Gently
   series_position: '2'
-  slug: the-long-dark-tea-time-of-the-soul
   spine_color: '#6f5d2e'
   tags:
   - german
@@ -30,9 +28,9 @@ related_books:
 review:
   date_read:
   - 2008-02-01
-  did_not_finish: false
   rating: 3
 ---
+
 Fun ride, but not outstanding. I liked the gods, the absurdness, and – for some reason – the protagonist. Slightly
 annoyed with featureless female sidekicks, but what can you do. I have on occasion had the uncharitable thought that the
 title might be better than the book. It's not, but it's also not not.

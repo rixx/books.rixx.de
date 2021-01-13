@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen R. Donaldson
-  cover_image: lord-fouls-bane.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345348654-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1977'
   series: The Chronicles of Thomas Covenant the Unbeliever
   series_position: '1'
-  slug: lord-fouls-bane
   spine_color: '#8abf81'
   title: Lord Foul's Bane
 plan:

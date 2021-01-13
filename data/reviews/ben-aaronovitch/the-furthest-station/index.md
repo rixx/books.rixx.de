@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: the-furthest-station.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488204086l/31626329._SX98_.jpg
   dimensions:
     height: 22.3
@@ -12,7 +11,6 @@ book:
   publication_year: '2017'
   series: Rivers of London
   series_position: '5.5'
-  slug: the-furthest-station
   spine_color: '#7e233c'
   tags:
   - urban-fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-02-15
-  did_not_finish: false
   rating: 3
 ---
 

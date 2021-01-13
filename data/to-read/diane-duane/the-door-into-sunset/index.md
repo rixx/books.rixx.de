@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: the-door-into-sunset.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254906390l/531225.jpg
   dimensions:
     height: 18.0
@@ -11,7 +10,6 @@ book:
   publication_year: '1992'
   series: Tale of the Five
   series_position: '3'
-  slug: the-door-into-sunset
   spine_color: '#ad6b3f'
   title: The Door into Sunset
 plan:

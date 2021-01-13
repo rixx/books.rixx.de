@@ -1,14 +1,12 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: the-flowers-of-vashnoi.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526575795l/40138656._SY475_.jpg
   goodreads: '40138656'
   isbn10: null
   isbn13: null
   pages: '98'
   publication_year: '2018'
-  slug: the-flowers-of-vashnoi
   spine_color: '#e6da22'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2020-08-17
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Kurt Vonnegut Jr.
-  cover_image: slaughterhouse-five.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385333849-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780385333849'
   pages: 275
   publication_year: '1969'
-  slug: slaughterhouse-five
   spine_color: '#745f32'
   title: Slaughterhouse-Five
 plan:
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2009-01-01
-  did_not_finish: false
   rating: 4
 ---

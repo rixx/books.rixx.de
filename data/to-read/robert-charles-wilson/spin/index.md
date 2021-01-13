@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Charles Wilson
-  cover_image: spin.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348258-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: Spin
   series_position: '1'
-  slug: spin
   spine_color: '#5a5f68'
   title: Spin
 plan:

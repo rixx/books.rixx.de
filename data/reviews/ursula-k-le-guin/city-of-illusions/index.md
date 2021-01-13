@@ -1,12 +1,10 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: city-of-illusions.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382955526l/201889._SX98_.jpg
   goodreads: '201889'
   pages: '160'
   publication_year: '1967'
-  slug: city-of-illusions
   spine_color: '#c7c378'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-08-20
-  did_not_finish: false
   rating: 4
 ---
 

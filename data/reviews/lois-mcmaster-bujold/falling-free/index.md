@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: falling-free.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922931l/61915.jpg
   dimensions:
     height: 18.0
@@ -13,7 +12,6 @@ book:
   publication_year: '1987'
   series: Vorkosigan Saga
   series_position: '4'
-  slug: falling-free
   spine_color: '#6a5b54'
   tags:
   - scifi
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2018-04-11
-  did_not_finish: false
   rating: 4
 ---
 

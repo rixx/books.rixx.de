@@ -1,7 +1,6 @@
 ---
 book:
   author: Jack Vance
-  cover_image: the-dying-earth.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671831523-L.jpg
   goodreads: '951749'
   isbn10: 0671831526
@@ -10,7 +9,6 @@ book:
   publication_year: '1950'
   series: The Dying Earth
   series_position: '1'
-  slug: the-dying-earth
   spine_color: '#a1664f'
   title: The Dying Earth
 plan:

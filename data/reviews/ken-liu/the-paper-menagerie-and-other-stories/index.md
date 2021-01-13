@@ -1,7 +1,6 @@
 ---
 book:
   author: Ken Liu
-  cover_image: the-paper-menagerie-and-other-stories.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781481424370-L.jpg
   dimensions: {}
   goodreads: '27221110'
@@ -9,7 +8,6 @@ book:
   isbn13: '9781481424370'
   pages: 464
   publication_year: '2016'
-  slug: the-paper-menagerie-and-other-stories
   spine_color: '#9b725f'
   title: The Paper Menagerie and Other Stories
 plan:
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2018-03-16
-  did_not_finish: false
   rating: 4
 ---
 

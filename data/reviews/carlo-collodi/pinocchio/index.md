@@ -1,14 +1,12 @@
 ---
 book:
   author: Carlo Collodi
-  cover_image: pinocchio.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327938097l/180617._SX98_.jpg
   goodreads: '180617'
   isbn10: 0140382623
   isbn13: '9780140382624'
   pages: '262'
   publication_year: '1883'
-  slug: pinocchio
   spine_color: '#e98d0e'
   tags:
   - kids
@@ -17,14 +15,15 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: lewis-carroll/alice-in-wonderland
-  text: I read both books around the same time, and both have the underlying ambience of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio more of the casually brutal kind.
+  text: I read both books around the same time, and both have the underlying ambience
+    of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio
+    more of the casually brutal kind.
 - book: mark-twain/the-adventures-of-tom-sawyer
-  text: Tom Sawyer also feels mischievous and brutal, but makes do with a lot less of moralising, thankfully.
+  text: Tom Sawyer also feels mischievous and brutal, but makes do with a lot less
+    of moralising, thankfully.
 review:
   date_read:
   - 2001-04-01
-  did_not_finish: false
-  proofed: true
   rating: 3
 ---
 

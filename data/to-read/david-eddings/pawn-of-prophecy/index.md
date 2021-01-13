@@ -1,7 +1,6 @@
 ---
 book:
   author: David Eddings
-  cover_image: pawn-of-prophecy.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345468642-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1982'
   series: The Belgariad
   series_position: '1'
-  slug: pawn-of-prophecy
   spine_color: '#cfa16a'
   title: Pawn of Prophecy
 plan:

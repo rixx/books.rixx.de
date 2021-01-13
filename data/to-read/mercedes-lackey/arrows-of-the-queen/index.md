@@ -1,7 +1,6 @@
 ---
 book:
   author: Mercedes Lackey
-  cover_image: arrows-of-the-queen.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780886773786-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: Heralds of Valdemar
   series_position: '1'
-  slug: arrows-of-the-queen
   spine_color: '#8c6e62'
   title: Arrows of the Queen
 plan:

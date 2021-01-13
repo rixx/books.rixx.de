@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Bly
-  cover_image: a-little-book-on-the-human-shadow.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780062548474-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780062548474'
   pages: 96
   publication_year: '1988'
-  slug: a-little-book-on-the-human-shadow
   spine_color: '#a0763d'
   tags:
   - nonfiction

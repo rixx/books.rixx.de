@@ -1,7 +1,6 @@
 ---
 book:
   author: Neal Shusterman
-  cover_image: scythe.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781442472426-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: Arc of a Scythe
   series_position: '1'
-  slug: scythe
   spine_color: '#a32521'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2019-09-29
-  did_not_finish: false
   rating: 1
 ---
 

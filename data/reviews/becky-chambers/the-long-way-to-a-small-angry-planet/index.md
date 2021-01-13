@@ -1,7 +1,6 @@
 ---
 book:
   author: Becky Chambers
-  cover_image: the-long-way-to-a-small-angry-planet.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781500453305-L.jpg
   dimensions:
     height: 25
@@ -12,7 +11,6 @@ book:
   publication_year: '2014'
   series: Wayfarers
   series_position: '1'
-  slug: the-long-way-to-a-small-angry-planet
   spine_color: '#7b4330'
   tags:
   - scifi
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2018-11-19
-  did_not_finish: false
   rating: 4
 ---
 

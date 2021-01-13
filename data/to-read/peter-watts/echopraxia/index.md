@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter Watts
-  cover_image: echopraxia.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380224957l/18490708._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2014'
   series: Firefall
   series_position: '2'
-  slug: echopraxia
   spine_color: '#efc561'
   title: Echopraxia
 plan:

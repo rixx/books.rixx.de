@@ -1,7 +1,6 @@
 ---
 book:
   author: Wolfgang Borchert
-  cover_image: draussen-vor-der-tur.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783499101700-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9783499101700'
   pages: 120
   publication_year: '1947'
-  slug: draussen-vor-der-tur
   spine_color: '#e5dab7'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2007-06-01
-  did_not_finish: false
   rating: 4
 ---

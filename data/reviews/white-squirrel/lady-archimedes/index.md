@@ -7,12 +7,11 @@ book:
   isbn13: null
   pages: '2390'
   publication_year: '2018'
-  slug: lady-archimedes
+  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
   spine_color: '#9b7741'
   tags:
   - fanfic
   title: Lady Archimedes
-  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
 plan:
   date_added: 2021-01-07
 related_books:

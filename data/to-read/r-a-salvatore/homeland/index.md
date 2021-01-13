@@ -1,7 +1,6 @@
 ---
 book:
   author: R.A. Salvatore
-  cover_image: homeland.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780786939534-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: 'Forgotten Realms: The Dark Elf Trilogy'
   series_position: '1; Legend of Drizzt, #1'
-  slug: homeland
   spine_color: '#0b0716'
   title: Homeland
 plan:

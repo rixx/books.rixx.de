@@ -1,7 +1,6 @@
 ---
 book:
   author: Paul Maar
-  cover_image: neue-punkte-fur-das-sams.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783789142048-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Sams
   series_position: '3'
-  slug: neue-punkte-fur-das-sams
   spine_color: '#a0a732'
   tags:
   - german
@@ -32,7 +30,6 @@ related_books:
 review:
   date_read:
   - 2001-06-01
-  did_not_finish: false
   rating: 3
 ---
 

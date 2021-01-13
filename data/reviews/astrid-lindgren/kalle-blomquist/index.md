@@ -1,7 +1,6 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: kalle-blomquist.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783789141300-L.jpg
   goodreads: '42329'
   isbn10: '3789141305'
@@ -9,7 +8,6 @@ book:
   pages: '473'
   publication_year: '1946'
   series_position: '1'
-  slug: kalle-blomquist
   spine_color: '#f3c410'
   tags:
   - five-stars
@@ -19,14 +17,14 @@ book:
   title: Kalle Blomquist
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: cornelia-funke/herr-der-diebe
+  text: If it doesn't have to be a detective book, The Thief Lord also features responsible-but-real
+    wonderful kids on a mission.
 review:
   date_read:
   - 1998-09-01
-  did_not_finish: false
   rating: 5
-related_books:
-- book: cornelia-funke/herr-der-diebe
-  text: If it doesn't have to be a detective book, The Thief Lord also features responsible-but-real wonderful kids on a mission.
 ---
 
 My first, own, **serious** book! Serious in that it was long, and the book I got for my first day at school. Despite

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ray Bradbury
-  cover_image: the-martian-chronicles.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553278224-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780553278224'
   pages: 182
   publication_year: '1949'
-  slug: the-martian-chronicles
   spine_color: '#66bfea'
   title: The Martian Chronicles
 plan:

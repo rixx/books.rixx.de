@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: reaper-man.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552152952-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1991'
   series: Discworld
   series_position: '11'
-  slug: reaper-man
   spine_color: '#7c776a'
   title: Reaper Man
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2003-10-01
-  did_not_finish: false
   rating: 4
 ---

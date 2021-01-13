@@ -1,7 +1,6 @@
 ---
 book:
   author: Philip Pullman
-  cover_image: the-golden-compass.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780679879244-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1995'
   series: His Dark Materials
   series_position: '1'
-  slug: the-golden-compass
   spine_color: '#262e48'
   tags:
   - fantasy
@@ -26,6 +24,5 @@ plan:
 review:
   date_read:
   - 2008-11-01
-  did_not_finish: false
   rating: 3
 ---

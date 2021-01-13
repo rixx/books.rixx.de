@@ -1,7 +1,6 @@
 ---
 book:
   author: Gene Wolfe
-  cover_image: the-shadow-of-the-torturer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329650008l/60211._SX98_.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1980'
   series: The Book of the New Sun
   series_position: '1'
-  slug: the-shadow-of-the-torturer
   spine_color: '#c6bdb8'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-03-12
-  did_not_finish: false
   rating: 1
 ---
 

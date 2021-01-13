@@ -1,7 +1,6 @@
 ---
 book:
   author: Richard  Adams
-  cover_image: watership-down.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780380395866-L.jpg
   goodreads: '76620'
   isbn10: 038039586X
@@ -10,7 +9,6 @@ book:
   publication_year: '1972'
   series: Watership Down
   series_position: '1'
-  slug: watership-down
   spine_color: '#f7e367'
   title: Watership Down
 plan:

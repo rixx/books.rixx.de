@@ -1,7 +1,6 @@
 ---
 book:
   author: Tad Williams
-  cover_image: the-dirty-streets-of-heaven.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756407681-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Bobby Dollar
   series_position: '1'
-  slug: the-dirty-streets-of-heaven
   spine_color: '#a59482'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2017-07-11
-  did_not_finish: false
   rating: 2
 ---
 

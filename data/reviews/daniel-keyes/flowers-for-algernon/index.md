@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Keyes
-  cover_image: flowers-for-algernon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156030304-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780156030304'
   pages: 311
   publication_year: '1966'
-  slug: flowers-for-algernon
   spine_color: '#de271f'
   title: Flowers for Algernon
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-07-25
-  did_not_finish: false
   rating: 3
 ---
 

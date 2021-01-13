@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: empire-games.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765337566-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Empire Games
   series_position: '1'
-  slug: empire-games
   spine_color: '#f5be45'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-03-03
-  did_not_finish: false
   rating: 4
 ---
 

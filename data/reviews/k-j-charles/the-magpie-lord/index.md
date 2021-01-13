@@ -1,7 +1,6 @@
 ---
 book:
   author: K.J. Charles
-  cover_image: the-magpie-lord.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490703800l/34715150._SX98_.jpg
   goodreads: '34715150'
   isbn10: null
@@ -10,7 +9,6 @@ book:
   publication_year: '2013'
   series: A Charm of Magpies
   series_position: '1'
-  slug: the-magpie-lord
   spine_color: '#737e71'
   tags:
   - queer
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-06-30
-  did_not_finish: false
   rating: 4
 ---
 

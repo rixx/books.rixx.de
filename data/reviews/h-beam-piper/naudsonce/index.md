@@ -7,7 +7,6 @@ book:
   isbn13: null
   pages: null
   publication_year: '1962'
-  slug: naudsonce
   spine_color: '#111210'
   tags:
   - language

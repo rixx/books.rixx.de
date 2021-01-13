@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: harry-potter-and-the-deathly-hallows.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780545010221-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Harry Potter
   series_position: '7'
-  slug: harry-potter-and-the-deathly-hallows
   spine_color: '#eca658'
   tags:
   - fantasy
@@ -32,7 +30,6 @@ related_books:
 review:
   date_read:
   - 2007-12-01
-  did_not_finish: false
   rating: 3
 ---
 

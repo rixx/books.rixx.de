@@ -1,7 +1,6 @@
 ---
 book:
   author: Bradley P. Beaulieu
-  cover_image: twelve-kings-in-sharakhai.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434513419l/24611565._SX98_.jpg
   goodreads: '24611565'
   isbn10: 0756409721
@@ -10,7 +9,6 @@ book:
   publication_year: '2015'
   series: The Song of the Shattered Sands
   series_position: '1'
-  slug: twelve-kings-in-sharakhai
   spine_color: '#86554c'
   title: Twelve Kings in Sharakhai
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: moon-over-soho.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575097605-L.jpg
   dimensions:
     height: 22.3
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Rivers of London
   series_position: '2'
-  slug: moon-over-soho
   spine_color: '#ac2777'
   tags:
   - learning-the-arts
@@ -32,7 +30,6 @@ related_books:
 review:
   date_read:
   - 2017-12-11
-  did_not_finish: false
   rating: 4
 ---
 

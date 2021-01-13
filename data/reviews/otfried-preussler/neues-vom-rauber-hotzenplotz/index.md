@@ -1,7 +1,6 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image: neues-vom-rauber-hotzenplotz.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423300l/1148053._SX98_.jpg
   dimensions:
     height: 23
@@ -12,7 +11,6 @@ book:
   publication_year: '1969'
   series: Hotzenplotz
   series_position: '2'
-  slug: neues-vom-rauber-hotzenplotz
   spine_color: '#f3d312'
   tags:
   - german
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2000-12-01
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Kahneman
-  cover_image: thinking-fast-and-slow.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780374275631-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780374275631'
   pages: 499
   publication_year: '2011'
-  slug: thinking-fast-and-slow
   spine_color: '#827669'
   tags:
   - nonfiction
@@ -23,6 +21,5 @@ plan:
 review:
   date_read:
   - 2018-05-29
-  did_not_finish: false
   rating: 3
 ---

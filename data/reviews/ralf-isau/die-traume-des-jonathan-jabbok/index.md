@@ -1,7 +1,6 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: die-traume-des-jonathan-jabbok.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522168960-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1995'
   series: Neschan-Trilogie
   series_position: '1'
-  slug: die-traume-des-jonathan-jabbok
   spine_color: '#1a197e'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2007-10-01
-  did_not_finish: false
   rating: 1
 ---
 

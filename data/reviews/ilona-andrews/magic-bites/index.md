@@ -1,7 +1,6 @@
 ---
 book:
   author: Ilona Andrews
-  cover_image: magic-bites.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014897-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: Kate Daniels
   series_position: '1'
-  slug: magic-bites
   spine_color: '#c4a26e'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2020-06-21
-  did_not_finish: false
   rating: 4
 ---
 

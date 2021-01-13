@@ -13,7 +13,6 @@ book:
   publication_year: '1832'
   series: Faust
   series_position: ''
-  slug: faust
   spine_color: '#9f653b'
   tags:
   - german

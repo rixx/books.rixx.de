@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: accelerando.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014156-L.jpg
   dimensions:
     height: 17.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780441014156'
   pages: 415
   publication_year: '2005'
-  slug: accelerando
   spine_color: '#b96556'
   title: Accelerando
 plan:

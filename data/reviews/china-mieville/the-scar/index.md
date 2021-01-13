@@ -1,7 +1,6 @@
 ---
 book:
   author: China Miéville
-  cover_image: the-scar.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345460011-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: New Crobuzon
   series_position: '2'
-  slug: the-scar
   spine_color: '#c6ce5a'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-07-24
-  did_not_finish: false
   rating: 4
 ---
 

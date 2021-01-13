@@ -1,14 +1,12 @@
 ---
 book:
   author: Theodor Storm
-  cover_image: der-schimmelreiter.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181899507l/1210271.jpg
   goodreads: '1210271'
   isbn10: 315006015X
   isbn13: '9783150060155'
   pages: '159'
   publication_year: '1888'
-  slug: der-schimmelreiter
   spine_color: '#eedd1c'
   tags:
   - german
@@ -18,6 +16,5 @@ plan:
 review:
   date_read:
   - 2006-02-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Bernard Cornwell
-  cover_image: the-winter-king-a-novel-of-arthur.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780312156961-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1995'
   series: The Warlord Chronicles
   series_position: '1'
-  slug: the-winter-king-a-novel-of-arthur
   spine_color: '#aeb4b6'
   title: 'The Winter King: A Novel of Arthur'
 plan:

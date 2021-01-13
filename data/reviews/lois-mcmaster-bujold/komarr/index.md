@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: komarr.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671578084-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Vorkosigan Saga
   series_position: '11'
-  slug: komarr
   spine_color: '#d67518'
   tags:
   - scifi
@@ -33,7 +31,6 @@ related_books:
 review:
   date_read:
   - 2020-08-13
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-telling.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441011230-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: Hainish Cycle
   series_position: '8'
-  slug: the-telling
   spine_color: '#cfb682'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-04-02
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: shards-of-honour.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780743468428-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1986'
   series: Vorkosigan Saga
   series_position: '1'
-  slug: shards-of-honour
   spine_color: '#cc2f20'
   tags:
   - scifi
@@ -27,7 +25,6 @@ review:
   date_read:
   - 2017-01-01
   - 2020-07-04
-  did_not_finish: false
   rating: 4
 ---
 

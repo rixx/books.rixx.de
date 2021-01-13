@@ -1,7 +1,6 @@
 ---
 book:
   author: China Miéville
-  cover_image: iron-council.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345458421-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: New Crobuzon
   series_position: '3'
-  slug: iron-council
   spine_color: '#893f47'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-09-02
-  did_not_finish: false
   rating: 4
 ---
 

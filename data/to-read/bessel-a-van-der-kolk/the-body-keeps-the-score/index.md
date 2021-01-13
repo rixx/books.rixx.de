@@ -1,7 +1,6 @@
 ---
 book:
   author: Bessel A. van der Kolk
-  cover_image: the-body-keeps-the-score.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670785933-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780670785933'
   pages: 443
   publication_year: '2014'
-  slug: the-body-keeps-the-score
   spine_color: '#dd5730'
   tags:
   - nonfiction

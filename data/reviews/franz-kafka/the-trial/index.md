@@ -1,7 +1,6 @@
 ---
 book:
   author: Franz Kafka
-  cover_image: the-trial.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780099428640-L.jpg
   dimensions:
     height: 19.9
@@ -12,23 +11,21 @@ book:
   isbn13: '9780099428640'
   pages: 256
   publication_year: '1925'
-  slug: the-trial
   spine_color: '#95918f'
   tags:
   - german
   title: The Trial
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: samuel-beckett/waiting-for-godot
+  text: For less depressing nihilism, Waiting for Godot is absurdist in a nice way.
+- book: albert-camus/the-plague
+  text: If you really need existentialist books, look no further.
 review:
   date_read:
   - 2008-03-01
-  did_not_finish: false
   rating: 3
-related_books:
-  - book: samuel-beckett/waiting-for-godot
-    text: For less depressing nihilism, Waiting for Godot is absurdist in a nice way.
-  - book: albert-camus/the-plague
-    text: If you really need existentialist books, look no further.
 ---
 
 I don't do well with Kafka, and this one was no exception. I'm not debating the quality or skill of execution, it's just

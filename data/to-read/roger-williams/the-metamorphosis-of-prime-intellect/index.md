@@ -1,7 +1,6 @@
 ---
 book:
   author: Roger    Williams
-  cover_image: the-metamorphosis-of-prime-intellect.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781411602199-L.jpg
   dimensions:
     height: 22.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9781411602199'
   pages: 176
   publication_year: '2006'
-  slug: the-metamorphosis-of-prime-intellect
   spine_color: '#cacbca'
   title: The Metamorphosis of Prime Intellect
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Susan Cooper
-  cover_image: over-sea-under-stone.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780689871214-L.jpg
   dimensions:
     height: 19.4
@@ -14,7 +13,6 @@ book:
   publication_year: '1965'
   series: The Dark is Rising
   series_position: '1'
-  slug: over-sea-under-stone
   spine_color: '#b4a074'
   title: Over Sea, Under Stone
 plan:

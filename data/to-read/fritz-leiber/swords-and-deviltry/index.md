@@ -1,7 +1,6 @@
 ---
 book:
   author: Fritz Leiber
-  cover_image: swords-and-deviltry.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347418591l/57950.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1970'
   series: Fafhrd and the Gray Mouser
   series_position: '1'
-  slug: swords-and-deviltry
   spine_color: '#467f97'
   title: Swords and Deviltry
 plan:

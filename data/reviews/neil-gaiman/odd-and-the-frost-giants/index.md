@@ -1,14 +1,12 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: odd-and-the-frost-giants.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780747595380-L.jpg
   goodreads: '2108198'
   isbn10: 0747595380
   isbn13: '9780747595380'
   pages: '97'
   publication_year: '2008'
-  slug: odd-and-the-frost-giants
   spine_color: '#293657'
   tags:
   - fantasy
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2016-06-11
-  did_not_finish: false
   rating: 4
 ---
 

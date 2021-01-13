@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: lost-in-a-good-book.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780142004036-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: Thursday Next
   series_position: '2'
-  slug: lost-in-a-good-book
   spine_color: '#cfcdbf'
   tags:
   - fantasy
@@ -30,6 +28,5 @@ related_books:
 review:
   date_read:
   - 2008-10-01
-  did_not_finish: false
   rating: 4
 ---

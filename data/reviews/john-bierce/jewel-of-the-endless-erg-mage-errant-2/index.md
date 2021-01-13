@@ -1,14 +1,12 @@
 ---
 book:
   author: John Bierce
-  cover_image: jewel-of-the-endless-erg-mage-errant-2.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549622329l/43890637._SY475_.jpg
   goodreads: '43890637'
   isbn10: null
   isbn13: null
   pages: null
   publication_year: null
-  slug: jewel-of-the-endless-erg-mage-errant-2
   spine_color: '#c7a9a2'
   tags:
   - fantasy

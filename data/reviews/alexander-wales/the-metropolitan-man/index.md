@@ -1,12 +1,10 @@
 ---
 book:
   author: Alexander Wales
-  cover_image: the-metropolitan-man.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407181255l/22872436.jpg
   goodreads: '22872436'
   pages: '241'
   publication_year: '2014'
-  slug: the-metropolitan-man
   spine_color: '#b1b1b1'
   tags:
   - fanfic
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-03-06
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: T.H. White
-  cover_image: the-sword-in-the-stone.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780006753995-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1938'
   series: The Once and Future King
   series_position: '1'
-  slug: the-sword-in-the-stone
   spine_color: '#af5920'
   title: The Sword in the Stone
 plan:

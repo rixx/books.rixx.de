@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold, Люис Макмастър Бюджолд
-  cover_image: winterfair-gifts.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266884477l/3746202.jpg
   goodreads: '3746202'
   isbn10: '1433250195'
@@ -10,7 +9,6 @@ book:
   publication_year: '2002'
   series: Vorkosigan Saga
   series_position: '13.1'
-  slug: winterfair-gifts
   spine_color: '#e07b30'
   tags:
   - scifi
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2020-08-15
-  did_not_finish: false
   rating: 4
 ---
 

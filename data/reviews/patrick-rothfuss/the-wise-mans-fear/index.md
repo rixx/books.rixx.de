@@ -1,7 +1,6 @@
 ---
 book:
   author: Patrick Rothfuss
-  cover_image: the-wise-mans-fear.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756404734-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: The Kingkiller Chronicle
   series_position: '2'
-  slug: the-wise-mans-fear
   spine_color: '#b0b8b4'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2016-07-05
-  did_not_finish: false
   rating: 3
 ---
 

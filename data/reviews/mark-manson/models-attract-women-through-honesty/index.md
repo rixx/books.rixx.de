@@ -1,7 +1,6 @@
 ---
 book:
   author: Mark Manson
-  cover_image: models-attract-women-through-honesty.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375568311l/12633800._SX98_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781463750350'
   pages: 262
   publication_year: '2011'
-  slug: models-attract-women-through-honesty
   spine_color: '#7d1f24'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-04-16
-  did_not_finish: false
   rating: 2
   tldr: Some good advice, particularly if you are not interested in dating women.
     Less good for the target group. Take care not to get the first edition, please.

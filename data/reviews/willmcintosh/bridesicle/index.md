@@ -4,7 +4,6 @@ book:
   goodreads: '18006038'
   pages: '11'
   publication_year: '2009'
-  slug: bridesicle
   tags:
   - scifi
   title: Bridesicle
@@ -13,7 +12,6 @@ plan:
 review:
   date_read:
   - 2019-04-22
-  did_not_finish: false
   rating: 2
 ---
 

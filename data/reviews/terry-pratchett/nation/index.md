@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: nation.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061433016-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780061433016'
   pages: 367
   publication_year: '2008'
-  slug: nation
   spine_color: '#2a76a3'
   title: Nation
 plan:
@@ -20,9 +18,9 @@ plan:
 review:
   date_read:
   - 2013-10-01
-  did_not_finish: false
   rating: 4
 ---
+
 Nation is amazing. Non-Discworld, YA-ish story of a Victorian girl meeting a boy from an islander tribe – she strands,
 his tribe is wiped out by the same tidal wave. As you'd expect from Pratchett, he thoroughly does away with any notions
 of civilisation and superiority. Not as over-the-top as Discworld, while still retaining Pratchett charme, which makes

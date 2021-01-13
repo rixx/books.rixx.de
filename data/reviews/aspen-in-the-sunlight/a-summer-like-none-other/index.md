@@ -1,7 +1,6 @@
 ---
 book:
   author: Aspen in the Sunlight
-  cover_image: a-summer-like-none-other.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158403l/16171523._SX98_.jpg
   dimensions:
     height: 16
@@ -10,7 +9,6 @@ book:
   publication_year: '2008'
   series: Like None Other
   series_position: '2'
-  slug: a-summer-like-none-other
   spine_color: '#927c62'
   tags:
   - fanfic
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2020-02-28
-  did_not_finish: false
   rating: 1
   tldr: Like the previous part, only that it doubles down on the excessive processing
     in unprecedented ways. Is this going somewhere?

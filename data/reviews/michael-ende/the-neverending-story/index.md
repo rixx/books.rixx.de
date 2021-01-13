@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael Ende
-  cover_image: the-neverending-story.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780525457589-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780525457589'
   pages: 396
   publication_year: '1979'
-  slug: the-neverending-story
   spine_color: '#9a6435'
   tags:
   - fantasy
@@ -23,19 +21,20 @@ book:
   title: The Neverending Story
 plan:
   date_added: '2015-04-08'
-review:
-  date_read:
-  - 2002-03-01
-  did_not_finish: false
-  rating: 5
 related_books:
 - book: cornelia-funke/inkheart
   text: A more modern and less philosophical take on books that suck you in.
 - book: astrid-lindgren/the-brothers-lionheart
-  text: The books don't have much in common beyond being 70s fantasy for kids, but I loved them at the same time.
+  text: The books don't have much in common beyond being 70s fantasy for kids, but
+    I loved them at the same time.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: If the Neverending Story didn't have enough moralising for you.
+review:
+  date_read:
+  - 2002-03-01
+  rating: 5
 ---
+
 Neverending – oh, if only! I loved this book as a kid, and there are infinite possibilities for tie-ins (though arguably
 the book is better off without them).
 

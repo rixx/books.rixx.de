@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: parable-of-the-talents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170553715l/60932._SX98_.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Earthseed
   series_position: '2'
-  slug: parable-of-the-talents
   spine_color: '#d6c480'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-05-31
-  did_not_finish: false
   rating: 4
 ---
 

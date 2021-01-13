@@ -1,7 +1,6 @@
 ---
 book:
   author: China Miéville
-  cover_image: perdido-street-station.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494._SY160_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: New Crobuzon
   series_position: '1'
-  slug: perdido-street-station
   spine_color: '#a87c23'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-06-19
-  did_not_finish: false
   rating: 4
 ---
 

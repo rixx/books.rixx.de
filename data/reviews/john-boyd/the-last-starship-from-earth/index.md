@@ -1,14 +1,12 @@
 ---
 book:
   author: John Boyd
-  cover_image: the-last-starship-from-earth.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140048759-L.jpg
   goodreads: '872518'
   isbn10: 0140048758
   isbn13: '9780140048759'
   pages: '182'
   publication_year: '1967'
-  slug: the-last-starship-from-earth
   spine_color: '#795326'
   tags:
   - scifi

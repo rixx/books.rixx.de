@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula Poznanski
-  cover_image: die-verratenen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346059187l/15851619._SX98_.jpg
   dimensions:
     height: 19
@@ -12,7 +11,6 @@ book:
   publication_year: '2012'
   series: Die Verratenen
   series_position: '1'
-  slug: die-verratenen
   spine_color: '#2e2b2a'
   tags:
   - german
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2017-01-09
-  did_not_finish: false
   rating: 4
 ---
 

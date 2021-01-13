@@ -1,7 +1,6 @@
 ---
 book:
   author: George R.R. Martin
-  cover_image: a-storm-of-swords.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553573428-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: A Song of Ice and Fire
   series_position: '3'
-  slug: a-storm-of-swords
   spine_color: '#a08e59'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2012-11-01
-  did_not_finish: false
   rating: 3
 ---

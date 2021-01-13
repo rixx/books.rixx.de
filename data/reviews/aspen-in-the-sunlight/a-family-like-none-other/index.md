@@ -8,7 +8,6 @@ book:
   publication_year: null
   series: Like None Other
   series_position: '3'
-  slug: a-family-like-none-other
   tags:
   - fanfic
   title: A Family Like None Other
@@ -22,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2020-02-29
-  did_not_finish: false
   rating: 1
   tldr: Indulged and finished the series. No, it was not going anywhere.
 social:

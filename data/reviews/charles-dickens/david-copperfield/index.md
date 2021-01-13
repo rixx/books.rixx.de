@@ -1,12 +1,10 @@
 ---
 book:
   author: Charles Dickens
-  cover_image: david-copperfield.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762l/58696._SX98_.jpg
   goodreads: '58696'
   pages: '882'
   publication_year: '1850'
-  slug: david-copperfield
   spine_color: '#e7e2de'
   title: David Copperfield
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2017-01-27
-  did_not_finish: false
   rating: 4
 ---
 

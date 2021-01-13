@@ -1,7 +1,6 @@
 ---
 book:
   author: Diana Wynne Jones
-  cover_image: the-magicians-of-caprona.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060298784-L.jpg
   dimensions:
     height: 19.4
@@ -14,7 +13,6 @@ book:
   publication_year: '1980'
   series: Chrestomanci
   series_position: '4'
-  slug: the-magicians-of-caprona
   spine_color: '#745345'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2007-03-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Brian  McClellan
-  cover_image: promise-of-blood.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350337505l/15790883._SX98_.jpg
   goodreads: '15790883'
   isbn10: 0316219037
@@ -10,7 +9,6 @@ book:
   publication_year: '2013'
   series: Powder Mage
   series_position: '1'
-  slug: promise-of-blood
   spine_color: '#6b554b'
   title: Promise of Blood
 plan:

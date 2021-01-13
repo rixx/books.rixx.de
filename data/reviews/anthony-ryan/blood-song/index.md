@@ -1,7 +1,6 @@
 ---
 book:
   author: Anthony Ryan
-  cover_image: blood-song.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421573407l/13569581._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2011'
   series: Raven's Shadow
   series_position: '1'
-  slug: blood-song
   spine_color: '#c2ab95'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ related_books:
 review:
   date_read:
   - 2018-10-12
-  did_not_finish: false
   rating: 3
 ---
 

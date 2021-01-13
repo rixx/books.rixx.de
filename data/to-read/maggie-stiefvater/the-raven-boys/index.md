@@ -1,7 +1,6 @@
 ---
 book:
   author: Maggie Stiefvater
-  cover_image: the-raven-boys.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780545424929-L.jpg
   dimensions:
     height: 21.6
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: The Raven Cycle
   series_position: '1'
-  slug: the-raven-boys
   spine_color: '#2e161d'
   title: The Raven Boys
 plan:

@@ -11,7 +11,6 @@ book:
   isbn13: '9781565124424'
   pages: 344
   publication_year: '1923'
-  slug: king-matt-the-first
   spine_color: '#b15f4f'
   tags:
   - kids

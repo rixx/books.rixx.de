@@ -1,7 +1,6 @@
 ---
 book:
   author: Catherynne M. Valente
-  cover_image: deathless.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316635864l/8694389._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,10 +13,10 @@ book:
   publication_year: '2011'
   series: Leningrad Diptych
   series_position: '1'
-  slug: deathless
   spine_color: '#ab6a59'
   title: Deathless
 plan:
   date_added: '2018-07-23'
 ---
+
 Russian fantasy. Stalinist house elves, magical quests, secrecy and bureaucracy, and games of lust and power.

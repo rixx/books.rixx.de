@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: weatherman.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302671871l/11058951.jpg
   dimensions:
     height: 18.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '5.4'
-  slug: weatherman
   spine_color: '#536681'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-11-23
-  did_not_finish: false
   rating: 4
 ---
 

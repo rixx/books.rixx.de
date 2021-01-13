@@ -1,7 +1,6 @@
 ---
 book:
   author: Vaclav Smil
-  cover_image: energy-and-civilization-a-history.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780262035774-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780262035774'
   pages: 568
   publication_year: '2017'
-  slug: energy-and-civilization-a-history
   spine_color: '#a18e71'
   title: 'Energy and Civilization: A History'
 plan:

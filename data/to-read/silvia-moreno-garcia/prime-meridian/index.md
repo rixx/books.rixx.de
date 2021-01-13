@@ -1,7 +1,6 @@
 ---
 book:
   author: Silvia Moreno-Garcia
-  cover_image: prime-meridian.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781927990216-L.jpg
   dimensions:
     height: 20.3
@@ -12,7 +11,6 @@ book:
   isbn13: '9781927990216'
   pages: 124
   publication_year: '2017'
-  slug: prime-meridian
   spine_color: '#865c63'
   title: Prime Meridian
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: pippi-in-the-south-seas.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670557110-L.jpg
   goodreads: '19307'
   isbn10: '0670557110'
@@ -10,7 +9,6 @@ book:
   publication_year: '1948'
   series: Pippi Langstrumpf
   series_position: '3'
-  slug: pippi-in-the-south-seas
   spine_color: '#3a96d0'
   tags:
   - german
@@ -19,18 +17,20 @@ book:
   title: Pippi in the South Seas
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: astrid-lindgren/ronia-the-robbers-daughter
+  text: I think pretty much anything that Astrid Lindgren wrote makes for a better
+    read. If you're looking for more stories of strong and wild girls, Ronia the robber's
+    daughter would be a good way to get started.
+- book: astrid-lindgren/pippi-langstrumpf
+  text: If it's the absurd anarchist vibe that you're looking for, try the first part,
+    which is a bit better.
+- book: roald-dahl/matilda
+  text: Matilda is also good for strong unconventional girls.
 review:
   date_read:
   - 1999-07-01
-  did_not_finish: false
   rating: 2
-related_books:
-- book: astrid-lindgren/ronia-the-robbers-daughter
-  text: I think pretty much anything that Astrid Lindgren wrote makes for a better read. If you're looking for more stories of strong and wild girls, Ronia the robber's daughter would be a good way to get started.
-- book: astrid-lindgren/pippi-langstrumpf
-  text: If it's the absurd anarchist vibe that you're looking for, try the first part, which is a bit better.
-- book: roald-dahl/matilda
-  text: Matilda is also good for strong unconventional girls.
 ---
 
 While I generally love everything Astrid Lindgren has written, the Pippi books rank lowest among her books for me. Pippi

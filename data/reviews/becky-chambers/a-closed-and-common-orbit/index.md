@@ -1,7 +1,6 @@
 ---
 book:
   author: Becky Chambers
-  cover_image: a-closed-and-common-orbit.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781473621442-L.jpg
   dimensions:
     height: 25
@@ -12,7 +11,6 @@ book:
   publication_year: '2016'
   series: Wayfarers
   series_position: '2'
-  slug: a-closed-and-common-orbit
   spine_color: '#865c5a'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-03-07
-  did_not_finish: false
   rating: 3
 ---
 

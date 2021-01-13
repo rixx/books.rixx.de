@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: a-tall-tail.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781466828926-L.jpg
   dimensions: {}
   goodreads: '15843549'
@@ -9,7 +8,6 @@ book:
   isbn13: '9781466828926'
   pages: 32
   publication_year: '2012'
-  slug: a-tall-tail
   spine_color: '#070e19'
   tags:
   - scifi

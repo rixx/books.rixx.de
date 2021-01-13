@@ -1,7 +1,6 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: inkdeath.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327341991l/2325825._SX98_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2007'
   series: Inkworld
   series_position: '3'
-  slug: inkdeath
   spine_color: '#6e6042'
   tags:
   - fantasy
@@ -30,6 +28,5 @@ related_books:
 review:
   date_read:
   - 2007-03-01
-  did_not_finish: false
   rating: 4
 ---

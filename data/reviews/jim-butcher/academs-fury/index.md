@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: academs-fury.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441013401-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: Codex Alera
   series_position: '2'
-  slug: academs-fury
   spine_color: '#d69248'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2018-01-03
-  did_not_finish: false
   rating: 4
 ---
 

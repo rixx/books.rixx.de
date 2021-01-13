@@ -1,7 +1,6 @@
 ---
 book:
   author: Licia Troisi
-  cover_image: im-land-des-windes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1187624901l/1739659._SY475_.jpg
   dimensions:
     height: 21
@@ -12,7 +11,6 @@ book:
   publication_year: '2004'
   series: Die Drachenkämpferin
   series_position: '1'
-  slug: im-land-des-windes
   spine_color: '#e07825'
   tags:
   - fantasy
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2008-06-01
-  did_not_finish: false
   rating: 4
 ---

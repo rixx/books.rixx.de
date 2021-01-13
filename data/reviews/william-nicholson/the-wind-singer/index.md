@@ -1,7 +1,6 @@
 ---
 book:
   author: William Nicholson
-  cover_image: the-wind-singer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780786814176-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: Wind on Fire
   series_position: '1'
-  slug: the-wind-singer
   spine_color: '#deab8c'
   title: The Wind Singer
 plan:
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2019-09-29
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Licia Troisi
-  cover_image: die-drachenkampferin-der-talisman-der-macht.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327955151l/6505991._SX98_.jpg
   dimensions:
     height: 21
@@ -12,7 +11,6 @@ book:
   publication_year: '2005'
   series: Die Drachenkämpferin
   series_position: '3'
-  slug: der-talisman-der-macht
   spine_color: '#34d62d'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2007-10-01
-  did_not_finish: false
   rating: 4
 ---

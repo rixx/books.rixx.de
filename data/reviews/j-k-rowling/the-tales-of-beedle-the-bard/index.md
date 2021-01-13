@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: the-tales-of-beedle-the-bard.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780747599876-L.jpg
   dimensions:
     height: 18.5
@@ -12,7 +11,6 @@ book:
   isbn13: '9780747599876'
   pages: 109
   publication_year: '2008'
-  slug: the-tales-of-beedle-the-bard
   spine_color: '#587295'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-05-31
-  did_not_finish: false
   rating: 2
 ---
 

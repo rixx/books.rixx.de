@@ -1,12 +1,10 @@
 ---
 book:
   author: Friedrich Dürrenmatt
-  cover_image: der-verdacht.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519256229l/223620._SX98_.jpg
   goodreads: '223620'
   pages: '120'
   publication_year: '1952'
-  slug: der-verdacht
   spine_color: '#3d868f'
   tags:
   - german
@@ -17,6 +15,5 @@ plan:
 review:
   date_read:
   - 2006-11-01
-  did_not_finish: false
   rating: 4
 ---

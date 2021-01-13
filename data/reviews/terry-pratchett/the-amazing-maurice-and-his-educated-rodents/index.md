@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-amazing-maurice-and-his-educated-rodents.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168566225l/34534.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Discworld
   series_position: '28'
-  slug: the-amazing-maurice-and-his-educated-rodents
   spine_color: '#dbc07a'
   title: The Amazing Maurice and His Educated Rodents
 plan:
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-07-06
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Conor Kostick
-  cover_image: epic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670061792-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Epic
   series_position: '1'
-  slug: epic
   spine_color: '#6f6149'
   tags:
   - fantasy
@@ -25,6 +23,5 @@ plan:
 review:
   date_read:
   - 2007-03-01
-  did_not_finish: false
   rating: 4
 ---

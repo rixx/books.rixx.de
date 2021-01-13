@@ -1,7 +1,6 @@
 ---
 book:
   author: Vladimir Nabokov
-  cover_image: pale-fire.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780141185262-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780141185262'
   pages: 248
   publication_year: '1962'
-  slug: pale-fire
   spine_color: '#bc2b1a'
   title: Pale Fire
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2019-12-02
-  did_not_finish: false
   rating: 3
 ---
 

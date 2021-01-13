@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: american-gods.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258417001l/4407._SX98_.jpg
   dimensions:
     height: 17.1
@@ -10,7 +9,6 @@ book:
   publication_year: '2001'
   series: American Gods
   series_position: '1'
-  slug: american-gods
   spine_color: '#c1c59b'
   tags:
   - fantasy
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2012-02-01
-  did_not_finish: false
   rating: 5
 ---

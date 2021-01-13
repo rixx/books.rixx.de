@@ -1,7 +1,6 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image: persepolis-rising.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316332828-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2017'
   series: The Expanse
   series_position: '7'
-  slug: persepolis-rising
   spine_color: '#a07d4b'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2019-02-19
-  did_not_finish: false
   rating: 4
 ---
 

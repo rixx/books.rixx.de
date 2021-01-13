@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter V. Brett
-  cover_image: the-core.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487946539l/16096968._SX98_.jpg
   goodreads: '16096968'
   isbn10: '0345531507'
@@ -10,7 +9,6 @@ book:
   publication_year: '2017'
   series: The Demon Cycle
   series_position: '5'
-  slug: the-core
   spine_color: '#356486'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-10-24
-  did_not_finish: false
   rating: 2
 ---
 

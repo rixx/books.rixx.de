@@ -1,7 +1,6 @@
 ---
 book:
   author: Nicole Kornher-Stace
-  cover_image: archivist-wasp.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430944335l/23282249._SX98_.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Archivist Wasp Saga
   series_position: '1'
-  slug: archivist-wasp
   spine_color: '#ab1a31'
   title: Archivist Wasp
 plan:

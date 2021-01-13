@@ -1,7 +1,6 @@
 ---
 book:
   author: Tamsyn Muir
-  cover_image: gideon-the-ninth.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250313195-L.jpg
   dimensions:
     height: 21.8
@@ -14,7 +13,6 @@ book:
   publication_year: '2019'
   series: The Locked Tomb
   series_position: '1'
-  slug: gideon-the-ninth
   spine_color: '#6c635e'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-02-15
-  did_not_finish: false
   rating: 3
   tldr: Hm. The first third was slow and muddled, and while it got MUCH better, it
     feels like Grimdark Flippant Protagonist no 23 has been done to death. It's a

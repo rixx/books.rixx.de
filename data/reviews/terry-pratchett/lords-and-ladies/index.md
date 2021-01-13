@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: lords-and-ladies.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552153157-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Discworld
   series_position: '14'
-  slug: lords-and-ladies
   spine_color: '#afa36f'
   title: Lords and Ladies
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2005-11-01
-  did_not_finish: false
   rating: 4
 ---

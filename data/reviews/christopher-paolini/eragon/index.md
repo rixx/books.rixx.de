@@ -1,7 +1,6 @@
 ---
 book:
   author: Christopher Paolini
-  cover_image: eragon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375826696-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: The Inheritance Cycle
   series_position: '1'
-  slug: eragon
   spine_color: '#6095cf'
   tags:
   - fantasy
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2003-12-01
-  did_not_finish: false
   rating: 1
 ---

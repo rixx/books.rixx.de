@@ -1,7 +1,6 @@
 ---
 book:
   author: Barry Hughart
-  cover_image: bridge-of-birds.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345321381-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1984'
   series: The Chronicles of Master Li and Number Ten Ox
   series_position: '1'
-  slug: bridge-of-birds
   spine_color: '#efecb1'
   title: Bridge of Birds
 plan:

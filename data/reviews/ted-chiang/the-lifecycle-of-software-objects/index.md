@@ -1,7 +1,6 @@
 ---
 book:
   author: Ted Chiang
-  cover_image: the-lifecycle-of-software-objects.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781596063174-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781596063174'
   pages: 150
   publication_year: '2010'
-  slug: the-lifecycle-of-software-objects
   spine_color: '#ccc5ba'
   title: The Lifecycle of Software Objects
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-10-31
-  did_not_finish: false
   rating: 3
 ---
 

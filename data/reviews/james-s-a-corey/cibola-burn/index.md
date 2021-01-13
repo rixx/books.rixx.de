@@ -1,7 +1,6 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image: cibola-burn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405023040l/18656030._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2014'
   series: The Expanse
   series_position: '4'
-  slug: cibola-burn
   spine_color: '#8f9651'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-08-01
-  did_not_finish: false
   rating: 4
 ---
 

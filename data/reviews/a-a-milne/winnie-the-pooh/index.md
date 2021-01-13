@@ -1,7 +1,6 @@
 ---
 book:
   author: A.A. Milne
-  cover_image: winnie-the-pooh.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330718769l/1006067.jpg
   goodreads: '99107'
   isbn10: '0525467564'
@@ -10,21 +9,20 @@ book:
   publication_year: '1926'
   series: Winnie-the-Pooh
   series_position: '1'
-  slug: winnie-the-pooh
   spine_color: '#d44a19'
   tags:
   - kids
   title: Winnie ille Pu
 plan:
   date_added: '2016-05-19'
+related_books:
+- book: dorothy-l-sayers/gaudy-night
+  text: If you enjoy this, you're probably a nerd for classical education and allusions,
+    so you should absolutely go and read Gaudy Night.
 review:
   date_read:
   - 1999-01-01
-  did_not_finish: false
   rating: 3
-related_books:
-- book: dorothy-l-sayers/gaudy-night
-  text: If you enjoy this, you're probably a nerd for classical education and allusions, so you should absolutely go and read Gaudy Night.
 ---
 
 This book is, of course, adorable in every way. The dorky bear with his friends in various stages being excitable,

@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-jennifer-morgue.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781930846456-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Laundry Files
   series_position: '2'
-  slug: the-jennifer-morgue
   spine_color: '#406e73'
   tags:
   - urban-fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2015-07-07
-  did_not_finish: false
   rating: 4
 ---
 

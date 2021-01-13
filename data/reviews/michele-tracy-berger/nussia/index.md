@@ -1,12 +1,10 @@
 ---
 book:
   author: Michele Tracy Berger
-  cover_image: nussia.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529578290l/40602716._SX98_.jpg
   goodreads: '40602716'
   isbn13: '9781942302735'
   publication_year: '2018'
-  slug: nussia
   spine_color: '#beafae'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2019-01-14
-  did_not_finish: false
   rating: 1
 ---
 

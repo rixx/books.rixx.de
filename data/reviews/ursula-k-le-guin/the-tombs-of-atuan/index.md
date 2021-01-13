@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-tombs-of-atuan.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780689845369-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1970'
   series: Earthsea Cycle
   series_position: '2'
-  slug: the-tombs-of-atuan
   spine_color: '#f2ebb6'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-02-12
-  did_not_finish: false
   rating: 4
 ---
 

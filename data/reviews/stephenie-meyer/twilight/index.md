@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephenie Meyer
-  cover_image: twilight.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316015844-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2005'
   series: Twilight
   series_position: '1'
-  slug: twilight
   spine_color: '#824d3e'
   tags:
   - fantasy
@@ -25,6 +23,5 @@ related_books:
 review:
   date_read:
   - 2008-10-01
-  did_not_finish: false
   rating: 1
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: saturns-children.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348429796l/2278387.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Freyaverse
   series_position: '1'
-  slug: saturns-children
   spine_color: '#4c3f5d'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2017-11-19
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Orson Scott Card
-  cover_image: enders-shadow.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765342409-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1999'
   series: The Shadow Series
   series_position: '1'
-  slug: enders-shadow
   spine_color: '#4a7087'
   tags:
   - scifi

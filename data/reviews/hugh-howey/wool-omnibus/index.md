@@ -1,14 +1,12 @@
 ---
 book:
   author: Hugh Howey
-  cover_image: wool-omnibus.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SX98_.jpg
   goodreads: '13453029'
   pages: '509'
   publication_year: '2012'
   series: Silo
   series_position: '1'
-  slug: wool-omnibus
   spine_color: '#8a8649'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-01-23
-  did_not_finish: false
   rating: 4
 ---
 

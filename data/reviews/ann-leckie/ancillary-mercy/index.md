@@ -1,7 +1,6 @@
 ---
 book:
   author: Ann Leckie
-  cover_image: ancillary-mercy.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780356502427-L.jpg
   dimensions:
     height: 19.8
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Imperial Radch
   series_position: '3'
-  slug: ancillary-mercy
   spine_color: '#cd9814'
   tags:
   - five-stars
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2018-07-13
-  did_not_finish: false
   rating: 5
 ---
 

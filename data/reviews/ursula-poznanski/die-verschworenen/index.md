@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula Poznanski
-  cover_image: die-verschworenen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368581811l/17925992._SX98_.jpg
   dimensions:
     height: 19
@@ -12,7 +11,6 @@ book:
   publication_year: '2013'
   series: Die Verratenen
   series_position: '2'
-  slug: die-verschworenen
   spine_color: '#787674'
   tags:
   - german
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-01-09
-  did_not_finish: false
   rating: 4
 ---
 

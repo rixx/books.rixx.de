@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: ghost-story.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451463791-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: The Dresden Files
   series_position: '13'
-  slug: ghost-story
   spine_color: '#a2938f'
   tags:
   - urban-fantasy
@@ -31,9 +29,9 @@ related_books:
 review:
   date_read:
   - 2014-12-01
-  did_not_finish: false
   rating: 3
 ---
+
 Different angle on the ever-same story (Harry is mostly intangible for this book). We get some sudden – but
 well-prepared! – development, mostly in Molly. I'm very ambivalent about Molly, which is *good*. The Harry Dresden books
 aren't usually ones to foster ambivalence, to say the least.

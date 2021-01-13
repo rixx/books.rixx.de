@@ -1,7 +1,6 @@
 ---
 book:
   author: Lindsey Fitzharris
-  cover_image: the-butchering-art.jpg
   cover_image_url: http://books.google.com/books/content?id=j9w1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780374117290'
   pages: 304
   publication_year: '2017'
-  slug: the-butchering-art
   spine_color: '#8c1e20'
   tags:
   - nonfiction

@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-atrocity-archives.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441013654-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Laundry Files
   series_position: '1'
-  slug: the-atrocity-archives
   spine_color: '#a06f5e'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2015-07-02
-  did_not_finish: false
   rating: 5
 ---
 

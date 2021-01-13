@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: lies-sleeping.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517326409l/36534574._SX98_.jpg
   dimensions:
     height: 25
@@ -12,7 +11,6 @@ book:
   publication_year: '2018'
   series: Peter Grant
   series_position: '7'
-  slug: lies-sleeping
   spine_color: '#8a2f5a'
   title: Lies Sleeping
 plan:

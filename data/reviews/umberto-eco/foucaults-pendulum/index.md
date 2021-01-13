@@ -1,7 +1,6 @@
 ---
 book:
   author: Umberto Eco
-  cover_image: foucaults-pendulum.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780156032971-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780156032971'
   pages: 623
   publication_year: '1988'
-  slug: foucaults-pendulum
   spine_color: '#483928'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2012-07-23
-  did_not_finish: false
   rating: 2
 ---

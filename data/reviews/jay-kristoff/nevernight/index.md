@@ -1,7 +1,6 @@
 ---
 book:
   author: Jay Kristoff
-  cover_image: nevernight.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250073020-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: The Nevernight Chronicle
   series_position: '1'
-  slug: nevernight
   spine_color: '#9c9590'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2019-01-06
-  did_not_finish: false
   rating: 3
 ---
 

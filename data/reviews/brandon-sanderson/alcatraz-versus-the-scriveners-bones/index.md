@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: alcatraz-versus-the-scriveners-bones.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439925532-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Alcatraz
   series_position: '2'
-  slug: alcatraz-versus-the-scriveners-bones
   spine_color: '#407097'
   tags:
   - ya
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2015-05-01
-  did_not_finish: false
   rating: 2
 ---

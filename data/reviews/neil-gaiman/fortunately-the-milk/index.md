@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: fortunately-the-milk.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780062224071-L.jpg
   dimensions:
     height: 19.1
@@ -12,7 +11,6 @@ book:
   isbn13: '9780062224071'
   pages: 128
   publication_year: '2013'
-  slug: fortunately-the-milk
   spine_color: '#d04f42'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2016-11-22
-  did_not_finish: false
   rating: 4
 ---
 

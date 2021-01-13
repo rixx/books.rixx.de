@@ -4,7 +4,6 @@ book:
   goodreads: '40172404'
   pages: '32'
   publication_year: '2005'
-  slug: second-person-present-tense
   source: https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm
   spine_color: '#03018c'
   tags:
@@ -15,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-04-24
-  did_not_finish: false
   rating: 5
   tldr: Brilliant short story, available online. Cuts off rudely instead of being
     a book, making it no less brilliant. Very technically a zombie story.

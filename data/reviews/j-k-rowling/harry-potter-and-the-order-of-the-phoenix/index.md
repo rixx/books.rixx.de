@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: harry-potter-and-the-order-of-the-phoenix.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439358071-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Harry Potter
   series_position: '5'
-  slug: harry-potter-and-the-order-of-the-phoenix
   spine_color: '#528bdf'
   tags:
   - fantasy
@@ -33,9 +31,9 @@ related_books:
 review:
   date_read:
   - 2003-01-01
-  did_not_finish: false
   rating: 2
 ---
+
 My low point of the series. I remember getting this book, at a midnight release party, and then reading it within the
 next day. I wasn't immediately disappointed, but I hated the whole "teenager yells at cloud" thing, and while Umbridge
 was delightfully evil, I just wasn't on board with the weird plot shape and the growing pains.

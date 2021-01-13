@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: das-labyrinth-der-traumenden-bucher.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783813503937-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Zamonien
   series_position: '6'
-  slug: das-labyrinth-der-traumenden-bucher
   spine_color: '#bf9f45'
   tags:
   - fantasy
@@ -32,9 +30,9 @@ related_books:
 review:
   date_read:
   - 2011-10-01
-  did_not_finish: false
   rating: 2
 ---
+
 Well, this was an exercise in disappointment. The follow-up book to the City of Dreaming Books is strictly worse than
 its predecessor. It reads as if Moers needed money and so decided to make a bad B-movie following his great blockbuster.
 Nearly put me off reading future Moers books entirely.

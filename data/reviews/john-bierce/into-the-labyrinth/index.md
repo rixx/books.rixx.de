@@ -1,7 +1,6 @@
 ---
 book:
   author: John Bierce
-  cover_image: into-the-labyrinth-mage-errant-1.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539137096l/42267952._SX318_.jpg
   goodreads: '42267952'
   isbn10: null
@@ -10,7 +9,6 @@ book:
   publication_year: '2018'
   series: Mage Errant
   series_position: 1
-  slug: into-the-labyrinth
   spine_color: '#3e5a61'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-10-20
-  did_not_finish: false
   rating: 3
 ---
 

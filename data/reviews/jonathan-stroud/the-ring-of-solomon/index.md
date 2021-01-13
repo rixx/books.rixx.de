@@ -1,7 +1,6 @@
 ---
 book:
   author: Jonathan Stroud
-  cover_image: the-ring-of-solomon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780307738615-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2010'
   series: Bartimaeus
   series_position: '0.5'
-  slug: the-ring-of-solomon
   spine_color: '#c94823'
   tags:
   - fantasy
@@ -26,6 +24,5 @@ related_books:
 review:
   date_read:
   - 2011-01-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,14 +1,12 @@
 ---
 book:
   author: Sabrina Vourvoulias
-  cover_image: ink.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340588500l/15721155._SX98_.jpg
   goodreads: '15721155'
   isbn10: 0615657818
   isbn13: '9780615657813'
   pages: '230'
   publication_year: '2012'
-  slug: ink
   spine_color: '#a56a4f'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-03-31
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Lynn Flewelling
-  cover_image: the-bone-dolls-twin.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553577235-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: The Tamír Triad
   series_position: '1'
-  slug: the-bone-dolls-twin
   spine_color: '#d4bfa4'
   title: The Bone Doll's Twin
 plan:

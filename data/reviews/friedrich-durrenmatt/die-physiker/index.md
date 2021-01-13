@@ -1,11 +1,9 @@
 ---
 book:
   author: Friedrich Dürrenmatt
-  cover_image: die-physiker.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414321871l/452220._SX98_.jpg
   goodreads: '452220'
   publication_year: '1962'
-  slug: die-physiker
   spine_color: '#aba069'
   tags:
   - german
@@ -16,6 +14,5 @@ plan:
 review:
   date_read:
   - 2007-02-01
-  did_not_finish: false
   rating: 4
 ---

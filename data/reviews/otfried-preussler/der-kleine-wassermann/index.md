@@ -1,13 +1,11 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image: der-kleine-wassermann.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522106207-L.jpg
   goodreads: '292186'
   isbn10: '3522106202'
   isbn13: '9783522106207'
   publication_year: '1956'
-  slug: der-kleine-wassermann
   spine_color: '#5e9160'
   tags:
   - german
@@ -15,16 +13,16 @@ book:
   title: Der kleine Wassermann
 plan:
   date_added: '2016-05-05'
-review:
-  date_read:
-  - 2000-09-01
-  did_not_finish: false
-  rating: 3
 related_books:
 - book: otfried-preussler/the-little-ghost
   text: Another good children's book by Otfried Preußler is The Little Ghost.
 - book: otfried-preussler/krabat
-  text: If you're looking for more serious books by Preußler, Krabat is my favourite by far.
+  text: If you're looking for more serious books by Preußler, Krabat is my favourite
+    by far.
+review:
+  date_read:
+  - 2000-09-01
+  rating: 3
 ---
 
 A nice little book for children. Nothing special per se, but I think the way life under water is portrayed is very well

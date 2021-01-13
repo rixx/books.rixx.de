@@ -1,7 +1,6 @@
 ---
 book:
   author: Karl Marx
-  cover_image: the-communist-manifesto.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140447576-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780140447576'
   pages: 288
   publication_year: '1848'
-  slug: the-communist-manifesto
   spine_color: '#d1bc94'
   tags:
   - german
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-04-12
-  did_not_finish: false
   rating: 3
   tldr: I had not expected to find a perfect description of startup culture, but here
     we are. Very readable and clarified some terms, like reactionary vs conservative

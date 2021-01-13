@@ -1,7 +1,6 @@
 ---
 book:
   author: Brent Weeks
-  cover_image: the-way-of-shadows.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033671-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2008'
   series: Night Angel
   series_position: '1'
-  slug: the-way-of-shadows
   spine_color: '#7b7076'
   tags:
   - fantasy
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2016-03-01
-  did_not_finish: false
   rating: 4
 ---
 

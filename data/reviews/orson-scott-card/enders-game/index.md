@@ -1,7 +1,6 @@
 ---
 book:
   author: Orson Scott Card
-  cover_image: enders-game.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780812550702-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1985'
   series: Ender’s Saga
   series_position: '1'
-  slug: enders-game
   spine_color: '#4c5a67'
   tags:
   - learning-the-arts
@@ -29,7 +27,6 @@ review:
   date_read:
   - 2014-01-01
   - 2020-08-01
-  did_not_finish: false
   rating: 4
 ---
 

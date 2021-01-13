@@ -1,7 +1,6 @@
 ---
 book:
   author: Douglas Adams
-  cover_image: so-long-and-thanks-for-all-the-fish.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780330491235-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1984'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '4'
-  slug: so-long-and-thanks-for-all-the-fish
   spine_color: '#093139'
   tags:
   - german
@@ -30,8 +28,8 @@ related_books:
 review:
   date_read:
   - 2011-12-01
-  did_not_finish: false
   rating: 2
 ---
+
 I honestly didn't enjoy the later parts of the Hitchhiker's Guide. Maybe it was the novelty wearing off, the jokes
 becoming too predictable? Not the jokes themselves, of course, just their general shape.

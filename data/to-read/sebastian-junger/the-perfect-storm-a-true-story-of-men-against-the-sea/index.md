@@ -1,7 +1,6 @@
 ---
 book:
   author: Sebastian Junger
-  cover_image: the-perfect-storm-a-true-story-of-men-against-the-sea.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442243544l/6545608._SX318_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780393337013'
   pages: 248
   publication_year: '1997'
-  slug: the-perfect-storm-a-true-story-of-men-against-the-sea
   spine_color: '#1b6663'
   title: 'The Perfect Storm: A True Story of Men Against the Sea'
 plan:

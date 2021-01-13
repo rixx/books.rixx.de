@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: cryoburn.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269879970l/7841670.jpg
   dimensions: {}
   goodreads: '7841670'
@@ -11,7 +10,6 @@ book:
   publication_year: '2010'
   series: Vorkosigan Saga
   series_position: '14'
-  slug: cryoburn
   spine_color: '#a98661'
   tags:
   - scifi
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2020-08-18
-  did_not_finish: false
   rating: 4
 ---
 

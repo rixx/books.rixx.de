@@ -1,14 +1,12 @@
 ---
 book:
   author: Brenda Peynado
-  cover_image: the-kite-maker.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535559053l/40698166._SX98_.jpg
   goodreads: '40698166'
   isbn10: '1250312493'
   isbn13: '9781250312495'
   pages: '28'
   publication_year: '2018'
-  slug: the-kite-maker
   spine_color: '#c6ba6d'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2018-10-31
-  did_not_finish: false
   rating: 3
 ---
 

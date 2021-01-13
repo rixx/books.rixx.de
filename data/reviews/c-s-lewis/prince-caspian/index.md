@@ -1,7 +1,6 @@
 ---
 book:
   author: C.S. Lewis
-  cover_image: prince-caspian.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780007202300-L.jpg
   dimensions:
     height: 20.0
@@ -13,7 +12,6 @@ book:
   publication_year: '1951'
   series: Chronicles of Narnia
   series_position: '2'
-  slug: prince-caspian
   spine_color: '#b2a97d'
   tags:
   - fantasy
@@ -28,9 +26,9 @@ related_books:
 review:
   date_read:
   - 2002-10-01
-  did_not_finish: false
   rating: 1
 ---
+
 After the first Narnia book, I thought that things might get better, or that this was a series that just had an
 unfortunate first book.
 

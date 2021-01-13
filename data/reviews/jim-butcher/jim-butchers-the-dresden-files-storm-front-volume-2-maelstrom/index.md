@@ -1,14 +1,12 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252._SX98_.jpg
   goodreads: '6285252'
   isbn10: '0345516206'
   isbn13: '9780345516206'
   pages: '160'
   publication_year: '2011'
-  slug: jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
   spine_color: '#e1a036'
   tags:
   - urban-fantasy
@@ -18,6 +16,5 @@ plan:
 review:
   date_read:
   - 2014-04-01
-  did_not_finish: false
   rating: 3
 ---

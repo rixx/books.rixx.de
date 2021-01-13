@@ -1,7 +1,6 @@
 ---
 book:
   author: Josef Pieper
-  cover_image: no-one-could-have-known.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780898701319-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1970'
   series: 'No One Could Have Known: An Autobiography: The Early Years, 1904-1945'
   series_position: ''
-  slug: no-one-could-have-known
   spine_color: '#fefefe'
   tags:
   - nonfiction

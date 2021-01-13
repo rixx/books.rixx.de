@@ -1,14 +1,12 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: dodger.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780062009494-L.jpg
   goodreads: '13516846'
   isbn10: 0062009494
   isbn13: '9780062009494'
   pages: '360'
   publication_year: '2012'
-  slug: dodger
   spine_color: '#d5b883'
   tags:
   - historical-fiction
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2017-06-01
-  did_not_finish: false
   rating: 4
 ---
 

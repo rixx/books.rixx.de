@@ -1,7 +1,6 @@
 ---
 book:
   author: Lemony Snicket
-  cover_image: the-hostile-hospital.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781405206129-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2001'
   series: A Series of Unfortunate Events
   series_position: '8'
-  slug: the-hostile-hospital
   spine_color: '#378be4'
   tags:
   - ya
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-02-07
-  did_not_finish: false
   rating: 4
 ---
 

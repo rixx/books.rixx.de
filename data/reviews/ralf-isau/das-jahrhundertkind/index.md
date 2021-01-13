@@ -1,7 +1,6 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: das-jahrhundertkind.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999220l/1692762._SX318_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1999'
   series: Der Kreis der Dämmerung
   series_position: '1'
-  slug: das-jahrhundertkind
   spine_color: '#a86047'
   tags:
   - fantasy
@@ -24,12 +22,12 @@ plan:
   date_added: '2015-06-28'
 related_books:
 - book: liselotte-welskopf-henrich/harka
-  text: A completely different story, but one that also follows its protagonist from childhood to old age over several books.
+  text: A completely different story, but one that also follows its protagonist from
+    childhood to old age over several books.
 - book: ralf-isau/der-wahrheitsfinder
   text: The next book in the series.
 review:
   date_read:
   - 2005-06-01
-  did_not_finish: false
   rating: 5
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image: foxglove-summer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575132504-L.jpg
   dimensions:
     height: 22.3
@@ -14,7 +13,6 @@ book:
   publication_year: '2014'
   series: Rivers of London
   series_position: '5'
-  slug: foxglove-summer
   spine_color: '#9f1f1a'
   tags:
   - urban-fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2017-12-18
-  did_not_finish: false
   rating: 4
 ---
 

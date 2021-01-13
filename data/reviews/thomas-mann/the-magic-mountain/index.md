@@ -1,7 +1,6 @@
 ---
 book:
   author: Thomas Mann
-  cover_image: the-magic-mountain.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780679772873-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780679772873'
   pages: 706
   publication_year: '1924'
-  slug: the-magic-mountain
   spine_color: '#c2ae8e'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-04-01
-  did_not_finish: false
   rating: 1
 ---

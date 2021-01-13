@@ -1,7 +1,6 @@
 ---
 book:
   author: Malka Ann Older
-  cover_image: infomocracy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444883445l/26114433._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: The Centenal Cycle
   series_position: '1'
-  slug: infomocracy
   spine_color: '#2fa9ba'
   title: Infomocracy
 plan:

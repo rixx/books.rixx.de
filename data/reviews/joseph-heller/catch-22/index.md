@@ -1,7 +1,6 @@
 ---
 book:
   author: Joseph Heller
-  cover_image: catch-22.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780684833392-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1961'
   series: Catch-22
   series_position: '1'
-  slug: catch-22
   spine_color: '#1b4b8d'
   title: Catch-22
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-06-06
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,14 +1,12 @@
 ---
 book:
   author: Ian Watson
-  cover_image: the-embedding.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1305136769l/941146.jpg
   goodreads: '941146'
   isbn10: 088184554X
   isbn13: '9780881845549'
   pages: null
   publication_year: '1973'
-  slug: the-embedding
   spine_color: '#cf702a'
   tags:
   - language

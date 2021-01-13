@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: mind-of-my-mind.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446361880-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1977'
   series: Patternmaster
   series_position: '2'
-  slug: mind-of-my-mind
   spine_color: '#9b855c'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-10-06
-  did_not_finish: false
   rating: 3
 ---
 

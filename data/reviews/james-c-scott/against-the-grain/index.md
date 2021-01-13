@@ -1,7 +1,6 @@
 ---
 book:
   author: James C. Scott
-  cover_image: against-the-grain.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780300182910-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780300182910'
   pages: 312
   publication_year: '2017'
-  slug: against-the-grain
   spine_color: '#57876d'
   tags:
   - history

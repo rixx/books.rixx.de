@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-world-of-poo-discworld.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331115792l/13515493.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Discworld
   series_position: '39.5'
-  slug: the-world-of-poo-discworld
   spine_color: '#eed6ad'
   tags:
   - kids

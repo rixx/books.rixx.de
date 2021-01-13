@@ -1,7 +1,6 @@
 ---
 book:
   author: Steven Sloman
-  cover_image: the-knowledge-illusion-why-we-never-think-alone.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474600243l/30780235._SX98_.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780399184352'
   pages: 304
   publication_year: '2017'
-  slug: the-knowledge-illusion-why-we-never-think-alone
   spine_color: '#eeee1e'
   tags:
   - five-stars
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2020-01-03
-  did_not_finish: false
   rating: 5
   tldr: 'Useful discussion of knowledge scope and storage: We think in groups, and
     we store information in our surroundings and in others. Changed how I think about

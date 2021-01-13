@@ -1,12 +1,10 @@
 ---
 book:
   author: Anne Frank
-  cover_image: the-diary-of-a-young-girl.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg
   goodreads: '48855'
   pages: '283'
   publication_year: '1947'
-  slug: the-diary-of-a-young-girl
   spine_color: '#490e11'
   tags:
   - german
@@ -17,6 +15,5 @@ plan:
 review:
   date_read:
   - 2003-04-01
-  did_not_finish: false
   rating: 4
 ---

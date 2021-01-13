@@ -1,7 +1,6 @@
 ---
 book:
   author: Liu Cixin
-  cover_image: the-dark-forest.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
   dimensions:
     height: 25.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2008'
   series: Remembrance of Earth’s Past
   series_position: '2'
-  slug: the-dark-forest
   spine_color: '#daa836'
   tags:
   - scifi
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2018-09-24
-  did_not_finish: false
   rating: 2
 ---
 

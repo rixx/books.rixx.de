@@ -1,7 +1,6 @@
 ---
 book:
   author: George R.R. Martin
-  cover_image: a-game-of-thrones.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553588484-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1996'
   series: A Song of Ice and Fire
   series_position: '1'
-  slug: a-game-of-thrones
   spine_color: '#c7994a'
   tags:
   - fantasy
@@ -26,6 +24,5 @@ related_books:
 review:
   date_read:
   - 2012-10-01
-  did_not_finish: false
   rating: 5
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Pierce Brown
-  cover_image: red-rising.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345539786-L.jpg
   goodreads: '15839976'
   isbn10: 0345539788
@@ -10,7 +9,6 @@ book:
   publication_year: '2014'
   series: Red Rising Saga
   series_position: '1'
-  slug: red-rising
   spine_color: '#b92c29'
   tags:
   - ya
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2017-07-13
-  did_not_finish: false
   rating: 3
 ---
 

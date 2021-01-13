@@ -1,7 +1,6 @@
 ---
 book:
   author: Alfred Bester
-  cover_image: the-stars-my-destination.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780679767800-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780679767800'
   pages: 258
   publication_year: '1955'
-  slug: the-stars-my-destination
   spine_color: '#885f12'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2019-05-05
-  did_not_finish: false
   rating: 3
 ---
 

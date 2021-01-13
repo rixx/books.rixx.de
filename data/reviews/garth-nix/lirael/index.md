@@ -1,7 +1,6 @@
 ---
 book:
   author: Garth Nix
-  cover_image: lirael.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060590161-L.jpg
   dimensions:
     height: 20.2
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Abhorsen
   series_position: '2'
-  slug: lirael
   spine_color: '#81aec6'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2017-12-25
-  did_not_finish: false
   rating: 4
 ---
 

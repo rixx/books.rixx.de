@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: tehanu.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416509639-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Earthsea Cycle
   series_position: '4'
-  slug: tehanu
   spine_color: '#bac2a8'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-03-04
-  did_not_finish: false
   rating: 3
 ---
 

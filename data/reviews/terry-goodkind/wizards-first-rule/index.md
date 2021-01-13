@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Goodkind
-  cover_image: wizards-first-rule.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385248539l/43889.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1994'
   series: Sword of Truth
   series_position: '1'
-  slug: wizards-first-rule
   spine_color: '#808094'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2016-10-24
-  did_not_finish: false
   rating: 2
 ---
 

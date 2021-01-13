@@ -1,7 +1,6 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image: the-brothers-lionheart.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781930900240-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781930900240'
   pages: 231
   publication_year: '1973'
-  slug: the-brothers-lionheart
   spine_color: '#93c2cb'
   tags:
   - five-stars
@@ -21,16 +19,17 @@ book:
   title: The Brothers Lionheart
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: michael-ende/the-neverending-story
+  text: Also a fantastical journey about strength and courage, going from our world
+    to a different one.
+- book: astrid-lindgren/mio-my-son
+  text: The closest of Lindgren's books, also about a poor boy escaping into a fantastical
+    world that turns out to have its dark sides and that needs his help.
 review:
   date_read:
   - 2001-11-01
-  did_not_finish: false
   rating: 5
-related_books:
-- book: michael-ende/the-neverending-story
-  text: Also a fantastical journey about strength and courage, going from our world to a different one.
-- book: astrid-lindgren/mio-my-son
-  text: The closest of Lindgren's books, also about a poor boy escaping into a fantastical world that turns out to have its dark sides and that needs his help.
 ---
 
 There's nothing I don't love about this book. It drew me in and swallowed me whole, back in the day. I re-read it so

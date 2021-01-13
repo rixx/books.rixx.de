@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert A. Heinlein
-  cover_image: have-space-suit-will-travel.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416505495-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781416505495'
   pages: 276
   publication_year: '1958'
-  slug: have-space-suit-will-travel
   spine_color: '#aa0908'
   tags:
   - scifi
@@ -20,15 +18,17 @@ book:
   title: Have Space Suit—Will Travel
 plan:
   date_added: 2020-06-02
+related_books:
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: The Young Wizards series has in general a very similar tone and content to
+    this book.
+- book: diane-duane/high-wizardry
+  text: Within the Young Wizards series, the exploration of galactic space is strongest,
+    and perhaps most similar to this book, in High Wizardry.
 review:
   date_read:
   - 2020-06-01
   rating: 4
-related_books:
- - book: diane-duane/so-you-want-to-be-a-wizard
-   text: The Young Wizards series has in general a very similar tone and content to this book.
- - book: diane-duane/high-wizardry
-   text: Within the Young Wizards series, the exploration of galactic space is strongest, and perhaps most similar to this book, in High Wizardry.
 ---
 
 I usually avoid classic sci-fi: I've had mostly negative run-ins, where books had aged badly and either didn't interest

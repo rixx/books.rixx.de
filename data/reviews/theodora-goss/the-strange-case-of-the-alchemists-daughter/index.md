@@ -1,7 +1,6 @@
 ---
 book:
   author: Theodora Goss
-  cover_image: the-strange-case-of-the-alchemists-daughter.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781534409637-L.jpg
   goodreads: '34728925'
   isbn10: '1534409637'
@@ -10,7 +9,6 @@ book:
   publication_year: '2017'
   series: The Extraordinary Adventures of the Athena Club
   series_position: '1'
-  slug: the-strange-case-of-the-alchemists-daughter
   spine_color: '#d3cdb7'
   tags:
   - fantasy
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2019-08-06
-  did_not_finish: false
   rating: 4
 ---
 

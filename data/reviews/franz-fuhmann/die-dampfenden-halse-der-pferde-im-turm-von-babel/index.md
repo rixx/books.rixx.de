@@ -1,14 +1,12 @@
 ---
 book:
   author: Franz Fühmann
-  cover_image: die-dampfenden-halse-der-pferde-im-turm-von-babel.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340833568l/2841133._SX98_.jpg
   goodreads: '2841133'
   isbn10: '3356010980'
   isbn13: '9783356010985'
   pages: '358'
   publication_year: '1978'
-  slug: die-dampfenden-halse-der-pferde-im-turm-von-babel
   spine_color: '#bbab8d'
   tags:
   - five-stars
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2000-03-01
-  did_not_finish: false
   rating: 5
 ---
 

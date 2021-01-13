@@ -1,7 +1,6 @@
 ---
 book:
   author: Liu Cixin
-  cover_image: the-three-body-problem.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765377067-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Remembrance of Earth’s Past
   series_position: '1'
-  slug: the-three-body-problem
   spine_color: '#c2ce83'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-08-10
-  did_not_finish: false
   rating: 3
 ---
 

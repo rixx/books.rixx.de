@@ -1,7 +1,6 @@
 ---
 book:
   author: Kevin E. Mullet, Darrell Sano
-  cover_image: designing-visual-interfaces.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780133033892-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780133033892'
   pages: 273
   publication_year: '1994'
-  slug: designing-visual-interfaces
   spine_color: '#f9f617'
   tags:
   - nonfiction

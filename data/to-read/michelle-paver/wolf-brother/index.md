@@ -1,7 +1,6 @@
 ---
 book:
   author: Michelle Paver
-  cover_image: wolf-brother.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060728274-L.jpg
   dimensions:
     height: 19.4
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Chronicles of Ancient Darkness
   series_position: '1'
-  slug: wolf-brother
   spine_color: '#b28e74'
   title: Wolf Brother
 plan:

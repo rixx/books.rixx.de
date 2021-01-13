@@ -1,7 +1,6 @@
 ---
 book:
   author: Anthony Ryan
-  cover_image: tower-lord.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382486392l/18138189._SX98_.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2014'
   series: Raven's Shadow
   series_position: '2'
-  slug: tower-lord
   spine_color: '#b4a9a8'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-01-21
-  did_not_finish: false
   rating: 4
 ---
 

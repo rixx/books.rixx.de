@@ -1,7 +1,6 @@
 ---
 book:
   author: Yoshio Sugimoto
-  cover_image: an-introduction-to-japanese-society.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780521529259-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780521529259'
   pages: 330
   publication_year: '1997'
-  slug: an-introduction-to-japanese-society
   spine_color: '#a1e412'
   title: An Introduction to Japanese Society
 plan:

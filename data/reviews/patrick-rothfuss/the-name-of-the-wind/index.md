@@ -1,7 +1,6 @@
 ---
 book:
   author: Patrick Rothfuss
-  cover_image: the-name-of-the-wind.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780756404079-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2007'
   series: The Kingkiller Chronicle
   series_position: '1'
-  slug: the-name-of-the-wind
   spine_color: '#beb79e'
   tags:
   - fantasy
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2016-06-04
-  did_not_finish: false
   rating: 4
 ---
 

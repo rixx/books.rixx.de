@@ -1,7 +1,6 @@
 ---
 book:
   author: Linda Nagata
-  cover_image: memory.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781937197124-L.jpg
   dimensions:
     height: 21.6
@@ -12,7 +11,6 @@ book:
   isbn13: '9781937197124'
   pages: 396
   publication_year: '2003'
-  slug: memory
   spine_color: '#c88039'
   tags:
   - scifi

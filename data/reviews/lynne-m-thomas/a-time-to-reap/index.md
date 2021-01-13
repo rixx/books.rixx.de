@@ -1,11 +1,9 @@
 ---
 book:
   author: Lynne M. Thomas
-  cover_image: uncanny-magazine-issue-31-november-december-2019.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572999756l/48715894._SY475_.jpg
   goodreads: '48715894'
   publication_year: '2019'
-  slug: a-time-to-reap
   source: https://uncannymagazine.com/article/a-time-to-reap/
   spine_color: '#deb36a'
   tags:
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-02-12
-  did_not_finish: false
   rating: 4
   tldr: Very solid time travel short story, probably even better for people from the
     rural US. Extremely strong on the atmosphere.

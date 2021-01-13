@@ -1,7 +1,6 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image: beneath-the-sugar-sky.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765393586-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2018'
   series: Wayward Children
   series_position: '3'
-  slug: beneath-the-sugar-sky
   spine_color: '#369bc1'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2019-05-10
-  did_not_finish: false
   rating: 3
 ---
 

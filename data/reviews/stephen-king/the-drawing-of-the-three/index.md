@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: the-drawing-of-the-three.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451210852-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: The Dark Tower
   series_position: '2'
-  slug: the-drawing-of-the-three
   spine_color: '#8b584a'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2017-06-03
-  did_not_finish: false
   rating: 4
 ---
 

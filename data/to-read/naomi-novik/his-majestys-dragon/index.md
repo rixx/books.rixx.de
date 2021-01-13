@@ -1,7 +1,6 @@
 ---
 book:
   author: Naomi Novik
-  cover_image: his-majestys-dragon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345481283-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Temeraire
   series_position: '1'
-  slug: his-majestys-dragon
   spine_color: '#a31f1b'
   title: His Majesty's Dragon
 plan:

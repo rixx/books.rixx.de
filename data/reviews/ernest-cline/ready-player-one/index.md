@@ -1,7 +1,6 @@
 ---
 book:
   author: Ernest Cline
-  cover_image: ready-player-one.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780307887436-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Ready Player One
   series_position: '1'
-  slug: ready-player-one
   spine_color: '#ec1d37'
   tags:
   - scifi
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2015-08-05
-  did_not_finish: false
   rating: 2
 ---
 

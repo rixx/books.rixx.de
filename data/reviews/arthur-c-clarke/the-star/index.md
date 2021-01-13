@@ -1,12 +1,10 @@
 ---
 book:
   author: Arthur C. Clarke
-  cover_image: the-star.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451214185l/13598725._SX98_.jpg
   goodreads: '13598725'
   pages: '6'
   publication_year: '1955'
-  slug: the-star
   spine_color: '#2b90b9'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-03-15
-  did_not_finish: false
   rating: 4
 ---
 

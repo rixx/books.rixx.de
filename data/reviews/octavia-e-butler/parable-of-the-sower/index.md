@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: parable-of-the-sower.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446675505-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1993'
   series: Earthseed
   series_position: '1'
-  slug: parable-of-the-sower
   spine_color: '#b9a092'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-04-09
-  did_not_finish: false
   rating: 3
 ---
 

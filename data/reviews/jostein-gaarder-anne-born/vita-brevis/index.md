@@ -1,7 +1,6 @@
 ---
 book:
   author: Jostein Gaarder, Anne Born
-  cover_image: vita-brevis.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780753804612-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: 'Vita Brevis: A Letter to St Augustine'
   series_position: ''
-  slug: vita-brevis
   spine_color: '#d08a44'
   tags:
   - fanfic

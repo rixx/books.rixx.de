@@ -1,7 +1,6 @@
 ---
 book:
   author: Poul Anderson
-  cover_image: the-high-crusade.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388708395l/338325.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780743475280'
   pages: 181
   publication_year: '1960'
-  slug: the-high-crusade
   spine_color: '#b8bad0'
   title: The High Crusade
 plan:

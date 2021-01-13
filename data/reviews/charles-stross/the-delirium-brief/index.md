@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-delirium-brief.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478673286l/32063117._SX98_.jpg
   dimensions:
     height: 22.0
@@ -9,7 +8,6 @@ book:
   publication_year: '2017'
   series: Laundry Files
   series_position: '8'
-  slug: the-delirium-brief
   spine_color: '#828a8b'
   tags:
   - urban-fantasy
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2018-10-16
-  did_not_finish: false
   rating: 4
 ---
 

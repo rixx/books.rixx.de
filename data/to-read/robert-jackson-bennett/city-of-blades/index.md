@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Jackson Bennett
-  cover_image: city-of-blades.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426255519l/23909755._SX98_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2016'
   series: The Divine Cities
   series_position: '2'
-  slug: city-of-blades
   spine_color: '#949075'
   title: City of Blades
 plan:

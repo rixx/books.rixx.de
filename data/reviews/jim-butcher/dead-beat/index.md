@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: dead-beat.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451460912-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2005'
   series: The Dresden Files
   series_position: '7'
-  slug: dead-beat
   spine_color: '#4c5d65'
   tags:
   - urban-fantasy
@@ -29,8 +27,8 @@ related_books:
 review:
   date_read:
   - 2014-07-01
-  did_not_finish: false
   rating: 3
 ---
+
 We get a bit of character development, which may just turn into a thing we get thrown every three books or so, so that
 we don't feel like we're reading the book equivalent of Fast & Furious VIII.

@@ -1,7 +1,6 @@
 ---
 book:
   author: N.K. Jemisin
-  cover_image: the-hundred-thousand-kingdoms.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061._SX98_.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Inheritance
   series_position: '1'
-  slug: the-hundred-thousand-kingdoms
   spine_color: '#bda144'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2019-11-15
-  did_not_finish: false
   rating: 3
 ---
 

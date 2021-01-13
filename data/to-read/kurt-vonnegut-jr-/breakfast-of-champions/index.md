@@ -1,7 +1,6 @@
 ---
 book:
   author: Kurt Vonnegut Jr.
-  cover_image: breakfast-of-champions.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385334204-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780385334204'
   pages: 303
   publication_year: '1973'
-  slug: breakfast-of-champions
   spine_color: '#ee712c'
   tags:
   - fantasy

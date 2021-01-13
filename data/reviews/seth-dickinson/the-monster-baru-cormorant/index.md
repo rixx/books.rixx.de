@@ -1,7 +1,6 @@
 ---
 book:
   author: Seth Dickinson
-  cover_image: the-monster-baru-cormorant.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519063144l/38117105._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2018'
   series: The Masquerade
   series_position: '2'
-  slug: the-monster-baru-cormorant
   spine_color: '#e69733'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2019-05-08
-  did_not_finish: false
   rating: 4
 ---
 

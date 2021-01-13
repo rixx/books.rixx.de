@@ -1,7 +1,6 @@
 ---
 book:
   author: Frederik Pohl
-  cover_image: gateway.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345475831-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1977'
   series: Heechee Saga
   series_position: '1'
-  slug: gateway
   spine_color: '#d2dfb5'
   title: Gateway
 plan:

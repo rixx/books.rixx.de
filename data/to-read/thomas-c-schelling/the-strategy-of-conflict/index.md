@@ -1,7 +1,6 @@
 ---
 book:
   author: Thomas C. Schelling
-  cover_image: the-strategy-of-conflict.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780674840317-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780674840317'
   pages: 328
   publication_year: '1960'
-  slug: the-strategy-of-conflict
   spine_color: '#f4e927'
   title: The Strategy of Conflict
 plan:

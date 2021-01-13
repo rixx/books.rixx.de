@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: white-night.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451461407-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: The Dresden Files
   series_position: '9'
-  slug: white-night
   spine_color: '#96a0aa'
   tags:
   - urban-fantasy
@@ -31,7 +29,7 @@ related_books:
 review:
   date_read:
   - 2014-08-01
-  did_not_finish: false
   rating: 3
 ---
+
 Stakes rise. Supernatural battles continue. The snark feels tired.

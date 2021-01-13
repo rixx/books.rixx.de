@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: going-postal.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060502935-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Discworld
   series_position: '33'
-  slug: going-postal
   spine_color: '#ca4015'
   title: Going Postal
 plan:
@@ -29,9 +27,9 @@ related_books:
 review:
   date_read:
   - 2010-02-01
-  did_not_finish: false
   rating: 4
 ---
+
 The post office story about innovation and all sorts of things was a bit too on-the-nose allegorical for my tastes
 (though I liked Thud!, so I really shouldn't complain I suppose). As an ardent Miles Vorkosigan fan, I loved the
 momentum, but didn't get on with the protagonist. This might've been a three-star book, but was saved by Vetinari.

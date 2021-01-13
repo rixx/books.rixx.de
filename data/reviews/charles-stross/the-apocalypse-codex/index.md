@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-apocalypse-codex.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SX98_.jpg
   dimensions:
     height: 22.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Laundry Files
   series_position: '4'
-  slug: the-apocalypse-codex
   spine_color: '#333e56'
   tags:
   - urban-fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2015-08-04
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: shades-of-grey.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670019632-L.jpg
   goodreads: '2113260'
   isbn10: 0670019631
@@ -10,7 +9,6 @@ book:
   publication_year: '2009'
   series: Shades of Grey
   series_position: '1'
-  slug: shades-of-grey
   spine_color: '#123d25'
   tags:
   - fantasy
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2012-04-01
-  did_not_finish: false
   rating: 4
 ---

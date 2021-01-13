@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Suarez
-  cover_image: influx.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451469441-L.jpg
   dimensions:
     height: 19.1
@@ -12,7 +11,6 @@ book:
   isbn13: '9780451469441'
   pages: 528
   publication_year: '2014'
-  slug: influx
   spine_color: '#e1c277'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-07-11
-  did_not_finish: false
   rating: 1
 ---
 

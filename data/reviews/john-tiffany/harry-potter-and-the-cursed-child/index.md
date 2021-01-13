@@ -1,7 +1,6 @@
 ---
 book:
   author: John Tiffany
-  cover_image: harry-potter-and-the-cursed-child-parts-one-and-two.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780751565355-L.jpg
   dimensions:
     height: 24.0
@@ -14,11 +13,10 @@ book:
   publication_year: '2016'
   series: Harry Potter
   series_position: '8'
-  slug: harry-potter-and-the-cursed-child
   spine_color: '#d4a637'
   tags:
   - stage-play
-  title: 'Harry Potter and the Cursed Child'
+  title: Harry Potter and the Cursed Child
 plan:
   date_added: '2016-08-16'
 related_books:
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2016-08-08
-  did_not_finish: false
   rating: 2
 ---
 

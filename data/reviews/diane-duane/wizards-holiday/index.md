@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: wizards-holiday.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152052072-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Young Wizards
   series_position: '7'
-  slug: wizards-holiday
   spine_color: '#eab556'
   tags:
   - fantasy
@@ -33,7 +31,6 @@ related_books:
 review:
   date_read:
   - 2016-05-13
-  did_not_finish: false
   rating: 2
 ---
 

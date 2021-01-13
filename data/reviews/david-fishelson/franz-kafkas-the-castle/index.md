@@ -1,7 +1,6 @@
 ---
 book:
   author: David Fishelson
-  cover_image: franz-kafkas-the-castle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873352l/17689._SX98_.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780822219002'
   pages: 59
   publication_year: '2001'
-  slug: franz-kafkas-the-castle
   spine_color: '#bfeac6'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-09-01
-  did_not_finish: false
   rating: 3
 ---

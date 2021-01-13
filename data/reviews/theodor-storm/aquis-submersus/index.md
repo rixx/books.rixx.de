@@ -1,14 +1,12 @@
 ---
 book:
   author: Theodor Storm
-  cover_image: aquis-submersus.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188027767l/1771018._SY475_.jpg
   goodreads: '1771018'
   isbn10: '3150060141'
   isbn13: '9783150060148'
   pages: '86'
   publication_year: '1876'
-  slug: aquis-submersus
   spine_color: '#f2e118'
   tags:
   - german
@@ -18,6 +16,5 @@ plan:
 review:
   date_read:
   - 2006-09-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Eoin Colfer
-  cover_image: the-arctic-incident.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780786851478-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: Artemis Fowl
   series_position: '2'
-  slug: the-arctic-incident
   spine_color: '#9a9380'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2004-06-01
-  did_not_finish: false
   rating: 2
 ---

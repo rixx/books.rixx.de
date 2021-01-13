@@ -1,7 +1,6 @@
 ---
 book:
   author: Philip K. Dick
-  cover_image: do-androids-dream-of-electric-sheep.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345404473-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1968'
   series: Blade Runner
   series_position: '1'
-  slug: do-androids-dream-of-electric-sheep
   spine_color: '#a4b564'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2016-11-12
-  did_not_finish: false
   rating: 3
 ---
 

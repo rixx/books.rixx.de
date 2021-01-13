@@ -1,7 +1,6 @@
 ---
 book:
   author: Marc-Uwe Kling
-  cover_image: das-kanguru-manifest.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783548373836-L.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Die Känguru-Chroniken
   series_position: '2'
-  slug: das-kanguru-manifest
   spine_color: '#be361e'
   tags:
   - german
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2015-03-01
-  did_not_finish: false
   rating: 4
 ---

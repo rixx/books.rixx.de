@@ -1,7 +1,6 @@
 ---
 book:
   author: A.J. Hackwith
-  cover_image: the-library-of-the-unwritten.jpg
   cover_image_url: http://books.google.com/books/content?id=LHuDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
   goodreads: '41961994'
   isbn10: '1984806386'
@@ -10,7 +9,6 @@ book:
   publication_year: '2019'
   series: Hell's Library
   series_position: '1'
-  slug: the-library-of-the-unwritten
   spine_color: '#8c7f73'
   tags:
   - fantasy

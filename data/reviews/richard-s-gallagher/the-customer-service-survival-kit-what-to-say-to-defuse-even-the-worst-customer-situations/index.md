@@ -1,7 +1,6 @@
 ---
 book:
   author: Richard S. Gallagher
-  cover_image: the-customer-service-survival-kit-what-to-say-to-defuse-even-the-worst-customer-situations.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358751606l/16241833._SX98_.jpg
   dimensions:
     height: 22.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9780814431832'
   pages: 208
   publication_year: '2013'
-  slug: the-customer-service-survival-kit-what-to-say-to-defuse-even-the-worst-customer-situations
   spine_color: '#2db5e3'
   tags:
   - nonfiction
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-05-08
-  did_not_finish: false
   rating: 4
 ---
 

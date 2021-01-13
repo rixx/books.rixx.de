@@ -1,14 +1,12 @@
 ---
 book:
   author: Robert Jackson Bennett
-  cover_image: foundryside.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SX98_.jpg
   goodreads: '37173847'
   pages: '512'
   publication_year: '2018'
   series: The Founders Trilogy
   series_position: '1'
-  slug: foundryside
   spine_color: '#c87924'
   tags:
   - fantasy
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-05-31
-  did_not_finish: false
   rating: 3
 ---
 

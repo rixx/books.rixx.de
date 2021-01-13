@@ -1,14 +1,12 @@
 ---
 book:
   author: Janet Kagan
-  cover_image: hellspark.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327451362l/1056201.jpg
   goodreads: '1056201'
   isbn10: null
   isbn13: null
   pages: '311'
   publication_year: '1988'
-  slug: hellspark
   spine_color: '#86796c'
   tags:
   - mystery
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2020-10-07
-  did_not_finish: false
   rating: 5
 ---
 

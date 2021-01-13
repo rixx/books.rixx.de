@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: inversions.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780743411967-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Culture
   series_position: '6'
-  slug: inversions
   spine_color: '#ccb9a9'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-07-30
-  did_not_finish: false
   rating: 4
 ---
 

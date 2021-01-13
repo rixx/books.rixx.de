@@ -1,7 +1,6 @@
 ---
 book:
   author: Paolo Bacigalupi
-  cover_image: ship-breaker.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316056212-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Ship Breaker
   series_position: '1'
-  slug: ship-breaker
   spine_color: '#776860'
   title: Ship Breaker
 plan:

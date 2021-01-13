@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: harry-potter-and-the-prisoner-of-azkaban.jpg
   cover_image_url: https://img.webme.com/pic/p/potterspace/gh.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1999'
   series: Harry Potter
   series_position: '3'
-  slug: harry-potter-and-the-prisoner-of-azkaban
   spine_color: '#cbe1b0'
   tags:
   - fantasy
@@ -33,8 +31,6 @@ related_books:
 review:
   date_read:
   - 2001-09-01
-  did_not_finish: false
-  proofed: true
   rating: 4
 ---
 

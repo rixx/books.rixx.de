@@ -1,7 +1,6 @@
 ---
 book:
   author: Becky Chambers
-  cover_image: record-of-a-spaceborn-few.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516965190l/32802595._SX98_.jpg
   dimensions:
     height: 25
@@ -12,7 +11,6 @@ book:
   publication_year: '2018'
   series: Wayfarers
   series_position: '3'
-  slug: record-of-a-spaceborn-few
   spine_color: '#3b7697'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-12-04
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image: nova.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375706707-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780375706707'
   pages: 241
   publication_year: '1968'
-  slug: nova
   spine_color: '#946053'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-11-29
-  did_not_finish: false
   rating: 3
 ---
 

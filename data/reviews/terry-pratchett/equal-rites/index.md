@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: equal-rites.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552131056-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: Discworld
   series_position: '3'
-  slug: equal-rites
   spine_color: '#a7785e'
   title: Equal Rites
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2014-05-13
-  did_not_finish: false
   rating: 4
 ---

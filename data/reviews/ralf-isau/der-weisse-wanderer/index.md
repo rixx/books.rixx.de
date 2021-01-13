@@ -1,7 +1,6 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: der-weisse-wanderer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999457l/1692812.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Der Kreis der Dämmerung
   series_position: '3'
-  slug: der-weisse-wanderer
   spine_color: '#a5a64d'
   tags:
   - fantasy
@@ -32,6 +30,5 @@ related_books:
 review:
   date_read:
   - 2005-03-01
-  did_not_finish: false
   rating: 3
 ---

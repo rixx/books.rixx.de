@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: lord-peter-views-the-body.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531243413l/40776219._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1928'
   series: Lord Peter Wimsey
   series_position: '4'
-  slug: lord-peter-views-the-body
   spine_color: '#ebad4d'
   tags:
   - mystery
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2020-01-05
-  did_not_finish: false
   rating: 3
   tldr: Good collection of Lord Peter Wimsey short stories, including some very intense
     ones, and one that is hilariously playful.

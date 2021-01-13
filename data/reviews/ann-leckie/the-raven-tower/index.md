@@ -1,14 +1,12 @@
 ---
 book:
   author: Ann Leckie
-  cover_image: the-raven-tower.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316388696-L.jpg
   goodreads: '40537059'
   isbn10: 0316388696
   isbn13: '9780316388696'
   pages: '416'
   publication_year: '2019'
-  slug: the-raven-tower
   spine_color: '#695432'
   tags:
   - fantasy
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-03-22
-  did_not_finish: false
   rating: 3
 ---
 

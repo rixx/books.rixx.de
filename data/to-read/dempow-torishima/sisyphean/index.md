@@ -1,7 +1,6 @@
 ---
 book:
   author: Dempow Torishima
-  cover_image: sisyphean.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781421580821-L.jpg
   dimensions:
     height: 20.3
@@ -12,7 +11,6 @@ book:
   isbn13: '9781421580821'
   pages: 429
   publication_year: '2018'
-  slug: sisyphean
   spine_color: '#948678'
   title: Sisyphean
 plan:

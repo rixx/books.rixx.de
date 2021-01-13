@@ -1,7 +1,6 @@
 ---
 book:
   author: Zen Cho
-  cover_image: sorcerer-to-the-crown.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780425283370-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Sorcerer Royal
   series_position: '1'
-  slug: sorcerer-to-the-crown
   spine_color: '#8b211f'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-05-03
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,14 +1,12 @@
 ---
 book:
   author: John M. Ford
-  cover_image: the-dragon-waiting.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173289687l/268437._SY475_.jpg
   goodreads: '268437'
   isbn10: null
   isbn13: null
   pages: '368'
   publication_year: '1983'
-  slug: the-dragon-waiting
   spine_color: '#e1c585'
   tags:
   - fantasy

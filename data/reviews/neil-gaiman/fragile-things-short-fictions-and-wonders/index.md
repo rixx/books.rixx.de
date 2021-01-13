@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: fragile-things-short-fictions-and-wonders.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060515225-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060515225'
   pages: 400
   publication_year: '2006'
-  slug: fragile-things-short-fictions-and-wonders
   spine_color: '#46575f'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2016-05-22
-  did_not_finish: false
   rating: 3
 ---
 

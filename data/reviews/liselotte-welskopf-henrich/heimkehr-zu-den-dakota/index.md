@@ -1,7 +1,6 @@
 ---
 book:
   author: Liselotte Welskopf-Henrich
-  cover_image: heimkehr-zu-den-dakota.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406655758l/2453546.jpg
   dimensions:
     height: 25
@@ -11,7 +10,6 @@ book:
   publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '4'
-  slug: heimkehr-zu-den-dakota
   spine_color: '#79b520'
   tags:
   - german
@@ -29,8 +27,8 @@ related_books:
 review:
   date_read:
   - 2003-05-01
-  did_not_finish: false
   rating: 3
 ---
+
 Pain and emotional turmoil. Conflict and strife and a bit of family warmth – this book is high drama, and is both a bit
 of payoff for reading the first three books, and also sets up the second half of the series extremely well.

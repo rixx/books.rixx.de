@@ -1,14 +1,12 @@
 ---
 book:
   author: Katja Kettu
-  cover_image: wildauge.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783869710822-L.jpg
   goodreads: '23388376'
   isbn10: '3869710829'
   isbn13: '9783869710822'
   pages: '414'
   publication_year: '2011'
-  slug: wildauge
   spine_color: '#ec6b42'
   title: Wildauge
 plan:

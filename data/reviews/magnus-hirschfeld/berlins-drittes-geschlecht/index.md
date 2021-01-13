@@ -1,14 +1,12 @@
 ---
 book:
   author: Magnus Hirschfeld
-  cover_image: berlins-drittes-geschlecht.png
   cover_image_url: https://drop.rixx.de/QQsivE/
   goodreads: '25889872'
   isbn10: null
   isbn13: null
   pages: 200
   publication_year: '1904'
-  slug: berlins-drittes-geschlecht
   spine_color: '#9d8867'
   tags:
   - german
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2020-08-12
-  did_not_finish: false
   rating: 4
 ---
 

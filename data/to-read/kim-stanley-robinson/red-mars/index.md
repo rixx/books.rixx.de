@@ -1,7 +1,6 @@
 ---
 book:
   author: Kim Stanley Robinson
-  cover_image: red-mars.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553560732-L.jpg
   goodreads: '77507'
   isbn10: '0553560735'
@@ -10,7 +9,6 @@ book:
   publication_year: '1992'
   series: Mars Trilogy
   series_position: '1'
-  slug: red-mars
   spine_color: '#982f1b'
   title: Red Mars
 plan:

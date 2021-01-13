@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: a-hat-full-of-sky.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552552646-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2004'
   series: Discworld
   series_position: '32'
-  slug: a-hat-full-of-sky
   spine_color: '#baa261'
   tags:
   - five-stars
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2011-09-01
-  did_not_finish: false
   rating: 5
 ---

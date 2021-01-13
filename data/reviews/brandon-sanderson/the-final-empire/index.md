@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: the-final-empire.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765311788-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Mistborn
   series_position: '1'
-  slug: the-final-empire
   spine_color: '#4a365c'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-02-22
-  did_not_finish: false
   rating: 4
 ---
 

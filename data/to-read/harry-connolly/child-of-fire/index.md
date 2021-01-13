@@ -1,7 +1,6 @@
 ---
 book:
   author: Harry Connolly
-  cover_image: child-of-fire.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345508898-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: Twenty Palaces
   series_position: '1'
-  slug: child-of-fire
   spine_color: '#ad825e'
   tags:
   - fantasy

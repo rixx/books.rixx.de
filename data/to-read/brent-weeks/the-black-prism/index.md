@@ -1,7 +1,6 @@
 ---
 book:
   author: Brent Weeks
-  cover_image: the-black-prism.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316075558-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Lightbringer
   series_position: '1'
-  slug: the-black-prism
   spine_color: '#87a3c5'
   title: The Black Prism
 plan:

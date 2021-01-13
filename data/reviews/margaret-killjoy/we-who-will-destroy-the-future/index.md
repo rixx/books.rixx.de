@@ -1,12 +1,10 @@
 ---
 book:
   author: Margaret Killjoy
-  cover_image: we-who-will-destroy-the-future.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523933891l/39867494._SX98_.jpg
   goodreads: '39867494'
   pages: '15'
   publication_year: '2018'
-  slug: we-who-will-destroy-the-future
   spine_color: '#e0ba69'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-07-31
-  did_not_finish: false
   rating: 3
 ---
 

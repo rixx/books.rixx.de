@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: changes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027244l/6585201._SX98_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: The Dresden Files
   series_position: '12'
-  slug: changes
   spine_color: '#84623a'
   tags:
   - urban-fantasy
@@ -31,7 +29,7 @@ related_books:
 review:
   date_read:
   - 2014-04-01
-  did_not_finish: false
   rating: 3
 ---
+
 Nothing ever changes in Harry Dresden land. Power levels slowly escalate, everything else stays the same.

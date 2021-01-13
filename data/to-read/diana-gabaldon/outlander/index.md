@@ -1,7 +1,6 @@
 ---
 book:
   author: Diana Gabaldon
-  cover_image: outlander.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780440242949-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1991'
   series: Outlander
   series_position: '1'
-  slug: outlander
   spine_color: '#dc922a'
   title: Outlander
 plan:

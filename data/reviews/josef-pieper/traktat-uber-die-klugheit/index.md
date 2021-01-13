@@ -7,7 +7,6 @@ book:
   isbn13: ''
   pages: 90
   publication_year: '1960'
-  slug: traktat-uber-die-klugheit
   tags:
   - nonfiction
   - philosophy
@@ -17,7 +16,6 @@ plan:
 review:
   date_read:
   - 2020-11-23
-  did_not_finish: false
   rating: 3
 ---
 

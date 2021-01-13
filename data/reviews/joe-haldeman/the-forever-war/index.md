@@ -1,7 +1,6 @@
 ---
 book:
   author: Joe Haldeman
-  cover_image: the-forever-war.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060510862-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1974'
   series: The Forever War
   series_position: '1'
-  slug: the-forever-war
   spine_color: '#a9c8da'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2016-11-09
-  did_not_finish: false
   rating: 3
 ---
 

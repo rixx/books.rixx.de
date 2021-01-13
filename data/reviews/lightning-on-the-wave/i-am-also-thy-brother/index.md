@@ -1,7 +1,6 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image: i-am-also-thy-brother.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183914l/16005281._SX98_.jpg
   dimensions:
     height: 24
@@ -10,7 +9,6 @@ book:
   publication_year: '2007'
   series: Sacrifices Arc
   series_position: '7'
-  slug: i-am-also-thy-brother
   spine_color: '#312f4b'
   tags:
   - fanfic
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2018-02-10
-  did_not_finish: false
   rating: 4
 ---
 

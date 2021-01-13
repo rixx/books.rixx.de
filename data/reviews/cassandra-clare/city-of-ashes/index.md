@@ -1,7 +1,6 @@
 ---
 book:
   author: Cassandra Clare
-  cover_image: city-of-ashes.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416914297-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: The Mortal Instruments
   series_position: '2'
-  slug: city-of-ashes
   spine_color: '#bccccd'
   tags:
   - fantasy
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2016-11-20
-  did_not_finish: false
   rating: 2
 ---
 

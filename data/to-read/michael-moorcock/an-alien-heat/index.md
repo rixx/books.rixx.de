@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael Moorcock
-  cover_image: an-alien-heat.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780380017492-L.jpg
   goodreads: '1234727'
   isbn10: 0380017490
@@ -10,7 +9,6 @@ book:
   publication_year: '1972'
   series: Dancers at the End of Time
   series_position: '1'
-  slug: an-alien-heat
   spine_color: '#a72e2d'
   tags: []
   title: An Alien Heat

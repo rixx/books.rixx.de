@@ -1,7 +1,6 @@
 ---
 book:
   author: Greg Egan
-  cover_image: axiomatic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061052651-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780061052651'
   pages: 293
   publication_year: '1990'
-  slug: axiomatic
   spine_color: '#602e2c'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-03-10
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Randall Garrett, Robert Adragna
-  cover_image: murder-and-magic.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287358063l/638763.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1973'
   series: Lord Darcy
   series_position: '1'
-  slug: murder-and-magic
   spine_color: '#996459'
   tags:
   - fantasy

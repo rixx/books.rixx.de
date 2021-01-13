@@ -1,7 +1,6 @@
 ---
 book:
   author: Sarah Caudwell
-  cover_image: thus-was-adonis-murdered.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780440212317-L.jpg
   goodreads: '234327'
   isbn10: '0440212316'
@@ -10,7 +9,6 @@ book:
   publication_year: '1981'
   series: Hilary Tamar
   series_position: '1'
-  slug: thus-was-adonis-murdered
   spine_color: '#894252'
   title: Thus Was Adonis Murdered
 plan:
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-12-19
-  did_not_finish: false
   rating: 4
 ---
 

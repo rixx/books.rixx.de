@@ -1,7 +1,6 @@
 ---
 book:
   author: Suzanne Collins
-  cover_image: the-hunger-games.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439023481-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: The Hunger Games
   series_position: '1'
-  slug: the-hunger-games
   spine_color: '#736f42'
   tags:
   - ya
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2012-09-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,14 +1,12 @@
 ---
 book:
   author: Jon Ronson
-  cover_image: so-youve-been-publicly-shamed.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781594487132-L.jpg
   goodreads: '22571552'
   isbn10: '1594487138'
   isbn13: '9781594487132'
   pages: '290'
   publication_year: '2015'
-  slug: so-youve-been-publicly-shamed
   spine_color: '#d82f57'
   title: So You've Been Publicly Shamed
 plan:
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-06-06
-  did_not_finish: false
   rating: 4
 ---
 

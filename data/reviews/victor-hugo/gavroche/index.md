@@ -1,12 +1,10 @@
 ---
 book:
   author: Victor Hugo
-  cover_image: gavroche.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586713938l/53145311._SX98_.jpg
   goodreads: '53145311'
   pages: '142'
   publication_year: '1957'
-  slug: gavroche
   spine_color: '#928271'
   tags:
   - german
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-04-12
-  did_not_finish: false
   rating: 3
   tldr: The Gavroche story extracted from Les Misérables. Nice read, as much as Hugo
     can ever be nice.

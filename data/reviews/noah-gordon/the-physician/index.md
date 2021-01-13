@@ -1,7 +1,6 @@
 ---
 book:
   author: Noah Gordon
-  cover_image: the-physician.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780751503890-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1986'
   series: Cole Family Trilogy
   series_position: '1'
-  slug: the-physician
   spine_color: '#381c17'
   tags:
   - historical-fiction
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2006-07-01
-  did_not_finish: false
   rating: 4
 ---

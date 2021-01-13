@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: 11-22-63.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781451627282-L.jpg
   dimensions:
     height: 23.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9781451627282'
   pages: 864
   publication_year: '2011'
-  slug: 11-22-63
   spine_color: '#b10506'
   tags:
   - historical-fiction
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2018-10-09
-  did_not_finish: false
   rating: 3
 ---
 

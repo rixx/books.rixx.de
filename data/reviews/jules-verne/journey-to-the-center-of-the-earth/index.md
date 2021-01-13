@@ -1,7 +1,6 @@
 ---
 book:
   author: Jules Verne
-  cover_image: journey-to-the-center-of-the-earth.jpg
   cover_image_url: https://drop.rixx.de/IMIW/
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1864'
   series: Extraordinary Voyages
   series_position: '3'
-  slug: journey-to-the-center-of-the-earth
   spine_color: '#596273'
   tags:
   - german
@@ -29,8 +27,6 @@ review:
   date_read:
   - 2001-10-01
   - 2020-08-10
-  did_not_finish: false
-  proofed: true
   rating: 3
 ---
 

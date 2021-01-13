@@ -1,7 +1,6 @@
 ---
 book:
   author: Arkady Martine
-  cover_image: a-memory-called-empire.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250186430-L.jpg
   goodreads: '39863238'
   isbn10: '1250186439'
@@ -10,7 +9,6 @@ book:
   publication_year: '2019'
   series: Teixcalaan
   series_position: '1'
-  slug: a-memory-called-empire
   spine_color: '#c4bba2'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2019-07-07
-  did_not_finish: false
   rating: 4
 ---
 

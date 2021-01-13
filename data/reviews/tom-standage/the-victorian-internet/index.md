@@ -1,7 +1,6 @@
 ---
 book:
   author: Tom Standage
-  cover_image: the-victorian-internet.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780425171691-L.jpg
   dimensions:
     height: 19.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780425171691'
   pages: 240
   publication_year: '1998'
-  slug: the-victorian-internet
   spine_color: '#6d6766'
   tags:
   - history
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2019-05-24
-  did_not_finish: false
   rating: 4
 ---
 

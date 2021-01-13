@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: consider-phlebas.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781857231380-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1987'
   series: Culture
   series_position: '1'
-  slug: consider-phlebas
   spine_color: '#459cc8'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2017-05-29
-  did_not_finish: false
   rating: 3
 ---
 

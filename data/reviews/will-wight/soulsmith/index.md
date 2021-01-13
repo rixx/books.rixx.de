@@ -1,7 +1,6 @@
 ---
 book:
   author: Will Wight
-  cover_image: soulsmith.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474963120l/32283608._SY475_.jpg
   dimensions:
     height: 19
@@ -10,7 +9,6 @@ book:
   publication_year: '2016'
   series: Cradle
   series_position: '2'
-  slug: soulsmith
   spine_color: '#3e5a82'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2020-08-08
-  did_not_finish: false
   rating: 3
 ---
 

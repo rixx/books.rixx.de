@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: captain-vorpatrils-alliance.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333475380l/12998057.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Vorkosigan Saga
   series_position: '15'
-  slug: captain-vorpatrils-alliance
   spine_color: '#7a7e91'
   tags:
   - romance
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2020-08-16
-  did_not_finish: false
   rating: 4
 ---
 

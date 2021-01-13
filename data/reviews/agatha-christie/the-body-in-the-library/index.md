@@ -1,7 +1,6 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-body-in-the-library.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126261-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1942'
   series: Miss Marple
   series_position: '2'
-  slug: the-body-in-the-library
   spine_color: '#e5e0c1'
   tags:
   - mystery
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2005-07-01
-  did_not_finish: false
   rating: 2
 ---

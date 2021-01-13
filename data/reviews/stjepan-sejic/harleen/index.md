@@ -1,7 +1,6 @@
 ---
 book:
   author: Stjepan Šejić
-  cover_image: harleen.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575333390l/52713814._SX318_SY475_.jpg
   dimensions:
     height: 28.3
@@ -12,7 +11,6 @@ book:
   isbn13: '9781779501110'
   pages: 208
   publication_year: '2020'
-  slug: harleen
   spine_color: '#816f61'
   tags:
   - fantasy
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-02-29
-  did_not_finish: false
   rating: 4
   tldr: I don't tend to read graphical novels, but Stjepan Šejić is brilliant and
     this story of Harley Quinn is extremely well done – both the artwork and the story

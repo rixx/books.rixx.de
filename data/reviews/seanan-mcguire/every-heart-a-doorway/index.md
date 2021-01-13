@@ -1,7 +1,6 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image: every-heart-a-doorway.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765385505-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: Wayward Children
   series_position: '1'
-  slug: every-heart-a-doorway
   spine_color: '#c0a78f'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-10-06
-  did_not_finish: false
   rating: 4
 ---
 

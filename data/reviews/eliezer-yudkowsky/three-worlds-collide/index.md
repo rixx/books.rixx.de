@@ -1,11 +1,9 @@
 ---
 book:
   author: Eliezer Yudkowsky
-  cover_image: three-worlds-collide.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483042335l/15744759._SX98_.jpg
   goodreads: '15744759'
   publication_year: '2009'
-  slug: three-worlds-collide
   spine_color: '#d99c68'
   tags:
   - scifi
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-07-05
-  did_not_finish: false
   rating: 4
 ---
 

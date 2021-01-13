@@ -1,7 +1,6 @@
 ---
 book:
   author: C.M. Spivey
-  cover_image: from-under-the-mountain.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781942111399-L.jpg
   dimensions:
     height: 20.3
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: Trident Chronicles
   series_position: '1'
-  slug: from-under-the-mountain
   spine_color: '#612f33'
   title: From Under the Mountain
 plan:

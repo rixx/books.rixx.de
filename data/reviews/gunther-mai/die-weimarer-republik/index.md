@@ -1,11 +1,9 @@
 ---
 book:
   author: Gunther Mai
-  cover_image: die-weimarer-republik.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515502827l/11397051._SX98_.jpg
   goodreads: '11397051'
   publication_year: '2009'
-  slug: die-weimarer-republik
   spine_color: '#921417'
   tags:
   - german
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2018-02-10
-  did_not_finish: false
   rating: 3
 ---
 

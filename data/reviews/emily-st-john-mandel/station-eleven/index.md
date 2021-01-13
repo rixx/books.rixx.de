@@ -1,7 +1,6 @@
 ---
 book:
   author: Emily St. John Mandel
-  cover_image: station-eleven.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385353304-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780385353304'
   pages: 336
   publication_year: '2014'
-  slug: station-eleven
   spine_color: '#ccbda0'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2019-05-08
-  did_not_finish: false
   rating: 3
 ---
 

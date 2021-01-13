@@ -1,7 +1,6 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: der-wahrheitsfinder.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522173353-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2000'
   series: Der Kreis der Dämmerung
   series_position: '2'
-  slug: der-wahrheitsfinder
   spine_color: '#b76544'
   tags:
   - fantasy
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2005-04-01
-  did_not_finish: false
   rating: 3
 ---

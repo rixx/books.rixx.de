@@ -1,11 +1,9 @@
 ---
 book:
   author: Isabel Fall
-  cover_image: clarkesworld-magazine-issue-160.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578111751l/50267857._SX98_.jpg
   goodreads: '50267857'
   publication_year: '2020'
-  slug: i-sexually-identify-as-an-attack-helicopter
   source: https://web.archive.org/web/20200101232918/http://clarkesworldmagazine.com/fall_01_20/
   spine_color: '#d0c47f'
   tags:
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-01-12
-  did_not_finish: false
   rating: 4
   tldr: Brutal-yet-touching scifi take on gender. Loved the story, hated the aftermath
     – it got taken down, and is only available via some archives now.

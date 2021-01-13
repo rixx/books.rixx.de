@@ -1,7 +1,6 @@
 ---
 book:
   author: George Pólya
-  cover_image: how-to-solve-it-a-new-aspect-of-mathematical-method.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780691119663-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780691119663'
   pages: 288
   publication_year: '1944'
-  slug: how-to-solve-it-a-new-aspect-of-mathematical-method
   spine_color: '#704bd5'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-03-31
-  did_not_finish: false
   rating: 3
   tldr: Good first 10%, and then more good advice hidden among neverending examples.
 social:

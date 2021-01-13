@@ -1,7 +1,6 @@
 ---
 book:
   author: Russell Hoban
-  cover_image: riddley-walker.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780253212344-L.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780253212344'
   pages: 256
   publication_year: '1980'
-  slug: riddley-walker
   spine_color: '#48536d'
   title: Riddley Walker
 plan:

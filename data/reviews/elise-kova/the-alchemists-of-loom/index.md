@@ -1,7 +1,6 @@
 ---
 book:
   author: Elise Kova
-  cover_image: the-alchemists-of-loom.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781619844414-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Loom Saga
   series_position: '1'
-  slug: the-alchemists-of-loom
   spine_color: '#735c47'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-05-06
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael Crichton
-  cover_image: jurassic-park.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345370778-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Jurassic Park
   series_position: '1'
-  slug: jurassic-park
   spine_color: '#907d6d'
   title: Jurassic Park
 plan:

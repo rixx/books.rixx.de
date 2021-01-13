@@ -1,7 +1,6 @@
 ---
 book:
   author: Noah Gordon
-  cover_image: matters-of-choice.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451187260-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1995'
   series: Cole Family Trilogy
   series_position: '3'
-  slug: matters-of-choice
   spine_color: '#7d7552'
   tags:
   - historical-fiction
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2009-08-01
-  did_not_finish: false
   rating: 3
 ---

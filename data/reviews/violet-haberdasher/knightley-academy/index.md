@@ -1,7 +1,6 @@
 ---
 book:
   author: Violet Haberdasher
-  cover_image: knightley-academy.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347555678l/6609704.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Knightley Academy
   series_position: '1'
-  slug: knightley-academy
   spine_color: '#6e652f'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2020-06-04
-  did_not_finish: false
   rating: 3
 ---
 

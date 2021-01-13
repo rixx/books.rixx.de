@@ -1,7 +1,6 @@
 ---
 book:
   author: Mur Lafferty
-  cover_image: six-wakes.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483175828l/28962996._SX98_.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780316389686'
   pages: 400
   publication_year: '2017'
-  slug: six-wakes
   spine_color: '#4f546a'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-09-20
-  did_not_finish: false
   rating: 3
 ---
 

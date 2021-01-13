@@ -1,7 +1,6 @@
 ---
 book:
   author: Scott  Hawkins
-  cover_image: the-library-at-mount-char.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SX98_.jpg
   dimensions:
     height: 20.4
@@ -12,7 +11,6 @@ book:
   isbn13: '9780553418620'
   pages: 400
   publication_year: '2015'
-  slug: the-library-at-mount-char
   spine_color: '#cfb694'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2019-04-09
-  did_not_finish: false
   rating: 4
 ---
 

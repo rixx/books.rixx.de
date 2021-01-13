@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: the-books-of-magic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781563890826-L.jpg
   dimensions:
     height: 26.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781563890826'
   pages: 200
   publication_year: '1993'
-  slug: the-books-of-magic
   spine_color: '#68374c'
   title: The Books of Magic
 plan:

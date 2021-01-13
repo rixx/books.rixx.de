@@ -1,13 +1,11 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: the-mountains-of-mourning.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328024482l/2684541.jpg
   goodreads: '2684541'
   isbn10: '1590623819'
   isbn13: '9781590623817'
   publication_year: '1989'
-  slug: the-mountains-of-mourning
   spine_color: '#6d0406'
   tags:
   - five-stars
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2018-11-23
-  did_not_finish: false
   rating: 5
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: R.J.  Barker
-  cover_image: the-bone-ships.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316487962-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2019'
   series: The Tide Child
   series_position: '1'
-  slug: the-bone-ships
   spine_color: '#f3efdf'
   title: The Bone Ships
 plan:

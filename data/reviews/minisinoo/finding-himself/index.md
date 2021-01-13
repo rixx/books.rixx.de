@@ -1,14 +1,12 @@
 ---
 book:
   author: Minisinoo
-  cover_image: finding-himself.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398146854l/17673106._SX98_.jpg
   goodreads: '17673106'
   pages: '1841'
   publication_year: '2008'
   series: Finding Himself
   series_position: '1'
-  slug: finding-himself
   spine_color: '#ae7335'
   title: FINDING HIMSELF
 plan:
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2020-02-25
-  did_not_finish: false
   rating: 2
   tldr: Still on a fanfic binge. Decent Harry Potter fanfic where Harry is not an
     idiot all the time. Might've been good if it hadn't clung to the romance arc.

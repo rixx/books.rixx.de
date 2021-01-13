@@ -1,13 +1,11 @@
 ---
 book:
   author: Epictetus
-  cover_image: the-manual-a-philosophers-guide-to-life.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525038557l/34946912._SX98_.jpg
   goodreads: '34946912'
   publication_year: '2017'
   series: Stoic Philosophy
   series_position: '1'
-  slug: the-manual-a-philosophers-guide-to-life
   spine_color: '#3f796e'
   tags:
   - nonfiction
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-09-24
-  did_not_finish: false
   rating: 4
 ---
 

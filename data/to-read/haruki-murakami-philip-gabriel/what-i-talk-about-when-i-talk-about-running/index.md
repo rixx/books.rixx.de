@@ -1,14 +1,12 @@
 ---
 book:
   author: Haruki Murakami, Philip Gabriel
-  cover_image: what-i-talk-about-when-i-talk-about-running.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780307269195-L.jpg
   goodreads: '2195464'
   isbn10: 0307269191
   isbn13: '9780307269195'
   pages: '188'
   publication_year: '2008'
-  slug: what-i-talk-about-when-i-talk-about-running
   spine_color: '#b30c08'
   title: What I Talk About When I Talk About Running
 plan:

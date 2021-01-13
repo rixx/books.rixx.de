@@ -1,7 +1,6 @@
 ---
 book:
   author: James Tiptree Jr.
-  cover_image: houston-houston-do-you-read.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781568652511-L.jpg
   dimensions:
     height: 19.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9781568652511'
   pages: 150
   publication_year: '1976'
-  slug: houston-houston-do-you-read
   spine_color: '#fcfbf7'
   title: Houston, Houston, Do You Read?
 plan:

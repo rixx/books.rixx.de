@@ -1,7 +1,6 @@
 ---
 book:
   author: Frank Herbert
-  cover_image: dune.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780340839935-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1965'
   series: Dune Chronicles
   series_position: '1'
-  slug: dune
   spine_color: '#554c23'
   tags:
   - scifi
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-07-09
-  did_not_finish: false
   rating: 3
 ---
 

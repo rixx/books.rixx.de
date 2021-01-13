@@ -1,7 +1,6 @@
 ---
 book:
   author: Barbara Hambly
-  cover_image: dragonsbane.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345349392-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1985'
   series: Winterlands
   series_position: '1'
-  slug: dragonsbane
   spine_color: '#ad2f16'
   title: Dragonsbane
 plan:

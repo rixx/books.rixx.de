@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Louis Stevenson
-  cover_image: treasure-island.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780753453803-L.jpg
   dimensions:
     height: 21.3
@@ -12,19 +11,17 @@ book:
   isbn13: '9780753453803'
   pages: 352
   publication_year: '1879'
-  slug: treasure-island
   spine_color: '#a2472e'
   tags:
   - german
   title: Treasure Island
 plan:
   date_added: '2015-04-08'
-review:
-  date_read:
-  - 2004-07-01
-  did_not_finish: false
-  rating: 4
 related_books:
 - book: jules-verne/dick-sands-the-boy-captain
   text: Similar spirit of adventure, very different execution
+review:
+  date_read:
+  - 2004-07-01
+  rating: 4
 ---

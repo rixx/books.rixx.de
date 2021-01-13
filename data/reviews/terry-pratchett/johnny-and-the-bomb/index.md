@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: johnny-and-the-bomb.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060541910-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: Johnny Maxwell
   series_position: '3'
-  slug: johnny-and-the-bomb
   spine_color: '#c9b156'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2010-08-01
-  did_not_finish: false
   rating: 4
 ---

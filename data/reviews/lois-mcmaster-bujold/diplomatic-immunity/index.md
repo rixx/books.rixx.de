@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: diplomatic-immunity.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780743468022-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: Vorkosigan Saga
   series_position: '13'
-  slug: diplomatic-immunity
   spine_color: '#4f557e'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-08-15
-  did_not_finish: false
   rating: 3
 ---
 

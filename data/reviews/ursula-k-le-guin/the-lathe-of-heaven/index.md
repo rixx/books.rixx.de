@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-lathe-of-heaven.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060512743-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060512743'
   pages: 176
   publication_year: '1971'
-  slug: the-lathe-of-heaven
   spine_color: '#d9ae7f'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-02-27
-  did_not_finish: false
   rating: 3
 ---
 

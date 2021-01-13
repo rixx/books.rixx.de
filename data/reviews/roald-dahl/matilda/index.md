@@ -1,7 +1,6 @@
 ---
 book:
   author: Roald Dahl
-  cover_image: matilda.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780141301068-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780141301068'
   pages: 240
   publication_year: '1988'
-  slug: matilda
   spine_color: '#767558'
   tags:
   - german
@@ -24,6 +22,5 @@ plan:
 review:
   date_read:
   - 2004-10-01
-  did_not_finish: false
   rating: 4
 ---

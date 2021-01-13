@@ -1,7 +1,6 @@
 ---
 book:
   author: John Brunner
-  cover_image: stand-on-zanzibar.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781857988369-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781857988369'
   pages: 672
   publication_year: '1968'
-  slug: stand-on-zanzibar
   spine_color: '#d7d871'
   title: Stand on Zanzibar
 plan:

@@ -1,7 +1,6 @@
 ---
 book:
   author: Alessandro Baricco, Guido Waldman
-  cover_image: seta.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375703829-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: Silk
   series_position: ''
-  slug: silk
   spine_color: '#a3946f'
   tags: []
   title: Silk

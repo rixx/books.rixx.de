@@ -1,7 +1,6 @@
 ---
 book:
   author: Lev Grossman
-  cover_image: the-magicians.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780670020553-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: The Magicians
   series_position: '1'
-  slug: the-magicians
   spine_color: '#a1997e'
   tags:
   - fantasy
@@ -24,13 +22,13 @@ plan:
   date_added: '2018-03-19'
 related_books:
 - book: max-barry/lexicon
-  text: Also a current-time grey morality magic school in a depressing and grim world, NLP edition.
+  text: Also a current-time grey morality magic school in a depressing and grim world,
+    NLP edition.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: The original Fillory.
 review:
   date_read:
   - 2020-05-05
-  did_not_finish: false
   rating: 3
 ---
 

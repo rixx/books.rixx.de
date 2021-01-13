@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: ensel-und-krete-ein-marchen-aus-zamonien.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170598805l/62035.jpg
   dimensions:
     height: 25.0
@@ -11,7 +10,6 @@ book:
   publication_year: '2000'
   series: Zamonien
   series_position: '2'
-  slug: ensel-und-krete-ein-marchen-aus-zamonien
   spine_color: '#711c17'
   tags:
   - fantasy
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2003-02-01
-  did_not_finish: false
   rating: 3
 ---

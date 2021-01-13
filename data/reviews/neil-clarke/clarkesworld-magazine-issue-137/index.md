@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Clarke
-  cover_image: clarkesworld-magazine-issue-137.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517727674l/38343667._SX98_.jpg
   dimensions:
     height: 17
@@ -10,7 +9,6 @@ book:
   publication_year: '2010'
   series: Clarkesworld Magazine
   series_position: '137'
-  slug: clarkesworld-magazine-issue-137
   spine_color: '#896844'
   tags:
   - scifi
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2019-01-15
-  did_not_finish: false
   rating: 3
 ---
 

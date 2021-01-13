@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: skin-deep.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404932663l/20886354._SX98_.jpg
   dimensions:
     height: 22
@@ -10,7 +9,6 @@ book:
   publication_year: '2014'
   series: Legion
   series_position: '2'
-  slug: skin-deep
   spine_color: '#52392e'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2018-01-29
-  did_not_finish: false
   rating: 4
 ---
 

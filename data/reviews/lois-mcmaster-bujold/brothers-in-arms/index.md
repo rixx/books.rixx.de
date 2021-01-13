@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: brothers-in-arms.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671697990-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1989'
   series: Vorkosigan Saga
   series_position: '5'
-  slug: brothers-in-arms
   spine_color: '#b79b74'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-07-11
-  did_not_finish: false
   rating: 4
 ---
 

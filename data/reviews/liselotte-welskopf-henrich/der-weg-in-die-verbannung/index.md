@@ -1,7 +1,6 @@
 ---
 book:
   author: Liselotte Welskopf-Henrich
-  cover_image: der-weg-in-die-verbannung.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368886l/6083610._SX98_.jpg
   dimensions:
     height: 25
@@ -11,7 +10,6 @@ book:
   publication_year: '1962'
   series: Die Söhne der Großen Bärin
   series_position: '2'
-  slug: der-weg-in-die-verbannung
   spine_color: '#969c44'
   tags:
   - german
@@ -27,8 +25,8 @@ related_books:
 review:
   date_read:
   - 2002-05-01
-  did_not_finish: false
   rating: 3
 ---
+
 Our beloved hero is banished (well, his father is and he follows). The mood is predictably bad, but seeing Harka stand
 on his own and living through all the shit life throws at him was pretty inspiring.

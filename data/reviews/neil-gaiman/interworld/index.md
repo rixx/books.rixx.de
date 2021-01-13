@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: interworld.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061238963-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: InterWorld
   series_position: '1'
-  slug: interworld
   spine_color: '#a27b64'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2017-07-03
-  did_not_finish: false
   rating: 3
 ---
 

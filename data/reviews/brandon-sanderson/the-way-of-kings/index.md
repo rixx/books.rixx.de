@@ -1,7 +1,6 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image: the-way-of-kings.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765326355-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: The Stormlight Archive
   series_position: '1'
-  slug: the-way-of-kings
   spine_color: '#c57048'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-08-05
-  did_not_finish: false
   rating: 4
 ---
 

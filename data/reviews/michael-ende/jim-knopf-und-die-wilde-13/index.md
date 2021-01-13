@@ -1,7 +1,6 @@
 ---
 book:
   author: Michael Ende
-  cover_image: jim-knopf-und-die-wilde-13.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783522149907-L.jpg
   dimensions:
     height: 21.0
@@ -11,7 +10,6 @@ book:
   publication_year: '1962'
   series: Jim Knopf
   series_position: '2'
-  slug: jim-knopf-und-die-wilde-13
   spine_color: '#815747'
   tags:
   - german
@@ -23,11 +21,11 @@ related_books:
 - book: michael-ende/jim-knopf-und-lukas-der-lokomotivfuhrer
   text: The previous book in the series.
 - book: michael-ende/the-night-of-wishes
-  text: For more light-hearted but inconsequential childhood fun like this, The Night of Wishes should be a good fit.
+  text: For more light-hearted but inconsequential childhood fun like this, The Night
+    of Wishes should be a good fit.
 review:
   date_read:
   - 1999-11-01
-  did_not_finish: false
   rating: 3
 ---
 

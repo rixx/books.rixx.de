@@ -1,7 +1,6 @@
 ---
 book:
   author: Edward Snowden
-  cover_image: permanent-record.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250237231-L.jpg
   dimensions:
     height: 24.4
@@ -12,7 +11,6 @@ book:
   isbn13: '9781250237231'
   pages: 352
   publication_year: '2019'
-  slug: permanent-record
   spine_color: '#82827e'
   title: Permanent Record
 plan:

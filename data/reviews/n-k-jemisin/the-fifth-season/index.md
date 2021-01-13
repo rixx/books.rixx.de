@@ -1,7 +1,6 @@
 ---
 book:
   author: N.K. Jemisin
-  cover_image: the-fifth-season.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386803701l/19161852._SX98_.jpg
   dimensions:
     height: 19
@@ -10,7 +9,6 @@ book:
   publication_year: '2015'
   series: The Broken Earth
   series_position: '1'
-  slug: the-fifth-season
   spine_color: '#445754'
   tags:
   - fantasy
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2018-09-10
-  did_not_finish: false
   rating: 5
 ---
 

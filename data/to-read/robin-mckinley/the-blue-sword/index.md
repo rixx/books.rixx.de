@@ -1,7 +1,6 @@
 ---
 book:
   author: Robin McKinley
-  cover_image: the-blue-sword.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441068807-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1982'
   series: Damar
   series_position: '1'
-  slug: the-blue-sword
   spine_color: '#a44a1c'
   title: The Blue Sword
 plan:

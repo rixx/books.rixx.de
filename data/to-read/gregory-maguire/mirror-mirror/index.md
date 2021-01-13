@@ -1,7 +1,6 @@
 ---
 book:
   author: Gregory Maguire
-  cover_image: mirror-mirror.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060988654-L.jpg
   dimensions:
     height: 23.5
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060988654'
   pages: 320
   publication_year: '2003'
-  slug: mirror-mirror
   spine_color: '#7b7d65'
   tags:
   - fantasy

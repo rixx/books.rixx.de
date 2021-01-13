@@ -1,7 +1,6 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: the-stone-light.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780689877896-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: Dark Reflections
   series_position: '2'
-  slug: the-stone-light
   spine_color: '#9b9ea9'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2008-08-01
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: anansi-boys.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060515195-L.jpg
   dimensions:
     height: 17.1
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: American Gods
   series_position: '2'
-  slug: anansi-boys
   spine_color: '#e9c78c'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2016-11-28
-  did_not_finish: false
   rating: 4
 ---
 

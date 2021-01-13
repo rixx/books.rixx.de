@@ -1,7 +1,6 @@
 ---
 book:
   author: Melissa Scott, Amy Griswold
-  cover_image: death-by-silver.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781590210550-L.jpg
   goodreads: '17453991'
   isbn10: '1590210557'
@@ -10,7 +9,6 @@ book:
   publication_year: '2013'
   series: Julian Lynes and Ned Mathey
   series_position: '1'
-  slug: death-by-silver
   spine_color: '#334244'
   tags:
   - fantasy

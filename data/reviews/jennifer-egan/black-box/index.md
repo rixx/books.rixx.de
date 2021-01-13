@@ -1,12 +1,10 @@
 ---
 book:
   author: Jennifer Egan
-  cover_image: black-box.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338999208l/14435241._SX98_.jpg
   goodreads: '14435241'
   pages: '50'
   publication_year: '2012'
-  slug: black-box
   spine_color: '#eab885'
   title: Black Box
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2019-09-20
-  did_not_finish: false
   rating: 3
 ---
 

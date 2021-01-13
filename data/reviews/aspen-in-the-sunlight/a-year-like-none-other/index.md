@@ -1,7 +1,6 @@
 ---
 book:
   author: Aspen in the Sunlight
-  cover_image: a-year-like-none-other.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158195l/16171495._SX98_.jpg
   dimensions:
     height: 16
@@ -10,7 +9,6 @@ book:
   publication_year: '2006'
   series: Like None Other
   series_position: '1'
-  slug: a-year-like-none-other
   spine_color: '#18330d'
   tags:
   - fanfic
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2020-02-28
-  did_not_finish: false
   rating: 2
   tldr: Reading more recommended fan fiction. This one is interesting because of the
     absurd amount of words spent on processing emotions, as if balancing several lives

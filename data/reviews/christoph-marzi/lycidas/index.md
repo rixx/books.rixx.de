@@ -1,7 +1,6 @@
 ---
 book:
   author: Christoph Marzi
-  cover_image: lycidas.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362759342l/1303536._SX98_.jpg
   goodreads: '1303536'
   isbn10: '3453530063'
@@ -10,7 +9,6 @@ book:
   publication_year: '2004'
   series: Uralte Metropole
   series_position: '1'
-  slug: lycidas
   spine_color: '#18345e'
   tags:
   - fantasy
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2011-07-01
-  did_not_finish: false
   rating: 4
 ---

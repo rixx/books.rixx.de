@@ -1,7 +1,6 @@
 ---
 book:
   author: V.E. Schwab
-  cover_image: a-darker-shade-of-magic.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765376459-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Shades of Magic
   series_position: '1'
-  slug: a-darker-shade-of-magic
   spine_color: '#e45746'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2020-07-18
-  did_not_finish: false
   rating: 2
   tldr: Parallel-worlds fantasy that was technically good, but didn't grip me in any
     way.

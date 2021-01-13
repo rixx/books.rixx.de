@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: welcome-to-the-jungle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320418408l/2637138._SX98_.jpg
   dimensions:
     height: 27.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780345507464'
   pages: 168
   publication_year: '2008'
-  slug: welcome-to-the-jungle
   spine_color: '#7ca993'
   tags:
   - urban-fantasy
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2014-09-01
-  did_not_finish: false
   rating: 3
 ---

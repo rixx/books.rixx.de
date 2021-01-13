@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-fifth-elephant.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154222-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1999'
   series: Discworld
   series_position: '24'
-  slug: the-fifth-elephant
   spine_color: '#847262'
   title: The Fifth Elephant
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2009-06-01
-  did_not_finish: false
   rating: 4
 ---

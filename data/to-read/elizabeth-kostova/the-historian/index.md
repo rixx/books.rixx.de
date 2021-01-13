@@ -1,14 +1,12 @@
 ---
 book:
   author: Elizabeth Kostova
-  cover_image: the-historian.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592232171l/30236962._SY160_.jpg
   goodreads: '30236962'
   isbn10: null
   isbn13: null
   pages: '704'
   publication_year: '2005'
-  slug: the-historian
   spine_color: '#ab9157'
   tags: []
   title: The Historian

@@ -1,14 +1,12 @@
 ---
 book:
   author: Ken Follett
-  cover_image: paper-money.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309282162l/759586._SY160_.jpg
   goodreads: '759586'
   isbn10: 0451167309
   isbn13: '9780451167309'
   pages: '261'
   publication_year: '1977'
-  slug: paper-money
   spine_color: '#634b47'
   tags:
   - mystery
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2017-01-08
-  did_not_finish: false
   rating: 4
 ---
 

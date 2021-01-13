@@ -1,7 +1,6 @@
 ---
 book:
   author: Heinrich Hoffmann
-  cover_image: struwwelpeter-fearful-stories-and-vile-pictures-to-instruct-good-little-folks.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780922915521-L.jpg
   dimensions:
     height: 28.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780922915521'
   pages: 124
   publication_year: '1845'
-  slug: struwwelpeter
   spine_color: '#998f84'
   tags:
   - german
@@ -21,16 +19,21 @@ book:
     Folks'
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: klaus-kordon/die-roten-matrosen
+  text: This book offers us a view into the attitude towards children 150 years ago,
+    and shows that some patterns of behaviour, like attention deficit with and without
+    hyperactivity, were well-known in certain circles. I haven't read any more about
+    education in that time, but Die roten Matrosen features school and educational
+    attitudes in Germany between 1910 and 1920, which comes close and provides interesting
+    historical insights.
+- book: wilhelm-busch/max-und-moritz
+  text: Wilhelm Busch had a much better written (if still moralising) take on misbehaving
+    children.
 review:
   date_read:
   - 1998-02-01
-  did_not_finish: false
   rating: 3
-related_books:
-- book: klaus-kordon/die-roten-matrosen
-  text: This book offers us a view into the attitude towards children 150 years ago, and shows that some patterns of behaviour, like attention deficit with and without hyperactivity, were well-known in certain circles. I haven't read any more about education in that time, but Die roten Matrosen features school and educational attitudes in Germany between 1910 and 1920, which comes close and provides interesting historical insights.
-- book: wilhelm-busch/max-und-moritz
-  text: Wilhelm Busch had a much better written (if still moralising) take on misbehaving children.
 ---
 
 An old book of German horror stories to frighten, erm, educate! kids. The rhymed stories are terrifying and illustrated,

@@ -1,7 +1,6 @@
 ---
 book:
   author: Primo Levi
-  cover_image: the-reawakening.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388443532l/6175.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780684826356'
   pages: 231
   publication_year: '1963'
-  slug: the-reawakening
   spine_color: '#3f4046'
   tags:
   - history
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-04-22
-  did_not_finish: false
   rating: 4
   tldr: His way home after the end of WW2, from Auschwitz to Italy. So matter-of-fact
     it reads as deadpan in a Europe that consists only of leftovers and confusion.

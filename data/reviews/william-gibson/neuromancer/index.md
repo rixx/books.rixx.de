@@ -1,14 +1,12 @@
 ---
 book:
   author: William Gibson
-  cover_image: neuromancer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281419771l/888628._SY160_.jpg
   goodreads: '888628'
   pages: '320'
   publication_year: '1984'
   series: Sprawl
   series_position: '1'
-  slug: neuromancer
   spine_color: '#376797'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2017-03-10
-  did_not_finish: false
   rating: 3
 ---
 

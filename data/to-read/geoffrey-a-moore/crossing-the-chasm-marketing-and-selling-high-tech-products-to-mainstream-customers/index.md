@@ -1,7 +1,6 @@
 ---
 book:
   author: Geoffrey A. Moore
-  cover_image: crossing-the-chasm-marketing-and-selling-high-tech-products-to-mainstream-customers.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060517120-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060517120'
   pages: 256
   publication_year: '1991'
-  slug: crossing-the-chasm-marketing-and-selling-high-tech-products-to-mainstream-customers
   spine_color: '#abc642'
   title: 'Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream
     Customers'

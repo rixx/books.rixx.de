@@ -1,7 +1,6 @@
 ---
 book:
   author: Gene Kim
-  cover_image: the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186._SX98_.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780988262591'
   pages: 345
   publication_year: '2013'
-  slug: the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win
   spine_color: '#acaba2'
   tags:
   - nonfiction
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2013-09-01
-  did_not_finish: false
   rating: 3
 ---
 

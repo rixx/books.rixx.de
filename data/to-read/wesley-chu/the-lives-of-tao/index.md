@@ -1,7 +1,6 @@
 ---
 book:
   author: Wesley Chu
-  cover_image: the-lives-of-tao.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361886088l/15981711._SY160_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2013'
   series: Tao
   series_position: '1'
-  slug: the-lives-of-tao
   spine_color: '#f5cc11'
   title: The Lives of Tao
 plan:

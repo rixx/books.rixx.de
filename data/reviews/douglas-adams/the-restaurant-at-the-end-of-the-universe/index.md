@@ -1,7 +1,6 @@
 ---
 book:
   author: Douglas Adams
-  cover_image: the-restaurant-at-the-end-of-the-universe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SX98_.jpg
   dimensions:
     height: 21.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1980'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '2'
-  slug: the-restaurant-at-the-end-of-the-universe
   spine_color: '#a17342'
   tags:
   - german
@@ -26,8 +24,8 @@ related_books:
 review:
   date_read:
   - 2003-07-01
-  did_not_finish: false
   rating: 2
 ---
+
 Everything is a bit less new and a bit less shiny in this book compared to its predecessor, but it's by no means bad.
 Still lots of hilarious moment, and lots of absurdity.

@@ -1,7 +1,6 @@
 ---
 book:
   author: Joseph Roth
-  cover_image: the-radetzky-march.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781862076051-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781862076051'
   pages: 363
   publication_year: '1932'
-  slug: the-radetzky-march
   spine_color: '#aa4528'
   title: The Radetzky March
 plan:

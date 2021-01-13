@@ -1,7 +1,6 @@
 ---
 book:
   author: Daniel Abraham
-  cover_image: the-dragons-path.jpg
   cover_image_url: http://books.google.com/books/content?id=68c1QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   goodreads: '8752885'
   isbn10: '1841498874'
@@ -10,7 +9,6 @@ book:
   publication_year: '2011'
   series: The Dagger and the Coin
   series_position: '1'
-  slug: the-dragons-path
   spine_color: '#436d7d'
   tags: []
   title: The Dragon's Path

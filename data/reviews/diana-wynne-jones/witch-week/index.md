@@ -1,7 +1,6 @@
 ---
 book:
   author: Diana Wynne Jones
-  cover_image: witch-week.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060298791-L.jpg
   dimensions:
     height: 19.4
@@ -12,7 +11,6 @@ book:
   publication_year: '1982'
   series: Chrestomanci
   series_position: '3'
-  slug: witch-week
   spine_color: '#87604c'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2008-09-01
-  did_not_finish: false
   rating: 3
 ---

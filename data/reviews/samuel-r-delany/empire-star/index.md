@@ -1,14 +1,12 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image: empire-star.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213573357l/1150390.jpg
   goodreads: '1150390'
   isbn10: '0553234250'
   isbn13: '9780553234251'
   pages: '132'
   publication_year: '1966'
-  slug: empire-star
   spine_color: '#346483'
   tags:
   - five-stars
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2018-09-29
-  did_not_finish: false
   rating: 5
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Scott Lynch
-  cover_image: the-lies-of-locke-lamora.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553804676-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Gentleman Bastard
   series_position: '1'
-  slug: the-lies-of-locke-lamora
   spine_color: '#3f1e45'
   tags:
   - fantasy
@@ -24,13 +22,13 @@ plan:
   date_added: '2016-05-18'
 related_books:
 - book: hannu-rajaniemi/the-quantum-thief
-  text: Another fast-paced fun heist story with strong world-building, the same energy just in scifi.
+  text: Another fast-paced fun heist story with strong world-building, the same energy
+    just in scifi.
 - book: scott-lynch/red-seas-under-red-skies
   text: The next book in the series.
 review:
   date_read:
   - 2016-10-19
-  did_not_finish: false
   rating: 4
 ---
 

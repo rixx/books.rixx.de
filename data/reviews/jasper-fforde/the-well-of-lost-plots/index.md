@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: the-well-of-lost-plots.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780143034353-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: Thursday Next
   series_position: '3'
-  slug: the-well-of-lost-plots
   spine_color: '#92a8da'
   tags:
   - fantasy
@@ -32,6 +30,5 @@ related_books:
 review:
   date_read:
   - 2008-03-01
-  did_not_finish: false
   rating: 4
 ---

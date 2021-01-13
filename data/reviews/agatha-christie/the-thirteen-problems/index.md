@@ -1,7 +1,6 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-thirteen-problems.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780007120864-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1932'
   series: Miss Marple
   series_position: 2
-  slug: the-thirteen-problems
   spine_color: '#aa9081'
   tags:
   - mystery

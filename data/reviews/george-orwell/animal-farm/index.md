@@ -1,7 +1,6 @@
 ---
 book:
   author: George Orwell
-  cover_image: animal-farm.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780452284241-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780452284241'
   pages: 122
   publication_year: '1945'
-  slug: animal-farm
   spine_color: '#846c64'
   title: Animal Farm
 plan:
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2008-07-01
-  did_not_finish: false
   rating: 2
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: António R. Damásio
-  cover_image: descartes-error-emotion-reason-and-the-human-brain.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780143036227-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780143036227'
   pages: 336
   publication_year: '1994'
-  slug: descartes-error
   spine_color: '#d10606'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-04-18
-  did_not_finish: false
   rating: 4
   tldr: Not so groundbreaking now as it was 25 years ago when it was publised, but
     still a solid overview over the role of emotions in human thinking and reasoning.

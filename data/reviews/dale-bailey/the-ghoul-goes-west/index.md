@@ -1,12 +1,10 @@
 ---
 book:
   author: Dale Bailey
-  cover_image: the-ghoul-goes-west.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516209337l/38085498._SX98_.jpg
   goodreads: '38085498'
   pages: '46'
   publication_year: '2018'
-  slug: the-ghoul-goes-west
   spine_color: '#eeecf3'
   title: The Ghoul Goes West
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2019-02-05
-  did_not_finish: false
   rating: 1
 ---
 

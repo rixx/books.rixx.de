@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-concrete-jungle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575744653l/8488439._SX98_.jpg
   dimensions:
     height: 22.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2004'
   series: Laundry Files
   series_position: '1.5'
-  slug: the-concrete-jungle
   spine_color: '#858a49'
   tags:
   - urban-fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2015-07-03
-  did_not_finish: false
   rating: 4
 ---
 

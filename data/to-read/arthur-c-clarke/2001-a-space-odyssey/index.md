@@ -1,7 +1,6 @@
 ---
 book:
   author: Arthur C. Clarke
-  cover_image: 2001-a-space-odyssey.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432468943l/70535._SY475_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1968'
   series: Space Odyssey
   series_position: '1'
-  slug: 2001-a-space-odyssey
   spine_color: '#cac2a7'
   title: '2001: A Space Odyssey'
 plan:

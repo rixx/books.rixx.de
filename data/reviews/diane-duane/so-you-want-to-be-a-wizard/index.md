@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: so-you-want-to-be-a-wizard.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152047382-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1983'
   series: Young Wizards
   series_position: '1'
-  slug: so-you-want-to-be-a-wizard
   spine_color: '#c9b291'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2016-05-05
-  did_not_finish: false
   rating: 4
 ---
 

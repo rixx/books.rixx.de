@@ -1,7 +1,6 @@
 ---
 book:
   author: Robin Hobb
-  cover_image: royal-assassin.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780006480105-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: Farseer Trilogy
   series_position: '2'
-  slug: royal-assassin
   spine_color: '#ad9d6e'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2016-12-05
-  did_not_finish: false
   rating: 4
 ---
 

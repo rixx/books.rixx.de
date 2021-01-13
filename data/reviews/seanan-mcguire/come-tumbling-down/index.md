@@ -1,7 +1,6 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image: come-tumbling-down.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765399311-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2020'
   series: Wayward Children
   series_position: '5'
-  slug: come-tumbling-down
   spine_color: '#516691'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2020-01-26
-  did_not_finish: false
   rating: 3
   tldr: I want to like the Wayward Children series more than I actually like them.
     This one felt just a bit too formulaic, too quippy, too designed to be quotable.

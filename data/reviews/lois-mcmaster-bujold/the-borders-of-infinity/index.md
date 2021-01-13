@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: the-borders-of-infinity.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327917017l/5073782._SX98_.jpg
   dimensions:
     height: 18.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1987'
   series: Vorkosigan Saga
   series_position: '5.3'
-  slug: the-borders-of-infinity
   spine_color: '#1d1214'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-03-12
-  did_not_finish: false
   rating: 4
 ---
 

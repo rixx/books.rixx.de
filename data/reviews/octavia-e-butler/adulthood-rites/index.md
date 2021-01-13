@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: adulthood-rites.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603782-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1988'
   series: Xenogenesis
   series_position: '2'
-  slug: adulthood-rites
   spine_color: '#9b4e3f'
   title: Adulthood Rites
 plan:
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2018-02-20
-  did_not_finish: false
   rating: 3
 ---
 

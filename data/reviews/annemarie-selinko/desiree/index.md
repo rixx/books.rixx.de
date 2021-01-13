@@ -1,13 +1,11 @@
 ---
 book:
   author: Annemarie Selinko
-  cover_image: desiree.jpg
   cover_image_url: https://images-na.ssl-images-amazon.com/images/I/81FRzK3pj6L.jpg
   goodreads: '84049'
   isbn10: '8493388335'
   isbn13: '9788493388331'
   publication_year: '1951'
-  slug: desiree
   spine_color: '#cf785d'
   tags:
   - german
@@ -22,8 +20,6 @@ related_books:
 review:
   date_read:
   - 2008-08-01
-  did_not_finish: false
-  proofed: true
   rating: 4
 ---
 

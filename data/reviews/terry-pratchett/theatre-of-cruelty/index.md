@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: theatre-of-cruelty.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415598042l/9528398._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1993'
   series: Discworld
   series_position: '14.5'
-  slug: theatre-of-cruelty
   spine_color: '#e9c443'
   title: Theatre of Cruelty
 plan:
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2016-06-08
-  did_not_finish: false
   rating: 4
 ---
 

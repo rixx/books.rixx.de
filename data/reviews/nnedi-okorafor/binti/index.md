@@ -1,7 +1,6 @@
 ---
 book:
   author: Nnedi Okorafor
-  cover_image: binti.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433804020l/25667918._SX98_.jpg
   goodreads: '25667918'
   isbn10: 0765384469
@@ -10,7 +9,6 @@ book:
   publication_year: '2015'
   series: Binti
   series_position: '1'
-  slug: binti
   spine_color: '#7a5140'
   tags:
   - scifi
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2018-06-07
-  did_not_finish: false
   rating: 4
 ---
 

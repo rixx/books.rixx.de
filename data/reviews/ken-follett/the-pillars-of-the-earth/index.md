@@ -1,14 +1,12 @@
 ---
 book:
   author: Ken Follett
-  cover_image: the-pillars-of-the-earth.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SX98_.jpg
   goodreads: '5043'
   pages: '976'
   publication_year: '1989'
   series: Kingsbridge
   series_position: '1'
-  slug: the-pillars-of-the-earth
   spine_color: '#c6a87c'
   tags:
   - historical-fiction
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2017-06-30
-  did_not_finish: false
   rating: 1
 ---
 

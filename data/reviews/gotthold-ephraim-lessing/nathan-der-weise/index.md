@@ -1,7 +1,6 @@
 ---
 book:
   author: Gotthold Ephraim Lessing
-  cover_image: nathan-der-weise.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180953820l/1097229.jpg
   dimensions:
     height: 15.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9783150000038'
   pages: 160
   publication_year: '1779'
-  slug: nathan-der-weise
   spine_color: '#f1e019'
   tags:
   - german
@@ -21,6 +19,5 @@ plan:
 review:
   date_read:
   - 2010-11-01
-  did_not_finish: false
   rating: 2
 ---

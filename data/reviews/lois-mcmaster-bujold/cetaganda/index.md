@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: cetaganda.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671877446-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1995'
   series: Vorkosigan Saga
   series_position: '9'
-  slug: cetaganda
   spine_color: '#604448'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-11-26
-  did_not_finish: false
   rating: 3
 ---
 

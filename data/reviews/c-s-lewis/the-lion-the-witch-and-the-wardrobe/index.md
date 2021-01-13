@@ -1,7 +1,6 @@
 ---
 book:
   author: C.S. Lewis
-  cover_image: the-lion-the-witch-and-the-wardrobe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1950'
   series: Chronicles of Narnia
   series_position: '1'
-  slug: the-lion-the-witch-and-the-wardrobe
   spine_color: '#af9b6e'
   tags:
   - fantasy
@@ -22,9 +20,11 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: michael-ende/the-neverending-story
-  text: If you have to fall into a fantasy world and learn some morality lessons, you might as well have fun.
+  text: If you have to fall into a fantasy world and learn some morality lessons,
+    you might as well have fun.
 - book: lewis-carroll/alice-in-wonderland
-  text: If you have to fall into a fantasy world and don't care for morality, why not choose the other Lewis?
+  text: If you have to fall into a fantasy world and don't care for morality, why
+    not choose the other Lewis?
 - book: lev-grossman/the-magicians
   text: See, somebody else doesn't like Lewis either!
 - book: c-s-lewis/prince-caspian
@@ -32,9 +32,9 @@ related_books:
 review:
   date_read:
   - 2002-06-01
-  did_not_finish: false
   rating: 1
 ---
+
 Confession: I hated the Narnia books when I first read them, and I don't care enough to update my opinion. I hated the
 transparent religion shilling going on, I hated everything about the dour moralising, and I felt personally offended at
 Lion Jesus. Man.

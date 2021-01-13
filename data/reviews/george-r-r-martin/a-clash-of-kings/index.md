@@ -1,7 +1,6 @@
 ---
 book:
   author: George R.R. Martin
-  cover_image: a-clash-of-kings.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553381696-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: A Song of Ice and Fire
   series_position: '2'
-  slug: a-clash-of-kings
   spine_color: '#5c2971'
   tags:
   - fantasy
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2012-07-01
-  did_not_finish: false
   rating: 3
 ---

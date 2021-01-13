@@ -1,7 +1,6 @@
 ---
 book:
   author: Bertolt Brecht
-  cover_image: stories-of-mr-keuner.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780872863835-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780872863835'
   pages: 120
   publication_year: '1958'
-  slug: stories-of-mr-keuner
   spine_color: '#bcb182'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2011-11-01
-  did_not_finish: false
   rating: 3
 ---

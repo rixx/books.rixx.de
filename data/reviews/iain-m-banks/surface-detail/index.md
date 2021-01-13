@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: surface-detail.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316123402-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Culture
   series_position: '9'
-  slug: surface-detail
   spine_color: '#9d793c'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2019-02-08
-  did_not_finish: false
   rating: 4
 ---
 

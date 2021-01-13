@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: the-hydrogen-sonata.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780356501505-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2012'
   series: Culture
   series_position: '10'
-  slug: the-hydrogen-sonata
   spine_color: '#286477'
   tags:
   - scifi
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-08-07
-  did_not_finish: false
   rating: 4
 ---
 

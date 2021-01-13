@@ -1,7 +1,6 @@
 ---
 book:
   author: David Levithan
-  cover_image: every-day.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780307931887-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2012'
   series: Every Day
   series_position: '1'
-  slug: every-day
   spine_color: '#e9dfbe'
   tags:
   - urban-fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2018-06-06
-  did_not_finish: false
   rating: 2
 ---
 

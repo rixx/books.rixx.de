@@ -1,12 +1,10 @@
 ---
 book:
   author: Casey McQuiston
-  cover_image: red-white-royal-blue.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566742512l/41150487._SX98_.jpg
   goodreads: '41150487'
   pages: '421'
   publication_year: '2019'
-  slug: red-white-royal-blue
   spine_color: '#cf332e'
   tags:
   - romance
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-07-07
-  did_not_finish: false
   rating: 4
 ---
 

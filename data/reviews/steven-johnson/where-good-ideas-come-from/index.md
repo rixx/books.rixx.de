@@ -1,7 +1,6 @@
 ---
 book:
   author: Steven Johnson
-  cover_image: where-good-ideas-come-from-the-natural-history-of-innovation.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781594487712-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781594487712'
   pages: 326
   publication_year: '2010'
-  slug: where-good-ideas-come-from
   spine_color: '#d9d274'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-04-11
-  did_not_finish: false
   rating: 3
   tldr: 'tl;dr: Be playful, be prolific, facilitate accidents and clashes. Full with
     anecdotes that make no good arguments for the points the book tries to make, but

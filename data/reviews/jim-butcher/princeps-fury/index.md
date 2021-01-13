@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: princeps-fury.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441016389-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Codex Alera
   series_position: '5'
-  slug: princeps-fury
   spine_color: '#baaba0'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-08-06
-  did_not_finish: false
   rating: 4
 ---
 

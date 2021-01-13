@@ -1,7 +1,6 @@
 ---
 book:
   author: Hannu Rajaniemi
-  cover_image: the-fractal-prince.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311105989l/12074927.jpg
   goodreads: '12074927'
   isbn10: null
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Jean le Flambeur
   series_position: '2'
-  slug: the-fractal-prince
   spine_color: '#c1bb99'
   tags:
   - scifi

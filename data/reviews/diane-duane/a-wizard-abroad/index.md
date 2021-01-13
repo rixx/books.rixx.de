@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: a-wizard-abroad.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152055035-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1993'
   series: Young Wizards
   series_position: '4'
-  slug: a-wizard-abroad
   spine_color: '#243160'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2016-05-09
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Frank Schätzing
-  cover_image: the-swarm.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060813260-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060813260'
   pages: 896
   publication_year: '2004'
-  slug: the-swarm
   spine_color: '#6278a7'
   title: The Swarm
 plan:

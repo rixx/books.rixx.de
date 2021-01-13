@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-truth.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780413771162-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2000'
   series: Discworld
   series_position: '25'
-  slug: the-truth
   spine_color: '#f1f0a9'
   title: The Truth
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2001-08-01
-  did_not_finish: false
   rating: 4
 ---

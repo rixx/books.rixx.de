@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: the-wizards-dilemma.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780152054915-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2001'
   series: Young Wizards
   series_position: '5'
-  slug: the-wizards-dilemma
   spine_color: '#18729c'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2016-05-09
-  did_not_finish: false
   rating: 3
 ---
 

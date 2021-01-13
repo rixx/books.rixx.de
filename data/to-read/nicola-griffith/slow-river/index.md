@@ -1,7 +1,6 @@
 ---
 book:
   author: Nicola Griffith
-  cover_image: slow-river.jpg
   cover_image_url: http://books.google.com/books/content?id=L4g-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780345395375'
   pages: 352
   publication_year: '1995'
-  slug: slow-river
   spine_color: '#5b7287'
   tags:
   - scifi

@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: the-door-into-shadow.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254906233l/216844.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1984'
   series: Tale of the Five
   series_position: '2'
-  slug: the-door-into-shadow
   spine_color: '#cdcdbc'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2020-04-30
-  did_not_finish: false
   rating: 4
   tldr: Brutal second part, but in a good way. Extremely good character-building for
     the protagonists, and not grim or depressing despite the unrelenting plot.

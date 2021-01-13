@@ -4,7 +4,6 @@ book:
   goodreads: '28431251'
   pages: '850'
   publication_year: '2011'
-  slug: digging-for-the-bones
   tags:
   - fanfic
   title: Digging for the Bones
@@ -13,7 +12,6 @@ plan:
 review:
   date_read:
   - 2020-02-25
-  did_not_finish: false
   rating: 2
   tldr: Fanfic's like junk food. It's not great, but it's food, it's easily accessible,
     and it's easy to start a habit. This one's not bad, I just wish I'd space them

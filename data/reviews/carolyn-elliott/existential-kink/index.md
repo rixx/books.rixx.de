@@ -1,14 +1,12 @@
 ---
 book:
   author: Carolyn Elliott
-  cover_image: existential-kink.jpg
   cover_image_url: http://books.google.com/books/content?id=T-vJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
   goodreads: '50915816'
   isbn10: '1578636477'
   isbn13: '9781578636471'
   pages: 220
   publication_year: null
-  slug: existential-kink
   spine_color: '#985254'
   tags:
   - nonfiction
@@ -16,18 +14,22 @@ book:
   title: Existential Kink
 plan:
   date_added: 2020-07-18
+related_books:
+- book: brene-brown/daring-greatly
+  text: Existential Kink assumes that you will find a way to deal with the shame that
+    is likely to be bound up in the experience. This book is a good way to get a handle
+    on what shame is and how it works.
+- book: ichiro-kishimi/the-courage-to-be-disliked
+  text: This book makes basically the same claims as Existential Kink, only that it
+    is very severe about them where EK decides to enjoy the hell out of life.
+- book: aidan-wachter/weaving-fate
+  text: Wachter has a technique that works like Elliott's Deepest Fear Inventory,
+    only for desires.
 review:
   date_read:
   - 2020-07-17
   rating: 5
   tldr: The right book at the right time, but not a book I can recommend.
-related_books:
- - book: brene-brown/daring-greatly
-   text: Existential Kink assumes that you will find a way to deal with the shame that is likely to be bound up in the experience. This book is a good way to get a handle on what shame is and how it works.
- - book: ichiro-kishimi/the-courage-to-be-disliked
-   text: This book makes basically the same claims as Existential Kink, only that it is very severe about them where EK decides to enjoy the hell out of life.
- - book: aidan-wachter/weaving-fate
-   text: Wachter has a technique that works like Elliott's Deepest Fear Inventory, only for desires.
 ---
 
 First off, a caveat: I do not recommend this book, and I can't say that it was a particularly good book. The five-star

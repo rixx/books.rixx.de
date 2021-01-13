@@ -1,7 +1,6 @@
 ---
 book:
   author: Lila Bowen
-  cover_image: wake-of-vultures.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316264310-L.jpg
   dimensions:
     height: 21.6
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: The Shadow
   series_position: '1'
-  slug: wake-of-vultures
   spine_color: '#644245'
   title: Wake of Vultures
 plan:

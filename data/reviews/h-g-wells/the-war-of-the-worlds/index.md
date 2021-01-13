@@ -1,7 +1,6 @@
 ---
 book:
   author: H.G. Wells
-  cover_image: the-war-of-the-worlds.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375759239-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780375759239'
   pages: 192
   publication_year: '1898'
-  slug: the-war-of-the-worlds
   spine_color: '#a39f57'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-02-01
-  did_not_finish: false
   rating: 4
 ---
 

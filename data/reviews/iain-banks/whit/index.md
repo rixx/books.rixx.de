@@ -1,14 +1,12 @@
 ---
 book:
   author: Iain Banks
-  cover_image: whit.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316914369-L.jpg
   goodreads: '290569'
   isbn10: 0316914363
   isbn13: '9780316914369'
   pages: '455'
   publication_year: '1995'
-  slug: whit
   spine_color: '#e6e6e5'
   title: Whit
 plan:

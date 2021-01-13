@@ -1,7 +1,6 @@
 ---
 book:
   author: Ann Leckie
-  cover_image: ancillary-sword.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316246651-L.jpg
   dimensions:
     height: 19.8
@@ -12,7 +11,6 @@ book:
   publication_year: '2014'
   series: Imperial Radch
   series_position: '2'
-  slug: ancillary-sword
   spine_color: '#cc4327'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-04-14
-  did_not_finish: false
   rating: 5
 ---
 

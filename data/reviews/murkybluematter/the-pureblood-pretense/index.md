@@ -1,7 +1,6 @@
 ---
 book:
   author: murkybluematter
-  cover_image: the-pureblood-pretense.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729168l/34213044._SX98_.jpg
   dimensions:
     height: 24
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Rigel Black
   series_position: '1'
-  slug: the-pureblood-pretense
   spine_color: '#7c7267'
   tags:
   - fanfic
@@ -23,6 +21,5 @@ related_books:
 review:
   date_read:
   - 2019-02-02
-  did_not_finish: false
   rating: 3
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Guy Gavriel Kay
-  cover_image: the-lions-of-al-rassan.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060733490-L.jpg
   dimensions:
     height: 20.3
@@ -12,7 +11,6 @@ book:
   isbn13: '9780060733490'
   pages: 528
   publication_year: '1995'
-  slug: the-lions-of-al-rassan
   spine_color: '#a52c07'
   title: The Lions of Al-Rassan
 plan:

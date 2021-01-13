@@ -1,7 +1,6 @@
 ---
 book:
   author: Rokeya Sakhawat Hossain
-  cover_image: sultanas-dream.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9788186211830-L.jpg
   dimensions:
     height: 28.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9788186211830'
   pages: 64
   publication_year: '1905'
-  slug: sultanas-dream
   spine_color: '#8c0505'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2018-02-11
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Frederik Pohl, C.M. Kornbluth
-  cover_image: the-space-merchants.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575075283-L.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1952'
   series: The Space Merchants
   series_position: '1'
-  slug: the-space-merchants
   spine_color: '#ddac4a'
   tags:
   - scifi

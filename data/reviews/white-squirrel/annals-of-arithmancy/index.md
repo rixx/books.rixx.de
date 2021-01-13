@@ -7,12 +7,11 @@ book:
   isbn13: null
   pages: '496'
   publication_year: null
-  slug: annals-of-arithmancy
+  source: https://www.fanfiction.net/s/13001252/1/Annals-of-Arithmancy
   spine_color: '#2f335a'
   tags:
   - fanfic
   title: Annals of Arithmancy
-  source: https://www.fanfiction.net/s/13001252/1/Annals-of-Arithmancy
 plan:
   date_added: 2021-01-07
 related_books:

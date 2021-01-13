@@ -1,7 +1,6 @@
 ---
 book:
   author: R.F. Kuang
-  cover_image: the-poppy-war.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705._SX98_.jpg
   dimensions: {}
   goodreads: '35068705'
@@ -11,7 +10,6 @@ book:
   publication_year: '2018'
   series: The Poppy War
   series_position: '1'
-  slug: the-poppy-war
   spine_color: '#b29f9f'
   title: The Poppy War
 plan:

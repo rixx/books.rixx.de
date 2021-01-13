@@ -1,7 +1,6 @@
 ---
 book:
   author: Theodor Fontane
-  cover_image: effi-briest.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140441901-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780140441901'
   pages: 272
   publication_year: '1894'
-  slug: effi-briest
   spine_color: '#866c2c'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-01-01
-  did_not_finish: false
   rating: 1
 ---

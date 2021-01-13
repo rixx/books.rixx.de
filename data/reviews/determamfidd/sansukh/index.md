@@ -4,7 +4,6 @@ book:
   goodreads: '43788310'
   pages: '1777'
   publication_year: '2017'
-  slug: sansukh
   tags:
   - fanfic
   title: Sansûkh
@@ -13,7 +12,6 @@ plan:
 review:
   date_read:
   - 2019-01-30
-  did_not_finish: false
   rating: 4
 ---
 

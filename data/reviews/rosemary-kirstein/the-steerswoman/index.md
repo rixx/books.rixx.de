@@ -1,7 +1,6 @@
 ---
 book:
   author: Rosemary Kirstein
-  cover_image: the-steerswoman.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278032321l/793297._SY160_.jpg
   goodreads: '793297'
   isbn10: '0345357620'
@@ -10,7 +9,6 @@ book:
   publication_year: '1989'
   series: The Steerswoman
   series_position: '1'
-  slug: the-steerswoman
   spine_color: '#b78a46'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2020-02-29
-  did_not_finish: false
   rating: 4
   tldr: I found my way back to real books, and what a relief! Excellent characters
     and worldbuilding, an eye for details, okay plot. Loved the mostly-female order

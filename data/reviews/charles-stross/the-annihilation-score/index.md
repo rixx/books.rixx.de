@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-annihilation-score.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426160476l/23154785._SX98_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2015'
   series: Laundry Files
   series_position: '6'
-  slug: the-annihilation-score
   spine_color: '#d5a74b'
   tags:
   - urban-fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2015-08-04
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Rudyard Kipling
-  cover_image: just-so-stories.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780517266557-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780517266557'
   pages: 210
   publication_year: '1902'
-  slug: just-so-stories
   spine_color: '#efd00e'
   title: Just So Stories
 plan:
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2010-06-01
-  did_not_finish: false
   rating: 3
 ---

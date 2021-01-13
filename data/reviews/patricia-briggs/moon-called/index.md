@@ -1,7 +1,6 @@
 ---
 book:
   author: Patricia Briggs
-  cover_image: moon-called.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441013814-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Mercy Thompson
   series_position: '1'
-  slug: moon-called
   spine_color: '#b9b5a3'
   tags:
   - urban-fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2016-12-14
-  did_not_finish: false
   rating: 2
 ---
 

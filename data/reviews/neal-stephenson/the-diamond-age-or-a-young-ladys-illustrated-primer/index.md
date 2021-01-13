@@ -1,7 +1,6 @@
 ---
 book:
   author: Neal Stephenson
-  cover_image: the-diamond-age-or-a-young-ladys-illustrated-primer.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553380965-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780553380965'
   pages: 499
   publication_year: '1995'
-  slug: the-diamond-age-or-a-young-ladys-illustrated-primer
   spine_color: '#709497'
   tags:
   - learning-the-arts

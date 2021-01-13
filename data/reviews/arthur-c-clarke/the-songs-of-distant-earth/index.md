@@ -1,7 +1,6 @@
 ---
 book:
   author: Arthur C. Clarke
-  cover_image: the-songs-of-distant-earth.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780007115860-L.jpg
   dimensions:
     height: 20.0
@@ -11,7 +10,6 @@ book:
   isbn13: '9780007115860'
   pages: 256
   publication_year: '1986'
-  slug: the-songs-of-distant-earth
   spine_color: '#59729b'
   tags:
   - scifi
@@ -21,7 +19,6 @@ plan:
 review:
   date_read:
   - 2020-01-24
-  did_not_finish: false
   rating: 3
   tldr: A calm, optimistic story of the last humans leaving Earth, visiting another
     human settlement. Infuriatingly it left out everything I wanted to hear more about,

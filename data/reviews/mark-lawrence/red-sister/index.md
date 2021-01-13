@@ -1,7 +1,6 @@
 ---
 book:
   author: Mark  Lawrence
-  cover_image: red-sister.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481038440l/25895524._SX98_.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: Book of the Ancestor
   series_position: '1'
-  slug: red-sister
   spine_color: '#977e69'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-12-04
-  did_not_finish: false
   rating: 4
 ---
 

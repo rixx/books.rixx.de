@@ -1,7 +1,6 @@
 ---
 book:
   author: Adrian Tchaikovsky
-  cover_image: walking-to-aldebaran.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781781087060-L.jpg
   dimensions:
     height: 0.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9781781087060'
   pages: 140
   publication_year: '2019'
-  slug: walking-to-aldebaran
   spine_color: '#c0b692'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2019-04-08
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Diane Duane
-  cover_image: a-wizard-of-mars.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272379484l/1583121._SX98_.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Young Wizards
   series_position: '9'
-  slug: a-wizard-of-mars
   spine_color: '#c6bf7e'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2016-05-17
-  did_not_finish: false
   rating: 4
 ---
 

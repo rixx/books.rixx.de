@@ -1,7 +1,6 @@
 ---
 book:
   author: Alan Bradley
-  cover_image: as-chimney-sweepers-come-to-dust.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406214651l/21874813._SX98_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Flavia de Luce
   series_position: '7'
-  slug: as-chimney-sweepers-come-to-dust
   spine_color: '#32a0be'
   tags: []
   title: As Chimney Sweepers Come to Dust
@@ -30,7 +28,6 @@ related_books:
 review:
   date_read:
   - 2017-11-26
-  did_not_finish: false
   rating: 4
 ---
 

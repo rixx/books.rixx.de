@@ -1,14 +1,12 @@
 ---
 book:
   author: Sami Shah
-  cover_image: boy-of-fire-and-earth.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509709740l/36527243._SY475_.jpg
   goodreads: '36527243'
   isbn10: null
   isbn13: null
   pages: null
   publication_year: '2016'
-  slug: boy-of-fire-and-earth
   spine_color: '#671e26'
   title: Boy of Fire and Earth
 plan:

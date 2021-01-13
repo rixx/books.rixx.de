@@ -1,7 +1,6 @@
 ---
 book:
   author: Kazuo Ishiguro
-  cover_image: never-let-me-go.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781400078776-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781400078776'
   pages: 288
   publication_year: '2005'
-  slug: never-let-me-go
   spine_color: '#a88778'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-01-25
-  did_not_finish: false
   rating: 4
   tldr: Excellent dystopian storytelling. Not loud, not ostentatious, not yelling
     "THIS IS A DYSTOPIA, GETIT?!". Strong narration, slow burn. Didn't feel depressing

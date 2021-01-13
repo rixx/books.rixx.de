@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: jingo.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154161-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1997'
   series: Discworld
   series_position: '21'
-  slug: jingo
   spine_color: '#b2ada6'
   title: Jingo
 plan:
@@ -29,6 +27,5 @@ related_books:
 review:
   date_read:
   - 2006-12-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Shirley Jackson
-  cover_image: we-have-always-lived-in-the-castle.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780143039976-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780143039976'
   pages: 146
   publication_year: '1962'
-  slug: we-have-always-lived-in-the-castle
   spine_color: '#b5b5b5'
   title: We Have Always Lived in the Castle
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2019-03-21
-  did_not_finish: false
   rating: 3
 ---
 

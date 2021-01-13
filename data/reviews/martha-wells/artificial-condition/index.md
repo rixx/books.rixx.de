@@ -1,7 +1,6 @@
 ---
 book:
   author: Martha Wells
-  cover_image: artificial-condition.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2018'
   series: The Murderbot Diaries
   series_position: '2'
-  slug: artificial-condition
   spine_color: '#c7935f'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-10-19
-  did_not_finish: false
   rating: 4
 ---
 

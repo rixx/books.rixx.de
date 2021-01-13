@@ -1,14 +1,12 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: four-ways-to-forgiveness.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060760298-L.jpg
   goodreads: '92605'
   isbn10: 006076029X
   isbn13: '9780060760298'
   pages: '304'
   publication_year: '1994'
-  slug: four-ways-to-forgiveness
   spine_color: '#7b9474'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2018-10-02
-  did_not_finish: false
   rating: 4
 ---
 

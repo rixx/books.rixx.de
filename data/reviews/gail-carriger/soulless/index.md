@@ -1,7 +1,6 @@
 ---
 book:
   author: Gail Carriger
-  cover_image: soulless.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316056632-L.jpg
   goodreads: '6381205'
   isbn10: '0316056634'
@@ -10,7 +9,6 @@ book:
   publication_year: '2009'
   series: Parasol Protectorate
   series_position: '1'
-  slug: soulless
   spine_color: '#9b5e72'
   tags:
   - fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2020-07-22
-  did_not_finish: false
   rating: 2
 ---
 

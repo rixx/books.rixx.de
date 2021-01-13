@@ -1,7 +1,6 @@
 ---
 book:
   author: Jack McDevitt
-  cover_image: the-engines-of-god.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441002849-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1994'
   series: The Academy
   series_position: '1'
-  slug: the-engines-of-god
   spine_color: '#518797'
   tags:
   - scifi

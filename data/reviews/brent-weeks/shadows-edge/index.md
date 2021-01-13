@@ -1,7 +1,6 @@
 ---
 book:
   author: Brent Weeks
-  cover_image: shadows-edge.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033657-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2008'
   series: Night Angel
   series_position: '2'
-  slug: shadows-edge
   spine_color: '#c56663'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2016-03-01
-  did_not_finish: false
   rating: 3
 ---
 

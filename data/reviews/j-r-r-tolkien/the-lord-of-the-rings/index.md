@@ -7,24 +7,25 @@ book:
   isbn13: null
   pages: '1216'
   publication_year: '1955'
-  slug: the-lord-of-the-rings
   spine_color: '#2d485b'
   tags:
   - fantasy
   title: The Lord of the Rings
 plan:
   date_added: 2021-01-12
+related_books:
+- book: j-r-r-tolkien/the-hobbit
+  text: The Hobbit is a much easier read, arguably strictly better, and certainly
+    more entertaining.
+- book: j-r-r-tolkien/the-silmarillion
+  text: The Silmarillion is incredibly dry and boring, unless you're already deep
+    down the fandom rabbithole.
+- book: hope-mirrlees/lud-in-the-mist
+  text: A wildly different fantasy book, but also very early, even predating Tolkien's.
 review:
   date_read:
   - 2001-05-01
   rating: 4
-related_books:
-- book: j-r-r-tolkien/the-hobbit
-  text: The Hobbit is a much easier read, arguably strictly better, and certainly more entertaining.
-- book: j-r-r-tolkien/the-silmarillion
-  text: The Silmarillion is incredibly dry and boring, unless you're already deep down the fandom rabbithole.
-- book: hope-mirrlees/lud-in-the-mist
-  text: A wildly different fantasy book, but also very early, even predating Tolkien's.
 ---
 
 What can I say about this book that hasn't been said yet? Maybe this: I read it when I was nine, all in one go. I was

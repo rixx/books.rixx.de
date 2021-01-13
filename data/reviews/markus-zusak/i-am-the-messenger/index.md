@@ -1,7 +1,6 @@
 ---
 book:
   author: Markus Zusak
-  cover_image: i-am-the-messenger.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375836671-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780375836671'
   pages: 357
   publication_year: '2002'
-  slug: i-am-the-messenger
   spine_color: '#8a2930'
   tags:
   - german
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2017-06-29
-  did_not_finish: false
   rating: 1
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: harry-potter-and-the-sorcerers-stone.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1997'
   series: Harry Potter
   series_position: '1'
-  slug: harry-potter-and-the-sorcerers-stone
   spine_color: '#cfae7d'
   tags:
   - fantasy
@@ -21,8 +19,11 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: diane-duane/so-you-want-to-be-a-wizard
-  text: If you like the angle of young disadvantaged kids getting to do magic in a realistic world, I will not stop recommending the Young Wizards series. It does so many things so much better than Harry Potter – it comes at it from a more grounded, more realistic view, and carries it off extremely well. It helps that Diane Duane is also a better writer if you just compare their prose.
-
+  text: If you like the angle of young disadvantaged kids getting to do magic in a
+    realistic world, I will not stop recommending the Young Wizards series. It does
+    so many things so much better than Harry Potter – it comes at it from a more grounded,
+    more realistic view, and carries it off extremely well. It helps that Diane Duane
+    is also a better writer if you just compare their prose.
 - book: violet-haberdasher/knightley-academy
   text: If you want to read the same again, down to the characters and sub-plots,
     go here.
@@ -33,7 +34,6 @@ related_books:
 review:
   date_read:
   - 2001-09-01
-  did_not_finish: false
   rating: 4
 ---
 

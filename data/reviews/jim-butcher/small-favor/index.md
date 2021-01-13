@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: small-favor.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SX98_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: The Dresden Files
   series_position: '10'
-  slug: small-favor
   spine_color: '#e4c56d'
   tags:
   - urban-fantasy
@@ -31,8 +29,8 @@ related_books:
 review:
   date_read:
   - 2014-08-01
-  did_not_finish: false
   rating: 3
 ---
+
 I can't tell this book apart from the other ones. You gotta give it to Butcher, though: His writing is nothing if not
 consistent.

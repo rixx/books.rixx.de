@@ -1,13 +1,11 @@
 ---
 book:
   author: Ursula Poznanski
-  cover_image: elanus.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783785582312-L.jpg
   goodreads: '30987220'
   isbn13: '9783785582312'
   pages: '416'
   publication_year: '2016'
-  slug: elanus
   spine_color: '#abbc8a'
   tags:
   - german
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2019-04-04
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Ekaterina Sedia
-  cover_image: heart-of-iron.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781607012573-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781607012573'
   pages: 311
   publication_year: '2011'
-  slug: heart-of-iron
   spine_color: '#8d8c8b'
   tags: []
   title: Heart of Iron

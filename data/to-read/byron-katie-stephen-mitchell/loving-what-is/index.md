@@ -1,7 +1,6 @@
 ---
 book:
   author: Byron Katie, Stephen Mitchell
-  cover_image: loving-what-is.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781400045372-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781400045372'
   pages: 352
   publication_year: '2002'
-  slug: loving-what-is
   spine_color: '#a07f5f'
   tags:
   - nonfiction

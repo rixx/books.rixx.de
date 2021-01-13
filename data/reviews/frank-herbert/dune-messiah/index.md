@@ -1,7 +1,6 @@
 ---
 book:
   author: Frank Herbert
-  cover_image: dune-messiah.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441172696-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1969'
   series: Dune Chronicles
   series_position: '2'
-  slug: dune-messiah
   spine_color: '#bf622f'
   tags:
   - scifi
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-08-04
-  did_not_finish: false
   rating: 2
 ---
 

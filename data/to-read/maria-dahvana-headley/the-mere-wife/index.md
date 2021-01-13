@@ -1,7 +1,6 @@
 ---
 book:
   author: Maria Dahvana Headley
-  cover_image: the-mere-wife.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517581442l/36332136._SX98_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780374208431'
   pages: 308
   publication_year: '2018'
-  slug: the-mere-wife
   spine_color: '#de7454'
   title: The Mere Wife
 plan:

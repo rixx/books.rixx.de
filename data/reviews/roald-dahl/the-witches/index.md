@@ -1,7 +1,6 @@
 ---
 book:
   author: Roald Dahl
-  cover_image: the-witches.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780590032490-L.jpg
   dimensions:
     height: 19.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9780590032490'
   pages: 208
   publication_year: '1983'
-  slug: the-witches
   spine_color: '#361918'
   tags:
   - german
@@ -21,6 +19,5 @@ plan:
 review:
   date_read:
   - 2006-03-01
-  did_not_finish: false
   rating: 4
 ---

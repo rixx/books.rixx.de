@@ -1,7 +1,6 @@
 ---
 book:
   author: Alan Bradley
-  cover_image: a-red-herring-without-mustard.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388266441l/8517008.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2011'
   series: Flavia de Luce
   series_position: '3'
-  slug: a-red-herring-without-mustard
   spine_color: '#f7e631'
   tags: []
   title: A Red Herring Without Mustard
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2017-11-24
-  did_not_finish: false
   rating: 3
 ---
 

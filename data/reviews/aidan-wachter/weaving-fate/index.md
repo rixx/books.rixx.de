@@ -1,14 +1,12 @@
 ---
 book:
   author: Aidan Wachter
-  cover_image: weaving-fate.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596911413l/54854252._SY475_.jpg
   goodreads: '54854252'
   isbn10: null
   isbn13: 9780999356623
   pages: '171'
   publication_year: null
-  slug: weaving-fate
   spine_color: '#4b883f'
   tags:
   - nonfiction
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2021-01-06
-  did_not_finish: false
   rating: 4
   tldr: Several useful introspection techniques, both meditation and journaling. My
     favourite was the one where you write a journal as your future self. Very useful

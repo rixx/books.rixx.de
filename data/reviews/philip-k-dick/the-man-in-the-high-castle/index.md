@@ -1,7 +1,6 @@
 ---
 book:
   author: Philip K. Dick
-  cover_image: the-man-in-the-high-castle.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780679740674-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780679740674'
   pages: 259
   publication_year: '1962'
-  slug: the-man-in-the-high-castle
   spine_color: '#d96b25'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2016-12-12
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Christopher Stasheff
-  cover_image: the-warlock-in-spite-of-himself.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441873029-L.jpg
   dimensions:
     height: 17.3
@@ -14,7 +13,6 @@ book:
   publication_year: '1969'
   series: Warlock
   series_position: '1'
-  slug: the-warlock-in-spite-of-himself
   spine_color: '#cf9b80'
   tags:
   - fantasy
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2020-02-20
-  did_not_finish: false
   rating: 2
   tldr: Really good setting. That's it, that was the good part. Apart from that, strong
     60s sexism, blatant propaganda, self-insert hero. Not my kind of thing.

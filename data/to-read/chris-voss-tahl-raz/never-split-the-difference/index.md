@@ -1,7 +1,6 @@
 ---
 book:
   author: Chris Voss, Tahl Raz
-  cover_image: never-split-the-difference.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780062407801-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780062407801'
   pages: 288
   publication_year: '2016'
-  slug: never-split-the-difference
   spine_color: '#f2bf0d'
   tags:
   - nonfiction

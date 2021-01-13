@@ -1,14 +1,12 @@
 ---
 book:
   author: Siobhan Carroll
-  cover_image: for-he-can-creep.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562862657l/52139451._SX318_SY475_.jpg
   goodreads: '52139451'
   isbn10: '1250237564'
   isbn13: '9781250237569'
   pages: '30'
   publication_year: '2019'
-  slug: for-he-can-creep
   source: https://www.tor.com/2019/07/10/for-he-can-creep-siobhan-carroll/
   spine_color: '#c5a98a'
   title: For He Can Creep
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2020-02-12
-  did_not_finish: false
   rating: 3
   tldr: This short story is for the cat lovers. Lovingly combining stereotypes and
     then going just a bit beyond.

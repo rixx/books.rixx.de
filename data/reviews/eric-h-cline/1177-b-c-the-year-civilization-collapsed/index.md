@@ -1,7 +1,6 @@
 ---
 book:
   author: Eric H. Cline
-  cover_image: 1177-b-c-the-year-civilization-collapsed.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397424814l/18730589._SX98_.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780691140896'
   pages: 264
   publication_year: '2014'
-  slug: 1177-b-c-the-year-civilization-collapsed
   spine_color: '#d7b56b'
   tags:
   - history
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-05-16
-  did_not_finish: false
   rating: 4
 ---
 

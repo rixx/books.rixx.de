@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter Moers
-  cover_image: rumo-his-miraculous-adventures.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348657010l/62033.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Zamonien
   series_position: '3'
-  slug: rumo-his-miraculous-adventures
   spine_color: '#d0c046'
   tags:
   - fantasy
@@ -32,6 +30,5 @@ related_books:
 review:
   date_read:
   - 2009-07-01
-  did_not_finish: false
   rating: 4
 ---

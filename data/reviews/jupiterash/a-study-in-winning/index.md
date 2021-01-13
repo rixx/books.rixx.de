@@ -1,7 +1,6 @@
 ---
 book:
   author: Jupiter_Ash
-  cover_image: a-study-in-winning.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378844687l/18480041._SX98_.jpg
   dimensions:
     height: 22
@@ -10,7 +9,6 @@ book:
   publication_year: '2012'
   series: Tennis
   series_position: '1'
-  slug: a-study-in-winning
   spine_color: '#067430'
   tags:
   - fanfic
@@ -23,7 +21,6 @@ related_books:
 review:
   date_read:
   - 2020-02-24
-  did_not_finish: false
   rating: 3
   tldr: A Sherlock Holmes fanfic in … current day competitive tennis? I was following
     a personal recommendation and while it was formulaic, it executed the formula

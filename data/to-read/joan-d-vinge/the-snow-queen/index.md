@@ -1,7 +1,6 @@
 ---
 book:
   author: Joan D. Vinge
-  cover_image: the-snow-queen.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446676649-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1980'
   series: The Snow Queen Cycle
   series_position: '1'
-  slug: the-snow-queen
   spine_color: '#8094b1'
   title: The Snow Queen
 plan:

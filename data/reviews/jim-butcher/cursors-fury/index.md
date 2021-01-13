@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: cursors-fury.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014347-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2006'
   series: Codex Alera
   series_position: '3'
-  slug: cursors-fury
   spine_color: '#98b2bd'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-01-05
-  did_not_finish: false
   rating: 4
 ---
 

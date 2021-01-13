@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: the-five-red-herrings.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530289829l/40669974._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1931'
   series: Lord Peter Wimsey
   series_position: '7'
-  slug: the-five-red-herrings
   spine_color: '#9e4b49'
   tags:
   - mystery
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2020-01-22
-  did_not_finish: false
   rating: 2
   tldr: The tedious Lord Peter mystery – focused on a very boring plot, little in
     terms of dialogue and characters. Only people fishing and painting, forever.

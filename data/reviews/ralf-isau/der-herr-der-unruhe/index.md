@@ -1,14 +1,12 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: der-herr-der-unruhe.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999445l/1692808._SY475_.jpg
   goodreads: '1692808'
   isbn10: 343103392X
   isbn13: '9783431033922'
   pages: '509'
   publication_year: '2004'
-  slug: der-herr-der-unruhe
   spine_color: '#a79136'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2016-11-13
-  did_not_finish: false
   rating: 3
 ---
 

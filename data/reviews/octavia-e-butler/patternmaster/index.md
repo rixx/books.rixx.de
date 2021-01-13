@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: patternmaster.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446362818-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1976'
   series: Patternmaster
   series_position: '4'
-  slug: patternmaster
   spine_color: '#ca5d48'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-08-26
-  did_not_finish: false
   rating: 3
 ---
 

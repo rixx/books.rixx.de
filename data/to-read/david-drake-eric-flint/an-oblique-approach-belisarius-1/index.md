@@ -1,7 +1,6 @@
 ---
 book:
   author: David Drake, Eric Flint
-  cover_image: an-oblique-approach-belisarius-1.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671878658-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780671878658'
   pages: 467
   publication_year: '1998'
-  slug: an-oblique-approach-belisarius-1
   spine_color: '#797696'
   tags:
   - fantasy

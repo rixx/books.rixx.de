@@ -1,7 +1,6 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image: babel-17.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688._SX98_.jpg
   dimensions:
     height: 21.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9780839823285'
   pages: 192
   publication_year: '1966'
-  slug: babel-17
   spine_color: '#a13225'
   tags:
   - five-stars
@@ -19,14 +17,14 @@ book:
   title: Babel-17
 plan:
   date_added: '2018-02-18'
+related_books:
+- book: janet-kagan/hellspark
+  text: Delightful linguistics sci-fi, also rapid and fun. More practical, but also
+    more into linguistics. Do read!
 review:
   date_read:
   - 2018-08-18
-  did_not_finish: false
   rating: 5
-related_books:
-- book: janet-kagan/hellspark
-  text: Delightful linguistics sci-fi, also rapid and fun. More practical, but also more into linguistics. Do read!
 ---
 
 It's been a long time (apart from Too Like The Lightning) that I've read a novel that felt so tailored to me like **Babel-17**. I mean, it's a queer polyamorous scifi novel where linguistics are key, even to winning space battles, which there are plenty of. I have no words. It's also been the first time in a while that a novel brought me to tears.

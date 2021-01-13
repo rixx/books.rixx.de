@@ -1,7 +1,6 @@
 ---
 book:
   author: Cassandra Clare
-  cover_image: city-of-bones.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416914280-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2007'
   series: The Mortal Instruments
   series_position: '1'
-  slug: city-of-bones
   spine_color: '#bfc66d'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2016-11-20
-  did_not_finish: false
   rating: 2
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Steven Gould
-  cover_image: jumper.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765342287-L.jpg
   dimensions:
     height: 19.2
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Jumper
   series_position: '1'
-  slug: jumper
   spine_color: '#645985'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2017-06-28
-  did_not_finish: false
   rating: 1
 ---
 

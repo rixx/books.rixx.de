@@ -1,7 +1,6 @@
 ---
 book:
   author: Sarah Schulman
-  cover_image: conflict-is-not-abuse.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781551526430-L.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781551526430'
   pages: 299
   publication_year: '2016'
-  slug: conflict-is-not-abuse
   spine_color: '#b86b77'
   tags:
   - personal-development

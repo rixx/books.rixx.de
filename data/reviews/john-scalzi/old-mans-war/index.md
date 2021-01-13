@@ -1,7 +1,6 @@
 ---
 book:
   author: John Scalzi
-  cover_image: old-mans-war.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780765348272-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: Old Man's War
   series_position: '1'
-  slug: old-mans-war
   spine_color: '#deaa2a'
   tags:
   - scifi
@@ -24,6 +22,5 @@ plan:
 review:
   date_read:
   - 2014-06-01
-  did_not_finish: false
   rating: 4
 ---

@@ -1,7 +1,6 @@
 ---
 book:
   author: Jeanette Winterson
-  cover_image: written-on-the-body.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780679744474-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780679744474'
   pages: 192
   publication_year: '1992'
-  slug: written-on-the-body
   spine_color: '#9d7764'
   title: Written on the Body
 plan:

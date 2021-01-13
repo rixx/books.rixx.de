@@ -1,7 +1,6 @@
 ---
 book:
   author: Connie Willis
-  cover_image: doomsday-book.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553562736-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Oxford Time Travel
   series_position: '1'
-  slug: doomsday-book
   spine_color: '#3c0605'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2019-11-20
-  did_not_finish: false
   rating: 5
 ---
 

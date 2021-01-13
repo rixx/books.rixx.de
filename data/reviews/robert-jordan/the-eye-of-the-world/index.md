@@ -1,7 +1,6 @@
 ---
 book:
   author: Robert Jordan
-  cover_image: the-eye-of-the-world.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780812511819-L.jpg
   goodreads: '228665'
   isbn10: 0812511816
@@ -10,7 +9,6 @@ book:
   publication_year: '1990'
   series: The Wheel of Time
   series_position: '1'
-  slug: the-eye-of-the-world
   spine_color: '#dee1c0'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2018-11-23
-  did_not_finish: false
   rating: 3
 ---
 

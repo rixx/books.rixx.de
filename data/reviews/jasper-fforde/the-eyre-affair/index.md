@@ -1,7 +1,6 @@
 ---
 book:
   author: Jasper Fforde
-  cover_image: the-eyre-affair.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780142001806-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: Thursday Next
   series_position: '1'
-  slug: the-eyre-affair
   spine_color: '#6d6053'
   tags:
   - fantasy
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2007-08-01
-  did_not_finish: false
   rating: 5
 ---

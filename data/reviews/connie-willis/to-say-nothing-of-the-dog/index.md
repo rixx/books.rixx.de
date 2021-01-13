@@ -1,7 +1,6 @@
 ---
 book:
   author: Connie Willis
-  cover_image: to-say-nothing-of-the-dog.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780553575385-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Oxford Time Travel
   series_position: '2'
-  slug: to-say-nothing-of-the-dog
   spine_color: '#886441'
   tags:
   - scifi
@@ -23,13 +21,13 @@ plan:
   date_added: '2019-11-20'
 related_books:
 - book: dorothy-l-sayers/gaudy-night
-  text: If you have the time and inclination, please read Gaudy Night before encountering spoilers here! It's worth it.
+  text: If you have the time and inclination, please read Gaudy Night before encountering
+    spoilers here! It's worth it.
 - book: connie-willis/doomsday-book
   text: The previous book in the series.
 review:
   date_read:
   - 2020-02-22
-  did_not_finish: false
   rating: 4
   tldr: As good as advertised – even a bit better, it's in part targeted at people
     who had their heart broken by Gaudy Night, which I read just two weeks earlier.

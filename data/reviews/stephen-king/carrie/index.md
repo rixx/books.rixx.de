@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: carrie.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416524304-L.jpg
   dimensions:
     height: 18.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9781416524304'
   pages: 290
   publication_year: '1974'
-  slug: carrie
   spine_color: '#e82118'
   title: Carrie
 plan:
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2018-08-26
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: summer-knight.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451458926-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2002'
   series: The Dresden Files
   series_position: '4'
-  slug: summer-knight
   spine_color: '#7a785e'
   tags:
   - urban-fantasy
@@ -31,7 +29,7 @@ related_books:
 review:
   date_read:
   - 2014-05-01
-  did_not_finish: false
   rating: 3
 ---
+
 Generick kick-ass, but kick-ass.

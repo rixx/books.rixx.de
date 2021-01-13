@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen Baxter
-  cover_image: anti-ice.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1170621179l/64128.jpg
   dimensions:
     height: 17.1
@@ -12,7 +11,6 @@ book:
   isbn13: '9780061054211'
   pages: 304
   publication_year: '1993'
-  slug: anti-ice
   spine_color: '#ad841e'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2019-09-25
-  did_not_finish: false
   rating: 2
 ---
 

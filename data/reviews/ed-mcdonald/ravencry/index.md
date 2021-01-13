@@ -1,7 +1,6 @@
 ---
 book:
   author: Ed McDonald
-  cover_image: ravencry.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781473222052-L.jpg
   dimensions:
     height: 24.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2018'
   series: Raven's Mark
   series_position: '2'
-  slug: ravencry
   spine_color: '#473436'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-11-20
-  did_not_finish: false
   rating: 2
 ---
 

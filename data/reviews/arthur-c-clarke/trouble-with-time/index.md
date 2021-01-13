@@ -3,7 +3,6 @@ book:
   author: Arthur C. Clarke
   goodreads: '32994565'
   publication_year: '1960'
-  slug: trouble-with-time
   tags:
   - scifi
   title: Trouble with Time
@@ -12,7 +11,6 @@ plan:
 review:
   date_read:
   - 2019-10-13
-  did_not_finish: false
   rating: 2
 ---
 

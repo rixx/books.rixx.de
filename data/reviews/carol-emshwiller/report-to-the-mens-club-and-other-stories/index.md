@@ -1,7 +1,6 @@
 ---
 book:
   author: Carol Emshwiller
-  cover_image: report-to-the-mens-club-and-other-stories.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781931520027-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781931520027'
   pages: 282
   publication_year: '2002'
-  slug: report-to-the-mens-club-and-other-stories
   spine_color: '#e88e55'
   title: Report to the Men's Club and Other Stories
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2017-11-29
-  did_not_finish: false
   rating: 2
 ---
 

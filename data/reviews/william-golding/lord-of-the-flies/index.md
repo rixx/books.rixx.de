@@ -1,7 +1,6 @@
 ---
 book:
   author: William Golding
-  cover_image: lord-of-the-flies.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140283334-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780140283334'
   pages: 182
   publication_year: '1954'
-  slug: lord-of-the-flies
   spine_color: '#9c733d'
   title: Lord of the Flies
 plan:
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2017-05-15
-  did_not_finish: false
   rating: 3
 ---
 

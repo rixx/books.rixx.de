@@ -1,7 +1,6 @@
 ---
 book:
   author: Steven Hopstaken
-  cover_image: stokers-wilde.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781787581739-L.jpg
   dimensions:
     height: 22.9
@@ -12,7 +11,6 @@ book:
   isbn13: '9781787581739'
   pages: 384
   publication_year: '2019'
-  slug: stokers-wilde
   spine_color: '#5d3938'
   title: Stoker's Wilde
 plan:

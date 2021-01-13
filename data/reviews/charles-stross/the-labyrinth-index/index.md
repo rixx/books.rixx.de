@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-labyrinth-index.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507646317l/36053406._SX98_.jpg
   dimensions:
     height: 22.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2018'
   series: Laundry Files
   series_position: '9'
-  slug: the-labyrinth-index
   spine_color: '#c41816'
   tags:
   - urban-fantasy
@@ -25,7 +23,6 @@ related_books:
 review:
   date_read:
   - 2018-10-16
-  did_not_finish: false
   rating: 4
 ---
 

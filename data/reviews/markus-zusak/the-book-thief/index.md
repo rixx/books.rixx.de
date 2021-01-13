@@ -1,7 +1,6 @@
 ---
 book:
   author: Markus Zusak
-  cover_image: the-book-thief.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375831003-L.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780375831003'
   pages: 567
   publication_year: '2005'
-  slug: the-book-thief
   spine_color: '#8e6335'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-06-01
-  did_not_finish: false
   rating: 4
 ---

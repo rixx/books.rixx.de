@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: blood-rites.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451459879-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2004'
   series: The Dresden Files
   series_position: '6'
-  slug: blood-rites
   spine_color: '#565240'
   tags:
   - urban-fantasy
@@ -31,8 +29,8 @@ related_books:
 review:
   date_read:
   - 2014-01-01
-  did_not_finish: false
   rating: 3
 ---
+
 It's impressive for how long Jim Butcher can just do "more of the same, please". Come to think of it, Codex Alera was
 also a long series of "more of the same", only with a different set of tropes, and arguably more imagination.

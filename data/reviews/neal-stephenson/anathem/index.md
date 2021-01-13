@@ -1,7 +1,6 @@
 ---
 book:
   author: Neal Stephenson
-  cover_image: anathem.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061474095-L.jpg
   dimensions:
     height: 24.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780061474095'
   pages: 937
   publication_year: '2008'
-  slug: anathem
   spine_color: '#aeae97'
   tags:
   - five-stars
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2019-09-20
-  did_not_finish: false
   rating: 5
 ---
 

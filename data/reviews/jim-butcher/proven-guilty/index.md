@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: proven-guilty.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451461032-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: The Dresden Files
   series_position: '8'
-  slug: proven-guilty
   spine_color: '#4b6e4d'
   tags:
   - urban-fantasy
@@ -31,7 +29,7 @@ related_books:
 review:
   date_read:
   - 2014-03-01
-  did_not_finish: false
   rating: 3
 ---
+
 This week's stock trope is "past mistakes catch up to our broken-but-sympathetic hero".

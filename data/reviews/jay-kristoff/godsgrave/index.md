@@ -1,7 +1,6 @@
 ---
 book:
   author: Jay Kristoff
-  cover_image: godsgrave.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250073037-L.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: The Nevernight Chronicle
   series_position: '2'
-  slug: godsgrave
   spine_color: '#321c25'
   tags:
   - fantasy
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2019-05-26
-  did_not_finish: false
   rating: 3
 ---
 

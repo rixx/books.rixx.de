@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: i-shall-wear-midnight.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385611077-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Discworld
   series_position: '38'
-  slug: i-shall-wear-midnight
   spine_color: '#9e7a5d'
   tags:
   - five-stars
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2012-03-01
-  did_not_finish: false
   rating: 5
 ---

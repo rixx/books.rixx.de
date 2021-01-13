@@ -1,7 +1,6 @@
 ---
 book:
   author: Primo Levi
-  cover_image: if-this-is-a-man.jpg
   cover_image_url: https://i.pinimg.com/originals/62/43/6d/62436d73ad6c06d1edffe9b73e9fc2e3.jpg
   dimensions:
     height: 21.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780684826806'
   pages: 187
   publication_year: '1947'
-  slug: if-this-is-a-man
   spine_color: '#d8d3c7'
   tags:
   - history
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-04-15
-  did_not_finish: false
   rating: 4
   tldr: 'First-hand account of a year in Auschwitz. Nothing else to say: It is as
     painful as it is necessary.'

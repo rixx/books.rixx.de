@@ -1,7 +1,6 @@
 ---
 book:
   author: Douglas Adams
-  cover_image: mostly-harmless.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345418777-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1992'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '5'
-  slug: mostly-harmless
   spine_color: '#95a786'
   tags:
   - german
@@ -30,8 +28,8 @@ related_books:
 review:
   date_read:
   - 2002-01-01
-  did_not_finish: false
   rating: 3
 ---
+
 I honestly don't have real memories of reading this book. I only completed it out of a sense of duty – wouldn't have
 done so today.

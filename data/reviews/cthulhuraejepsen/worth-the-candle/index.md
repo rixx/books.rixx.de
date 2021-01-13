@@ -1,12 +1,10 @@
 ---
 book:
   author: cthulhuraejepsen
-  cover_image: worth-the-candle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562714384l/36146179._SX98_.jpg
   goodreads: '36146179'
   pages: '2591'
   publication_year: '2017'
-  slug: worth-the-candle
   spine_color: '#b69ea0'
   title: Worth the Candle
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2018-07-12
-  did_not_finish: false
   rating: 4
 ---
 

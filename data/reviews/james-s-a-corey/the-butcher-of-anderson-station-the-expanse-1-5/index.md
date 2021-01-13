@@ -1,14 +1,12 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image: the-butcher-of-anderson-station-the-expanse-1-5.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316999513l/11570653._SX98_.jpg
   goodreads: '11570653'
   isbn10: null
   isbn13: null
   pages: '40'
   publication_year: '2011'
-  slug: the-butcher-of-anderson-station-the-expanse-1-5
   spine_color: '#b85938'
   title: 'The Butcher of Anderson Station (The Expanse, #1.5)'
 plan:

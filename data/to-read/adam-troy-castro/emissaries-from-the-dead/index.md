@@ -1,7 +1,6 @@
 ---
 book:
   author: Adam-Troy Castro
-  cover_image: emissaries-from-the-dead.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061443725-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2008'
   series: Andrea Cort
   series_position: '1'
-  slug: emissaries-from-the-dead
   spine_color: '#42485f'
   tags:
   - scifi

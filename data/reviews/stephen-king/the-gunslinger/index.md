@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: the-gunslinger.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220416l/43615._SX98_.jpg
   dimensions:
     height: 23.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1982'
   series: The Dark Tower
   series_position: '1'
-  slug: the-gunslinger
   spine_color: '#e3a852'
   tags:
   - fantasy
@@ -26,7 +24,6 @@ related_books:
 review:
   date_read:
   - 2017-05-30
-  did_not_finish: false
   rating: 5
 ---
 

@@ -1,14 +1,12 @@
 ---
 book:
   author: FayJay
-  cover_image: the-student-prince.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400436772l/17277854._SX98_.jpg
   goodreads: '17277854'
   pages: '333'
   publication_year: '2010'
   series: The Student Prince
   series_position: '1'
-  slug: the-student-prince
   spine_color: '#c17240'
   tags:
   - fanfic
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2019-11-15
-  did_not_finish: false
   rating: 4
 ---
 

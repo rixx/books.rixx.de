@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: fool-moon.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451458124-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2001'
   series: The Dresden Files
   series_position: '2'
-  slug: fool-moon
   spine_color: '#9bb1d3'
   tags:
   - urban-fantasy
@@ -29,7 +27,7 @@ related_books:
 review:
   date_read:
   - 2014-04-01
-  did_not_finish: false
   rating: 3
 ---
+
 More of the first book. Jim Butcher has found a niche, and *by god* he's going to keep it.

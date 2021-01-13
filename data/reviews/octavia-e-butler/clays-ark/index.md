@@ -1,7 +1,6 @@
 ---
 book:
   author: Octavia E. Butler
-  cover_image: clays-ark.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780446603706-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1984'
   series: Patternmaster
   series_position: '3'
-  slug: clays-ark
   spine_color: '#e0cd94'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2019-01-08
-  did_not_finish: false
   rating: 2
 ---
 

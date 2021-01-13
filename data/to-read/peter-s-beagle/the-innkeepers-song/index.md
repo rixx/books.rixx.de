@@ -1,14 +1,12 @@
 ---
 book:
   author: Peter S. Beagle
-  cover_image: the-innkeepers-song.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451452887-L.jpg
   goodreads: '11938'
   isbn10: 0451452887
   isbn13: '9780451452887'
   pages: '346'
   publication_year: '1993'
-  slug: the-innkeepers-song
   spine_color: '#947f79'
   title: The Innkeeper's Song
 plan:

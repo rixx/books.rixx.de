@@ -1,7 +1,6 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image: inkheart.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439709101-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Inkworld
   series_position: '1'
-  slug: inkheart
   spine_color: '#8c3930'
   tags:
   - fantasy
@@ -32,6 +30,5 @@ related_books:
 review:
   date_read:
   - 2006-08-01
-  did_not_finish: false
   rating: 4
 ---

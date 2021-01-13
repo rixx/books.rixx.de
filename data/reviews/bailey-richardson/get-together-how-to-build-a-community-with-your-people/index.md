@@ -1,7 +1,6 @@
 ---
 book:
   author: Bailey  Richardson
-  cover_image: get-together-how-to-build-a-community-with-your-people.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781732265196-L.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9781732265196'
   pages: 191
   publication_year: null
-  slug: get-together-how-to-build-a-community-with-your-people
   spine_color: '#fd620c'
   tags:
   - nonfiction
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2020-03-05
-  did_not_finish: false
   rating: 2
   tldr: Not what I expected – it's focused on "communities" for corporate entities.
     Contains impressive collection of examples, but only positive ones, so yay for

@@ -1,12 +1,10 @@
 ---
 book:
   author: Pete Walker
-  cover_image: complex-ptsd-from-surviving-to-thriving.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389830032l/20556323.jpg
   goodreads: '20556323'
   pages: '376'
   publication_year: '2013'
-  slug: complex-ptsd-from-surviving-to-thriving
   spine_color: '#4e5787'
   tags:
   - nonfiction
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2020-02-16
-  did_not_finish: false
   rating: 2
   tldr: Says a lot of true things. Not immediately useful for me, but still recommended
     if you want to learn about cPTSD/PTSD/trauma.

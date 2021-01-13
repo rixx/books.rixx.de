@@ -1,7 +1,6 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: the-abc-murders.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126247-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1936'
   series: Hercule Poirot
   series_position: '13'
-  slug: the-abc-murders
   spine_color: '#0879af'
   title: The ABC Murders
 plan:

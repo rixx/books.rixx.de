@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: hogfather.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780552154284-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: Discworld
   series_position: '20'
-  slug: hogfather
   spine_color: '#161118'
   tags:
   - christmas
@@ -31,8 +29,6 @@ related_books:
 review:
   date_read:
   - 2010-03-01
-  did_not_finish: false
-  proofed: true
   rating: 4
 ---
 

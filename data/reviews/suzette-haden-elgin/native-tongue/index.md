@@ -1,7 +1,6 @@
 ---
 book:
   author: Suzette Haden Elgin
-  cover_image: native-tongue-native-tongue-1.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781876756055-L.jpg
   goodreads: '285563'
   isbn10: '1876756055'
@@ -10,7 +9,6 @@ book:
   publication_year: '1984'
   series: Native Tongue
   series_position: 1
-  slug: native-tongue
   spine_color: '#645a45'
   tags:
   - language
@@ -24,7 +22,6 @@ related_books:
 review:
   date_read:
   - 2020-10-19
-  did_not_finish: false
   rating: 2
 ---
 

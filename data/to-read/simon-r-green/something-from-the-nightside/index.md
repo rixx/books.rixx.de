@@ -1,7 +1,6 @@
 ---
 book:
   author: Simon R. Green
-  cover_image: something-from-the-nightside.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780441010653-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Nightside
   series_position: '1'
-  slug: something-from-the-nightside
   spine_color: '#d2bf6c'
   title: Something from the Nightside
 plan:

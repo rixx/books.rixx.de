@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: death-masks.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451459404-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: The Dresden Files
   series_position: '5'
-  slug: death-masks
   spine_color: '#5d424f'
   tags:
   - urban-fantasy
@@ -31,8 +29,8 @@ related_books:
 review:
   date_read:
   - 2014-11-01
-  did_not_finish: false
   rating: 3
 ---
+
 I continue to go think "predictable, stock, lazy, booooring" and "ohhhh this is fun fun fun": If I was willing to feel
 guilty about any books, these would be guilty pleasure books.

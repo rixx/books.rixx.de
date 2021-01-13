@@ -1,7 +1,6 @@
 ---
 book:
   author: Robin Hobb
-  cover_image: assassins-apprentice.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780006480099-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1995'
   series: Farseer Trilogy
   series_position: '1'
-  slug: assassins-apprentice
   spine_color: '#8d9483'
   tags:
   - fantasy
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2016-10-11
-  did_not_finish: false
   rating: 4
 ---
 

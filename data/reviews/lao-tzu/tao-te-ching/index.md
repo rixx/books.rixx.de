@@ -1,7 +1,6 @@
 ---
 book:
   author: Lao Tzu
-  cover_image: tao-te-ching.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781570623950-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781570623950'
   pages: 125
   publication_year: '-600'
-  slug: tao-te-ching
   spine_color: '#1d3848'
   tags:
   - five-stars
@@ -25,7 +23,6 @@ plan:
 review:
   date_read:
   - 2020-03-26
-  did_not_finish: false
   rating: 5
   tldr: The Ursula K. le Guin rendition of the Tao Te Ching was an excellent read.
 social:

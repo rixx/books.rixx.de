@@ -1,7 +1,6 @@
 ---
 book:
   author: Ada Palmer
-  cover_image: the-will-to-battle.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484321667l/33517544._SX98_.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2017'
   series: Terra Ignota
   series_position: '3'
-  slug: the-will-to-battle
   spine_color: '#6d91c0'
   tags:
   - five-stars
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-07-15
-  did_not_finish: false
   rating: 5
 ---
 

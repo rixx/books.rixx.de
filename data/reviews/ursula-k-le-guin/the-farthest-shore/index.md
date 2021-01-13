@@ -1,7 +1,6 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image: the-farthest-shore.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416509646-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1972'
   series: Earthsea Cycle
   series_position: '3'
-  slug: the-farthest-shore
   spine_color: '#597a6d'
   tags:
   - fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2018-02-22
-  did_not_finish: false
   rating: 4
 ---
 

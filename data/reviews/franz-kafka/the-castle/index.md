@@ -1,7 +1,6 @@
 ---
 book:
   author: Franz Kafka
-  cover_image: the-castle.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780805211061-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780805211061'
   pages: 328
   publication_year: '1922'
-  slug: the-castle
   spine_color: '#181d53'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2009-11-01
-  did_not_finish: false
   rating: 3
 ---

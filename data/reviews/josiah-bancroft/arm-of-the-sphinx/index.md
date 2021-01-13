@@ -1,7 +1,6 @@
 ---
 book:
   author: Josiah Bancroft
-  cover_image: arm-of-the-sphinx.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509574820l/35959733.jpg
   goodreads: '35959733'
   isbn10: 031651795X
@@ -10,7 +9,6 @@ book:
   publication_year: '2014'
   series: The Books of Babel
   series_position: '2'
-  slug: arm-of-the-sphinx
   spine_color: '#eadecd'
   tags:
   - fantasy

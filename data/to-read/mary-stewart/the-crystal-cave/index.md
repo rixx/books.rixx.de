@@ -1,7 +1,6 @@
 ---
 book:
   author: Mary  Stewart
-  cover_image: the-crystal-cave.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060548254-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1970'
   series: Arthurian Saga
   series_position: '1'
-  slug: the-crystal-cave
   spine_color: '#e0b973'
   title: The Crystal Cave
 plan:

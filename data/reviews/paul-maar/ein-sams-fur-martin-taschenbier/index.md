@@ -1,7 +1,6 @@
 ---
 book:
   author: Paul Maar
-  cover_image: ein-sams-fur-martin-taschenbier.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783789142109-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1996'
   series: Sams
   series_position: '4'
-  slug: ein-sams-fur-martin-taschenbier
   spine_color: '#ea5b1d'
   tags:
   - german
@@ -34,7 +32,6 @@ related_books:
 review:
   date_read:
   - 2001-08-01
-  did_not_finish: false
   rating: 3
 ---
 

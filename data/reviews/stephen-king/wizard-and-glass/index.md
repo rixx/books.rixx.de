@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: wizard-and-glass.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780340829783-L.jpg
   dimensions:
     height: 23.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1997'
   series: The Dark Tower
   series_position: '4'
-  slug: wizard-and-glass
   spine_color: '#584971'
   title: Wizard and Glass
 plan:
@@ -27,7 +25,6 @@ related_books:
 review:
   date_read:
   - 2017-06-16
-  did_not_finish: false
   rating: 4
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: thud.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY160_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2005'
   series: Discworld
   series_position: '34'
-  slug: thud
   spine_color: '#58596f'
   title: Thud!
 plan:
@@ -25,7 +23,7 @@ related_books:
 review:
   date_read:
   - 2009-04-01
-  did_not_finish: false
   rating: 4
 ---
+
 It's not Night Watch, but not every Vimes book can be Night Watch.

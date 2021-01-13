@@ -1,7 +1,6 @@
 ---
 book:
   author: Adam B. Seligman, Robert P. Weller, Michael Puett
-  cover_image: ritual-and-its-consequences.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780195336016-L.jpg
   goodreads: '3061109'
   isbn10: 0195336011
@@ -10,7 +9,6 @@ book:
   publication_year: '2008'
   series: 'Ritual and Its Consequences: An Essay on the Limits of Sincerity'
   series_position: ''
-  slug: ritual-and-its-consequences
   spine_color: '#a0a0a0'
   tags:
   - nonfiction

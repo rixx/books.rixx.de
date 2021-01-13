@@ -1,12 +1,10 @@
 ---
 book:
   author: Sheila Williams
-  cover_image: asimovs-science-fiction-september-october-2017.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504371081l/36067380._SX98_.jpg
   goodreads: '36067380'
   pages: '212'
   publication_year: '2017'
-  slug: asimovs-science-fiction-september-october-2017
   spine_color: '#e1e9df'
   title: Asimov's Science Fiction, September/October 2017
 plan:
@@ -14,7 +12,6 @@ plan:
 review:
   date_read:
   - 2018-02-24
-  did_not_finish: false
   rating: 4
 ---
 

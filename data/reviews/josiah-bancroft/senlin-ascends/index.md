@@ -1,7 +1,6 @@
 ---
 book:
   author: Josiah Bancroft
-  cover_image: senlin-ascends.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780316517911-L.jpg
   dimensions:
     height: 18
@@ -12,7 +11,6 @@ book:
   publication_year: '2013'
   series: The Books of Babel
   series_position: '1'
-  slug: senlin-ascends
   spine_color: '#462221'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ related_books: []
 review:
   date_read:
   - 2019-07-07
-  did_not_finish: false
   rating: 4
 ---
 

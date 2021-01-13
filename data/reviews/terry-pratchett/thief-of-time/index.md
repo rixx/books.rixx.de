@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: thief-of-time.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061031328-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2001'
   series: Discworld
   series_position: '26'
-  slug: thief-of-time
   spine_color: '#b37e48'
   title: Thief of Time
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2006-07-01
-  did_not_finish: false
   rating: 4
 ---

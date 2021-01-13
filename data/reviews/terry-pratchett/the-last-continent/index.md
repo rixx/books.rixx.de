@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-last-continent.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332672492l/47994._SX98_.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1998'
   series: Discworld
   series_position: '22'
-  slug: the-last-continent
   spine_color: '#8c8a87'
   title: The Last Continent
 plan:
@@ -27,6 +25,5 @@ related_books:
 review:
   date_read:
   - 2009-05-01
-  did_not_finish: false
   rating: 3
 ---

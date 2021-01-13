@@ -1,7 +1,6 @@
 ---
 book:
   author: Rachel Hoffman
-  cover_image: unfck-your-habitat-youre-better-than-your-mess.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466048026l/29939402._SX98_.jpg
   dimensions:
     height: 21.9
@@ -12,9 +11,8 @@ book:
   isbn13: '9781250102959'
   pages: 224
   publication_year: '2017'
-  slug: unfck-your-habitat
   spine_color: '#c1bc6a'
-  title: 'Unf*ck Your Habitat'
+  title: Unf*ck Your Habitat
 plan:
   date_added: 2020-06-07
 ---

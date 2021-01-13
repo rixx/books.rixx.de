@@ -1,7 +1,6 @@
 ---
 book:
   author: Jim Butcher
-  cover_image: turn-coat.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027128l/3475161._SX98_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: The Dresden Files
   series_position: '11'
-  slug: turn-coat
   spine_color: '#b9613b'
   tags:
   - urban-fantasy
@@ -31,9 +29,9 @@ related_books:
 review:
   date_read:
   - 2014-05-01
-  did_not_finish: false
   rating: 3
 ---
+
 Completely predictable, but you don't read these books for the plot. Or the characters. You read them because you are
 into stock badass-but-broken characters, so you'll like this one just as well. Even if you can only tell it from the
 others because the title is even more descriptive of the story than on average.

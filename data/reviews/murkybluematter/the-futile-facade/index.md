@@ -7,7 +7,6 @@ book:
   publication_year: null
   series: Rigel Black
   series_position: '4'
-  slug: the-futile-facade
   tags:
   - fanfic
   title: The Futile Facade
@@ -21,6 +20,5 @@ related_books:
 review:
   date_read:
   - 2019-02-08
-  did_not_finish: false
   rating: 3
 ---

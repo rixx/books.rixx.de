@@ -1,7 +1,6 @@
 ---
 book:
   author: Andrea Wulf
-  cover_image: the-invention-of-nature-alexander-von-humboldts-new-world.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780385350662-L.jpg
   dimensions:
     height: 25.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780385350662'
   pages: 473
   publication_year: '2015'
-  slug: the-invention-of-nature-alexander-von-humboldts-new-world
   spine_color: '#695748'
   title: 'The Invention of Nature: Alexander von Humboldt''s New World'
 plan:

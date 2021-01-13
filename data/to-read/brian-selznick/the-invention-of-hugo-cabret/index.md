@@ -1,7 +1,6 @@
 ---
 book:
   author: Brian Selznick
-  cover_image: the-invention-of-hugo-cabret.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780439813785-L.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780439813785'
   pages: 533
   publication_year: '2007'
-  slug: the-invention-of-hugo-cabret
   spine_color: '#127bb5'
   title: The Invention of Hugo Cabret
 plan:

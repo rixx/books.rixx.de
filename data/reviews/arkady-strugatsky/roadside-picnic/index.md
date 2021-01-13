@@ -1,14 +1,12 @@
 ---
 book:
   author: Arkady Strugatsky
-  cover_image: roadside-picnic.jpg
   cover_image_url: https://drop.rixx.de/aT0H/
   goodreads: '331256'
   isbn10: '0575070536'
   isbn13: '9780575070530'
   pages: '145'
   publication_year: '1972'
-  slug: roadside-picnic
   spine_color: '#dbd19b'
   tags:
   - german
@@ -19,7 +17,6 @@ plan:
 review:
   date_read:
   - 2020-08-03
-  did_not_finish: false
   rating: 4
 ---
 

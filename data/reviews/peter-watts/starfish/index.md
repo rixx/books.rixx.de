@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter Watts
-  cover_image: starfish.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388530597l/66479.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1999'
   series: Rifters
   series_position: '1'
-  slug: starfish
   spine_color: '#36718f'
   tags:
   - scifi
@@ -24,7 +22,6 @@ plan:
 review:
   date_read:
   - 2018-02-26
-  did_not_finish: false
   rating: 2
 ---
 

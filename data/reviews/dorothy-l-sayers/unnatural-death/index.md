@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: unnatural-death.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780061043581-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1927'
   series: Lord Peter Wimsey
   series_position: '3'
-  slug: unnatural-death
   spine_color: '#332d4c'
   tags:
   - mystery
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2019-12-25
-  did_not_finish: false
   rating: 2
 ---
 

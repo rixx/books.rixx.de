@@ -1,7 +1,6 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image: nemesis-games.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407524221l/22886612._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2015'
   series: The Expanse
   series_position: '5'
-  slug: nemesis-games
   spine_color: '#866a64'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2018-09-12
-  did_not_finish: false
   rating: 5
 ---
 

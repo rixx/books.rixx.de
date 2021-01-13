@@ -1,14 +1,12 @@
 ---
 book:
   author: Philip K. Dick
-  cover_image: flow-my-tears-the-policeman-said.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781857983418-L.jpg
   goodreads: '22584'
   isbn10: '1857983416'
   isbn13: '9781857983418'
   pages: '204'
   publication_year: '1974'
-  slug: flow-my-tears-the-policeman-said
   spine_color: '#c65a55'
   tags:
   - scifi
@@ -18,7 +16,6 @@ plan:
 review:
   date_read:
   - 2016-12-08
-  did_not_finish: false
   rating: 3
 ---
 

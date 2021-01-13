@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: the-vor-game.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671720148-L.jpg
   dimensions:
     height: 18.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '6'
-  slug: the-vor-game
   spine_color: '#8d6a57'
   tags:
   - scifi
@@ -32,7 +30,6 @@ review:
   date_read:
   - 2018-08-16
   - 2020-08-20
-  did_not_finish: false
   rating: 4
 ---
 

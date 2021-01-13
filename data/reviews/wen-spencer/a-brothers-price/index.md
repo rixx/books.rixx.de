@@ -1,7 +1,6 @@
 ---
 book:
   author: Wen Spencer
-  cover_image: a-brothers-price.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780451460387-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780451460387'
   pages: 310
   publication_year: '2005'
-  slug: a-brothers-price
   spine_color: '#da8e49'
   tags:
   - fantasy
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-04-30
-  did_not_finish: false
   rating: 4
   tldr: Excellent comfort food. Fantasy romance with gender role inversion – think
     regency meets wild west. Intelligent inversion, with all kinds of social adjustments.

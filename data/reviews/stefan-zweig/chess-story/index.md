@@ -1,7 +1,6 @@
 ---
 book:
   author: Stefan Zweig
-  cover_image: chess-story.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781590171691-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781590171691'
   pages: 104
   publication_year: '1942'
-  slug: chess-story
   spine_color: '#79674e'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2007-06-01
-  did_not_finish: false
   rating: 3
 ---

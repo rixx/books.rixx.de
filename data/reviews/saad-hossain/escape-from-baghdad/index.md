@@ -1,7 +1,6 @@
 ---
 book:
   author: Saad Hossain
-  cover_image: escape-from-baghdad.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417045270l/23013966._SX98_.jpg
   dimensions:
     height: 22.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9781939419248'
   pages: 304
   publication_year: '2012'
-  slug: escape-from-baghdad
   spine_color: '#65232d'
   tags:
   - historical-fiction

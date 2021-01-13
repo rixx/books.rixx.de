@@ -1,7 +1,6 @@
 ---
 book:
   author: Peter V. Brett
-  cover_image: the-desert-spear.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388219761l/6736971.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2010'
   series: Demon Cycle
   series_position: '2'
-  slug: the-desert-spear
   spine_color: '#7c7b65'
   tags:
   - fantasy
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-06-24
-  did_not_finish: false
   rating: 3
 ---
 

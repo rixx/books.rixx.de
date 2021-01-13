@@ -1,7 +1,6 @@
 ---
 book:
   author: John Bierce
-  cover_image: a-traitor-in-skyhold.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566256267l/49234048._SX318_SY475_.jpg
   goodreads: '49234048'
   isbn10: null
@@ -10,7 +9,6 @@ book:
   publication_year: '2019'
   series: Mage Errant
   series_position: '3'
-  slug: a-traitor-in-skyhold
   spine_color: '#dcbc4a'
   tags:
   - fantasy

@@ -1,7 +1,6 @@
 ---
 book:
   author: Diana Wynne Jones
-  cover_image: dark-lord-of-derkholm.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575075368-L.jpg
   dimensions:
     height: 17.8
@@ -14,7 +13,6 @@ book:
   publication_year: '1998'
   series: Derkholm
   series_position: '1'
-  slug: dark-lord-of-derkholm
   spine_color: '#6c5f5d'
   tags:
   - fantasy

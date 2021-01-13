@@ -1,7 +1,6 @@
 ---
 book:
   author: Martha Wells
-  cover_image: rogue-protocol.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2018'
   series: The Murderbot Diaries
   series_position: '3'
-  slug: rogue-protocol
   spine_color: '#bfc5ca'
   tags:
   - scifi
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2019-01-04
-  did_not_finish: false
   rating: 4
 ---
 

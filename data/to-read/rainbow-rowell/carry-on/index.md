@@ -1,7 +1,6 @@
 ---
 book:
   author: Rainbow Rowell
-  cover_image: carry-on.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781250135025-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Simon Snow
   series_position: '1'
-  slug: carry-on
   spine_color: '#794a6f'
   title: Carry On
 plan:

@@ -5,7 +5,6 @@ book:
   isbn10: '9998070015'
   isbn13: '9789998070011'
   publication_year: '1958'
-  slug: the-feeling-of-power
   tags:
   - scifi
   title: The Feeling of Power
@@ -14,7 +13,6 @@ plan:
 review:
   date_read:
   - 2018-07-15
-  did_not_finish: false
   rating: 3
 ---
 

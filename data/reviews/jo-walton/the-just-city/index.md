@@ -1,7 +1,6 @@
 ---
 book:
   author: Jo Walton
-  cover_image: the-just-city.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448145l/22055276._SX98_.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2015'
   series: Thessaly
   series_position: '1'
-  slug: the-just-city
   spine_color: '#baa286'
   tags:
   - fanfic
@@ -26,7 +24,6 @@ plan:
 review:
   date_read:
   - 2020-03-10
-  did_not_finish: false
   rating: 2
   tldr: Plato fanfic gently mocking the Republic for being unrealistic. Ironically
     felt very cerebral, nearly clinical, and I wanted to like it more than I actually

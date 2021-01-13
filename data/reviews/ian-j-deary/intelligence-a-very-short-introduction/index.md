@@ -1,7 +1,6 @@
 ---
 book:
   author: Ian J. Deary
-  cover_image: intelligence-a-very-short-introduction.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780192893215-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780192893215'
   pages: 148
   publication_year: '2001'
-  slug: intelligence-a-very-short-introduction
   spine_color: '#b7c360'
   tags:
   - nonfiction
@@ -23,7 +21,6 @@ plan:
 review:
   date_read:
   - 2020-05-09
-  did_not_finish: false
   rating: 4
 ---
 

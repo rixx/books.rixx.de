@@ -1,7 +1,6 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image: memory.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460274588l/61880._SX98_.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   publication_year: '1996'
   series: Vorkosigan Saga
   series_position: '10'
-  slug: memory
   spine_color: '#b55339'
   tags:
   - five-stars
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2019-08-07
-  did_not_finish: false
   rating: 5
 ---
 

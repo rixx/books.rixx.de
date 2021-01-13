@@ -1,7 +1,6 @@
 ---
 book:
   author: Charles Stross
-  cover_image: the-nightmare-stacks.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780356505343-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2016'
   series: Laundry Files
   series_position: '7'
-  slug: the-nightmare-stacks
   spine_color: '#8e2e73'
   tags:
   - urban-fantasy
@@ -31,7 +29,6 @@ related_books:
 review:
   date_read:
   - 2016-10-02
-  did_not_finish: false
   rating: 3
 ---
 

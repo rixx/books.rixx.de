@@ -1,7 +1,6 @@
 ---
 book:
   author: Eugene T. Gendlin
-  cover_image: focusing.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390966073l/666175.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780553278330'
   pages: 224
   publication_year: '1978'
-  slug: focusing
   spine_color: '#c08645'
   tags:
   - nonfiction
@@ -21,16 +19,17 @@ book:
   title: Focusing
 plan:
   date_added: '2019-07-15'
+related_books:
+- book: tsultrim-allione/feeding-your-demons
+  text: If you're less into verbal approaches and more into visualisation, Feeding
+    Your Demons does something very similar to Focusing
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: 'One of Harry''s favourite quotes is from Focusing: What is true is already
+    so, etc.'
 review:
   date_read:
   - 2019-07-15
-  did_not_finish: false
   rating: 2
-related_books:
-- book: tsultrim-allione/feeding-your-demons
-  text: If you're less into verbal approaches and more into visualisation, Feeding Your Demons does something very similar to Focusing
-- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
-  text: One of Harry's favourite quotes is from Focusing: What is true is already so, etc.
 ---
 
 Focusing by *Eugene T. Gendlin* was my first book I really wanted to give up on this year. I'm always very hesitant to

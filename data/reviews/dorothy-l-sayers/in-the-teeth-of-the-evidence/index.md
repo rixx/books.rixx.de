@@ -1,7 +1,6 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image: in-the-teeth-of-the-evidence.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533082998l/41017496._SX98_.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   publication_year: '1933'
   series: Lord Peter Wimsey
   series_position: '14'
-  slug: in-the-teeth-of-the-evidence
   spine_color: '#eaaa4b'
   tags:
   - german
@@ -28,7 +26,6 @@ related_books:
 review:
   date_read:
   - 2020-05-09
-  did_not_finish: false
   rating: 2
 ---
 

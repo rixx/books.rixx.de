@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: wintersmith.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060890315-L.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2006'
   series: Discworld
   series_position: '35'
-  slug: wintersmith
   spine_color: '#361f1b'
   tags:
   - five-stars
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2010-03-01
-  did_not_finish: false
   rating: 5
 ---

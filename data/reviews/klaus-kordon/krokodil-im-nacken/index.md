@@ -1,7 +1,6 @@
 ---
 book:
   author: Klaus Kordon
-  cover_image: krokodil-im-nacken.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783407808936-L.jpg
   dimensions:
     height: 22.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9783407808936'
   pages: 796
   publication_year: '2002'
-  slug: krokodil-im-nacken
   spine_color: '#ec641a'
   tags:
   - german
@@ -22,6 +20,5 @@ plan:
 review:
   date_read:
   - 2010-05-01
-  did_not_finish: false
   rating: 4
 ---

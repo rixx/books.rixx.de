@@ -1,7 +1,6 @@
 ---
 book:
   author: Jostein Gaarder
-  cover_image: sophies-world.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781857993288-L.jpg
   dimensions:
     height: 20.0
@@ -10,7 +9,6 @@ book:
   isbn13: '9781857993288'
   pages: 403
   publication_year: '1991'
-  slug: sophies-world
   spine_color: '#951f14'
   tags:
   - german
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2003-11-01
-  did_not_finish: false
   rating: 4
 ---

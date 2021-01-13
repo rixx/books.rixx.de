@@ -1,7 +1,6 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image: matter.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781841494180-L.jpg
   dimensions:
     height: 20.0
@@ -12,7 +11,6 @@ book:
   publication_year: '2008'
   series: Culture
   series_position: '8'
-  slug: matter
   spine_color: '#a45b22'
   tags:
   - scifi
@@ -29,7 +27,6 @@ related_books:
 review:
   date_read:
   - 2018-10-27
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Christopher Paolini
-  cover_image: eldest.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780375840401-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2005'
   series: The Inheritance Cycle
   series_position: '2'
-  slug: eldest
   spine_color: '#be3c56'
   tags:
   - fantasy
@@ -30,6 +28,5 @@ related_books:
 review:
   date_read:
   - 2008-02-01
-  did_not_finish: false
   rating: 2
 ---

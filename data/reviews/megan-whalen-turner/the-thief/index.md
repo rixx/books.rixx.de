@@ -1,7 +1,6 @@
 ---
 book:
   author: Megan Whalen Turner
-  cover_image: the-thief.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060824976-L.jpg
   goodreads: '448873'
   isbn10: 0060824972
@@ -10,7 +9,6 @@ book:
   publication_year: '1996'
   series: The Queen's Thief
   series_position: '1'
-  slug: the-thief
   spine_color: '#786c63'
   tags:
   - fantasy
@@ -20,7 +18,6 @@ plan:
 review:
   date_read:
   - 2019-07-07
-  did_not_finish: false
   rating: 3
 ---
 

@@ -1,7 +1,6 @@
 ---
 book:
   author: Marc-Uwe Kling
-  cover_image: die-kanguru-chroniken-ansichten-eines-vorlauten-beuteltiers.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783548372570-L.jpg
   dimensions:
     height: 19.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2009'
   series: Die Känguru-Chroniken
   series_position: '1'
-  slug: die-kanguru-chroniken
   spine_color: '#a7b60a'
   tags:
   - german
@@ -28,6 +26,5 @@ related_books:
 review:
   date_read:
   - 2012-05-01
-  did_not_finish: false
   rating: 3
 ---

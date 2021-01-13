@@ -1,14 +1,12 @@
 ---
 book:
   author: Ralf Isau
-  cover_image: pala-und-die-seltsame-verfluchtigung-der-worte.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999339l/1692783._SX318_.jpg
   goodreads: '1692783'
   isbn10: '3404154126'
   isbn13: '9783404154128'
   pages: '445'
   publication_year: '2002'
-  slug: pala-und-die-seltsame-verfluchtigung-der-worte
   spine_color: '#c2a977'
   tags:
   - fantasy
@@ -20,6 +18,5 @@ plan:
 review:
   date_read:
   - 2004-11-01
-  did_not_finish: false
   rating: 4
 ---

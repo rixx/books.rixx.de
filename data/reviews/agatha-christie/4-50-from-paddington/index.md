@@ -1,7 +1,6 @@
 ---
 book:
   author: Agatha Christie
-  cover_image: 4-50-from-paddington.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781579126933-L.jpg
   dimensions:
     height: 22.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1957'
   series: Miss Marple
   series_position: '7'
-  slug: 4-50-from-paddington
   spine_color: '#ddca4a'
   tags:
   - mystery
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2004-05-01
-  did_not_finish: false
   rating: 3
 ---

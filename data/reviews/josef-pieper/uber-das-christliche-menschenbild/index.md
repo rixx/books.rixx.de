@@ -1,14 +1,12 @@
 ---
 book:
   author: Josef Pieper
-  cover_image: uber-das-christliche-menschenbild-kriterien.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566810569l/49229009._SX318_SY475_.jpg
   goodreads: '49229009'
   isbn10: '3894113286'
   isbn13: '9783894113285'
   pages: 70
   publication_year: null
-  slug: uber-das-christliche-menschenbild
   spine_color: '#e9ca39'
   tags:
   - nonfiction

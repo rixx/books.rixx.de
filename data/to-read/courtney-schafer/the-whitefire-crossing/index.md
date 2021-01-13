@@ -1,7 +1,6 @@
 ---
 book:
   author: Courtney Schafer
-  cover_image: the-whitefire-crossing.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781597802833-L.jpg
   dimensions:
     height: 22.9
@@ -14,7 +13,6 @@ book:
   publication_year: '2011'
   series: Shattered Sigil
   series_position: '1'
-  slug: the-whitefire-crossing
   spine_color: '#544045'
   title: The Whitefire Crossing
 plan:

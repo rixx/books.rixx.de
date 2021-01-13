@@ -1,14 +1,12 @@
 ---
 book:
   author: Jostein Gaarder
-  cover_image: der-geschichtenverkaufer.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180350974l/1029309.jpg
   goodreads: '1029309'
   isbn10: '3423132507'
   isbn13: '9783423132503'
   pages: '272'
   publication_year: '2000'
-  slug: der-geschichtenverkaufer
   spine_color: '#d8b1a4'
   tags:
   - german
@@ -18,6 +16,5 @@ plan:
 review:
   date_read:
   - 2007-10-01
-  did_not_finish: false
   rating: 3
 ---

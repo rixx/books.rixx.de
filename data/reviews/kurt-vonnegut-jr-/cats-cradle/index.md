@@ -1,7 +1,6 @@
 ---
 book:
   author: Kurt Vonnegut Jr.
-  cover_image: cats-cradle.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140285604-L.jpg
   dimensions:
     height: 18.0
@@ -12,7 +11,6 @@ book:
   isbn13: '9780140285604'
   pages: 306
   publication_year: '1963'
-  slug: cats-cradle
   spine_color: '#3c4675'
   tags:
   - scifi
@@ -22,7 +20,6 @@ plan:
 review:
   date_read:
   - 2020-05-17
-  did_not_finish: false
   rating: 3
 ---
 

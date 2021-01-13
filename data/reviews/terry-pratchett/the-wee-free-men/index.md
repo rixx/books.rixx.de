@@ -1,7 +1,6 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image: the-wee-free-men.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443764106l/34494._SY160_.jpg
   dimensions:
     height: 20.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: Discworld
   series_position: '30'
-  slug: the-wee-free-men
   spine_color: '#426980'
   tags:
   - five-stars
@@ -31,6 +29,5 @@ related_books:
 review:
   date_read:
   - 2010-07-01
-  did_not_finish: false
   rating: 5
 ---

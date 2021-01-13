@@ -1,12 +1,10 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image: snow-glass-apples.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1244181275l/6366271.jpg
   goodreads: '6366271'
   pages: '25'
   publication_year: '1995'
-  slug: snow-glass-apples
   spine_color: '#d0b7b6'
   tags:
   - fantasy
@@ -16,7 +14,6 @@ plan:
 review:
   date_read:
   - 2018-06-11
-  did_not_finish: false
   rating: 4
 ---
 

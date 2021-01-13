@@ -1,7 +1,6 @@
 ---
 book:
   author: Fonda Lee
-  cover_image: jade-city.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513357590l/34606064._SX98_.jpg
   dimensions:
     height: 25.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2017'
   series: The Green Bone Saga
   series_position: '1'
-  slug: jade-city
   spine_color: '#67ec25'
   title: Jade City
 plan:

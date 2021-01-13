@@ -1,7 +1,6 @@
 ---
 book:
   author: Kai Meyer
-  cover_image: merle-und-die-fliessende-konigin.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172072564l/135887.jpg
   goodreads: '135887'
   isbn10: '3785539282'
@@ -9,7 +8,6 @@ book:
   publication_year: '2003'
   series: Merle-Trilogie
   series_position: '1'
-  slug: merle-und-die-fliessende-konigin
   spine_color: '#8e9fbc'
   tags:
   - fantasy
@@ -21,6 +19,5 @@ plan:
 review:
   date_read:
   - 2009-03-01
-  did_not_finish: false
   rating: 4
 ---

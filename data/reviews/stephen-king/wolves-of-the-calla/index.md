@@ -1,7 +1,6 @@
 ---
 book:
   author: Stephen King
-  cover_image: wolves-of-the-calla.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781416516934-L.jpg
   dimensions:
     height: 23.0
@@ -14,7 +13,6 @@ book:
   publication_year: '2003'
   series: The Dark Tower
   series_position: '5'
-  slug: wolves-of-the-calla
   spine_color: '#a88e52'
   tags:
   - fantasy
@@ -32,7 +30,6 @@ related_books:
 review:
   date_read:
   - 2017-06-20
-  did_not_finish: false
   rating: 5
 ---
 

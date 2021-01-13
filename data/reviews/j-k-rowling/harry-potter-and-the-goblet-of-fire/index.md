@@ -1,7 +1,6 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image: harry-potter-and-the-goblet-of-fire.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg
   dimensions:
     height: 24.0
@@ -10,7 +9,6 @@ book:
   publication_year: '2000'
   series: Harry Potter
   series_position: '4'
-  slug: harry-potter-and-the-goblet-of-fire
   spine_color: '#c1824c'
   tags:
   - fantasy
@@ -29,9 +27,9 @@ related_books:
 review:
   date_read:
   - 2001-03-01
-  did_not_finish: false
   rating: 3
 ---
+
 This was the first Harry Potter book that I read while it was still pretty new. That was a novel experience for me:
 Pretty much all of my books up to that point had been old, or at least definitely not new. Reading an ongoing series was
 exciting. I don't remember much speculation about what would happen next, except for some recurring "Is Snape good or

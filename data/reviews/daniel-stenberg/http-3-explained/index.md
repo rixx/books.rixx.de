@@ -1,11 +1,9 @@
 ---
 book:
   author: Daniel Stenberg
-  cover_image: http-3-explained.jpg
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547455205l/43560466._SX98_.jpg
   goodreads: '43560466'
   publication_year: 2018
-  slug: http-3-explained
   source: https://http3-explained.haxx.se/en/
   spine_color: '#e38e2a'
   tags:
@@ -17,7 +15,6 @@ plan:
 review:
   date_read:
   - 2020-01-12
-  did_not_finish: false
   rating: 4
   tldr: An overview over HTTP/3 by the developer of curl. Fairly short and informative,
     and includes a helpful amount of history and reasoning. A good way to find out

@@ -1,7 +1,6 @@
 ---
 book:
   author: Walter M. Miller Jr.
-  cover_image: a-canticle-for-leibowitz.jpg
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060892999-L.jpg
   dimensions:
     height: 21.0
@@ -14,7 +13,6 @@ book:
   publication_year: '1959'
   series: St. Leibowitz
   series_position: '1'
-  slug: a-canticle-for-leibowitz
   spine_color: '#dab462'
   title: A Canticle for Leibowitz
 plan:
