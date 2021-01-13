@@ -94,8 +94,6 @@ class Review:
             self.text = text
         else:
             raise Exception(f"A review needs metadata or a path! ({self.path})")
-        if not self.metadata["book"].get("slug"):
-            self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
 
     def _load_data_from_file(self, path=None):
         try:
@@ -108,6 +106,12 @@ class Review:
         self.text = post.content
         if not self.entry_type:
             self.entry_type = self.entry_type_from_path()
+
+    @cached_property
+    def slug(self):
+        if self.path:
+            return self.path.parent.name
+        return slugify(self.metadata["book"]["title"])
 
     @property
     def isbn(self):
@@ -123,13 +127,13 @@ class Review:
             return result
         return dt.datetime.strptime(result, "%Y-%m-%d").date()
 
-    @property
+    @cached_property
     def author_slug(self):
         return slugify(self.metadata["book"]["author"])
 
-    @property
+    @cached_property
     def id(self):
-        return f"{self.author_slug}/{self.metadata['book']['slug']}"
+        return f"{self.author_slug}/{self.slug}"
 
     @property
     def first_paragraph(self):
@@ -242,9 +246,7 @@ class Review:
         self.save()
 
     def clean(self):
-        if not self.metadata["book"].get("slug"):
-            self.metadata["book"]["slug"] = slugify(self.metadata["book"]["title"])
-        required = ("title", "author", "slug")
+        required = ("title", "author")
         if any(not self.metadata["book"].get(key) for key in required):
             raise Exception("Missing required metadata in post")
 
@@ -264,7 +266,7 @@ class Review:
 
         if not force_new and self.cover_path:
             click.echo(
-                f"Cover for {self.metadata['book']['slug']} already exists, passing."
+                f"Cover for {self.slug} already exists, passing."
             )
             return
 
@@ -412,7 +414,11 @@ class Spine:
 
 def _load_entries(dirpath):
     for path in Path(dirpath).rglob("*.md"):
-        yield Review(path=path)
+        try:
+            yield Review(path=path)
+        except Exception as e:
+            print(f"Error loading {path}")
+            raise e
 
 
 def load_reviews():

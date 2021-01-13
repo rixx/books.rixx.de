@@ -361,7 +361,7 @@ def build_site(**kwargs):
             year = timestamp.strftime("%Y")
             redirects.append(
                 (
-                    f"reviews/{year}/{review.metadata['book']['slug']}",
+                    f"reviews/{year}/{review.slug}",
                     review.id,
                 )
             )

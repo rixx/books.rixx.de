@@ -124,6 +124,6 @@ def fix_duplicate_pics():
                 path.unlink()
         result = review.find_goodreads_scrape_cover(force_new=True)
         if result is False:
-            print(f'Failed to find a cover for {review.metadata["book"]["slug"]}')
+            print(f'Failed to find a cover for {review.slug}')
             review.metadata["book"].pop("cover_image_url", None)
         review.save()
