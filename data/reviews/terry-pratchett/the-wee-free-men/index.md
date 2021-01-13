@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: neil-gaiman/coraline
+  text: Another young heroine who has to save her family.
 - book: terry-pratchett/night-watch
   text: The previous book in the series.
 - book: terry-pratchett/monstrous-regiment

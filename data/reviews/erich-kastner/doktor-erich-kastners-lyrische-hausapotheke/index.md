@@ -14,8 +14,17 @@ book:
   title: Doktor Erich Kästners Lyrische Hausapotheke
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: erich-kastner/gedichte
+  text: More Kästner poems
+- book: erich-kastner/die-zeit-fahrt-auto
+  text: More Kästner poems
+- book: wilhelm-busch/max-und-moritz
+  text: In some of his best moments, Kästner sounds like Busch.
 review:
   date_read:
   - 2008-06-01
   rating: 4
 ---
+More Kästner poems, these here designed to help you during your everyday life. And – surprisingly – they do. Well, some
+of them do, but that's how every collection of poem works.

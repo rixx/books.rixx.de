@@ -12,6 +12,9 @@ book:
   title: Die Weimarer Republik
 plan:
   date_added: '2017-11-16'
+related_books:
+- book: klaus-kordon/mit-dem-rucken-zur-wand
+  text: Literary YA about this time.
 review:
   date_read:
   - 2018-02-10

@@ -19,11 +19,23 @@ book:
   title: Emil and the Detectives
 plan:
   date_added: '2015-08-06'
+related_book:
+- book: astrid-lindgren/kalle-blomquist
+  text: Another junior detective.
+- book: otfried-preussler/der-rauber-hotzenplotz
+  text: Less serious, but also kids taking it upon themselves to deal with criminal adults.
+- book: erich-kastner/das-fliegende-klassenzimmer
+  text: Also has children who have to deal with all sorts of trouble on their own.
+- book: erich-kastner/punktchen-und-anton
+  text: Emil and Anton are the same person.
 review:
   date_read:
   - 2004-12-01
   rating: 5
 ---
+Charming adventures in Berlin of the 1920s? Children taking on adults together? Wild chases and solidarity? All this,
+and more. Emil is infinitely relatable as he travels to the big city, is robbed and tries to recover the money. Emil is
+just a good kid in a bad situation, and seeing him grow and manage to muddle through and make friends is heart-warming.
 
 ## Fun Fact
 

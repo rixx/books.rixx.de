@@ -18,8 +18,18 @@ book:
   title: Gedichte
 plan:
   date_added: '2015-08-06'
+related_books:
+- book: erich-kastner/doktor-erich-kastners-lyrische-hausapotheke
+  text: More Kästner poems
+- book: erich-kastner/die-zeit-fahrt-auto
+  text: More Kästner poems
+- book: wilhelm-busch/max-und-moritz
+  text: In some of his best moments, Kästner sounds like Busch.
 review:
   date_read:
   - 2009-10-01
   rating: 4
 ---
+I really really like Kästner's poems. They get dark, they get snarky, they are political, they don't stop for anybody,
+except for their author's sentimentality. He doesn't do sentimentality very well – but he knows it, and he can laugh
+about it.

@@ -16,10 +16,20 @@ book:
   title: The Strange Case of the Alchemist's Daughter
 plan:
   date_added: '2018-03-23'
+related_books:
+- book: robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde
+  text: One of the referenced books.
+- book: arthur-conan-doyle/sherlock-holmes
+  text: One of the referenced books.
 review:
   date_read:
   - 2019-08-06
   rating: 4
 ---
 
-The Strange Case of the Alchemist's Daughter by *Theodora Goss* was an absolute delight. It takes place in Victorian London, and we see the daughters of Dr Jekyll, Mr Hyde, Dr Moreau, and other classics of Victorian literature trying to unravel the mystery of their creation (in absence of their creators, who mostly died gruesome deaths, perfectly appropriate). It's a lovely book, perfectly well-written, utterly charming and entertaining, featuring a lot of well-researched facts. References are abound. If this is not the age or type of literature you feel comfortable with, it might not be the book for you, but otherwise, it's the very best of books for a relaxing read.
+The Strange Case of the Alchemist's Daughter by *Theodora Goss* was an absolute delight. It takes place in Victorian
+London, and we see the daughters of Dr Jekyll, Mr Hyde, Dr Moreau, and other classics of Victorian literature trying to
+unravel the mystery of their creation (in absence of their creators, who mostly died gruesome deaths, perfectly
+appropriate). It's a lovely book, perfectly well-written, utterly charming and entertaining, featuring a lot of
+well-researched facts. References are abound. If this is not the age or type of literature you feel comfortable with, it
+might not be the book for you, but otherwise, it's the very best of books for a relaxing read.

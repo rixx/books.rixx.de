@@ -15,10 +15,16 @@ book:
   title: The Strange Case of Dr. Jekyll and Mr. Hyde
 plan:
   date_added: '2015-04-17'
+related_books:
+- book: theodora-goss/the-strange-case-of-the-alchemists-daughter
+  text: Modern tie-in featuring Jekyll's daughter.
+- book: bram-stoker/dracula
+  text: Different horror, same period.
 review:
   date_read:
   - 2017-07-19
   rating: 3
 ---
 
-Well, popular culture sure spoiled this one, and everything it didn't get, the book's introduction did. Seriously, don't go spoiling plot points and character development in your introduction.
+Well, popular culture sure spoiled this one, and everything it didn't get, the book's introduction did. Seriously, don't
+go spoiling plot points and character development in your introduction.

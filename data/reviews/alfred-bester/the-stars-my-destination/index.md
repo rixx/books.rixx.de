@@ -17,6 +17,9 @@ book:
   title: The Stars My Destination
 plan:
   date_added: '2018-09-12'
+related_books:
+- book: alexandre-dumas/the-count-of-monte-cristo
+  text: Bester basically wrote Monte Cristo in space here.
 review:
   date_read:
   - 2019-05-05

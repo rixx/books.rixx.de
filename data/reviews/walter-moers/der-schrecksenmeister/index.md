@@ -19,7 +19,9 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
-- book: walter-moers/rumo-his-miraculous-adventures
+- book: george-r-r-martin/a-game-of-thrones
+  text: "Food porn enthusiasts: unite."
+- book: walter-moers/the-city-of-dreaming-books
   text: The previous book in the series.
 - book: walter-moers/das-labyrinth-der-traumenden-bucher
   text: The next book in the series.
@@ -30,3 +32,6 @@ review:
   - 2008-07-01
   rating: 2
 ---
+I wasn't the biggest fan of this book, possibly because I thought that I had to read the book it was satirising first. I
+didn't have to do that, and it wasn't a lot of fun. I was impressed with the food porn though – when Moers sets his mind
+to really describing something, you're going to notice.

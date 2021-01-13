@@ -25,6 +25,8 @@ related_books:
 - book: lewis-carroll/alice-in-wonderland
   text: If you have to fall into a fantasy world and don't care for morality, why
     not choose the other Lewis?
+- book: erich-kastner/der-35-mai-oder-konrad-reitet-in-die-sudsee
+  text: "Sharing the magical wardrobe leading children to a different world and talking animal. Not sharing: everything else."
 - book: lev-grossman/the-magicians
   text: See, somebody else doesn't like Lewis either!
 - book: c-s-lewis/prince-caspian

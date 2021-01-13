@@ -22,10 +22,19 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
-- book: walter-moers/ensel-und-krete-ein-marchen-aus-zamonien
+- book: walter-moers/the-city-of-dreaming-books
+  text: The Moers book that is closest in spirit.
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: Adams has a very similar sense of wimsy and absurdity as Moers.
+- book: walter-moers/ensel-und-krete
   text: The next book in the series.
 review:
   date_read:
   - 2006-05-01
   rating: 5
 ---
+This is where Moers proved he was a wizard. It's not his best book, but it's absolutely outstanding nevertheless. The
+tour through the 13½ lives of Cpt Bluebear is amazing, astounding, sparkling with fantastic ideas as if it had been
+written by 13 creative geniuses instead of just one.
+
+It's a good book is what I'm saying.

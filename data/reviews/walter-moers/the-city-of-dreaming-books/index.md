@@ -23,7 +23,13 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: umberto-eco/the-name-of-the-rose
-  text: Another book by and for booklovers.
+  text: Another book by and for booklovers, though more pretentious.
+- book: jasper-fforde/the-eyre-affair
+  text: Another book by and for booklovers, though more absurd.
+- book: walter-moers/rumo
+  text: The previous book in the series.
+- book: walter-moers/der-schrecksenmeister
+  text: The next book in the series.
 review:
   date_read:
   - 2007-11-01

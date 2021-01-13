@@ -21,10 +21,12 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: walter-moers/ensel-und-krete-ein-marchen-aus-zamonien
+- book: william-goldman/the-princess-bride
+  text: Same sense of trope-heavy wonderful adventure.
+- book: walter-moers/the-city-of-dreaming-books
+  text: The Zamonien book that is closest in spirit. Also the next book in the series.
+- book: walter-moers/ensel-und-krete
   text: The previous book in the series.
-- book: walter-moers/der-schrecksenmeister
-  text: The next book in the series.
 - book: walter-moers/the-13-12-lives-of-captain-bluebear
   text: The first book in the series.
 review:
@@ -32,3 +34,6 @@ review:
   - 2009-07-01
   rating: 4
 ---
+Rumo was a lot of fun. Not as grand as Bluebear, not as nerdy as the book city, but a very good take on adventure books
+noneteless. Hitting all the tropes without being unintentionally cheesy. Probably the closest you can come to The
+Princess Bride with non-human protagonists.

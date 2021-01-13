@@ -11,8 +11,17 @@ book:
   title: Die Zeit fährt Auto
 plan:
   date_added: '2015-08-06'
+related_books:
+- book: erich-kastner/gedichte
+  text: More Kästner poems
+- book: erich-kastner/doktor-erich-kastners-lyrische-hausapotheke
+  text: More Kästner poems
+- book: wilhelm-busch/max-und-moritz
+  text: In some of his best moments, Kästner sounds like Busch.
 review:
   date_read:
   - 2008-04-01
   rating: 4
 ---
+The first Kästner poems I ever read – overlaps with the others, but reading a Kästner poem twice is good for the soul,
+anyways.

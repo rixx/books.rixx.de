@@ -17,6 +17,8 @@ plan:
 related_books:
 - book: astrid-lindgren/pippi-langstrumpf
   text: More Lindgren goodness
+- book: astrid-lindgren/lotta-on-troublemaker-street
+  text: Lotta is very similar, except there are three children 
 review:
   date_read:
   - 2001-01-01

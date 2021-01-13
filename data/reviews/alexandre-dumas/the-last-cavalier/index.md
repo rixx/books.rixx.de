@@ -18,8 +18,15 @@ book:
     of Napoleon'
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: alexandre-dumas/the-count-of-monte-cristo
+  text: Strictly better Dumas.
 review:
   date_read:
   - 2005-12-01
   rating: 2
 ---
+Disappointing, but not surprising: I knew that Dumas had written a lot, and even his best works need a lot of
+compression to be readable. The count of Sainte-Hermine probably would not have been good even with much more work,
+though. With a *blatant* Mary Sue (much, much worse than Monte Cristo) and a meandering plot at best, finishing this
+book is an achievement that was not worth it. Trust me.

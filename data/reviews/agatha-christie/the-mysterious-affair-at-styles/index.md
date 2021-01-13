@@ -18,6 +18,10 @@ book:
 plan:
   date_added: 2020-06-14
 related_books:
+- book: dorothy-l-sayers/whose-body
+  text: Dorothy Sayers is another good mystery author of the time.
+- book: arthur-conan-doyle/sherlock-holmes
+  text: Another of the big mystery authors of the time.
 - book: agatha-christie/the-murder-of-roger-ackroyd
   text: The next book in the series.
 review:

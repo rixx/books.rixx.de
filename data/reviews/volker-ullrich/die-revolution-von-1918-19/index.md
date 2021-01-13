@@ -14,6 +14,9 @@ book:
   title: Die Revolution Von 1918/19
 plan:
   date_added: '2017-11-16'
+related_books:
+- book: klaus-kordon/die-roten-matrosen
+  text: Historical YA fiction taking place during the revolution.
 review:
   date_read:
   - 2017-11-16

@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: walter-moers/der-schrecksenmeister
+  text: "Food porn enthusiasts: unite."
 - book: george-r-r-martin/a-clash-of-kings
   text: The next book in the series.
 review:

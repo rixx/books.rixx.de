@@ -19,6 +19,9 @@ book:
   title: The Name of the Rose
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: walter-moers/the-city-of-dreaming-books
+  text: Another book for book lovers, though less pretentious. And less medieval. And completely different in every way.
 review:
   date_read:
   - 2004-04-01

@@ -24,9 +24,9 @@ related_books:
   text: Eins der referenzierten Zamonien-Bücher.
 - book: walter-moers/the-13-12-lives-of-captain-bluebear
   text: Eins der referenzierten Zamonien-Bücher.
-- book: walter-moers/rumo-his-miraculous-adventures
+- book: walter-moers/rumo
   text: Eins der referenzierten Zamonien-Bücher.
-- book: walter-moers/ensel-und-krete-ein-marchen-aus-zamonien
+- book: walter-moers/ensel-und-krete
   text: Eins der referenzierten Zamonien-Bücher.
 - book: walter-moers/das-labyrinth-der-traumenden-bucher
   text: Eins der referenzierten Zamonien-Bücher.

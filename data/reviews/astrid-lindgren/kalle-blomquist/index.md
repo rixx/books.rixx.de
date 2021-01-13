@@ -21,6 +21,10 @@ related_books:
 - book: cornelia-funke/herr-der-diebe
   text: If it doesn't have to be a detective book, The Thief Lord also features responsible-but-real
     wonderful kids on a mission.
+- book: erich-kastner/emil-and-the-detectives
+  text: Another junior detective.
+- book: arthur-conan-doyle/sherlock-holmes
+  text: The original master detective
 review:
   date_read:
   - 1998-09-01

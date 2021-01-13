@@ -17,9 +17,19 @@ book:
   - five-stars
   - german
   - kids
+  - portal
   title: Coraline
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
+  text: For more adventuring heroines in fantastic worlds, The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making is nice and less brutal.
+- book: terry-pratchett/the-wee-free-men
+  text: Pratchett's protagonist is more assertive, and the story is not a horror story, but the "girl takes action to save her family" part is similar.
+- book: neil-gaiman/the-graveyard-book
+  text: From Neil Gaiman, The Graveyard Book has a similar vibe.
+- book: neil-gaiman/the-ocean-at-the-end-of-the-lane
+  text: The Ocean at the End of the Lane also has a similar vibe, though it is geared a bit more towards adults.
 review:
   date_read:
   - 2003-02-01
@@ -41,11 +51,3 @@ real. The impression that the adult world is extremely weird and follows unforgi
 And as a child, I was very sure that adults could not actually protect themselves (sadly true) and felt seen by Coraline.
 
 Also, this book has forever coloured how I view cats.
-
-## Further Reading
-
-For more adventuring heroines in fantastic worlds, [The Girl Who Circumnavigated Fairyland in a Ship of Her Own
-Making](https://books.rixx.de/reviews/2016/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making) is nice
-and less brutal. From Neil Gaiman, [The Graveyard Book](https://books.rixx.de/reviews/2015/the-graveyard-book) has a
-similar vibe, as does [The Ocean at the End of the
-Lane](https://books.rixx.de/reviews/2015/the-ocean-at-the-end-of-the-lane) which is geared more towards adults.

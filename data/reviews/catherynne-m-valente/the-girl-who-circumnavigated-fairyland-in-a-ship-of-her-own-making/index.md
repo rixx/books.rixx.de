@@ -16,6 +16,9 @@ book:
   title: The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: neil-gaiman/coraline
+  text: For more heroines adventuring into fantastic worlds – though this one is more brutal.
 review:
   date_read:
   - 2016-10-20

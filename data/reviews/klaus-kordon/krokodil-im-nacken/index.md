@@ -17,8 +17,16 @@ book:
   title: Krokodil im Nacken
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: klaus-kordon/die-roten-matrosen
+  text: Better historical fiction by Kordon.
+- book: klaus-kordon/ein-trummersommer
+  text: Kordon's closest book chronologically.
 review:
   date_read:
   - 2010-05-01
   rating: 4
 ---
+Literary introduction to the horrors of the GDR and the Stasi. I don't remember the book well enough to say anything
+about its accuracy. Kordon usually tells well-researched stories that support the current narrative about past events,
+so that's what I'd expect. It's uncharacteristically long, and I don't remember much to justify the length.

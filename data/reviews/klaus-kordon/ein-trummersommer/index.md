@@ -17,8 +17,16 @@ book:
   title: Ein Trümmersommer
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: klaus-kordon/der-erste-fruhling
+  text: Another Kordon book playing in 1945.
+- book: klaus-kordon/krokodil-im-nacken
+  text: Kordon about what followed in the GDR.
 review:
   date_read:
   - 2006-04-01
   rating: 3
 ---
+Honestly, I've always preferred Kordon's other book on 1945, "Der erste Frühling". But if you don't want to read a
+trilogy, then this is the next best thing. Kordon is reliably good at making teenagers understand what teenagers in
+other times experienced.
