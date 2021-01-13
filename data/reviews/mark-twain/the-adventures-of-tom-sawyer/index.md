@@ -16,6 +16,7 @@ book:
   spine_color: '#5e632c'
   tags:
   - kids
+  - trickster
   title: The Adventures of Tom Sawyer
 plan:
   date_added: '2015-04-08'
@@ -27,4 +28,9 @@ review:
 related_books:
 - book: carlo-collodi/pinocchio
   text: If you would like more moralising with your mischievous and brutal childhood tales, Pinocchio is the place to go.
+- book: mark-twain/the-adventures-of-huckleberry-finn
+  text: The companion book.
 ---
+Probably my first trickster book – I reveled in how clever and witty Tom was. All his tricks, all his deals and feelings
+felt real and like something to aspire to. I even took his frequent bartering of small items and introduced it at
+school. It was great fun.

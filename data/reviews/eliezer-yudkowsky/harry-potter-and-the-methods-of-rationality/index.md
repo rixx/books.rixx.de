@@ -20,6 +20,9 @@ review:
   - 2014-11-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: eugene-t-gendlin/focusing
+  text: One of Harry's favourite quotes is from Focusing: What is true is already so, etc.
 ---
 
 HPMOR is both the best and the worst of rationalist fiction. Terrible, terrible writing, in a physically painful stilted

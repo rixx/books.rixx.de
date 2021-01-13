@@ -22,6 +22,9 @@ book:
   title: The Goblin Emperor
 plan:
   date_added: '2018-08-28'
+related_books:
+- book: janusz-korczak/king-matt-the-first
+  text: More lessons in how complex ruling is for unexperienced young kings. Much bleaker.
 review:
   date_read:
   - 2020-02-22

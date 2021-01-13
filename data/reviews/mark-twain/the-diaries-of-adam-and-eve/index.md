@@ -24,4 +24,8 @@ review:
   - 2006-01-01
   did_not_finish: false
   rating: 2
+related_books:
+- book: mark-twain/the-adventures-of-tom-sawyer
+  text: You can see hints of this stance towards religion in the Tom Sawyer books already.
 ---
+Not the height of hilariousness, but solidly funny – might have been my first humorous take on the Bible?

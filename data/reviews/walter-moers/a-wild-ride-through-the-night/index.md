@@ -23,6 +23,25 @@ plan:
 review:
   date_read:
   - 2006-11-01
+  - 2021-01-13
   did_not_finish: false
   rating: 4
+  tldr: Walter Moers connects 21 illustrations by Gustave Doré in a delightfully weird story
+related_books:
+- book: lewis-carroll/alice-in-wonderland
+  text: This book actually has strong Alice vibes: Absurd interactions with fantastical creatures in a dream-like world?  Sometimes scary and sometimes hilarious? Yes, please.
+- book: johann-wolfgang-von-goethe/faust
+  text: Quotes Faust for intellectual points
+- book: terry-pratchett/reaper-man
+  text: Another death who tries to smile without the requisite muscles.
 ---
+Walter Moers decided to branch out and do something wildly different. Okay, maybe not wildly: there's still much
+absurdity going on. But it's not Zamonien. Instead, it's the story of Gustave Doré, the famous painter. Or rather, his
+paintings. Or rather, all of his paintings, shoved together into a rather trippy (but entertaining!) story.
+
+It's not exactly great art, but it's a great art exercise. And it might be the best German writing I've read in a long
+time – Moers really is a brilliant author. Some of the puns are so deeply embedded that you can't even hope to translate
+them.
+
+It may be the only Moers book without Moers illustrations, which is sad. But I guess if you can't have Moers, Doré will
+do.

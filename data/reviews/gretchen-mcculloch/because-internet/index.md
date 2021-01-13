@@ -28,6 +28,9 @@ review:
   rating: 4
   tldr: Comprehensive and pleasant study of internet linguistics. The details about
     our very own inter-generational communications problems are notable and noted.
+related_books:
+- book: mark-twain/the-awful-german-language
+  text: Another look at a second language closely related to English.
 social:
   mastodon:
     datetime: 2020-08-18 14:15:54.774879

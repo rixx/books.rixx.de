@@ -20,6 +20,13 @@ review:
   date_read:
   - 2020-06-08
   rating: 1
+related_books:
+- book: oscar-wilde/the-canterville-ghost
+  text: If you want to read about Americans in England, and want a castle thrown into the mix, read The Canterville Ghost instead. It was published two years before A Connecticut Yankee in King Arthur's Court and has the advantage of being actually funny.
+- book: mark-twain/the-diaries-of-adam-and-eve
+  text: Twain when he's funny.
+- book: mark-twain/the-adventures-of-huckleberry-finn
+  text: Probably the closest of Twain's books in tone.
 ---
 
 I only barely finished this book. I picked it up on a whim – Twain sounded like fun, time travel into old England
@@ -33,9 +40,3 @@ On the upside, I picked up what constitutes generic old-timey speech in English,
 associated with Americans and medieval knights, so while the book in itself was really not good, it provided a bit of
 honest world-building for the world we actually live in. Even if you don't like a joke, you have to understand its
 context to recognise it as a joke, etc.
-
-## Further Reading
-
-If you want to read about Americans in England, and want a castle thrown into the mix, read [The
-Canterville Ghost](https://books.rixx.de/reviews/2002/the-canterville-ghost/) instead. It was published two years before
-A Connecticut Yankee in King Arthur's Court and has the advantage of being actually funny.

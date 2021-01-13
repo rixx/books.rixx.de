@@ -20,6 +20,19 @@ book:
     Anagrom Ataf bis Z wie Zamomin
 plan:
   date_added: 2021-01-07
+related_books:
+- book: walter-moers/the-city-of-dreaming-books
+  text: Eins der referenzierten Zamonien-Bücher.
+- book: walter-moers/the-13-12-lives-of-captain-bluebear
+  text: Eins der referenzierten Zamonien-Bücher.
+- book: walter-moers/rumo-his-miraculous-adventures
+  text: Eins der referenzierten Zamonien-Bücher.
+- book: walter-moers/ensel-und-krete-ein-marchen-aus-zamonien
+  text: Eins der referenzierten Zamonien-Bücher.
+- book: walter-moers/das-labyrinth-der-traumenden-bucher
+  text: Eins der referenzierten Zamonien-Bücher.
+- book: walter-moers/der-schrecksenmeister
+  text: Eins der referenzierten Zamonien-Bücher.
 review:
   date_read:
   - 2020-12-27

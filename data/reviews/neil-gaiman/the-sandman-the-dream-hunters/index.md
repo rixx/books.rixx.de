@@ -20,6 +20,9 @@ review:
   - 2018-06-11
   did_not_finish: false
   rating: 4
+related_book:
+- book: hans-christian-andersen/the-complete-fairy-tales
+  text: The original Sandman.
 ---
 
 An astounding fairytale about a monk and a fox.

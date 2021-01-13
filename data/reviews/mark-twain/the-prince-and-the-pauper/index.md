@@ -25,6 +25,9 @@ review:
   did_not_finish: false
   proofed: true
   rating: 3
+related_books:
+- book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
+  text: Mark Twain's other try at historical fiction.
 ---
 
 Twain humour and snarky class commentary – I wouldn't swear that it holds up to a re-read, but I liked it a lot when I

@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: walter-moers/a-wild-ride-through-the-night
+  text: Absurd interactions with fantastical creatures in a dream-like world?  Sometimes scary and sometimes hilarious? Right this way.
 - book: carlo-collodi/pinocchio
   text: I read both books around the same time, and both have the underlying ambience of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio more of the casually brutal kind.
 review:

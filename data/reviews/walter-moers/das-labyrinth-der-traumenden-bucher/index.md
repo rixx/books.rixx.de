@@ -23,6 +23,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: walter-moers/the-city-of-dreaming-books
+  text: The strictly better book in the series.
 - book: walter-moers/der-schrecksenmeister
   text: The previous book in the series.
 - book: walter-moers/the-13-12-lives-of-captain-bluebear
@@ -33,3 +35,6 @@ review:
   did_not_finish: false
   rating: 2
 ---
+Well, this was an exercise in disappointment. The follow-up book to the City of Dreaming Books is strictly worse than
+its predecessor. It reads as if Moers needed money and so decided to make a bad B-movie following his great blockbuster.
+Nearly put me off reading future Moers books entirely.

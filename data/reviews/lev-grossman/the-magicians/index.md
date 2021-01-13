@@ -25,6 +25,8 @@ plan:
 related_books:
 - book: max-barry/lexicon
   text: Also a current-time grey morality magic school in a depressing and grim world, NLP edition.
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: The original Fillory.
 review:
   date_read:
   - 2020-05-05
@@ -32,4 +34,7 @@ review:
   rating: 3
 ---
 
-I enjoyed this one, and not just for the digs against Fillory (which is a transparently renamed Narnia). The darkly realistic magic school: good. The annoying, whiny, dickish protagonist getting his comeuppance: yeah, dig it. No magic reform arc, either. In total it was a bit rough and not particularly fulfilling as a book, but individual parts all worked really well for me.
+I enjoyed this one, and not just for the digs against Fillory (which is a transparently renamed Narnia). The darkly
+realistic magic school: good. The annoying, whiny, dickish protagonist getting his comeuppance: yeah, dig it. No magic
+reform arc, either. In total it was a bit rough and not particularly fulfilling as a book, but individual parts all
+worked really well for me.

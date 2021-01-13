@@ -25,4 +25,9 @@ review:
   - 2003-01-01
   did_not_finish: false
   rating: 3
+related_books:
+- book: e-t-a-hoffmann/der-sandmann
+  text: Same time, same vibe, but German.
 ---
+Long time since I've read Poe – but the clever (if old-school) language and the fine sense for vibes and rhythm have
+stuck with me, far beyond the famous raven.

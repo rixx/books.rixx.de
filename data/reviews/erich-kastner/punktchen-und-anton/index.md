@@ -22,6 +22,10 @@ review:
   did_not_finish: false
   rating: 2
 related_books:
+- book: michael-ende/momo
+  text: More capitalism criticism for kids, though more practicality and less moralising.
+- book: hans-christian-andersen/the-complete-fairy-tales
+  text: Käster quotes the Little Match-Seller heavily here.
 - book: erich-kastner/das-doppelte-lottchen
   text: Also Kästner about two children from different class backgrounds, dealing with each other's life.
 - book: erich-kastner/das-fliegende-klassenzimmer

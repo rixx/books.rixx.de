@@ -27,6 +27,9 @@ review:
   - 2019-07-07
   did_not_finish: false
   rating: 3
+related_books:
+- hans-christian-andersen/the-complete-fairy-tales
+  text: Very similar vibe of darkness and real magic.
 ---
 
 In **The Bear and the Nightingale**, *Katherine Arden* tells a Russian fairytale, and she does it with a lot of feeling. The atmosphere is wonderful and a great mix of fairytale logic: everything is slightly off, belief and patterns carry more weight than logic, and if you're clever, you'll pick the right one of the two.

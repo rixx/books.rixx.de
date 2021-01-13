@@ -31,3 +31,7 @@ review:
   did_not_finish: false
   rating: 1
 ---
+After the first Narnia book, I thought that things might get better, or that this was a series that just had an
+unfortunate first book.
+
+It didn't.

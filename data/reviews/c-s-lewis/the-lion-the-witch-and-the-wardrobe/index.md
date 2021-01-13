@@ -16,10 +16,17 @@ book:
   - fantasy
   - german
   - kids
+  - portal
   title: The Lion, the Witch and the Wardrobe
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: michael-ende/the-neverending-story
+  text: If you have to fall into a fantasy world and learn some morality lessons, you might as well have fun.
+- book: lewis-carroll/alice-in-wonderland
+  text: If you have to fall into a fantasy world and don't care for morality, why not choose the other Lewis?
+- book: lev-grossman/the-magicians
+  text: See, somebody else doesn't like Lewis either!
 - book: c-s-lewis/prince-caspian
   text: The next book in the series.
 review:
@@ -28,3 +35,6 @@ review:
   did_not_finish: false
   rating: 1
 ---
+Confession: I hated the Narnia books when I first read them, and I don't care enough to update my opinion. I hated the
+transparent religion shilling going on, I hated everything about the dour moralising, and I felt personally offended at
+Lion Jesus. Man.

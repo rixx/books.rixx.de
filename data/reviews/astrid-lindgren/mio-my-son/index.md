@@ -25,6 +25,8 @@ related_books:
 - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
   text: The same, just for adults. And not about heroism or morality, instead contains
     love letters and time travel. But still, the same vibe.
+- book: hans-christian-andersen/the-complete-fairy-tales
+  text: In its darkness and its repetetive logic, Lindgren is working really close to Andersen's tales.
 review:
   date_read:
   - 2001-02-01

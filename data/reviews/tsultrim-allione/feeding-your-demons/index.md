@@ -8,7 +8,7 @@ book:
   isbn13: '9780316013130'
   pages: '288'
   publication_year: '2008'
-  slug: feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict
+  slug: feeding-your-demons
   spine_color: '#da3b18'
   tags:
   - five-stars

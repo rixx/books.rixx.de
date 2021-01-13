@@ -26,4 +26,24 @@ review:
   - 2002-07-01
   did_not_finish: false
   rating: 5
+related_books:
+- book: erich-kastner/punktchen-und-anton
+  text: Käster quotes the Little Match-Seller heavily here.
+- katherine-arden/the-bear-and-the-nightingale
+  text: Very similar vibe of darkness and real magic.
+- book: astrid-lindgren/mio-my-son
+  text: In its darkness and its repetetive logic, Lindgren is working really close to Andersen's tales.
+- book: neil-gaiman/the-sandman-the-dream-hunters
+  text: A riff on Sandman.
 ---
+Andersen's fairy tales were the first ones I actually owned, and this alone made them special to me. They tend to be
+brutal and gruesome, but I was nine and loved them for it. The original Snow Queen is terrifying, the original Little
+Mermaid heart-breaking. Others have not changed much in public perception: The Ugly Duckling, the Princess and the Pea,
+the Little Match-Seller (😢).
+
+But I liked the more obscure, hardly-known ones even more. The completely irreverent and gruesome Little Claus and Big
+Claus. The trippy Little Elder-Tree Mother. The dangerous Sandman.
+
+It's interesting to see how (relatively) late he came up with them, and how much they are now culturally embedded as
+standard fairy tales – though we have Disney to thank for much of that, of course. And for the good endings, which
+Andersen wasn't all that fond of.

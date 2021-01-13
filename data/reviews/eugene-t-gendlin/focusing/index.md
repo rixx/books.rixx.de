@@ -26,6 +26,11 @@ review:
   - 2019-07-15
   did_not_finish: false
   rating: 2
+related_books:
+- book: tsultrim-allione/feeding-your-demons
+  text: If you're less into verbal approaches and more into visualisation, Feeding Your Demons does something very similar to Focusing
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: One of Harry's favourite quotes is from Focusing: What is true is already so, etc.
 ---
 
 Focusing by *Eugene T. Gendlin* was my first book I really wanted to give up on this year. I'm always very hesitant to
@@ -68,9 +73,3 @@ feel if this problem was somehow solved?" as an entrypoint to exploring a proble
 meditation, and all involve being calm, slightly distanced, and taking some time (at least half a minute or a minute) of
 waiting for answers to show up. Not terribly exciting, and worse for the fact that it sees itself as more of a therapy
 approach as opposed to a meditation thing.
-
-## Further Reading
-
-If you're less into verbal approaches and more into visualisation, [Feeding Your
-Demons](https://books.rixx.de/reviews/2020/feeding-your-demons-ancient-wisdom-for-resolving-inner-conflict/) does
-something very similar to Focusing

@@ -10,6 +10,7 @@ book:
   slug: the-war-prayer
   spine_color: '#cea58a'
   title: The War Prayer
+  source: https://warprayer.org/
 plan:
   date_added: '2015-04-17'
 review:
@@ -17,4 +18,9 @@ review:
   - 2014-03-01
   did_not_finish: false
   rating: 4
+related_books:
+- book: janusz-korczak/king-matt-the-first
+  text: Probably the book that influenced my early pacifism most.
 ---
+Where did I get my pacifist stance? It wasn't here – I read the War Prayer much too late for it. But it might as well
+have been here.

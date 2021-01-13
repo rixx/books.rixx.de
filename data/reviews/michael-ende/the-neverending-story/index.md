@@ -19,6 +19,7 @@ book:
   - five-stars
   - german
   - kids
+  - portal
   title: The Neverending Story
 plan:
   date_added: '2015-04-08'
@@ -32,6 +33,8 @@ related_books:
   text: A more modern and less philosophical take on books that suck you in.
 - book: astrid-lindgren/the-brothers-lionheart
   text: The books don't have much in common beyond being 70s fantasy for kids, but I loved them at the same time.
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: If the Neverending Story didn't have enough moralising for you.
 ---
 Neverending – oh, if only! I loved this book as a kid, and there are infinite possibilities for tie-ins (though arguably
 the book is better off without them).
