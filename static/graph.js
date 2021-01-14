@@ -1,9 +1,13 @@
 let isDragging = false
 let currentBook = null
 
+let node = null
+let link = null
+let linkMap = {}
+
 window.addEventListener("mouseup", e => isDragging = false)
 
-const changeCurrentBook = (book) => {
+const changeSidebarBook = (book) => {
     // create HTML
     const div = document.createElement("div")
     div.id = "book-preview"
@@ -28,25 +32,37 @@ const changeCurrentBook = (book) => {
     wrapper.replaceChild(div, wrapper.querySelector("#book-preview"))
 }
 
+const isConnected = (a, b) => {
+    return a.id === b.id || linkMap[`${a.id},${b.id}`] || linkMap[`${b.id},${a.id}`]
+}
+
+const changeGraphHighlight = (book) => {
+    node.classed("bunt active", (d) => isConnected(d, book))
+    link.classed("bunt", (d) => d.source.id === book.id || d.target.id === book.id)
+        .attr("stroke", (d) => (d.source.id === book.id || d.target.id === book.id) ? book.color : "#999")
+}
+
+const removeGraphHighlight = (book) => {
+    node.classed("bunt", true)
+        .classed("active", false)
+    link.classed("bunt", false)
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+}
+
 d3.json("/graph.json").then(data => {
-    // footerHeight = 54
-    // headerHeight = 46
-    const height = window.innerHeight;
-    const width = window.innerWidth - 50
-    const container = document.querySelector("#book-graph")
-    container.style.height = height
-    container.style.width = width
+
+    data.links.forEach(link => {
+        linkMap[`${link.source},${link.target}`] = true
+    })
 
     // Let's list the force we wanna apply on the network
     const simulation = d3.forceSimulation(data.nodes)
           .force("link", d3.forceLink(data.links).id(d => d.id))
-          .force("charge", d3.forceManyBody().strength(-45))
-          // .force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
-          .force("x", d3.forceX())
-          .force("y", d3.forceY());
-
-    const svg = d3.select("#book-graph").append("svg")
-        .attr("viewBox", [-width / 2, -height / 2, width, height]);
+          //.force("charge", d3.forceManyBody().strength(-3))  // Closer to zero = smaller graph
+          //.force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
+          .force("charge", d3.forceManyBody().strength(-35))  // Closer to zero = smaller graph
+          .force("x", d3.forceX()).force("y", d3.forceY());  // This is for our Graph
 
     drag = simulation => {
       function dragstarted(event) {
@@ -73,11 +89,25 @@ d3.json("/graph.json").then(data => {
     }
     const hoverHandler = (d, i) => {
         if (isDragging) return
-        if (currentBook == i.id) return
-        changeCurrentBook(i)
+        if (currentBook === i.id) return
+        changeSidebarBook(i)
+        changeGraphHighlight(i)
+    }
+    const mouseLeaveHandler = (d, i) => {
+        if (isDragging) return
+        removeGraphHighlight()
     }
 
-    const link = svg.append("g")
+    const height = window.innerHeight;
+    const width = window.innerWidth - 50
+    const container = document.querySelector("#book-graph")
+    container.style.height = height
+    container.style.width = width
+    const svg = d3.select("#book-graph").append("svg")
+        .attr("viewBox", [-width / 2, -height / 2, width, height]);  // For unconnected graph
+        // .attr("viewBox", [0, 0, width, height]);  // For connected graph
+
+    link = svg.append("g")
         .attr("stroke", "#999")
         .attr("stroke-opacity", 0.6)
         .selectAll("line")
@@ -86,7 +116,7 @@ d3.json("/graph.json").then(data => {
         //.attr("stroke-width", d => Math.sqrt(d.value));
 
     const colorScale = d3.scaleLinear().domain([0, 20]).range(["grey", "blue"]);
-    const node = svg
+    node = svg
         .append("g")
         .attr("stroke", "#fff")
         .attr("stroke-width", 1.5)
@@ -96,13 +126,12 @@ d3.json("/graph.json").then(data => {
         .attr("href", (d) => "/" + d.id)
         .append("circle")
         .attr("r", (d) => 5 + (d.rating || 0))
-        .attr("fill", (d) => d.color || "grey")
-        .on("mouseover", hoverHandler)
+        // .attr("fill", (d) => d.color || "grey")
+        .attr("class", "bunt")
+        .attr("style", d => `--book-color: ${d.color || "grey"}`)
+        .on("mouseenter", hoverHandler)
+        .on("mouseleave", mouseLeaveHandler)
         .call(drag(simulation));
-
-
-    node.append("title")
-        .text(d => d.name);
 
     simulation.on("tick", () => {
         link

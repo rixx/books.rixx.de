@@ -825,6 +825,17 @@ header a {
 }
 #graph-wrapper svg circle {
   cursor: pointer;
+  fill: #ccc;
+  transition: fill 0.35s ease;
+}
+#graph-wrapper svg circle.bunt {
+  fill: var(--book-color);
+}
+#graph-wrapper svg circle.bunt.active {
+  stroke: var(--book-color);
+}
+#graph-wrapper svg line.bunt {
+  stroke-width: 3px;
 }
 
 @media (max-width: 480px) {
