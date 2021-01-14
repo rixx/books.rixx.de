@@ -809,9 +809,9 @@ header a {
   height: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 #graph-wrapper #graph-sidebar #book-preview {
-  min-height: 50%;
   display: flex;
   flex-direction: column;
   align-items: center;

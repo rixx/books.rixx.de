@@ -20,6 +20,7 @@ setup(
         "jinja2==2.11.*",
         "markdown==3.1.*",
         "mastodon.py",
+        "networkx==2.5.*",
         "pillow==7.0.*",
         "python-dateutil",
         "python-frontmatter==0.5.*",

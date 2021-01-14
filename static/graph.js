@@ -40,7 +40,7 @@ d3.json("/graph.json").then(data => {
     // Let's list the force we wanna apply on the network
     const simulation = d3.forceSimulation(data.nodes)
           .force("link", d3.forceLink(data.links).id(d => d.id))
-          .force("charge", d3.forceManyBody().strength(-40))
+          .force("charge", d3.forceManyBody().strength(-45))
           // .force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
           .force("x", d3.forceX())
           .force("y", d3.forceY());
@@ -96,7 +96,6 @@ d3.json("/graph.json").then(data => {
         .attr("href", (d) => "/" + d.id)
         .append("circle")
         .attr("r", (d) => 5 + (d.rating || 0))
-        //.attr("fill", (d) => colorScale(d.connections))
         .attr("fill", (d) => d.color || "grey")
         .on("mouseover", hoverHandler)
         .call(drag(simulation));

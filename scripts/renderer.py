@@ -13,6 +13,7 @@ from io import StringIO
 from pathlib import Path
 
 import markdown
+import networkx as nx
 import smartypants
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markdown.extensions.smarty import SmartyExtension
@@ -605,43 +606,39 @@ def build_site(**kwargs):
 
     # Render graph page
     print("🕸  Rendering graphs")
-    node_set = set()
-    edge_set = set()
+    graph = nx.Graph()
     for review in all_reviews:
-        for related in review.metadata.get("related_books", []):
-            edge_set.add(tuple(sorted([related["book"], review.id])))
-            node_set.add(related["book"])
-            node_set.add(review.id)
-    nodes = {}
-    for node in node_set:
+        other = review.metadata.get("related_books")
+        if not other:
+            continue
+        graph.add_node(review.id)
+        for related in other:
+            graph.add_node(related["book"])
+            graph.add_edge(review.id, related["book"])
+    nodes = []
+    for node in graph.nodes:
         review = review_lookup[node]
-        nodes[node] = {
-            "id": node,
-            "cover": review.thumbnail_name,
-            "name": review.metadata["book"]["title"],
-            "author": review.metadata["book"]["author"],
-            "rating": int(review.metadata["review"]["rating"]),
-            "color": review.metadata["book"].get("spine_color"),
-            "connections": 0,
-        }
-    edges = []
-    for source, target in edge_set:
-        edges.append(
+        nodes.append(
             {
-                "source": source,
-                "target": target,
+                "id": node,
+                "cover": review.thumbnail_name,
+                "name": review.metadata["book"]["title"],
+                "author": review.metadata["book"]["author"],
+                "rating": int(review.metadata["review"]["rating"]),
+                "color": review.metadata["book"].get("spine_color"),
+                "connections": len(list(graph.neighbors(node))),
             }
         )
-        nodes[source]["connections"] += 1
-        nodes[target]["connections"] += 1
-    render_string(
-        "graph.json", json.dumps({"nodes": list(nodes.values()), "links": edges})
-    )
+    edges = [{"source": source, "target": target} for source, target in graph.edges]
+    render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
     render(
         "graph.html",
         "graph/index.html",
-        node_count=len(nodes),
-        edge_count=len(edges),
+        node_count=graph.number_of_nodes(),
+        edge_count=graph.number_of_edges(),
+        missing_nodes=len(all_reviews) - graph.number_of_nodes(),
+        parts=nx.number_connected_components(graph),
+        is_connected=nx.is_connected(graph),
     )
 
     # Render quotes

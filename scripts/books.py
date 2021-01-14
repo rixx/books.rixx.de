@@ -265,9 +265,7 @@ class Review:
             cover_image_url = self.metadata["book"]["cover_image_url"]
 
         if not force_new and self.cover_path:
-            click.echo(
-                f"Cover for {self.slug} already exists, passing."
-            )
+            click.echo(f"Cover for {self.slug} already exists, passing.")
             return
 
         filename, headers = urlretrieve(cover_image_url)

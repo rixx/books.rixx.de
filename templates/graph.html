@@ -15,7 +15,13 @@
         <div id="graph-stats">
             <ul>
                 <li>{{ node_count }} books</li>
+                <li>{{ missing_nodes }} books missing</li>
                 <li>{{ edge_count }} connections</li>
+                {% if not is_connected %}
+                    <li>{{ parts }} components</li>
+                {% else %}
+                    <li>All books connected</li>
+                {% endif %}
             </ul>
         </div>
     </div>
