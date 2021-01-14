@@ -20,7 +20,9 @@ book:
 plan:
   date_added: '2015-07-03'
 related_books:
-- book: licia-troisi/die-drachenkampferin-der-auftrag-des-magiers
+- book: christopher-paolini/eragon
+  text: Even more dragons.
+- book: licia-troisi/die-drachenkampferin
   text: The next book in the series.
 review:
   date_read:

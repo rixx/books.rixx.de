@@ -20,6 +20,12 @@ book:
 plan:
   date_added: '2016-05-08'
 related_books:
+- book: agatha-christie/the-mysterious-affair-at-styles
+  text: The first Hercule Poirot book.
+- book: dorothy-l-sayers/whose-body
+  text: Dorothy Sayers is another good mystery author of the time.
+- book: arthur-conan-doyle/sherlock-holmes
+  text: Another of the big mystery authors of the time.
 - book: agatha-christie/the-thirteen-problems
   text: The next book in the series.
 review:
@@ -27,3 +33,7 @@ review:
   - 2004-07-01
   rating: 3
 ---
+This is where it begins: The tons of Miss Marple book start here, introducing the gentle but sharp old lady who can
+solve every crime by reducing it to some small village squabble. I generally enjoy the Miss Marple mysteries more than
+the Poirot ones, mostly because Hastings is so incredibly obnoxious. But both series have in common that the bulk of the
+mysteries are not particularly noteworthy and I often can't remember any details.

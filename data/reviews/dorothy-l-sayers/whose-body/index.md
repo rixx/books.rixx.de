@@ -24,6 +24,10 @@ plan:
 related_books:
 - book: dorothy-l-sayers/clouds-of-witness
   text: The next book in the series.
+- book: arthur-conan-doyle/sherlock-holmes
+  text: Another of the big mystery authors of the time.
+- book: agatha-christie/murder-at-the-vicarage
+  text: Another of the big mystery authors of the time.
 review:
   date_read:
   - 2019-09-29

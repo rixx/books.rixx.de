@@ -13,8 +13,15 @@ book:
   title: Der Geschichtenverkäufer
 plan:
   date_added: '2015-08-06'
+related_books:
+- book: jostein-gaarder/das-kartengeheimnis
+  text: Still obscure, but strictly better.
+- book: umberto-eco/foucaults-pendulum
+  text: Similarly obscure and about publishing with heavy mysticism, but with something to say.
 review:
   date_read:
   - 2007-10-01
-  rating: 3
+  rating: 2
 ---
+I remember the story as very obscure (as per usual for Gaarder) without much to say (unusual for Gaarder). Not sure if I
+missed the point entirely, and what it might have been.

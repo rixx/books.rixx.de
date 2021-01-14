@@ -21,6 +21,12 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: licia-troisi/im-land-des-windes
+  text: Better YA dragons.
+- book: cornelia-funke/dragon-rider
+  text: Dragons for younger children.
+- book: j-r-r-tolkien/the-hobbit
+  text: Better non-YA dragons, better wizards, better elves.
 - book: christopher-paolini/eldest
   text: The next book in the series.
 review:
@@ -28,3 +34,7 @@ review:
   - 2003-12-01
   rating: 1
 ---
+Sometimes it's just down to the order or operations. I read Eragon after the Lord of the Rings, and so I disliked it and
+thought much of its plot was a cheap knock-off version with more wish fulfillment. That was not entirely fair, but I was
+ten at the time and being angry about bad books was my thing. It's certainly an impressive book considering the age of
+the author at the time.

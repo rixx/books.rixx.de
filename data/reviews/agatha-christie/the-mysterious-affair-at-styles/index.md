@@ -18,12 +18,16 @@ book:
 plan:
   date_added: 2020-06-14
 related_books:
+- book: agatha-christie/curtain
+  text: A very late Poirot, heavily referencing this first book.
 - book: dorothy-l-sayers/whose-body
   text: Dorothy Sayers is another good mystery author of the time.
 - book: arthur-conan-doyle/sherlock-holmes
   text: Another of the big mystery authors of the time.
 - book: agatha-christie/the-murder-of-roger-ackroyd
   text: The next book in the series.
+- book: agatha-christie/murder-at-the-vicarage
+  text: The first Miss Marple book.
 review:
   date_read:
   - 2020-06-14
@@ -56,5 +60,5 @@ bit. He's the very image of the extremely mediocre white (tech, currently) dude,
 living in the 20s, writing this book, you can see how writing Hastings is an extremely enjoyable form of
 therapy-cum-punching-bag.
 
-I have read [some Agatha Christie](https://books.rixx.de/agatha-christie/) before, and I'll try to
-read some more. It's a very nice distraction, basically comfort food.
+I have read [some Agatha Christie](/agatha-christie/) before, and I'll try to read some more. It's a very nice
+distraction, basically comfort food.

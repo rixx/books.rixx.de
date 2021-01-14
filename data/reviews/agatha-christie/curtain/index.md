@@ -18,6 +18,8 @@ book:
 plan:
   date_added: 2020-06-19
 related_books:
+- book: agatha-christie/the-mysterious-affair-at-styles
+  text: The first Poirot, directly referenced here.
 - book: agatha-christie/the-abc-murders
   text: The previous book in the series.
 review:
@@ -26,7 +28,7 @@ review:
   rating: 3
 ---
 
-After reading the [first Poirot](https://books.rixx.de/reviews/2020/the-mysterious-affair-at-styles/) the other day, I
+After reading the [first Poirot](/agatha-christie/the-mysterious-affair-at-styles/) the other day, I
 thought I'd continue with the last one. Agatha Christie takes Poirot full circle, with the last novel playing in the
 same place as the first one, with plenty of reminiscing going on.
 

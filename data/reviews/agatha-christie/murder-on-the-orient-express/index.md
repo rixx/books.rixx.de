@@ -29,3 +29,6 @@ review:
   - 2005-08-01
   rating: 4
 ---
+The famous Orient Express! As always, Christie has a gimmick and follows it to the end, but this time she adds several
+good ideas on the side! I particularly liked the <span class="spoiler">Cyrillic writing on the handkerchief</span> that
+threw everybody off and yet was perfectly visible to the reader.

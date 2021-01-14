@@ -30,3 +30,6 @@ review:
   - 2009-06-01
   rating: 2
 ---
+A disappointing end to a disappointing series, if I recall correctly. Little happened, but everything was very dramatic.
+I never got around to reading the last part – the series was meant to be a trilogy, after all, and the necessity of
+splitting up the last volume didn't inspire confidence.

@@ -30,3 +30,5 @@ review:
   - 2008-02-01
   rating: 2
 ---
+This may be where I discovered my love of training sequences – at least, the training is all I remember of this book. No
+great loss, I think, it was pretty much the then-hyped generic fantasy book.

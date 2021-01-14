@@ -19,6 +19,9 @@ book:
   title: Vita Brevis
 plan:
   date_added: 2020-11-10
+related_books:
+- book: jostein-gaarder/sophies-world
+  text: Serious philosophy by Gaarder
 review:
   date_read:
   - 2020-11-02
