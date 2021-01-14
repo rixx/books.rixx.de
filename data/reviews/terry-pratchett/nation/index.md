@@ -15,6 +15,9 @@ book:
   title: Nation
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: terry-pratchett/dodger
+  text: Pratchett's even more Victorian book.
 review:
   date_read:
   - 2013-10-01

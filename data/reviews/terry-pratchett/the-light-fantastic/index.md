@@ -18,12 +18,16 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/the-color-of-magic
-  text: The previous book in the series.
+- book: terry-pratchett/sourcery
+  text: The next Rincewind book.
 - book: terry-pratchett/equal-rites
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/the-color-of-magic
+  text: The previous (and first!) Discworld and Rincewind book.
 review:
   date_read:
   - 2006-12-01
   rating: 3
 ---
+One of the worst Discworld books out there, but we'll ignore it because it's part of the reason that we got the later
+brilliant books. Rincewind and Twoflower ineptly save the world, blah blah.

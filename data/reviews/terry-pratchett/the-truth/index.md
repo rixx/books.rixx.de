@@ -18,14 +18,20 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/the-fifth-elephant
-  text: The previous book in the series.
+- book: terry-pratchett/monstrous-regiment
+  text: The next Industrial Discworld book.
+- book: terry-pratchett/moving-pictures
+  text: The previous Industrial Discworld book.
 - book: terry-pratchett/thief-of-time
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/the-fifth-elephant
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2001-08-01
   rating: 4
 ---
+
+William de Worde brings journalism to the entirely unprepared Discworld. Journalists everywhere beware.

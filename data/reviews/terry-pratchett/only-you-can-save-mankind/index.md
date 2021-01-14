@@ -18,6 +18,12 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: ursula-poznanski/erebos
+  text: "Very nearly a 20-years-later update: now including AI and less benevolence."
+- book: conor-kostick/epic
+  text: Another entertaining take on what video games *mean*.
+- book: ernest-cline/ready-player-one
+  text: An infinitely worse take on video games.
 - book: terry-pratchett/johnny-and-the-dead
   text: The next book in the series.
 review:
@@ -25,3 +31,5 @@ review:
   - 2004-03-01
   rating: 4
 ---
+A computer game that turns out to be real – in 1992. Great fun. Has aged a bit, of course, but the important bits still
+work.

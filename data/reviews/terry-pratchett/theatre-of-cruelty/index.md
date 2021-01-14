@@ -11,21 +11,22 @@ book:
   series_position: '14.5'
   spine_color: '#e9c443'
   title: Theatre of Cruelty
+  source: https://www.lspace.org/books/toc/toc-english.html#fn1
 plan:
   date_added: '2016-06-08'
 related_books:
-- book: terry-pratchett/lords-and-ladies
-  text: The previous book in the series.
 - book: terry-pratchett/men-at-arms
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/lords-and-ladies
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2016-06-08
   rating: 4
 ---
 
-This one is short and nice (well, no. Not nice, but if you know Punch and Judy shows, you'll enjoy it). Available online for free on lspace: <a target="_blank" href="http://www.lspace.org/books/toc/toc-english.html#fn1" rel="nofollow">http://www.lspace.org/books/toc/toc-e...</a>.
+This one is short and nice (well, no. Not nice, but if you know Punch and Judy shows, you'll enjoy it). Available online for free on [lspace](http://www.lspace.org/books/toc/toc-english.html#fn1)
 
 Read more Pratchett, yo.

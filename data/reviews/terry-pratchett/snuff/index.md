@@ -18,16 +18,20 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/i-shall-wear-midnight
-  text: The previous book in the series.
 - book: terry-pratchett/the-world-of-poo-discworld
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/i-shall-wear-midnight
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2017-07-07
   rating: 4
 ---
 
-Yeah, Commander Vimes and little Sammy and *another* book (this one about Poo). Also, Goblins turn out not to be vermin. Surprise!
+Yeah, Commander Vimes and little Sammy and *another* book (this one about Poo). Also, the countryside. Also, Goblins
+turn out not to be vermin.  Surprise! It's a bit run of the mill, but with Discworld books, that still means high
+quality fun.
+
+This also concludes the Watch series, making me very sad.

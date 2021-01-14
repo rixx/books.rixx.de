@@ -20,12 +20,16 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/reaper-man
-  text: The previous book in the series.
+- book: terry-pratchett/lords-and-ladies
+  text: The next Witches book.
+- book: terry-pratchett/wyrd-sisters
+  text: The previous Witches book.
 - book: terry-pratchett/small-gods
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/reaper-man
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2006-01-01

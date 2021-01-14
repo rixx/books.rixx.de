@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: neil-gaiman/the-graveyard-book
+  text: More relatable dead people, more cemetaries.
 - book: terry-pratchett/only-you-can-save-mankind
   text: The previous book in the series.
 - book: terry-pratchett/johnny-and-the-bomb
@@ -29,3 +31,5 @@ review:
   - 2007-09-01
   rating: 4
 ---
+Johnny has all the luck: After his video game adventures, he now starts seeing dead people (and as a consequence will
+have to save the local cemetary).

@@ -20,6 +20,13 @@ book:
   title: Ready Player One
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/only-you-can-save-mankind
+  text: An infinitely better take on video games.
+- book: conor-kostick/epic
+  text: Another entertaining take on what video games *mean*.
+- book: ursula-poznanski/erebos
+  text: More AI, more quality, less yearning for the past. But still video games.
 review:
   date_read:
   - 2015-08-05

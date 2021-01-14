@@ -16,14 +16,19 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/sourcery
-  text: The previous book in the series.
+- book: terry-pratchett/witches-abroad
+  text: The next Witches book.
+- book: terry-pratchett/equal-rites
+  text: The previous Witches book.
 - book: terry-pratchett/pyramids
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/sourcery
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2007-12-01
-  rating: 4
+  rating: 3
 ---
+MacBeth, only Discworld. One of the better early Discworld books – King Verence I dies, the child is hidden etc etc.

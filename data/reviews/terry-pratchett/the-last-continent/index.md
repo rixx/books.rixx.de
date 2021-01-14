@@ -16,14 +16,19 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/jingo
-  text: The previous book in the series.
+- book: terry-pratchett/interesting-times
+  text: The previous Rincewind book.
 - book: terry-pratchett/carpe-jugulum
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/jingo
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2009-05-01
   rating: 3
 ---
+This is the last of the Rincewind books that I've read. There's technically *The Last Hero* and *Unseen Academicals*
+waiting for me but I couldn't be bothered. Though, surprisingly, I found this one more bearable than the others, if only
+by a little. I should talk to an Australian about it, I guess.

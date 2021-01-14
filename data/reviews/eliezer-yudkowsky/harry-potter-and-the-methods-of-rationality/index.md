@@ -17,6 +17,8 @@ related_books:
 - book: eugene-t-gendlin/focusing
   text: 'One of Harry''s favourite quotes is from Focusing: What is true is already
     so, etc.'
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: Less rational Harry.
 review:
   date_read:
   - 2014-11-01

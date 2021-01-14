@@ -18,16 +18,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/thief-of-time
-  text: The previous book in the series.
 - book: terry-pratchett/night-watch
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/thief-of-time
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2017-07-06
   rating: 3
 ---
 
-Well, that was fun, but less fun than I've had with most other Pratchett books, I think? It's about average for him, at most, which still makes this a very good book.
+Well, that was fun, but less fun than I've had with most other Pratchett books, I think? It's about average for him, at
+most, which still makes this a very good book. More YA-y in nature, and possibly him testing out narration modes that
+come in handy during the Tiffany books.

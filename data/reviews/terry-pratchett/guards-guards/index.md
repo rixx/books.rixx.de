@@ -18,14 +18,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/pyramids
-  text: The previous book in the series.
+- book: terry-pratchett/men-at-arms
+  text: The next Watch book.
 - book: terry-pratchett/eric
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/pyramids
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2005-01-01
   rating: 4
 ---
+Guards! Guards! only barely misses the five-star cutoff. It has dragons, and one-in-a-million shots, and a big terrible
+city with small terrible people. What else do you want?

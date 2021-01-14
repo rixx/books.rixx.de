@@ -18,14 +18,25 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/men-at-arms
-  text: The previous book in the series.
+- book: terry-pratchett/hogfather
+  text: The next Death book.
+- book: terry-pratchett/reaper-man
+  text: The previous Death book.
 - book: terry-pratchett/interesting-times
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/men-at-arms
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2009-11-01
   rating: 4
 ---
+Pratchett would have laughed to hear (or so I like to imagine) that 14-year-old me actually *learned* all the
+rock'n'roll stereotypes from this book. It's a weird introduction to this part of pop culture, but it could be so much
+worse.
+
+This is also the first Discworld book that I read in English (after reading it in German first). It was a fascinating
+comparison and gave me a good feeling for how much longer I had to work on my English until I could read Discworld
+entirely in English.

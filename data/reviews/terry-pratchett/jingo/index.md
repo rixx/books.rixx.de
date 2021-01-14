@@ -18,14 +18,21 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: terry-pratchett/the-fifth-elephant
+  text: The next Watch book.
+- book: terry-pratchett/feet-of-clay
+  text: The previous Watch book.
 - book: terry-pratchett/hogfather
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/the-last-continent
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2006-12-01
   rating: 4
 ---
+Vimes and Vetinary don't conquer the world, and that's enough of a story. Casually anti-racist, casually pacifist, in
+Pratchett's weirdly conservative way. Nearly halfway through the Discworld series but still more in the "producing lots
+of hilarious jokes" mode for the most part.

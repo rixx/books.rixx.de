@@ -19,13 +19,16 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: terry-pratchett/wyrd-sisters
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/guards-guards
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2007-05-01
   rating: 4
 ---
+Pyramids was fun in many ways – not just the pyramids! The look inside the Assassins Guild was very intriguing. Though
+the thing I remember best is the long chain of ancestors, who can only communicate with the next one or two in line
+because language has changed too much through the generations.

@@ -18,12 +18,14 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/the-world-of-poo-discworld
-  text: The previous book in the series.
+- book: terry-pratchett/making-money
+  text: The previous Industrial Discworld book.
 - book: terry-pratchett/the-shepherds-crown
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/the-world-of-poo-discworld
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2017-07-11
@@ -32,7 +34,8 @@ review:
 
 This … is not it. I wasn't into this Discworld arc to begin with, to be entirely fair – but even for that, this book
 felt off. The rhythm is changed. It's less ready to cut you open and make you like it. At the same time, it's not early
-Pratchett style, either.
+Pratchett style, either. I can't say I'm sad that this part of Discworld ended here. I didn't need another book in this
+direction when there was Tiffany to read about.
 
 I think I'm less disturbed by the change in rhythm and more disturbed at how little this book hurt. Because there's a
 lot of potential in the story for very real pain, and yet it doesn't hurt. I mean, it does, of course: on a meta-level,

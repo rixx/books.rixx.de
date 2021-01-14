@@ -18,14 +18,19 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/eric
-  text: The previous book in the series.
+- book: terry-pratchett/moving-pictures
+  text: The next Industrial Discworld book.
 - book: terry-pratchett/death-and-what-comes-next
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/eric
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2005-04-01
   rating: 3
 ---
+One of my first Discworld books, I read it before having seen any Holywood movies (and probably not more than ten movies
+in total), so I was mostly confused. Granted, it's not one if his better books, so there's that, but re-reading it ten
+years later did improve the experience significantly.

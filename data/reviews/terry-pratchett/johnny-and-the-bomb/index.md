@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: connie-willis/to-say-nothing-of-the-dog
+  text: More time travel back to the Blitz.
+- book: klaus-kordon/ein-trummersommer
+  text: Teenagers in WW2, except more serious.
 - book: terry-pratchett/johnny-and-the-dead
   text: The previous book in the series.
 - book: terry-pratchett/only-you-can-save-mankind
@@ -29,3 +33,5 @@ review:
   - 2010-08-01
   rating: 4
 ---
+Johnny, after fixing video games and dead people, now gets to travel back in time with his friends and experience the
+Blitz. To be honest, I found this less memorable but at least as fun as the other Johnny Maxwell books.

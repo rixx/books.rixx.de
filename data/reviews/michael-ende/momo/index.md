@@ -15,6 +15,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: terry-pratchett/thief-of-time
+  text: Very similar theme (what is time and how does it work, and what if we add efficiency?), very different execution.
 - book: erich-kastner/punktchen-und-anton
   text: More capitalism criticism for kids, though more moralising than practical.
 - book: michael-ende/the-neverending-story

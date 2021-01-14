@@ -18,14 +18,22 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: ian-tregillis/the-mechanical
+  text: A very different take on golems.
+- book: terry-pratchett/jingo
+  text: The next Watch book.
+- book: terry-pratchett/men-at-arms
+  text: The previous Watch book.
 - book: terry-pratchett/maskerade
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/hogfather
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2008-05-01
   rating: 4
 ---
+Introducing and exploring golems, with all the usual free will stuff attached. Not bad, though I think I enjoyed the
+Watch banter most, and then the monarchy side plot, and only *then* the main plot.

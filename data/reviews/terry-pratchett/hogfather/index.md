@@ -20,12 +20,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: terry-pratchett/the-wee-free-men
+  text: Another young Discworld heroine taking on supernatural beings to defend the children in her care …
+- book: terry-pratchett/thief-of-time
+  text: The next Death book.
+- book: terry-pratchett/soul-music
+  text: The previous Death book.
 - book: terry-pratchett/feet-of-clay
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/jingo
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2010-03-01

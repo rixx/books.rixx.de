@@ -23,6 +23,8 @@ related_books:
 - book: dorothy-l-sayers/gaudy-night
   text: If you have the time and inclination, please read Gaudy Night before encountering
     spoilers here! It's worth it.
+- book: terry-pratchett/johnny-and-the-bomb
+  text: More time travel back to the Blitz.
 - book: connie-willis/doomsday-book
   text: The previous book in the series.
 review:

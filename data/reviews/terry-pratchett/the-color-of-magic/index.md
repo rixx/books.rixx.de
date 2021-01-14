@@ -19,9 +19,11 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: terry-pratchett/the-light-fantastic
-  text: The next book in the series.
+  text: The next Discworld book.
 review:
   date_read:
   - 2007-01-01
-  rating: 4
+  rating: 2
 ---
+Only of interest because the Discworld series starts here – if you consider reading the Discworld books, please don't
+start here! Pratchett was not exactly bad, of course, but nowhere near his later brilliance.

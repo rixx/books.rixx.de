@@ -15,6 +15,9 @@ book:
   title: The Mechanical
 plan:
   date_added: '2018-10-20'
+related_books:
+- book: terry-pratchett/feet-of-clay
+  text: A very different take on golems.
 review:
   date_read:
   - 2020-09-30

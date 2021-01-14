@@ -17,6 +17,13 @@ book:
   title: Erebos
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: terry-pratchett/only-you-can-save-mankind
+  text: Nearly twenty years earlier, another video game turns out to be real.
+- book: conor-kostick/epic
+  text: Another entertaining take on what video games *mean*.
+- book: ernest-cline/ready-player-one
+  text: An infinitely worse take on video games.
 review:
   date_read:
   - 2018-03-12

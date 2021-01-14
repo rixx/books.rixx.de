@@ -18,14 +18,21 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/death-and-what-comes-next
-  text: The previous book in the series.
+- book: terry-pratchett/soul-music
+  text: The next Death book.
+- book: terry-pratchett/mort
+  text: The first Death book.
 - book: terry-pratchett/witches-abroad
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/death-and-what-comes-next
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2003-10-01
   rating: 4
 ---
+Death is now a retired senior citizen. He puts his scythe to more traditional use, while the Discworld finds out how bad
+life is without Death. Hilarious, solidly in the phase where Discworld books are fun without being terribly
+philosophical.

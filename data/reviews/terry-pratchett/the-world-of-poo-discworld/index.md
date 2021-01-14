@@ -20,12 +20,12 @@ book:
 plan:
   date_added: 2020-05-24
 related_books:
-- book: terry-pratchett/snuff
-  text: The previous book in the series.
 - book: terry-pratchett/raising-steam
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/snuff
+  text: The previous Discworld and Watch book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2020-04-23
@@ -55,3 +55,4 @@ social:
 ---
 
 An adorable Discworld book, really. As Ankh-Morpork adventures go, definitely better than some of the very early ones.
+Though very different in tone, of course – it's about Vimes jr, after all.

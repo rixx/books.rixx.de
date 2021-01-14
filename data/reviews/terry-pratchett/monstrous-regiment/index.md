@@ -14,12 +14,16 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/the-wee-free-men
-  text: The previous book in the series.
+- book: terry-pratchett/going-postal
+  text: The next Industrial Discworld book.
+- book: terry-pratchett/the-truth
+  text: The previous Industrial Discworld book.
 - book: terry-pratchett/a-hat-full-of-sky
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/the-wee-free-men
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2009-09-01

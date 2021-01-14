@@ -18,12 +18,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/a-hat-full-of-sky
-  text: The previous book in the series.
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: A much better take on ambition and momentum.
+- book: terry-pratchett/making-money
+  text: The next Industrial Discworld book.
+- book: terry-pratchett/monstrous-regiment
+  text: The previous Industrial Discworld book.
 - book: terry-pratchett/thud
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/a-hat-full-of-sky
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2010-02-01

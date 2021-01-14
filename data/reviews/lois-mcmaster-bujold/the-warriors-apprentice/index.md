@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2017-07-11'
 related_books:
+- book: terry-pratchett/going-postal
+  text: The Discworld take on ambition and momentum. Not nearly as good, though.
 - book: lois-mcmaster-bujold/shards-of-honour
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/ethan-of-athos

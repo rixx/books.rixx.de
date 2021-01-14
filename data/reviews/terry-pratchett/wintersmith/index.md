@@ -20,14 +20,21 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: terry-pratchett/i-shall-wear-midnight
+  text: The next Tiffany book.
+- book: terry-pratchett/a-hat-full-of-sky
+  text: The previous Tiffany book.
 - book: terry-pratchett/thud
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/making-money
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2010-03-01
   rating: 5
 ---
+Like all Tiffany book, this one lives in a special place in my heart. Tiffany is growing up, and she's doing so well. …
+generally. She's learning, though! And let me I note that this is the book that has an entire Steeleye Span album devoted
+to it!

@@ -22,14 +22,21 @@ plan:
 related_books:
 - book: neil-gaiman/coraline
   text: Another young heroine who has to save her family.
+- book: terry-pratchett/a-hat-full-of-sky
+  text: The next Tiffany book.
+- book: terry-pratchett/carpe-jugulum
+  text: The last Witches book.
 - book: terry-pratchett/night-watch
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/monstrous-regiment
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2010-07-01
   rating: 5
 ---
+This may well be the high point of the series, at least looking at it chronologically: Wee Free Men (introducing
+Tiffany) and Night Watch (hands-down the best Watch book) were released back-to-back, and mark a departure from
+jokes-first Pratchett to the writer who will hurt you and incidentally also make you laugh.

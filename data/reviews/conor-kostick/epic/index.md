@@ -20,6 +20,15 @@ book:
   title: Epic
 plan:
   date_added: '2016-07-07'
+related_books:
+- book: ursula-poznanski/erebos
+  text: More AI, less immersion, but still thinking about what video games can do to society.
+- book: conor-kostick/epic
+  text: Another entertaining take on what video games *mean*.
+- book: terry-pratchett/only-you-can-save-mankind
+  text: Ten years older take on very real video games.
+- book: ernest-cline/ready-player-one
+  text: An infinitely worse take on video games.
 review:
   date_read:
   - 2007-03-01

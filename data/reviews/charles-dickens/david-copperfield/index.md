@@ -9,10 +9,13 @@ book:
   title: David Copperfield
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/dodger
+  text: If you want to see Dickens himself appear in a book …
 review:
   date_read:
   - 2017-01-27
-  rating: 4
+  rating: 3
 ---
 
 It's long and slow and often tiresome, but still manages to be fun in places!

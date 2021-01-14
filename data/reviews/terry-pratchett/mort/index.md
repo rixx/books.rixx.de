@@ -18,14 +18,18 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/equal-rites
-  text: The previous book in the series.
+- book: terry-pratchett/reaper-man
+  text: The next Death book.
 - book: terry-pratchett/sourcery
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/equal-rites
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2004-04-01
-  rating: 4
+  rating: 3
 ---
+Mort was really good for me at the time, but looking back, I'm a bit less of a fan. Still a good book, of course, just a
+long way off the Discworld's best. Extremely good for being only number 4 in the series, of course!

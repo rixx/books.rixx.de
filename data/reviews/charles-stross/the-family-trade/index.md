@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: terry-pratchett/making-money
+  text: More econ fiction.
+- book: terry-pratchett/the-long-earth
+  text: More parallel world fiction that also takes the concept quite seriously.
 - book: charles-stross/the-hidden-family
   text: The next book in the series.
 review:

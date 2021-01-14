@@ -18,6 +18,10 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: terry-pratchett/wintersmith
+  text: The next Tiffany book.
+- book: terry-pratchett/the-wee-free-men
+  text: The previous Tiffany book.
 - book: terry-pratchett/monstrous-regiment
   text: The previous book in the series.
 - book: terry-pratchett/going-postal
@@ -29,3 +33,5 @@ review:
   - 2011-09-01
   rating: 5
 ---
+More Tiffany is good Tiffany. When it turned out that Tiffany was there to stay and not just a one-off, I was so
+incredibly happy.

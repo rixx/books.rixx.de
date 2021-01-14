@@ -18,14 +18,18 @@ book:
 plan:
   date_added: '2018-03-19'
 related_books:
-- book: terry-pratchett/the-light-fantastic
-  text: The previous book in the series.
+- book: terry-pratchett/wyrd-sisters
+  text: The next Witches book.
 - book: terry-pratchett/mort
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/the-light-fantastic
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2014-05-13
   rating: 4
 ---
+Definitely one of the better early Discworld books, but still very uneven. Not one of my favourites, but I can't in all
+honesty dislike a book with Granny Weatherwax in it – and as her first book, it *is* a bit special.

@@ -11,10 +11,19 @@ book:
   series_position: '1'
   spine_color: '#b6b09d'
   title: The Long Earth
+  tags:
+  - scifi
+  - portal
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: charles-stross/the-family-trade
+  text: A similar take on parallel realities.
 review:
   date_read:
   - 2014-06-01
-  rating: 4
+  rating: 3
 ---
+Parallel worlds are always fun, and I liked very much how the concept was set up. Normally in scifi you get a good
+concept like this, then an okay plot and cardboard characters. Sadly, in Long Earth everything except for the concept
+was made from cardboard.

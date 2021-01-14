@@ -18,6 +18,9 @@ book:
   title: The Graveyard Book
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: terry-pratchett/johnny-and-the-dead
+  text: More relatable dead people, more cemetaries. Less magic, though.
 review:
   date_read:
   - 2015-04-15

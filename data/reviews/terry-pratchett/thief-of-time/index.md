@@ -16,14 +16,22 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: michael-ende/momo
+  text: Very similar theme (what is time and how does it work, and what if we add efficiency?), very different execution.
+- book: terry-pratchett/death-and-what-comes-next
+  text: The next Death book.
+- book: terry-pratchett/hogfather
+  text: The previous Death book.
 - book: terry-pratchett/the-truth
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/the-amazing-maurice-and-his-educated-rodents
-  text: The next book in the series.
+  text: The next Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2006-07-01
   rating: 4
 ---
+Mysterious monks who keep things running behind the scenes! Time shenanigans! And also foreshadowing of Pratchett
+following up more on his philosophical leanings. Not the best Discworld book but still lots of fun.

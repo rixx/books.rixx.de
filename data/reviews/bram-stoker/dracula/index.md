@@ -18,7 +18,9 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: bram-stoker/dracula
+- book: terry-pratchett/carpe-jugulum
+  text: Discworld vampires.
+- book: jules-verne/the-castle-of-the-carpathians
   text: Published only five years apart, about creepy Transsylvanian castles.
 review:
   date_read:

@@ -16,16 +16,19 @@ book:
 plan:
   date_added: '2017-11-22'
 related_books:
+- book: terry-pratchett/i-shall-wear-midnight
+  text: The previous Tiffany book.
 - book: terry-pratchett/raising-steam
-  text: The previous book in the series.
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2017-11-22
   rating: 4
 ---
 
-It's a bit unpolished, and sometimes stumbles or takes some time where other Aching books were quick and smooth, but still – it's magnificent and we're so lucky to have it.
+It's a bit unpolished, and sometimes stumbles or takes some time where other Aching books were quick and smooth, but
+still – it's magnificent and we're so lucky to have it.
 
 It's not the same, but it's better than nothing, and I'll honestly take anything to soothe the persistent heartbreak.

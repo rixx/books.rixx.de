@@ -16,14 +16,19 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
-- book: terry-pratchett/soul-music
-  text: The previous book in the series.
+- book: terry-pratchett/the-last-continent
+  text: The next Rincewind book.
+- book: terry-pratchett/eric
+  text: The previous Rincewind book.
 - book: terry-pratchett/maskerade
-  text: The next book in the series.
+  text: The next Discworld book.
+- book: terry-pratchett/soul-music
+  text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
-  text: The first book in the series.
+  text: The first Discworld book.
 review:
   date_read:
   - 2007-12-01
-  rating: 4
+  rating: 2
 ---
+Ugh, more Rincewind. I really would exchange all the Rincewind books for just one more Tiffany book.
