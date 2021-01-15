@@ -842,12 +842,11 @@ header a {
 }
 #graph-wrapper svg circle.bunt.active {
   stroke: var(--book-color);
-}
-#graph-wrapper svg circle.bunt.active.search-hit,
-#graph-wrapper svg circle.search-hit,
-#graph-wrapper svg circle.bunt.search-hit {
-  stroke: red;
   stroke-width: 3px;
+}
+#graph-wrapper svg circle.search-hit {
+  stroke: #990000;
+  stroke-width: 2px;
 }
 #graph-wrapper svg line.bunt {
   stroke-width: 3px;
