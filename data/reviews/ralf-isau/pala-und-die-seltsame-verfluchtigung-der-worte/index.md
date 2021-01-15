@@ -11,12 +11,19 @@ book:
   tags:
   - fantasy
   - german
+  - language
   - ya
   title: Pala und die seltsame Verflüchtigung der Worte
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: franz-fuhmann/die-dampfenden-halse-der-pferde-im-turm-von-babel
+  text: Another book for children that is based on playing with language and literature.
 review:
   date_read:
   - 2004-11-01
-  rating: 4
+  rating: 2
 ---
+Pala is a book about language, about literature, about poetry – and yet, I didn't really like it. Maybe it's that I had
+high expectations from Franz Fühmann's masterwork, or that it just felt like it was trying too hard. Whatever it was,
+despite all the reasons I should love it, I don't.

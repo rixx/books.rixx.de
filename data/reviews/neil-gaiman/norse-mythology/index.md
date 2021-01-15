@@ -17,6 +17,9 @@ book:
   title: Norse Mythology
 plan:
   date_added: '2017-02-27'
+related_books:
+- book: gustav-schwab/sagen-des-klassischen-altertums
+  text: The same for Greek legends.
 review:
   date_read:
   - 2017-02-26

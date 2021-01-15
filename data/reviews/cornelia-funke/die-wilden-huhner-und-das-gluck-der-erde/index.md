@@ -32,3 +32,5 @@ review:
   - 2008-03-01
   rating: 3
 ---
+Inevitably, there is a horse book. Because girls. And horses. That seems to be the reasoning, at least as far as I
+remember it.

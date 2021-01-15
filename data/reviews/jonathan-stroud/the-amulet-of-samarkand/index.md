@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: eoin-colfer/artemis-fowl
+  text: Another ruthless young hero harnessing magic.
 - book: jonathan-stroud/the-ring-of-solomon
   text: The previous book in the series.
 - book: jonathan-stroud/the-golems-eye

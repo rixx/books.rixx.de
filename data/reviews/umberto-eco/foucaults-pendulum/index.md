@@ -17,8 +17,21 @@ book:
   title: Foucault's Pendulum
 plan:
   date_added: '2018-07-23'
+related_books:
+- book: umberto-eco/the-name-of-the-rose
+  text: More Eco shenanigans, only this time medieval.
+- book: jostein-gaarder/sophies-world
+  text: Another thinly-veiled philosophy book, only less fun and more preachy.
 review:
   date_read:
   - 2012-07-23
-  rating: 2
+  rating: 3
 ---
+Umberto Eco is a show-off. He goes all in on being a show-off, and he doesn't mind being pretentious and shoving obscure
+references down your throat either. As all nerds, once he gets going, he's unlikely to stop any time soon, so his books
+are long-winded and stuffed with references upon references. This can be obnoxious.
+
+Unless you're into people nerding out. Then it's a book of pure joy – and that's how I read it. I know that I got at
+most a third of the references, and that some stuff flew over my head, but seeing a work of art that was created out of
+utter fascination and joy was still mind-blowing for me. I was just about to finish school, and reading this book was a
+big "wow, this is *allowed*?" experience.

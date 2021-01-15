@@ -27,6 +27,8 @@ related_books:
     not choose the other Lewis?
 - book: erich-kastner/der-35-mai-oder-konrad-reitet-in-die-sudsee
   text: "Sharing the magical wardrobe leading children to a different world and talking animal. Not sharing: everything else."
+- book: ralf-isau/die-traume-des-jonathan-jabbok
+  text: If you want more thinly veiled Christianity in your YA portal fantasy.
 - book: lev-grossman/the-magicians
   text: See, somebody else doesn't like Lewis either!
 - book: c-s-lewis/prince-caspian

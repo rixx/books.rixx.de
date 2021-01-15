@@ -32,3 +32,4 @@ review:
   - 2005-03-01
   rating: 3
 ---
+Third part, third quarter of the century: 1950-1975. Less impressive than the beginning, but not slowing down.

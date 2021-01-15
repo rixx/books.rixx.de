@@ -20,7 +20,7 @@ book:
 plan:
   date_added: '2015-07-03'
 related_books:
-- book: licia-troisi/die-drachenkampferin-der-auftrag-des-magiers
+- book: licia-troisi/die-drachenkampferin
   text: The previous book in the series.
 - book: licia-troisi/im-land-des-windes
   text: The first book in the series.

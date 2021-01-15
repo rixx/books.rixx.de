@@ -25,8 +25,6 @@ related_books:
 - book: astrid-lindgren/pippi-langstrumpf
   text: If it's the absurd anarchist vibe that you're looking for, try the first part,
     which is a bit better.
-- book: roald-dahl/matilda
-  text: Matilda is also good for strong unconventional girls.
 review:
   date_read:
   - 1999-07-01

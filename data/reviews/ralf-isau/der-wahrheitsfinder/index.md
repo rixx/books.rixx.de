@@ -28,3 +28,5 @@ review:
   - 2005-04-01
   rating: 3
 ---
+Second part of the amazing saga, covering the years from 1925 until 1950. Still intriguing, but nowhere near the first
+part.

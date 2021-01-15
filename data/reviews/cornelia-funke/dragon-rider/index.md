@@ -21,8 +21,14 @@ book:
   title: Dragon Rider
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: christopher-paolini/eragon
+  text: Same sentient speaking dragons, for teenagers.
+- book: cornelia-funke/igraine-the-brave
+  text: Knights and monsters by Funke, for younger children.
 review:
   date_read:
   - 2007-04-01
   rating: 3
 ---
+I have very little memory of this book, apart from it being somewhat generic fantasy.

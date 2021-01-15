@@ -19,6 +19,8 @@ plan:
 related_books:
 - book: neil-gaiman/coraline
   text: For more heroines adventuring into fantastic worlds – though this one is more brutal.
+- book: lewis-carroll/alice-in-wonderland
+  text: The original little girl in absurd fantasy land portal fantasy, which has nothing at heart in common with this book.
 review:
   date_read:
   - 2016-10-20

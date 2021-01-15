@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-06-28'
 related_books:
+- book: roald-dahl/matilda
+  text: Matilda is also good for strong unconventional girls.
 - book: astrid-lindgren/pippi-in-the-south-seas
   text: Another book in the series.
 - book: astrid-lindgren/madita

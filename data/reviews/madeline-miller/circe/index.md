@@ -13,6 +13,9 @@ book:
   title: Circe
 plan:
   date_added: '2018-11-14'
+related_books:
+- book: gustav-schwab/sagen-des-klassischen-altertums
+  text: Background knowledge on Greek legends.
 review:
   date_read:
   - 2019-11-24

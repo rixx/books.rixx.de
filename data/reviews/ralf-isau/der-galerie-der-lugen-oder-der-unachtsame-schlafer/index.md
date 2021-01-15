@@ -18,6 +18,9 @@ book:
   title: Der Galerie der Lügen, oder, Der unachtsame Schläfer
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: More Christian propaganda.
 review:
   date_read:
   - 2017-01-28

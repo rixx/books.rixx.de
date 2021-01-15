@@ -18,6 +18,9 @@ book:
   title: Igraine the Brave
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: cornelia-funke/dragon-rider
+  text: Bravery and knights and monsters, for slightly older children.
 review:
   date_read:
   - 2004-02-01
@@ -25,5 +28,5 @@ review:
 ---
 
 Igraine is a very sweet book for kids. Igraine wants to be a knight, not a boring wizard like everybody else in her
-family, and she gets her wish – and has to save her family in the process. A bit saccharine in the general direction,
+family, and she gets her wish – and has to save her family in the process. A bit saccharine in the general tone,
 possibly, but the execution borders on dry and is just generally sparking joy.

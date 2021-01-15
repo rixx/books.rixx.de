@@ -24,6 +24,8 @@ related_books:
   text: Agatha Christie is another good mystery author of the time.
 - book: astrid-lindgren/kalle-blomquist
   text: A young man who would like to be Sherlock.
+- book: umberto-eco/the-name-of-the-rose
+  text: William of Baskerville – guess who he's based on?
 review:
   date_read:
   - 2003-09-01

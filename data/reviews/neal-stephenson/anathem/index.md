@@ -20,6 +20,9 @@ book:
   title: Anathem
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: umberto-eco/the-name-of-the-rose
+  text: Pretentious monks nerding out.
 review:
   date_read:
   - 2019-09-20

@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-06-28'
 related_books:
+- book: ralf-isau/das-jahrhundertkind
+  text: Another series that is excellent at teaching important historic moments through the eyes of its protagonist.
 - book: volker-ullrich/die-revolution-von-1918-19
   text: Nonfiction, for reference.
 - book: klaus-kordon/mit-dem-rucken-zur-wand

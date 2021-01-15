@@ -17,6 +17,9 @@ book:
   title: Die dampfenden Hälse der Pferde im Turm von Babel
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: ralf-isau/pala-und-die-seltsame-verfluchtigung-der-worte
+  text: Another book for children that is based on playing with language and literature.
 review:
   date_read:
   - 2000-03-01

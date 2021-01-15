@@ -17,6 +17,9 @@ book:
   title: 'Fragile Things: Short Fictions and Wonders'
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: eoin-colfer/doctor-who-eleven-doctors-eleven-stories
+  text: Another Gaiman short story.
 review:
   date_read:
   - 2016-05-22

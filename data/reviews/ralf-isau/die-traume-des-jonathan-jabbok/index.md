@@ -19,6 +19,11 @@ book:
   title: Die Träume des Jonathan Jabbok
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: If you want more thinly veiled Christianity in your YA portal fantasy.
+- book: ralf-isau/das-jahrhundertkind
+  text: Isau's other big series. Less magic, more realism.
 review:
   date_read:
   - 2007-10-01

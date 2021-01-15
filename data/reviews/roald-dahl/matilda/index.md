@@ -19,8 +19,14 @@ book:
   title: Matilda
 plan:
   date_added: '2016-05-18'
+related_books:
+- book: astrid-lindgren/pippi-langstrumpf
+  text: Another unconventional clever young girl who has to deal with oppressive adults.
 review:
   date_read:
   - 2004-10-01
   rating: 4
 ---
+Possibly my favourite book by Dahl. While it is needlessly cruel (like all his books), it catered to the nerdy
+book-loving kid demographic relentlessly, and that was more than fine by me. And now we even have a great Tim Minchin
+musical, which is another point in favour of the book.

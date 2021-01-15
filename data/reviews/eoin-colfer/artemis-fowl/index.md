@@ -22,6 +22,10 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: jonathan-stroud/the-amulet-of-samarkand
+  text: Another ruthless young hero harnessing magic.
+- book: jasper-fforde/the-eyre-affair
+  text: If you liked Holly in Artemis Fowl, you'll love Thursday Next.
 - book: eoin-colfer/the-arctic-incident
   text: The next book in the series.
 review:
@@ -29,3 +33,6 @@ review:
   - 2004-02-01
   rating: 2
 ---
+Artemis Fowl was fun at the time – I particularly enjoyed decoding the secret message in the decoration on every page.
+It was a good thing to read at the time, but nothing I'm going to revisit any time soon – I don't think it would stand
+up to a re-read.

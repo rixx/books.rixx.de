@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2017-06-20'
 related_books:
+- book: cornelia-funke/inkspell
+  text: Another author having to grapple, in-text, with his own book and the characters he created.
 - book: stephen-king/wolves-of-the-calla
   text: The previous book in the series.
 - book: stephen-king/the-dark-tower

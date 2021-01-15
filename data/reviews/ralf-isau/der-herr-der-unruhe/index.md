@@ -15,10 +15,14 @@ book:
   title: Der Herr der Unruhe
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: ralf-isau/der-wahrheitsfinder
+  text: Another Isau magical realism book, taking place during the same time.
 review:
   date_read:
   - 2016-11-13
   rating: 3
 ---
 
-Sehr Isau, viele Referenzen. Bisschen billige Grundannahme, und das erste Drittel sehr unerträglich in der Beschreibung des love interests, aber macht halt trotzdem Spaß, weil Isau.
+Magical realism in Mussolini's Italy: Our protagonist can talk to machines. A bit cheap with the Romeo and Juliet arc,
+but the descriptions and research are, as always with Isau, top notch.

@@ -7,7 +7,7 @@ book:
   publication_year: '1981'
   spine_color: '#a09a85'
   tags:
-  - german
+  - portal
   title: Alice in Wonderland
 plan:
   date_added: '2015-04-09'
@@ -15,6 +15,12 @@ related_books:
 - book: walter-moers/a-wild-ride-through-the-night
   text: Absurd interactions with fantastical creatures in a dream-like world?  Sometimes
     scary and sometimes hilarious? Right this way.
+- book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
+  text: Superficially similar, but at the heart the two have little in common. For one, Alice would never follow a quest.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: Also superficially similar portal fantasy, but not at all the same – Alice is much trippier.
+- book: samuel-beckett/waiting-for-godot
+  text: If you don't care for the trippy part and just want more dadaistic dialogue, you could do worse than Beckett.
 - book: carlo-collodi/pinocchio
   text: I read both books around the same time, and both have the underlying ambience
     of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio
@@ -36,16 +42,3 @@ head hurt in good ways.
 
 Also, the some figures in it are so vivid and weird that I never forgot them. Most of all the cat, whose grin is capable
 of staying behind after the cat has vanished. Thinking about this also made my head hurt in a good way.
-
-## Further Reading
-
-Alice stands on her own in many ways. Of course there are many books that follow young girls into nonsensically
-fantastic worlds, like [The Girl Who Circumnavigated Fairyland in a Ship of Her Own
-Making](https://books.rixx.de/reviews/2016/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making), or all
-the [Wayward Children books](https://books.rixx.de/reviews/2018/every-heart-a-doorway) running on portal fantasy. But
-they do something different. They follow a pattern, and Alice does absolutely not even consider following a pattern.
-
-I think the closest you'd come to the Alice books would be a New Weird book, except that even China Miéville has way too
-much consistency and coherence to come even close to Alice. If you don't mind losing the trippy part, and you just want
-to see more dadaism, I'd probably recommend something like [Waiting for
-Godot](https://books.rixx.de/reviews/2008/waiting-for-godot).

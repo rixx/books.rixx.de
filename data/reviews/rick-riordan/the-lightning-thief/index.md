@@ -16,6 +16,9 @@ book:
   title: The Lightning Thief
 plan:
   date_added: '2015-08-06'
+related_books:
+- book: gustav-schwab/sagen-des-klassischen-altertums
+  text: Background knowledge on Greek legends.
 review:
   date_read:
   - 2016-01-01
