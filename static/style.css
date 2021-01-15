@@ -823,16 +823,31 @@ header a {
 #graph-wrapper #graph-sidebar #book-preview > * {
   margin-bottom: 6px;
 }
+#graph-wrapper #graph-sidebar #graph-stats #graph-search {
+  margin: 12px;
+}
 #graph-wrapper svg circle {
   cursor: pointer;
-  fill: #ccc;
   transition: fill 0.35s ease;
 }
-#graph-wrapper svg circle.bunt {
+#graph-wrapper svg circle,
+#graph-wrapper svg circle.bunt.search-fail,
+#graph-wrapper svg circle.search-fail {
+  fill: #ccc;
+}
+#graph-wrapper svg circle.bunt,
+#graph-wrapper svg circle.bunt.active,
+#graph-wrapper svg circle.search-hit {
   fill: var(--book-color);
 }
 #graph-wrapper svg circle.bunt.active {
   stroke: var(--book-color);
+}
+#graph-wrapper svg circle.bunt.active.search-hit,
+#graph-wrapper svg circle.search-hit,
+#graph-wrapper svg circle.bunt.search-hit {
+  stroke: red;
+  stroke-width: 3px;
 }
 #graph-wrapper svg line.bunt {
   stroke-width: 3px;

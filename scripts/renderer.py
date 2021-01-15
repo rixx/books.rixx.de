@@ -627,6 +627,11 @@ def build_site(**kwargs):
                 "rating": int(review.metadata["review"]["rating"]),
                 "color": review.metadata["book"].get("spine_color"),
                 "connections": len(list(graph.neighbors(node))),
+                "search": [
+                    term for term in
+                    review.metadata["book"]["title"].lower().split() + review.metadata["book"]["author"].lower().split() + review.metadata["book"].get("series", "").lower().split()
+                    if term
+                ]
             }
         )
     edges = [{"source": source, "target": target} for source, target in graph.edges]

@@ -37,7 +37,8 @@ const isConnected = (a, b) => {
 }
 
 const changeGraphHighlight = (book) => {
-    node.classed("bunt active", (d) => isConnected(d, book))
+    node.classed("bunt", (d) => isConnected(d, book))
+    node.classed("active", (d) => isConnected(d, book))
     link.classed("bunt", (d) => d.source.id === book.id || d.target.id === book.id)
         .attr("stroke", (d) => (d.source.id === book.id || d.target.id === book.id) ? book.color : "#999")
 }
@@ -48,6 +49,28 @@ const removeGraphHighlight = (book) => {
     link.classed("bunt", false)
         .attr("stroke", "#999")
         .attr("stroke-opacity", 0.6)
+}
+
+const changeSearch = () => {
+    const search = document.querySelector("input#graph-search").value
+    window.location.hash = encodeURI(search)
+    const searchTerms = search
+        .split(" ")
+        .filter(d => d.length)
+        .map(d => d.toLowerCase().trim())
+    if (!searchTerms.length) {
+        node.classed("search-hit", false)
+        node.classed("search-fail", false)
+        return
+    }
+    const searchHit = (book) => {
+        for (term of searchTerms) {
+            if (!(book.search.filter(d => d.includes(term)).length)) return false
+        }
+        return true
+    }
+    node.classed("search-hit", d => searchHit(d))
+    node.classed("search-fail", d => !searchHit(d))
 }
 
 d3.json("/graph.json").then(data => {
@@ -144,4 +167,10 @@ d3.json("/graph.json").then(data => {
             .attr("cx", d => d.x)
             .attr("cy", d => d.y);
     });
+    document.querySelector("input#graph-search").value = decodeURI(window.location.hash.substr(1))
+    changeSearch()
 })
+
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelector("input#graph-search").addEventListener("input", changeSearch)
+}, false);
