@@ -34,4 +34,10 @@ review:
   rating: 5
 ---
 
-I stand by my previous 5 star rating even on the re-read. Of course, this is heavily influenced by the fact that I read this book several times as a kid, but still – I think it is a good book. It's definitely by far my favourite book from Dorothy L. Sayers. Everything fits: characters, dialogue, extreme amounts of atmosphere, and even a plot worth the name. There are some side characters that I'd have loved to see more of, but that's the only criticism that comes to mind.
+I stand by my previous 5 star rating even on the re-read. Of course, this is heavily influenced by the fact that I read
+this book several times as a kid, but still – I think it is a good book. It's definitely by far my favourite book from
+Dorothy L. Sayers. Everything fits: characters, dialogue, extreme amounts of atmosphere, and even a plot worth the name.
+There are some side characters that I'd have loved to see more of, but that's the only criticism that comes to mind.
+
+*Edit:* The review was written just before I read [Gaudy Night](/dorothy-l-sayers/gaudy-night), which has succeeded Nine
+Tailors as my favourite Sayers book.

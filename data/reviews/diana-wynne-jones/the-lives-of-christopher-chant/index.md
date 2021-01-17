@@ -29,3 +29,6 @@ review:
   - 2006-05-01
   rating: 4
 ---
+Chrestomanci was my first encounter with the phenomenon that is Diana Wynne Jones. I liked the books – they seemed to
+strike the tricky balance between whimsy, absurdity, and having an actual plot. I can still remember how Christopher
+starts going into other worlds, touching things to make them solid. It's a great image.

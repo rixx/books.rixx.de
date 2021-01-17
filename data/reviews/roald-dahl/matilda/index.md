@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: astrid-lindgren/pippi-langstrumpf
   text: Another unconventional clever young girl who has to deal with oppressive adults.
+- book: roald-dahl/the-witches
+  text: Similarly brutal, with similarly cruel adults. Only, you know, witches.
 review:
   date_read:
   - 2004-10-01

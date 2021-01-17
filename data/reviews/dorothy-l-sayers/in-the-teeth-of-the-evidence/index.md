@@ -29,4 +29,6 @@ review:
   rating: 2
 ---
 
-Collection of short stories: A Wimsey, two-ish Eggs, and then a lot of random stuff. Sadly I like Sayers best when she does characters and snark, and least when she concentrates on plots (her plots are not great), so this wasn't my kind of thing.
+Collection of short stories: A Wimsey, two-ish Eggs, and then a lot of random stuff. Sadly I like Sayers best when she
+does characters and snark, and least when she concentrates on plots (her plots are not great), so this wasn't my kind of
+thing.

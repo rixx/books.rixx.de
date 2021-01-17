@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: lian-hearn/across-the-nightingale-floor
+  text: A more brutal but similarly enthralling coming-of-age story.
 - book: john-flanagan/the-burning-bridge
   text: The next book in the series.
 review:

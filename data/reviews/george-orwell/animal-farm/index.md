@@ -15,6 +15,9 @@ book:
   title: Animal Farm
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: friedrich-durrenmatt/the-visit
+  text: A much better take, possibly because it's less anti-soviet and better written and not by Orwell.
 review:
   date_read:
   - 2008-07-01

@@ -15,8 +15,14 @@ book:
   title: The Call of the Wild
 plan:
   date_added: '2015-04-17'
+related_books:
+- book: jordanna-max-brodsky/the-wolf-in-the-whale
+  text: Another arctic animal adventure, though magical realism.
 review:
   date_read:
   - 2008-09-01
   rating: 4
 ---
+Arctic animal adventures! I loved this book to the point that I can't say if it is any good, or if it was just exactly
+right for me at the time. London's writing feels like there's a trick somewhere that gets me to like it. But it's very
+reliable and enjoyable, so I'm not complaining.

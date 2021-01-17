@@ -17,4 +17,11 @@ review:
   date_read:
   - 2009-12-01
   rating: 2
+related_books:
+- book: friedrich-schiller/die-rauber
+  text: More good Schiller drama.
+- book: friedrich-schiller/maria-stuart
+  text: More semi-historical Schiller drama.
 ---
+Wilhelm Tell might be Schiller's most enjoyable drama, but also his most generic one. That's *probably* a compliment,
+seeing as it wasn't generic then, and only became so due to its own popularity?

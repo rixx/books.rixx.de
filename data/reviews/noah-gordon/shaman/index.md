@@ -29,3 +29,7 @@ review:
   - 2006-09-01
   rating: 2
 ---
+Centuries after the first volume, the Cole family is still going strong as physicians. But how do you deal with the
+deafness of your oldest son if healing is your complete identity? Not particularly well, it turns out. There's a lot of
+room for personal growth and it is used very well. I also had the impression that the research was better (possibly
+because as a US American writer, Gordon is closer to the topic).

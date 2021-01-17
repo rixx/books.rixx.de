@@ -20,8 +20,19 @@ book:
   title: Howl's Moving Castle
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: terry-pratchett/the-wee-free-men
+  text: "If the young heroine battling magical forces above her skill level is your kind of thing: Read Tiffany books."
+- book: neil-gaiman/stardust
+  text: Stardust has a similar sense of big reluctant (British) magical adventure. Maybe all that divides them is a gender line …
 review:
   date_read:
   - 2009-10-01
   rating: 4
 ---
+This book confused me a lot when I first read it (to be fair: it is a confusing book). Then I watched the movie a year
+or two later, and I didn't connect it with the book *at all*. It only came to me slowly over the course of months that
+the two might be connected. It's so weird!
+
+The book is awesome, the movie is awesome, but they are wildly different things. The movie is more beautiful, the book
+is more quirky and charming. Alternatively, what [David says](https://twitter.com/DRMacIver/status/1246896457082441730).

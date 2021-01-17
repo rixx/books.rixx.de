@@ -11,8 +11,13 @@ book:
   title: Charlie and the Chocolate Factory
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: heinrich-hoffmann/struwwelpeter
+  text: The previous generation's cautionary tales, similarly dark and edgy and self-righteous.
 review:
   date_read:
   - 2006-08-01
-  rating: 4
+  rating: 2
 ---
+Disobedient children are punished. But this is not a lame traditionally cautionary tale, no: It's a dark edgy
+traditional cautionary tale.

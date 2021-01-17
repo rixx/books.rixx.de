@@ -64,10 +64,19 @@ social:
       https://books.rixx.de/reviews/2020/gaudy-night/'
 ---
 
-Gaudy Night is the first book on my Wimsey re-read that I hadn't read before. In truth, it's about 3.5-4 stars, but it gets five for breaking my heart.
+Gaudy Night is the first book on my Wimsey re-read that I hadn't read before. In truth, it's about 3.5-4 stars, but it
+gets five for breaking my heart.
 
-The first half of this book – written centered on Harriet and her old college, is slow and terribly annoying, though not without charm. Harriet is given to judging people from the outside, and commenting excessively on choice of dress and attractiveness in general. She comes across, not without reason, as narrow-minded and uptight. The other annoying-and-fascinating part is the sexism, sexism everywhere! Sometimes it's the subject of Sayers' point and commentary (implicit and explicit), but sometimes it's just … there.
+The first half of this book – written centered on Harriet and her old college, is slow and terribly annoying, though not
+without charm. Harriet is given to judging people from the outside, and commenting excessively on choice of dress and
+attractiveness in general. She comes across, not without reason, as narrow-minded and uptight. The other
+annoying-and-fascinating part is the sexism, sexism everywhere! Sometimes it's the subject of Sayers' point and
+commentary (implicit and explicit), but sometimes it's just … there.
 
-Then Lord Peter swoops in and saves Harriet. Not literally, though that happens too, but he saves the book, and her character, and everything is just wonderful.
+Then Lord Peter swoops in and saves Harriet. Not literally, though that happens too, but he saves the book, and her
+character, and everything is just wonderful.
 
-The mystery itself, as usually, is nothing to write home about, but the *setting*, oh!, the setting. It's lovely and heart-breakingly well-written. As are the characters, even when they are annoying, and the banter, and long-budding romance. In the first half I didn't understand why people would put it up there with Nine Tailors because it was clearly worse, and the second half more than changed my opinion.
+The mystery itself, as usually, is nothing to write home about, but the *setting*, oh!, the setting. It's lovely and
+heart-breakingly well-written. As are the characters, even when they are annoying, and the banter, and long-budding
+romance. In the first half I didn't understand why people would put it up there with Nine Tailors because it was clearly
+worse, and the second half more than changed my opinion.

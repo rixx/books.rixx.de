@@ -50,6 +50,12 @@ social:
       https://books.rixx.de/reviews/2020/the-five-red-herrings/'
 ---
 
-I tend to like the Lord Peter Wimsey novels a lot – but I dislike mysteries in general, and I like these particular mysteries because Dorothy L. Sayers wrote brilliant dialogue and characters. This book has decidedly less dialogue and less Lord Peter than any of the previous one. Instead it focuses on the local artists and fishing – and in turn felt just as tedious as having to live with people who are only interested in their own drawings and catching fish. It dragged on and on and was no fun. I couldn't manage to care about the accused, or the victim, or the train schedules that were recited for pages on end.
+I tend to like the Lord Peter Wimsey novels a lot – but I dislike mysteries in general, and I like these particular
+mysteries because Dorothy L. Sayers wrote brilliant dialogue and characters. This book has decidedly less dialogue and
+less Lord Peter than any of the previous one. Instead it focuses on the local artists and fishing – and in turn felt
+just as tedious as having to live with people who are only interested in their own drawings and catching fish. It
+dragged on and on and was no fun. I couldn't manage to care about the accused, or the victim, or the train schedules
+that were recited for pages on end.
 
-Good thing my re-read will come up to Nine Tailors and Murder Must Advertise soon, because if I didn't know better, this book would put me off the Wimsey series.
+Good thing my re-read will come up to Nine Tailors and Murder Must Advertise soon, because if I didn't know better, this
+book would put me off the Wimsey series.

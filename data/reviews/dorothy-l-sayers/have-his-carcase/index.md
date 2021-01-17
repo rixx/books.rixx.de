@@ -18,7 +18,7 @@ plan:
 related_books:
 - book: dorothy-l-sayers/the-five-red-herrings
   text: The previous book in the series.
-- book: dorothy-l-sayers/hangmans-holiday-a-collection-of-short-mysteries
+- book: dorothy-l-sayers/hangmans-holiday
   text: The next book in the series.
 - book: dorothy-l-sayers/whose-body
   text: The first book in the series.
@@ -53,4 +53,8 @@ social:
       https://books.rixx.de/reviews/2020/have-his-carcase/'
 ---
 
-This was a fair Wimsey novel – banter (especially between Him and Her), with the mystery being less important than the people. The strong focus on their non-relationship detracted a bit from my carefree enjoyment, though, and made me read the book more through a historian's lense: Gender roles, social norms, and general expectations have changed *so much*, and Dorothy L. Sayers' take on them is fascinating and utterly foreign to me.
+This was a fair Wimsey novel – banter (especially between Him and Her), with the mystery being less important than the
+people (who cares about a dead body on the beach). The strong focus on their non-relationship detracted a bit from my
+carefree enjoyment, though, and made me read the book more through a historian's lense: Gender roles, social norms, and
+general expectations have changed *so much*, and Dorothy L. Sayers' take on them is fascinating and utterly foreign to
+me.

@@ -21,7 +21,7 @@ book:
 plan:
   date_added: '2016-05-07'
 related_books:
-- book: dorothy-l-sayers/hangmans-holiday-a-collection-of-short-mysteries
+- book: dorothy-l-sayers/hangmans-holiday
   text: The previous book in the series.
 - book: dorothy-l-sayers/the-nine-tailors
   text: The next book in the series.
@@ -33,4 +33,11 @@ review:
   rating: 4
 ---
 
-Murder Must Advertise is such a fun book. Witty, word-play-y, though it works best if you're already familiar with Lord Peter. Great characterisations, and not even that bad of a plot (always the weak point with Sayers). The characters were life-like and good and touching in unexpected places. Keen eye for British class and culture. Loved the banter, missed the Bunter. I'm very happy my re-read arrived here, because Murder Must Advertise and the next book, Nine Tailors, seem to me the best of Sayers' work.
+Murder Must Advertise is such a fun book. Witty, word-play-y, though it works best if you're already familiar with Lord
+Peter. Great characterisations, and not even that bad of a plot (always the weak point with Sayers). The characters were
+life-like and good and touching in unexpected places. Keen eye for British class and culture. Loved the banter, missed
+the Bunter. I'm very happy my re-read arrived here, because Murder Must Advertise and the next book, Nine Tailors, seem
+to me the best of Sayers' work.
+
+*Edit:* This review was written before I had read [Gaudy Night](/dorothy-l-sayers/gaudy-night), which I now consider her
+best work.

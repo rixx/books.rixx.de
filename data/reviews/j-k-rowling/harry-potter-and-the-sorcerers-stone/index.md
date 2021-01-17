@@ -24,6 +24,8 @@ related_books:
     so many things so much better than Harry Potter – it comes at it from a more grounded,
     more realistic view, and carries it off extremely well. It helps that Diane Duane
     is also a better writer if you just compare their prose.
+- book: diana-wynne-jones/witch-week
+  text: Another British magical boarding school. Grittier, more daring.
 - book: violet-haberdasher/knightley-academy
   text: If you want to read the same again, down to the characters and sub-plots,
     go here.

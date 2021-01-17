@@ -16,8 +16,13 @@ book:
   title: The Witches
 plan:
   date_added: '2015-08-04'
+related_books:
+- book: roald-dahl/matilda
+  text: Another cruel Dahl for children, but better in every way.
 review:
   date_read:
   - 2006-03-01
-  rating: 4
+  rating: 2
 ---
+This is a book that made me feel uncomfortable and unliked as a kid, and made me very hesitant to read any Roald Dahl
+ever again. Everything is gritty and dark and dangerous, and that seemed to seep into the world around me.

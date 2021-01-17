@@ -31,4 +31,6 @@ review:
   rating: 4
 ---
 
-This was just as fun as I remembered.
+This was just as fun as I remembered. Peter's mother appears a lot (always a good thing), and his brother is a total
+idiot. Peter does his thing and I love everything about it. The story is a bit inconsequential, but we're here for the
+dialogue, not some pesky murder mystery.

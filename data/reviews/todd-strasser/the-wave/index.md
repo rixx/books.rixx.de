@@ -17,6 +17,9 @@ book:
   title: The Wave
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: friedrich-durrenmatt/the-visit
+  text: Another take on how people can be coerced and tempted into unethical conformity.
 review:
   date_read:
   - 2006-11-01

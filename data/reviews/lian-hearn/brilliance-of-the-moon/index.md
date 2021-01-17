@@ -20,14 +20,15 @@ book:
 plan:
   date_added: '2015-07-03'
 related_books:
-- book: lian-hearn/der-pfad-im-schnee
+- book: lian-hearn/grass-for-his-pillow
   text: The previous book in the series.
-- book: lian-hearn/der-ruf-des-reihers
+- book: lian-hearn/the-harsh-cry-of-the-heron
   text: The next book in the series.
-- book: lian-hearn/das-schwert-in-der-stille
+- book: lian-hearn/across-the-nightingale-floor
   text: The first book in the series.
 review:
   date_read:
   - 2006-05-01
-  rating: 3
+  rating: 2
 ---
+As set up by the previous book, everybody is being stupid and then there is a lot of battling and death. Not a fan.

@@ -22,12 +22,14 @@ book:
 plan:
   date_added: '2019-09-29'
 related_books:
-- book: dorothy-l-sayers/clouds-of-witness
-  text: The next book in the series.
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: Miles Vorkosigan is at least partially based on Lord Peter.
 - book: arthur-conan-doyle/sherlock-holmes
   text: Another of the big mystery authors of the time.
 - book: agatha-christie/murder-at-the-vicarage
   text: Another of the big mystery authors of the time.
+- book: dorothy-l-sayers/clouds-of-witness
+  text: The next book in the series.
 review:
   date_read:
   - 2019-09-29
@@ -36,7 +38,7 @@ review:
 
 I read and re-read a lot of *Dorothy L. Sayers* in German when I was a kid, around 10. I loved those books to bits, so I started wondering if they were as good as I remembered. I started my re-read in the beginning, with **Whose Body?**, and it turns out: yes. The books are as good as I remembered, or even better, now that I get to read them in English *and* have an Internet at my fingertips to look up all the more and less obscure literary allusions – which there are many of. The writing style is charming, and has a very distinctive voice of its own, and lends very realistic, nearly audible voices to each and every character on cast.
 
-Dorothy L. Sayers is best known for her Lord Peter Wimsey detective novels, and this is one of them. Lord Peter is the younger brother of the Duke of Denver, and, having returned from WW1, he spends his time collecting first editions of rare books and solving mysteries. He does so with a charming, distracted air, pretending to be a babbling aristocratic idiot much of the time, which is more enjoyable than it has any right to be. He's followed around by his man/butler/ex-seargant Bunter, who is smooth, clever, polite, a tremendous help, and will also stop Lord Peter from wearing unacceptable things – and takes care of him when the Shell Shock (PTSD) gets too much. Both of them are gems, as is Lord Peter's police inspector friend Charles Parker, a devout Christian who is into critical theology in his free time. This gives the book a good chance to look at class privilege and separation, which I'm happy to report it does.
+Dorothy L. Sayers is best known for her Lord Peter Wimsey detective novels, and this is one of them. Lord Peter is the younger brother of the Duke of Denver, and, having returned from WW1, he spends his time collecting first editions of rare books and solving mysteries. He does so with a charming, distracted air, pretending to be a babbling aristocratic idiot much of the time, which is more enjoyable than it has any right to be. He's followed around by his man/butler/ex-sergeant Bunter, who is smooth, clever, polite, a tremendous help, and will also stop Lord Peter from wearing unacceptable things – and takes care of him when the Shell Shock (PTSD) gets too much. Both of them are gems, as is Lord Peter's police inspector friend Charles Parker, a devout Christian who is into critical theology in his free time. This gives the book a good chance to look at class privilege and separation, which I'm happy to report it does.
 
 The best character though is the Dowager Duchess, Lord Peter's mother. She can ramble for pages, just like him, in a delightfully distracted manner – but she's even sharper than her son, with the unfortunate habit of reading mystery books and knowing the solution by page 12 (or 22, if it's a good author). She habitually provides relevant clues in her distracted manner, and is even more sarcastic than Lord Peter.
 

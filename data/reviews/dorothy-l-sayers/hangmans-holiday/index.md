@@ -53,4 +53,7 @@ social:
       https://books.rixx.de/reviews/2020/hangmans-holiday-a-collection-of-short-mysteries/'
 ---
 
-This collection has two types of stories: Lord Peter Wimsey ones and Montague Egg ones. On the upside, the Lord Peter stories have great characters and witty banter, so they are fun to read even though their plots are a bit stupid or dull. On the other hand, the Montague Egg stories have mind-numbingly stupid and dull pts, so not even a witty character with good dialogue manages to save them.
+This collection has two types of stories: Lord Peter Wimsey ones and Montague Egg ones. On the upside, the Lord Peter
+stories have great characters and witty banter, so they are fun to read even though their plots are a bit stupid or
+dull. On the other hand, the Montague Egg stories have mind-numbingly stupid and dull pts, so not even a witty character
+with good dialogue manages to save them.

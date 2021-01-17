@@ -20,6 +20,9 @@ book:
   title: Dark Lord of Derkholm
 plan:
   date_added: 2020-07-31
+related_books:
+- book: diana-wynne-jones/the-magicians-of-caprona
+  text: Another Wynne Jones book that focuses on a magical family.
 review:
   date_read:
   - 2020-07-30
@@ -29,7 +32,7 @@ review:
 It has been over a decade since I read my last book by Diana Wynne Jones, but I'd like to think that I would have
 recognised this as hers by the playful prose and convoluted plot where you will miss half the fun if you blink. I had
 left this book on my reading list as a guaranteed good book, and after being so disappointed by
-[Romanitas](https://books.rixx.de/sophia-mcdougall/romanitas/), I needed the palate cleanser badly.
+[Romanitas](/sophia-mcdougall/romanitas/), I needed the palate cleanser badly.
 
 Though that's wrong: This is not a rebound book. It reads as playful fantasy caricature at first, but despite the light
 storytelling it's a fairly dark story. The wizard Derk has to be this year's Dark Lord – and few could be less suited

@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2016-05-06'
 related_books:
+- book: eoin-colfer/doctor-who-eleven-doctors-eleven-stories
+  text: More Doctor Who stories.
 - book: diana-wynne-jones/the-magicians-of-caprona
   text: The previous book in the series.
 review:
@@ -29,3 +31,5 @@ review:
   - 2008-05-01
   rating: 3
 ---
+Young Chrestomanci, as seen by outside eyes. Fun, but mostly fun if you have read any other book of the series. Gave me
+Doctor Who vibes, funnily enough.

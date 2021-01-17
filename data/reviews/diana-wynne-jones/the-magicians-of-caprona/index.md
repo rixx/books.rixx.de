@@ -18,10 +18,15 @@ book:
   - fantasy
   - german
   - ya
+  - parallel-worlds
   title: The Magicians of Caprona
 plan:
   date_added: '2016-05-06'
 related_books:
+- book: ralf-isau/der-herr-der-unruhe
+  text: Another magical take on Romeo and Juliet, though this time magical realism.
+- book: diana-wynne-jones/dark-lord-of-derkholm
+  text: Another Wynne Jones book that focuses on a magical family.
 - book: diana-wynne-jones/witch-week
   text: The previous book in the series.
 - book: diana-wynne-jones/conrads-fate
@@ -31,3 +36,6 @@ review:
   - 2007-03-01
   rating: 3
 ---
+Romeo and Juliet: magic edition! Feuding Italian families, throwing magic at each other and being delightfully
+temperamental. Add in nosy kids, moody teenagers, snarky cats and almighty matriarchs … yes, I really like this book.
+It's among my top books by Diana Wynne Jones, and that's saying something.

@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2017-12-24'
 related_books:
+- book: diana-wynne-jones/conrads-fate
+  text: Strong Doctor Who vibes when the magical Chrestomanci has to investigate and fix a mystery.
 - book: neil-gaiman/fragile-things
   text: More short stories by Neil Gaiman.
 review:

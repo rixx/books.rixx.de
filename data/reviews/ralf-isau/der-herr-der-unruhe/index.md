@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: diana-wynne-jones/the-magicians-of-caprona
+  text: Another magical take on Romeo and Juliet, though this one has no pesky realism.
 - book: ralf-isau/der-wahrheitsfinder
   text: Another Isau magical realism book, taking place during the same time.
 review:

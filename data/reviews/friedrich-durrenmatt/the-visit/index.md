@@ -13,14 +13,25 @@ book:
   publication_year: '1962'
   spine_color: '#a52015'
   tags:
-  - five-stars
   - german
   - stage-play
   title: The Visit
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: todd-strasser/the-wave
+  text: Another take on how people can be coerced and tempted into unethical conformity.
+- book: friedrich-durrenmatt/die-panne
+  text: A short story, a bit more focused on themes of personal responsibility, but also about culpability.
+- book: friedrich-durrenmatt/die-physiker
+  text: An equally snarky, equally disturbing stage play by Dürrenmatt.
+- book: george-orwell/animal-farm
+  text: A more boring, more coercive scenario, but dealing with similar questions.
 review:
   date_read:
   - 2009-01-01
-  rating: 5
+  rating: 4
 ---
+Dürrenmatt will always punch you in the face. This time he's talking about corruptability and the corruption brought
+about by wealth. It's the terrifying story of a man sold out by his entire community for the promise of wealth. It's
+about ethics and justice and avarice. I loved it. Seeing it on stage when I was 17 was transformative.

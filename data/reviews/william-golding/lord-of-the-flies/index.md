@@ -15,6 +15,9 @@ book:
   title: Lord of the Flies
 plan:
   date_added: '2015-04-17'
+related_books:
+- book: daniel-defoe/robinson-crusoe
+  text: Survival on an island.
 review:
   date_read:
   - 2017-05-15

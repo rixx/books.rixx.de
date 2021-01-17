@@ -50,4 +50,6 @@ social:
       https://books.rixx.de/reviews/2020/lord-peter-views-the-body/'
 ---
 
-This collection is a very nice mix of Lord Peter Wimsey stories. I particularly liked the ones where he's an under-cover spy, and the one where he and his nephew go on a treasuer hunt. While the plot quality varies a bit, the writing and character building are delightful.
+This collection is a very nice mix of Lord Peter Wimsey stories. I particularly liked the ones where he's an under-cover
+spy, and the one where he and his nephew go on a treasuer hunt. While the plot quality varies a bit, the writing and
+character building are delightful.

@@ -17,6 +17,9 @@ book:
   title: Effi Briest
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: theodor-storm/der-schimmelreiter
+  text: The-other Theodor at the time.
 review:
   date_read:
   - 2010-01-01

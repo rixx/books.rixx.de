@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: robin-hobb/royal-assassin
   text: The next book in the series.
+- book: lilli-thal/mimus
+  text: Mimus has it much worse than Fitz, but he's less of a tool, so it evens out.
 review:
   date_read:
   - 2016-10-11

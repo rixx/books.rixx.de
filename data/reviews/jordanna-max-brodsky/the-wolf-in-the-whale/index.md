@@ -17,6 +17,9 @@ book:
   title: The Wolf in the Whale
 plan:
   date_added: '2018-12-08'
+related_books:
+- book: jack-london/the-call-of-the-wild
+  text: Another arctic animal adventure, though magical realism.
 review:
   date_read:
   - 2019-05-05

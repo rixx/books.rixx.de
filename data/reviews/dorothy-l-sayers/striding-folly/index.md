@@ -50,4 +50,7 @@ social:
       https://books.rixx.de/reviews/2020/striding-folly/'
 ---
 
-Three Wimsey short stories, one of which doesn't really feature him at all. The other two show him as a family man, first on the night of the birth of his first child, then as the father of three children. Beautifully one as family study (neither he nor Harriet have really changed, with hilarious results). Weird to see such a well-written and snarky defense of spanking (some) children at the detriment of a nosy and stupid woman with derided modern views.
+Three Wimsey short stories, one of which doesn't really feature him at all. The other two show him as a family man,
+first on the night of the birth of his first child, then as the father of three children. Beautifully one as family
+study (neither he nor Harriet have really changed, with hilarious results). Weird to see such a well-written and snarky
+defense of spanking (some) children at the detriment of a nosy and stupid woman with ridiculed modern views.

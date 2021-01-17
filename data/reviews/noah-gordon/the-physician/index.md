@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2016-05-06'
 related_books:
+- book: ken-follett/the-pillars-of-the-earth
+  text: Working with stones or with people – either way it's a dive into medieval Europe and even the British Isles.
 - book: noah-gordon/shaman
   text: The next book in the series.
 review:
@@ -28,3 +30,9 @@ review:
   - 2006-07-01
   rating: 4
 ---
+One of my earliest historical fiction books, and I loved it to pieces. It seemed so real, and so unflinching, and I
+dreamt about it a lot. Now I know that in many ways, it follows genre conventions and Gordon's research is … middling
+and in the service of drama. Oh well – I can't ask for more than enjoyment at the time of reading.
+
+Interestingly, [his Wikipedia page](https://en.wikipedia.org/wiki/Noah_Gordon_(novelist)) mentions that Gordon is much
+better known in Germany and Spain than in his native USA.

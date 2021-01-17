@@ -58,6 +58,9 @@ social:
       https://books.rixx.de/reviews/2020/busmans-honeymoon/'
 ---
 
-I think at this point (or earlier, but who knows) Dorothy Sayers had understood that her forte was in the characters and the dialogue, and WOW does she ever deliver. It's a honeymoon with a murder, of course, and I can't get over my love of the characters, so I won't even try.
+I think at this point (or earlier, but who knows) Dorothy Sayers had understood that her forte was in the characters and
+the dialogue, and WOW does she ever deliver. It's a honeymoon with a murder, of course, and I can't get over my love of
+the characters, so I won't even try.
 
-As always, interesting to see how society worked back then. Commentary on everywhere sexism is very intentional, while the Scot and the Jew collecting money are, ahem, less reflected.
+As always, interesting to see how society worked back then. Commentary on everywhere sexism is very intentional, while
+the Scot and the Jew collecting money are, ahem, less reflected.
