@@ -14,6 +14,11 @@ book:
   title: Iphigenie auf Tauris
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: johann-wolfgang-von-goethe/the-sorrows-of-young-werther
+  text: If you prefer German tragedies over Greek ones.
+- book: gustav-schwab/sagen-des-klassischen-altertums
+  text: More Greek legends, published 50 yers later.
 review:
   date_read:
   - 2007-09-01

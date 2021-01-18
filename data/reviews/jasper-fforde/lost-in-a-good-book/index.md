@@ -30,3 +30,5 @@ review:
   - 2008-10-01
   rating: 4
 ---
+Fast moving sequel – more book travels! I liked the book travels, and I liked it enough to be a bit indifferent towards
+the plot.

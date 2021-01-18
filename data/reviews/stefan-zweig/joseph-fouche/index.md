@@ -11,8 +11,16 @@ book:
   title: Joseph Fouché
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: annemarie-selinko/desiree
+  text: Fictional biography of the same time – Fouché appears in the book.
+- book: alexandre-dumas/the-count-of-monte-cristo
+  text: Another fictional account of Napoleon's France.
 review:
   date_read:
   - 2008-07-01
   rating: 4
 ---
+
+Stefan Zweig just has a way with words, and his biography of Joseph Fouché taught me more about Napoleon's France (and
+the France before and afterwards) than my history lessons ever did.

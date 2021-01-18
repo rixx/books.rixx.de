@@ -31,3 +31,4 @@ review:
   - 2007-05-01
   rating: 3
 ---
+Repeating the formula that works, this book is a bit more tiresome but still alright.

@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: terry-pratchett/eric
   text: The only book to do something useful with Faust.
+- book: johann-wolfgang-von-goethe/the-sorrows-of-young-werther
+  text: Goethe's other Very German work.
 review:
   date_read:
   - 2010-09-01

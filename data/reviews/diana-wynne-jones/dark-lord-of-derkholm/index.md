@@ -21,6 +21,8 @@ book:
 plan:
   date_added: 2020-07-31
 related_books:
+- book: jasper-fforde/the-last-dragonslayer
+  text: A very similar vibe of matter-of-fact magic, with wizards and beasts living an everyday life.
 - book: diana-wynne-jones/the-magicians-of-caprona
   text: Another Wynne Jones book that focuses on a magical family.
 review:

@@ -17,8 +17,18 @@ book:
   title: The Sorrows of Young Werther
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: johann-wolfgang-von-goethe/iphigenie-auf-tauris
+  text: If you prefer Greek tragedies over German ones.
+- book: johann-wolfgang-von-goethe/faust
+  text: Goethe at his most German self.
+- book: bram-stoker/dracula
+  text: If epistolary novels work well for you.
+- book: amal-el-mohtar/this-is-how-you-lose-the-time-war
+  text: More epistolary tragic romance.
 review:
   date_read:
   - 2010-05-01
   rating: 3
 ---
+Prototypical moping guy kills himself. Very tragic.

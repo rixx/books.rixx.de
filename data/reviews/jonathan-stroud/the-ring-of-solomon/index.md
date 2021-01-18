@@ -26,3 +26,5 @@ review:
   - 2011-01-01
   rating: 3
 ---
+Prequel. I read it too late after the original series, I think, but it brought back plenty of memories of the trilogy,
+both good and bad ones.

@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2016-05-19'
 related_books:
+- book: kai-meyer/frostfeuer
+  text: A riff on the Snow Queen.
+- book: neil-gaiman/the-sandman-the-dream-hunters
+  text: A riff on Sandman.
 - book: erich-kastner/punktchen-und-anton
   text: Käster quotes the Little Match-Seller heavily here.
 - book: katherine-arden/the-bear-and-the-nightingale
@@ -27,8 +31,6 @@ related_books:
 - book: astrid-lindgren/mio-my-son
   text: In its darkness and its repetetive logic, Lindgren is working really close
     to Andersen's tales.
-- book: neil-gaiman/the-sandman-the-dream-hunters
-  text: A riff on Sandman.
 review:
   date_read:
   - 2002-07-01

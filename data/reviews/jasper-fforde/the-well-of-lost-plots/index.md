@@ -32,3 +32,6 @@ review:
   - 2008-03-01
   rating: 4
 ---
+More literary gags (jurisfiction meetings waiting for Godot before getting started, you get the drift). There's always
+more witty worldbuilding, and since that's what I continue to read the series for, I still don't recall much of the
+plot. Great fun though.

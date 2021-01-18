@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: friedrich-durrenmatt/the-visit
   text: Another take on how people can be coerced and tempted into unethical conformity.
+- book: george-orwell/1984
+  text: Another "don't do dictatorship, kids" book.
 review:
   date_read:
   - 2006-11-01

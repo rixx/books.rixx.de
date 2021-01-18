@@ -21,6 +21,9 @@ book:
   title: The Golden Compass
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: kai-meyer/the-water-mirror
+  text: Another magical realism book with a similar vibe. Less good, but also less preachy.
 review:
   date_read:
   - 2008-11-01

@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: eoin-colfer/artemis-fowl
   text: Another ruthless young hero harnessing magic.
+- book: philip-pullman/the-golden-compass
+  text: Similar themes of young protagonists, doing what they think they have to do, with their opinionated sidekicks.
 - book: jonathan-stroud/the-ring-of-solomon
   text: The previous book in the series.
 - book: jonathan-stroud/the-golems-eye
@@ -33,3 +35,5 @@ review:
   - 2007-01-01
   rating: 4
 ---
+Even though I was aware that Stroud was using repetetive cheap tricks to get me to enjoy the story, I still enjoyed the
+story, and that's that.

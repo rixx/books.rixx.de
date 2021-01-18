@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2016-05-05'
 related_books:
+- book: kai-meyer/the-water-mirror
+  text: Magical Venice
 - book: astrid-lindgren/kalle-blomquist
   text: Kalle Blomquist is also about children taking care of things, without talking
     down to them.

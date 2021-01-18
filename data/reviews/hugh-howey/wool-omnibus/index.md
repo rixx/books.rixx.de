@@ -13,6 +13,9 @@ book:
   title: Wool Omnibus
 plan:
   date_added: '2018-07-11'
+related_books:
+- book: licia-troisi/im-land-des-windes
+  text: The Fantasy take on tower cities.
 review:
   date_read:
   - 2019-01-23

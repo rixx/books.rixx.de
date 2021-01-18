@@ -19,6 +19,9 @@ book:
   title: Die Tante Jolesch
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: stefan-zweig/the-world-of-yesterday
+  text: Autobiographical account of the same times, in adjacent circles.
 review:
   date_read:
   - 2008-01-01

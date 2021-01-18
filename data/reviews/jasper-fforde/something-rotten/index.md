@@ -32,3 +32,5 @@ review:
   - 2008-05-01
   rating: 3
 ---
+Shakespearean, this time. Hamlet gets to see the real world, Thursday gets to see Landen again (plus her son). The whole
+childcare thing was a bit of a drag, and the plot was as usually secondary at best. Less worldbuilding meant less fun.

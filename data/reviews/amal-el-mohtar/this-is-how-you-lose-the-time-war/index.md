@@ -20,6 +20,8 @@ related_books:
   text: The same, just for children. Except that it has no time travel, no love letters,
     no relationships, and is about entirely different things. And yet, it feels like
     the same, just for kids.
+- book: johann-wolfgang-von-goethe/the-sorrows-of-young-werther
+  text: The prototypical epistolary tragic romance.
 review:
   date_read:
   - 2019-09-21

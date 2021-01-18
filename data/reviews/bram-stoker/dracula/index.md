@@ -22,6 +22,8 @@ related_books:
   text: Discworld vampires.
 - book: jules-verne/the-castle-of-the-carpathians
   text: Published only five years apart, about creepy Transsylvanian castles.
+- book: johann-wolfgang-von-goethe/the-sorrows-of-young-werther
+  text: If epistolary classics work well for you.
 review:
   date_read:
   - 2009-04-01

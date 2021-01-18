@@ -12,6 +12,9 @@ book:
   title: '1984'
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: todd-strasser/the-wave
+  text: Another "don't do dictatorship, kids" book.
 review:
   date_read:
   - 2010-02-01

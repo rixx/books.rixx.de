@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: wolfgang-borchert/draussen-vor-der-tur
+  text: Both born from having to deal with the world after WW2. Both harsh and depressing and great.
 - book: todd-strasser/the-wave
   text: Another take on how people can be coerced and tempted into unethical conformity.
 - book: friedrich-durrenmatt/die-panne

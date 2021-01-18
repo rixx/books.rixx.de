@@ -22,6 +22,8 @@ related_books:
   text: Survival on an island.
 - book: robert-louis-stevenson/treasure-island
   text: Strictly better olde Island.
+- book: herman-melville/moby-dick-or-the-whale
+  text: Old-timer adventure story, also fairly hard to read. (Yes, I know that there are centuries in between.)
 review:
   date_read:
   - 2005-11-01

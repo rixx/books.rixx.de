@@ -20,6 +20,8 @@ related_books:
   text: Literary fiction based very closely on Greek legends.
 - book: rick-riordan/the-lightning-thief
   text: Entirely based on Greek and Roman legends.
+- book: johann-wolfgang-von-goethe/iphigenie-auf-tauris
+  text: Goethe's take on Iphigenie, published 50 years earlier.
 review:
   date_read:
   - 2004-09-01

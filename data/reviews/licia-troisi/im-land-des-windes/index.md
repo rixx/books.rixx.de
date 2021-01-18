@@ -15,6 +15,7 @@ book:
   tags:
   - fantasy
   - german
+  - learning-the-arts
   - ya
   title: Im Land des Windes
 plan:
@@ -22,6 +23,10 @@ plan:
 related_books:
 - book: christopher-paolini/eragon
   text: Even more dragons.
+- book: john-flanagan/the-ruins-of-gorlan
+  text: I read these at the same time and loved them for exactly the same reasons.
+- book: hugh-howey/wool-omnibus
+  text: The scifi take on tower cities.
 - book: licia-troisi/die-drachenkampferin
   text: The next book in the series.
 review:
@@ -29,3 +34,9 @@ review:
   - 2008-06-01
   rating: 4
 ---
+Worldbuilding! I forgot about the worldbuilding of this book. For example, there are tower cities where everything is
+organised by the tower layers.
+
+Downsides: Single strong girl syndrome.
+
+It comes down to: Stubborn girl masters dragons. That's it. I loved it.

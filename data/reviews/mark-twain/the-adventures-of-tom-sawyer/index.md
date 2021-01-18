@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: kurt-held/die-rote-zora-und-ihre-bande
+  text: Tom has a bit of Zora's lawlessness and wildness.
 - book: carlo-collodi/pinocchio
   text: If you would like more moralising with your mischievous and brutal childhood
     tales, Pinocchio is the place to go.

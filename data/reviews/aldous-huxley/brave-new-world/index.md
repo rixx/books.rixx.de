@@ -17,6 +17,9 @@ book:
   title: Brave New World
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: jasper-fforde/shades-of-grey
+  text: Same concept, but more … colourful.
 review:
   date_read:
   - 2011-01-01

@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: lian-hearn/across-the-nightingale-floor
   text: A more brutal but similarly enthralling coming-of-age story.
+- book: licia-troisi/im-land-des-windes
+  text: I read these at the same time and loved them for exactly the same reasons.
 - book: john-flanagan/the-burning-bridge
   text: The next book in the series.
 review:

@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2018-08-27'
 related_books:
+- book: kai-meyer/frostfeuer
+  text: Another modern take on Russian fairy tales, similarly dark and dangerous and cold.
 - book: hans-christian-andersen/the-complete-fairy-tales
   text: Very similar vibe of darkness and real magic.
 review:

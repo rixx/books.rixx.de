@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2015-08-04'
 related_books:
+- book: jasper-fforde/the-last-dragonslayer
+  text: Very similar attitude towards dragons, but way more fun.
 - book: christopher-paolini/eragon
   text: Same sentient speaking dragons, for teenagers.
 - book: cornelia-funke/igraine-the-brave

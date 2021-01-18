@@ -14,9 +14,13 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: stefan-zweig/joseph-fouche
+  text: A literary, but less fictional biography of the big grey eminence of the time.
 - book: robert-graves/i-claudius
   text: Another old classic of historical fantasy, following a protagonist who, at
     least for the book's duration, is commentating big history from the sidelines.
+- book: alexandre-dumas/the-count-of-monte-cristo
+  text: Another fictional account of Napoleon's France.
 review:
   date_read:
   - 2008-08-01

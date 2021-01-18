@@ -29,3 +29,5 @@ review:
   - 2008-10-01
   rating: 3
 ---
+Stronger than the second part, if only by a bit. A very decent conclusion, without resorting to the cheapest of cheap
+endings (boy saves world, gets girl).
