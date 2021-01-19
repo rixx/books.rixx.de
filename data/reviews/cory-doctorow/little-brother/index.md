@@ -21,7 +21,7 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
-- book:book:  george-orwell/1984
+- book: george-orwell/1984
   text: Referenced by title, referenced by content.
 review:
   date_read:

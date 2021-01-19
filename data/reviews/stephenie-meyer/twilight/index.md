@@ -24,8 +24,6 @@ related_books:
   text: YA fantasy at a similar level.
 - book: bram-stoker/dracula
   text: Look, Dracula is not good, but it's better than Twilight.
-- book: stephenie-meyer/breaking-dawn
-  text: The next book in the series.
 review:
   date_read:
   - 2008-10-01

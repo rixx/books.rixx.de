@@ -25,7 +25,7 @@ related_books:
   text: Even more dragons.
 - book: john-flanagan/the-ruins-of-gorlan
   text: I read these at the same time and loved them for exactly the same reasons.
-- book: stuart-hill/die-herrscherin-der-eismark
+- book: stuart-hill/the-cry-of-the-icemark
   text: Another strong girl who has to (and wants to!) fight battles very young.
 - book: hugh-howey/wool-omnibus
   text: The scifi take on tower cities.
