@@ -129,6 +129,8 @@ class Review:
 
     @cached_property
     def author_slug(self):
+        if self.path:
+            return self.path.parent.parent.name
         return slugify(self.metadata["book"]["author"])
 
     @cached_property
