@@ -18,6 +18,10 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: franz-kafka/the-castle
+  text: Kafka's previous book, similarly depressing.
+- book: franz-kafka/the-metamorphosis
+  text: Kafka's more brutal work.
 - book: samuel-beckett/waiting-for-godot
   text: For less depressing nihilism, Waiting for Godot is absurdist in a nice way.
 - book: albert-camus/the-plague

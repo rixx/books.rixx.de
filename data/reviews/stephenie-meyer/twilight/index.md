@@ -18,6 +18,12 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: suzanne-collins/the-hunger-games
+  text: The other book vying for teenagers at the time. You usually were into one or the other.
+- book: cassandra-clare/city-of-bones
+  text: YA fantasy at a similar level.
+- book: bram-stoker/dracula
+  text: Look, Dracula is not good, but it's better than Twilight.
 - book: stephenie-meyer/breaking-dawn
   text: The next book in the series.
 review:
@@ -25,3 +31,6 @@ review:
   - 2008-10-01
   rating: 1
 ---
+
+First famous for the bad love story and the sparkling vampire, then famous for the SM fanfic. I dutifully read it right
+when I was the correct age and hated it.

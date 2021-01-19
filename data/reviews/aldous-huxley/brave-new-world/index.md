@@ -20,6 +20,12 @@ plan:
 related_books:
 - book: jasper-fforde/shades-of-grey
   text: Same concept, but more … colourful.
+- book: margaret-atwood/the-handmaids-tale
+  text: In some ways a feminist Brave New World.
+- book: george-orwell/1984
+  text: Another of the big dystopian novels.
+- book: ray-bradbury/fahrenheit-451
+  text: Another old dystopian novels.
 review:
   date_read:
   - 2011-01-01

@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: suzanne-collins/catching-fire
   text: The next book in the series.
+- book: stephenie-meyer/twilight
+  text: The other book vying for teenagers at the time. You usually were into one or the other.
 review:
   date_read:
   - 2012-09-01

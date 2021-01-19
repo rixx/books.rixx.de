@@ -17,8 +17,16 @@ book:
   title: The Castle
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: franz-kafka/the-trial
+  text: The next Kafka book.
+- book: franz-kafka/the-metamorphosis
+  text: The earlier Kafka book.
 review:
   date_read:
   - 2009-11-01
   rating: 3
 ---
+
+Grey sky, constantly on the verge of darkness. Tiredness. Dragging onwards. That's what I remember from The Castle. I
+tried finishing it three times, and never managed – nobody saps my energy like Kafka.

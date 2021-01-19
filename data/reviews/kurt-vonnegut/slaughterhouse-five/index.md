@@ -15,6 +15,9 @@ book:
   title: Slaughterhouse-Five
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: kurt-vonnegut/cats-cradle
+  text: The other very well-known Vonnegut. Lighter mood.
 review:
   date_read:
   - 2009-01-01

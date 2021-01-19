@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: The same for Greek legends.
+- book: stuart-hill/the-cry-of-the-icemark
+  text: Plays beautifully with Norse vibes.
 review:
   date_read:
   - 2017-02-26

@@ -17,6 +17,11 @@ book:
   title: Fahrenheit 451
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: aldous-huxley/brave-new-world
+  text: Another one of the big dystopian novels.
+- book: george-orwell/1984
+  text: Another of the big dystopian novels.
 review:
   date_read:
   - 2013-01-01

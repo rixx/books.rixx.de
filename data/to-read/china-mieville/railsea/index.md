@@ -18,3 +18,5 @@ plan:
 ---
 
 Still haven't read all of Miéville
+
+related_books: moby dick

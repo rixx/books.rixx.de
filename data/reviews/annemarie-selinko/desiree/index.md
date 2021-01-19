@@ -27,9 +27,8 @@ review:
   rating: 4
 ---
 
-Désirée got me started on serious historical fiction – this, or [Klaus
-Kordon](/klaus-kordon/die-roten-matrosen/), but it's a close race. Désirée is the true tale of Désirée Clary, told in
-the form of her fictional diary.
+Désirée got me started on serious historical fiction – this, or [Klaus Kordon](/klaus-kordon/die-roten-matrosen/), but
+it's a close race. Désirée is the true tale of Désirée Clary, told in the form of her fictional diary.
 
 Why her? Because her life touches on larger-than-life history in many ways: Born as a wealthy silk merchant's daughter
 in Marseille in 1777 (not the best time for wealthy merchants in France), she got first-hand experience of the late days

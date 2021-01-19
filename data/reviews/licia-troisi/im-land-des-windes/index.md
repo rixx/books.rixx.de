@@ -25,13 +25,16 @@ related_books:
   text: Even more dragons.
 - book: john-flanagan/the-ruins-of-gorlan
   text: I read these at the same time and loved them for exactly the same reasons.
+- book: stuart-hill/die-herrscherin-der-eismark
+  text: Another strong girl who has to (and wants to!) fight battles very young.
 - book: hugh-howey/wool-omnibus
   text: The scifi take on tower cities.
-- book: licia-troisi/die-drachenkampferin
+- book: licia-troisi/der-auftrag-des-magiers
   text: The next book in the series.
 review:
   date_read:
   - 2008-06-01
+  - 2021-01-18
   rating: 4
 ---
 Worldbuilding! I forgot about the worldbuilding of this book. For example, there are tower cities where everything is

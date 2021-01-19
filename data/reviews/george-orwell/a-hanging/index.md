@@ -7,12 +7,17 @@ book:
   publication_year: '1931'
   spine_color: '#cba972'
   title: A Hanging
+  source: http://george-orwell.org/a_hanging/0.html
 plan:
   date_added: '2018-10-31'
+related_books:
+- book: george-orwell/1984
+  text: More of Orwell's thoughts on justice.
 review:
   date_read:
   - 2018-10-31
   rating: 4
 ---
 
-Oof. [A hanging](<a target="_blank" href="http://george-orwell.org/a_hanging/0.html" rel="nofollow">http://george-orwell.org/a_hanging/0....</a>) is a very short essay by *George Orwell*, describing in very matter-of-fact detail the morning of a prison hanging. It's as terrible and at the same time as common as it sounds.
+Oof. A Hanging (available online) is a very short essay by *George Orwell*, describing in very matter-of-fact detail the
+morning of a prison hanging. It's as terrible and at the same time as common as it sounds.

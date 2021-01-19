@@ -25,6 +25,8 @@ related_books:
   text: Another modern take on Russian fairy tales, similarly dark and dangerous and cold.
 - book: hans-christian-andersen/the-complete-fairy-tales
   text: Very similar vibe of darkness and real magic.
+- book: boris-akunin/the-winter-queen
+  text: More Tsarist Russia, mystery edition.
 review:
   date_read:
   - 2019-07-07

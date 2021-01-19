@@ -13,10 +13,17 @@ book:
   publication_year: '1902'
   spine_color: '#efd00e'
   title: Just So Stories
+  tags:
+  - kids
 plan:
   date_added: '2016-05-19'
+related_books:
+- book: rudyard-kipling/the-jungle-books
+  text: More animal stories by Kipling.
 review:
   date_read:
   - 2010-06-01
   rating: 3
 ---
+Pretty language expressing some sweet stories and some racism and other bullshit. If you want to read these to a child,
+go through them first and look at what you want to edit (except if you're good enough to do that on the fly, of course).

@@ -18,8 +18,12 @@ book:
   title: 'Just for Fun: The Story of an Accidental Revolutionary'
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: Stross is way more fun when you're in a Linux hacker throwback mood.
 review:
   date_read:
   - 2008-12-01
   rating: 2
 ---
+Torvalds tells his (and his project's) life story up to 2000. Nothing special.

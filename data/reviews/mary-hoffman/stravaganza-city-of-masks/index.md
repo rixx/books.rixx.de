@@ -17,7 +17,7 @@ book:
   tags:
   - fantasy
   - ya
-  title: Stravaganza: City of Masks
+  title: "Stravaganza: City of Masks"
 plan:
   date_added: '2015-08-06'
 related_books:

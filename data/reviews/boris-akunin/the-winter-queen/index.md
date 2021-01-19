@@ -20,8 +20,16 @@ book:
   title: The Winter Queen
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: kai-meyer/frostfeuer
+  text: More modern books about Tsarist Russia (magical realism edition).
+- book: katherine-arden/the-bear-and-the-nightingale
+  text: More modern books about Tsarist Russia (magical winter edition).
 review:
   date_read:
   - 2008-04-01
   rating: 4
 ---
+
+Fandorin was fun – I read more than just the first, but was too lazy to add them. Mysteries in Tsarist Russia. The
+mystery and plot is lame, but the character is alright and the setting is gorgeous.

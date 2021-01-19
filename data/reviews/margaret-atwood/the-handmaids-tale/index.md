@@ -14,6 +14,8 @@ plan:
 related_books:
 - book: suzette-haden-elgin/native-tongue
   text: Same, but with Xenolinguistics and flat characters.
+- book: aldous-huxley/brave-new-world
+  text: Very similar themes.
 review:
   date_read:
   - 2017-12-21

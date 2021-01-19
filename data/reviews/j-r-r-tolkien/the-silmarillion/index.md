@@ -14,8 +14,12 @@ book:
   title: The Silmarillion
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: j-r-r-tolkien/the-lord-of-the-rings
+  text: The sequel.
 review:
   date_read:
   - 2008-01-01
   rating: 2
 ---
+The big unreadable but brilliant book of Middle Earth. I have a love-hate relationship with that thing, not gonna lie.

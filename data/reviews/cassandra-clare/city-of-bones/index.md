@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2016-05-08'
 related_books:
+- book: stephenie-meyer/twilight
+  text: YA fantasy at a similar level.
 - book: cassandra-clare/city-of-ashes
   text: The next book in the series.
 review:

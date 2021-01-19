@@ -18,8 +18,13 @@ plan:
 related_books:
 - book: friedrich-durrenmatt/the-visit
   text: A much better take, possibly because it's less anti-soviet and better written and not by Orwell.
+- book: george-orwell/1984
+  text: Orwell's other dystopia.
 review:
   date_read:
   - 2008-07-01
   rating: 2
 ---
+Other than 1984, this one goes a bit more into the rise of dictatorships and how coercion and decisionmaking works.
+Same as 1984, it's flat and punches you in the face repeatedly, lest you miss the point. The point is also written in
+large capital letters all across the book, in case you manage to miss the punches.

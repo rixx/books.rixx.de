@@ -13,6 +13,9 @@ book:
   title: Among Others
 plan:
   date_added: '2020-03-10'
+related_books:
+- book: kurt-vonnegut/cats-cradle
+  text: One of the heavily quoted books.
 review:
   date_read:
   - 2020-05-10
