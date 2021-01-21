@@ -13,13 +13,21 @@ book:
   publication_year: '1969'
   spine_color: '#745f32'
   title: Slaughterhouse-Five
+  tags:
+  - historical-fiction
+  - scifi
 plan:
   date_added: '2015-04-08'
 related_books:
 - book: kurt-vonnegut/cats-cradle
   text: The other very well-known Vonnegut. Lighter mood.
+- book: joseph-heller/catch-22
+  text: Same vibe, same war.
 review:
   date_read:
   - 2009-01-01
   rating: 4
 ---
+
+Vonnegut witnessed the Dresden bombing, and this is his book about it. Of course, it's not just that, and even where it
+is just that, it is processed beautifully. Vonnegut is brutal and yet kind, dramatic but always matter-of-fact.

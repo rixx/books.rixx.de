@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2017-11-21'
 related_books:
+- book: john-flanagan/the-ruins-of-gorlan
+  text: Similar apprenticeship patterns, but no(t as much) magic.
 - book: robin-hobb/assassins-apprentice
   text: Similar in the story arc, only with more complexity at every level, and better
     writing.

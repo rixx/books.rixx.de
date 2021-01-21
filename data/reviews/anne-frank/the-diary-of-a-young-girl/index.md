@@ -15,6 +15,8 @@ plan:
 related_books:
 - book: primo-levi/if-this-is-a-man
   text: For more necessary bleakness, Primo Levi's first-hand account of life in the KZ.
+- book: markus-zusak/the-book-thief
+  text: A fictional account of a German child in the same time.
 - book: klaus-kordon/der-erste-fruhling
   text: I read both books at roughly the same time, and the harsh reality of Anne's diary was a good contrast to make sure the literary version was suitably serious.
 review:

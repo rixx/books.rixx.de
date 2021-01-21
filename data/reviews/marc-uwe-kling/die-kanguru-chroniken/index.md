@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: georg-schramm/lassen-sie-es-mich-so-sagen
+  text: Would you like your political commentary to really hurt?
 - book: marc-uwe-kling/das-kanguru-manifest
   text: The next book in the series.
 review:

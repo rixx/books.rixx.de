@@ -24,6 +24,8 @@ related_books:
   text: A riff on the Snow Queen.
 - book: neil-gaiman/the-sandman-the-dream-hunters
   text: A riff on Sandman.
+- book: e-t-a-hoffmann/der-sandmann
+  text: A very different Sandman, 100 years earlier.
 - book: erich-kastner/punktchen-und-anton
   text: Käster quotes the Little Match-Seller heavily here.
 - book: katherine-arden/the-bear-and-the-nightingale

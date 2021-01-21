@@ -26,6 +26,8 @@ related_books:
   text: Another magical realism book with a similar vibe. Less good, but also less preachy.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: If you like preachy books, but are cheering for the opposite position.
+- book: christoph-marzi/lycidas
+  text: Some of the same semi-but-not Victorian vibe.
 review:
   date_read:
   - 2008-11-01

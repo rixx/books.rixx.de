@@ -27,3 +27,5 @@ review:
   - 2009-07-01
   rating: 4
 ---
+Only the second part of a long series, and when I realised *how* long the series was, I stopped reading immediately. I
+don't want to know more – the first book is my perfect book, and I'll gladly leave it at that.

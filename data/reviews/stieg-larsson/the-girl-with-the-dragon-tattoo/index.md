@@ -13,7 +13,9 @@ book:
   title: The Girl with the Dragon Tattoo
 plan:
   date_added: '2015-04-08'
-related_books: []
+related_books:
+- book: peter-hoeg/smillas-sense-of-snow
+  text: Smilla and Lisbeth could be sisters.
 review:
   date_read:
   - 2016-02-01
@@ -22,4 +24,5 @@ review:
 
 Ohh, this book made me uncomfortabel a lot, and I finished it rather fast because it absolutely would not wait.
 
-I liked how it didn't shy away from many issues, and I liked Lisbeth, but I disliked how the protagonist was very, very Mary Sue-ish. Not sure if I'm going to read the other parts.
+I liked how it didn't shy away from many issues, and I liked Lisbeth, but I disliked how the protagonist was very, very
+Mary Sue-ish. Not sure if I'm going to read the other parts.

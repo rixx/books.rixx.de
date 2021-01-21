@@ -17,8 +17,13 @@ book:
   title: Joseph and His Brothers
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: thomas-mann/the-magic-mountain
+  text: More readable Mann, though less happens.
 review:
   date_read:
   - 2009-07-01
   rating: 1
 ---
+Underwhelming – 1500 pages not well spent. With less length, somebody might be able to see the points Mann is making,
+but noth like this.

@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: daniel-suarez/daemon
+  text: Same story, larger scale.
 - book: terry-pratchett/only-you-can-save-mankind
   text: Nearly twenty years earlier, another video game turns out to be real.
 - book: conor-kostick/epic

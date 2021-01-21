@@ -22,8 +22,20 @@ related_books:
   text: A very different take on living gods.
 - book: neil-gaiman/anansi-boys
   text: The next book in the series.
+- book: neil-gaiman/norse-mythology
+  text: Gaiman returns to the scene of the crime.
+- book: neil-gaiman/fragile-things
+  text: Contains a novella featuring Shadow.
+- book: neil-gaiman/neverwhere
+  text: Gaiman's take on London, just as this is his take on the US.
+- book: sergei-lukyanenko/night-watch
+  text: The Russian version of gods and demons walking the earth.
+- book: terry-pratchett/good-omens
+  text: Gaiman's less dramatic (more overly dramatic) take on modern gods.
 review:
   date_read:
   - 2012-02-01
   rating: 5
 ---
+American Gods is a polarising book, and I belong to the people enchanted by it. Gaiman does wonderfully dirty, touching
+things with language, and mythology, and just drew me in.

@@ -16,8 +16,14 @@ book:
   title: Nathan der Weise
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: friedrich-schiller/die-rauber
+  text: If you need to read critical drama from way back when, Schiller is better (published two years later).
 review:
   date_read:
   - 2010-11-01
   rating: 2
 ---
+
+Lessing was a good critic, but at best a middling author. His theatre feels nearly Brecht-ian in its desire to hit you
+repeatedly over the head with the metaphor until you're sure to get it.

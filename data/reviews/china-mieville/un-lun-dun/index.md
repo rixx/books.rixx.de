@@ -21,6 +21,8 @@ related_books:
 - book: neil-gaiman/neverwhere
   text: The obvious comparison for weird magical London. Little else in common, but
     there's a somewhat shared vibe.
+- book: christoph-marzi/lycidas
+  text: More magical London with more dangerous rats.
 review:
   date_read:
   - 2020-05-02

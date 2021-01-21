@@ -20,6 +20,12 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: ursula-poznanski/erebos
+  text: Similar story, smaller scale.
+- book: charles-stross/empire-games
+  text: More recent take on technology that sees everything.
+- book: william-gibson/neuromancer
+  text: Neighbour along the cyberpunk border.
 - book: daniel-suarez/freedomtm
   text: The next book in the series.
 review:
@@ -27,3 +33,6 @@ review:
   - 2011-03-01
   rating: 4
 ---
+Great AI story. I liked it a lot, 'cause I'm a nerd. It's a bit too into showing off that all the research has been
+done, so probably less readable to non-nerds. Though at this point, reality has caught up sufficiently that the whole
+thing should be fairly transparent to everybody. Chapeau, Mr Suarez.

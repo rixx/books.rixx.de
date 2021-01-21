@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-02-19'
 related_books:
+- book: daniel-suarez/daemon
+  text: If you like the whole "technology sees everything" angle.
 - book: charles-stross/dark-state
   text: The next book in the series.
 review:

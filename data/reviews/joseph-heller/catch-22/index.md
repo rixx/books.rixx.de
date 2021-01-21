@@ -17,7 +17,9 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: kurt-vonnegut/cats-cradle
-  text: Very similar vibe.
+  text: Very similar vibe – the happier parts.
+- book: kurt-vonnegut/slaughterhouse-five
+  text: Very similar vibe – the brutal parts.
 review:
   date_read:
   - 2018-06-06

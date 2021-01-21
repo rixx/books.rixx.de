@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2017-02-27'
 related_books:
+- book: neil-gaiman/american-gods
+  text: Best of Neil Gaiman v Norse Gods.
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: The same for Greek legends.
 - book: stuart-hill/the-cry-of-the-icemark
@@ -28,6 +30,12 @@ review:
   rating: 3
 ---
 
-I love Neil Gaiman, and I like reading myths and legends, so I enjoyed this book a lot. It is a fairly straight, reworded retelling of much of the Snorri Edda, adding some detail from the Poetic Edda in places. Gaiman adds fine details, and a tongue-in-cheek view of the gods, but never overdoing things - it would be easy to make fun of Thor, Loki, the giants … all the time, but he does it in places, and in a very low-key (hah!) way.
+I love Neil Gaiman, and I like reading myths and legends, so I enjoyed this book a lot. It is a fairly straight,
+reworded retelling of much of the Snorri Edda, adding some detail from the Poetic Edda in places. Gaiman adds fine
+details, and a tongue-in-cheek view of the gods, but never overdoing things - it would be easy to make fun of Thor,
+Loki, the giants … all the time, but he does it in places, and in a very low-key (hah!) way.
 
-Owing to the fact that Neil Gaiman did not add too much of his own voice to those stories (which is a decision I greatly appreciate!), the book does feel like "just" a good collection of Norse myths. Which it is, and which it wants to be, so 5/5 stars for fulfilling its purpose - it's just not a five star book for me, but I will treasure it as my reference manual to Norse Mythology.
+Owing to the fact that Neil Gaiman did not add too much of his own voice to those stories (which is a decision I greatly
+appreciate!), the book does feel like "just" a good collection of Norse myths. Which it is, and which it wants to be, so
+5/5 stars for fulfilling its purpose - it's just not a five star book for me, but I will treasure it as my reference
+manual to Norse Mythology.

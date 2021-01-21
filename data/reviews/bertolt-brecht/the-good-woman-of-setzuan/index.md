@@ -18,8 +18,17 @@ book:
   title: The Good Woman of Setzuan
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: friedrich-durrenmatt/the-visit
+  text: Dürrenmatt tackles the exact same topic, ten years later and with a wildly different approach.
+- book: bertolt-brecht/stories-of-mr-keuner
+  text: Also the annoyingly teaching Brecht, in prose.
+- book: bertolt-brecht/the-threepenny-opera
+  text: Back when Brecht was less educational and fun.
 review:
   date_read:
   - 2011-02-01
   rating: 3
 ---
+Brecht telling you about circumstances forcing people into immoral deeds. It's peak communist Brecht, and thus
+unreadable and overall very annoying.

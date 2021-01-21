@@ -17,10 +17,20 @@ book:
   title: Influx
 plan:
   date_added: '2018-02-13'
+related_books:
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: More discussion of the whole "are we allowed to hide innovation" question.
+- book: daniel-suarez/daemon
+  text: Much better Suarez.
 review:
   date_read:
   - 2018-07-11
   rating: 1
 ---
 
-Influx by *Daniel Suarez* was disappointing, especially since I enjoyed Daemon f. – Influx bore all the marks of a sub-par action movie, with one Deus ex Machina chasing the next, random high-powered technology spawning all along, a big reveal (oh no! everybody knew!), and characters who are flat, and either Good™ or Evil™. It didn't help that I disagreed fundamentally with the barely-veiled message Suarez tries to bring across (don't ever hide innovation, kids, or you may bring about the end of the world). Even the writing was way over-the-top to make readers see every scene as part of a generic action movie. Very meh.
+Influx by *Daniel Suarez* was disappointing, especially since I enjoyed Daemon. Influx bore all the marks of a sub-par
+action movie, with one Deus ex Machina chasing the next, random high-powered technology spawning all along, a big reveal
+(oh no! everybody knew!), and characters who are flat, and either Good™ or Evil™. It didn't help that I disagreed
+fundamentally with the barely-veiled message Suarez tries to bring across (don't ever hide innovation, kids, or you may
+bring about the end of the world). Even the writing was way over-the-top to make readers see every scene as part of a
+generic action movie. Very meh.

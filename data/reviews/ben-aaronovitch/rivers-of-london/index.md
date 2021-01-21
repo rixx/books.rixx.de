@@ -19,6 +19,10 @@ related_books:
 - book: jim-butcher/storm-front
   text: A freelance investigator with supernatural capabilities in Chicago. Long series
     – same quality, just stretched over more books.
+- book: neil-gaiman/neverwhere
+  text: More magical London.
+- book: china-mieville/un-lun-dun
+  text: Even more magical London.
 - book: ben-aaronovitch/the-home-crowd-advantage
   text: The next book in the series.
 review:

@@ -16,6 +16,9 @@ book:
   title: Die Räuber
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: gotthold-ephraim-lessing/nathan-der-weise
+  text: If you'd like the moral of the story spelled out, repeatedly, go with Lessing.
 review:
   date_read:
   - 2006-03-01

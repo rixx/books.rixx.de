@@ -20,8 +20,15 @@ book:
   title: Night Watch
 plan:
   date_added: '2016-05-06'
+related_books:
+- book: neil-gaiman/american-gods
+  text: A similar vibe, except American (high brow) and therefore completely different.
+- book: jim-butcher/storm-front
+  text: A similar vibe, except American (low brow) and therefore completely different.
 review:
   date_read:
   - 2010-01-01
   rating: 4
 ---
+Russian Urban Fantasy. Amazing – the characters were alright, but the world building was excellent and the plot was at
+least above average. I enjoyed the whole series a lot, and the 90s Russia vibes were impressive.

@@ -19,4 +19,5 @@ review:
   rating: 3
 ---
 
-Not quite sure what to think of this one. It's fast paced, but I think it tries too hard. I liked how it plays with multiple realities, or layers of reality, but both the plot and the pacing felt so … forced.
+Not quite sure what to think of this one. It's fast paced, but I think it tries too hard. I liked how it plays with
+multiple realities, or layers of reality, but both the plot and the pacing felt so … forced.

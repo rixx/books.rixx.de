@@ -17,6 +17,9 @@ book:
   title: '"Repent, Harlequin!" Said the Ticktockman'
 plan:
   date_added: '2018-03-13'
+related_books:
+- book: kurt-vonnegut/2br02b
+  text: Kurt Vonnegut three years later on a very similar topic.
 review:
   date_read:
   - 2018-07-13

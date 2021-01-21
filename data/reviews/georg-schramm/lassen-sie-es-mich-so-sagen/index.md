@@ -17,8 +17,12 @@ book:
   title: 'Lassen Sie es mich so sagen : Dombrowski deutet die Zeichen der Zeit'
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: marc-uwe-kling/die-kanguru-chroniken
+  text: If you would like to feel less pain with your political commentary.
 review:
   date_read:
   - 2010-12-01
   rating: 4
 ---
+Schramm is much better on screen than his writing, but his writing is decent and readable.

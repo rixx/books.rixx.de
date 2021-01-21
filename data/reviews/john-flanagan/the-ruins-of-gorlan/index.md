@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: lian-hearn/across-the-nightingale-floor
   text: A more brutal but similarly enthralling coming-of-age story.
+- book: raymond-e-feist/magician-apprentice
+  text: More apprenticeships in fantasy medieval castles.
 - book: licia-troisi/im-land-des-windes
   text: I read these at the same time and loved them for exactly the same reasons.
 - book: john-flanagan/the-burning-bridge
@@ -38,5 +40,5 @@ This book goes beyond just comfort food and makes straight for "guilty pleasure"
 well-executed!) Fantasy, I can't help but feel good when I read it. Its plot and characters trigger all the right
 pleasure centres: Sympathetic but imperfect orphan boy becomes the mysterious ranger's apprentice, learns the nearly
 supernatural arts of tracking, hunting, espionage, and hiding in plain sight. Saves the day, keeps his friends, and one
-former enemy also turns into a friend. The series goes on (forever, it seems), but the book stands on its own and
-has a satisfying ending. It's very easy to make me happy, really.
+former enemy also turns into a friend. The series goes on (forever, it seems), but the book stands on its own and has a
+satisfying ending. It's very easy to make me happy, really.

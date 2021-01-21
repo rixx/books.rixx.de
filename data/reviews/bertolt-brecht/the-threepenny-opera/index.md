@@ -18,8 +18,12 @@ book:
   title: The Threepenny Opera
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: bertolt-brecht/the-good-woman-of-setzuan
+  text: See what happens to a good author when the need to educate forces out any and all humour.
 review:
   date_read:
   - 2011-04-01
   rating: 3
 ---
+One of the last pieces from before Brecht abandoned fun and good poems, and turned to political education.

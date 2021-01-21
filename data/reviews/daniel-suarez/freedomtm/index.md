@@ -15,7 +15,6 @@ book:
   series_position: '2'
   spine_color: '#a75f0b'
   tags:
-  - five-stars
   - scifi
   title: Freedom™
 plan:
@@ -26,5 +25,6 @@ related_books:
 review:
   date_read:
   - 2014-02-13
-  rating: 5
+  rating: 4
 ---
+Builds very well on Daemon, and while it sure is a nerd power fantasy in the end, the execution is pretty good.

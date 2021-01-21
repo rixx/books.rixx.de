@@ -17,8 +17,13 @@ book:
   title: Stories of Mr. Keuner
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: bertolt-brecht/stories-of-mr-keuner
+  text: Also the annoyingly teaching Brecht, in drama.
 review:
   date_read:
   - 2011-11-01
   rating: 3
 ---
+Brecht's short stories – which want to educate, of course – are much more bearable than his equally educational plays.
+Still very much on the nose, to the degree that I thought about linking the Narnia books here.

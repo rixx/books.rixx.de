@@ -23,6 +23,8 @@ related_books:
 - book: ben-aaronovitch/rivers-of-london
   text: A similar series, only with a supernatural cop in London, and arguably much
     better.
+- book: sergei-lukyanenko/night-watch
+  text: Russian Urban Fantasy, with better characters and less fake grit.
 - book: jim-butcher/fool-moon
   text: The next book in the series.
 review:

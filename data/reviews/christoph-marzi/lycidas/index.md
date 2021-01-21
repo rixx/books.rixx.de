@@ -17,8 +17,17 @@ book:
   title: Lycidas
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: neil-gaiman/neverwhere
+  text: Did you say magical London?
+- book: china-mieville/un-lun-dun
+  text: Yes, I think you did say magical London.
+- book: philip-pullman/the-golden-compass
+  text: The texture of the semi-but-not Victorian vibe reminded me of Pullman.
 review:
   date_read:
   - 2011-07-01
-  rating: 4
+  rating: 3
 ---
+Young Adult intrigue in a magical London with heaven and hell, nobility and tube rats playing their roles. Fun, but a
+bit on the long side.

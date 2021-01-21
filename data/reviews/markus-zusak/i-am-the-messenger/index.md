@@ -17,6 +17,9 @@ book:
   title: I Am the Messenger
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: markus-zusak/the-book-thief
+  text: Zuzak with similar sensitivity, but very different in tone and setting.
 review:
   date_read:
   - 2017-06-29

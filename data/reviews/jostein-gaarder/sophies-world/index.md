@@ -20,6 +20,8 @@ related_books:
   text: More preaching at kids, this time about politics instead of philosophy.
 - book: umberto-eco/foucaults-pendulum
   text: If you want to make philosophy (or history) come to life, this is much closer to how it's done.
+- book: thomas-mann/the-magic-mountain
+  text: The adult German version of being trapped in a thinly disguised philosophy lecture.
 review:
   date_read:
   - 2003-11-01

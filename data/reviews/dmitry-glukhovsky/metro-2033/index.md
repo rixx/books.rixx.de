@@ -19,6 +19,9 @@ book:
   title: Metro 2033
 plan:
   date_added: '2016-12-01'
+related_books:
+- book: neil-gaiman/neverwhere
+  text: If you're here for the magical metro.
 review:
   date_read:
   - 2018-08-13
