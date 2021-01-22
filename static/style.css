@@ -297,6 +297,9 @@ a .book-review {
   margin: 4px;
 }
 
+h2 small {
+  font-size: 18px;
+}
 .muted {
   margin-right: 8px;
   font-weight: normal;

@@ -143,7 +143,11 @@
 
     {% if review.related_books %}
     {% set spine_border = False %}
-    <h2>Related books</h2>
+    <h2>Related books
+      {% if review.metadata.book.series and review.metadata.book.series_position != "1" %}
+      <small class="muted">Books related to the whole series are linked at the first part of the series.</small>
+      {% endif %}
+    </h2>
       {% for related in review.related_books %}
         {% set review = related.review %}
         {% set review_text = related.text %}
