@@ -25,6 +25,10 @@ related_books:
     better.
 - book: sergei-lukyanenko/night-watch
   text: Russian Urban Fantasy, with better characters and less fake grit.
+- book: richard-kadrey/sandman-slim
+  text: A Dresden lookalike.
+- book: jim-butcher/furies-of-calderon
+  text: Butcher's other series.
 - book: jim-butcher/fool-moon
   text: The next book in the series.
 review:

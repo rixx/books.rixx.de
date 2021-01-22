@@ -7,15 +7,21 @@ book:
   spine_color: '#e13f0d'
   tags:
   - fanfic
-  - five-stars
   - mystery
   title: A Study in Emerald
 plan:
   date_added: '2017-11-28'
+related_books:
+- book: arthur-conan-doyle/sherlock-holmes
+  text: Source text.
+- book: neil-gaiman/fragile-things
+  text: Also contained in Fragile Things.
+- book: neil-gaiman/snow-glass-apples
+  text: Another of Gaiman's creepy remixes.
 review:
   date_read:
   - 2017-11-28
-  rating: 5
+  rating: 4
 ---
 
 Sherlock + Cthulhu is a very Gaimanishly Gothic mix.

@@ -27,3 +27,5 @@ review:
   - 2013-01-01
   rating: 3
 ---
+Book burners are prime "are we the baddies?" material, but it still was an impressive book – particularly compared to
+other 50s scifi. The firemen whose job it is to start fires were a nice touch.

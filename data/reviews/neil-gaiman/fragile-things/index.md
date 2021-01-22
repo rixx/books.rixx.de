@@ -22,6 +22,14 @@ related_books:
   text: Another Gaiman short story.
 - book: neil-gaiman/american-gods
   text: The background on Shadow.
+- book: franz-kafka/das-urteil-und-andere-erzahlungen
+  text: If the frequent Kafkaesque stories were your kind of thing.
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: If you want to meet Susan again.
+- book: neil-gaiman/m-is-for-magic
+  text: More Gaiman short stories.
+- book: neil-gaiman/a-study-in-emerald
+  text: A standalone version.
 review:
   date_read:
   - 2016-05-22

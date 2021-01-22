@@ -27,3 +27,4 @@ review:
   - 2013-03-01
   rating: 3
 ---
+Only read this book to complete the trilogy.

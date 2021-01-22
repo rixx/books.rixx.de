@@ -32,4 +32,5 @@ review:
   rating: 4
 ---
 
-Tavi finally finds out who he is (c'mon, we knew all along) and develops his furycrafting. He also saves the realm using his new-won influence, resolving a terrible war peacefully.
+Tavi finally finds out who he is (c'mon, we knew all along) and develops his furycrafting. He also saves the realm using
+his new-won influence, resolving a terrible war peacefully.

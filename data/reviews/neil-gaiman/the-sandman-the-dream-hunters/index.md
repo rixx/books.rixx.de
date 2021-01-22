@@ -16,6 +16,10 @@ plan:
 related_book:
 - book: hans-christian-andersen/the-complete-fairy-tales
   text: The original Sandman.
+- book: e-t-a-hoffmann/der-sandmann
+  text: Another Sandman.
+- book: neil-gaiman/fragile-things
+  text: If you want more short stories by Gaiman.
 review:
   date_read:
   - 2018-06-11

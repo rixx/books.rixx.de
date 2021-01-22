@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: neil-gaiman/american-gods
   text: Best of Neil Gaiman v Norse Gods.
+- book: neil-gaiman/odd-and-the-frost-giants
+  text: Best of Neil Gaiman v Norse Gods, kids edition.
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: The same for Greek legends.
 - book: stuart-hill/the-cry-of-the-icemark

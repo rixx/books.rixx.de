@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: cornelia-funke/dragon-rider
   text: Bravery and knights and monsters, for slightly older children.
+- book: neil-gaiman/odd-and-the-frost-giants
+  text: Another tale of legendary bravery in children.
 review:
   date_read:
   - 2004-02-01

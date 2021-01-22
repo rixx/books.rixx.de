@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: kurt-vonnegut/cats-cradle
   text: One of the heavily quoted books.
+- book: neil-gaiman/the-ocean-at-the-end-of-the-lane
+  text: If you want more 70s kids being swept up in a new (though British) magical world.
 review:
   date_read:
   - 2020-05-10

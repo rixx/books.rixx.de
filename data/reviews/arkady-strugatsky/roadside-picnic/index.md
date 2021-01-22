@@ -14,6 +14,9 @@ book:
   title: Roadside Picnic
 plan:
   date_added: '2018-07-24'
+related_books:
+- stanislaw-lem/solaris
+  text: If you'd like the melancholy Eastern European mood … in space.
 review:
   date_read:
   - 2020-08-03

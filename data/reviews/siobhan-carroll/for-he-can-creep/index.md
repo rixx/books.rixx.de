@@ -12,6 +12,9 @@ book:
   title: For He Can Creep
 plan:
   date_added: '2020-02-12'
+related_books:
+- book: neil-gaiman/m-is-for-magic
+  text: The short story The Price has a very similar premise.
 review:
   date_read:
   - 2020-02-12

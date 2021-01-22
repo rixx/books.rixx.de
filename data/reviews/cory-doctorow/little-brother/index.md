@@ -23,8 +23,12 @@ plan:
 related_books:
 - book: george-orwell/1984
   text: Referenced by title, referenced by content.
+- book: ernest-cline/ready-player-one
+  text: In many ways the sellout capitalist version, plus drowning in nostalgia.
 review:
   date_read:
   - 2013-05-01
-  rating: 4
+  rating: 3
 ---
+Cory is always preaching. I don't like preachy books (look at all my Narnia hate). Even when I like the message, as I do
+here, I'd like to be taken a bit more seriously as a reader.

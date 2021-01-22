@@ -19,16 +19,23 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: neil-gaiman/m-is-for-magic
+  text: A follow-up short story.
 - book: terry-pratchett/johnny-and-the-dead
   text: More relatable dead people, more cemetaries. Less magic, though.
+- book: neil-gaiman/coraline
+  text: For younger children, Coraline has a similar vibe. Much scarier despite not playing on a graveyard.
+- book: rudyard-kipling/the-jungle-books
+  text: This one is a bit far out there, but boy-raised-by-ghosts meets boy-raised-by-wolves.
+- book: neil-gaiman/the-ocean-at-the-end-of-the-lane
+  text: Similar book, but more melancholy.
 review:
   date_read:
   - 2015-04-15
   rating: 4
 ---
 
-I would have loved this book as a child, and I still love it as a grownup (Gaiman tends to write like that). It is paced well, written wonderfully and rings true (in a very similar way American Gods does, but a bit toned-down to the way children see the world). Technically it is a coming-of-age story. I spent a long afternoon reading it and feel a lot better for the time spent.
-
-## Further Reading
-
-For younger kids, [Coraline](https://books.rixx.de/reviews/2003/coraline) has a similar vibe.
+I would have loved this book as a child, and I still love it as a grownup (Gaiman tends to write like that). It is paced
+well, written wonderfully and rings true (in a very similar way American Gods does, but a bit toned-down to the way
+children see the world). Technically it is a coming-of-age story. I spent a long afternoon reading it and feel a lot
+better for the time spent.

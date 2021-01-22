@@ -27,6 +27,8 @@ related_books:
   text: Another entertaining take on what video games *mean*.
 - book: ursula-poznanski/erebos
   text: More AI, more quality, less yearning for the past. But still video games.
+- book: cory-doctorow/little-brother
+  text: In many ways the principled version minus all the nostalgia.
 review:
   date_read:
   - 2015-08-05

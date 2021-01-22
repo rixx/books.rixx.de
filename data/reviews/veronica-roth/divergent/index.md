@@ -20,6 +20,9 @@ book:
   title: Divergent
 plan:
   date_added: '2016-05-08'
+related_books:
+- book: suzanne-collins/the-hunger-games
+  text: Strictly better.
 review:
   date_read:
   - 2016-10-11

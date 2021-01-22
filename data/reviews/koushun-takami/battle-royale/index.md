@@ -17,10 +17,14 @@ book:
   title: Battle Royale
 plan:
   date_added: '2018-08-07'
+related_books:
+- book: suzanne-collins/the-hunger-games
+  text: So you like children fighting against one another for their lives?
 review:
   date_read:
   - 2018-09-27
   rating: 1
 ---
 
-Battle Royale basically was a badly written Hunger Games in a fictional contemporary totalitarian Asian state. The writing was truly bad, and the characters too. Truly do not recommend.
+Battle Royale basically was a badly written Hunger Games in a fictional contemporary totalitarian Asian state. The
+writing was truly bad, and the characters too. Truly do not recommend.

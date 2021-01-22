@@ -23,8 +23,14 @@ related_books:
   text: "Food porn enthusiasts: unite."
 - book: george-r-r-martin/a-clash-of-kings
   text: The next book in the series.
+- book: roger-zelazny/nine-princes-in-amber
+  text: A very different, equally classical take on warring nobility in a fantasy setting.
+- book: robin-hobb/assassins-apprentice
+  text: Both Martin and Hobb don't think too well of their characters, only Martin punishes them with a short life and Hobb with a long one.
 review:
   date_read:
   - 2012-10-01
   rating: 5
 ---
+Nothing left to say, is there? I liked the change in perspective, and the world, and the writing, and that nobody was
+safe.

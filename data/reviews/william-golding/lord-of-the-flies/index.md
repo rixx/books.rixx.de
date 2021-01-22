@@ -18,6 +18,8 @@ plan:
 related_books:
 - book: daniel-defoe/robinson-crusoe
   text: Survival on an island.
+- book: suzanne-collins/the-hunger-games
+  text: I heard you liked children fighting each other.
 review:
   date_read:
   - 2017-05-15

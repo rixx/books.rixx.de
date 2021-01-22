@@ -9,14 +9,19 @@ book:
   tags:
   - fantasy
   title: Snow, Glass, Apples
+  source: https://thedreaming.moteofdust.com/1999/10/10/snow-glass-apples/
 plan:
   date_added: '2018-06-11'
+related_books:
+- book: neil-gaiman/a-study-in-emerald
+  text: Another of Gaiman's creepy remixes.
 review:
   date_read:
   - 2018-06-11
   rating: 4
 ---
 
-Story can be found here: <a target="_blank" href="https://thedreaming.moteofdust.com/1999/10/10/snow-glass-apples/" rel="nofollow">https://thedreaming.moteofdust.com/19...</a>
 
-Well, what do you expect from Neil Gaiman tackling Snowhite from the perspective of the evil queen? It's great. The princess's heart was a nice touch.
+Well, what do you expect from Neil Gaiman tackling Snowhite from the
+perspective of the evil queen? It's great. The princess's heart was a nice
+touch.

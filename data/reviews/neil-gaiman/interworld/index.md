@@ -16,13 +16,22 @@ book:
   spine_color: '#a27b64'
   tags:
   - fantasy
+  - parallel-worlds
   title: InterWorld
 plan:
   date_added: '2015-07-02'
+related_books:
+- book: terry-pratchett/the-long-earth
+  text: More parallel world jumping, though more sci-fi.
+- book: charles-stross/the-family-trade
+  text: A similar take on parallel realities, but all about economy.
+- book: steven-gould/jumper
+  text: A worse take on the same premise.
 review:
   date_read:
   - 2017-07-03
   rating: 3
 ---
 
-Now this was just a really enjoyable YA book on the topic of parallel worlds – a bit like a children's version of Long Earth with some magic mixed in. A not-too-heavy, enjoyable book!
+Now this was just a really enjoyable YA book on the topic of parallel worlds – a bit like a children's version of Long
+Earth with some magic mixed in. A not-too-heavy, enjoyable book!

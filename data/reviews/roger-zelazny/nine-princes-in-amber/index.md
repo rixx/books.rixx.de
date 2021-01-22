@@ -19,6 +19,9 @@ book:
   title: Nine Princes in Amber
 plan:
   date_added: 2020-06-30
+related_books:
+- book: george-r-r-martin/a-game-of-thrones
+  text: A very different, equally classical take on warring nobility in a fantasy setting.
 review:
   date_read:
   - 2020-06-29

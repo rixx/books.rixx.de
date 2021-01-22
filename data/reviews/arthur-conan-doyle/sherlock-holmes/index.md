@@ -26,6 +26,8 @@ related_books:
   text: A young man who would like to be Sherlock.
 - book: umberto-eco/the-name-of-the-rose
   text: William of Baskerville – guess who he's based on?
+- book: neil-gaiman/a-study-in-emerald
+  text: Sherlock meets Cthulhu.
 review:
   date_read:
   - 2003-09-01

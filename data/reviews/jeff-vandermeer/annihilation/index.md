@@ -19,6 +19,9 @@ book:
   title: Annihilation
 plan:
   date_added: '2019-12-16'
+related_books:
+- book: stanislaw-lem/solaris
+  text: Similar vibe, but with space fog.
 review:
   date_read:
   - 2019-12-17

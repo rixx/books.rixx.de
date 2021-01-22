@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: stanislaw-lem/solaris
+  text: Sentient fog, anybody?
 - book: william-goldman/the-princess-bride
   text: Same sense of trope-heavy wonderful adventure.
 - book: walter-moers/the-city-of-dreaming-books

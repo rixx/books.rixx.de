@@ -19,14 +19,19 @@ book:
     Win'
 plan:
   date_added: '2015-07-01'
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: Not exactly a better take on IT management, but also not not that.
 review:
   date_read:
   - 2013-09-01
-  rating: 3
+  rating: 2
 ---
 
-The Phoenix Project is a very nice management introduction for IT projects, talking about ITIL, about processes and about Agile Methods.
+The Phoenix Project is a very nice management introduction for IT projects, talking about ITIL, about processes and
+about Agile Methods.
 
-It's only very basically made up to seem like a novel instead of a textbook, but if you accept it as such (a very entertaining textbook instead of a novel), it works really well.
+It's only very basically made up to seem like a novel instead of a textbook, but if you accept it as such (a very
+entertaining textbook instead of a novel), it works fairly well if you don't mind the incessant preaching. (I do mind)
 
 Also, the depiction of what can, must and will go wrong in IT Operations is just so spot on it might hurt.

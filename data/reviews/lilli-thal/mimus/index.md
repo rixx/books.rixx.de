@@ -10,6 +10,7 @@ book:
   tags:
   - german
   - learning-the-arts
+  - five-stars
   - ya
   title: Mimus
 plan:
@@ -20,7 +21,8 @@ related_books:
 review:
   date_read:
   - 2006-07-01
-  rating: 4
+  - 2021-01-21
+  rating: 5
 ---
 
 Mimus is the wonderfully cruel tale of Prince Florin. In the struggle of two nations, the baddies use the age-old plot

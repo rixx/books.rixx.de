@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: charles-stross/the-concrete-jungle
   text: The next book in the series.
+- book: gene-kim/the-phoenix-project
+  text: If you're just here for creepy IT management snark.
 review:
   date_read:
   - 2015-07-02

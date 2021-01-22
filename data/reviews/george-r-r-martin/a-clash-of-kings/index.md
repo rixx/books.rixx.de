@@ -29,3 +29,4 @@ review:
   - 2012-07-01
   rating: 3
 ---
+My fascination waned here already, but I had hoped that it was the usual second book slog.

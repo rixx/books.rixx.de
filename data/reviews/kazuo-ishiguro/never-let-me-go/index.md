@@ -17,6 +17,9 @@ book:
   title: Never Let Me Go
 plan:
   date_added: '2017-03-07'
+related_books:
+- book: suzanne-collins/the-hunger-games
+  text: More teenagers who have their whole life planned out for them in a dystopia.
 review:
   date_read:
   - 2020-01-25
@@ -46,4 +49,8 @@ social:
       https://books.rixx.de/reviews/2020/never-let-me-go/'
 ---
 
-Excellent dystopian storytelling in Never Let Me Go – not loud, not ostentatious, not yelling "THIS IS A DYSTOPIA, GET IT?!" at every opportunity. The narrator's voice was extremely well-done – strong, recognisable, but realistic at the same time. The unveiling of their lived reality was slow, and good – it allowed you to stay a step ahead, without that victorious feeling of having pulled one over the book. Interesting how the world described is terribly depressing, yet the book didn't once feel sad or depressing or tedious to me.
+Excellent dystopian storytelling in Never Let Me Go – not loud, not ostentatious, not yelling "THIS IS A DYSTOPIA, GET
+IT?!" at every opportunity. The narrator's voice was extremely well-done – strong, recognisable, but realistic at the
+same time. The unveiling of their lived reality was slow, and good – it allowed you to stay a step ahead, without that
+victorious feeling of having pulled one over the book. Interesting how the world described is terribly depressing, yet
+the book didn't once feel sad or depressing or tedious to me.

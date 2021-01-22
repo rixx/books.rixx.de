@@ -13,12 +13,23 @@ book:
   publication_year: '1961'
   spine_color: '#734b41'
   tags:
+  - alien-aliens
   - scifi
   title: Solaris
 plan:
   date_added: '2016-05-19'
+related_books:
+- book: walter-moers/rumo
+  text: Sentient fog, anybody?
+- book: arkady-strugatsky/roadside-picnic
+  text: If you'd like the melancholy Eastern European mood a bit more explicit.
+- book: jeff-vandermeer/annihilation
+  text: Similar vibe, but with plants.
 review:
   date_read:
   - 2013-11-01
   rating: 3
 ---
+Solaris is creepy, but in a good way. One of the relatively few earlier scifi books that spoke to me. A bit too
+kafkaesque for my taste, maybe, but good execution nevertheless. The foggy planet is creepy even before it starts doing
+things.

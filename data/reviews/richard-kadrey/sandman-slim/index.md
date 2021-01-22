@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2016-06-08'
 related_books:
+- book: jim-butcher/storm-front
+  text: More of the same.
 - book: richard-kadrey/kill-the-dead
   text: The next book in the series.
 review:
@@ -28,4 +30,5 @@ review:
   rating: 4
 ---
 
-Thoroughly enjoyable urban fantasy, Dresden style. Dialogue felt a bit stilted/lacking rhythm at times, but the Hell vs Heaven vs third party vs potty-mouthed gunslinger protagonist worked well.
+Thoroughly enjoyable urban fantasy, Dresden style. Dialogue felt a bit stilted/lacking rhythm at times, but the Hell vs
+Heaven vs third party vs potty-mouthed gunslinger protagonist worked well.

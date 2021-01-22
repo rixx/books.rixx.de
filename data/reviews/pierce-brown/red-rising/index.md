@@ -15,6 +15,9 @@ book:
   title: Red Rising
 plan:
   date_added: '2016-11-03'
+related_books:
+- book: suzanne-collins/the-hunger-games
+  text: More dystopian teenagers trying to kill one another.
 review:
   date_read:
   - 2017-07-13

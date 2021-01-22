@@ -13,12 +13,17 @@ book:
   title: The Long Earth
   tags:
   - scifi
+  - parallel-worlds
   - portal
 plan:
   date_added: '2015-04-08'
 related_books:
 - book: charles-stross/the-family-trade
   text: A similar take on parallel realities.
+- book: steven-gould/jumper
+  text: A worse take on the same premise.
+- book: neil-gaiman/interworld
+  text: The magical children's book edition.
 review:
   date_read:
   - 2014-06-01

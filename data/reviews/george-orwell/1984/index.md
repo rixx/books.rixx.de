@@ -23,6 +23,8 @@ related_books:
   text: Another old dystopian novels.
 - book: george-orwell/animal-farm
   text: More about the commies.
+- book: suzanne-collins/the-hunger-games
+  text: YA dystopia.
 review:
   date_read:
   - 2010-02-01

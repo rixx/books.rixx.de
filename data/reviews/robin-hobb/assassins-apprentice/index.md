@@ -25,6 +25,8 @@ related_books:
   text: The next book in the series.
 - book: lilli-thal/mimus
   text: Mimus has it much worse than Fitz, but he's less of a tool, so it evens out.
+- book: george-r-r-martin/a-game-of-thrones
+  text: Both Martin and Hobb don't think too well of their characters, only Martin punishes them with a short life and Hobb with a long one.
 review:
   date_read:
   - 2016-10-11

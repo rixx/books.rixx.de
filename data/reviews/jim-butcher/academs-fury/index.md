@@ -31,4 +31,5 @@ review:
   rating: 4
 ---
 
-Still loving Tavis way in the world – learning, finding friends in the city, loads of character development, and of course he saves the world again.
+Still loving Tavis way in the world – learning, finding friends in the city, loads of character development, and of
+course he saves the world again.

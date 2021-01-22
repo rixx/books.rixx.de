@@ -31,6 +31,8 @@ related_books:
   text: If you want more thinly veiled Christianity in your YA portal fantasy.
 - book: lev-grossman/the-magicians
   text: See, somebody else doesn't like Lewis either!
+- book: neil-gaiman/fragile-things
+  text: Neil Gaiman's take on Susan.
 - book: philip-pullman/the-golden-compass
   text: If you like preachy books, but are cheering for the opposite position.
 - book: c-s-lewis/prince-caspian
