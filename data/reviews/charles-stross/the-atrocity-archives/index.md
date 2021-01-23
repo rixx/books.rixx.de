@@ -21,10 +21,14 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
-- book: charles-stross/the-concrete-jungle
-  text: The next book in the series.
+- book: daniel-omalley/the-rook
+  text: A very similar premise, with magic-based snarky UK government work.
 - book: gene-kim/the-phoenix-project
   text: If you're just here for creepy IT management snark.
+- book: charles-stross/halting-state
+  text: Another Stross series about government employees.
+- book: charles-stross/the-concrete-jungle
+  text: The next book in the series.
 review:
   date_read:
   - 2015-07-02

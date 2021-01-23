@@ -17,3 +17,4 @@ review:
   - 2008-04-01
   rating: 2
 ---
+Flann O'Brian is weird, but he's kinda good weird.

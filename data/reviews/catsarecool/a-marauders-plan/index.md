@@ -18,3 +18,4 @@ review:
   - 2019-02-17
   rating: 4
 ---
+Good fanfic, in which Sirius is not an idiot.

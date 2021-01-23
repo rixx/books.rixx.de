@@ -20,15 +20,20 @@ book:
   title: Ender's Shadow
 plan:
   date_added: 2020-08-05
+related_books:
+- book: orson-scott-card/enders-game
+  text: The same time, from another perspective.
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: Bean may or may not be Harry.
 review:
   date_read:
   - 2020-08-04
   rating: 2
 ---
 
-Re-reading [Ender's Game](https://books.rixx.de/orson-scott-card/enders-game/) before reading Ender's Shadow – the book
-that tells the same story, only from the perspective of Bean – was not the best idea. I think I would have liked this
-book better if I had had only a hazy memory of Ender's Game.
+Re-reading [Ender's Game](/orson-scott-card/enders-game/) before reading Ender's Shadow – the book that tells the same
+story, only from the perspective of Bean – was not the best idea. I think I would have liked this book better if I had
+had only a hazy memory of Ender's Game.
 
 Ender's Shadow reads like the ultimate male nerd power fantasy. Bean is off-the-charts intelligent, due to <span
 class="spoilers">genetic engineering hijinks</span>, and can figure out anything and everything. The final twist in

@@ -16,3 +16,4 @@ review:
   - 2018-05-29
   rating: 3
 ---
+Not terrible, but not good either.

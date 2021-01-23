@@ -24,6 +24,12 @@ related_books:
 - book: hannu-rajaniemi/the-quantum-thief
   text: Another fast-paced fun heist story with strong world-building, the same energy
     just in scifi.
+- book: brandon-sanderson/the-final-empire
+  text: Completely different style, but both heist-based fantasy books.
+- book: v-e-schwab/a-darker-shade-of-magic
+  text: Sassy thieves.
+- book: patrick-rothfuss/the-name-of-the-wind
+  text: Similar protagonist ego size.
 - book: scott-lynch/red-seas-under-red-skies
   text: The next book in the series.
 review:
@@ -32,6 +38,10 @@ review:
   rating: 4
 ---
 
-Wow. Wooow. I think this book gripped me as much or even more than Name of the Wind, and that's saying something. Locke, Jean, Bug, the twins and Chains grew close to my heart really soon. There *is* a phase in the beginning where the book is going slowly and the characters don't mean anything to you, but it works well in hindsight, and it didn't feel like it was dragging on to me.
+Gripping heist adventures in a unique and well-built world: Locke, Jean, Bug, the twins and Chains grew close to my
+heart really soon. There *is* a phase in the beginning where the book is going slowly and the characters don't mean
+anything to you, but it works well in hindsight, and it didn't feel like it was dragging on to me.
 
-Locke and the Gentleman Bastards are the best, most daring thieves in a complete (if slightly mysterious, what's with the Eldren?!) world - who are suddenly thrown from grand thievery for the fun of it into a battle for their lives. Oh Locke. Oh Jean. My heart broke for you both over and over again.
+Locke and the Gentleman Bastards are the best, most daring thieves in a complete (if slightly mysterious, what's with
+the Eldren?!) world - who are suddenly thrown from grand thievery for the fun of it into a battle for their lives. Oh
+Locke. Oh Jean. My heart broke for you both over and over again.

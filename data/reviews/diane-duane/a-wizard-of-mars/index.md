@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: andy-weir/the-martian
+  text: More Mars shenanigans, this time scifi.
 - book: diane-duane/wizards-at-war
   text: The previous book in the series.
 - book: diane-duane/so-you-want-to-be-a-wizard

@@ -23,6 +23,8 @@ related_books:
   text: More pacifism.
 - book: katherine-addison/the-goblin-emperor
   text: More lessons on the complexity of ruling for young kings. Less bleak, though.
+- book: orson-scott-card/enders-game
+  text: Another bright child taking the rei(g)ns.
 review:
   date_read:
   - 2002-07-01

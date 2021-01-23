@@ -24,10 +24,13 @@ related_books:
   text: If you like the whole "technology sees everything" angle.
 - book: charles-stross/dark-state
   text: The next book in the series.
+- book: charles-stross/the-family-trade
+  text: The previous series.
 review:
   date_read:
   - 2018-03-03
   rating: 4
 ---
 
-This is what I wanted Merchant Princess to be. We see Rita do cool stuff without being too Mary Sue-ish, we get background, we get development, we get politics, and all that without being one giant economics textbook. Moar!
+This is what I wanted Merchant Princess to be. We see Rita do cool stuff without being too Mary Sue-ish, we get
+background, we get development, we get politics, and all that without being one giant economics textbook. Moar!

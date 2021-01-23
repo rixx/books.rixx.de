@@ -27,6 +27,8 @@ related_books:
   text: For a similarly tongue-in-cheek meta-British hero's journey.
 - book: hope-mirrlees/lud-in-the-mist
   text: If you liked the village on the border of Faerie.
+- book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
+  text: Modern fairytales both.
 - book: neil-gaiman/the-ocean-at-the-end-of-the-lane
   text: If you want to read more Neil Gaiman fantasy, this book will provide you with
     a similar atmospheric world-building.

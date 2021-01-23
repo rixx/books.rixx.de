@@ -11,6 +11,7 @@ book:
   tags:
   - historical-fiction
   - myths-legends
+  - time-travel
   title: A Connecticut Yankee in King Arthur's Court
 plan:
   date_added: 2020-06-09
@@ -20,6 +21,8 @@ related_books:
     the mix, read The Canterville Ghost instead. It was published two years before
     A Connecticut Yankee in King Arthur's Court and has the advantage of being actually
     funny.
+- book: connie-willis/doomsday-book
+  text: More medieval time travel.
 - book: mark-twain/the-diaries-of-adam-and-eve
   text: Twain when he's funny.
 - book: mark-twain/the-adventures-of-huckleberry-finn

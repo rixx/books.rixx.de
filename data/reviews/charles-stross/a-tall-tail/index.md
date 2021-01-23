@@ -14,6 +14,11 @@ book:
   title: A Tall Tail
 plan:
   date_added: 2020-05-24
+related_books:
+- book: charles-stross/missile-gap
+  text: Another Stross short story.
+- book: charles-stross/the-jennifer-morgue
+  text: Probably the closest Stross has written elsewhere.
 review:
   date_read:
   - 2020-04-22

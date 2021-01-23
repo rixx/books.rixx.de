@@ -31,6 +31,8 @@ related_books:
     go here.
 - book: newt-scamander/fantastic-beasts-and-where-to-find-them
   text: Add-on book that is actually fun.
+- book: rick-riordan/the-lightning-thief
+  text: The next over-hyped magic boy.
 - book: j-k-rowling/harry-potter-and-the-chamber-of-secrets
   text: The next book in the series.
 review:

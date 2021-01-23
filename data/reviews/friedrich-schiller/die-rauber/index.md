@@ -19,8 +19,11 @@ plan:
 related_books:
 - book: gotthold-ephraim-lessing/nathan-der-weise
   text: If you'd like the moral of the story spelled out, repeatedly, go with Lessing.
+- book: bertolt-brecht/the-threepenny-opera
+  text: More bandits in the business of showing up society.
 review:
   date_read:
   - 2006-03-01
   rating: 2
 ---
+Criticising society by telling a tale of bandits, as one does.

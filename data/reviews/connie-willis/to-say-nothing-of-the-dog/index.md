@@ -16,6 +16,7 @@ book:
   spine_color: '#886441'
   tags:
   - scifi
+  - time-travel
   title: To Say Nothing of the Dog
 plan:
   date_added: '2019-11-20'
@@ -25,6 +26,8 @@ related_books:
     spoilers here! It's worth it.
 - book: terry-pratchett/johnny-and-the-bomb
   text: More time travel back to the Blitz.
+- book: stephen-king/11-22-63
+  text: More near-past time travel.
 - book: connie-willis/doomsday-book
   text: The previous book in the series.
 review:

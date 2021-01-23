@@ -20,7 +20,9 @@ book:
   title: The Rook
 plan:
   date_added: '2017-05-23'
-related_books: []
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: A very similar premise, with magic-based snarky UK government work.
 review:
   date_read:
   - 2017-05-24

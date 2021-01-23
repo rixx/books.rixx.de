@@ -26,10 +26,13 @@ related_books:
   text: Another entertaining take on what video games *mean*.
 - book: ernest-cline/ready-player-one
   text: An infinitely worse take on video games.
+- book: ursula-poznanski/elanus
+  text: More Poznanski YA on the dangers of misapplied technology.
 review:
   date_read:
   - 2018-03-12
   rating: 4
 ---
 
-Woah. Unendlich viel besser als Ready Player One oder Epic. Richtig richtig gute und gruselige Fassung eines KI-gesteuerten RPGs, das Auswirkungen auf die echte Welt hat. Hnnng.
+Woah. Unendlich viel besser als Ready Player One oder Epic. Richtig richtig gute und gruselige Fassung eines
+KI-gesteuerten RPGs, das Auswirkungen auf die echte Welt hat. Hnnng.

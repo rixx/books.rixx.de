@@ -23,6 +23,12 @@ plan:
 related_books:
 - book: orson-scott-card/speaker-for-the-dead
   text: The next book in the series.
+- book: orson-scott-card/enders-shadow
+  text: The same time, from another perspective.
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: Genius kids going overboard.
+- book: janusz-korczak/king-matt-the-first
+  text: Another bright child taking the rei(g)ns.
 review:
   date_read:
   - 2014-01-01

@@ -25,3 +25,4 @@ review:
   - 2017-11-26
   rating: 2
 ---
+Copper corpses will never not sound like Dorothy Sayers to me.

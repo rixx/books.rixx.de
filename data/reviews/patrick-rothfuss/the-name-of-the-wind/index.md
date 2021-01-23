@@ -19,6 +19,12 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: Magic with names and balances and strange teachers. Less indulgent.
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: Similar protagonist ego size.
+- book: n-k-jemisin/the-hundred-thousand-kingdoms
+  text: Protagonists elevated to a place beyond their station where they have to learn and prove themselves.
 - book: patrick-rothfuss/the-wise-mans-fear
   text: The next book in the series.
 review:
@@ -27,11 +33,11 @@ review:
   rating: 4
 ---
 
-I really liked this book - it hits all the sweet spots for me. Brilliant language, not-too-overbearing fantasy setting, believable characters, good pacing and narration (and a bit of training in the $arts).
+I really liked this book … at first - it hit all the sweet spots for me. Brilliant language, not-too-overbearing fantasy
+setting, believable characters, good pacing and narration (and a bit of training in the $arts).
 
-Kvothe is relatable even when he's making mistakes, which is really important in protagonists. Though of course that's
-easy to hit, when you write a Mary Sue author stand-in as protagonist.
-At the same time, this is very much a male nerd power fantasy. I still enjoyed the book a lot, but if that's not a lens
-or genre you like reading, this probably won't be fun for you.
+Kvothe is a terrible Mary Sue even when he's making mistakes. Though of course that's easy to hit, when you write an
+author stand-in as protagonist.  At the same time, this is very much a male nerd power fantasy. I still enjoyed the book
+a lot, but if that's not a lens or genre you like reading, this probably won't be fun for you.
 
-Can't wait to read the second part.
+The four stars are mostly because I enjoyed the worldbuilding and much of the writing.

@@ -30,4 +30,8 @@ review:
   rating: 4
 ---
 
-This was terrific. We get Locke, Jean, and Sabetha, their backstory (Scott pulls off the old past-present alternating chapters well), and a contest with unfair rules and unfairer outcome. I loved how, again, Scott makes clear that the women in the story (mostly Sabetha, but not only) have agency, and character. No matter if they choose to fuck people or not, their choices are shown to be theirs and valid, and men who don't respect that are shown to be assholes. It's great.
+This was terrific. We get Locke, Jean, and Sabetha, their backstory (Scott pulls off the old past-present alternating
+chapters well), and a contest with unfair rules and unfairer outcome. I loved how, again, Scott makes clear that the
+women in the story (mostly Sabetha, but not only) have agency, and character. No matter if they choose to fuck people or
+not, their choices are shown to be theirs and valid, and men who don't respect that are shown to be assholes. It's
+great.

@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: john-scalzi/the-god-engines
+  text: Similar take on gods, but in space.
 - book: terry-pratchett/good-omens
   text: Terry Pratchett's other take on religion
 - book: terry-pratchett/witches-abroad

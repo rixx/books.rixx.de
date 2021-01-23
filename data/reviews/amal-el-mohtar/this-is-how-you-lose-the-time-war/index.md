@@ -8,6 +8,7 @@ book:
   spine_color: '#532b30'
   tags:
   - five-stars
+  - time-travel
   - scifi
   title: This Is How You Lose the Time War
 plan:

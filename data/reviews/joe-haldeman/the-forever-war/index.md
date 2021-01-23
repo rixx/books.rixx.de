@@ -19,10 +19,14 @@ book:
   title: The Forever War
 plan:
   date_added: '2016-11-12'
+related_books:
+- book: joe-haldeman/the-forever-war
+  text: If you can't get enough of pop culture jokes.
 review:
   date_read:
   - 2016-11-09
   rating: 3
 ---
 
-Very Scalzi-ish (although, of course, the other way around). Took some getting used to the terse style, after that very well thought through and enjoyable. Especially all the implication of time dilation by long distance space jumps.
+Very Scalzi-ish (although, of course, the other way around). Took some getting used to the terse style, after that very
+well thought through and enjoyable. Especially all the implication of time dilation by long distance space jumps.

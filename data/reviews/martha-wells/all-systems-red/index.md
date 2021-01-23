@@ -17,6 +17,10 @@ book:
 plan:
   date_added: '2018-05-31'
 related_books:
+- book: charles-stross/saturns-children
+  text: If you're here for the non-human protagonists.
+- book: ann-leckie/ancillary-justice
+  text: Amazing sentient robots.
 - book: martha-wells/artificial-condition
   text: The next book in the series.
 review:

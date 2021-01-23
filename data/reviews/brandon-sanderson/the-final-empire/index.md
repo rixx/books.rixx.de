@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2018-11-10'
 related_books:
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: Completely different style, but both heist-based fantasy books.
+- book: brandon-sanderson/the-way-of-kings
+  text: The less YA series in the same universe.
 - book: brandon-sanderson/the-well-of-ascension
   text: The next book in the series.
 review:
@@ -28,7 +32,10 @@ review:
   rating: 4
 ---
 
-The Final Empire is good Fantasy, no more, no less. In comparison with Sanderson's Stormlight Archives it feels much more YA-y (not in a bad way, though). I enjoyed that I wasn't able to predict the plot too far ahead, aside of generalities. This book didn't shake my perception of the world – it's too generic for that, but it's genuinely touching in enough places to keep it from feeling boring/overly generic/as if I had read it already.
+The Final Empire is good Fantasy, no more, no less. In comparison with Sanderson's Stormlight Archives it feels much
+more YA-y (not in a bad way, though). I enjoyed that I wasn't able to predict the plot too far ahead, aside of
+generalities. This book didn't shake my perception of the world – it's too generic for that, but it's genuinely touching
+in enough places to keep it from feeling boring/overly generic/as if I had read it already.
 
 Of course, Sanderson shows off how bloody much he loves magic systems here, and woe to you if you don't feel like
 remembering what ten different effects the Ten Metals have, and what "Protagonist surged copper" means.

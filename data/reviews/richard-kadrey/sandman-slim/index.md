@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: jim-butcher/storm-front
   text: More of the same.
+- book: stephen-king/the-gunslinger
+  text: If you prefer a proper gunslinger.
 - book: richard-kadrey/kill-the-dead
   text: The next book in the series.
 review:

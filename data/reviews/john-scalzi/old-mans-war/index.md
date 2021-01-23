@@ -19,8 +19,13 @@ book:
   title: Old Man's War
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: joe-haldeman/the-forever-war
+  text: I can't always tell the two apart.
 review:
   date_read:
   - 2014-06-01
   rating: 4
 ---
+Modern classic. Old people are made young, and if they survive two years in the interstellar war, they get a piece of
+land on some planet (how very Roman). 

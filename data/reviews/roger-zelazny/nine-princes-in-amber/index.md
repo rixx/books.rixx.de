@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: george-r-r-martin/a-game-of-thrones
   text: A very different, equally classical take on warring nobility in a fantasy setting.
+- book: charles-stross/the-family-trade
+  text: Magical family in parallel world? Check.
 review:
   date_read:
   - 2020-06-29

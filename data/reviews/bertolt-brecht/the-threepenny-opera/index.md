@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: bertolt-brecht/the-good-woman-of-setzuan
   text: See what happens to a good author when the need to educate forces out any and all humour.
+- book: friedrich-schiller/die-rauber
+  text: More bandits in the business of showing up society.
 review:
   date_read:
   - 2011-04-01

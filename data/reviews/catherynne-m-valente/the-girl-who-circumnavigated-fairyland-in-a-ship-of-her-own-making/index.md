@@ -17,10 +17,16 @@ book:
 plan:
   date_added: '2016-05-18'
 related_books:
+- book: terry-pratchett/the-wee-free-men
+  text: My favourite heroine venturing into fairyland.
 - book: neil-gaiman/coraline
   text: For more heroines adventuring into fantastic worlds – though this one is more brutal.
+- book: neil-gaiman/stardust
+  text: Modern fairytales both.
 - book: lewis-carroll/alice-in-wonderland
-  text: The original little girl in absurd fantasy land portal fantasy, which has nothing at heart in common with this book.
+  text: Superficially, the original little girl in absurd fantasy land portal fantasy, but these books have nothing in common at heart.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: More portal fantasy (slightly meta).
 review:
   date_read:
   - 2016-10-20
@@ -30,13 +36,3 @@ review:
 This is a very nice little book, filled with Faerie and language that is exceedingly ornate but never quite pretentious.
 And it's a modern fairy tale at that - September, the protagonist, didn't grow too close to my heart, but the narrator
 did, and that is good enough.
-
-## Further Reading
-
-[Alice](https://books.rixx.de/reviews/2004/alice-in-wonderland) would be the obvious recommendation for a girl dealing
-with nonsensically fantastic worlds on her own, but I don't actually think the books share anything except superficial
-points.
-
-If you like the portal aspect, consider looking into the [Wayward Children
-books](https://books.rixx.de/reviews/2018/every-heart-a-doorway). If you liked the heroine most of all, take a look at
-[Coraline](https://books.rixx.de/reviews/2003/coraline), if you dare.

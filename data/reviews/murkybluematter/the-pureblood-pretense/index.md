@@ -23,3 +23,5 @@ review:
   - 2019-02-02
   rating: 3
 ---
+Despite the Lemony Snickety naming, an interesting series. Female-Harry has grown up with both parents and her godfather
+and his son. Due to pureblood idiocy, the two decide to switch places.

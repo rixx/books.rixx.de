@@ -16,6 +16,7 @@ book:
   spine_color: '#c9b156'
   tags:
   - fantasy
+  - time-travel
   title: Johnny and the Bomb
 plan:
   date_added: '2015-04-08'

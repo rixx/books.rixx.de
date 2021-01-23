@@ -17,6 +17,9 @@ book:
   title: Rainbows End
 plan:
   date_added: '2018-02-28'
+related_books:
+- book: charles-stross/halting-state
+  text: Near-future thriller in an always-online world with an eye on information distribution.
 review:
   date_read:
   - 2018-03-23

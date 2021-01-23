@@ -19,7 +19,9 @@ book:
   title: The Engines of God
 plan:
   date_added: 2020-06-30
-related_books: []
+related_books:
+- book: john-scalzi/the-god-engines
+  text: Same name, way different book.
 review:
   date_read:
   - 2020-06-29

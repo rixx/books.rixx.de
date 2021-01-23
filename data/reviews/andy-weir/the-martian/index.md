@@ -15,10 +15,20 @@ book:
   title: The Martian
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: james-s-a-corey/leviathan-wakes
+  text: Set in the same universe – if you want to know what happened on Mars triggered by Mark Watney. Love to see authors fanboying each other like that. [Proof](https://twitter.com/JamesSACorey/status/650382119449964544)
+- book: mary-robinette-kowal/the-calculating-stars
+  text: "How to survive with limited means when disaster hits: world-wide edition."
+- book: diane-duane/a-wizard-of-mars
+  text: More Mars shenanigans, this time Fantasy.
 review:
   date_read:
   - 2015-08-06
   rating: 5
 ---
 
-Gods, I already knew they had chosen Matt Damon as lead role, and I can imagine him in that role so very well! Brilliant humor with hard scifi. I seriously hope they won't fuck up the movie.
+Gods, I already knew they had chosen Matt Damon as lead role, and I can imagine him in that role so very well! Brilliant
+humor with hard scifi. I seriously hope they won't fuck up the movie.
+
+*Edit: Narrator's voice.* They did not fuck up the movie.

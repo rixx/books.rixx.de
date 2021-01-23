@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: orson-scott-card/enders-shadow
+  text: Bean may or may not be Harry.
 - book: eugene-t-gendlin/focusing
   text: 'One of Harry''s favourite quotes is from Focusing: What is true is already
     so, etc.'

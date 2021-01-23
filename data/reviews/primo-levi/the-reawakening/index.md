@@ -44,3 +44,5 @@ social:
 
       https://books.rixx.de/primo-levi/the-reawakening/'
 ---
+Primo Levi's way home after the end of WW2, from Auschwitz to Italy. So matter-of-fact that it reads as deadpan when
+Europe consists only of remains and confusion.

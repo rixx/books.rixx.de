@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: lian-hearn/grass-for-his-pillow
   text: The next book in the series.
+- book: robin-hobb/assassins-apprentice
+  text: Coming-of-age with plenty of deadly enemies, training in killing, and navigating a rigid aristocracy that the protagonist doesn't really belong in.
 - book: john-flanagan/the-ruins-of-gorlan
   text: A less brutal but similarly enthralling coming-of-age story.
 review:

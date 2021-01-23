@@ -17,10 +17,13 @@ book:
   tags:
   - five-stars
   - scifi
+  - time-travel
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'
 related_books:
+- book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
+  text: More medieval time travel.
 - book: connie-willis/to-say-nothing-of-the-dog
   text: The next book in the series.
 review:

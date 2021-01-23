@@ -29,3 +29,4 @@ review:
   - 2016-12-17
   rating: 2
 ---
+All Mercy Thompson books are the same.

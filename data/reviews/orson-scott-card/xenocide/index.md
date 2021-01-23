@@ -27,5 +27,7 @@ related_books:
 review:
   date_read:
   - 2014-07-01
-  rating: 2
+  rating: 3
 ---
+Xenocide is too long, too full, and starts showing where the series goes wrong. But there's still a whole lot of good
+in there … somewhere.

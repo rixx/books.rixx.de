@@ -17,18 +17,31 @@ book:
   tags:
   - fantasy
   - five-stars
+  - queer
   title: The Door Into Fire
 plan:
   date_added: '2019-10-05'
 related_books:
 - book: diane-duane/the-door-into-shadow
   text: The next book in the series.
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: Her YA series.
 review:
   date_read:
   - 2019-11-15
   rating: 5
 ---
 
-I loved **The Door Into Fire** by *Diane Duane* a whole lot. It's incredibly character-focused fantasy, to the point of reminding me strongly of Lois McMaster Bujold for its strong characters and Ursula Le Guin for its sensitive, almost lyrical descriptions of magic and nature and the relationship between everything. It's set in a fascinating world that clearly follows a set of rules of magic and mythology (gods! Excellent gods, and all kinds of other beings), but the rules are sufficiently mysterious to feel consistent, yet not clinical. I'm writing this review more than a month after reading the book, and the characters are still very vivid in my mind, which is probably the highest praise I can pay the book.
+I loved **The Door Into Fire** by *Diane Duane* a whole lot. It's incredibly character-focused fantasy, to the point of
+reminding me strongly of Lois McMaster Bujold for its strong characters and Ursula Le Guin for its sensitive, almost
+lyrical descriptions of magic and nature and the relationship between everything. It's set in a fascinating world that
+clearly follows a set of rules of magic and mythology (gods! Excellent gods, and all kinds of other beings), but the
+rules are sufficiently mysterious to feel consistent, yet not clinical. I'm writing this review more than a month after
+reading the book, and the characters are still very vivid in my mind, which is probably the highest praise I can pay the
+book.
 
-Also, because this may impact some of my readers' decision to read the book: This world feels wonderfully archaic in many ways, but it is also very emancipated and queer. The protagonist is in a same-sex relationship, and there are open relationships, discussions of how children are brought up, and all female characters have very much characters, opinions, and arcs of their own. The story is not such that I think this needs to be a selling point – it is really good! – but sometimes you just want to read queer-friendly Fantasy, which is a bit thin on the ground.
+Also, because this may impact some of my readers' decision to read the book: This world feels wonderfully archaic in
+many ways, but it is also very emancipated and queer. The protagonist is in a same-sex relationship, and there are open
+relationships, discussions of how children are brought up, and all female characters have very much characters,
+opinions, and arcs of their own. The story is not such that I think this needs to be a selling point – it is really
+good! – but sometimes you just want to read queer-friendly Fantasy, which is a bit thin on the ground.

@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2016-10-25'
 related_books:
+- book: patrick-rothfuss/the-name-of-the-wind
+  text: Magic with names and balances and strange teachers. Less indulgent.
 - book: ursula-k-le-guin/the-tombs-of-atuan
   text: The next book in the series.
 review:

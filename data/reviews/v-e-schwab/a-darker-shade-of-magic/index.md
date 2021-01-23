@@ -20,6 +20,9 @@ book:
   title: A Darker Shade of Magic
 plan:
   date_added: '2016-05-14'
+related_books:
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: Sassy thieves.
 review:
   date_read:
   - 2020-07-18

@@ -1,6 +1,6 @@
 ---
 book:
-  author: Lynne M. Thomas
+  author: Elizabeth Baer
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572999756l/48715894._SY475_.jpg
   goodreads: '48715894'
   publication_year: '2019'
@@ -8,9 +8,13 @@ book:
   spine_color: '#deb36a'
   tags:
   - scifi
+  - time-travel
   title: A Time to Reap
 plan:
   date_added: '2020-02-12'
+related_books:
+- book: stephen-king/11-22-63
+  text: More time travel to the rural US in the 60s.
 review:
   date_read:
   - 2020-02-12

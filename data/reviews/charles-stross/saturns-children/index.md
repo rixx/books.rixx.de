@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: martha-wells/all-systems-red
+  text: If you're here for the non-human protagonists.
+- book: ann-leckie/ancillary-justice
+  text: Amazing sentient robots.
 - book: charles-stross/bit-rot
   text: The next book in the series.
 review:

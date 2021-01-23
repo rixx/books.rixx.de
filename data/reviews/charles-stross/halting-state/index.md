@@ -19,8 +19,18 @@ book:
   title: Halting State
 plan:
   date_added: '2019-07-19'
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: Another Stross series about government employees.
+- book: vernor-vinge/rainbows-end
+  text: Near-future thriller in an always-online world with an eye on information distribution.
+- book: daniel-suarez/daemon
+  text: More tech future.
+- book: ernest-cline/ready-player-one
+  text: More immersion in semi-virtual near-future worlds.
 review:
   date_read:
   - 2015-08-17
   rating: 3
 ---
+Robbery of a dot-com-startup. Set in 2018, in independent Scotland. Alas.

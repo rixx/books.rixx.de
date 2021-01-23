@@ -17,8 +17,13 @@ book:
   title: Missile Gap
 plan:
   date_added: '2018-09-20'
+related_books:
+- book: charles-stross/a-tall-tail
+  text: Another Stross short story.
 review:
   date_read:
   - 2016-09-20
   rating: 3
 ---
+Locus award winning novella, where the Earth finds itself suddenly remapped onto a flat surface. An agent called Gregor
+Samsa plays a role.

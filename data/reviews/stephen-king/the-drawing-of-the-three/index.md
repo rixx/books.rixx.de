@@ -30,4 +30,5 @@ review:
   rating: 4
 ---
 
-Not quite as brilliant as the first volume in my mind, but still extremely good. Expanding the universe, introducing Susannah and Eddie (boy is he annoying though), and pushing ever onwards.
+Not quite as brilliant as the first volume in my mind, but still extremely good. Expanding the universe, introducing
+Susannah and Eddie (boy is he annoying though), and pushing ever onwards.

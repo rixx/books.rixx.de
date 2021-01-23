@@ -19,6 +19,9 @@ book:
   title: Wizard's First Rule
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: robert-jordan/the-eye-of-the-world
+  text: The original.
 review:
   date_read:
   - 2016-10-24
@@ -44,8 +47,6 @@ for guns, etc etc.
 It's truly truly bad. I can't tell you how bad it is.
 
 ## Further Reading
-
-That's why, in my Further Reading section, instead of similar books I will link excellent reviews instead.
 
 The incomparable, still missed
 [Pornokitsch](https://www.pornokitsch.com/2010/07/underground-reading-wizards-first-rule-by-terry-goodkind.html):

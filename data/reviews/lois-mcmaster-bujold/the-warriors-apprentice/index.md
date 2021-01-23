@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: terry-pratchett/going-postal
   text: The Discworld take on ambition and momentum. Not nearly as good, though.
+- book: orson-scott-card/enders-game
+  text: Genius kids going overboard.
 - book: lois-mcmaster-bujold/shards-of-honour
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/ethan-of-athos

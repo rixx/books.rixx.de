@@ -20,6 +20,12 @@ book:
 plan:
   date_added: '2017-01-08'
 related_books:
+- book: suzanne-collins/the-hunger-games
+  text: Much like the richer districts of the Hunger Games world.
+- book: pierce-brown/red-rising
+  text: Extremely similar story, though I find Red Rising much less intriguing despite the space setting.
+- book: ursula-poznanski/erebos
+  text: More excellent scifi YA by Poznanski.
 - book: ursula-poznanski/die-verschworenen
   text: The next book in the series.
 review:
@@ -30,4 +36,5 @@ review:
 
 Mehr, bitte!
 
-Rias Geschichte in der Sphäre, in der sie Nummer 7 ist und eine großartige Zukunft vor sich hat, und … außerhalb, in der Wildnis und bei einem der Clans, gemeinsam mit den fünf anderen Fliehenden.
+Rias Geschichte in der Sphäre, in der sie Nummer 7 ist und eine großartige Zukunft vor sich hat, und … außerhalb, in der
+Wildnis und bei einem der Clans, gemeinsam mit den fünf anderen Fliehenden.

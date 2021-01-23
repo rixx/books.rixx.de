@@ -30,4 +30,7 @@ review:
   rating: 3
 ---
 
-Concluding the first part of the trilogy trilogy, I still liked it. Yes, it's slowly paced high fantasy, yes, the protagonist is not a Mary Sue at all (whiny and annoying, more like), yes, the conclusion is a bit deus-ex-machina - I still liked it. It's nice fantasy. It takes you to Buckkeep and to the Mountain Kingdom and all the places Fitz and the wolf visit.
+Concluding the first part of the trilogy trilogy, I still liked it. Yes, it's slowly paced high fantasy, yes, the
+protagonist is not a Mary Sue at all (whiny and annoying, more like), yes, the conclusion is a bit deus-ex-machina - I
+still liked it. It's nice fantasy. It takes you to Buckkeep and to the Mountain Kingdom and all the places Fitz and the
+wolf visit.

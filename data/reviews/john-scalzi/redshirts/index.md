@@ -17,6 +17,9 @@ book:
   title: Redshirts
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: ernest-cline/ready-player-one
+  text: If you can't get enough of pop culture jokes.
 review:
   date_read:
   - 2014-10-01

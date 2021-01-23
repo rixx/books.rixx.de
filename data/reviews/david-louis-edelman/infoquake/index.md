@@ -15,8 +15,13 @@ book:
   title: Infoquake
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: william-gibson/neuromancer
+  text: I sometimes thought that this book wanted to be Neuromancer, a lot.
 review:
   date_read:
   - 2015-03-01
   rating: 2
 ---
+The war is now fought in sales pitches, product demos and press releases. The life of the future, as seen by somebody
+who reads (but does not like) Wall Street Journal. Economy cyberpunk?

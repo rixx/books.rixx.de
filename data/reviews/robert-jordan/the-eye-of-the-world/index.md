@@ -15,6 +15,9 @@ book:
   title: The Eye of the World
 plan:
   date_added: '2018-02-17'
+related_books:
+- book: terry-goodkind/wizards-first-rule
+  text: The bad knock-off.
 review:
   date_read:
   - 2018-11-23

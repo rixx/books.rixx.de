@@ -19,10 +19,14 @@ book:
   title: A Wrinkle in Time
 plan:
   date_added: '2018-02-07'
+related_books:
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: More magical teenagers exploring a new world.
 review:
   date_read:
   - 2018-02-26
   rating: 3
 ---
 
-Started off as five star book, ended as a three star book. I found the religious … themes very jarring, much less low-key than in Diane Duane's books. The descriptions and characters were great, the story and pacing a bit lacking.
+Started off as five star book, ended as a three star book. I found the religious … themes very jarring, much less
+low-key than in Diane Duane's books. The descriptions and characters were great, the story and pacing a bit lacking.

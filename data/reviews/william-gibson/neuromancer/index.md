@@ -13,6 +13,9 @@ book:
   title: Neuromancer
 plan:
   date_added: '2017-05-10'
+related_books:
+- book: ernest-cline/ready-player-one
+  text: Uses lots of concepts from here, then buries them in nostalgia.
 review:
   date_read:
   - 2017-03-10

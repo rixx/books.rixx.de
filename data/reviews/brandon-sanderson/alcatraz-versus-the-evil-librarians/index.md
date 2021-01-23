@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: eoin-colfer/artemis-fowl
+  text: Young kid with powers in the midst of a world-wide magical conspiracy.
 - book: brandon-sanderson/alcatraz-versus-the-scriveners-bones
   text: The next book in the series.
 review:
@@ -27,3 +29,4 @@ review:
   - 2015-05-01
   rating: 1
 ---
+Despite wanting to like the book, it's just not my kind of humour.

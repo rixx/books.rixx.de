@@ -13,6 +13,9 @@ book:
   title: The Calculating Stars
 plan:
   date_added: '2018-07-25'
+related_books:
+- book: andy-weir/the-martian
+  text: "How to survive with limited means when disaster hits: single-person edition."
 review:
   date_read:
   - 2019-08-07

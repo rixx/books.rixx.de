@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: jonathan-stroud/the-amulet-of-samarkand
   text: Another ruthless young hero harnessing magic.
+- book: brandon-sanderson/alcatraz-versus-the-evil-librarians
+  text: Young kid with powers in the midst of a world-wide magical conspiracy.
 - book: jasper-fforde/the-eyre-affair
   text: If you liked Holly in Artemis Fowl, you'll love Thursday Next.
 - book: eoin-colfer/the-arctic-incident

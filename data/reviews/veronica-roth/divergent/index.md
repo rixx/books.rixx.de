@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: suzanne-collins/the-hunger-games
   text: Strictly better.
+- book: aldous-huxley/brave-new-world
+  text: The classic among the rigid caste structure dystopias.
 review:
   date_read:
   - 2016-10-11

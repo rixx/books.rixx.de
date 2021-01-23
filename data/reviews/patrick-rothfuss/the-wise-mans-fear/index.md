@@ -30,11 +30,18 @@ review:
   rating: 3
 ---
 
-We see Kvothe travelling here: he meets the Maer and navigates his court, hunts bandits in the woods, gets tangled up with Felurian, and finally learns the arts (Ketan) of the Adem before returning to the University. Sadly, while a bunch of things happen, few seem to have any consequences.
+We see Kvothe travelling here: he meets the Maer and navigates his court, hunts bandits in the woods, gets tangled up
+with Felurian, and finally learns the arts (Ketan) of the Adem before returning to the University. Sadly, while a bunch
+of things happen, few seem to have any consequences.
 
-I liked that Kvothe seems to learn from his story and his mistakes. While some of his capabilities are still a bit Mary-Sue-ish for my tastes, he's by no means perfect and both the storytelling and the story itself reflect this. I liked the different culture of the Adem and its discussion. I'm intrigued by Elodin. I'm also tremendously irritated by the writing of the female cast, because it really drives home how much of a male nerd power fantasy this is. I picked up on that part during The Wise Man's Fear, but I didn't notice the female characters then.
+I liked that Kvothe seems to learn from his story and his mistakes. While some of his capabilities are still a bit
+Mary-Sue-ish for my tastes, he's by no means perfect and both the storytelling and the story itself reflect this. I
+liked the different culture of the Adem and its discussion. I'm intrigued by Elodin. I'm also tremendously irritated by
+the writing of the female cast, because it really drives home how much of a male nerd power fantasy this is. I picked up
+on that part during The Wise Man's Fear, but I didn't notice the female characters then.
 
-Yeah, I like these books, I suppose. I appreciate the world built (both implicitly and a lot of it explicitly), I like some of the characters, even if I'm torn on the protagonist.
+Yeah, I like these books, I suppose. I appreciate the world built (both implicitly and a lot of it explicitly), I like
+some of the characters, even if I'm torn on the protagonist.
 
 But I have to echo everything [pornokitsch
 said](https://www.pornokitsch.com/2011/06/new-releases-the-wise-mans-fear-by-patrick-rothfuss.html) too, only that I

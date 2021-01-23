@@ -28,6 +28,8 @@ related_books:
   text: More dystopian teenagers trying to kill one another.
 - book: kazuo-ishiguro/never-let-me-go
   text: More teenagers who have their whole life planned out for them in a dystopia.
+- book: ursula-poznanski/die-vernichteten
+  text: German YA with a similar setup, but less blatant worldbuilding.
 - book: veronica-roth/divergent
   text: Hunger Games knock-off.
 - book: george-orwell/1984

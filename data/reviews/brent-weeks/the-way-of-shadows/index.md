@@ -19,6 +19,10 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: brandon-sanderson/the-way-of-kings
+  text: Similar in tone, with a much larger scope.
+- book: robin-hobb/assassins-apprentice
+  text: More fantasy assassins.
 - book: brent-weeks/shadows-edge
   text: The next book in the series.
 review:
@@ -27,4 +31,5 @@ review:
   rating: 4
 ---
 
-I just really enjoyed this book. It is pure and classic fantasy. Not very sophisticated, but very very enjoyable, especially since I have a thing for training stories and an out-of-the-ashes arc.
+I just really enjoyed this book. It is pure and classic fantasy. Not very sophisticated, but very very enjoyable,
+especially since I have a thing for training stories and an out-of-the-ashes arc.

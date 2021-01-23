@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2016-11-03'
 related_books:
+- book: ursula-poznanski/die-verratenen
+  text: Extremely similar setting, though on Earth and with better everything.
 - book: suzanne-collins/the-hunger-games
   text: More dystopian teenagers trying to kill one another.
 review:

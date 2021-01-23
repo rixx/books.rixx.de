@@ -20,6 +20,9 @@ book:
   title: The Sparrow
 plan:
   date_added: '2018-03-13'
+related_books:
+- book: orson-scott-card/speaker-for-the-dead
+  text: Similarly Christian first-contact book. Both better than you'd think.
 review:
   date_read:
   - 2020-01-08

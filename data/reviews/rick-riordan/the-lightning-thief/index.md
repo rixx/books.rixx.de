@@ -17,6 +17,8 @@ book:
 plan:
   date_added: '2015-08-06'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The previous over-hyped magic boy.
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: Background knowledge on Greek legends.
 review:
@@ -24,3 +26,4 @@ review:
   - 2016-01-01
   rating: 3
 ---
+Who doesn't like Greek myths coming to life before their eyes? Well, apart from the somewhat unlucky protagonist.

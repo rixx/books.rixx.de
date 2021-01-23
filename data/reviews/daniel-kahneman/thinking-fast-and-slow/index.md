@@ -21,5 +21,6 @@ plan:
 review:
   date_read:
   - 2018-05-29
-  rating: 3
+  rating: 2
 ---
+Reproduction crisis hits hard, doesn't it. People who buy too much of Kahneman's book are insufferable.

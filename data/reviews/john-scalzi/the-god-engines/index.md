@@ -15,6 +15,11 @@ book:
   title: The God Engines
 plan:
   date_added: 2020-06-22
+related_books:
+- book: jack-mcdevitt/the-engines-of-god
+  text: Same name, way different take on the subject.
+- book: terry-pratchett/small-gods
+  text: Very similar take on trapped gods.
 review:
   date_read:
   - 2020-06-22
@@ -28,8 +33,8 @@ The God Engines is a fantasy-in-space novella that involves space ships powered 
 …
 
 What are you still here for? I liked this one a lot, but it's also slotting into my interests as if it was written for
-me – my book site has a [Space Monks](https://books.rixx.de/lists/space-monks/) list for a reason. It's not [Small
-Gods](https://books.rixx.de/reviews/2005/small-gods/), but it follows the same general principles on godhood and how
+me – my book site has a [Space Monks](/lists/space-monks/) list for a reason. It's not [Small
+Gods](/terry-pratchett/small-gods/), but it follows the same general principles on godhood and how
 belief powers gods, only that those gods then power space ships.
 
 What stood out to me was that while the general storyline might be a bit predictable, the ending was *not*, and the

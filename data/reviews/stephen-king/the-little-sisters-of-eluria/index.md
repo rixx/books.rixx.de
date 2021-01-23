@@ -26,4 +26,5 @@ review:
   rating: 4
 ---
 
-I liked returning to Roland quite a lot, and while you can read the story without any knowledge of the larger series, there are SERIOUS SPOILERS CONTAINED wtf Mr King. Otherwise creepy in a nice way.
+I liked returning to Roland quite a lot, and while you can read the story without any knowledge of the larger series,
+there are SERIOUS SPOILERS CONTAINED wtf Mr King. Otherwise creepy in a nice way.

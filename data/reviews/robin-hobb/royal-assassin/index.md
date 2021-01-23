@@ -30,4 +30,5 @@ review:
   rating: 4
 ---
 
-Second volume, and a lot happens (well, not that much per page, but fun nonetheless): Fitz gains confidence, but loses his girl, his King, his King-in-Waiting, his Queen-in-Waiting, and ultimately his life (-ish, no huge cliffhanger).
+Second volume, and a lot happens (well, not that much per page, but fun nonetheless): Fitz gains confidence, but loses
+his girl, his King, his King-in-Waiting, his Queen-in-Waiting, and ultimately his life (-ish, no huge cliffhanger).

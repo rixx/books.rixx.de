@@ -20,7 +20,9 @@ book:
   title: Leviathan Wakes
 plan:
   date_added: '2017-03-31'
-related_books: []
+related_books:
+- book: andy-weir/the-martian
+  text: Set in the same universe – if you want to know how Mars got colonized in the first place. [Proof](https://twitter.com/JamesSACorey/status/650382119449964544)
 review:
   date_read:
   - 2017-07-06

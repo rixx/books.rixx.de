@@ -26,6 +26,8 @@ related_books:
   text: More recent take on technology that sees everything.
 - book: william-gibson/neuromancer
   text: Neighbour along the cyberpunk border.
+- book: ernest-cline/ready-player-one
+  text: Another AI executing its creators wishes after his death.
 - book: daniel-suarez/freedomtm
   text: The next book in the series.
 review:

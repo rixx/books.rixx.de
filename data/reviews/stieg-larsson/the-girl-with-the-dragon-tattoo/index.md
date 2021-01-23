@@ -22,7 +22,7 @@ review:
   rating: 4
 ---
 
-Ohh, this book made me uncomfortabel a lot, and I finished it rather fast because it absolutely would not wait.
+Ohh, this book made me uncomfortable, and I finished it rather fast because it absolutely would not wait.
 
 I liked how it didn't shy away from many issues, and I liked Lisbeth, but I disliked how the protagonist was very, very
 Mary Sue-ish. Not sure if I'm going to read the other parts.

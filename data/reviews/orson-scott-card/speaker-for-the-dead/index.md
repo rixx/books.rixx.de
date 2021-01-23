@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: mary-doria-russell/the-sparrow
+  text: Similarly Christian first-contact book. Both better than you'd think.
 - book: orson-scott-card/enders-game
   text: The previous book in the series.
 - book: orson-scott-card/xenocide
@@ -26,5 +28,6 @@ related_books:
 review:
   date_read:
   - 2014-03-01
-  rating: 3
+  rating: 4
 ---
+I prefer this book to the first, more famous one. It's deeper, and more powerful, and doesn't rely on one cheap trick.

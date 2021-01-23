@@ -19,10 +19,17 @@ book:
   title: Fünf
 plan:
   date_added: '2016-05-05'
+related_books:
+- book: peter-hoeg/smillas-sense-of-snow
+  text: Among my few thrillers, this one probably comes closest.
+- book: ursula-poznanski/die-verratenen
+  text: I like Poznanski's YA books a lot more.
 review:
   date_read:
   - 2016-05-14
   rating: 3
 ---
 
-Hm, it might just be that I'm not a fan of thrillers, but I don't particularly love this one. There is nothing wrong with it. The characters are very relatable, the story is sound, the details are well-researched, the language and pacing are very well done,... I don't dislike it, but I don't love it either.
+Hm, it might just be that I'm not a fan of thrillers, but I don't particularly love this one. There is nothing wrong
+with it. The characters are very relatable, the story is sound, the details are well-researched, the language and pacing
+are very well done,... I don't dislike it, but I don't love it either.

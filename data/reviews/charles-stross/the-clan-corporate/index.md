@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: charles-stross/empire-games
+  text: A follow-up series.
 - book: charles-stross/the-hidden-family
   text: The previous book in the series.
 - book: charles-stross/the-family-trade

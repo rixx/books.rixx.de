@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2018-07-28'
 related_books:
+- book: peter-v-brett/the-core
+  text: The next book in the series.
 - book: peter-v-brett/the-daylight-war
   text: The previous book in the series.
 - book: peter-v-brett/the-painted-man
