@@ -135,33 +135,28 @@ def update_book_data(review):
     review.save()
 
 
-def normalize_series_height():
-    from .books import Spine, load_reviews, load_to_read
-
-    reviews = list(load_reviews()) + list(load_to_read())
-    by_series = defaultdict(list)
-    for r in reviews:
-        if r.metadata["book"].get("series"):
-            by_series[r.metadata["book"]["series"]].append(r)
-    by_series = {key: value for key, value in by_series.items() if len(value) > 1}
-
-    for books in by_series.values():
-        heights = [
-            book.metadata["book"].get("dimensions", {}).get("height") for book in books
-        ]
-        heights = [h for h in heights if h]
-        if heights:
-            height = median_high(heights)
-        else:
-            height = Spine.random_height(None)
-        for book in books:
-            if not book.metadata["book"].get("dimensions"):
-                book.metadata["book"]["dimensions"] = {}
+def normalize_series_height(books: list):
+    heights = [
+        book.metadata["book"].get("dimensions", {}).get("height") for book in books
+    ]
+    heights = [h for h in heights if h]
+    if heights:
+        height = median_high(heights)
+    else:
+        height = Spine.random_height(None)
+    for book in books:
+        if not book.metadata["book"].get("dimensions"):
+            book.metadata["book"]["dimensions"] = {}
+        if (
+            "height" not in book.metadata["book"]["dimensions"]
+            or book.metadata["book"]["dimensions"]["height"] != height
+        ):
             book.metadata["book"]["dimensions"]["height"] = height
-            book.save()
+            print(f"Fixing height of {book.id}")
+        book.save()
 
 
-def series_related_books(books: list):
+def normalize_series_related_books(books: list):
     books = sorted(
         books, key=lambda book: float(book.metadata["book"]["series_position"])
     )
@@ -193,6 +188,7 @@ def series_related_books(books: list):
             related.append(
                 {"book": previous_book.id, "text": "The previous book in the series."}
             )
+            print(f"Adding previous book {previous_book.id} to {book.id}")
 
         if (
             next_book
@@ -203,6 +199,7 @@ def series_related_books(books: list):
             related.append(
                 {"book": next_book.id, "text": "The next book in the series."}
             )
+            print(f"Adding next book {next_book.id} to {book.id}")
 
         if (
             first_book
@@ -215,6 +212,22 @@ def series_related_books(books: list):
             related.append(
                 {"book": first_book.id, "text": "The first book in the series."}
             )
+            print(f"Adding first book {first_book.id} to {book.id}")
 
         book.metadata["related_books"] = related
         book.save()
+
+
+def normalize_series():
+    from .books import Spine, load_reviews, load_to_read
+
+    reviews = list(load_reviews()) + list(load_to_read())
+    by_series = defaultdict(list)
+    for r in reviews:
+        if r.metadata["book"].get("series"):
+            by_series[r.metadata["book"]["series"]].append(r)
+    by_series = {key: value for key, value in by_series.items() if len(value) > 1}
+
+    for books in by_series.values():
+        normalize_series_height(books)
+        normalize_series_related_books(books)
