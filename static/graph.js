@@ -72,6 +72,16 @@ const changeSearch = () => {
     node.classed("search-hit", d => searchHit(d))
     node.classed("search-fail", d => !searchHit(d))
 }
+const hoverHandler = (d, i) => {
+    if (isDragging) return
+    if (currentBook === i.id) return
+    changeSidebarBook(i)
+    changeGraphHighlight(i)
+}
+const mouseLeaveHandler = (d, i) => {
+    if (isDragging) return
+    removeGraphHighlight()
+}
 
 d3.json("/graph.json").then(data => {
 
@@ -80,63 +90,7 @@ d3.json("/graph.json").then(data => {
     })
 
     const container = document.querySelector("#book-graph")
-    const height = container.clientHeight;
-    const width = container.clientWidth;
-
-    let xForce = yForce = 0.1;
-    if (height > width) {
-        yForce = (width / height) / 10;
-    } else {
-        xForce = (height / width) / 10;
-    }
-    // Let's list the force we wanna apply on the network
-    const simulation = d3.forceSimulation(data.nodes)
-          .force("charge", d3.forceManyBody())
-          //.force("charge", d3.forceManyBody().strength(-30))  // Closer to zero = smaller graph
-          .force("link", d3.forceLink(data.links).id(d => d.id))
-          .force("x", d3.forceX().strength(xForce))   // This is for our graph
-          .force("y", d3.forceY().strength(yForce));  // This is for our graph
-          //.force("charge", d3.forceManyBody().strength(-5))  // Closer to zero = smaller graph
-          //.force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
-
-    drag = simulation => {
-      function dragstarted(event) {
-        isDragging = true;
-        if (!event.active) simulation.alphaTarget(0.3).restart();
-        event.subject.fx = event.subject.x;
-        event.subject.fy = event.subject.y;
-      }
-      function dragged(event) {
-        event.subject.fx = event.x;
-        event.subject.fy = event.y;
-      }
-      
-      function dragended(event) {
-        isDragging = false;
-        if (!event.active) simulation.alphaTarget(0);
-        event.subject.fx = null;
-        event.subject.fy = null;
-      }
-      return d3.drag()
-          .on("start", dragstarted)
-          .on("drag", dragged)
-          .on("end", dragended);
-    }
-    const hoverHandler = (d, i) => {
-        if (isDragging) return
-        if (currentBook === i.id) return
-        changeSidebarBook(i)
-        changeGraphHighlight(i)
-    }
-    const mouseLeaveHandler = (d, i) => {
-        if (isDragging) return
-        removeGraphHighlight()
-    }
-
     const svg = d3.select("#book-graph").append("svg")
-        .attr("viewBox", [-width / 2, -height / 2, width, height]);  // For unconnected graph
-        //.attr("viewBox", [0, 0, width, height]);  // For connected graph
-
     link = svg.append("g")
         .attr("stroke", "#999")
         .attr("stroke-opacity", 0.6)
@@ -145,7 +99,6 @@ d3.json("/graph.json").then(data => {
         .join("line");
         //.attr("stroke-width", d => Math.sqrt(d.value));
 
-    const colorScale = d3.scaleLinear().domain([0, 20]).range(["grey", "blue"]);
     node = svg
         .append("g")
         .attr("stroke", "#fff")
@@ -156,28 +109,79 @@ d3.json("/graph.json").then(data => {
         .attr("href", (d) => "/" + d.id)
         .append("circle")
         .attr("r", (d) => 5 + (d.rating || 0))
-        // .attr("fill", (d) => d.color || "grey")
         .attr("class", "bunt")
         .attr("style", d => `--book-color: ${d.color || "grey"}`)
         .on("mouseenter", hoverHandler)
         .on("mouseleave", mouseLeaveHandler)
-        .call(drag(simulation));
 
-    const maxRadius = 7
-    simulation.on("tick", () => {
-        //constrains the nodes to be within a box
-        node
-            .attr("cx", d => Math.max(-0.5*width + maxRadius, Math.min(0.5*width - maxRadius, d.x)))
-            .attr("cy", d => Math.max(-0.48*height + maxRadius, Math.min(0.48*height - maxRadius, d.y)));
-            //.attr("cx", d => d.x)
-            //.attr("cy", d => d.y);
-        link
-            .attr("x1", d => d.source.x)
-            .attr("y1", d => d.source.y)
-            .attr("x2", d => d.target.x)
-            .attr("y2", d => d.target.y);
+    const redraw = () => {
+        const height = container.clientHeight;
+        const width = container.clientWidth;
+        svg.attr("viewBox", [-width / 2, -height / 2, width, height]);  // For unconnected graph
+        //svg.attr("viewBox", [0, 0, width, height]);  // For connected graph
 
-    });
+        let xForce = yForce = 0.1;
+        if (height > width) {
+            yForce = (width / height) / 10;
+            
+        } else {
+            xForce = (height / width) / 10;
+        }
+        // Let's list the force we wanna apply on the network
+        const simulation = d3.forceSimulation(data.nodes)
+              .force("charge", d3.forceManyBody())
+              //.force("charge", d3.forceManyBody().strength(-30))  // Closer to zero = smaller graph
+              .force("link", d3.forceLink(data.links).id(d => d.id))
+              .force("x", d3.forceX().strength(xForce))   // This is for our graph
+              .force("y", d3.forceY().strength(yForce));  // This is for our graph
+              //.force("charge", d3.forceManyBody().strength(-5))  // Closer to zero = smaller graph
+              //.force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
+
+        drag = simulation => {
+          function dragstarted(event) {
+            isDragging = true;
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+          }
+          function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+          }
+          
+          function dragended(event) {
+            isDragging = false;
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+          }
+          return d3.drag()
+              .on("start", dragstarted)
+              .on("drag", dragged)
+              .on("end", dragended);
+        }
+
+
+        node.call(drag(simulation));
+
+        const maxRadius = 7
+        simulation.on("tick", () => {
+            //constrains the nodes to be within a box
+            node
+                .attr("cx", d => Math.max(-0.5*width + maxRadius, Math.min(0.5*width - maxRadius, d.x)))
+                .attr("cy", d => Math.max(-0.48*height + maxRadius, Math.min(0.48*height - maxRadius, d.y)));
+                //.attr("cx", d => d.x)
+                //.attr("cy", d => d.y);
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+        });
+    }
+    redraw()
+    window.addEventListener("resize", redraw);
     document.querySelector("input#graph-search").value = decodeURI(window.location.hash.substr(1))
     changeSearch()
 })
