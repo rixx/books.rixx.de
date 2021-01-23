@@ -11,6 +11,13 @@ book:
   title: The Day Before the Revolution
 plan:
   date_added: '2018-02-12'
+related_books:
+- book: ursula-k-le-guin/the-dispossessed
+  text: Revolutionaries and what becomes of them.
+- book: ursula-k-le-guin/a-fisherman-of-the-inland-sea
+  text: More revolutionary thoughts by le Guin.
+- book: lao-tzu/tao-te-ching
+  text: le Guin's version of the Tao te Ching is well worth reading.
 review:
   date_read:
   - 2018-02-17

@@ -10,6 +10,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: philip-k-dick/do-androids-dream-of-electric-sheep
+  text: On account of the sheep.
 - book: george-orwell/animal-farm
   text: In most ways the strict opposite of this book. Where the Little Prince is
     whimsical and caring, Animal Farm is harsh and brutal. And yet, both want nothing

@@ -19,7 +19,9 @@ book:
   title: Blindsight
 plan:
   date_added: '2015-04-09'
-related_books: []
+related_books:
+- book: james-s-a-corey/leviathan-wakes
+  text: A completely, wildly different book. The similarity is not the spaceship, but the sense of scale, of grit, and of reality despite the futuristic setting.
 review:
   date_read:
   - 2019-01-11

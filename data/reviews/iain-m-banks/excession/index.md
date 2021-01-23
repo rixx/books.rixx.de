@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-04-10'
 related_books:
+- book: neal-stephenson/anathem
+  text: Another take on Out Of Context problems.
 - book: iain-m-banks/the-state-of-the-art
   text: The previous book in the series.
 - book: iain-m-banks/inversions
@@ -32,4 +34,6 @@ review:
   rating: 3
 ---
 
-This is the infamous Culture book that's mostly ships talking. Which is not the part I disliked, the ships and their story were cool! But the humans were terribly one-dimensional and felt lazy, which distracted me from the cool Excession and nearly-as-cool intrigue.
+This is the infamous Culture book that's mostly ships talking. Which is not the part I disliked, the ships and their
+story were cool! But the humans were terribly one-dimensional and felt lazy, which distracted me from the cool Excession
+and nearly-as-cool intrigue.

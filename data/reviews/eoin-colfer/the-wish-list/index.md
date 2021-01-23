@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: lauren-oliver/before-i-fall
+  text: Another "save yourself after your death" story.
 - book: eoin-colfer/artemis-fowl
   text: Eoin Colfer's better-known books. Similar tone, probably a bit better but also more drawn-out.
 - book: neil-gaiman/the-graveyard-book

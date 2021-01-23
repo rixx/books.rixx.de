@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: ernest-cline/ready-player-one
   text: Uses lots of concepts from here, then buries them in nostalgia.
+- book: alfred-bester/the-stars-my-destination
+  text: More oddly-paced old scifi with protagonists on a violent mission.
 review:
   date_read:
   - 2017-03-10

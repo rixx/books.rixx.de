@@ -20,8 +20,10 @@ book:
 plan:
   date_added: '2016-11-12'
 related_books:
-- book: joe-haldeman/the-forever-war
-  text: If you can't get enough of pop culture jokes.
+- book: john-scalzi/old-mans-war
+  text: More of the same (in a good way).
+- book: orson-scott-card/speaker-for-the-dead
+  text: The FTL travel considerations reminded me a lot of the best part of the Enderverse.
 review:
   date_read:
   - 2016-11-09

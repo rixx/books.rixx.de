@@ -30,4 +30,6 @@ review:
   rating: 4
 ---
 
-Culture short stories! Very different in length, topic, and quality, lots of good stuff in there. Chief among them the one from Sma about Earth, and the one about the plant creature/person using a humanoid for their "she loves me, she loves me not". And A Gift from the Culture was just hilarious.
+Culture short stories! Very different in length, topic, and quality, lots of good stuff in there. Chief among them the
+one from Sma about Earth, and the one about the plant creature/person using a humanoid for their "she loves me, she
+loves me not". And A Gift from the Culture was just hilarious.

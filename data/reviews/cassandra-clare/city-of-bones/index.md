@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: stephenie-meyer/twilight
   text: YA fantasy at a similar level.
+- book: ilona-andrews/magic-bites
+  text: If it doesn't have to be YA, Kate Daniels does much of this in better.
 - book: cassandra-clare/city-of-ashes
   text: The next book in the series.
 review:
@@ -31,4 +33,5 @@ review:
   rating: 2
 ---
 
-Fairly okay YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires, werewolves, fay, the works. Short but enjoyable.
+Fairly okay YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires,
+werewolves, fay, the works. Short but enjoyable.

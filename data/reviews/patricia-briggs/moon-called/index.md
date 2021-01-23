@@ -20,6 +20,12 @@ book:
 plan:
   date_added: '2016-05-23'
 related_books:
+- book: ilona-andrews/magic-bites
+  text: Kate Daniels is quite a bit better than Mercy Thompson, while occupying the same niche.
+- book: jim-butcher/storm-front
+  text: I guess if you like this, Jim Butcher should work well for you, too.
+- book: stephenie-meyer/twilight
+  text: The YA version.
 - book: patricia-briggs/blood-bound
   text: The next book in the series.
 review:
@@ -28,4 +34,7 @@ review:
   rating: 2
 ---
 
-Do you know those days (or weeks) when you just want some hot chocolate and reassuring books and a safe cuddly sofa? I enjoy trashy fantasy on those days, and Mercy Thompson definitely qualifies. It doesn't get one star because I really like reading trashy urban fantasy once in a while, and it is still better than Twilight or Shades of Grey, so what the hell. Two stars it is, but don't expect quality.
+Do you know those days (or weeks) when you just want some hot chocolate and reassuring books and a safe cuddly sofa? I
+enjoy trashy fantasy on those days, and Mercy Thompson definitely qualifies. It doesn't get one star because I really
+like reading trashy urban fantasy once in a while, and it is still better than Twilight or Shades of Grey, so what the
+hell. Two stars it is, but don't expect quality.

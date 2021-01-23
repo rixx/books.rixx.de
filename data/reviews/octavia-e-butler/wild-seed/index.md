@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2018-05-31'
 related_books:
+- book: greg-egan/diaspora
+  text: Another take on immortality.
 - book: octavia-e-butler/mind-of-my-mind
   text: The next book in the series.
 review:

@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: jasper-fforde/the-last-dragonslayer
   text: A very similar vibe of matter-of-fact magic, with wizards and beasts living an everyday life.
+- book: ursula-k-le-guin/a-fisherman-of-the-inland-sea
+  text: Wildly different book, but also one that understands families.
 - book: diana-wynne-jones/the-magicians-of-caprona
   text: Another Wynne Jones book that focuses on a magical family.
 review:

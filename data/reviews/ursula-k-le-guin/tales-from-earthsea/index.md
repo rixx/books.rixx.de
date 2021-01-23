@@ -32,4 +32,5 @@ review:
   rating: 3
 ---
 
-A couple of short stories taking place in Earthsea. I enjoyed how all of them showed some characters we knew already (sometimes just in passing), but through the eyes of people who would count as "insignificant" in most stories.
+A couple of short stories taking place in Earthsea. I enjoyed how all of them showed some characters we knew already
+(sometimes just in passing), but through the eyes of people who would count as "insignificant" in most stories.

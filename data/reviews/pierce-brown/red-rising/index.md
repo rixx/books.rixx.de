@@ -20,10 +20,13 @@ related_books:
   text: Extremely similar setting, though on Earth and with better everything.
 - book: suzanne-collins/the-hunger-games
   text: More dystopian teenagers trying to kill one another.
+- book: aldous-huxley/brave-new-world
+  text: More caste systems.
 review:
   date_read:
   - 2017-07-13
   rating: 3
 ---
 
-Wooop! Sci-Fi version of Hunger Games with real characters (a bit Mary Sue-ish, but still fun). Also, touches of Brave New World in terms of castes.
+Wooop! Sci-Fi version of Hunger Games with real characters (a bit Mary Sue-ish, but still fun). Also, touches of Brave
+New World in terms of castes.

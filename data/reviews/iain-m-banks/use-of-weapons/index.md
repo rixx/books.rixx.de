@@ -32,4 +32,5 @@ review:
   rating: 4
 ---
 
-Very odd one - had me laughing out loud some of the time, and nearly bored at other times. I think the pacing threw me off. Very stunning ending, though, totally worth it.
+Very odd one - had me laughing out loud some of the time, and nearly bored at other times. I think the pacing threw me
+off. Very stunning ending, though, totally worth it.

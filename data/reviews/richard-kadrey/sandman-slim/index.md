@@ -24,6 +24,8 @@ related_books:
   text: More of the same.
 - book: stephen-king/the-gunslinger
   text: If you prefer a proper gunslinger.
+- book: tad-williams/the-dirty-streets-of-heaven
+  text: More urban fantasy with demons and angels, similarly American.
 - book: richard-kadrey/kill-the-dead
   text: The next book in the series.
 review:

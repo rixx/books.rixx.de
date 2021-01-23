@@ -54,4 +54,6 @@ social:
       https://books.rixx.de/reviews/2020/tiamats-wrath/'
 ---
 
-I don't think I could review this book without spoilers, but it wowed me, and angered me, and is generally VERY VERY good.
+
+I don't think I could review this book without spoilers, but it wowed me, and angered me, and is generally VERY VERY
+good.

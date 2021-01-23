@@ -17,10 +17,16 @@ book:
   title: In Calabria
 plan:
   date_added: '2018-02-12'
+related_books:
+- book: peter-s-beagle/the-last-unicorn
+  text: More Peter S. Beagle unicorns.
+- book: peter-s-beagle/the-unicorn-anthology
+  text: Even more unicorns.
 review:
   date_read:
   - 2018-02-13
   rating: 4
 ---
 
-Not only does Peter S. Beagle know his unicorns (and boy, does he ever), he knows his romance, too. Very lovely. I've never felt like an old, grumpy, Italian farmer before and now I wouldn't have want to miss out on this experience.
+Not only does Peter S. Beagle know his unicorns (and boy, does he ever), he knows his romance, too. Very lovely. I've
+never felt like an old, grumpy, Italian farmer before and now I wouldn't have want to miss out on this experience.

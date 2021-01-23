@@ -26,6 +26,10 @@ related_books:
   text: Another of the big dystopian novels.
 - book: ray-bradbury/fahrenheit-451
   text: Another old dystopian novels.
+- book: philip-k-dick/flow-my-tears-the-policeman-said
+  text: Similar caste system, only capitalism-based.
+- book: pierce-brown/red-rising
+  text: More caste systems.
 review:
   date_read:
   - 2011-01-01

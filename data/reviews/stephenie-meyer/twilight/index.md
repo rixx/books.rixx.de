@@ -22,6 +22,8 @@ related_books:
   text: The other book vying for teenagers at the time. You usually were into one or the other.
 - book: cassandra-clare/city-of-bones
   text: YA fantasy at a similar level.
+- book: patricia-briggs/blood-bound
+  text: The same, but not YA anymore.
 - book: bram-stoker/dracula
   text: Look, Dracula is not good, but it's better than Twilight.
 review:

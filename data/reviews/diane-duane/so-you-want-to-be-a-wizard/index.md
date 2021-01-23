@@ -27,6 +27,8 @@ related_books:
   text: More magical teenagers exploring a new world.
 - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
   text: British version of magic teenagers.
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: Duane understands Earthsea better than most.
 - book: diane-duane/the-door-into-fire
   text: Her adult fantasy series.
 - book: diane-duane/deep-wizardry

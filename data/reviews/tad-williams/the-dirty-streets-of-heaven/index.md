@@ -19,6 +19,15 @@ book:
   title: The Dirty Streets of Heaven
 plan:
   date_added: '2016-06-07'
+related_books:
+- book: richard-kadrey/sandman-slim
+  text: More urban fantasy with demons and angels, similarly American.
+- book: eoin-colfer/the-wish-list
+  text: More angels vs demons warring over mortals.
+- book: jim-butcher/storm-front
+  text: Similar, but without as much Christian backdrop.
+- book: terry-pratchett/good-omens
+  text: If it's the angels and demons that are doing it for you.
 review:
   date_read:
   - 2017-07-11

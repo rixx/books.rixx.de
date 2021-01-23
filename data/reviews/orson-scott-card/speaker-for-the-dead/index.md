@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: mary-doria-russell/the-sparrow
   text: Similarly Christian first-contact book. Both better than you'd think.
+- book: joe-haldeman/the-forever-war
+  text: If you enjoyed thinking about FTL travel.
 - book: orson-scott-card/enders-game
   text: The previous book in the series.
 - book: orson-scott-card/xenocide

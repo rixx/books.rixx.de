@@ -17,6 +17,11 @@ book:
   title: The Ones Who Walk Away from Omelas
 plan:
   date_added: '2018-02-01'
+related_books:
+- book: ursula-k-le-guin/the-dispossessed
+  text: More governance criticism.
+- book: lao-tzu/tao-te-ching
+  text: le Guin's version of the Tao te Ching is well worth reading.
 review:
   date_read:
   - 2018-02-02

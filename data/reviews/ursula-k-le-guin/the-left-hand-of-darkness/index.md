@@ -12,15 +12,20 @@ book:
   spine_color: '#3792b5'
   tags:
   - scifi
+  - queer
   - space-monks
   title: The Left Hand of Darkness
 plan:
   date_added: '2016-10-13'
 related_books:
-- book: ursula-k-le-guin/planet-of-exile
+- book: china-mieville/embassytown
+  text: More scifi through the lens of anthropology and language.
+- book: ursula-k-le-guin/city-of-illusions
   text: The previous book in the series.
-- book: ursula-k-le-guin/the-telling
+- book: ursula-k-le-guin/the-dispossessed
   text: The next book in the series.
+- book: ursula-k-le-guin/rocannons-world
+  text: The first book in the series.
 review:
   date_read:
   - 2017-03-01

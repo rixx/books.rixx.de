@@ -18,6 +18,10 @@ book:
 plan:
   date_added: '2016-05-08'
 related_books:
+- book: j-k-rowling/the-casual-vacancy
+  text: More adult fiction by Rowling.
+- book: ben-aaronovitch/rivers-of-london
+  text: The better London detective.
 - book: robert-galbraith/the-silkworm
   text: The next book in the series.
 review:
@@ -26,4 +30,5 @@ review:
   rating: 4
 ---
 
-Oh boy did I enjoy myself! Written really well (if a bit heavy on the fancy words in the beginning). Really looking forward to the next books in the series.
+I did enjoy myself. Written fairly well (if a bit heavy on the fancy words in the beginning). Looking forward to
+the next books in the series.

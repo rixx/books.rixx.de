@@ -25,4 +25,6 @@ review:
   rating: 4
 ---
 
-With **The Daughter of Odren**, a novella by *Ursula K. Le Guin*, I've now finished the **Earthsea Cycle**. This novella is very bittersweet – predictable only in parts, only because it recalls fairytales, but still very human and very real. A good ending to my Earthsea experience.
+With **The Daughter of Odren**, a novella by *Ursula K. Le Guin*, I've now finished the **Earthsea Cycle**. This novella
+is very bittersweet – predictable only in parts, only because it recalls fairytales, but still very human and very real.
+A good ending to my Earthsea experience.

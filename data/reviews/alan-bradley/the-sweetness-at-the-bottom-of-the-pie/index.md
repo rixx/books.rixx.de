@@ -19,6 +19,10 @@ book:
 plan:
   date_added: '2016-12-05'
 related_books:
+- book: astrid-lindgren/kalle-blomquist
+  text: Another young detective.
+- book: lemony-snicket/the-bad-beginning
+  text: Series about independent children struggling with weird secrets. Both slow to start, but later escalating unexpectedly.
 - book: alan-bradley/the-weed-that-strings-the-hangmans-bag
   text: The next book in the series.
 review:
@@ -27,4 +31,5 @@ review:
   rating: 3
 ---
 
-Well, that was fun. I'm not too much of a fan, the rambling style of Flavia's train of thought is a bit annoying, I think. But at the same time it's definitely well-written and just fun to read. I'm looking forward to the next parts.
+Well, that was fun. I'm not too much of a fan, the rambling style of Flavia's train of thought is a bit annoying, I
+think. But at the same time it's definitely well-written and just fun to read. I'm looking forward to the next parts.

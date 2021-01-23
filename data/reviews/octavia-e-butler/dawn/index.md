@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-02-01'
 related_books:
+- book: h-g-wells/the-war-of-the-worlds
+  text: The prototypical alien invasion story.
 - book: octavia-e-butler/adulthood-rites
   text: The next book in the series.
 review:

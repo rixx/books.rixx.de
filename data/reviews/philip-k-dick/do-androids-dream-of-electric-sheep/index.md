@@ -19,6 +19,9 @@ book:
   title: Do Androids Dream of Electric Sheep?
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: antoine-de-saint-exupery/the-little-prince
+  text: On account of the sheep.
 review:
   date_read:
   - 2016-11-12

@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: gail-carriger/soulless
   text: The same, only very dainty and Victorian.
+- book: patricia-briggs/moon-called
+  text: The same in trashier.
 - book: ilona-andrews/magic-burns
   text: The next book in the series
 review:

@@ -23,6 +23,8 @@ related_books:
     wonderful kids on a mission.
 - book: erich-kastner/emil-and-the-detectives
   text: Another junior detective.
+- book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
+  text: Another young detective.
 - book: arthur-conan-doyle/sherlock-holmes
   text: The original master detective
 review:

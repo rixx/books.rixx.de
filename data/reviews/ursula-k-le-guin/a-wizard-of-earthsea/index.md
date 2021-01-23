@@ -23,6 +23,10 @@ plan:
 related_books:
 - book: patrick-rothfuss/the-name-of-the-wind
   text: Magic with names and balances and strange teachers. Less indulgent.
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: Duane understands Earthsea better than most.
+- book: ursula-k-le-guin/gifts
+  text: Another fantasy series by le Guin.
 - book: ursula-k-le-guin/the-tombs-of-atuan
   text: The next book in the series.
 review:
@@ -31,4 +35,7 @@ review:
   rating: 4
 ---
 
-It's real fantasy, it's great, and in some ways it reminds me of The Name of the Wind. Loved it a lot - Ged really grows on you, and the story is quite dense, and there as much story in this book as many others would fit in a trilogy (growing up, mastering school, mastering the antagonist, for example?). I clearly need to read more books by Ursula K. Le Guin!
+It's real fantasy, it's great, and in some ways it reminds me of The Name of the Wind. Loved it a lot - Ged really grows
+on you, and the story is quite dense, and there as much story in this book as many others would fit in a trilogy
+(growing up, mastering school, mastering the antagonist, for example?). I clearly need to read more books by Ursula K.
+Le Guin!

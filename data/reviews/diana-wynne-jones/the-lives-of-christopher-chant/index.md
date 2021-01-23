@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2016-05-06'
 related_books:
+- book: garth-nix/sabriel
+  text: Chrestomanci and Abhorsen are very similar roles, thrust upon young children.
 - book: diana-wynne-jones/witch-week
   text: The next book in the series.
 review:

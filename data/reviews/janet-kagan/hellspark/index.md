@@ -20,6 +20,8 @@ related_books:
 - book: samuel-r-delany/babel-17
   text: Another high-energy scifi book that takes language and relentless enjoyment
     seriously.
+- book: ursula-k-le-guin/planet-of-exile
+  text: Another exercise in showing various alien cultures through each other's eyes.
 review:
   date_read:
   - 2020-10-07

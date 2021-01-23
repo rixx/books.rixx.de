@@ -15,6 +15,8 @@ plan:
 related_books:
 - book: klaus-kordon/mit-dem-rucken-zur-wand
   text: Literary YA about this time.
+- book: volker-ullrich/die-revolution-von-1918-19
+  text: The beginning.
 review:
   date_read:
   - 2018-02-10

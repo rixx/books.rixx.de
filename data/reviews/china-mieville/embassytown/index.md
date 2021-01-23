@@ -19,6 +19,9 @@ book:
   title: Embassytown
 plan:
   date_added: '2018-11-14'
+related_books:
+- book: ursula-k-le-guin/the-left-hand-of-darkness
+  text: More scifi through the lens of anthropology and language.
 review:
   date_read:
   - 2019-03-12

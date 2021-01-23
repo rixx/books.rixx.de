@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: robert-harris/vaterland
   text: So you like alternate history where the Nazis won the war?
+- book: philip-k-dick/flow-my-tears-the-policeman-said
+  text: More Philip K. Dick, also about freedom.
 review:
   date_read:
   - 2016-12-12

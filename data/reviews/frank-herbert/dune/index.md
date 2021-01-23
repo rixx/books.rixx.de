@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2018-02-19'
 related_books:
+- book: greg-egan/quarantine
+  text: A completely different book, but the way it talks about minds and possibilities was pure Dune.
 - book: frank-herbert/dune-messiah
   text: The next book in the series.
 review:

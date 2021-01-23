@@ -13,6 +13,9 @@ book:
   title: Before I Fall
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: eoin-colfer/the-wish-list
+  text: Another "save yourself after your death" story.
 review:
   date_read:
   - 2017-06-27
@@ -21,4 +24,5 @@ review:
 
 Mean Girl goes Groundhog Day, finding ethics, true love and inevitable death.
 
-Just lazy writing in many parts. Nothing is ever explained and the author revels wayy too much in the final self sacrifice. Eugh.
+Just lazy writing in many parts. Nothing is ever explained and the author revels wayy too much in the final self
+sacrifice. Eugh.

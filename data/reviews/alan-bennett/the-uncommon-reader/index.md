@@ -15,10 +15,14 @@ book:
   title: The Uncommon Reader
 plan:
   date_added: '2015-06-28'
+related_books:
+- book: walter-moers/the-city-of-dreaming-books
+  text: Reader appreciation o'clock.
 review:
   date_read:
   - 2017-05-16
   rating: 4
 ---
 
-Oh wow, that was a charming book (or probably a novella?)! It was enjoyable and funny throughout and then packed a marvellous punchline.
+Oh wow, that was a charming book (or probably a novella?)! It was enjoyable and funny throughout and then packed a
+marvellous punchline.

@@ -23,6 +23,12 @@ plan:
 related_books:
 - book: andy-weir/the-martian
   text: Set in the same universe – if you want to know how Mars got colonized in the first place. [Proof](https://twitter.com/JamesSACorey/status/650382119449964544)
+- book: peter-watts/blindsight
+  text: A completely, wildly different book. The similarity is not the spaceship, but the sense of scale, of grit, and of reality despite the futuristic setting.
+- book: james-s-a-corey/the-butcher-of-anderson-station
+  text: The prequel novella.
+- book: james-s-a-corey/calibans-war
+  text: The next book in the series.
 review:
   date_read:
   - 2017-07-06

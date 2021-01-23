@@ -24,6 +24,8 @@ related_books:
   text: If you're here for the non-human protagonists.
 - book: ann-leckie/ancillary-justice
   text: Amazing sentient robots.
+- book: greg-egan/diaspora
+  text: A different take on transhumanism.
 - book: charles-stross/bit-rot
   text: The next book in the series.
 review:

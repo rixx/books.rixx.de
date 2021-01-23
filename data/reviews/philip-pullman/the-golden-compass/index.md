@@ -28,6 +28,8 @@ related_books:
   text: If you like preachy books, but are cheering for the opposite position.
 - book: christoph-marzi/lycidas
   text: Some of the same semi-but-not Victorian vibe.
+- book: garth-nix/sabriel
+  text: Young girl sets out on her own with only her talking animal sidekick to combat forces of evil.
 review:
   date_read:
   - 2008-11-01

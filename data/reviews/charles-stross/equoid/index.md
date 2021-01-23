@@ -18,6 +18,10 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: peter-s-beagle/the-unicorn-anthology
+  text: More unicorns.
+- book: peter-s-beagle/the-last-unicorn
+  text: Better unicorns.
 - book: charles-stross/down-on-the-farm
   text: The previous book in the series.
 - book: charles-stross/the-fuller-memorandum

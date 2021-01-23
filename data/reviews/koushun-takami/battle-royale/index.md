@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: suzanne-collins/the-hunger-games
   text: So you like children fighting against one another for their lives?
+- book: william-golding/lord-of-the-flies
+  text: More fighting children.
 review:
   date_read:
   - 2018-09-27

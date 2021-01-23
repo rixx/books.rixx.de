@@ -17,10 +17,17 @@ book:
   title: Axiomatic
 plan:
   date_added: '2017-01-13'
+related_books:
+- book: greg-egan/diaspora
+  text: More reality-bending Egan.
+- book: greg-egan/quarantine
+  text: Egan's other scifi.
 review:
   date_read:
   - 2017-03-10
   rating: 4
 ---
 
-Hard to rate collections of stories. There was really cool stuff in there, and I like how he works off similar themes (such as the jewel) repeatedly, but some stories felt too close thematically or in the way they were structured. Really enjoyed it though!
+Hard to rate collections of stories. There was really cool stuff in there, and I like how he works off similar themes
+(such as the jewel) repeatedly, but some stories felt too close thematically or in the way they were structured. Really
+enjoyed it though!

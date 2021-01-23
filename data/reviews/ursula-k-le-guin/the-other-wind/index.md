@@ -30,4 +30,5 @@ review:
   rating: 4
 ---
 
-A good end to the series. The different roles and characters were great, and the explanations of humans vs dragons explained previous plots.
+A good end to the series. The different roles and characters were great, and the explanations of humans vs dragons
+explained previous plots.

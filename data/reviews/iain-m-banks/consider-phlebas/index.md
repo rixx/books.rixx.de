@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2016-05-08'
 related_books:
+- book: ann-leckie/ancillary-justice
+  text: Another book about snarky sentient ships.
 - book: iain-m-banks/the-player-of-games
   text: The next book in the series.
 review:
@@ -28,4 +30,5 @@ review:
   rating: 3
 ---
 
-I liked the world building (this was my first Culture novel), but the story pacing was way off. It dragged on, and lots of personal story elementes were fairly predictable.
+I liked the world building (this was my first Culture novel), but the story pacing was way off. It dragged on, and lots
+of personal story elementes were fairly predictable.

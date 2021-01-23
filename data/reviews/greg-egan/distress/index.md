@@ -17,6 +17,8 @@ book:
 plan:
   date_added: '2018-04-24'
 related_books:
+- book: ursula-k-le-guin/the-dispossessed
+  text: Isolated anarchist societies, forever changed by discoveries in physics.
 - book: greg-egan/permutation-city
   text: The previous book in the series.
 - book: greg-egan/quarantine
@@ -27,4 +29,8 @@ review:
   rating: 4
 ---
 
-Distress is another really enjoyable book by *Greg Egan*, part of his very loosely connected **Subjective Cosmology** trilogy. It's less "weird" than the other two parts, and might make a better starting point for interested readers. We accompany our protagonist, a scientific journalist, to a phyics conference on an anarchist island – less happens than in th other books, but that just finally leaves room for better characters and characterisations. The whole book, especially its increasingly twisty story arch, is very recommendable scifi.
+Distress is another really enjoyable book by *Greg Egan*, part of his very loosely connected **Subjective Cosmology**
+trilogy. It's less "weird" than the other two parts, and might make a better starting point for interested readers. We
+accompany our protagonist, a scientific journalist, to a phyics conference on an anarchist island – less happens than in
+th other books, but that just finally leaves room for better characters and characterisations. The whole book,
+especially its increasingly twisty story arch, is very recommendable scifi.

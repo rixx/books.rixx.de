@@ -28,6 +28,8 @@ related_books:
   text: More Eco shenanigans, but not medieval this time.
 - book: arthur-conan-doyle/sherlock-holmes
   text: William of Baskerville – guess who he's based on?
+- book: ken-follett/the-pillars-of-the-earth
+  text: Medieval fiction that goes to similar lengths to fanboy about church architecture.
 review:
   date_read:
   - 2004-04-01

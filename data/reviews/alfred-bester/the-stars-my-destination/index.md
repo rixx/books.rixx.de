@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: alexandre-dumas/the-count-of-monte-cristo
   text: Bester basically wrote Monte Cristo in space here.
+- book: william-gibson/neuromancer
+  text: More oddly-paced old scifi with protagonists on a violent mission.
 review:
   date_read:
   - 2019-05-05

@@ -34,4 +34,6 @@ review:
 
 4.5 stars, really.
 
-Some parts are predictable, yes. And the story has no women at all, which is very weird. But it's told so well, touches me so deeply, that this can't matter. If you like fantasy at all, Earthsea is *really* recommended. Wow. Will need to re-read. And put on a shelf. And re-read again.
+Some parts are predictable, yes. And the story has no women at all, which is very weird. But it's told so well, touches
+me so deeply, that this can't matter. If you like fantasy at all, Earthsea is *really* recommended. Wow. Will need to
+re-read. And put on a shelf. And re-read again.

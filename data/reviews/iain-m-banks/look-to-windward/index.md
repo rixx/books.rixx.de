@@ -32,4 +32,7 @@ review:
   rating: 2
 ---
 
-Look to Windward tells the story of a reluctant counter-Culture agent and wasn't really my cup of tea. While I appreciated that we get to see more of the regular, day-to-day life of people in the Culture universe, and that we also get the outside perspective on the Culture, too little happened and the story crawled along. A bit after the halfway mark, things got a bit more exciting, but overall it wasn't one of the better Culture installments, I'd say.
+Look to Windward tells the story of a reluctant counter-Culture agent and wasn't really my cup of tea. While I
+appreciated that we get to see more of the regular, day-to-day life of people in the Culture universe, and that we also
+get the outside perspective on the Culture, too little happened and the story crawled along. A bit after the halfway
+mark, things got a bit more exciting, but overall it wasn't one of the better Culture installments, I'd say.

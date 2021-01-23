@@ -8,9 +8,14 @@ book:
   pages: '40'
   publication_year: '2011'
   spine_color: '#b85938'
-  title: 'The Butcher of Anderson Station (The Expanse, #1.5)'
+  series: The Expanse
+  series_position: '0.5'
+  title: 'The Butcher of Anderson Station'
 plan:
   date_added: 2020-06-21
+related_books:
+- book: james-s-a-corey/leviathan-wakes
+  text: The main series.
 review:
   date_read:
   - 2020-06-20

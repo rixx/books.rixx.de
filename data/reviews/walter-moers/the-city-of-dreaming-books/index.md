@@ -26,6 +26,8 @@ related_books:
   text: Another book by and for booklovers, though more pretentious.
 - book: jasper-fforde/the-eyre-affair
   text: Another book by and for booklovers, though more absurd.
+- book: alan-bennett/the-uncommon-reader
+  text: Reader appreciation o'clock.
 - book: walter-moers/rumo
   text: The previous book in the series.
 - book: walter-moers/der-schrecksenmeister

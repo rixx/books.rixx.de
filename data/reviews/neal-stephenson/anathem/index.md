@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: iain-m-banks/excession
+  text: Another take on Out Of Context problems.
 - book: umberto-eco/the-name-of-the-rose
   text: Pretentious monks nerding out.
 review:

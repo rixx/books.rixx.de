@@ -17,10 +17,18 @@ book:
   title: The Wild Girls
 plan:
   date_added: '2018-02-01'
+related_books:
+- book: ursula-k-le-guin/gifts
+  text: More le Guin Fantasy.
+- book: ursula-k-le-guin/a-wizard-of-earthsea
+  text: More enjoyable series by le Guin.
 review:
   date_read:
   - 2018-07-13
   rating: 2
 ---
 
-The Wild Girls by *Ursula K. Le Guin* contains a short story/novelly named like the book, two essays, a couple of poems, and an interview with the author. I liked the short story well enough, but it was like the remainder of the book: agreeable but inconsequential. The essays held opinions I liked, without anything actionable, and the interview showed a person I liked, but nothing more than that.
+The Wild Girls by *Ursula K. Le Guin* contains a short story/novelly named like the book, two essays, a couple of poems,
+and an interview with the author. I liked the short story well enough, but it was like the remainder of the book:
+agreeable but inconsequential. The essays held opinions I liked, without anything actionable, and the interview showed a
+person I liked, but nothing more than that.

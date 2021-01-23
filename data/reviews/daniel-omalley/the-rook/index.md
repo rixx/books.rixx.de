@@ -29,6 +29,9 @@ review:
   rating: 4
 ---
 
-Wow! This book has bits of Charles Stross in it (as in: secret modern British agency dealing with the supernatural), but at the same time it's totally different. A bit more action oriented, fast-paced, witty, and it never felt like a Laundry knockoff. I'm really interested in where the sequel is going.
+Wow! This book has bits of Charles Stross in it (as in: secret modern British agency dealing with the supernatural), but
+at the same time it's totally different. A bit more action oriented, fast-paced, witty, and it never felt like a Laundry
+knockoff. I'm really interested in where the sequel is going.
 
-(I devoured it in one day, so the mystery might not hold up quite as well if you take time to, y'know, think in between. But I devoured it in one day because it was just. so. good.)
+(I devoured it in one day, so the mystery might not hold up quite as well if you take time to, y'know, think in between.
+But I devoured it in one day because it was just. so. good.)

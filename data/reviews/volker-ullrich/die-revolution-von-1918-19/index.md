@@ -17,6 +17,8 @@ plan:
 related_books:
 - book: klaus-kordon/die-roten-matrosen
   text: Historical YA fiction taking place during the revolution.
+- book: gunther-mai/die-weimarer-republik
+  text: What followed.
 review:
   date_read:
   - 2017-11-16

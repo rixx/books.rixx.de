@@ -27,6 +27,8 @@ related_books:
 - book: astrid-lindgren/the-brothers-lionheart
   text: The books don't have much in common beyond being 70s fantasy for kids, but
     I loved them at the same time.
+- book: ursula-k-le-guin/the-lathe-of-heaven
+  text: More world-changing wishes.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: If the Neverending Story didn't have enough moralising for you.
 review:

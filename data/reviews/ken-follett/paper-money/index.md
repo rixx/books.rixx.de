@@ -13,10 +13,17 @@ book:
   title: Paper Money
 plan:
   date_added: '2017-01-08'
+related_books:
+- book: ken-follett/the-pillars-of-the-earth
+  text: More by Ken Follett, though wildly different.
+- book: terry-pratchett/making-money
+  text: Books about fraud.
 review:
   date_read:
   - 2017-01-08
   rating: 4
 ---
 
-This was my first Ken Follett book and I thoroughly enjoyed it. Filled with villains, bankers, politicians, and journalists in 70s London, loads of side characters and an evolving story spanning only one day it is so very vivid! Going to try other Follett books now.
+This was my first Ken Follett book and I thoroughly enjoyed it. Filled with villains, bankers, politicians, and
+journalists in 70s London, loads of side characters and an evolving story spanning only one day it is so very vivid!
+Going to try other Follett books now.

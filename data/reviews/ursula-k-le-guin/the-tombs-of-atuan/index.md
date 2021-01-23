@@ -30,4 +30,5 @@ review:
   rating: 4
 ---
 
-Oh wow. This touched me, and the ending was perfect. It didn't follow all the fantasy rules, it followed Earthsea rules. &lt;3
+Oh wow. This touched me, and the ending was perfect. It didn't follow all the fantasy rules, it followed Earthsea rules.
+❤

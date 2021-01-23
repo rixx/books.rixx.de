@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2017-05-29'
 related_books:
+- book: ursula-k-le-guin/the-dispossessed
+  text: Two fundamentally opposed space cultures collide.
 - book: iain-m-banks/consider-phlebas
   text: The previous book in the series.
 - book: iain-m-banks/use-of-weapons
@@ -31,4 +33,4 @@ review:
   rating: 5
 ---
 
-Omg yes. More, please.
+Omg yes. More, please. One of the best Culture books.

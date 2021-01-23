@@ -32,4 +32,5 @@ review:
   rating: 3
 ---
 
-I liked the non-male focus on regular lives a lot! Tenar and Tenahu are both really cool. But the story was weird … pacing, content, it felt irregular and all over the place for me. Story 2/5, setting 4/5.
+I liked the non-male focus on regular lives a lot! Tenar and Tenahu are both really cool. But the story was weird …
+pacing, content, it felt irregular and all over the place for me. Story 2/5, setting 4/5.

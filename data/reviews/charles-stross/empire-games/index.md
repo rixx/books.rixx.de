@@ -26,6 +26,8 @@ related_books:
   text: The next book in the series.
 - book: charles-stross/the-family-trade
   text: The previous series.
+- book: philip-k-dick/flow-my-tears-the-policeman-said
+  text: Similar discussion of evading the surveillance of a tech state.
 review:
   date_read:
   - 2018-03-03
