@@ -79,13 +79,25 @@ d3.json("/graph.json").then(data => {
         linkMap[`${link.source},${link.target}`] = true
     })
 
+    const container = document.querySelector("#book-graph")
+    const height = container.clientHeight;
+    const width = container.clientWidth;
+
+    let xForce = yForce = 0.1;
+    if (height > width) {
+        yForce = (width / height) / 10;
+    } else {
+        xForce = (height / width) / 10;
+    }
     // Let's list the force we wanna apply on the network
     const simulation = d3.forceSimulation(data.nodes)
+          .force("charge", d3.forceManyBody())
+          //.force("charge", d3.forceManyBody().strength(-30))  // Closer to zero = smaller graph
           .force("link", d3.forceLink(data.links).id(d => d.id))
-          //.force("charge", d3.forceManyBody().strength(-3))  // Closer to zero = smaller graph
+          .force("x", d3.forceX().strength(xForce))   // This is for our graph
+          .force("y", d3.forceY().strength(yForce));  // This is for our graph
+          //.force("charge", d3.forceManyBody().strength(-5))  // Closer to zero = smaller graph
           //.force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
-          .force("charge", d3.forceManyBody().strength(-30))  // Closer to zero = smaller graph
-          .force("x", d3.forceX()).force("y", d3.forceY());  // This is for our Graph
 
     drag = simulation => {
       function dragstarted(event) {
@@ -121,14 +133,9 @@ d3.json("/graph.json").then(data => {
         removeGraphHighlight()
     }
 
-    const height = window.innerHeight;
-    const width = window.innerWidth - 50
-    const container = document.querySelector("#book-graph")
-    container.style.height = height
-    container.style.width = width
     const svg = d3.select("#book-graph").append("svg")
         .attr("viewBox", [-width / 2, -height / 2, width, height]);  // For unconnected graph
-        // .attr("viewBox", [0, 0, width, height]);  // For connected graph
+        //.attr("viewBox", [0, 0, width, height]);  // For connected graph
 
     link = svg.append("g")
         .attr("stroke", "#999")
@@ -156,16 +163,20 @@ d3.json("/graph.json").then(data => {
         .on("mouseleave", mouseLeaveHandler)
         .call(drag(simulation));
 
+    const maxRadius = 7
     simulation.on("tick", () => {
+        //constrains the nodes to be within a box
+        node
+            .attr("cx", d => Math.max(-0.5*width + maxRadius, Math.min(0.5*width - maxRadius, d.x)))
+            .attr("cy", d => Math.max(-0.48*height + maxRadius, Math.min(0.48*height - maxRadius, d.y)));
+            //.attr("cx", d => d.x)
+            //.attr("cy", d => d.y);
         link
             .attr("x1", d => d.source.x)
             .attr("y1", d => d.source.y)
             .attr("x2", d => d.target.x)
             .attr("y2", d => d.target.y);
 
-        node
-            .attr("cx", d => d.x)
-            .attr("cy", d => d.y);
     });
     document.querySelector("input#graph-search").value = decodeURI(window.location.hash.substr(1))
     changeSearch()
