@@ -27,4 +27,5 @@ review:
   - 2014-02-13
   rating: 4
 ---
+
 Builds very well on Daemon, and while it sure is a nerd power fantasy in the end, the execution is pretty good.

@@ -23,7 +23,8 @@ related_books:
 - book: suzanne-collins/the-hunger-games
   text: Much like the richer districts of the Hunger Games world.
 - book: pierce-brown/red-rising
-  text: Extremely similar story, though I find Red Rising much less intriguing despite the space setting.
+  text: Extremely similar story, though I find Red Rising much less intriguing despite
+    the space setting.
 - book: ursula-poznanski/erebos
   text: More excellent scifi YA by Poznanski.
 - book: ursula-poznanski/die-verschworenen

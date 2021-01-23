@@ -33,6 +33,7 @@ review:
   - 2009-11-01
   rating: 4
 ---
+
 Pratchett would have laughed to hear (or so I like to imagine) that 14-year-old me actually *learned* all the
 rock'n'roll stereotypes from this book. It's a weird introduction to this part of pop culture, but it could be so much
 worse.

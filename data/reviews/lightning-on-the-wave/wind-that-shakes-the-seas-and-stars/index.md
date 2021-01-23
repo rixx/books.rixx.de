@@ -27,4 +27,5 @@ review:
   - 2018-01-20
   rating: 4
 ---
+
 Second War starting up.

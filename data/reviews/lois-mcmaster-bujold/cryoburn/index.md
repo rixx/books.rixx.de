@@ -2,7 +2,8 @@
 book:
   author: Lois McMaster Bujold
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269879970l/7841670.jpg
-  dimensions: {}
+  dimensions:
+    height: 18.0
   goodreads: '7841670'
   isbn10: '1439133948'
   isbn13: '9781439133941'
@@ -16,6 +17,13 @@ book:
   title: Cryoburn
 plan:
   date_added: 2020-08-18
+related_books:
+- book: lois-mcmaster-bujold-liuis-makmastr-biudzhold/winterfair-gifts
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/captain-vorpatrils-alliance
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2020-08-18

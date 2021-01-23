@@ -24,7 +24,8 @@ plan:
   date_added: '2015-08-04'
 related_books:
 - book: stephen-king/song-of-susannah
-  text: Another author having to grapple, in-text, with his own book and the characters he created.
+  text: Another author having to grapple, in-text, with his own book and the characters
+    he created.
 - book: cornelia-funke/inkheart
   text: The previous book in the series.
 - book: cornelia-funke/inkdeath
@@ -34,6 +35,7 @@ review:
   - 2006-01-01
   rating: 3
 ---
+
 More Inkworld shenanigans: Meggie now reads herself and others into the story, and also has to deal with the original
 author, who turns out to be very annoying. The story builds extremely slowly and I enjoyed it mostly for the
 worldbuilding. The characters are – with one exception – unimpressive and not exactly enjoyable.

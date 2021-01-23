@@ -21,4 +21,5 @@ review:
   - 2017-11-28
   rating: 3
 ---
+
 Short story in the Freyaverse.

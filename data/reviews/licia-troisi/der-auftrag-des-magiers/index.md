@@ -29,4 +29,5 @@ review:
   - 2009-12-01
   rating: 3
 ---
+
 Protagonist rides more dragons, is more stubborn, gets a bit of personal growth.

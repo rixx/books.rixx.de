@@ -30,5 +30,6 @@ review:
   - 2005-10-01
   rating: 2
 ---
+
 The summer gang at their most generic: Suddenly, the boys are more than just an annoyance. Though they keep being
 annoying, of course. Captured the feeling of my early adolescence fairly well, and as such I will never read it again.

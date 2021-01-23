@@ -31,6 +31,7 @@ review:
   - 2007-07-01
   rating: 3
 ---
+
 Finishing off the series, and not necessarily in a good way: Lots of finishing off characters, too. I thought that was
 good, because it's somewhat couragous and I never liked plot armour. Not great art, but enjoyable, particularly for
 teenagers.

@@ -2,6 +2,8 @@
 book:
   author: Lois McMaster Bujold, Люис Макмастър Бюджолд
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266884477l/3746202.jpg
+  dimensions:
+    height: 18.0
   goodreads: '3746202'
   isbn10: '1433250195'
   isbn13: '9781433250194'
@@ -15,6 +17,13 @@ book:
   title: Winterfair Gifts
 plan:
   date_added: 2020-08-18
+related_books:
+- book: lois-mcmaster-bujold/diplomatic-immunity
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/cryoburn
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2020-08-15

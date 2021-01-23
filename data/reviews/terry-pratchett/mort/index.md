@@ -31,5 +31,6 @@ review:
   - 2004-04-01
   rating: 3
 ---
+
 Mort was really good for me at the time, but looking back, I'm a bit less of a fan. Still a good book, of course, just a
 long way off the Discworld's best. Extremely good for being only number 4 in the series, of course!

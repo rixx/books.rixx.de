@@ -24,7 +24,8 @@ plan:
   date_added: '2015-08-04'
 related_books:
 - book: jasper-fforde/the-eyre-affair
-  text: Adult-geared book that also plays with books that you can visit and whose characters really exist.
+  text: Adult-geared book that also plays with books that you can visit and whose
+    characters really exist.
 - book: michael-ende/the-neverending-story
   text: The original book that sucks you in.
 - book: cornelia-funke/inkspell
@@ -34,6 +35,7 @@ review:
   - 2006-08-01
   rating: 4
 ---
+
 Inkheart *understood* me. It understood my dorky love for books, and how I wanted to jump into a story. It got feeling
 alone, and it got nerding out with others. And it made other books come to life – and I loved it for it. Some of it
 follows YA rules and annoyances: it's slow to develop and the protagonist is sometimes grating. But that's perfectly

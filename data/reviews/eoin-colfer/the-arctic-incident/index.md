@@ -31,5 +31,6 @@ review:
   - 2004-06-01
   rating: 2
 ---
+
 Arguably an instance of the second book being better than the first book: We see more of Holly, Artemis is forced to
 cooperate. There's more banter, there's more depth to both our heroes, and the plot is more intriguing.

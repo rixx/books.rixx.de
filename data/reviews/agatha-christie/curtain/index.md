@@ -21,7 +21,8 @@ related_books:
 - book: agatha-christie/the-mysterious-affair-at-styles
   text: The first Poirot, directly referenced here.
 - book: friedrich-durrenmatt/der-verdacht
-  text: Another end-of-life detective story, with high stakes and potentially deadly outcomes.
+  text: Another end-of-life detective story, with high stakes and potentially deadly
+    outcomes.
 - book: agatha-christie/the-abc-murders
   text: The previous book in the series.
 review:

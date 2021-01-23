@@ -37,5 +37,6 @@ review:
   - 2012-02-01
   rating: 5
 ---
+
 American Gods is a polarising book, and I belong to the people enchanted by it. Gaiman does wonderfully dirty, touching
 things with language, and mythology, and just drew me in.

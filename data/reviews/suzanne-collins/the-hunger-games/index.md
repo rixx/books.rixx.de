@@ -35,7 +35,8 @@ related_books:
 - book: george-orwell/1984
   text: If you want to lean into the dystopia.
 - book: stephenie-meyer/twilight
-  text: The other book vying for teenagers at the time. You usually were into one or the other.
+  text: The other book vying for teenagers at the time. You usually were into one
+    or the other.
 - book: suzanne-collins/catching-fire
   text: The next book in the series.
 review:

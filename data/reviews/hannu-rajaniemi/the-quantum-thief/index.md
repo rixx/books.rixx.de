@@ -2,6 +2,8 @@
 book:
   author: Hannu Rajaniemi
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780575088870-L.jpg
+  dimensions:
+    height: 25
   goodreads: '7562764'
   isbn10: 0575088877
   isbn13: '9780575088870'

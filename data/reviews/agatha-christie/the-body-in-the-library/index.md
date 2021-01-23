@@ -31,6 +31,7 @@ review:
   - 2005-07-01
   rating: 2
 ---
+
 The setup for this is so generic that even the book (and literally every other mystery author at the time) had to make
 jokes about it. That's … about all I remember, to be quite honest. Most Miss Marple mysteries are somewhat of a blur to
 me.

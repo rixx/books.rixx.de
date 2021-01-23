@@ -24,7 +24,8 @@ related_books:
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Similar protagonist ego size.
 - book: n-k-jemisin/the-hundred-thousand-kingdoms
-  text: Protagonists elevated to a place beyond their station where they have to learn and prove themselves.
+  text: Protagonists elevated to a place beyond their station where they have to learn
+    and prove themselves.
 - book: patrick-rothfuss/the-wise-mans-fear
   text: The next book in the series.
 review:

@@ -20,8 +20,8 @@ plan:
 related_books:
 - book: brandon-sanderson/skin-deep
   text: The next book in the series.
-- text: Another good short story by Sanderson.
-  book: brandon-sanderson/the-emperors-soul
+- book: brandon-sanderson/the-emperors-soul
+  text: Another good short story by Sanderson.
 review:
   date_read:
   - 2017-11-28

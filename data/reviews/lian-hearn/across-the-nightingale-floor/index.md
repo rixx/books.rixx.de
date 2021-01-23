@@ -25,7 +25,8 @@ related_books:
 - book: lian-hearn/grass-for-his-pillow
   text: The next book in the series.
 - book: robin-hobb/assassins-apprentice
-  text: Coming-of-age with plenty of deadly enemies, training in killing, and navigating a rigid aristocracy that the protagonist doesn't really belong in.
+  text: Coming-of-age with plenty of deadly enemies, training in killing, and navigating
+    a rigid aristocracy that the protagonist doesn't really belong in.
 - book: john-flanagan/the-ruins-of-gorlan
   text: A less brutal but similarly enthralling coming-of-age story.
 review:
@@ -33,8 +34,10 @@ review:
   - 2006-10-01
   - 2021-01-16
   rating: 4
-  tldr: Village boy into clan lord and assassin in Fantasy faux-Japan. Good fun, if bloody.
+  tldr: Village boy into clan lord and assassin in Fantasy faux-Japan. Good fun, if
+    bloody.
 ---
+
 Everybody is extremely dramatic in this book. Very YA. But it stood up to a re-read surprisingly well: Young boy in
 faux-Japan gets his family murdered, is adopted into a clan and things escalate from there. Oh, and it turns out he's
 not only adopted by the rightful leader of the clan, he's also born to a long line of secret assassins and has lots of

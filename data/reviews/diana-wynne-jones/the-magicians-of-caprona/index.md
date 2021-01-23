@@ -36,6 +36,7 @@ review:
   - 2007-03-01
   rating: 3
 ---
+
 Romeo and Juliet: magic edition! Feuding Italian families, throwing magic at each other and being delightfully
 temperamental. Add in nosy kids, moody teenagers, snarky cats and almighty matriarchs … yes, I really like this book.
 It's among my top books by Diana Wynne Jones, and that's saying something.

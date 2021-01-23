@@ -29,5 +29,6 @@ review:
   - 2006-03-01
   rating: 3
 ---
+
 Concluding the series, we get the "15 years later" book we never wanted. Things fall apart. Then they fall apart some
 more. There's a lot of death to go around, much of it by backstabbing.

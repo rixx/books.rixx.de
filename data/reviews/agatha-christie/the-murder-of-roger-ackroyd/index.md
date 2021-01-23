@@ -29,6 +29,7 @@ review:
   - 2005-02-01
   rating: 4
 ---
+
 Truly fun book with low re-read value, because you'll remember the gimmick. Christie does that a lot: she picks *one*
 thing, and then she runs with it until the very end. Some books are good because the thing is good (like this one), and
 some are disappointing because the thing is disappointing. Oh, and then there are some books that don't have a thing.

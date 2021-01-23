@@ -33,6 +33,7 @@ review:
   - 2006-05-01
   rating: 5
 ---
+
 This is where Moers proved he was a wizard. It's not his best book, but it's absolutely outstanding nevertheless. The
 tour through the 13½ lives of Cpt Bluebear is amazing, astounding, sparkling with fantastic ideas as if it had been
 written by 13 creative geniuses instead of just one.

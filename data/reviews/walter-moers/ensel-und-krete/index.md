@@ -29,6 +29,7 @@ review:
   - 2003-02-01
   rating: 3
 ---
+
 Bluebear was a great book. This is an okay book – more experimental in ways, and definitely less astounding. Where
 Bluebear means that you get an even balance of action and snark, and the City of Dreaming Book works even when you don't
 get literary snark, this book is pretty much *just* literary snark. I enjoyed it, but it's hard to recommend to anybody.

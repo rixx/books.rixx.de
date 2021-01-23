@@ -32,5 +32,6 @@ review:
   - 2008-09-01
   rating: 3
 ---
+
 Parallel England, where a teacher at a boarding school is accused of witchcraft. The inquisition is called and a
 terrified pupil has to look for a way out … It gets very dark very fast.

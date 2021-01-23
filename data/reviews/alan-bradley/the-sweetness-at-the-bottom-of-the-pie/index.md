@@ -22,7 +22,8 @@ related_books:
 - book: astrid-lindgren/kalle-blomquist
   text: Another young detective.
 - book: lemony-snicket/the-bad-beginning
-  text: Series about independent children struggling with weird secrets. Both slow to start, but later escalating unexpectedly.
+  text: Series about independent children struggling with weird secrets. Both slow
+    to start, but later escalating unexpectedly.
 - book: alan-bradley/the-weed-that-strings-the-hangmans-bag
   text: The next book in the series.
 review:

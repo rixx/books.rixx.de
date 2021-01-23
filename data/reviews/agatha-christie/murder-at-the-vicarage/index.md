@@ -33,6 +33,7 @@ review:
   - 2004-07-01
   rating: 3
 ---
+
 This is where it begins: The tons of Miss Marple book start here, introducing the gentle but sharp old lady who can
 solve every crime by reducing it to some small village squabble. I generally enjoy the Miss Marple mysteries more than
 the Poirot ones, mostly because Hastings is so incredibly obnoxious. But both series have in common that the bulk of the

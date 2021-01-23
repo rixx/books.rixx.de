@@ -33,5 +33,6 @@ review:
   - 2005-11-01
   rating: 4
 ---
+
 Magrat gets married, except there's a Shakespeare ex machina and suddenly we're all midsummernight dreaming. Granny
 Weatherwax has some serious Speech moments where she tells us ex cathedra what to believe, but it's all good as always.

@@ -31,5 +31,6 @@ review:
   - 2008-08-01
   rating: 3
 ---
+
 The worldbuilding is better, the characters are only slightly worse, and the plot couldn't be worse than the first one,
 and is possibly slightly better? Sorry, I don't remember, I was busy being amazed at the worldbuilding.

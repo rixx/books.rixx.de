@@ -37,6 +37,7 @@ review:
   - 2021-01-18
   rating: 4
 ---
+
 Worldbuilding! I forgot about the worldbuilding of this book. For example, there are tower cities where everything is
 organised by the tower layers.
 

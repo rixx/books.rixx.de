@@ -19,9 +19,11 @@ plan:
   date_added: '2017-02-02'
 related_books:
 - book: alan-bradley/the-sweetness-at-the-bottom-of-the-pie
-  text: Series about independent children struggling with weird secrets. Both slow to start, but later escalating unexpectedly.
+  text: Series about independent children struggling with weird secrets. Both slow
+    to start, but later escalating unexpectedly.
 - book: cornelia-funke/herr-der-diebe
-  text: Similarly kids having to act on their own against uncaring or negligent adults, in a stupid world.
+  text: Similarly kids having to act on their own against uncaring or negligent adults,
+    in a stupid world.
 - book: lemony-snicket/the-reptile-room
   text: The next book in the series.
 review:

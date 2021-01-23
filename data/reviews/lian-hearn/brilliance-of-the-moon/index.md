@@ -31,4 +31,5 @@ review:
   - 2006-05-01
   rating: 2
 ---
+
 As set up by the previous book, everybody is being stupid and then there is a lot of battling and death. Not a fan.

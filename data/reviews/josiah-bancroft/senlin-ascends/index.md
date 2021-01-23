@@ -17,7 +17,9 @@ book:
   title: Senlin Ascends
 plan:
   date_added: '2018-09-11'
-related_books: []
+related_books:
+- book: josiah-bancroft/arm-of-the-sphinx
+  text: The next book in the series.
 review:
   date_read:
   - 2019-07-07

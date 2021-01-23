@@ -24,9 +24,11 @@ related_books:
 - book: lilli-thal/mimus
   text: Mimus has it much worse than Fitz, but he's less of a tool, so it evens out.
 - book: george-r-r-martin/a-game-of-thrones
-  text: Both Martin and Hobb don't think too well of their characters, only Martin punishes them with a short life and Hobb with a long one.
+  text: Both Martin and Hobb don't think too well of their characters, only Martin
+    punishes them with a short life and Hobb with a long one.
 - book: lian-hearn/across-the-nightingale-floor
-  text: Coming-of-age with plenty of deadly enemies, training in killing, and navigating a rigid aristocracy that the protagonist doesn't really belong in.
+  text: Coming-of-age with plenty of deadly enemies, training in killing, and navigating
+    a rigid aristocracy that the protagonist doesn't really belong in.
 - book: brent-weeks/the-way-of-shadows
   text: More assassins.
 - book: robin-hobb/royal-assassin

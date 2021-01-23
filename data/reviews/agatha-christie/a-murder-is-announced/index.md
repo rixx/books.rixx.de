@@ -31,6 +31,7 @@ review:
   - 2004-01-01
   rating: 3
 ---
+
 One of the generic Miss Marple mysteries, but a rather good one. I liked the premise – and there's not much more to
 like. It's one of those books where the author had one good idea (see title), and then follows through. Christie does
 that very well, and that is that.

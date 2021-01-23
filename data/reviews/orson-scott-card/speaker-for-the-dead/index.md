@@ -32,4 +32,5 @@ review:
   - 2014-03-01
   rating: 4
 ---
+
 I prefer this book to the first, more famous one. It's deeper, and more powerful, and doesn't rely on one cheap trick.

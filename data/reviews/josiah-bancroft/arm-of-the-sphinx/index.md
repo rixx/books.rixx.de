@@ -2,6 +2,8 @@
 book:
   author: Josiah Bancroft
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509574820l/35959733.jpg
+  dimensions:
+    height: 18
   goodreads: '35959733'
   isbn10: 031651795X
   isbn13: '9780316517959'
@@ -15,6 +17,9 @@ book:
   title: Arm of the Sphinx
 plan:
   date_added: 2020-11-28
+related_books:
+- book: josiah-bancroft/senlin-ascends
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-11-27

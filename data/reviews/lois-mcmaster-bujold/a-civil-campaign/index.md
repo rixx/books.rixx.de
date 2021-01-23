@@ -3,7 +3,7 @@ book:
   author: Lois McMaster Bujold
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780671578855-L.jpg
   dimensions:
-    height: 17.1
+    height: 18.0
     thickness: 2.8
     width: 10.6
   goodreads: '61899'
@@ -19,6 +19,13 @@ book:
   title: A Civil Campaign
 plan:
   date_added: 2020-08-16
+related_books:
+- book: lois-mcmaster-bujold/komarr
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/diplomatic-immunity
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2020-08-14

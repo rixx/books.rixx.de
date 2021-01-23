@@ -2,6 +2,8 @@
 book:
   author: Ursula K. Le Guin
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1283091038l/276767._SY160_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '276767'
   pages: '160'
   publication_year: '1972'

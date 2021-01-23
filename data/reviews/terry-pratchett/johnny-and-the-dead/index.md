@@ -31,5 +31,6 @@ review:
   - 2007-09-01
   rating: 4
 ---
+
 Johnny has all the luck: After his video game adventures, he now starts seeing dead people (and as a consequence will
 have to save the local cemetary).

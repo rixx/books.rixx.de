@@ -15,7 +15,9 @@ book:
   title: Unsouled
 plan:
   date_added: '2018-08-20'
-related_books: []
+related_books:
+- book: will-wight/soulsmith
+  text: The next book in the series.
 review:
   date_read:
   - 2020-04-30

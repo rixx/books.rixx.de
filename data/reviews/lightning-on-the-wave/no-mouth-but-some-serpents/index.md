@@ -25,4 +25,5 @@ review:
   - 2018-01-14
   rating: 4
 ---
+
 More like the first, but Harry is nearing his breaking point.

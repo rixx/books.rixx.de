@@ -2,6 +2,8 @@
 book:
   author: Ursula K. Le Guin
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060760298-L.jpg
+  dimensions:
+    height: 18.0
   goodreads: '92605'
   isbn10: 006076029X
   isbn13: '9780060760298'

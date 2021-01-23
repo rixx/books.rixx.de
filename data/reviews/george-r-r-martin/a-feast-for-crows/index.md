@@ -29,4 +29,5 @@ review:
   - 2013-07-01
   rating: 2
 ---
+
 This is where I stopped reading the series, for lack of caring what happened to the characters.

@@ -23,7 +23,8 @@ related_books:
 - book: diana-wynne-jones/the-lives-of-christopher-chant
   text: Chrestomanci and Abhorsen are very similar roles, thrust upon young children.
 - book: philip-pullman/the-golden-compass
-  text: Young girl sets out on her own with only her talking animal sidekick to combat forces of evil.
+  text: Young girl sets out on her own with only her talking animal sidekick to combat
+    forces of evil.
 - book: garth-nix/lirael
   text: The next book in the series.
 review:

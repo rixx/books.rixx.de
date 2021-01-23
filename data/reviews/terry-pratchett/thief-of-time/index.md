@@ -17,7 +17,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: michael-ende/momo
-  text: Very similar theme (what is time and how does it work, and what if we add efficiency?), very different execution.
+  text: Very similar theme (what is time and how does it work, and what if we add
+    efficiency?), very different execution.
 - book: terry-pratchett/death-and-what-comes-next
   text: The next Death book.
 - book: terry-pratchett/hogfather
@@ -33,5 +34,6 @@ review:
   - 2006-07-01
   rating: 4
 ---
+
 Mysterious monks who keep things running behind the scenes! Time shenanigans! And also foreshadowing of Pratchett
 following up more on his philosophical leanings. Not the best Discworld book but still lots of fun.

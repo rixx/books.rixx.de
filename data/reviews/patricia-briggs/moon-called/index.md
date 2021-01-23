@@ -21,7 +21,8 @@ plan:
   date_added: '2016-05-23'
 related_books:
 - book: ilona-andrews/magic-bites
-  text: Kate Daniels is quite a bit better than Mercy Thompson, while occupying the same niche.
+  text: Kate Daniels is quite a bit better than Mercy Thompson, while occupying the
+    same niche.
 - book: jim-butcher/storm-front
   text: I guess if you like this, Jim Butcher should work well for you, too.
 - book: stephenie-meyer/twilight

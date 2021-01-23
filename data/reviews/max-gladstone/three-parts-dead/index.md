@@ -19,7 +19,9 @@ book:
   title: Three Parts Dead
 plan:
   date_added: '2016-06-08'
-related_books: []
+related_books:
+- book: max-gladstone/two-serpents-rise
+  text: The next book in the series.
 review:
   date_read:
   - 2019-10-05

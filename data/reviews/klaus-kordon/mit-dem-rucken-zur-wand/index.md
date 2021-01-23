@@ -25,14 +25,15 @@ related_books:
 - book: gunther-mai/die-weimarer-republik
   text: Nonfiction about this time, for reference.
 - book: klaus-kordon/die-roten-matrosen
-  text: "The previous book in the series: Hans's brother in 1918."
+  text: 'The previous book in the series: Hans''s brother in 1918.'
 - book: klaus-kordon/der-erste-fruhling
-  text: "The next book in the series: Hans's niece in 1945."
+  text: 'The next book in the series: Hans''s niece in 1945.'
 review:
   date_read:
   - 2003-03-01
   rating: 4
 ---
+
 The second book in this series takes place fifteen years after the revolution, during the fall of the Weimar Republic.
 It's haunting and gives a face to dissidents, to jews, to communists, and of course to nazis and collaborators. I was
 already emotionally invested in the series, so I didn't see the big turncoat coming (which my mother spotted from a mile

@@ -33,5 +33,6 @@ review:
   - 2005-01-01
   rating: 4
 ---
+
 Small Gods is Sir Pterry's take on the Catholic church and hoo boy, is it ever a take. There are prophets and
 exquisitors and gods, and God, and long treks through deserts. It's very, very good.

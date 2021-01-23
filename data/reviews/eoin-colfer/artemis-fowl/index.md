@@ -35,6 +35,7 @@ review:
   - 2004-02-01
   rating: 2
 ---
+
 Artemis Fowl was fun at the time – I particularly enjoyed decoding the secret message in the decoration on every page.
 It was a good thing to read at the time, but nothing I'm going to revisit any time soon – I don't think it would stand
 up to a re-read.

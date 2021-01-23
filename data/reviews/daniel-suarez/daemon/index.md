@@ -35,6 +35,7 @@ review:
   - 2011-03-01
   rating: 4
 ---
+
 Great AI story. I liked it a lot, 'cause I'm a nerd. It's a bit too into showing off that all the research has been
 done, so probably less readable to non-nerds. Though at this point, reality has caught up sufficiently that the whole
 thing should be fairly transparent to everybody. Chapeau, Mr Suarez.

@@ -2,6 +2,8 @@
 book:
   author: Hannu Rajaniemi
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311105989l/12074927.jpg
+  dimensions:
+    height: 25
   goodreads: '12074927'
   isbn10: null
   isbn13: null
@@ -15,6 +17,9 @@ book:
   title: The Fractal Prince
 plan:
   date_added: 2020-08-18
+related_books:
+- book: hannu-rajaniemi/the-quantum-thief
+  text: The previous book in the series.
 ---
 
 The Quantum Thief was amazing. I have no idea if The Fractal Prince will be similar or completely different.

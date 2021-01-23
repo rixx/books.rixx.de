@@ -27,6 +27,8 @@ related_books:
 - book: otfried-preussler/krabat
   text: If you're looking for more serious books by Preußler, Krabat is my favourite
     by far.
+- book: otfried-preussler/neues-vom-rauber-hotzenplotz
+  text: The next book in the series.
 review:
   date_read:
   - 1999-09-01

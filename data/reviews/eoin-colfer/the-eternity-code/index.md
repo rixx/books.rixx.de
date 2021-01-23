@@ -33,6 +33,7 @@ review:
   - 2005-12-01
   rating: 2
 ---
+
 Artemis gets more growth and a mind wipe, both completely deserved. Holly gets less growth and more voice, which is also
 nice. All in all an enjoyable book, up to the standard set by Arctic Incident, and better than the first book.
 

@@ -33,6 +33,7 @@ review:
   - 2003-08-01
   rating: 4
 ---
+
 Snotty vampires. Snotty vampires not at all concerned what the neighbours are thinking, no sir. Contains an excellent
 quote on the nature of sin. Good like all the witch books – but it was probably for the best that the Witches series
 ends here and the Tiffany series starts.

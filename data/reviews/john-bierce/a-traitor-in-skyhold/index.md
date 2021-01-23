@@ -2,6 +2,8 @@
 book:
   author: John Bierce
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566256267l/49234048._SX318_SY475_.jpg
+  dimensions:
+    height: 19
   goodreads: '49234048'
   isbn10: null
   isbn13: null
@@ -16,6 +18,9 @@ book:
   title: A Traitor in Skyhold
 plan:
   date_added: 2020-10-25
+related_books:
+- book: john-bierce/into-the-labyrinth
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-10-23

@@ -21,7 +21,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: terry-pratchett/the-wee-free-men
-  text: Another young Discworld heroine taking on supernatural beings to defend the children in her care …
+  text: Another young Discworld heroine taking on supernatural beings to defend the
+    children in her care …
 - book: terry-pratchett/thief-of-time
   text: The next Death book.
 - book: terry-pratchett/soul-music

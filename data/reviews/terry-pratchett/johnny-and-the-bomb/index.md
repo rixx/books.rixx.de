@@ -34,5 +34,6 @@ review:
   - 2010-08-01
   rating: 4
 ---
+
 Johnny, after fixing video games and dead people, now gets to travel back in time with his friends and experience the
 Blitz. To be honest, I found this less memorable but at least as fun as the other Johnny Maxwell books.

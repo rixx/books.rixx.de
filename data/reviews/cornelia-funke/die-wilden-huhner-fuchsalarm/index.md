@@ -30,4 +30,5 @@ review:
   - 2004-10-01
   rating: 3
 ---
+
 More adventuring, more summer gang stuff. I enjoyed it at the time and will never read it again.

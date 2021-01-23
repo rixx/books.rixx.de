@@ -2,6 +2,8 @@
 book:
   author: Klaus Kordon
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1184013208l/1477449.jpg
+  dimensions:
+    height: 19.0
   goodreads: '1477449'
   isbn10: '3866151101'
   isbn13: '9783866151109'
@@ -20,16 +22,18 @@ plan:
   date_added: '2015-06-28'
 related_books:
 - book: ralf-isau/das-jahrhundertkind
-  text: Another series that is excellent at teaching important historic moments through the eyes of its protagonist.
+  text: Another series that is excellent at teaching important historic moments through
+    the eyes of its protagonist.
 - book: volker-ullrich/die-revolution-von-1918-19
   text: Nonfiction, for reference.
 - book: klaus-kordon/mit-dem-rucken-zur-wand
-  text: "The next book in the series: Helle's brother in 1933."
+  text: 'The next book in the series: Helle''s brother in 1933.'
 review:
   date_read:
   - 2004-05-01
   rating: 5
 ---
+
 Revolution! This book made me understand, at least a little, what happened in Germany's past. It takes place during the
 1918 revolution, and the protagonist is a boy from a worker family in Berlin's Wedding district. It's specific, it's
 fun, it's well-sourced. It very much stands on the pro-communist side of things (who, after all, did not win the

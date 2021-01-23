@@ -35,6 +35,7 @@ review:
   - 2007-08-01
   rating: 5
 ---
+
 Embarassing, or at least a sign of aging: This book did not stand up to a re-read for me.
 
 That's a bit surprising because it was absurdly important to me at the time. I gave it to my classmates. I got people

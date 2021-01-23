@@ -21,7 +21,8 @@ plan:
   date_added: '2018-04-10'
 related_books:
 - book: lewis-carroll/alice-in-wonderland
-  text: One of the referenced portal fantasies, but at heart not at all related to this book.
+  text: One of the referenced portal fantasies, but at heart not at all related to
+    this book.
 - book: seanan-mcguire/down-among-the-sticks-and-bones
   text: The next book in the series.
 review:

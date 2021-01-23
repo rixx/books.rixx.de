@@ -33,6 +33,7 @@ review:
   - 2006-12-01
   rating: 4
 ---
+
 Vimes and Vetinary don't conquer the world, and that's enough of a story. Casually anti-racist, casually pacifist, in
 Pratchett's weirdly conservative way. Nearly halfway through the Discworld series but still more in the "producing lots
 of hilarious jokes" mode for the most part.

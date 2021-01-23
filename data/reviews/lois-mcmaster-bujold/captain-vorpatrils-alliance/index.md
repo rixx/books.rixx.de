@@ -3,7 +3,7 @@ book:
   author: Lois McMaster Bujold
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333475380l/12998057.jpg
   dimensions:
-    height: 25.0
+    height: 18.0
     thickness: 3.6
     width: 15.6
   goodreads: '12998057'
@@ -20,6 +20,13 @@ book:
   title: Captain Vorpatril's Alliance
 plan:
   date_added: 2020-08-18
+related_books:
+- book: lois-mcmaster-bujold/cryoburn
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/gentleman-jole-and-the-red-queen
+  text: The next book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2020-08-16

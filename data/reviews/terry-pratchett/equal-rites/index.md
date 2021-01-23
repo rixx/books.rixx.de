@@ -31,5 +31,6 @@ review:
   - 2014-05-13
   rating: 4
 ---
+
 Definitely one of the better early Discworld books, but still very uneven. Not one of my favourites, but I can't in all
 honesty dislike a book with Granny Weatherwax in it – and as her first book, it *is* a bit special.

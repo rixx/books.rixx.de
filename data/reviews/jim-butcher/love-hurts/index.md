@@ -26,4 +26,5 @@ review:
   - 2014-02-01
   rating: 3
 ---
+
 Dresden novellas have become as interchangeable as the books.

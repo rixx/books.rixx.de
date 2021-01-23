@@ -35,5 +35,6 @@ review:
   - 2008-05-01
   rating: 4
 ---
+
 Introducing and exploring golems, with all the usual free will stuff attached. Not bad, though I think I enjoyed the
 Watch banter most, and then the monarchy side plot, and only *then* the main plot.

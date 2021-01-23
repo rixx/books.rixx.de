@@ -31,6 +31,7 @@ review:
   - 2004-05-01
   rating: 3
 ---
+
 There's no way I can think of this book without seeing and hearing the movie. The book veered a bit too far into the
 "here, have some train schedules" direction – I'm not much of a mystery reader, the details bore me and I never try to
 puzzle them out on my own. For good reason: Miss Marple books often work with hazy clues and psychology magic.

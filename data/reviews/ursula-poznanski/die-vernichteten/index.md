@@ -29,4 +29,5 @@ review:
   - 2017-01-11
   rating: 4
 ---
+
 Good conclusion to an excellent series.

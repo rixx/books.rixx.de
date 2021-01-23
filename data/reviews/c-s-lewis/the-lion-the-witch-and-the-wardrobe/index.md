@@ -26,7 +26,8 @@ related_books:
   text: If you have to fall into a fantasy world and don't care for morality, why
     not choose the other Lewis?
 - book: erich-kastner/der-35-mai-oder-konrad-reitet-in-die-sudsee
-  text: "Sharing the magical wardrobe leading children to a different world and talking animal. Not sharing: everything else."
+  text: 'Sharing the magical wardrobe leading children to a different world and talking
+    animal. Not sharing: everything else.'
 - book: ralf-isau/die-traume-des-jonathan-jabbok
   text: If you want more thinly veiled Christianity in your YA portal fantasy.
 - book: lev-grossman/the-magicians

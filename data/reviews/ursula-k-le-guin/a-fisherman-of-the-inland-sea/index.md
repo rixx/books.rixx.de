@@ -3,7 +3,7 @@ book:
   author: Ursula K. Le Guin
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780060763510-L.jpg
   dimensions:
-    height: 21.0
+    height: 18.0
     thickness: 1.3
     width: 13.5
   goodreads: '68022'

@@ -31,4 +31,4 @@ review:
 ---
 
 Trolls versus dwarves, first in the city and then in Koom valley. Plus a new vampire in the Watch, so we get to see
-Vimes mostly refuse to grapple with prejudice again.  It's not Night Watch, but not every Vimes book can be Night Watch. 
+Vimes mostly refuse to grapple with prejudice again.  It's not Night Watch, but not every Vimes book can be Night Watch.

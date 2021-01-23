@@ -34,6 +34,7 @@ review:
   - 2003-12-01
   rating: 1
 ---
+
 Sometimes it's just down to the order or operations. I read Eragon after the Lord of the Rings, and so I disliked it and
 thought much of its plot was a cheap knock-off version with more wish fulfillment. That was not entirely fair, but I was
 ten at the time and being angry about bad books was my thing. It's certainly an impressive book considering the age of

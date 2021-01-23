@@ -33,6 +33,7 @@ review:
   - 2005-01-01
   rating: 4
 ---
+
 Terry Pratchett's second Watch book, and this time it's not about dragons: It's about the Gonne, a weapon stolen from
 the Assassins Guild. We already have dwarves, trolls, werewolves and Nobby in the guard, and it's a great adventure. Not
 peak Watch content, but nonetheless tons of fun.

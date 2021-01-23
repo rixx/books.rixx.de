@@ -20,4 +20,9 @@ book:
   title: Magic Strikes
 plan:
   date_added: 2020-08-13
+related_books:
+- book: ilona-andrews/magic-burns
+  text: The previous book in the series.
+- book: ilona-andrews/magic-bites
+  text: The first book in the series.
 ---

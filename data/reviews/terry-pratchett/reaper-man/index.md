@@ -33,6 +33,7 @@ review:
   - 2003-10-01
   rating: 4
 ---
+
 Death is now a retired senior citizen. He puts his scythe to more traditional use, while the Discworld finds out how bad
 life is without Death. Hilarious, solidly in the phase where Discworld books are fun without being terribly
 philosophical.

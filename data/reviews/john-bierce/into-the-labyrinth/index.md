@@ -2,6 +2,8 @@
 book:
   author: John Bierce
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539137096l/42267952._SX318_.jpg
+  dimensions:
+    height: 19
   goodreads: '42267952'
   isbn10: null
   isbn13: null
@@ -17,6 +19,9 @@ book:
   title: Into the Labyrinth
 plan:
   date_added: 2020-08-13
+related_books:
+- book: john-bierce/a-traitor-in-skyhold
+  text: The next book in the series.
 review:
   date_read:
   - 2020-10-20
