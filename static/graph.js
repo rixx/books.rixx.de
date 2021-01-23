@@ -84,7 +84,7 @@ d3.json("/graph.json").then(data => {
           .force("link", d3.forceLink(data.links).id(d => d.id))
           //.force("charge", d3.forceManyBody().strength(-3))  // Closer to zero = smaller graph
           //.force("center", d3.forceCenter(width / 2, height / 2)); // this would be for a connected graph
-          .force("charge", d3.forceManyBody().strength(-35))  // Closer to zero = smaller graph
+          .force("charge", d3.forceManyBody().strength(-30))  // Closer to zero = smaller graph
           .force("x", d3.forceX()).force("y", d3.forceY());  // This is for our Graph
 
     drag = simulation => {
