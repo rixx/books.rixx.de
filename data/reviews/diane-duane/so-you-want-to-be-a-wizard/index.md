@@ -21,12 +21,14 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
-- book: robert-a-heinlein/have-space-suit-will-travel
-  text: The scifi version of this series, in a way.
+- book: nnedi-okorafor/akata-witch
+  text: Teenagers who have to navigate learning magic next to everything else in their everyday life.
 - book: madeleine-lengle/a-wrinkle-in-time
   text: More magical teenagers exploring a new world.
 - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
   text: British version of magic teenagers.
+- book: robert-a-heinlein/have-space-suit-will-travel
+  text: The scifi version of this series, in a way.
 - book: ursula-k-le-guin/a-wizard-of-earthsea
   text: Duane understands Earthsea better than most.
 - book: diane-duane/the-door-into-fire

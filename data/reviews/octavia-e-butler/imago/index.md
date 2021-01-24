@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-02-20'
 related_books:
+- book: nnedi-okorafor/binti
+  text: Alien aliens with living ships.
 - book: octavia-e-butler/adulthood-rites
   text: The previous book in the series.
 - book: octavia-e-butler/dawn

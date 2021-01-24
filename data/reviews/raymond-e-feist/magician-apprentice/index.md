@@ -26,6 +26,8 @@ related_books:
 - book: robin-hobb/assassins-apprentice
   text: Similar in the story arc, only with more complexity at every level, and better
     writing.
+- book: robert-jordan/the-eye-of-the-world
+  text: Similarly slow build high fantasy.
 review:
   date_read:
   - 2020-07-24

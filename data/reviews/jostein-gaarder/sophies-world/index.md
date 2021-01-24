@@ -22,6 +22,8 @@ related_books:
   text: If you want to make philosophy (or history) come to life, this is much closer to how it's done.
 - book: thomas-mann/the-magic-mountain
   text: The adult German version of being trapped in a thinly disguised philosophy lecture.
+- book: jo-walton/the-just-city
+  text: More philosopher fanboying.
 review:
   date_read:
   - 2003-11-01

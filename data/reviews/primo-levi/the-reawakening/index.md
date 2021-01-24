@@ -17,6 +17,11 @@ book:
   title: The Reawakening
 plan:
   date_added: '2020-04-15'
+related_books:
+- book: michael-ondaatje/the-english-patient
+  text: Both describe the surreal world in Europe and especially Italy after the end of WW2.
+- book: primo-levi/if-this-is-a-man
+  text: The first part.
 review:
   date_read:
   - 2020-04-22

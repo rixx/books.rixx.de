@@ -20,6 +20,10 @@ book:
 plan:
   date_added: '2018-02-23'
 related_books:
+- book: rokeya-sakhawat-hossain/sultanas-dream
+  text: Role inversion from 1905.
+- book: wen-spencer/a-brothers-price
+  text: More role inversion.
 - book: lois-mcmaster-bujold/the-warriors-apprentice
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/falling-free

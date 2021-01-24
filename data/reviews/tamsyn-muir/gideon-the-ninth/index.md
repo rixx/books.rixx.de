@@ -19,6 +19,9 @@ book:
   title: Gideon the Ninth
 plan:
   date_added: '2020-02-11'
+related_books:
+- book: licia-troisi/im-land-des-windes
+  text: Angry young woman turns resentful fighter forced to find out she still has feelings.
 review:
   date_read:
   - 2020-02-15
@@ -48,4 +51,8 @@ social:
       https://books.rixx.de/reviews/2020/gideon-the-ninth/'
 ---
 
-Gideon the Ninth was good, but not quite my kind of thing – the first third (or so) felt very muddled and I was wondering why everybody seemed to love this book so much. It got better, but the world it played in never felt quite solid to me, and I'd have liked it much more with just a bit less flippancy? Grimdark with aggressively flippant protagonist feels done to death. Quality of writing and worldbuilding increased throughout the book, apart from the final battle, and I enjoyed how the characters were fleshed out (for most of them, at least).
+Gideon the Ninth was good, but not quite my kind of thing – the first third (or so) felt very muddled and I was
+wondering why everybody seemed to love this book so much. It got better, but the world it played in never felt quite
+solid to me, and I'd have liked it much more with just a bit less flippancy? Grimdark with aggressively flippant
+protagonist feels done to death. Quality of writing and worldbuilding increased throughout the book, apart from the
+final battle, and I enjoyed how the characters were fleshed out (for most of them, at least).

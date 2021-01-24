@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2016-05-11'
 related_books:
+- book: ted-chiang/the-lifecycle-of-software-objects
+  text: Another look at the emancipation of AI.
 - book: ann-leckie/nights-slow-poison
   text: The previous book in the series.
 - book: ann-leckie/ancillary-sword

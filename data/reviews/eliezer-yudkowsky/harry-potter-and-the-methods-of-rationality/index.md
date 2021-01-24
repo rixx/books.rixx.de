@@ -11,6 +11,7 @@ book:
   - fantasy
   - learning-the-arts
   title: Harry Potter and the Methods of Rationality
+  source: http://www.hpmor.com/
 plan:
   date_added: '2015-04-09'
 related_books:
@@ -21,6 +22,8 @@ related_books:
     so, etc.'
 - book: j-k-rowling/harry-potter-and-the-sorcerers-stone
   text: Less rational Harry.
+- book: alexander-wales/the-metropolitan-man
+  text: Rational Lex Luthor.
 review:
   date_read:
   - 2014-11-01

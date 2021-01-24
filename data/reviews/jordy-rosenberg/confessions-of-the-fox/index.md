@@ -14,6 +14,11 @@ book:
   title: Confessions of the Fox
 plan:
   date_added: 2020-06-07
+related_books:
+- book: k-m-szpara/you-can-make-a-dinosaur-but-you-cant-help-me
+  text: More trans stories.
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: More heist stories!
 review:
   date_read:
   - 2020-10-08

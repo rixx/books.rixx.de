@@ -13,14 +13,20 @@ book:
   publication_year: '2019'
   spine_color: '#24c0b4'
   tags:
-  - fantasy
+  - scifi
+  - time-travel
   title: The Light Brigade
 plan:
   date_added: '2019-07-15'
+related_books:
+- book: joe-haldeman/the-forever-war
+  text: Very similar apart from the time travel bit.
 review:
   date_read:
   - 2020-05-03
   rating: 2
 ---
 
-Time-travel military sci-fi that would've been better if it hadn't gone full-throttle on the ideology. Also of course has to go with the time-travelling storytelling where everything is neatly wrapped up by time travel, which makes the whole thing uncomfortably predictable.
+Time-travel military sci-fi that would've been better if it hadn't gone full-throttle on the ideology. Also of course
+has to go with the time-travelling storytelling where everything is neatly wrapped up by time travel, which makes the
+whole thing uncomfortably predictable.

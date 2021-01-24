@@ -4,8 +4,14 @@ book:
   goodreads: '40864052'
   publication_year: '2018'
   title: You can make a dinosaur, but you can't help me
+  tags:
+  - queer
+  - scifi
 plan:
   date_added: '2019-01-23'
+related_books:
+- book: jordy-rosenberg/confessions-of-the-fox
+  text: More trans stories.
 review:
   date_read:
   - 2019-01-23

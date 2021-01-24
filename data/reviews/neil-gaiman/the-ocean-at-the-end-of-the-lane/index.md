@@ -21,6 +21,8 @@ related_books:
   text: What this book is for villages, Neverwhere is for the city.
 - book: jo-walton/among-others
   text: If you want more 70s kids being swept up in a new (though British) magical world.
+- book: shirley-jackson/we-have-always-lived-in-the-castle
+  text: If you liked the horrific aspects, here is more.
 - book: neil-gaiman/coraline
   text: Same age group, in a way, but scarier.
 - book: neil-gaiman/stardust

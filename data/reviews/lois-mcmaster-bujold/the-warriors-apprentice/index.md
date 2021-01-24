@@ -24,6 +24,8 @@ related_books:
   text: The Discworld take on ambition and momentum. Not nearly as good, though.
 - book: orson-scott-card/enders-game
   text: Genius kids going overboard.
+- book: scott-lynch/the-lies-of-locke-lamora
+  text: Another witty snarky heist hero.
 - book: lois-mcmaster-bujold/shards-of-honour
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/ethan-of-athos

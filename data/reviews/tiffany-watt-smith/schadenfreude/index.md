@@ -18,6 +18,9 @@ book:
   title: Schadenfreude
 plan:
   date_added: 2021-01-08
+related_books:
+- book: carolyn-elliott/existential-kink
+  text: A much better take on shadow emotions.
 review:
   date_read:
   - 2021-01-08

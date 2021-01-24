@@ -13,6 +13,11 @@ book:
   title: The City Born Great
 plan:
   date_added: '2018-12-17'
+related_books:
+- book: terry-pratchett/reaper-man
+  text: Another explanation of the reproductive mechanisms of living cities.
+- book: n-k-jemisin/the-fifth-season
+  text: Jemisin at her best.
 review:
   date_read:
   - 2018-12-01

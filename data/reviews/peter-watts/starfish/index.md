@@ -19,10 +19,17 @@ book:
   title: Starfish
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: peter-watts/blindsight
+  text: Much better work by Watts.
+- book: diane-duane/deep-wizardry
+  text: If you need a palate-cleanser for deep ocean things.
 review:
   date_read:
   - 2018-02-26
   rating: 2
 ---
 
-Not my thing. Good solid characters, and the whole "living on the ground of the ocean evolving into something else was alright". The only part I really liked were the headcheese (erm, neural nets), and the fact somebody figured out which genetic side they'd take by asking one if it preferred Chess or Checkers. That was neat.
+Not my thing. Good solid characters, and the whole "living on the ground of the ocean evolving into something else was
+alright". The only part I really liked were the headcheese (erm, neural nets), and the fact somebody figured out which
+genetic side they'd take by asking one if it preferred Chess or Checkers. That was neat.

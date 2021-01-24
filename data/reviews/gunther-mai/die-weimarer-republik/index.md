@@ -17,6 +17,8 @@ related_books:
   text: Literary YA about this time.
 - book: volker-ullrich/die-revolution-von-1918-19
   text: The beginning.
+- book: ulrich-herbert/das-dritte-reich-geschichte-einer-diktatur
+  text: Die Zeit danach.
 review:
   date_read:
   - 2018-02-10

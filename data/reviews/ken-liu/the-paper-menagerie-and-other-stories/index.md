@@ -12,6 +12,9 @@ book:
   title: The Paper Menagerie and Other Stories
 plan:
   date_added: '2018-03-13'
+related_books:
+- book: becky-chambers/the-long-way-to-a-small-angry-planet
+  text: More painfully wholesome stories.
 review:
   date_read:
   - 2018-03-16

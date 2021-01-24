@@ -17,6 +17,13 @@ book:
   title: Sultana's Dream
 plan:
   date_added: '2018-02-11'
+related_books:
+- book: wen-spencer/a-brothers-price
+  text: More role inversion, this time a romance.
+- book: lois-mcmaster-bujold/ethan-of-athos
+  text: More role inversion, this time space opera.
+- book: voltaire/micromegas
+  text: More early scifi. Similar vibe of discovering the genre.
 review:
   date_read:
   - 2018-02-11

@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: robert-jackson-bennett/city-of-stairs
+  text: Another god going insane and making up inhuman rules that everybody goes along with (minor plot point).
 - book: terry-pratchett/going-postal
   text: The next Industrial Discworld book.
 - book: terry-pratchett/the-truth

@@ -23,6 +23,8 @@ related_books:
 - book: carolyn-elliott/existential-kink
   text: Existential Kink offers a different, practical look at shame that boils down
     to "Have you considered that you might be into it?"
+- book: tsultrim-allione/feeding-your-demons
+  text: Both books talk about vulnerability, and have similar opinions, but come from a wildly different place.
 review:
   date_read:
   - 2019-10-01

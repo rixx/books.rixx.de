@@ -15,6 +15,9 @@ book:
   title: A River Runs Through it and Other Stories
 plan:
   date_added: '2017-05-16'
+related_books:
+- book: kurt-vonnegut/cats-cradle
+  text: I can't help but imagine how Vonnegut would have written this story …
 review:
   date_read:
   - 2018-02-23

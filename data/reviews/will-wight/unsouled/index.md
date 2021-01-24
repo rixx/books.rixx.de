@@ -18,10 +18,14 @@ plan:
 related_books:
 - book: will-wight/soulsmith
   text: The next book in the series.
+- book: lian-hearn/across-the-nightingale-floor
+  text: I'm afraid Japanese fantasy is the closest I can offer.
 review:
   date_read:
   - 2020-04-30
   rating: 3
 ---
 
-This was nice. Chinese inspired fantasy, but with a high escalation path into stellar politics among superpowered/ascended beings. The juxtaposition of the two ("low level farm boy" vs "god-like beings") was a bit clumsy at times, and it cuts off early, but it was still relaxing to read.
+This was nice. Chinese inspired fantasy, but with a high escalation path into stellar politics among
+superpowered/ascended beings. The juxtaposition of the two ("low level farm boy" vs "god-like beings") was a bit clumsy
+at times, and it cuts off early, but it was still relaxing to read.

@@ -1,6 +1,7 @@
 ---
 book:
   author: murkybluematter
+  source: https://www.fanfiction.net/s/11911497/1/The-Futile-Facade
   dimensions:
     height: 24
   goodreads: '34213118'
@@ -13,6 +14,8 @@ book:
 plan:
   date_added: '2019-02-07'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-goblet-of-fire
+  text: The original.
 - book: murkybluematter/the-ambiguous-artifice
   text: The previous book in the series.
 - book: murkybluematter/the-pureblood-pretense

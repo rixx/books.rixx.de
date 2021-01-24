@@ -24,12 +24,18 @@ related_books:
 - book: hannu-rajaniemi/the-quantum-thief
   text: Another fast-paced fun heist story with strong world-building, the same energy
     just in scifi.
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: My favourite witty snarky heist hero.
 - book: brandon-sanderson/the-final-empire
   text: Completely different style, but both heist-based fantasy books.
-- book: v-e-schwab/a-darker-shade-of-magic
-  text: Sassy thieves.
 - book: patrick-rothfuss/the-name-of-the-wind
   text: Similar protagonist ego size.
+- book: robert-jackson-bennett/foundryside
+  text: Both heist-based fantasy books.
+- book: nicholas-eames/kings-of-the-wyld
+  text: Similarly fast-paced humour, but darker.
+- book: jordy-rosenberg/confessions-of-the-fox
+  text: More heist stories!
 - book: scott-lynch/red-seas-under-red-skies
   text: The next book in the series.
 review:

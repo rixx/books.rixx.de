@@ -18,6 +18,8 @@ related_books:
   text: One of the heavily quoted books.
 - book: neil-gaiman/the-ocean-at-the-end-of-the-lane
   text: If you want more 70s kids being swept up in a new (though British) magical world.
+- book: robert-graves/i-claudius
+  text: One of the referenced books.
 review:
   date_read:
   - 2020-05-10

@@ -11,10 +11,14 @@ book:
   title: Global Dystopias
 plan:
   date_added: '2018-02-13'
+related_books:
+- book: margaret-atwood/the-handmaids-tale
+  text: Atwood contributed an apocalyptic story.
 review:
   date_read:
   - 2018-02-14
   rating: 3
 ---
 
-While it was intense to see one of my nightmares written down, somehow it still didn't manage to capture me. Style and time didn't speak to me, even as the setting did.
+While it was intense to see one of my nightmares written down, somehow it still didn't manage to capture me. Style and
+time didn't speak to me, even as the setting did.

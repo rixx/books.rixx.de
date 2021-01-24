@@ -25,6 +25,8 @@ related_books:
   text: Referenced by title, referenced by content.
 - book: ernest-cline/ready-player-one
   text: In many ways the sellout capitalist version, plus drowning in nostalgia.
+- book: sabrina-vourvoulias/ink
+  text: More surveillance capitalism.
 review:
   date_read:
   - 2013-05-01

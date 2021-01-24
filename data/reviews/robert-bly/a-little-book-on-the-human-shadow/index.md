@@ -18,6 +18,11 @@ book:
   title: A Little Book on the Human Shadow
 plan:
   date_added: 2020-10-09
+related_books:
+- book: carolyn-elliott/existential-kink
+  text: Good tools for doing shadow work.
+- book: ichiro-kishimi/the-courage-to-be-disliked
+  text: Explains the work of another Freud pupil turning against Freud.
 review:
   date_read:
   - 2020-10-09

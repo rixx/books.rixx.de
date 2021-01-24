@@ -22,6 +22,8 @@ related_books:
   text: More reality-bending Egan.
 - book: greg-egan/quarantine
   text: Egan's other scifi.
+- book: ted-chiang/the-lifecycle-of-software-objects
+  text: Similar vibe of software interacting with life in this story.
 review:
   date_read:
   - 2017-03-10

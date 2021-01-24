@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-02-10'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-goblet-of-fire
+  text: The original.
 - book: lightning-on-the-wave/comes-out-of-darkness-morn
   text: The previous book in the series.
 - book: lightning-on-the-wave/freedom-and-not-peace

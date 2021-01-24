@@ -17,6 +17,8 @@ plan:
 related_books:
 - book: klaus-kordon/die-roten-matrosen
   text: Historical YA fiction taking place during the revolution.
+- book: karl-marx/the-communist-manifesto
+  text: Relevant historical document, surprisingly readable.
 - book: gunther-mai/die-weimarer-republik
   text: What followed.
 review:

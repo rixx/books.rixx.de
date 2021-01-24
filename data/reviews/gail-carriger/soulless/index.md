@@ -20,6 +20,8 @@ related_books:
 - book: ilona-andrews/magic-bites
   text: The Kate Daniels book do the same, just better and in near-future USA instead
     of Victorian England.
+- book: zen-cho/sorcerer-to-the-crown
+  text: Another take on Victorian high society magic.
 review:
   date_read:
   - 2020-07-22

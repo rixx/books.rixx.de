@@ -14,6 +14,9 @@ book:
   title: The Great Explosion
 plan:
   date_added: '2018-01-27'
+related_books:
+- book: ursula-k-le-guin/the-dispossessed
+  text: More anarchy in scifi.
 review:
   date_read:
   - 2018-01-27
@@ -22,6 +25,7 @@ review:
 
 Aww, it's scifi from the 60s! It's witty, and funny, and sarcastic (but never quite mean). Love it a lot.
 
-The first half of the book explains the general situation, and allows us to get to know the ship's crew as they come into contact with three planets (but only one meaningful one, grown from a colony of nudists).
+The first half of the book explains the general situation, and allows us to get to know the ship's crew as they come
+into contact with three planets (but only one meaningful one, grown from a colony of nudists).
 
 The second half centers on an anarchist world and … it's pure joy. Go read it.

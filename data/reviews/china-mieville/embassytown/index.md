@@ -20,6 +20,11 @@ book:
 plan:
   date_added: '2018-11-14'
 related_books:
+- book: samuel-r-delany/babel-17
+  text: Alien linguistics!
+- book: janet-kagan/hellspark
+  text: Delightful linguistics sci-fi, also rapid and fun. More practical, but also
+    more into linguistics. Do read!
 - book: ursula-k-le-guin/the-left-hand-of-darkness
   text: More scifi through the lens of anthropology and language.
 review:

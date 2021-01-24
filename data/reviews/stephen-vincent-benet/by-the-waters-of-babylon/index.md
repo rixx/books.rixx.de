@@ -11,6 +11,9 @@ book:
   title: By the Waters of Babylon
 plan:
   date_added: '2018-02-11'
+related_books:
+- book: octavia-e-butler/parable-of-the-sower
+  text: Not quite as post-apocalyptic, but getting there.
 review:
   date_read:
   - 2018-02-11

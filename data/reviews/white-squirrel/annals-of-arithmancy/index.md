@@ -12,6 +12,8 @@ book:
   tags:
   - fanfic
   title: Annals of Arithmancy
+  series: The Arithmancer
+  series_position: '3'
 plan:
   date_added: 2021-01-07
 related_books:

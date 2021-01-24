@@ -16,6 +16,8 @@ related_books:
   text: Same, but with Xenolinguistics and flat characters.
 - book: aldous-huxley/brave-new-world
   text: Very similar themes.
+- book: kazuo-ishiguro/never-let-me-go
+  text: Extremely similar book with added medical ick factor.
 review:
   date_read:
   - 2017-12-21

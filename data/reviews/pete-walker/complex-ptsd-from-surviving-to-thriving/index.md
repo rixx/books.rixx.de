@@ -18,6 +18,11 @@ review:
   rating: 2
   tldr: Says a lot of true things. Not immediately useful for me, but still recommended
     if you want to learn about cPTSD/PTSD/trauma.
+related_books:
+- book: eugene-t-gendlin/focusing
+  text: A better fit for me.
+- book: meg-barker/rewriting-the-rules
+  text: A better fit for me.
 social:
   mastodon:
     datetime: 2020-07-02 10:44:59.229079

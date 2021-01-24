@@ -9,6 +9,7 @@ book:
   publication_year: '2013'
   series: Rigel Black
   series_position: '2'
+  source: https://www.fanfiction.net/s/8239413/1/The-Serpentine-Subterfuge
   spine_color: '#91897e'
   tags:
   - fanfic
@@ -16,6 +17,8 @@ book:
 plan:
   date_added: '2019-02-01'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-chamber-of-secrets
+  text: The original.
 - book: murkybluematter/the-pureblood-pretense
   text: The previous book in the series.
 - book: murkybluematter/the-ambiguous-artifice

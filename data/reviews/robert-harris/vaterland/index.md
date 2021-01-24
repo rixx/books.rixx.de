@@ -22,6 +22,8 @@ related_books:
   text: So you like alternate history where the Nazis won the war?
 - book: josef-pieper/no-one-could-have-known
   text: See how real people arranged themselves with the Nazi rule.
+- book: sophia-mcdougall/romanitas
+  text: Instead of Nazis winning the war, Rome never losing any war.
 review:
   date_read:
   - 2013-08-01

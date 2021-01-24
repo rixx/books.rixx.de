@@ -11,8 +11,15 @@ book:
   tags:
   - scifi
   title: The Flowers of Vashnoi
+  series: Vorkosigan Saga
+  series_position: '16.1'
 plan:
   date_added: 2020-08-18
+related_books:
+- book: lois-mcmaster-bujold/gentleman-jole-and-the-red-queen
+  text: The previous book in the series.
+- book: lois-mcmaster-bujold/shards-of-honour
+  text: The first book in the series.
 review:
   date_read:
   - 2020-08-17

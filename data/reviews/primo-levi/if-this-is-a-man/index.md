@@ -17,6 +17,11 @@ book:
   title: If This Is a Man
 plan:
   date_added: '2020-04-14'
+related_books:
+- book: anne-frank/the-diary-of-a-young-girl
+  text: Another first-hand account.
+- book: primo-levi/the-reawakening
+  text: The second part.
 review:
   date_read:
   - 2020-04-15

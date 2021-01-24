@@ -14,7 +14,11 @@ book:
   title: Clockwork Boys
 plan:
   date_added: '2018-09-19'
-related_books: []
+related_books:
+- book: diane-duane/the-door-into-fire
+  text: Both rich worlds with excellent character building.
+- book: megan-whalen-turner/the-thief
+  text: A very similar story, down to the released prisoner sent on a mission.
 review:
   date_read:
   - 2020-01-26

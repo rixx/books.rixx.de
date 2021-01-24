@@ -18,6 +18,9 @@ book:
   title: The Communist Manifesto
 plan:
   date_added: '2020-04-12'
+related_books:
+- book: volker-ullrich/die-revolution-von-1918-19
+  text: What happened afterwards.
 review:
   date_read:
   - 2020-04-12

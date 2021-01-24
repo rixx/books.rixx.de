@@ -11,8 +11,12 @@ book:
   tags:
   - fanfic
   title: Alexandra Quick and the Thorn Circle
+  source: https://www.fanfiction.net/s/3964606/1/
 plan:
   date_added: '2019-02-08'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The original.
 review:
   date_read:
   - 2019-02-09

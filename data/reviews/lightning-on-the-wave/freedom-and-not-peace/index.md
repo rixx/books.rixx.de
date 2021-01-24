@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-01-23'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-order-of-the-phoenix
+  text: The original.
 - book: lightning-on-the-wave/maze-of-light
   text: The previous book in the series.
 - book: lightning-on-the-wave/wind-that-shakes-the-seas-and-stars

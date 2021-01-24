@@ -9,8 +9,14 @@ book:
   series_position: '1'
   spine_color: '#ae7335'
   title: FINDING HIMSELF
+  tags:
+  - fanfic
+  source: https://www.fanfiction.net/s/4594634/1/FINDING-HIMSELF
 plan:
   date_added: '2020-02-25'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-order-of-the-phoenix
+  text: The original.
 review:
   date_read:
   - 2020-02-25

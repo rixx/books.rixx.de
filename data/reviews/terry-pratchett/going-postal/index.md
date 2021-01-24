@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: tom-standage/the-victorian-internet
+  text: "Learn what the early telegraph was really like (spoilers: Pratchett did his research well)."
 - book: lois-mcmaster-bujold/the-warriors-apprentice
   text: A much better take on ambition and momentum.
 - book: terry-pratchett/making-money

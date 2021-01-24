@@ -14,6 +14,8 @@ plan:
 related_books:
 - book: theodor-fontane/effi-briest
   text: Same story, only German and twenty years later.
+- book: victor-hugo/gavroche
+  text: Also a tragic criticism of society at the same time.
 review:
   date_read:
   - 2011-12-01

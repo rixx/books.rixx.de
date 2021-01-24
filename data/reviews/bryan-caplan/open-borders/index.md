@@ -17,6 +17,9 @@ book:
   title: 'Open Borders: The Science and Ethics of Immigration'
 plan:
   date_added: '2019-12-12'
+related_books:
+- book: sabrina-vourvoulias/ink
+  text: A scifi look at immigration.
 review:
   date_read:
   - 2019-12-12

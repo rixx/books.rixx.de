@@ -14,6 +14,13 @@ book:
   title: 'Rewriting the Rules: An Integrative Guide to Love, Sex and Relationships'
 plan:
   date_added: '2019-10-02'
+related_books:
+- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+  text: Goes deeper on ways of managing trauma in relationships with others.
+- book: mark-manson/models
+  text: Details on how to be authentic and also find relationships.
+- book: jo-walton/my-real-children
+  text: Both books implore you to stand up for yourself.
 review:
   date_read:
   - 2019-10-05

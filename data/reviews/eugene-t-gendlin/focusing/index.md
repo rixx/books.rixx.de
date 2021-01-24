@@ -23,6 +23,8 @@ related_books:
 - book: tsultrim-allione/feeding-your-demons
   text: If you're less into verbal approaches and more into visualisation, Feeding
     Your Demons does something very similar to Focusing
+- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+  text: Goes more into detail on things that Focusing can't approach on its own.
 - book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
   text: 'One of Harry''s favourite quotes is from Focusing: What is true is already
     so, etc.'

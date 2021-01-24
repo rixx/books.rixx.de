@@ -18,6 +18,11 @@ book:
   title: Where Good Ideas Come from
 plan:
   date_added: '2019-07-21'
+related_books:
+- book: steven-sloman/the-knowledge-illusion
+  text: Knowledge and ideas need each other.
+- book: james-c-scott/against-the-grain
+  text: Evolution of ideas, in a different context.
 review:
   date_read:
   - 2020-04-11

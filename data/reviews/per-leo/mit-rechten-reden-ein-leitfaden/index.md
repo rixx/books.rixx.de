@@ -11,6 +11,9 @@ book:
   title: 'Mit Rechten reden: Ein Leitfaden'
 plan:
   date_added: '2018-02-13'
+related_books:
+- book: richard-s-gallagher/the-customer-service-survival-kit
+  text: Another communication strategy book.
 review:
   date_read:
   - 2018-05-29

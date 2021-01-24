@@ -26,6 +26,8 @@ related_books:
   text: The less YA series in the same universe.
 - book: brandon-sanderson/the-well-of-ascension
   text: The next book in the series.
+- book: robert-jackson-bennett/foundryside
+  text: Similarly technical magic systems.
 review:
   date_read:
   - 2019-02-22

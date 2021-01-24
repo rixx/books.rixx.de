@@ -19,6 +19,15 @@ book:
   title: No One Could Have Known
 plan:
   date_added: 2020-11-27
+related_books:
+- book: primo-levi/if-this-is-a-man
+  text: Say "no one could have known" again, I dare you.
+- book: anne-frank/the-diary-of-a-young-girl
+  text: Say "no one could have known" again, I fucking dare you.
+- book: josef-pieper/traktat-uber-die-klugheit
+  text: Pieper moralising while Nazis were killing people.
+- book: josef-pieper/leisure-the-basis-of-culture
+  text: Pieper moralising after Nazis were done killing people.
 review:
   date_read:
   - 2020-11-26

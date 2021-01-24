@@ -11,9 +11,17 @@ book:
   tags:
   - scifi
   - space-monks
+  - time-travel
   title: The Last Starship from Earth
 plan:
   date_added: 2020-06-09
+related_books:
+- book: douglas-adams/dirk-gentlys-holistic-detective-agency
+  text: If you liked the mechanical pope, you might also like the electric monk.
+- book: aldous-huxley/brave-new-world
+  text: This book has a very strong caste system – more American and recognisable, but still very dystopian. All caste systems come from Huxley.
+- book: george-orwell/1984
+  text: More 24/7 secret police with informants and a tight grip on all publications.
 review:
   date_read:
   - 2020-06-01
@@ -39,9 +47,9 @@ starship, sending him to the colony on Hell, and choosing to stay behind as the 
 So here is a thing: For the first quarter of the book, I low-key expected a reveal that everybody was a robot, left
 behind on Earth, because everybody was terribly wooden and formal and unmoved and really very robotic. I guess that's
 meant to be due to their rigid social order, but I can't suspend my disbelief that much. Just like [Jo Walton can't
-believe Plato's Republic](https://books.rixx.de/reviews/2020/among-others/), I can't suspend my disbelief to assume a
-society where everybody behaves like this, where a total reglementation of marriages is accepted as common and good, and
-people following their, ugh, "primal urges" is basically unheard-of.
+believe Plato's Republic](/jo-walton/among-others/), I can't suspend my disbelief to assume a society where everybody
+behaves like this, where a total reglementation of marriages is accepted as common and good, and people following their,
+ugh, "primal urges" is basically unheard-of.
 
 In the same way, you could attribute all opinions about Helix to the protagonist being pompous and raised in a terrible
 society, but they come across as too neat, too women-am-I-right-mate. Even with the final reveal <span class="spoilers">

@@ -7,12 +7,22 @@ book:
   tags:
   - fanfic
   title: Sansûkh
+  source: https://archiveofourown.org/works/855528/chapters/1637607
 plan:
   date_added: '2019-01-30'
+related_books:
+- book: j-r-r-tolkien/the-hobbit
+  text: The beginning of the journey.
+- book: j-r-r-tolkien/the-lord-of-the-rings
+  text: Covers most of Sansûkh.
 review:
   date_read:
   - 2019-01-30
   rating: 4
 ---
 
-Sansûkh is an incredibly well-researched, detailed, well-written Lord of the Rings fanfiction, telling the whole story from the perspective of the dead dwarves keeping watch over their relatives. Its protagonist is Thorin Oakenshield, and in addition to all the plots told by the primary books, it also features Erebor and Mirkwood. The writing is very appropriate and well-done, and I enjoyed every part of it tremendously. It's funny, and it's epic, and it's very much as it should be.
+Sansûkh is an incredibly well-researched, detailed, well-written Lord of the Rings fanfiction, telling the whole story
+from the perspective of the dead dwarves keeping watch over their relatives. Its protagonist is Thorin Oakenshield, and
+in addition to all the plots told by the primary books, it also features Erebor and Mirkwood. The writing is very
+appropriate and well-done, and I enjoyed every part of it tremendously. It's funny, and it's epic, and it's very much as
+it should be.

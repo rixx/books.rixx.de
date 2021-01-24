@@ -19,6 +19,9 @@ book:
   title: An Astronaut's Guide to Life on Earth
 plan:
   date_added: '2018-07-20'
+related_books:
+- book: michael-d-leinbach/bringing-columbia-home
+  text: More insight into NASA.
 review:
   date_read:
   - 2018-08-26

@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: john-boyd/the-last-starship-from-earth
+  text: If you liked the electric monk, you might also like the mechanical pope.
 - book: douglas-adams/the-long-dark-tea-time-of-the-soul
   text: The next book in the series.
 - book: terry-pratchett/hogfather

@@ -17,6 +17,9 @@ book:
   title: An Unkindness of Ghosts
 plan:
   date_added: '2017-12-02'
+related_books:
+- book: sarah-pinsker/wind-will-rove
+  text: More multi generational spaceships!
 review:
   date_read:
   - 2018-10-18

@@ -16,6 +16,9 @@ book:
   title: The Canterville Ghost
 plan:
   date_added: 2020-06-14
+related_books:
+- book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
+  text: "Americans vs Brits: The American entry"
 review:
   date_read:
   - 2020-06-13
@@ -23,9 +26,9 @@ review:
 ---
 
 I was prompted to read this book by the extremely underwhelming experience that was [A Connecticut Yankee in King
-Arthur's Court](https://books.rixx.de/reviews/2020/a-connecticut-yankee-in-king-arthurs-court). The last time I read The
-Canterville Ghost, I was 10, read it in German, and enjoyed it very much. Reading it again did not reduce my enjoyment:
-Wilde pokes fun at both British and American stereotypes with a light recklessness that holds up nearly 150 years later.
+Arthur's Court](/mark-twain/a-connecticut-yankee-in-king-arthurs-court). The last time I read The Canterville Ghost, I
+was 10, read it in German, and enjoyed it very much. Reading it again did not reduce my enjoyment: Wilde pokes fun at
+both British and American stereotypes with a light recklessness that holds up nearly 150 years later.
 
 It feels a bit like comparing the two books – Yankee and Canterville – is unfair to Mark Twain. But is it? Both are
 meant to be fun, both contrast British and American attitudes in not-quite-serious ways. One is a short story and the

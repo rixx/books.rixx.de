@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: samuel-r-delany/dhalgren
+  text: Very similar vibe.
 - book: franz-kafka/the-trial
   text: The next Kafka book.
 - book: franz-kafka/the-metamorphosis

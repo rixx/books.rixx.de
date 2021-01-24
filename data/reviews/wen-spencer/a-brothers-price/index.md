@@ -18,6 +18,11 @@ book:
   title: A Brother's Price
 plan:
   date_added: '2018-09-10'
+related_books:
+- book: rokeya-sakhawat-hossain/sultanas-dream
+  text: Role inversion from 1905.
+- book: lois-mcmaster-bujold/ethan-of-athos
+  text: More role inversion.
 review:
   date_read:
   - 2020-04-30

@@ -9,8 +9,14 @@ book:
   tags:
   - fanfic
   title: The Metropolitan Man
+  source: https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man
 plan:
   date_added: '2018-03-06'
+related_books:
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: More rationality fics.
+- book: stjepan-sejic/harleen
+  text: Another positive look at a villain.
 review:
   date_read:
   - 2018-03-06

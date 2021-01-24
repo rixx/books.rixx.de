@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-01-23'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-half-blood-prince
+  text: The original.
 - book: lightning-on-the-wave/freedom-and-not-peace
   text: The previous book in the series.
 - book: lightning-on-the-wave/a-song-in-time-of-revolution

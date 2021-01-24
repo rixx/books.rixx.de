@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-06-28'
 related_books:
+- book: ulrich-herbert/das-dritte-reich-geschichte-einer-diktatur
+  text: Nonfiction about this time (links to further sources).
 - book: klaus-kordon/ein-trummersommer
   text: Another book about 1945.
 - book: anne-frank/the-diary-of-a-young-girl

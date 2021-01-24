@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-01-23'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
+  text: The original.
 - book: lightning-on-the-wave/no-mouth-but-some-serpents
   text: The previous book in the series.
 - book: lightning-on-the-wave/maze-of-light

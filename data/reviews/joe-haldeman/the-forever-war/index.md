@@ -24,6 +24,8 @@ related_books:
   text: More of the same (in a good way).
 - book: orson-scott-card/speaker-for-the-dead
   text: The FTL travel considerations reminded me a lot of the best part of the Enderverse.
+- book: kameron-hurley/the-light-brigade
+  text: Very similar apart from the time travel bit.
 review:
   date_read:
   - 2016-11-09

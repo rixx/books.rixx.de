@@ -15,11 +15,25 @@ book:
   title: Ninefox Gambit
 plan:
   date_added: '2018-08-22'
-related_books: []
+related_books:
+- book: arkady-martine/a-memory-called-empire
+  text: A similarly complex world, also questioning divided loyalties.
+- book: seth-dickinson/the-traitor-baru-cormorant
+  text: Another large empire, another traitor.
+- book: ann-leckie/ancillary-justice
+  text: Leckie also plays with culture, but backs it up better.
 review:
   date_read:
   - 2019-03-31
   rating: 3
 ---
 
-Ninefox Gambit by *Yoon Ha Lee* was a lot of fun, but at the same time frustrating. The writing, pacing, and characters are very well done, but the worldbuilding … it's frustrating how much potential it has. With some work, this could have been a book opening up a great universe, but it felt like the author cut short all the worldbuilding work they should have done on their end, and instead substituted "what I say goes" rules for an inner logic in that world, making decisions and outcomes feel kind of random. I like being dropped in a weird and unfamiliar world, having to figure things out on my own – but I get grumpy if it turns out that there's nothing to figure out, because the author makes up the rules as the action goes along.
+Ninefox Gambit by *Yoon Ha Lee* was a lot of fun, but at the same time frustrating. The writing, pacing, and characters
+are very well done, but the worldbuilding … it's frustrating how much potential it has. With some work, this could have
+been a book opening up a great universe, but it felt like the author cut short all the worldbuilding work they should
+have done on their end, and instead substituted "what I say goes" rules for an inner logic in that world, making
+decisions and outcomes feel kind of random. I like being dropped in a weird and unfamiliar world, having to figure
+things out on my own – but I get grumpy if it turns out that there's nothing to figure out, because the author makes up
+the rules as the action goes along.
+
+It's basically high fantasy in space.

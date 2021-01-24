@@ -14,6 +14,9 @@ book:
   title: Just a Random Tuesday…
 plan:
   date_added: 2021-01-09
+related_books:
+- book: j-k-rowling/harry-potter-and-the-order-of-the-phoenix
+  text: Primary work.
 review:
   date_read:
   - 2021-01-09

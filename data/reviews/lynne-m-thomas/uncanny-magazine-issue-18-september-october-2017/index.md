@@ -10,6 +10,11 @@ book:
   title: 'Uncanny Magazine Issue 18: September/October 2017'
 plan:
   date_added: '2018-09-24'
+related_books:
+- book: martha-wells/all-systems-red
+  text: Also about a robot who turns out to enjoy pop culture.
+- book: neil-gaiman/fragile-things
+  text: More creepy short stories.
 review:
   date_read:
   - 2018-09-24

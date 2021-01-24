@@ -22,9 +22,15 @@ book:
 plan:
   date_added: 2020-06-24
 related_books:
+- book: john-m-ford/the-dragon-waiting
+  text: Also a book where Rome never fell, but so, so, so much better.
 - book: jim-butcher/furies-of-calderon
   text: Alternate Rome with Pokemons, arguably with a clearer understanding of what
     Rome was about.
+- book: robert-harris/vaterland
+  text: Fatherland, as mentioned in the recommendation.
+- book: robert-graves/i-claudius
+  text: Rome as it supposedly remained for two thousand years.
 review:
   date_read:
   - 2020-07-29

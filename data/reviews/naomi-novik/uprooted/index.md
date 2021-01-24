@@ -18,10 +18,20 @@ book:
   title: Uprooted
 plan:
   date_added: '2018-07-20'
+related_books:
+- book: diana-wynne-jones/howls-moving-castle
+  text: The feared evil sorcerer how isn't.
+- book: hans-christian-andersen/the-complete-fairy-tales
+  text: Fairytale source material.
 review:
   date_read:
   - 2018-07-21
   rating: 4
 ---
 
-Uprooted by *Naomi Novik* was a perfect fantasy story/fairytale. It's got all the right parts (dark magic, regular magic, unimpressed heroine, ambivalent wizard, etc), but isn't terribly predictable, and forms real characters instead of shadows of well-known archetypes. By following the easy-to-like first-person narrator Agnieszka, and seeing her relate to the Dragon, her best friend Kasia, and all the others, painted a vivid and realistic picture of the world. We even get a surprising amount of moral ambivalence, considering the genre. A very good book. I may start to read Naomi Novik's fantasy series if Uprooted is any indicator for that series' quality.
+Uprooted by *Naomi Novik* was a perfect fantasy story/fairytale. It's got all the right parts (dark magic, regular
+magic, unimpressed heroine, ambivalent wizard, etc), but isn't terribly predictable, and forms real characters instead
+of shadows of well-known archetypes. By following the easy-to-like first-person narrator Agnieszka, and seeing her
+relate to the Dragon, her best friend Kasia, and all the others, painted a vivid and realistic picture of the world. We
+even get a surprising amount of moral ambivalence, considering the genre. A very good book. I may start to read Naomi
+Novik's fantasy series if Uprooted is any indicator for that series' quality.

@@ -17,6 +17,9 @@ review:
   rating: 4
   tldr: 'Short story that could not be more Octavia Butler: Aliens and humans being
     wildly different, but cohabitating, in a functional yet gross way.'
+related_books:
+- book: octavia-e-butler/wild-seed
+  text: Similar topic.
 social:
   mastodon:
     datetime: 2020-06-28 00:28:55.994539
@@ -39,4 +42,7 @@ social:
       https://books.rixx.de/reviews/2020/bloodchild/'
 ---
 
-I first read Bloodchild last year, I think, and re-read it now. It's a very Octavia Butler story – aliens cohabitating with humans and making ties that touch on reproductive and life cycles is kinda a thing she does? But she does it well, and it's not a repeated shtick. I didn't *enjoy* the story as such, but it was expertly written, and viscerally stuck in my memory. (Also: ew.)
+I first read Bloodchild last year, I think, and re-read it now. It's a very Octavia Butler story – aliens cohabitating
+with humans and making ties that touch on reproductive and life cycles is kinda a thing she does? But she does it well,
+and it's not a repeated shtick. I didn't *enjoy* the story as such, but it was expertly written, and viscerally stuck in
+my memory. (Also: ew.)

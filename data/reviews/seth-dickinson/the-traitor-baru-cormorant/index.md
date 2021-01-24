@@ -21,6 +21,12 @@ book:
 plan:
   date_added: '2018-09-15'
 related_books:
+- book: yoon-ha-lee/ninefox-gambit
+  text: Another large empire, another traitor.
+- book: arkady-martine/a-memory-called-empire
+  text: Another look at world-spanning empires and their agents.
+- book: robert-jackson-bennett/city-of-stairs
+  text: Government agents with divided loyalties having to make brutal decisions.
 - book: seth-dickinson/the-monster-baru-cormorant
   text: The next book in the series.
 review:

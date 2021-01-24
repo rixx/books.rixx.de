@@ -19,6 +19,9 @@ book:
   title: The Inner Game of Tennis
 plan:
   date_added: '2020-03-30'
+related_books:
+- book: lao-tzu/tao-te-ching
+  text: More zen.
 review:
   date_read:
   - 2020-03-31

@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-01-23'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-deathly-hallows
+  text: The original.
 - book: lightning-on-the-wave/wind-that-shakes-the-seas-and-stars
   text: The previous book in the series.
 - book: lightning-on-the-wave/i-am-also-thy-brother

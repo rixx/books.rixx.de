@@ -16,6 +16,7 @@ book:
   spine_color: '#c0a78f'
   tags:
   - fantasy
+  - portal
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'
@@ -25,6 +26,10 @@ related_books:
     this book.
 - book: seanan-mcguire/down-among-the-sticks-and-bones
   text: The next book in the series.
+- book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
+  text: Mandatory portal fantasy, it seems.
+- book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
+  text: Another look at portal fantasy.
 review:
   date_read:
   - 2018-10-06
@@ -37,9 +42,3 @@ gruesome. It's about real children, not a list of characters from other books, e
 mystery half of the book, but that's really only window dressing for the exploration of the characters and worlds. It's
 a bit short, and I'd have liked to see more exploration of both the children and their worlds – but I guess that's what
 the sequel is there for.
-
-## Further Reading
-
-If you just want to read more general portal fantasy, without this level of meta, look at things like [The Girl Who
-Circumnavigated Fairyland in a Ship of Her Own
-Making](https://books.rixx.de/reviews/2016/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making)

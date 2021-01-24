@@ -20,6 +20,11 @@ book:
   title: Tao Te Ching
 plan:
   date_added: '2020-03-26'
+related_books:
+- book: w-timothy-gallwey/the-inner-game-of-tennis
+  text: A modern take on some aspects of zen.
+- book: john-tarrant/bring-me-the-rhinoceros
+  text: More zen.
 review:
   date_read:
   - 2020-03-26

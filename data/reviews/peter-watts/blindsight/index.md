@@ -23,6 +23,10 @@ related_books:
 - book: james-s-a-corey/leviathan-wakes
   text: A completely, wildly different book. The similarity is not the spaceship,
     but the sense of scale, of grit, and of reality despite the futuristic setting.
+- book: vernor-vinge/a-fire-upon-the-deep
+  text: Excellent scifi with alien aliens.
+- book: peter-watts/starfish
+  text: A different kind of creepy Peter Watts.
 review:
   date_read:
   - 2019-01-11

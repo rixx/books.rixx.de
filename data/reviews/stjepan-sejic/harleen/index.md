@@ -17,6 +17,9 @@ book:
   title: Harleen
 plan:
   date_added: '2020-02-29'
+related_books:
+- book: alexander-wales/the-metropolitan-man
+  text: Another positive look at a villain.
 review:
   date_read:
   - 2020-02-29

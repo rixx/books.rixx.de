@@ -19,6 +19,10 @@ related_books:
 - book: eugene-t-gendlin/focusing
   text: Very similar approach without the visualisation part, goes for verbalisation
     instead.
+- book: ichiro-kishimi/the-courage-to-be-disliked
+  text: Similar approaches to handling your dark side.
+- book: brene-brown/daring-greatly
+  text: Both books talk about vulnerability, and have similar opinions, but come from a wildly different place.
 review:
   date_read:
   - 2020-05-24
@@ -31,7 +35,7 @@ required for a woo book, it includes more about the author's personal journey an
 cared to know.
 
 But if you remove the window dressing, you are left with a reflection/meditation technique that seems to actually just
-work for me. It is very similar in structure to [Focusing](https://books.rixx.de/reviews/2019/focusing/), except that it
+work for me. It is very similar in structure to [Focusing](/eugene-t-gendlin/focusing/), except that it
 is more visual and tactile where Focusing is verbal. Both are based around felt senses and embodied emotions, though.
 
 The first part is exactly like Focusing: You have some sort of inner conflict that you feel uncomfortable with, and that
@@ -76,8 +80,3 @@ don't tend to get stuck as on Focusing.
 A caveat is that the method is very very hard to apply for extreme emotions. Great for mild and general anxiety,
 terrible for deep-seated humongous aversions, because they will either visually overwhelm you, or the generating of the
 positive emotions will be impossible in the emotional state you're inducing.
-
-## Further Reading
-
-If you're less into visual approaches and more into verbalisation,
-[Focusing](https://books.rixx.de/reviews/2019/focusing/) does something very similar to this method.

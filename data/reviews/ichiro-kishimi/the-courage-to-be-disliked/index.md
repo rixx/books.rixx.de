@@ -19,6 +19,8 @@ related_books:
   text: Existential Kink agrees with most premises in this book, but puts an entirely
     positive spin of shameless enjoyment on them. A good book to balance the dour
     stuffiness of this one.
+- book: robert-bly/a-little-book-on-the-human-shadow
+  text: Explains the work of another Freud pupil turning against Freud.
 review:
   date_read:
   - 2020-03-11

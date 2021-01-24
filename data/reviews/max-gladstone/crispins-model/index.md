@@ -9,12 +9,18 @@ book:
   publication_year: '2017'
   spine_color: '#857045'
   title: Crispin's Model
+  source: https://www.tor.com/2017/10/04/crispins-model/
 plan:
   date_added: '2018-08-02'
+related_books:
+- book: charles-stross/the-nightmare-stacks
+  text: More Lovecraftian stuff.
 review:
   date_read:
   - 2018-08-02
   rating: 3
 ---
 
-Hm. [Crispin's Model](<a target="_blank" href="https://www.tor.com/2017/10/04/crispins-model/" rel="nofollow">https://www.tor.com/2017/10/04/crispi...</a>) is modern Lovecraftian horror – well done, but I'm not into Lovecraftian horror all that much, and not into painting either, so it didn't grip me.
+Hm. 
+Crispin's Model
+is modern Lovecraftian horror – well done, but I'm not into Lovecraftian horror all that much, and not into painting either, so it didn't grip me.

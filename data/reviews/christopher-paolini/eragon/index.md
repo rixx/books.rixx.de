@@ -27,6 +27,8 @@ related_books:
   text: Dragons for younger children.
 - book: j-r-r-tolkien/the-hobbit
   text: Better non-YA dragons, better wizards, better elves.
+- book: robert-jordan/the-eye-of-the-world
+  text: Provides a blueprint for this book.
 - book: christopher-paolini/eldest
   text: The next book in the series.
 review:

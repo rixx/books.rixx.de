@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: michele-tracy-berger/nussia
+  text: More alien exchange students.
 - book: diane-duane/a-wizard-alone
   text: The previous book in the series.
 - book: diane-duane/wizards-at-war

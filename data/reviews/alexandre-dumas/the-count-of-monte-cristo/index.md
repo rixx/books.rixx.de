@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: alfred-bester/the-stars-my-destination
   text: Monte Cristo in space.
+- book: victor-hugo/gavroche
+  text: Old French survival stories both.
 - book: alexandre-dumas/the-three-musketeers
   text: More readable Dumas.
 review:

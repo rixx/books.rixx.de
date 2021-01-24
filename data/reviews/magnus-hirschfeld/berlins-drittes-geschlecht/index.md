@@ -16,6 +16,9 @@ book:
   title: Berlins Drittes Geschlecht
 plan:
   date_added: 2020-08-15
+related_books:
+- book: shaun-cole/don-we-now-our-gay-apparel
+  text: More insight into turn-of-the-century gay culture.
 review:
   date_read:
   - 2020-08-12

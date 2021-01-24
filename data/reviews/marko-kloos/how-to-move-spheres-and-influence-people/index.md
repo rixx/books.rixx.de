@@ -11,12 +11,18 @@ book:
   tags:
   - urban-fantasy
   title: How to Move Spheres and Influence People
+  source: https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/
 plan:
   date_added: '2019-04-04'
+related_books:
+- book: stjepan-sejic/harleen
+  text: Much better origin story, and nearly of a superhero.
 review:
   date_read:
   - 2019-04-04
   rating: 3
 ---
 
-My low rating may just be that I'm sick of generic superhero origin stories. [How to Move Spheres and Influence People](<a target="_blank" href="https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/" rel="nofollow">https://www.tor.com/2019/03/27/how-to...</a>) by *Marko Kloos* is a superhero origin story, I guess. It's about a teenager who discovers that she can move any spherical object with her mind. Very slice-of-life, not really going anywhere.
+My low rating may just be that I'm sick of generic superhero origin stories.
+How to Move Spheres and Influence People
+by *Marko Kloos* is a superhero origin story, I guess. It's about a teenager who discovers that she can move any spherical object with her mind. Very slice-of-life, not really going anywhere.

@@ -18,7 +18,9 @@ plan:
   date_added: 2020-10-19
 related_books:
 - book: margaret-atwood/the-handmaids-tale
-  text: Same, but without Xenolinguistics and depth.
+  text: Same, but without Xenolinguistics and with depth.
+- book: kazuo-ishiguro/never-let-me-go
+  text: Medical instead of linguistics.
 review:
   date_read:
   - 2020-10-19

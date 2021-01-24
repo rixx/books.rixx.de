@@ -15,6 +15,9 @@ book:
   title: Report to the Men's Club and Other Stories
 plan:
   date_added: '2017-11-29'
+related_books:
+- book: samuel-r-delany/babel-17
+  text: Delany recommended this book, so go read him instead.
 review:
   date_read:
   - 2017-11-29

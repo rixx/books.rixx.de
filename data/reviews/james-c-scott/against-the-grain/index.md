@@ -18,6 +18,9 @@ book:
   title: Against the Grain
 plan:
   date_added: 2020-10-19
+related_books:
+- book: steven-johnson/where-good-ideas-come-from
+  text: Evolution of ideas, in a different context.
 review:
   date_read:
   - 2020-10-18

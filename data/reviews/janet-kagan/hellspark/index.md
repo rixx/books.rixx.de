@@ -17,6 +17,8 @@ book:
 plan:
   date_added: 2020-08-20
 related_books:
+- book: china-mieville/embassytown
+  text: Alien linguistics!
 - book: samuel-r-delany/babel-17
   text: Another high-energy scifi book that takes language and relentless enjoyment
     seriously.

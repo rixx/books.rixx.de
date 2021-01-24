@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: charles-stross/the-atrocity-archives
   text: Stross is way more fun when you're in a Linux hacker throwback mood.
+- book: vm-vicky-brasseur/forge-your-future-with-open-source
+  text: Guide to the current Open Source culture.
 review:
   date_read:
   - 2008-12-01

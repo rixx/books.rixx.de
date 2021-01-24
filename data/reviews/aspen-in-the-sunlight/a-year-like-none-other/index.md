@@ -9,6 +9,7 @@ book:
   publication_year: '2006'
   series: Like None Other
   series_position: '1'
+  source: https://archiveofourown.org/works/742072
   spine_color: '#18330d'
   tags:
   - fanfic
@@ -16,6 +17,8 @@ book:
 plan:
   date_added: '2020-02-28'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-half-blood-prince
+  text: The original.
 - book: aspen-in-the-sunlight/a-summer-like-none-other
   text: The next book in the series.
 review:

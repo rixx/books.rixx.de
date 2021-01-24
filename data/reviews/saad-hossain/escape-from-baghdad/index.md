@@ -18,6 +18,11 @@ book:
   title: Escape from Baghdad!
 plan:
   date_added: 2020-06-15
+related_books:
+- book: jonathan-stroud/the-amulet-of-samarkand
+  text: The way history was embedded in the story reminded me of Bartimaeus.
+- book: lavie-tidhar/unholy-land
+  text: More magical realism in the Middle East.
 review:
   date_read:
   - 2020-06-14
@@ -30,13 +35,11 @@ In some very technical sense, this book is Urban Fantasy: there are fantastical 
 As you may have guessed, the city is Baghdad. The time is not long after Hussein's death, so it feels less like a city
 and more like a war zone, but still – Urban Fantasy.
 
-Thankfully, and I say this as somebody [who](https://books.rixx.de/reviews/2017/moon-over-soho)
-[occasionally](https://books.rixx.de/reviews/by-series/#The%20Dresden%20Files)
-[reads](https://books.rixx.de/reviews/2018/sandman-slim) [and](https://books.rixx.de/reviews/2016/anansi-boys)
-[enjoys](https://books.rixx.de/sergei-lukyanenko/) the genre, this book does not follow genre
-conventions. For one, the fantastical aspects make their appearance late and while they are really cool (<span
-class="spoilers">Avicenna makes
-an appearance!</span>), they don't dominate the story.
+Thankfully, and I say this as somebody [who](/ben-aaronovitch/moon-over-soho)
+[occasionally](/reviews/by-series/#The%20Dresden%20Files) [reads](/richard-kadrey/sandman-slim)
+[and](/neil-gaiman/anansi-boys) [enjoys](/sergei-lukyanenko/) the genre, this book does not follow genre conventions.
+For one, the fantastical aspects make their appearance late and while they are really cool (<span
+class="spoilers">Avicenna makes an appearance!</span>), they don't dominate the story.
 
 What instead dominates the story is how people deal with the horrors of war, particularly war impact and its
 consequences in a city. It's gruesome and violent, occasionally over-the-top (Hossain can do absurdist humour very

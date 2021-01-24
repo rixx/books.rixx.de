@@ -20,6 +20,11 @@ book:
   title: 'Leisure: The Basis of Culture'
 plan:
   date_added: 2020-05-24
+related_books:
+- book: josef-pieper/uber-das-christliche-menschenbild
+  text: This book is firmly grounded in Pieper's opinion on what humanity *is*.
+- book: josef-pieper/no-one-could-have-known
+  text: Pieper's autobiography. Makes all of this a bit less shiny.
 review:
   date_read:
   - 2020-05-24

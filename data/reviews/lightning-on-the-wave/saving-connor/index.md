@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2018-01-23'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The original.
 - book: lightning-on-the-wave/no-mouth-but-some-serpents
   text: The next book in the series.
 review:
@@ -24,4 +26,5 @@ review:
   rating: 4
 ---
 
-Harry, well, lives for saving Connor. Slow burn, very much focussed on character development, but still sees lots of action and lore.
+Harry, well, lives for saving Connor. Slow burn, very much focussed on character development, but still sees lots of
+action and lore.

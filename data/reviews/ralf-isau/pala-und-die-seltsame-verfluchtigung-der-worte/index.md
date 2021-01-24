@@ -19,6 +19,8 @@ plan:
 related_books:
 - book: franz-fuhmann/die-dampfenden-halse-der-pferde-im-turm-von-babel
   text: Another book for children that is based on playing with language and literature.
+- book: ralf-isau/das-jahrhundertkind
+  text: More exciting Isau.
 review:
   date_read:
   - 2004-11-01

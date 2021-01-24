@@ -7,16 +7,22 @@ book:
   publication_year: '2010'
   series: The Student Prince
   series_position: '1'
+  source: https://archiveofourown.org/works/91885/chapters/125138
   spine_color: '#c17240'
   tags:
   - fanfic
   title: The Student Prince
 plan:
   date_added: '2019-10-18'
+related_books:
+- book: diane-duane/so-you-want-to-be-a-wizard
+  text: Feels like a grown-up, British version of Duane, in some ways. Less deep, of course.
 review:
   date_read:
   - 2019-11-15
   rating: 4
 ---
 
-The Student Prince is very well-written Merlin (the TV show) fanfiction. You don't need to know the show to enjoy it: It transplants the characters of Merlin, Arthur, Morgana, Lancelot et al into pre-Brexit UK, where they go to college and deal with school and magic. Also national security. Also LGBT issues. I liked it a lot. It's available at [AO3](<a target="_blank" href="https://archiveofourown.org/series/23355" rel="nofollow">https://archiveofourown.org/series/23355</a>).
+The Student Prince is very well-written Merlin (the TV show) fanfiction. You don't need to know the show to enjoy it: It
+transplants the characters of Merlin, Arthur, Morgana, Lancelot et al into pre-Brexit UK, where they go to college and
+deal with school and magic. Also national security. Also LGBT issues. I liked it a lot.

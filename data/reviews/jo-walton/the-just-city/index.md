@@ -18,9 +18,15 @@ book:
   - fanfic
   - fantasy
   - myths-legends
+  - philosophy
   title: The Just City
 plan:
   date_added: '2019-09-28'
+related_book:
+- book: jostein-gaarder/sophies-world
+  text: More philosopher fanboying.
+- book: jo-walton/my-real-children
+  text: An outstanding Jo Walton book.
 review:
   date_read:
   - 2020-03-10

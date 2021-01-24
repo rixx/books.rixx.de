@@ -12,6 +12,15 @@ book:
   title: 'Das Dritte Reich: Geschichte einer Diktatur'
 plan:
   date_added: '2017-11-16'
+related_books:
+- book: gunther-mai/die-weimarer-republik
+  text: Die Zeit davor.
+- book: klaus-kordon/der-erste-fruhling
+  text: YA fiction about the end of this time.
+- book: primo-levi/if-this-is-a-man
+  text: Account of a KZ prisoner.
+- book: anne-frank/the-diary-of-a-young-girl
+  text: Account of a persecuted jewish girl.
 review:
   date_read:
   - 2018-02-10

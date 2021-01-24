@@ -13,6 +13,8 @@ plan:
 related_books:
 - book: marc-uwe-kling/die-kanguru-chroniken
   text: I'm not saying that Kling is the male version of Müller, but he's probably the closest I've read in German humour. (Yes, it's really not my genre.)
+- book: sarah-caudwell/thus-was-adonis-murdered
+  text: Similar narrative voice, different genre.
 review:
   date_read:
   - 2011-05-01

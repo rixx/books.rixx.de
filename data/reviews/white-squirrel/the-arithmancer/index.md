@@ -9,12 +9,16 @@ book:
   publication_year: '2015'
   source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
   spine_color: '#b39d8c'
+  series: The Arithmancer
+  series_position: '1'
   tags:
   - fanfic
-  title: 'The Arithmancer (Arithmancer, #1)'
+  title: 'The Arithmancer'
 plan:
   date_added: 2021-01-06
 related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The original.
 - book: white-squirrel/lady-archimedes
   text: The next book in the series
 review:

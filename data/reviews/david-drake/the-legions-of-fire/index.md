@@ -14,6 +14,9 @@ book:
   title: The Legions of Fire
 plan:
   date_added: 2020-07-21
+related_books:
+- book: robert-graves/i-claudius
+  text: More about Rome in that day.
 review:
   date_read:
   - 2020-07-20

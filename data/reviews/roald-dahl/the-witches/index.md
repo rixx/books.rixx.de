@@ -17,6 +17,8 @@ book:
 plan:
   date_added: '2015-08-04'
 related_books:
+- book: sarah-gailey/bread-and-milk-and-salt
+  text: Also about a witch and a boy. If you think Dahl is brutal, you're not prepared for Gailey.
 - book: roald-dahl/matilda
   text: Another cruel Dahl for children, but better in every way.
 review:

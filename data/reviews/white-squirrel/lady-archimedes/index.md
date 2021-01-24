@@ -9,6 +9,8 @@ book:
   publication_year: '2018'
   source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
   spine_color: '#9b7741'
+  series: The Arithmancer
+  series_position: '2'
   tags:
   - fanfic
   title: Lady Archimedes

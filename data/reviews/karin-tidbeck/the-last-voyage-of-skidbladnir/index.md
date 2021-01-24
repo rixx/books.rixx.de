@@ -11,12 +11,20 @@ book:
   tags:
   - scifi
   title: The Last Voyage of Skidbladnir
+  source: https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/
 plan:
   date_added: '2019-01-24'
+related_books:
+- book: nnedi-okorafor/binti
+  text: More big living ships.
+- book: octavia-e-butler/dawn
+  text: Alien aliens with living ships.
 review:
   date_read:
   - 2019-01-24
   rating: 2
 ---
 
-Even though I'm a fan of sentient ships: [The Last Voyage or Skidbladnir](<a target="_blank" href="https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/" rel="nofollow">https://www.tor.com/2019/01/14/karin-...</a>) is just an okay scifi short story – too predictable for my tastes, and the switch between concrete scenes and dream-like time skips feel unfinished. But the concept of sentient space ships is always a nice one.
+Even though I'm a fan of sentient ships:
+The Last Voyage or Skidbladnir
+is just an okay scifi short story – too predictable for my tastes, and the switch between concrete scenes and dream-like time skips feel unfinished. But the concept of sentient space ships is always a nice one.

@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: n-k-jemisin/the-city-born-great
+  text: Another explanation of the reproductive mechanisms of living cities.
 - book: terry-pratchett/soul-music
   text: The next Death book.
 - book: terry-pratchett/mort

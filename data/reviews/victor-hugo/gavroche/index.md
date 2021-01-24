@@ -11,6 +11,11 @@ book:
   title: Gavroche
 plan:
   date_added: '2020-04-12'
+related_books:
+- book: alexandre-dumas/the-count-of-monte-cristo
+  text: Old French survival stories both.
+- book: leo-tolstoy/anna-karenina
+  text: Also a tragic criticism of society at the same time.
 review:
   date_read:
   - 2020-04-12

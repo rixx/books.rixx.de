@@ -18,6 +18,9 @@ book:
   title: Thinking, Fast and Slow
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: w-timothy-gallwey/the-inner-game-of-tennis
+  text: Taught me more useful things than Kahneman. If you're into stupid terminology, both books have a System 1/2 thing.
 review:
   date_read:
   - 2018-05-29

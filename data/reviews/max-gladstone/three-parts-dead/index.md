@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2016-06-08'
 related_books:
+- book: robert-jackson-bennett/city-of-stairs
+  text: Another Fantasy world where dealing with civil servants and contracts can turn into dealings with gods.
 - book: max-gladstone/two-serpents-rise
   text: The next book in the series.
 review:

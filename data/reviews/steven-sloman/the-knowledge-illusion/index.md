@@ -20,6 +20,11 @@ book:
   title: 'The Knowledge Illusion: Why We Never Think Alone'
 plan:
   date_added: '2019-12-19'
+related_books:
+- book: meg-barker/rewriting-the-rules
+  text: You need other people to store knowledge, this is how you learn to deal with them.
+- book: steven-johnson/where-good-ideas-come-from
+  text: Knowledge and ideas need each other.
 review:
   date_read:
   - 2020-01-03

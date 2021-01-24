@@ -14,10 +14,17 @@ book:
   series: Montague Siblings
   series_position: '1'
   spine_color: '#95b89c'
-  tags: []
+  tags:
+  - historical-fiction
+  - queer
   title: The Gentleman's Guide to Vice and Virtue
 plan:
   date_added: '2018-11-03'
+related_books:
+- book: zen-cho/sorcerer-to-the-crown
+  text: Also about racism in Victorian Britain.
+- book: k-j-charles/the-magpie-lord
+  text: What's up with the 1800s queer romances? The Magpie Lord goes down a very similar road, not that I'm complaining.
 review:
   date_read:
   - 2019-12-09

@@ -18,6 +18,9 @@ book:
   title: Bring Me the Rhinoceros
 plan:
   date_added: 2020-06-14
+related_books:
+- book: lao-tzu/tao-te-ching
+  text: More zen.
 review:
   date_read:
   - 2020-06-21

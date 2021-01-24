@@ -14,6 +14,13 @@ book:
   title: The Dragon Waiting
 plan:
   date_added: 2020-07-31
+related_books:
+- book: tim-powers/the-drawing-of-the-dark
+  text: Well-researched historical fiction.
+- book: klabund-alfred-henschke/borgia
+  text: A bit of background on the ruling Italian families at the time.
+- book: sophia-mcdougall/romanitas
+  text: Another book where Rome never fell. Not nearly as good, though.
 review:
   date_read:
   - 2020-07-25

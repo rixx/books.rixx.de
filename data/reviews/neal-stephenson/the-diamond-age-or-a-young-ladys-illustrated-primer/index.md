@@ -18,6 +18,11 @@ book:
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:
   date_added: 2020-05-31
+related_books:
+- book: vernor-vinge/rainbows-end
+  text: Another take on futuristic education.
+- book: tom-standage/the-victorian-internet
+  text: Interesting contrast – how did Victorians really handle their technology?
 review:
   date_read:
   - 2020-05-31

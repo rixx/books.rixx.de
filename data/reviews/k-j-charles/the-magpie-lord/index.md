@@ -18,6 +18,11 @@ book:
   title: The Magpie Lord
 plan:
   date_added: 2020-06-24
+related_books:
+- book: mackenzi-lee/the-gentlemans-guide-to-vice-and-virtue
+  text: What's up with the 1800s queer romances? The Montague Siblings go down a very similar road, not that I'm complaining.
+- book: k-d-edwards/the-last-sun
+  text: More queer fantasy.
 review:
   date_read:
   - 2020-06-30
@@ -29,8 +34,6 @@ youngest exiled son of a lord returns to England after his father and brother di
 that led to their deaths. Luckily, he finds a strange but attractive young wizard blah blah blah, you see where this
 ends.  Very atmospheric, and a bit too well-written to deserve to be labeled as "enjoyable trash".
 
-What's up with the 1800s queer romances? The [Montague
-Siblings])(https://books.rixx.de/reviews/2019/the-gentlemans-guide-to-vice-and-virtue) goes down a very similar road,
-not that I'm complaining. There's a second part, and I'm pretty sure I'm going to read it.
+There's a second part, and I'm pretty sure I'm going to read it.
 
 Found [via the Oddly Specific Fantasy Recommendation Requests](https://www.reddit.com/r/Fantasy/comments/hazt57/oddly_specific_fantasy_recommendation_requests/fv6zou9/)

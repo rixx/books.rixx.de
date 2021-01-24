@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: kelly-barnhill/probably-still-the-chosen-one
+  text: An excellent take on portal fiction.
 - book: michael-ende/the-neverending-story
   text: If you have to fall into a fantasy world and learn some morality lessons,
     you might as well have fun.
@@ -36,6 +38,8 @@ related_books:
   text: Neil Gaiman's take on Susan.
 - book: philip-pullman/the-golden-compass
   text: If you like preachy books, but are cheering for the opposite position.
+- book: seanan-mcguire/every-heart-a-doorway
+  text: Commentary on portal fantasies.
 - book: c-s-lewis/prince-caspian
   text: The next book in the series.
 review:

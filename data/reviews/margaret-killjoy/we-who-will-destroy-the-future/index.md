@@ -8,13 +8,19 @@ book:
   spine_color: '#e0ba69'
   tags:
   - scifi
+  - time-travel
   title: We Who Will Destroy the Future
+  source: https://resonanceaudiodistro.org/we-who-will-destroy-the-future/
 plan:
   date_added: '2018-07-31'
+related_books:
+- book: amal-el-mohtar/this-is-how-you-lose-the-time-war
+  text: I'm sorry to do this, but this short story is literally about losing the time war.
 review:
   date_read:
   - 2018-07-31
   rating: 3
 ---
 
-We Who Will Destroy the Future is a nice little time travel short story, available at <a target="_blank" href="https://resonanceaudiodistro.org/we-who-will-destroy-the-future/" rel="nofollow">https://resonanceaudiodistro.org/we-w...</a>. Good story, good setting, very good narrator voice.
+We Who Will Destroy the Future is a nice little time travel short story, available online.
+Good story, good setting, very good narrator voice.

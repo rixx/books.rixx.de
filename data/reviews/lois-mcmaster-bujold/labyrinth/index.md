@@ -18,7 +18,7 @@ book:
 plan:
   date_added: '2018-11-26'
 related_books:
-- book: lois-mcmaster-bujold/brothers-in-arms
+- book: lois-mcmaster-bujold/the-mountains-of-mourning
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/the-borders-of-infinity
   text: The next book in the series.

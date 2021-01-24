@@ -19,13 +19,23 @@ book:
   title: A Fire Upon the Deep
 plan:
   date_added: '2016-05-08'
-related_books: []
+related_books:
+- book: peter-watts/blindsight
+  text: Excellent scifi with alien aliens.
+- book: vernor-vinge/rainbows-end
+  text: More, different Vinge!
 review:
   date_read:
   - 2019-03-03
   rating: 4
 ---
 
-A Fire Upon the Deep was very impressive scifi! The scope ranges across the complete universe, complete with medieval worlds, advanced civilisations, up to god-like transcended entities, their interactions, and wildly alien races. And at the same time, the story gets up close to humans and aliens alike, and lets the reader live epic events at a comprehendable scale.
+A Fire Upon the Deep was very impressive scifi! The scope ranges across the complete universe, complete with medieval
+worlds, advanced civilisations, up to god-like transcended entities, their interactions, and wildly alien races. And at
+the same time, the story gets up close to humans and aliens alike, and lets the reader live epic events at a
+comprehendable scale.
 
-I'm particularly a fan of the non-human, weird, different aliens. Relatable, well-thought-out, and with clever bits of history and culture, … wow. Bonus points for having humans, but not-really-Earth humans. Their mythic, Earth-similar world of medieval legends was a nice touch. The human protagonists tended to be a bit on the stupid side, particularly the kids, but not unreasonably so.
+I'm particularly a fan of the non-human, weird, different aliens. Relatable, well-thought-out, and with clever bits of
+history and culture, … wow. Bonus points for having humans, but not-really-Earth humans. Their mythic, Earth-similar
+world of medieval legends was a nice touch. The human protagonists tended to be a bit on the stupid side, particularly
+the kids, but not unreasonably so.

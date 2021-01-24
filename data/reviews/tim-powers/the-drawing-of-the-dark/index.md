@@ -18,6 +18,9 @@ book:
   title: The Drawing of the Dark
 plan:
   date_added: 2020-07-21
+related_books:
+- book: john-m-ford/the-dragon-waiting
+  text: Well-researched historical fiction.
 review:
   date_read:
   - 2020-07-21

@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: robert-jordan/the-eye-of-the-world
   text: The original.
+- book: rosemary-kirstein/the-steerswoman
+  text: A much better truth-seeker.
 review:
   date_read:
   - 2016-10-24

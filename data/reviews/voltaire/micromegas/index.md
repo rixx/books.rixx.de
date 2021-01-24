@@ -13,10 +13,16 @@ book:
   title: Micromegas
 plan:
   date_added: '2018-03-16'
+related_books:
+- book: rokeya-sakhawat-hossain/sultanas-dream
+  text: More early scifi. Similar vibe of discovering the genre.
+- book: ada-palmer/the-will-to-battle
+  text: The referencing book.
 review:
   date_read:
   - 2018-07-09
   rating: 4
 ---
 
-Throughly enjoyable and witty. It's mostly Ada Palmer's fault I read this, but this is definitely the earliest space-faring fiction I know about.
+Throughly enjoyable and witty. It's mostly Ada Palmer's fault I read this, but this is definitely the earliest
+space-faring fiction I know about.

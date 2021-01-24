@@ -12,6 +12,9 @@ book:
   title: 'SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys'
 plan:
   date_added: '2020-02-04'
+related_books:
+- book: linus-torvalds/just-for-fun
+  text: More cultural background, I guess?
 review:
   date_read:
   - 2020-02-05
@@ -41,4 +44,5 @@ social:
       https://books.rixx.de/reviews/2020/ssh-mastery-openssh-putty-tunnels-and-keys/'
 ---
 
-Well-written as usual. Teaches both implicit cultural knowledge and exciting obscure details in a structured, concise, and comprehensive way.
+Well-written as usual. Teaches both implicit cultural knowledge and exciting obscure details in a structured, concise,
+and comprehensive way.

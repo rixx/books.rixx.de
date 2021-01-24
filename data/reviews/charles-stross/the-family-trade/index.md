@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: v-e-schwab/a-darker-shade-of-magic
+  text: A fantasy take on the same premise.
 - book: terry-pratchett/making-money
   text: More econ fiction.
 - book: roger-zelazny/nine-princes-in-amber

@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: john-scalzi/the-god-engines
   text: Similar take on gods, but in space.
+- book: robert-jackson-bennett/city-of-stairs
+  text: Symbiotic relationships between gods and believers.
 - book: terry-pratchett/good-omens
   text: Terry Pratchett's other take on religion
 - book: terry-pratchett/witches-abroad

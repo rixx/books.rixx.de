@@ -21,6 +21,12 @@ related_books:
 - book: janet-kagan/hellspark
   text: Delightful linguistics sci-fi, also rapid and fun. More practical, but also
     more into linguistics. Do read!
+- book: china-mieville/embassytown
+  text: Alien linguistics!
+- book: samuel-r-delany/empire-star
+  text: The two are often published together.
+- book: samuel-r-delany/nova
+  text: More Delany space opera.
 review:
   date_read:
   - 2018-08-18

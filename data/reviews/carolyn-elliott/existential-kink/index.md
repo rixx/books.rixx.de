@@ -25,6 +25,10 @@ related_books:
 - book: aidan-wachter/weaving-fate
   text: Wachter has a technique that works like Elliott's Deepest Fear Inventory,
     only for desires.
+- book: tiffany-watt-smith/schadenfreude
+  text: A narrower take on only one of the emotions mentioned here.
+- book: robert-bly/a-little-book-on-the-human-shadow
+  text: A good grounding in what the Jungian shadow is.
 review:
   date_read:
   - 2020-07-17

@@ -29,6 +29,8 @@ related_books:
 - book: robin-hobb/assassins-apprentice
   text: Both Martin and Hobb don't think too well of their characters, only Martin
     punishes them with a short life and Hobb with a long one.
+- book: steven-erikson/gardens-of-the-moon
+  text: Complex and political Fantasy with brutal twists.
 review:
   date_read:
   - 2012-10-01

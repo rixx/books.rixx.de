@@ -21,8 +21,10 @@ book:
 plan:
   date_added: '2016-05-14'
 related_books:
-- book: scott-lynch/the-lies-of-locke-lamora
-  text: Sassy thieves.
+- book: charles-stross/the-family-trade
+  text: A scifi take on the same premise.
+- book: china-mieville/un-lun-dun
+  text: More magical parallel London.
 review:
   date_read:
   - 2020-07-18
@@ -40,7 +42,3 @@ protagonist just a bit too bumbling, the evil antagonists just a bit too evil â€
 stereotyped into their niches.
 
 It's not bad Fantasy by any means, but it didn't work for me.
-
-## Further Reading
-
-For parallel magical London: [Un Lun Dun](https://books.rixx.de/reviews/2020/un-lun-dun)

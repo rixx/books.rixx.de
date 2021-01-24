@@ -25,6 +25,8 @@ related_books:
   text: Another take on Out Of Context problems.
 - book: umberto-eco/the-name-of-the-rose
   text: Pretentious monks nerding out.
+- book: rosemary-kirstein/the-steerswoman
+  text: Another order dedicated to finding and keeping knowledge.
 review:
   date_read:
   - 2019-09-20

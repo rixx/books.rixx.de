@@ -20,6 +20,8 @@ related_books:
   text: Set in the same universe – if you want to know what happened on Mars triggered by Mark Watney. Love to see authors fanboying each other like that. [Proof](https://twitter.com/JamesSACorey/status/650382119449964544)
 - book: mary-robinette-kowal/the-calculating-stars
   text: "How to survive with limited means when disaster hits: world-wide edition."
+- book: michael-d-leinbach/bringing-columbia-home
+  text: "Nonfiction: An actual NASA catastrophe."
 - book: diane-duane/a-wizard-of-mars
   text: More Mars shenanigans, this time Fantasy.
 review:

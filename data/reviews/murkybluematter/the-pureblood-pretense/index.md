@@ -10,12 +10,15 @@ book:
   series: Rigel Black
   series_position: '1'
   spine_color: '#7c7267'
+  source: https://www.fanfiction.net/s/7613196/1/The-Pureblood-Pretense
   tags:
   - fanfic
   title: The Pureblood Pretense
 plan:
   date_added: '2019-02-01'
 related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The original.
 - book: murkybluematter/the-serpentine-subterfuge
   text: The next book in the series.
 review:

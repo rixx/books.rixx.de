@@ -13,9 +13,12 @@ book:
   tags:
   - fanfic
   title: A Study in Winning
+  source: https://archiveofourown.org/works/366788
 plan:
   date_added: '2020-02-23'
 related_books:
+- book: arthur-conan-doyle/sherlock-holmes
+  text: The original.
 - book: jupiterash/a-study-in-doubles
   text: The next part in the series.
 review:

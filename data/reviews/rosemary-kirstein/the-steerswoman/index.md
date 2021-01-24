@@ -22,6 +22,11 @@ review:
   tldr: I found my way back to real books, and what a relief! Excellent characters
     and worldbuilding, an eye for details, okay plot. Loved the mostly-female order
     of scientific truth seekers in a Fantasy world.
+related_books:
+- book: terry-goodkind/wizards-first-rule
+  text: A much worse truth-seeker.
+- book: neal-stephenson/anathem
+  text: Another order dedicated to finding and keeping knowledge.
 social:
   mastodon:
     datetime: 2020-07-10 03:50:19.414604
@@ -46,6 +51,9 @@ social:
       https://books.rixx.de/reviews/2020/the-steerswoman/'
 ---
 
-Gooood Fantasy! Highly likable characters, good world, good plot, excellent eye for detail. The concept of a mostly-female order/guild/group of scientifically minded truth seekers is very cool, and yet not overdone. Feels like Science Fantasy in a NK Jemisin way. Way to go on the emancipation side: women being equal to men is just a non-issue in all jobs (guards, merchants, sailors, etc).
+Gooood Fantasy! Highly likable characters, good world, good plot, excellent eye for detail. The concept of a
+mostly-female order/guild/group of scientifically minded truth seekers is very cool, and yet not overdone. Feels like
+Science Fantasy in a NK Jemisin way. Way to go on the emancipation side: women being equal to men is just a non-issue in
+all jobs (guards, merchants, sailors, etc).
 
 If I had read this a couple of years ago, I might have been less susceptible to HPMOR.

@@ -20,6 +20,10 @@ plan:
 related_books:
 - book: suzanne-collins/the-hunger-games
   text: More teenagers who have their whole life planned out for them in a dystopia.
+- book: margaret-atwood/the-handmaids-tale
+  text: Extremely similar book without the medical ick factor.
+- book: suzette-haden-elgin/native-tongue
+  text: Same, but with Xenolinguistics and flat characters.
 review:
   date_read:
   - 2020-01-25

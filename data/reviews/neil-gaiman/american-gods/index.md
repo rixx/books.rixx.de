@@ -32,6 +32,8 @@ related_books:
   text: The Russian version of gods and demons walking the earth.
 - book: terry-pratchett/good-omens
   text: Gaiman's less dramatic (more overly dramatic) take on modern gods.
+- book: scott-hawkins/the-library-at-mount-char
+  text: Both books about gods in modern America.
 review:
   date_read:
   - 2012-02-01

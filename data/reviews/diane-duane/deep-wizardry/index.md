@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2016-05-03'
 related_books:
+- book: peter-watts/starfish
+  text: If you like your deep ocean creepy.
 - book: diane-duane/so-you-want-to-be-a-wizard
   text: The previous book in the series.
 - book: diane-duane/high-wizardry
@@ -31,6 +33,10 @@ review:
   rating: 3
 ---
 
-I liked the first book in the series a bit more, although Duane does a lot of nice world-building here, both regarding the deep ocean and the whales, and Nita's family (Dairine, mom, and dad).
+I liked the first book in the series a bit more, although Duane does a lot of nice world-building here, both regarding
+the deep ocean and the whales, and Nita's family (Dairine, mom, and dad).
 
-While I was still fascinated with the world Duane builds, and the very poetic language she uses, I felt that she mostly re-used the first book's plot, relocating it to the ocean. It also got a bit too dramatic for me; since I didn't believe that Nita would actually have to die, the foreshadowing and plot was pretty clear. Then again, it's a book aimed at children, so I guess I can't really complain here.
+While I was still fascinated with the world Duane builds, and the very poetic language she uses, I felt that she mostly
+re-used the first book's plot, relocating it to the ocean. It also got a bit too dramatic for me; since I didn't believe
+that Nita would actually have to die, the foreshadowing and plot was pretty clear. Then again, it's a book aimed at
+children, so I guess I can't really complain here.

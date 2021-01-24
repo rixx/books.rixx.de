@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2019-10-05'
 related_books:
+- book: t-kingfisher/clockwork-boys
+  text: Both rich worlds with excellent character building.
 - book: diane-duane/the-door-into-shadow
   text: The next book in the series.
 - book: diane-duane/so-you-want-to-be-a-wizard
