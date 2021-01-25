@@ -12,10 +12,21 @@
     <div id="graph-sidebar">
         <div id="book-preview">
         </div>
+        <div id="book-route">
+            <h3>Find route</h3>
+            <div id="start-group">
+                <span id="start-name"></span>
+                <button id="start-delete">x</button>
+            </div>
+            <div id="end-group">
+                <span id="end-name"></span>
+                <button id="end-delete">x</button>
+            </div>
+            <div id="route-info"></div>
+        </div>
         <div id="graph-stats">
             <ul>
-                <li>{{ node_count }} books</li>
-                <li>{{ missing_nodes }} books missing</li>
+                <li>{{ node_count }} books ({% if missing_nodes %}{{ missing_nodes }}{% else %}none{% endif %} missing)</li>
                 <li>{{ edge_count }} connections</li>
                 {% if not is_connected %}
                     <li>{{ parts }} components</li>

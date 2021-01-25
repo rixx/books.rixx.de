@@ -5,10 +5,60 @@ let node = null
 let link = null
 let linkMap = {}
 
+let startNode = null
+let endNode = null
+let currentPath = null
+
 window.addEventListener("mouseup", e => isDragging = false)
+
+
+const redrawPath = () => {
+}
+
+
+const deletePath = () => {
+    currentPath = []
+    redrawPath()
+}
+
+const updatePath = () => {
+    redrawPath()
+}
+
+
+const setStart = (book) => {
+    if (!book) {
+        startNode = null
+        document.querySelector("#start-name").innerHTML = ""
+        document.querySelector("#start-delete").style.display = "none"
+        deletePath()
+    } else {
+        startNode = book
+        document.querySelector("#start-name").innerHTML = `${book.name} by ${book.author}`
+        document.querySelector("#start-delete").style.display = "inline-block"
+        updatePath()
+    }
+    document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
+}
+
+const setEnd = (book) => {
+    if (!book) {
+        endNode = null
+        document.querySelector("#end-name").innerHTML = ""
+        document.querySelector("#end-delete").style.display = "none"
+        deletePath()
+    } else {
+        endNode = book
+        document.querySelector("#end-name").innerHTML = `${book.name} by ${book.author}`
+        document.querySelector("#end-delete").style.display = "inline-block"
+        updatePath()
+    }
+    document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
+}
 
 const changeSidebarBook = (book) => {
     // create HTML
+    currentBook = book
     const div = document.createElement("div")
     div.id = "book-preview"
     div.classList.add("book-cover")
@@ -26,10 +76,17 @@ const changeSidebarBook = (book) => {
         const rating = "★".repeat(book.rating) + "☆".repeat(5 - book.rating)
         content += `<div class="rating">${rating}</div>`
     }
+    content += `
+        <div>
+            <button style="display: inline-block" id="set-current-as-start">Set start</button>
+            <button style="display: inline-block" id="set-current-as-end">Set end</button>
+        </div>`
     div.innerHTML = content
 
     const wrapper = document.querySelector("#graph-sidebar")
     wrapper.replaceChild(div, wrapper.querySelector("#book-preview"))
+    document.querySelector("#set-current-as-start").addEventListener("click", () => setStart(currentBook))
+    document.querySelector("#set-current-as-end").addEventListener("click", () => setEnd(currentBook))
 }
 
 const isConnected = (a, b) => {
@@ -182,8 +239,14 @@ d3.json("/graph.json").then(data => {
     }
     redraw()
     window.addEventListener("resize", redraw);
+    document.querySelector("#start-delete").addEventListener("click", () => setStart())
+    document.querySelector("#end-delete").addEventListener("click", () => setEnd())
+
     document.querySelector("input#graph-search").value = decodeURI(window.location.hash.substr(1))
+
     changeSearch()
+    setStart()
+    setEnd()
 })
 
 document.addEventListener('DOMContentLoaded', function() {
