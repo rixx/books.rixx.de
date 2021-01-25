@@ -29,6 +29,7 @@ const deletePath = () => {
     currentPath = null
     currentPathLinks = null
     changeGraphHighlight()
+    document.querySelector("#book-route h3").innerHTML = "Finding route …"
 }
 
 const updatePath = () => {
@@ -46,6 +47,9 @@ const updatePath = () => {
 
         })
         changeGraphHighlight()
+        document.querySelector("#book-route h3").innerHTML = `Route found: ${currentPathLinks.length} hops`
+    } else {
+        document.querySelector("#book-route h3").innerHTML = "Finding route …"
     }
 }
 
@@ -57,14 +61,19 @@ const setStart = (book) => {
         document.querySelector("#start-delete").style.display = "none"
         deletePath()
         updateHash({start: null})
+        if (endNode) {
+            document.querySelector("#book-route").style.display = "block"
+        } else {
+            document.querySelector("#book-route").style.display = "none"
+        }
     } else {
         startNode = book
         document.querySelector("#start-name").innerHTML = `${book.name} by ${book.author}`
         document.querySelector("#start-delete").style.display = "inline-block"
+        document.querySelector("#book-route").style.display = "block"
         updatePath()
         updateHash({start: book.id})
     }
-    document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
 }
 
 const setEnd = (book) => {
@@ -74,12 +83,18 @@ const setEnd = (book) => {
         document.querySelector("#end-delete").style.display = "none"
         deletePath()
         updateHash({end: null})
+        if (startNode) {
+            document.querySelector("#book-route").style.display = "block"
+        } else {
+            document.querySelector("#book-route").style.display = "none"
+        }
     } else {
         endNode = book
         document.querySelector("#end-name").innerHTML = `${book.name} by ${book.author}`
         document.querySelector("#end-delete").style.display = "inline-block"
         updatePath()
         updateHash({end: book.id})
+        document.querySelector("#book-route").style.display = "block"
     }
     document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
 }
