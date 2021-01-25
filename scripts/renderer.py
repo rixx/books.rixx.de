@@ -633,7 +633,11 @@ def build_site(**kwargs):
                     + review.metadata["book"]["author"].lower().split()
                     + review.metadata["book"].get("series", "").lower().split()
                     + [f"tag:{tag}" for tag in review.metadata["book"].get("tags", [])]
-                    + ([f"rating:{review.metadata['review'].get('rating')}"] if review.metadata['review'].get("rating") else [])
+                    + (
+                        [f"rating:{review.metadata['review'].get('rating')}"]
+                        if review.metadata["review"].get("rating")
+                        else []
+                    )
                     if term
                 ],
             }

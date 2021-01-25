@@ -126,7 +126,7 @@ def update_book_data(review):
     try:
         google_data = get_google_data(review.isbn)
         openlib_data = get_openlib_data(review.isbn)
-    except:
+    except Exception:
         return
 
     fix_publication_year(review, google_data, openlib_data)
@@ -136,6 +136,8 @@ def update_book_data(review):
 
 
 def normalize_series_height(books: list):
+    from .books import Spine
+
     heights = [
         book.metadata["book"].get("dimensions", {}).get("height") for book in books
     ]
@@ -219,7 +221,7 @@ def normalize_series_related_books(books: list):
 
 
 def normalize_series():
-    from .books import Spine, load_reviews, load_to_read
+    from .books import load_reviews, load_to_read
 
     reviews = list(load_reviews()) + list(load_to_read())
     by_series = defaultdict(list)
