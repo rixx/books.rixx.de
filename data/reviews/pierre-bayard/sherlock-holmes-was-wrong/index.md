@@ -13,11 +13,11 @@ book:
   publication_year: '2008'
   spine_color: '#ed4625'
   title: 'Sherlock Holmes Was Wrong: Reopening the Case of The Hound of the Baskervilles'
+plan:
+  date_added: '2019-07-17'
 related_books:
 - book: arthur-conan-doyle/sherlock-holmes
   text: The original.
-plan:
-  date_added: '2019-07-17'
 review:
   date_read:
   - 2019-07-20

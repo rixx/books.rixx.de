@@ -23,4 +23,5 @@ review:
   - 2018-12-01
   rating: 4
 ---
+
 Short story on sentient cities. I liked it.

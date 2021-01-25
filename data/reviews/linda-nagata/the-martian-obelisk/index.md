@@ -15,7 +15,8 @@ plan:
   date_added: '2018-08-02'
 related_books:
 - book: james-s-a-corey/leviathan-wakes
-  text: The later Expanse books do a good job of going into reduced population levels (on Mars and elsewhere).
+  text: The later Expanse books do a good job of going into reduced population levels
+    (on Mars and elsewhere).
 review:
   date_read:
   - 2018-08-02

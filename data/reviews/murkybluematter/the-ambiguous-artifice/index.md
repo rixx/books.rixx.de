@@ -9,8 +9,8 @@ book:
   publication_year: '2016'
   series: Rigel Black
   series_position: '3'
-  spine_color: '#8d6b44'
   source: https://www.fanfiction.net/s/10041727/1/The-Ambiguous-Artifice
+  spine_color: '#8d6b44'
   tags:
   - fanfic
   title: The Ambiguous Artifice

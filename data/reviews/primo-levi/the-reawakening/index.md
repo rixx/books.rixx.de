@@ -19,7 +19,8 @@ plan:
   date_added: '2020-04-15'
 related_books:
 - book: michael-ondaatje/the-english-patient
-  text: Both describe the surreal world in Europe and especially Italy after the end of WW2.
+  text: Both describe the surreal world in Europe and especially Italy after the end
+    of WW2.
 - book: primo-levi/if-this-is-a-man
   text: The first part.
 review:
@@ -49,5 +50,6 @@ social:
 
       https://books.rixx.de/primo-levi/the-reawakening/'
 ---
+
 Primo Levi's way home after the end of WW2, from Auschwitz to Italy. So matter-of-fact that it reads as deadpan when
 Europe consists only of remains and confusion.

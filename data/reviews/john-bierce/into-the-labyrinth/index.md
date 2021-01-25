@@ -21,9 +21,11 @@ plan:
   date_added: 2020-08-13
 related_books:
 - book: will-wight/unsouled
-  text: Start out as powerless, then work yourself up. Unsouled has exponential growth where Mage Errant stays linear.
+  text: Start out as powerless, then work yourself up. Unsouled has exponential growth
+    where Mage Errant stays linear.
 - book: brandon-sanderson/the-final-empire
-  text: Both have an author who possibly enjoys the magic system more than either characters or plot. Bierce at least likes worldbuilding as much as his magic system.
+  text: Both have an author who possibly enjoys the magic system more than either
+    characters or plot. Bierce at least likes worldbuilding as much as his magic system.
 - book: patrick-rothfuss/the-name-of-the-wind
   text: Similar schooling arc.
 - book: john-bierce/jewel-of-the-endless-erg

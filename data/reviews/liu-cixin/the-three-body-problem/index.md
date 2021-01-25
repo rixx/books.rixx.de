@@ -21,7 +21,8 @@ plan:
   date_added: '2018-02-13'
 related_books:
 - book: neal-stephenson/anathem
-  text: Both books talk at least partially about the same thing, though they take very different routes in getting there.
+  text: Both books talk at least partially about the same thing, though they take
+    very different routes in getting there.
 - book: liu-cixin/the-dark-forest
   text: The next book in the series.
 review:

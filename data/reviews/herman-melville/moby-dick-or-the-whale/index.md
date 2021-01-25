@@ -17,10 +17,12 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: daniel-defoe/robinson-crusoe
-  text: Old-timer adventure story, also fairly hard to read. (Yes, I know that there are centuries in between.)
+  text: Old-timer adventure story, also fairly hard to read. (Yes, I know that there
+    are centuries in between.)
 review:
   date_read:
   - 2006-12-01
   rating: 2
 ---
+
 Hard to read. Hard to like. Not my kind of thing.

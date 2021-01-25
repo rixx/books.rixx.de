@@ -30,6 +30,7 @@ review:
   - 2010-02-01
   rating: 4
 ---
+
 Story time: My mother read 1984 as a teenager, in the German Democratic Republic. It was, of course, forbidden there, so
 it was passed around illegally, in hand-typed copies. You usually only had one chapter at a time, and not necessarily in
 the correct order. When I read it for the first time, she told me all that, and added as an aside: "You know, I've never

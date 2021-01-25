@@ -27,7 +27,8 @@ related_books:
 - book: china-mieville/the-scar
   text: The next book in the series.
 - book: china-mieville/embassytown
-  text: Some authors can't manage a world like this *once* in their life. Miéville managed many.
+  text: Some authors can't manage a world like this *once* in their life. Miéville
+    managed many.
 review:
   date_read:
   - 2018-06-19

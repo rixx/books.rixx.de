@@ -22,9 +22,11 @@ related_books:
 - book: neil-gaiman/american-gods
   text: Both books about gods in modern America.
 - book: lev-grossman/the-magicians
-  text: Unpleasant young adults in a brutal modern America have to deal with magic and cruelty.
+  text: Unpleasant young adults in a brutal modern America have to deal with magic
+    and cruelty.
 - book: max-barry/lexicon
-  text: A young woman has to use her supernaturally good language skills in a life-or-death struggle.
+  text: A young woman has to use her supernaturally good language skills in a life-or-death
+    struggle.
 review:
   date_read:
   - 2019-04-09

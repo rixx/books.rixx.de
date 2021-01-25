@@ -7,8 +7,8 @@ book:
   isbn13: '9780451144249'
   pages: '278'
   publication_year: '1971'
-  spine_color: '#f8efb8'
   source: http://classes.dma.ucla.edu/Fall10/157A/wp-content/uploads/timeDelany_01.pdf
+  spine_color: '#f8efb8'
   tags:
   - five-stars
   - scifi

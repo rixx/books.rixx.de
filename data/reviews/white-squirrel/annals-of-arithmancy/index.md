@@ -2,23 +2,27 @@
 book:
   author: White Squirrel
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537099665l/41842314.jpg
+  dimensions:
+    height: 16
   goodreads: '41842314'
   isbn10: null
   isbn13: null
   pages: '496'
   publication_year: null
+  series: The Arithmancer
+  series_position: '3'
   source: https://www.fanfiction.net/s/13001252/1/Annals-of-Arithmancy
   spine_color: '#2f335a'
   tags:
   - fanfic
   title: Annals of Arithmancy
-  series: The Arithmancer
-  series_position: '3'
 plan:
   date_added: 2021-01-07
 related_books:
 - book: white-squirrel/lady-archimedes
   text: The previous book in the series.
+- book: white-squirrel/the-arithmancer
+  text: The first book in the series.
 review:
   date_read:
   - 2021-01-05

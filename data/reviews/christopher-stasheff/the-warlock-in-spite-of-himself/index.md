@@ -19,15 +19,15 @@ book:
   title: The Warlock in Spite of Himself
 plan:
   date_added: '2020-02-20'
+related_books:
+- book: terry-goodkind/wizards-first-rule
+  text: More terrible old Fantasy.
 review:
   date_read:
   - 2020-02-20
   rating: 2
   tldr: Really good setting. That's it, that was the good part. Apart from that, strong
     60s sexism, blatant propaganda, self-insert hero. Not my kind of thing.
-related_books:
-- book: terry-goodkind/wizards-first-rule
-  text: More terrible old Fantasy.
 social:
   mastodon:
     datetime: 2020-07-02 16:23:26.132974

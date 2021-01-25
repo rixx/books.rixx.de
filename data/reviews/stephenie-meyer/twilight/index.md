@@ -19,7 +19,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: suzanne-collins/the-hunger-games
-  text: The other book vying for teenagers at the time. You usually were into one or the other.
+  text: The other book vying for teenagers at the time. You usually were into one
+    or the other.
 - book: cassandra-clare/city-of-bones
   text: YA fantasy at a similar level.
 - book: patricia-briggs/blood-bound

@@ -31,4 +31,5 @@ review:
   - 2010-05-01
   rating: 3
 ---
+
 Prototypical moping guy kills himself. Very tragic.

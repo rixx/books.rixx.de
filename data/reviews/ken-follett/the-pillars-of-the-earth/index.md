@@ -17,7 +17,8 @@ related_books:
 - book: umberto-eco/the-name-of-the-rose
   text: Medieval fiction that goes to similar lengths to fanboy about church architecture.
 - book: noah-gordon/the-physician
-  text: Working with stones or with people – either way it's a dive into medieval Europe and even the British Isles.
+  text: Working with stones or with people – either way it's a dive into medieval
+    Europe and even the British Isles.
 review:
   date_read:
   - 2017-06-30

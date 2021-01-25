@@ -21,7 +21,8 @@ plan:
   date_added: '2019-05-31'
 related_books:
 - book: max-gladstone/three-parts-dead
-  text: Another Fantasy world where dealing with civil servants and contracts can turn into dealings with gods.
+  text: Another Fantasy world where dealing with civil servants and contracts can
+    turn into dealings with gods.
 - book: seth-dickinson/the-traitor-baru-cormorant
   text: Government agents with divided loyalties having to make brutal decisions.
 - book: n-k-jemisin/the-hundred-thousand-kingdoms
@@ -29,7 +30,8 @@ related_books:
 - book: terry-pratchett/small-gods
   text: Symbiotic relationships between gods and believers.
 - book: terry-pratchett/monstrous-regiment
-  text: Another god going insane and making up inhuman rules that everybody goes along with.
+  text: Another god going insane and making up inhuman rules that everybody goes along
+    with.
 review:
   date_read:
   - 2020-05-08

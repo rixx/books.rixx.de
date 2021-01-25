@@ -30,6 +30,7 @@ review:
   - 2013-11-01
   rating: 3
 ---
+
 Solaris is creepy, but in a good way. One of the relatively few earlier scifi books that spoke to me. A bit too
 kafkaesque for my taste, maybe, but good execution nevertheless. The foggy planet is creepy even before it starts doing
 things.

@@ -26,6 +26,7 @@ review:
   - 2004-11-01
   rating: 2
 ---
+
 Pala is a book about language, about literature, about poetry – and yet, I didn't really like it. Maybe it's that I had
 high expectations from Franz Fühmann's masterwork, or that it just felt like it was trying too hard. Whatever it was,
 despite all the reasons I should love it, I don't.

@@ -27,6 +27,7 @@ review:
   - 2004-07-01
   rating: 4
 ---
+
 The one and only classic pirate adventure. Much better than I would have thought, given that famous and classic stories
 often were good at the time and then remained unreasonably popular. But no, Treasure Island got to me. To be fair, I was
 a eleven year old boy, so it was written for me with little way to fail, but still: I couldn't put this book down.

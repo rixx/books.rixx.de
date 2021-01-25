@@ -27,6 +27,7 @@ review:
   - 2010-10-01
   rating: 4
 ---
+
 For years I've been meaning to re-read this book, because it has made a lasting impression – but like a dream, I can
 only talk about the feelings and some snapshots I remember. I still look back to these scenes, but I lack both the
 context and the will to re-read it.

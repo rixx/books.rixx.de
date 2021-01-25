@@ -7,9 +7,9 @@ book:
   isbn13: '9780765396013'
   pages: '34'
   publication_year: '2017'
+  source: https://www.tor.com/2017/10/04/crispins-model/
   spine_color: '#857045'
   title: Crispin's Model
-  source: https://www.tor.com/2017/10/04/crispins-model/
 plan:
   date_added: '2018-08-02'
 related_books:

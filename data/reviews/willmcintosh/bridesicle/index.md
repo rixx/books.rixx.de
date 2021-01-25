@@ -4,10 +4,10 @@ book:
   goodreads: '18006038'
   pages: '11'
   publication_year: '2009'
+  source: http://will.tip.dhappy.org/blog/Profit-Donation%20Funding/.../book/by/Will%20McIntosh/Bridesicle/Will%20McIntosh%20-%20Bridesicle.html
   tags:
   - scifi
   title: Bridesicle
-  source: http://will.tip.dhappy.org/blog/Profit-Donation%20Funding/.../book/by/Will%20McIntosh/Bridesicle/Will%20McIntosh%20-%20Bridesicle.html
 plan:
   date_added: '2019-04-22'
 related_books:

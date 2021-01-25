@@ -30,5 +30,6 @@ review:
   - 2010-01-01
   rating: 4
 ---
+
 Russian Urban Fantasy. Amazing – the characters were alright, but the world building was excellent and the plot was at
 least above average. I enjoyed the whole series a lot, and the 90s Russia vibes were impressive.

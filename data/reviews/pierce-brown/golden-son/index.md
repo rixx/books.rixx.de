@@ -19,6 +19,9 @@ book:
   title: Golden Son
 plan:
   date_added: '2016-05-14'
+related_books:
+- book: pierce-brown/red-rising
+  text: The previous book in the series.
 review:
   date_read:
   - 2018-08-07

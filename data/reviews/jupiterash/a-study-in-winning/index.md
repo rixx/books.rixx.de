@@ -9,11 +9,11 @@ book:
   publication_year: '2012'
   series: Tennis
   series_position: '1'
+  source: https://archiveofourown.org/works/366788
   spine_color: '#067430'
   tags:
   - fanfic
   title: A Study in Winning
-  source: https://archiveofourown.org/works/366788
 plan:
   date_added: '2020-02-23'
 related_books:

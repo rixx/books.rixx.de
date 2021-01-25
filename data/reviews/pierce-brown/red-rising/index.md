@@ -2,6 +2,8 @@
 book:
   author: Pierce Brown
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780345539786-L.jpg
+  dimensions:
+    height: 25.0
   goodreads: '15839976'
   isbn10: 0345539788
   isbn13: '9780345539786'
@@ -22,6 +24,8 @@ related_books:
   text: More dystopian teenagers trying to kill one another.
 - book: aldous-huxley/brave-new-world
   text: More caste systems.
+- book: pierce-brown/golden-son
+  text: The next book in the series.
 review:
   date_read:
   - 2017-07-13

@@ -27,6 +27,7 @@ review:
   - 2012-07-23
   rating: 3
 ---
+
 Umberto Eco is a show-off. He goes all in on being a show-off, and he doesn't mind being pretentious and shoving obscure
 references down your throat either. As all nerds, once he gets going, he's unlikely to stop any time soon, so his books
 are long-winded and stuffed with references upon references. This can be obnoxious.

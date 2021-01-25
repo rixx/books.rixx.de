@@ -21,7 +21,10 @@ plan:
   date_added: '2018-09-30'
 related_books:
 - book: a-a-milne/winnie-the-pooh
-  text: "[Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html), Graves had a long-standing correspondence with Alexander Lenard in Latin – in character for both of them! For more of Lenard, see his beautifully nerdy Latin Winnie ille Pu."
+  text: '[Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html),
+    Graves had a long-standing correspondence with Alexander Lenard in Latin – in
+    character for both of them! For more of Lenard, see his beautifully nerdy Latin
+    Winnie ille Pu.'
 - book: jo-walton/among-others
   text: The book that got me to read this one.
 - book: david-drake/the-legions-of-fire

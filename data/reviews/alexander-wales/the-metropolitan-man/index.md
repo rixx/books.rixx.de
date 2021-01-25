@@ -5,11 +5,11 @@ book:
   goodreads: '22872436'
   pages: '241'
   publication_year: '2014'
+  source: https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man
   spine_color: '#b1b1b1'
   tags:
   - fanfic
   title: The Metropolitan Man
-  source: https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man
 plan:
   date_added: '2018-03-06'
 related_books:

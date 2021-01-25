@@ -5,10 +5,10 @@ book:
   isbn10: '9998070015'
   isbn13: '9789998070011'
   publication_year: '1958'
+  source: https://urbigenous.net/library/power.html
   tags:
   - scifi
   title: The Feeling of Power
-  source: https://urbigenous.net/library/power.html
 plan:
   date_added: '2018-07-15'
 related_books:

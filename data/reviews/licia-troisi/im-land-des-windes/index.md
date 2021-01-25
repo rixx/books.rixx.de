@@ -22,7 +22,8 @@ plan:
   date_added: '2015-07-03'
 related_books:
 - book: tamsyn-muir/gideon-the-ninth
-  text: Angry young woman turns resentful fighter forced to find out she still has feelings.
+  text: Angry young woman turns resentful fighter forced to find out she still has
+    feelings.
 - book: christopher-paolini/eragon
   text: Even more dragons.
 - book: john-flanagan/the-ruins-of-gorlan

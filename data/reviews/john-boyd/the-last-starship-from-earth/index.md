@@ -19,7 +19,8 @@ related_books:
 - book: douglas-adams/dirk-gentlys-holistic-detective-agency
   text: If you liked the mechanical pope, you might also like the electric monk.
 - book: aldous-huxley/brave-new-world
-  text: This book has a very strong caste system – more American and recognisable, but still very dystopian. All caste systems come from Huxley.
+  text: This book has a very strong caste system – more American and recognisable,
+    but still very dystopian. All caste systems come from Huxley.
 - book: george-orwell/1984
   text: More 24/7 secret police with informants and a tight grip on all publications.
 review:

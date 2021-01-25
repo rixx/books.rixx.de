@@ -26,4 +26,5 @@ review:
   - 2016-01-01
   rating: 3
 ---
+
 Who doesn't like Greek myths coming to life before their eyes? Well, apart from the somewhat unlucky protagonist.

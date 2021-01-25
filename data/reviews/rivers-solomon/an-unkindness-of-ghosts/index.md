@@ -21,9 +21,11 @@ related_books:
 - book: sarah-pinsker/wind-will-rove
   text: More multi generational spaceships!
 - book: hugh-howey/wool-omnibus
-  text: Multi-level ship with level-based hierarchy meets multi-level silo with level-based hierarchy.
+  text: Multi-level ship with level-based hierarchy meets multi-level silo with level-based
+    hierarchy.
 - book: octavia-e-butler/parable-of-the-sower
-  text: Fighting against being dehumanized in a cruel class-based society on the brink of disaster.
+  text: Fighting against being dehumanized in a cruel class-based society on the brink
+    of disaster.
 review:
   date_read:
   - 2018-10-18

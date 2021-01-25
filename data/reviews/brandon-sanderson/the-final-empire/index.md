@@ -29,7 +29,8 @@ related_books:
 - book: robert-jackson-bennett/foundryside
   text: Similarly technical magic systems.
 - book: john-bierce/into-the-labyrinth
-  text: Both have an author who possibly enjoys the magic system and worldbuilding more than either characters or plot.
+  text: Both have an author who possibly enjoys the magic system and worldbuilding
+    more than either characters or plot.
 review:
   date_read:
   - 2019-02-22

@@ -19,7 +19,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: franz-kafka/the-trial
-  text: The Trial feels closest to Kafka's shorter fiction, as it's more coherent and less horrifying than the rest.
+  text: The Trial feels closest to Kafka's shorter fiction, as it's more coherent
+    and less horrifying than the rest.
 - book: friedrich-durrenmatt/the-visit
   text: Dürrenmatt at his bleakest always reminds me of Kafka at his warmest.
 review:
@@ -27,5 +28,6 @@ review:
   - 2009-04-01
   rating: 3
 ---
+
 Kafka's short stories are no less depressing than his longer works, but I found them a bit more bearable, and even
 enjoyable on occasion. They don't induce a spiralling depression, and have some very neat images and concepts.

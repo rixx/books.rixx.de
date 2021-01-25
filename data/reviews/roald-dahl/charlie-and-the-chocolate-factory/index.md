@@ -19,5 +19,6 @@ review:
   - 2006-08-01
   rating: 2
 ---
+
 Disobedient children are punished. But this is not a lame traditionally cautionary tale, no: It's a dark edgy
 traditional cautionary tale.

@@ -17,7 +17,8 @@ related_books:
 - book: charles-dickens/david-copperfield
   text: Dickens Himself.
 - book: robert-louis-stevenson/the-strange-case-of-dr-jekyll-and-mr-hyde
-  text: Despite Dickens featuring in the book, I was more reminded of Stevenson in terms of vibe.
+  text: Despite Dickens featuring in the book, I was more reminded of Stevenson in
+    terms of vibe.
 - book: terry-pratchett/nation
   text: Pratchett's other Victorian book.
 review:

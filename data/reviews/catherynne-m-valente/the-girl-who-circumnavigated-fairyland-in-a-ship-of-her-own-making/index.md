@@ -20,11 +20,13 @@ related_books:
 - book: terry-pratchett/the-wee-free-men
   text: My favourite heroine venturing into fairyland.
 - book: neil-gaiman/coraline
-  text: For more heroines adventuring into fantastic worlds – though this one is more brutal.
+  text: For more heroines adventuring into fantastic worlds – though this one is more
+    brutal.
 - book: neil-gaiman/stardust
   text: Modern fairytales both.
 - book: lewis-carroll/alice-in-wonderland
-  text: Superficially, the original little girl in absurd fantasy land portal fantasy, but these books have nothing in common at heart.
+  text: Superficially, the original little girl in absurd fantasy land portal fantasy,
+    but these books have nothing in common at heart.
 - book: seanan-mcguire/every-heart-a-doorway
   text: More portal fantasy (slightly meta).
 review:

@@ -4,21 +4,21 @@ book:
   goodreads: '41018921'
   pages: '5'
   publication_year: '2017'
-  title: Ars Longa, Vita Brevis
+  source: https://slatestarcodex.com/2017/11/09/ars-longa-vita-brevis/
   tags:
   - learning-the-arts
-  source: https://slatestarcodex.com/2017/11/09/ars-longa-vita-brevis/
+  title: Ars Longa, Vita Brevis
 plan:
   date_added: '2019-09-20'
-review:
-  date_read:
-  - 2019-09-20
-  rating: 2
 related_books:
 - book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
   text: The big rational fic.
 - book: scott-alexander/it-was-you-who-made-my-blue-eyes-blue
   text: Another Scott Alexander.
+review:
+  date_read:
+  - 2019-09-20
+  rating: 2
 ---
 
 What is it with rationalist fiction and that stilted style? Can't people make an argument without sounding like badly

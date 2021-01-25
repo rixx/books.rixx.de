@@ -19,7 +19,8 @@ related_books:
   text: Also current-time grey morality magic school in a depressing and grim world,
     Narnia edition
 - book: scott-hawkins/the-library-at-mount-char
-  text: A young woman has to use her supernaturally good language skills in a life-or-death struggle.
+  text: A young woman has to use her supernaturally good language skills in a life-or-death
+    struggle.
 review:
   date_read:
   - 2020-08-21

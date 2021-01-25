@@ -12,12 +12,6 @@ book:
   title: 'Complex PTSD: From Surviving to Thriving'
 plan:
   date_added: '2020-02-16'
-review:
-  date_read:
-  - 2020-02-16
-  rating: 2
-  tldr: Says a lot of true things. Not immediately useful for me, but still recommended
-    if you want to learn about cPTSD/PTSD/trauma.
 related_books:
 - book: eugene-t-gendlin/focusing
   text: A better fit for me.
@@ -27,6 +21,12 @@ related_books:
   text: Contains a vivid description of PTSD.
 - book: alice-miller-ruth-ward/the-drama-of-the-gifted-child
   text: An other take on early childhood and invisible neglect.
+review:
+  date_read:
+  - 2020-02-16
+  rating: 2
+  tldr: Says a lot of true things. Not immediately useful for me, but still recommended
+    if you want to learn about cPTSD/PTSD/trauma.
 social:
   mastodon:
     datetime: 2020-07-02 10:44:59.229079

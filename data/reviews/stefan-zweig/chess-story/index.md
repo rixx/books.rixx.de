@@ -25,5 +25,6 @@ review:
   - 2007-06-01
   rating: 3
 ---
+
 Mandatory reading in many German schools. Not all that exciting a read, unless you are into chess or the art for of the
 novella tackling the rise of fascism and the cost of obsession.

@@ -24,7 +24,8 @@ related_books:
 - book: frank-herbert/dune
   text: Epic complex philosophical scifi-masterworks that I could not get into.
 - book: gene-wolfe/the-shadow-of-the-torturer
-  text: Another scifi-classic that I just don't appreciate. People seem to think the two are linked.
+  text: Another scifi-classic that I just don't appreciate. People seem to think the
+    two are linked.
 review:
   date_read:
   - 2018-11-16

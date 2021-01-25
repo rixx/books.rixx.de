@@ -18,7 +18,7 @@ plan:
   date_added: 2020-06-14
 related_books:
 - book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
-  text: "Americans vs Brits: The American entry"
+  text: 'Americans vs Brits: The American entry'
 review:
   date_read:
   - 2020-06-13

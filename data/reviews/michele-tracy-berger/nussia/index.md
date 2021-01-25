@@ -5,11 +5,11 @@ book:
   goodreads: '40602716'
   isbn13: '9781942302735'
   publication_year: '2018'
+  source: https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html
   spine_color: '#beafae'
   tags:
   - scifi
   title: Nussia
-  source: https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html
 plan:
   date_added: '2019-01-14'
 related_books:

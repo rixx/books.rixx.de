@@ -22,6 +22,7 @@ review:
   - 2006-04-01
   rating: 2
 ---
+
 Similar to Sophie's World, a teenager is dragged into a mysterious philosophy course – this time accompanied by a
 journey. There's a mysterious dwarf and a tiny book that preaches at us, because that's how Jostein Gaarder rolls. It's
 exactly what you'd expect if you know any of his books.

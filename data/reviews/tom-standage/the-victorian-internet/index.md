@@ -17,13 +17,13 @@ book:
   - nonfiction
   - tech
   title: The Victorian Internet
+plan:
+  date_added: '2019-05-16'
 related_books:
 - book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
   text: Interesting contrast – futuristic techno-Victorians.
 - book: terry-pratchett/going-postal
   text: Excellent fictional version of the early telegraph.
-plan:
-  date_added: '2019-05-16'
 review:
   date_read:
   - 2019-05-24

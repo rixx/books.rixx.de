@@ -18,14 +18,14 @@ book:
   title: 'How to Solve It: A New Aspect of Mathematical Method'
 plan:
   date_added: '2020-03-31'
+related_books:
+- book: richard-p-feynman/surely-youre-joking-mr-feynman
+  text: Autobiographical account of intuitive solutions.
 review:
   date_read:
   - 2020-03-31
   rating: 3
   tldr: Good first 10%, and then more good advice hidden among neverending examples.
-related_books:
-- book: richard-p-feynman/surely-youre-joking-mr-feynman
-  text: Autobiographical account of intuitive solutions.
 social:
   mastodon:
     datetime: 2020-08-12 00:41:51.240316

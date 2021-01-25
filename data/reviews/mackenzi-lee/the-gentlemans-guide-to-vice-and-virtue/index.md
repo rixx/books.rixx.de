@@ -24,7 +24,8 @@ related_books:
 - book: zen-cho/sorcerer-to-the-crown
   text: Also about racism in Victorian Britain.
 - book: k-j-charles/the-magpie-lord
-  text: What's up with the 1800s queer romances? The Magpie Lord goes down a very similar road, not that I'm complaining.
+  text: What's up with the 1800s queer romances? The Magpie Lord goes down a very
+    similar road, not that I'm complaining.
 review:
   date_read:
   - 2019-12-09

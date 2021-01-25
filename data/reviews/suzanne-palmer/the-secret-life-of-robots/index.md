@@ -7,11 +7,11 @@ book:
   goodreads: '36165705'
   pages: '142'
   publication_year: '2017'
+  source: http://clarkesworldmagazine.com/palmer_09_17/
   spine_color: '#d6a57b'
   tags:
   - scifi
   title: Clarkesworld Magazine, Issue 132
-  source: http://clarkesworldmagazine.com/palmer_09_17/
 plan:
   date_added: '2018-08-09'
 related_books:

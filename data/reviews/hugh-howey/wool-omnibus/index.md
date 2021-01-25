@@ -17,7 +17,8 @@ related_books:
 - book: licia-troisi/im-land-des-windes
   text: The Fantasy take on tower cities.
 - book: rivers-solomon/an-unkindness-of-ghosts
-  text: Multi-level ship with level-based hierarchy meets multi-level silo with level-based hierarchy.
+  text: Multi-level ship with level-based hierarchy meets multi-level silo with level-based
+    hierarchy.
 review:
   date_read:
   - 2019-01-23

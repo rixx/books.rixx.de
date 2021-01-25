@@ -11,13 +11,13 @@ book:
   tags:
   - nonfiction
   title: On the Manner of Negotiating with Princes
+plan:
+  date_added: '2019-12-02'
 related_books:
 - book: richard-s-gallagher/the-customer-service-survival-kit
   text: A modern version.
 - book: alexandre-dumas/the-count-of-monte-cristo
   text: Do these courtly gestures remind you of anybody?
-plan:
-  date_added: '2019-12-02'
 review:
   date_read:
   - 2019-12-19

@@ -10,9 +10,9 @@ book:
   series: Hilary Tamar
   series_position: '1'
   spine_color: '#894252'
-  title: Thus Was Adonis Murdered
   tags:
   - mystery
+  title: Thus Was Adonis Murdered
 plan:
   date_added: '2019-12-16'
 related_books:

@@ -25,7 +25,8 @@ related_books:
 - book: mark-twain/the-awful-german-language
   text: Another look at a second language closely related to English.
 - book: richard-s-gallagher/the-customer-service-survival-kit
-  text: Combining these two books into a style guide for appropriate communication would be interesting.
+  text: Combining these two books into a style guide for appropriate communication
+    would be interesting.
 - book: jon-ronson/so-youve-been-publicly-shamed
   text: A look at what happens when the internet overreacts. Again.
 review:

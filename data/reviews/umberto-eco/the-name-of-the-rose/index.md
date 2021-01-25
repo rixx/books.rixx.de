@@ -23,7 +23,8 @@ related_books:
 - book: neal-stephenson/anathem
   text: Pretentious monks nerding out.
 - book: walter-moers/the-city-of-dreaming-books
-  text: Another book for book lovers, though less pretentious. And less medieval. And completely different in every way.
+  text: Another book for book lovers, though less pretentious. And less medieval.
+    And completely different in every way.
 - book: umberto-eco/foucaults-pendulum
   text: More Eco shenanigans, but not medieval this time.
 - book: arthur-conan-doyle/sherlock-holmes
@@ -35,6 +36,7 @@ review:
   - 2004-04-01
   rating: 5
 ---
+
 Medieval monks? Thinly disguised opportunities to lecture the reader about history and theology? Showing off your
 knowledge of obscure and less obscure references? It might sound obnoxious, but Eco is obviously just a giant nerd and
 is having fun, and I fell for his joy more than anything. Though I do love monasteries and medieval backgrounds and

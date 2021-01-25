@@ -32,6 +32,7 @@ review:
   - 2008-12-01
   rating: 4
 ---
+
 Autobiographical memories of Zweig's youth in Austrian empire Vienna, as an intellectual jew. Balancing on the line
 between "elegant" and "overly flowery", late-life Zweig had surprisingly turned into a fan of the monarchy. He's busy
 romanticising the past, but he does it so well that I can't be mad at him.

@@ -15,7 +15,8 @@ plan:
   date_added: '2019-11-20'
 related_books:
 - book: primo-levi/the-reawakening
-  text: Both describe the surreal world in Europe and especially Italy after the end of WW2.
+  text: Both describe the surreal world in Europe and especially Italy after the end
+    of WW2.
 review:
   date_read:
   - 2019-11-20

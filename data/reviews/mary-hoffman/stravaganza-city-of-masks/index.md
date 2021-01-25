@@ -17,7 +17,7 @@ book:
   tags:
   - fantasy
   - ya
-  title: "Stravaganza: City of Masks"
+  title: 'Stravaganza: City of Masks'
 plan:
   date_added: '2015-08-06'
 related_books:
@@ -32,5 +32,6 @@ review:
   - 2007-09-01
   rating: 2
 ---
+
 Intrigue in magical Venice that our protagonist can dream himself into. Not terrible, not great. I liked the premise
 more than the execution.

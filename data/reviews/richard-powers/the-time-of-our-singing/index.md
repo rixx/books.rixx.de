@@ -14,7 +14,8 @@ plan:
   date_added: '2015-04-09'
 related_books:
 - book: ken-follett/the-pillars-of-the-earth
-  text: Follett is in love with his architecture the way Powers is in love with his music.
+  text: Follett is in love with his architecture the way Powers is in love with his
+    music.
 - book: patrick-suskind/perfume
   text: What Suskind does for smelling, Powers does for singing.
 review:
@@ -22,6 +23,7 @@ review:
   - 2007-01-01
   rating: 3
 ---
+
 This book made me dream, and made me miss singing. I loved it intensely - half of it. The other half was overly
 dramatic, overwrought, and more in love with its own understanding of music than with having any sort of plot or
 tension. Sadly, the two halves are completely woven together, so you have to take one to get the other. I found the read

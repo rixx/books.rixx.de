@@ -21,7 +21,8 @@ plan:
   date_added: '2016-05-08'
 related_books:
 - book: diana-wynne-jones/dark-lord-of-derkholm
-  text: Derkholm has a very similar vibe of matter-of-fact magic, with wizards and beasts living an everyday life.
+  text: Derkholm has a very similar vibe of matter-of-fact magic, with wizards and
+    beasts living an everyday life.
 - book: cornelia-funke/dragon-rider
   text: Very similar attitude towards dragons, if less fun.
 - book: charles-stross/the-atrocity-archives

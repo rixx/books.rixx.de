@@ -16,11 +16,14 @@ related_books:
   text: Absurd interactions with fantastical creatures in a dream-like world?  Sometimes
     scary and sometimes hilarious? Right this way.
 - book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
-  text: Superficially similar, but at the heart the two have little in common. For one, Alice would never follow a quest.
+  text: Superficially similar, but at the heart the two have little in common. For
+    one, Alice would never follow a quest.
 - book: seanan-mcguire/every-heart-a-doorway
-  text: Also superficially similar portal fantasy, but not at all the same – Alice is much trippier.
+  text: Also superficially similar portal fantasy, but not at all the same – Alice
+    is much trippier.
 - book: samuel-beckett/waiting-for-godot
-  text: If you don't care for the trippy part and just want more dadaistic dialogue, you could do worse than Beckett.
+  text: If you don't care for the trippy part and just want more dadaistic dialogue,
+    you could do worse than Beckett.
 - book: carlo-collodi/pinocchio
   text: I read both books around the same time, and both have the underlying ambience
     of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio

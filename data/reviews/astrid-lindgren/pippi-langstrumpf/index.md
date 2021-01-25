@@ -21,7 +21,8 @@ plan:
   date_added: '2015-06-28'
 related_books:
 - book: kurt-held/die-rote-zora-und-ihre-bande
-  text: The other red-haired wild girl who doesn't care for authorities, but lives in solidarity with her friends.
+  text: The other red-haired wild girl who doesn't care for authorities, but lives
+    in solidarity with her friends.
 - book: roald-dahl/matilda
   text: Matilda is also good for strong unconventional girls.
 - book: astrid-lindgren/pippi-in-the-south-seas

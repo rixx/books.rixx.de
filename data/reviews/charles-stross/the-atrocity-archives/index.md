@@ -24,7 +24,9 @@ related_books:
 - book: daniel-omalley/the-rook
   text: A very similar premise, with magic-based snarky UK government work.
 - book: graydon-saunders/the-march-north
-  text: No, these two books don't have anything to do with one another. Except that both delight in making the reader work for their information, and in their own cleverness. Might be a usenet thing.
+  text: No, these two books don't have anything to do with one another. Except that
+    both delight in making the reader work for their information, and in their own
+    cleverness. Might be a usenet thing.
 - book: gene-kim/the-phoenix-project
   text: If you're just here for creepy IT management snark.
 - book: charles-stross/halting-state

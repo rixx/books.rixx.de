@@ -22,7 +22,8 @@ plan:
   date_added: '2018-07-28'
 related_books:
 - book: elise-kova/the-alchemists-of-loom
-  text: Young magically talented woman will not hesitate to kill to reach her goal, and makes friends along the way.
+  text: Young magically talented woman will not hesitate to kill to reach her goal,
+    and makes friends along the way.
 - book: mark-lawrence/grey-sister
   text: The next book in the series.
 - book: jay-kristoff/nevernight

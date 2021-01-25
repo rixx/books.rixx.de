@@ -7,12 +7,14 @@ book:
   isbn13: '9780451147554'
   pages: '240'
   publication_year: '1967'
-  spine_color: '#dba65b'
   source: https://urbigenous.net/library/nine_billion_names_of_god.html
+  spine_color: '#dba65b'
   tags:
   - scifi
   - space-monks
   title: The Nine Billion Names of God
+plan:
+  date_added: '2019-02-19'
 related_books:
 - book: greg-egan/quarantine
   text: Both paint the same picture.
@@ -22,8 +24,6 @@ related_books:
   text: Clarke, full-length novel.
 - book: arthur-c-clarke/the-star
   text: More Christian-inspired Clarke.
-plan:
-  date_added: '2019-02-19'
 review:
   date_read:
   - 2019-02-19

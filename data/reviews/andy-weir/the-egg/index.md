@@ -5,11 +5,11 @@ book:
   goodreads: '17563539'
   pages: '3'
   publication_year: '2009'
+  source: http://www.galactanet.com/oneoff/theegg_mod.html
   spine_color: '#4e5043'
   tags:
   - five-stars
   title: The Egg
-  source: http://www.galactanet.com/oneoff/theegg_mod.html
 plan:
   date_added: '2019-01-26'
 related_books:

@@ -18,7 +18,8 @@ related_books:
 - book: josef-pieper/no-one-could-have-known
   text: Pieper's autobiography. Makes all of this a bit less shiny.
 - book: josef-pieper/leisure-the-basis-of-culture
-  text: Based on this model of humanity, Pieper writes about his model of work and leisure.
+  text: Based on this model of humanity, Pieper writes about his model of work and
+    leisure.
 - book: josef-pieper/traktat-uber-die-klugheit
   text: More Pieper, more moralising.
 review:

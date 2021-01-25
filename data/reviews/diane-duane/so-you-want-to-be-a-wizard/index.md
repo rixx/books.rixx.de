@@ -22,7 +22,8 @@ plan:
   date_added: '2016-05-03'
 related_books:
 - book: nnedi-okorafor/akata-witch
-  text: Teenagers who have to navigate learning magic next to everything else in their everyday life.
+  text: Teenagers who have to navigate learning magic next to everything else in their
+    everyday life.
 - book: madeleine-lengle/a-wrinkle-in-time
   text: More magical teenagers exploring a new world.
 - book: j-k-rowling/harry-potter-and-the-sorcerers-stone

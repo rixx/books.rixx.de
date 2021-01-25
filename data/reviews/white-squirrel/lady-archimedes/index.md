@@ -2,15 +2,17 @@
 book:
   author: White Squirrel
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475094359l/32184168.jpg
+  dimensions:
+    height: 16
   goodreads: '32184168'
   isbn10: null
   isbn13: null
   pages: '2390'
   publication_year: '2018'
-  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
-  spine_color: '#9b7741'
   series: The Arithmancer
   series_position: '2'
+  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
+  spine_color: '#9b7741'
   tags:
   - fanfic
   title: Lady Archimedes

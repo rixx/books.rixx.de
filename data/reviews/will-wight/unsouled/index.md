@@ -23,7 +23,8 @@ related_books:
 - book: lian-hearn/across-the-nightingale-floor
   text: I'm afraid Japanese fantasy is the closest I can offer.
 - book: john-bierce/into-the-labyrinth
-  text: Start out as powerless, then work yourself up. Unsouled has exponential growth where Mage Errant stays linear.
+  text: Start out as powerless, then work yourself up. Unsouled has exponential growth
+    where Mage Errant stays linear.
 review:
   date_read:
   - 2020-04-30

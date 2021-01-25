@@ -23,12 +23,14 @@ related_books:
 - book: robert-louis-stevenson/treasure-island
   text: Strictly better olde Island.
 - book: herman-melville/moby-dick-or-the-whale
-  text: Old-timer adventure story, also fairly hard to read. (Yes, I know that there are centuries in between.)
+  text: Old-timer adventure story, also fairly hard to read. (Yes, I know that there
+    are centuries in between.)
 review:
   date_read:
   - 2005-11-01
   rating: 2
 ---
+
 Reading Crusoe as a 12-year-old is not exactly the best experience. Possibly the translation's fault, granted – but
 nevertheless, I never felt like returning to this overly ornate writing of a rather dull story. I know, I know! It's
 written in 1719, it's by some standards the first novel, all that. Doesn't mean it's enjoyable, and particularly the

@@ -2,18 +2,20 @@
 book:
   author: John Bierce
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549622329l/43890637._SY475_.jpg
+  dimensions:
+    height: 19
   goodreads: '43890637'
   isbn10: null
   isbn13: null
   pages: null
   publication_year: null
-  spine_color: '#c7a9a2'
   series: Mage Errant
   series_position: 2
+  spine_color: '#c7a9a2'
   tags:
   - fantasy
   - learning-the-arts
-  title: 'Jewel of the Endless Erg'
+  title: Jewel of the Endless Erg
 plan:
   date_added: 2020-10-25
 related_books:

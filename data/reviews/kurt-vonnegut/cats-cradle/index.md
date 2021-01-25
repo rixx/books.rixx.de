@@ -19,9 +19,11 @@ plan:
   date_added: '2018-03-13'
 related_books:
 - book: kurt-vonnegut/slaughterhouse-five
-  text: Vonnegut's other very famous book. Similar vibe, but that goes for all his books.
+  text: Vonnegut's other very famous book. Similar vibe, but that goes for all his
+    books.
 - book: joseph-heller/catch-22
-  text: Heller has incredibly Vonnegut-like vibes, and these books match up pretty well.
+  text: Heller has incredibly Vonnegut-like vibes, and these books match up pretty
+    well.
 - book: jo-walton/among-others
   text: Quotes this book heavily.
 review:

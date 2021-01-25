@@ -25,6 +25,7 @@ review:
   - 2015-04-01
   rating: 4
 ---
+
 Good Omens is the result of a blessed (but not *ineffably blessed*) collaboration. *And* it produced a similarly blessed
 mini-series! Nothing's not to like here. The only thing that always surprises me when re-reading it is how rooted it is
 in the early 90s.

@@ -19,9 +19,11 @@ related_books:
 - book: erich-kastner/punktchen-und-anton
   text: More preaching at kids, this time about politics instead of philosophy.
 - book: umberto-eco/foucaults-pendulum
-  text: If you want to make philosophy (or history) come to life, this is much closer to how it's done.
+  text: If you want to make philosophy (or history) come to life, this is much closer
+    to how it's done.
 - book: thomas-mann/the-magic-mountain
-  text: The adult German version of being trapped in a thinly disguised philosophy lecture.
+  text: The adult German version of being trapped in a thinly disguised philosophy
+    lecture.
 - book: jo-walton/the-just-city
   text: More philosopher fanboying.
 review:
@@ -29,6 +31,7 @@ review:
   - 2003-11-01
   rating: 2
 ---
+
 Meh. Meh, I say. Books that preach at me have to be outstanding to convince me, not tedious and annoying and boring.
 They have to have characters and good reasons for their preaching, not two-dimensional cardboard cutouts who get a bit
 of action before it's time to get back to your regularly scheduled sermon. And they have to have content that is

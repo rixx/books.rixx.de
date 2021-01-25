@@ -33,6 +33,7 @@ review:
   - 2003-05-01
   rating: 5
 ---
+
 Revenge – exciting revenge from nearly beyond the grave! I loved this book to pieces when I discovered it, despite being
 confused by it a lot. I was nine at the time, and many concepts in there confused me. How did cheques work? What on
 earth was a rentier? (They were spelt the same in German, and the word has fallen completely out of use, because Rentier

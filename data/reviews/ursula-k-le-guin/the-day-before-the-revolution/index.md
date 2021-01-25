@@ -23,4 +23,5 @@ review:
   - 2018-02-17
   rating: 2
 ---
+
 Novella: recollections of a revolutionary. Very Zen.

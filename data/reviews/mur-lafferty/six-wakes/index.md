@@ -19,7 +19,8 @@ plan:
   date_added: '2018-08-01'
 related_books:
 - book: martha-wells/all-systems-red
-  text: Clones are not robots, and the general vibe is different, but the setting and narrative approach just felt aligned.
+  text: Clones are not robots, and the general vibe is different, but the setting
+    and narrative approach just felt aligned.
 - book: ann-leckie/ancillary-justice
   text: If you just enjoy clones in space.
 review:

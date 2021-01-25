@@ -29,6 +29,7 @@ review:
   - 2013-08-01
   rating: 4
 ---
+
 One of the few books that improve by translating them to German. Alternate history where Hitler won WW2 and everything
 is German. A mystery set in that scenario in the 60s – well-researched, well-paced. It's not a cheap dystopia, it's real
 and gritty and oppressive without going over the top.

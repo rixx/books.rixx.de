@@ -25,5 +25,6 @@ review:
   - 2016-09-20
   rating: 3
 ---
+
 Locus award winning novella, where the Earth finds itself suddenly remapped onto a flat surface. An agent called Gregor
 Samsa plays a role.

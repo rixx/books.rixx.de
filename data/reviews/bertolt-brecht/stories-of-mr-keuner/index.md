@@ -25,5 +25,6 @@ review:
   - 2011-11-01
   rating: 3
 ---
+
 Brecht's short stories – which want to educate, of course – are much more bearable than his equally educational plays.
 Still very much on the nose, to the degree that I thought about linking the Narnia books here.

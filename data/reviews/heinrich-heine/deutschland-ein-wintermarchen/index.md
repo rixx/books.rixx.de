@@ -15,7 +15,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: heinrich-hoffmann/struwwelpeter
-  text: Another German Heinrich, less than a year later, and demonstrates the spirit that Heine hates.
+  text: Another German Heinrich, less than a year later, and demonstrates the spirit
+    that Heine hates.
 - book: alexandre-dumas/the-count-of-monte-cristo
   text: Published the same year, also in France. Huh.
 review:
@@ -23,6 +24,7 @@ review:
   - 2010-08-01
   rating: 3
 ---
+
 Heine snarking and showing off. Delightful, fun, inspirational. How little has changed in some ways since 1844!
 I like this book/poem/work of snark so much that I tried my hand at "translating" its beginning into a [travel
 log](https://ramble.rixx.de/2020/07/17/travel-log-pt-1.html).

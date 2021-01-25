@@ -24,6 +24,7 @@ review:
   - 2011-06-01
   rating: 3
 ---
+
 Early science-fiction? You may not agree, but there's an automaton that drives the protagonist insane (more or less,
 shush!), so I'm declaring it sci-fi, on the horror side of things.
 

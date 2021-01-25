@@ -2,18 +2,20 @@
 book:
   author: White Squirrel
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469993496l/28416942._SX98_.jpg
+  dimensions:
+    height: 16
   goodreads: '28416942'
   isbn10: null
   isbn13: null
   pages: '2117'
   publication_year: '2015'
-  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
-  spine_color: '#b39d8c'
   series: The Arithmancer
   series_position: '1'
+  source: https://www.fanfiction.net/s/10070079/1/The-Arithmancer
+  spine_color: '#b39d8c'
   tags:
   - fanfic
-  title: 'The Arithmancer'
+  title: The Arithmancer
 plan:
   date_added: 2021-01-06
 related_books:

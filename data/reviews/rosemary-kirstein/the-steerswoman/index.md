@@ -15,6 +15,11 @@ book:
   title: The Steerswoman
 plan:
   date_added: '2018-09-15'
+related_books:
+- book: terry-goodkind/wizards-first-rule
+  text: A much worse truth-seeker.
+- book: neal-stephenson/anathem
+  text: Another order dedicated to finding and keeping knowledge.
 review:
   date_read:
   - 2020-02-29
@@ -22,11 +27,6 @@ review:
   tldr: I found my way back to real books, and what a relief! Excellent characters
     and worldbuilding, an eye for details, okay plot. Loved the mostly-female order
     of scientific truth seekers in a Fantasy world.
-related_books:
-- book: terry-goodkind/wizards-first-rule
-  text: A much worse truth-seeker.
-- book: neal-stephenson/anathem
-  text: Another order dedicated to finding and keeping knowledge.
 social:
   mastodon:
     datetime: 2020-07-10 03:50:19.414604

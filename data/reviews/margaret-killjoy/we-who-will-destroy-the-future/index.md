@@ -5,17 +5,18 @@ book:
   goodreads: '39867494'
   pages: '15'
   publication_year: '2018'
+  source: https://resonanceaudiodistro.org/we-who-will-destroy-the-future/
   spine_color: '#e0ba69'
   tags:
   - scifi
   - time-travel
   title: We Who Will Destroy the Future
-  source: https://resonanceaudiodistro.org/we-who-will-destroy-the-future/
 plan:
   date_added: '2018-07-31'
 related_books:
 - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
-  text: I'm sorry to do this, but this short story is literally about losing the time war.
+  text: I'm sorry to do this, but this short story is literally about losing the time
+    war.
 review:
   date_read:
   - 2018-07-31

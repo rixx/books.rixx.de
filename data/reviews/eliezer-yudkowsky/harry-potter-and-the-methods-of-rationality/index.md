@@ -5,13 +5,13 @@ book:
   goodreads: '10016013'
   pages: '2184'
   publication_year: '2015'
+  source: http://www.hpmor.com/
   spine_color: '#c8bcac'
   tags:
   - fanfic
   - fantasy
   - learning-the-arts
   title: Harry Potter and the Methods of Rationality
-  source: http://www.hpmor.com/
 plan:
   date_added: '2015-04-09'
 related_books:

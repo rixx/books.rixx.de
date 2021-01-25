@@ -23,7 +23,8 @@ related_books:
 - book: raymond-e-feist/magician-apprentice
   text: Similarly slow build high fantasy.
 - book: j-r-r-tolkien/the-lord-of-the-rings
-  text: Hey look, it's a fellowship of mostly inexperienced villagers and then some useful people making a world-saving trip!
+  text: Hey look, it's a fellowship of mostly inexperienced villagers and then some
+    useful people making a world-saving trip!
 review:
   date_read:
   - 2018-11-23

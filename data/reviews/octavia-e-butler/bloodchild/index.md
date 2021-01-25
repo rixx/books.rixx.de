@@ -11,15 +11,15 @@ book:
   title: Bloodchild
 plan:
   date_added: '2019-01-08'
+related_books:
+- book: octavia-e-butler/wild-seed
+  text: Similar topic.
 review:
   date_read:
   - 2020-01-24
   rating: 4
   tldr: 'Short story that could not be more Octavia Butler: Aliens and humans being
     wildly different, but cohabitating, in a functional yet gross way.'
-related_books:
-- book: octavia-e-butler/wild-seed
-  text: Similar topic.
 social:
   mastodon:
     datetime: 2020-06-28 00:28:55.994539

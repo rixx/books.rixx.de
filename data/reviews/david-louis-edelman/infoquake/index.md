@@ -23,5 +23,6 @@ review:
   - 2015-03-01
   rating: 2
 ---
+
 The war is now fought in sales pitches, product demos and press releases. The life of the future, as seen by somebody
 who reads (but does not like) Wall Street Journal. Economy cyberpunk?

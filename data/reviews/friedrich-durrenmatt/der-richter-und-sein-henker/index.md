@@ -28,6 +28,7 @@ review:
   - 2009-10-01
   rating: 4
 ---
+
 Existentialist mystery, is maybe the best description of this book. Do not read if you're not in the mood for dark and
 dire. The aging detective may be staple, and even some of the plot twists may invite you to think that this is just
 another mystery, but it goes far beyond that, if you're willing to dive into the subtext.

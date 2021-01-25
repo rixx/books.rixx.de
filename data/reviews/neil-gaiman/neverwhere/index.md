@@ -23,7 +23,8 @@ related_books:
 - book: china-mieville/un-lun-dun
   text: Another magical London with a parallel world just beneath the surface.
 - book: ben-aaronovitch/rivers-of-london
-  text: Completely different vibe, but Aaronovitch clearly has read Neverwhere and then decided to build a different (if adjacent) magical London.
+  text: Completely different vibe, but Aaronovitch clearly has read Neverwhere and
+    then decided to build a different (if adjacent) magical London.
 - book: christoph-marzi/lycidas
   text: More magical London with tube action.
 - book: dmitry-glukhovsky/metro-2033

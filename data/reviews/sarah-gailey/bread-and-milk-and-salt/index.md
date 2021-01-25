@@ -5,14 +5,15 @@ book:
   goodreads: '42655001'
   pages: '25'
   publication_year: '2018'
+  source: https://www.tor.com/2018/11/07/reprints-bread-and-milk-and-salt-sarah-gailey/
   spine_color: '#7c5154'
   title: Bread and Milk and Salt
-  source: https://www.tor.com/2018/11/07/reprints-bread-and-milk-and-salt-sarah-gailey/
 plan:
   date_added: '2018-11-12'
 related_books:
 - book: roald-dahl/the-witches
-  text: Also about a witch and a boy. If you think Dahl is brutal, you're not prepared for Gailey.
+  text: Also about a witch and a boy. If you think Dahl is brutal, you're not prepared
+    for Gailey.
 review:
   date_read:
   - 2018-11-12

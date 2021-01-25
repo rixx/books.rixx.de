@@ -14,11 +14,11 @@ book:
   - fantasy
   - scifi
   title: Gate of Ivrel
+plan:
+  date_added: 2020-06-30
 related_books:
 - book: iain-m-banks/inversions
   text: Another further progressed culture meddling with a proto-medieval world.
-plan:
-  date_added: 2020-06-30
 review:
   date_read:
   - 2020-06-29

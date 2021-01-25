@@ -29,5 +29,6 @@ review:
   - 2010-04-01
   rating: 1
 ---
+
 Nothing happens. People are sick and nothing happens. Then, nothing happens some more but in unspeakably long sentences.
 The protagonist stays in a sanatorium for seven years without ever being really sick. There are a lot of lectures.

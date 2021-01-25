@@ -5,9 +5,9 @@ book:
   goodreads: '34383322'
   pages: '17'
   publication_year: '2017'
+  source: https://www.lightspeedmagazine.com/fiction/probably-still-chosen-one/
   spine_color: '#cfa156'
   title: Probably Still the Chosen One
-  source: https://www.lightspeedmagazine.com/fiction/probably-still-chosen-one/
 plan:
   date_added: '2018-12-06'
 related_books:

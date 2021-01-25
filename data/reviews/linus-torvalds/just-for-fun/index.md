@@ -28,4 +28,5 @@ review:
   - 2008-12-01
   rating: 2
 ---
+
 Torvalds tells his (and his project's) life story up to 2000. Nothing special.

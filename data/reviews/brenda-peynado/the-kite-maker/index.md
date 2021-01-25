@@ -7,11 +7,11 @@ book:
   isbn13: '9781250312495'
   pages: '28'
   publication_year: '2018'
+  source: https://www.tor.com/2018/08/29/the-kite-maker-brenda-peynado/
   spine_color: '#c6ba6d'
   tags:
   - scifi
   title: The Kite Maker
-  source: https://www.tor.com/2018/08/29/the-kite-maker-brenda-peynado/
 plan:
   date_added: '2018-10-31'
 related_books:

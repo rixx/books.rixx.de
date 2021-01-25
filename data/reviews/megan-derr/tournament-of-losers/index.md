@@ -16,7 +16,8 @@ plan:
   date_added: '2019-03-14'
 related_books:
 - book: suzanne-collins/the-hunger-games
-  text: The tournament itself reminded me mostly of the Hunger Games stuff, though without the dystopia.
+  text: The tournament itself reminded me mostly of the Hunger Games stuff, though
+    without the dystopia.
 review:
   date_read:
   - 2019-04-10

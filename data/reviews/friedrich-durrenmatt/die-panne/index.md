@@ -19,7 +19,8 @@ plan:
   date_added: 2021-01-17
 related_books:
 - book: friedrich-durrenmatt/the-visit
-  text: A play, more brutal and more focused on the society side of things, though personal culpability does play a role.
+  text: A play, more brutal and more focused on the society side of things, though
+    personal culpability does play a role.
 review:
   date_read:
   - 2021-01-17

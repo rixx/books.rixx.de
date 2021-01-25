@@ -21,7 +21,8 @@ related_books:
 - book: j-r-r-tolkien/the-lord-of-the-rings
   text: I was very tempted to link the Silmarillion out of spite.
 - book: dan-simmons/hyperion
-  text: Another scifi-classic that I just don't appreciate. People seem to think the two are linked.
+  text: Another scifi-classic that I just don't appreciate. People seem to think the
+    two are linked.
 review:
   date_read:
   - 2018-03-12

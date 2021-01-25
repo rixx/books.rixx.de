@@ -3,10 +3,10 @@ book:
   author: K.M. Szpara
   goodreads: '40864052'
   publication_year: '2018'
-  title: You can make a dinosaur, but you can't help me
   tags:
   - queer
   - scifi
+  title: You can make a dinosaur, but you can't help me
 plan:
   date_added: '2019-01-23'
 related_books:

@@ -21,7 +21,8 @@ related_books:
 - book: a-j-hackwith/the-library-of-the-unwritten
   text: More people getting caught in the conflict between heaven and hell.
 - book: eoin-colfer/artemis-fowl
-  text: Eoin Colfer's better-known books. Similar tone, probably a bit better but also more drawn-out.
+  text: Eoin Colfer's better-known books. Similar tone, probably a bit better but
+    also more drawn-out.
 - book: neil-gaiman/the-graveyard-book
   text: A similarly casual take on the afterlife.
 review:

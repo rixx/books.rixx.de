@@ -27,5 +27,6 @@ review:
   - 2014-06-01
   rating: 4
 ---
+
 Modern classic. Old people are made young, and if they survive two years in the interstellar war, they get a piece of
-land on some planet (how very Roman). 
+land on some planet (how very Roman).

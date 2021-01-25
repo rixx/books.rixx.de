@@ -10,11 +10,11 @@ book:
   series: The Long Earth
   series_position: '1'
   spine_color: '#b6b09d'
-  title: The Long Earth
   tags:
   - scifi
   - parallel-worlds
   - portal
+  title: The Long Earth
 plan:
   date_added: '2015-04-08'
 related_books:
@@ -29,6 +29,7 @@ review:
   - 2014-06-01
   rating: 3
 ---
+
 Parallel worlds are always fun, and I liked very much how the concept was set up. Normally in scifi you get a good
 concept like this, then an okay plot and cardboard characters. Sadly, in Long Earth everything except for the concept
 was made from cardboard.

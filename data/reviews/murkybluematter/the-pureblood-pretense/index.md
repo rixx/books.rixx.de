@@ -9,8 +9,8 @@ book:
   publication_year: '2012'
   series: Rigel Black
   series_position: '1'
-  spine_color: '#7c7267'
   source: https://www.fanfiction.net/s/7613196/1/The-Pureblood-Pretense
+  spine_color: '#7c7267'
   tags:
   - fanfic
   title: The Pureblood Pretense

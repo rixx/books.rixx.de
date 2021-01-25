@@ -31,6 +31,7 @@ review:
   - 2004-10-01
   rating: 4
 ---
+
 Possibly my favourite book by Dahl. While it is needlessly cruel (like all his books), it catered to the nerdy
 book-loving kid demographic relentlessly, and that was more than fine by me. And now we even have a great Tim Minchin
 musical, which is another point in favour of the book.

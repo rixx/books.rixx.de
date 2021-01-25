@@ -21,6 +21,7 @@ review:
   - 2011-12-01
   rating: 3
 ---
+
 Funny story, actually: I had to give a presentation about Anna Karenina in school, and since the book was so terribly
 long, I did it entirely from online sources (and got the highest possible grade). But while looking for the passage I
 wanted to read out loud, I discovered that the book was super readable and so I read it … after the presentation.

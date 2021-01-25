@@ -21,6 +21,7 @@ review:
   - 2003-10-01
   rating: 3
 ---
+
 Unconventionally, this was my first Stevenson book. Since I had no idea what the War of the Roses was beyond its obscure
 mention in Kalle Blomquist, I was plenty confused and didn't like it too much. This was probably unjust of me, but it's
 unlikely that I'll go back to correct my judgement.

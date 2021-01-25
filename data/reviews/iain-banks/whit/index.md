@@ -13,7 +13,8 @@ plan:
   date_added: 2020-06-12
 related_books:
 - book: kurt-vonnegut/cats-cradle
-  text: For fictional religions, I prefer Cat's Cradle which felt less depressing somehow, even though it's literally about the end of the world.
+  text: For fictional religions, I prefer Cat's Cradle which felt less depressing
+    somehow, even though it's literally about the end of the world.
 - book: iain-m-banks/consider-phlebas
   text: I much prefer Banks when he's writing scifi.
 review:

@@ -5,9 +5,9 @@ book:
   goodreads: '1803144'
   pages: '9'
   publication_year: '1931'
+  source: http://george-orwell.org/a_hanging/0.html
   spine_color: '#cba972'
   title: A Hanging
-  source: http://george-orwell.org/a_hanging/0.html
 plan:
   date_added: '2018-10-31'
 related_books:

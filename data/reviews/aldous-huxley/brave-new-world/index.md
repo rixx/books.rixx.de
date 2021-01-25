@@ -31,7 +31,8 @@ related_books:
 - book: pierce-brown/red-rising
   text: More caste systems.
 - book: john-boyd/the-last-starship-from-earth
-  text: This book has a very strong caste system – more American and recognisable, but still very dystopian.
+  text: This book has a very strong caste system – more American and recognisable,
+    but still very dystopian.
 review:
   date_read:
   - 2011-01-01

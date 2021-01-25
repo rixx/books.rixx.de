@@ -9,9 +9,9 @@ book:
   publication_year: '2017'
   series: Dominion of the Fallen
   series_position: '1.5'
+  source: https://uncannymagazine.com/article/children-thorns-children-water/
   spine_color: '#3e4c53'
   title: Children of Thorns, Children of Water
-  source: https://uncannymagazine.com/article/children-thorns-children-water/
 plan:
   date_added: '2018-09-20'
 related_books:

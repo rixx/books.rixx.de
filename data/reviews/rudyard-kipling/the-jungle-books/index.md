@@ -15,7 +15,8 @@ related_books:
 - book: rudyard-kipling/just-so-stories
   text: More Kipling stories.
 - book: a-a-milne/winnie-the-pooh
-  text: If you're here because you're looking for old animal stories for children, I have a better suggestion for you.
+  text: If you're here because you're looking for old animal stories for children,
+    I have a better suggestion for you.
 - book: neil-gaiman/the-graveyard-book
   text: This one is a bit far out there, but boy-raised-by-ghosts meets boy-raised-by-wolves.
 review:
@@ -23,5 +24,6 @@ review:
   - 2008-11-01
   rating: 4
 ---
+
 Poems. If you ask me, the only relevant part of the Jungle Books are the poems. Which is enough, because they are *a
 lot*. Everything else has not aged very well.

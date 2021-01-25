@@ -17,7 +17,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: stefan-zweig/joseph-fouche
-  text: Stefan Zweig also has good historical dramatisations, including one on Mary, Queen of Scots!
+  text: Stefan Zweig also has good historical dramatisations, including one on Mary,
+    Queen of Scots!
 - book: friedrich-schiller/wilhelm-tell
   text: More semi-historical Schiller drama.
 review:
@@ -25,5 +26,6 @@ review:
   - 2008-02-01
   rating: 2
 ---
+
 Honestly, I don't remember much of this one except that I started out interested (Mary, after all, has a quite dramatic
 story to her name) and ended up bored.

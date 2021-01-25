@@ -21,7 +21,8 @@ plan:
   date_added: '2019-02-13'
 related_books:
 - book: patrick-rothfuss/the-name-of-the-wind
-  text: Protagonists elevated to a place beyond their station where they have to learn and prove themselves.
+  text: Protagonists elevated to a place beyond their station where they have to learn
+    and prove themselves.
 - book: robert-jackson-bennett/city-of-stairs
   text: A colonialising empire and god wars.
 review:

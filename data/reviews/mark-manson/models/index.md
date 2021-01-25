@@ -20,7 +20,8 @@ plan:
   date_added: '2020-04-16'
 related_books:
 - book: meg-barker/rewriting-the-rules
-  text: Do not use anything in this book without reading Barker's book or something similar.
+  text: Do not use anything in this book without reading Barker's book or something
+    similar.
 - book: richard-s-gallagher/the-customer-service-survival-kit
   text: Another communication book that discusses how to *use* honesty.
 review:

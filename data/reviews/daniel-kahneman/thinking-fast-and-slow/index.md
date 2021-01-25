@@ -20,7 +20,8 @@ plan:
   date_added: '2015-04-09'
 related_books:
 - book: w-timothy-gallwey/the-inner-game-of-tennis
-  text: Taught me more useful things than Kahneman. If you're into stupid terminology, both books have a System 1/2 thing.
+  text: Taught me more useful things than Kahneman. If you're into stupid terminology,
+    both books have a System 1/2 thing.
 - book: antonio-r-damasio/descartes-error
   text: Another psychology book that has not aged too well.
 review:
@@ -28,4 +29,5 @@ review:
   - 2018-05-29
   rating: 2
 ---
+
 Reproduction crisis hits hard, doesn't it. People who buy too much of Kahneman's book are insufferable.

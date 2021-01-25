@@ -27,6 +27,7 @@ review:
   - 2010-05-01
   rating: 4
 ---
+
 Literary introduction to the horrors of the GDR and the Stasi. I don't remember the book well enough to say anything
 about its accuracy. Kordon usually tells well-researched stories that support the current narrative about past events,
 so that's what I'd expect. It's uncharacteristically long, and I don't remember much to justify the length.

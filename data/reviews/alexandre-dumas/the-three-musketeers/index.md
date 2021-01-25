@@ -17,7 +17,8 @@ related_books:
 - book: walter-moers/rumo
   text: A modern and not quite serious take on the swashbuckler adventure genre.
 - book: william-goldman/the-princess-bride
-  text: Look, if you enjoy the three musketeers doing musketeer things, you have got to enjoy the Princess Bride, too.
+  text: Look, if you enjoy the three musketeers doing musketeer things, you have got
+    to enjoy the Princess Bride, too.
 - book: robert-louis-stevenson/treasure-island
   text: More adventuring, less France.
 - book: alexandre-dumas/the-count-of-monte-cristo
@@ -27,6 +28,7 @@ review:
   - 2003-04-01
   rating: 3
 ---
+
 People underestimate how honestly useful Dumas is. Well, if you get the abridged versions, of course, nobody wants to
 read that optimized-for-line-count nonsense. Read up on it, his tricks to stretch dialogue into more lines are
 hilarious, to the point of his writing style changing (and characters with long names suddenly dying) when his

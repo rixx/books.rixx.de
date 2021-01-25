@@ -24,7 +24,8 @@ related_books:
 - book: terry-pratchett/johnny-and-the-dead
   text: More relatable dead people, more cemetaries. Less magic, though.
 - book: neil-gaiman/coraline
-  text: For younger children, Coraline has a similar vibe. Much scarier despite not playing on a graveyard.
+  text: For younger children, Coraline has a similar vibe. Much scarier despite not
+    playing on a graveyard.
 - book: rudyard-kipling/the-jungle-books
   text: This one is a bit far out there, but boy-raised-by-ghosts meets boy-raised-by-wolves.
 - book: neil-gaiman/the-ocean-at-the-end-of-the-lane

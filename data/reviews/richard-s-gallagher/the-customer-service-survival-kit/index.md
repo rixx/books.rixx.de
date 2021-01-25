@@ -23,7 +23,8 @@ related_books:
 - book: francois-de-callieres/on-the-manner-of-negotiating-with-princes
   text: A slightly older version of this manual.
 - book: gretchen-mcculloch/because-internet
-  text: Combining these two books into a style guide for appropriate communication would be interesting.
+  text: Combining these two books into a style guide for appropriate communication
+    would be interesting.
 - book: per-leo/mit-rechten-reden-ein-leitfaden
   text: Another communication strategy book.
 - book: mark-manson/models

@@ -16,11 +16,13 @@ related_books:
 - book: friedrich-schiller/die-rauber
   text: If you have to read a Schiller drama, this is a much better place to start.
 - book: friedrich-schiller/wilhelm-tell
-  text: If you have to read Schiller at all, Wilhelm Tell is probably the most entertaining (but also generic) one.
+  text: If you have to read Schiller at all, Wilhelm Tell is probably the most entertaining
+    (but also generic) one.
 review:
   date_read:
   - 2006-02-01
   rating: 1
 ---
+
 Schiller at his worst, arguably. I had to read this in school, and I had read it beforehand, and at no point in time I
 could seem to care.

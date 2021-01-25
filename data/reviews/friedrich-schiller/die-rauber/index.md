@@ -26,4 +26,5 @@ review:
   - 2006-03-01
   rating: 2
 ---
+
 Criticising society by telling a tale of bandits, as one does.

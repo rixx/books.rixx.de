@@ -1,13 +1,13 @@
 ---
 book:
   author: murkybluematter
-  source: https://www.fanfiction.net/s/11911497/1/The-Futile-Facade
   dimensions:
     height: 24
   goodreads: '34213118'
   publication_year: null
   series: Rigel Black
   series_position: '4'
+  source: https://www.fanfiction.net/s/11911497/1/The-Futile-Facade
   tags:
   - fanfic
   title: The Futile Facade

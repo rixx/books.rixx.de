@@ -24,7 +24,8 @@ related_books:
 - book: tsultrim-allione/feeding-your-demons
   text: Solo spiritual growth vs duo spiritual growth.
 - book: brene-brown/daring-greatly
-  text: Brown was more helpful to me, but has a much narrower scope. Both want to bring a similar message across.
+  text: Brown was more helpful to me, but has a much narrower scope. Both want to
+    bring a similar message across.
 review:
   date_read:
   - 2020-03-15

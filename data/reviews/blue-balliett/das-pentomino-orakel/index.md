@@ -17,12 +17,14 @@ plan:
   date_added: '2016-05-08'
 related_books:
 - book: astrid-lindgren/kalle-blomquist
-  text: Not extremely related, but both are mysteries for children where the mystery itself is nearly secondary.
+  text: Not extremely related, but both are mysteries for children where the mystery
+    itself is nearly secondary.
 review:
   date_read:
   - 2004-09-01
   rating: 3
 ---
+
 Dan Brown, kids edition: Children have to solve weird puzzles where the correct solution is far from obvious unless
 you're the author. A bit better than Brown in that there's a better reason for the obscurity and also there are no
 illuminati.

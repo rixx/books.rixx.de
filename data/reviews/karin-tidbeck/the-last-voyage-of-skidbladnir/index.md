@@ -7,11 +7,11 @@ book:
   isbn13: '9781250192448'
   pages: '21'
   publication_year: '2019'
+  source: https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/
   spine_color: '#242334'
   tags:
   - scifi
   title: The Last Voyage of Skidbladnir
-  source: https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/
 plan:
   date_added: '2019-01-24'
 related_books:

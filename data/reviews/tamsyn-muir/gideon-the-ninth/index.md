@@ -21,7 +21,8 @@ plan:
   date_added: '2020-02-11'
 related_books:
 - book: licia-troisi/im-land-des-windes
-  text: Angry young woman turns resentful fighter forced to find out she still has feelings.
+  text: Angry young woman turns resentful fighter forced to find out she still has
+    feelings.
 review:
   date_read:
   - 2020-02-15

@@ -26,6 +26,7 @@ review:
   - 2003-06-01
   rating: 3
 ---
+
 Lotta and her siblings are some of Lindgren's most adorable characters. Her teddy (which looks suspiciously like a pig,
 but don't tell her!), her siblings, their games, their whole family – it's all lovely without being overly sweet. Lotta
 is very real, often angry and finds creative (and not always nice) ways to deal with her anger. And the adults are just

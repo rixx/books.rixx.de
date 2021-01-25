@@ -5,9 +5,9 @@ book:
   goodreads: '36067380'
   pages: '212'
   publication_year: '2017'
+  source: http://sarahpinsker.com/wind_will_rove/
   spine_color: '#e1e9df'
   title: Wind Will Rove
-  source: http://sarahpinsker.com/wind_will_rove/
 plan:
   date_added: '2018-02-24'
 related_books:

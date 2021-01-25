@@ -27,7 +27,8 @@ related_books:
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: The original Fillory.
 - book: scott-hawkins/the-library-at-mount-char
-  text: Unpleasant young adults in a brutal modern America have to deal with magic and cruelty.
+  text: Unpleasant young adults in a brutal modern America have to deal with magic
+    and cruelty.
 review:
   date_read:
   - 2020-05-05

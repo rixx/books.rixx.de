@@ -20,7 +20,8 @@ plan:
   date_added: '2017-05-16'
 related_books:
 - book: walter-moers/rumo
-  text: Rumo's sense of humour and of tropes is extremely close to Princess Bride. Just with a non-human protagonist.
+  text: Rumo's sense of humour and of tropes is extremely close to Princess Bride.
+    Just with a non-human protagonist.
 - book: neil-gaiman/stardust
   text: Strangely enough, Stardust feels similar to Princess Bride. Though admittedly,
     the similarity is more prominent in the movie version of Stardust, which in turn

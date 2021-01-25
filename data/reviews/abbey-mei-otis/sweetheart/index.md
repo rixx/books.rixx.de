@@ -5,11 +5,11 @@ book:
   goodreads: '13485563'
   pages: '5'
   publication_year: '2010'
+  source: https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/
   spine_color: '#957d5f'
   tags:
   - scifi
   title: Sweetheart
-  source: https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/
 plan:
   date_added: '2018-09-20'
 related_books:

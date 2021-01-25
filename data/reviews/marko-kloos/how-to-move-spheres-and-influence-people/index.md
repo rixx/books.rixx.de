@@ -7,11 +7,11 @@ book:
   isbn13: '9781250206879'
   pages: '32'
   publication_year: '2019'
+  source: https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/
   spine_color: '#ad9886'
   tags:
   - urban-fantasy
   title: How to Move Spheres and Influence People
-  source: https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/
 plan:
   date_added: '2019-04-04'
 related_books:

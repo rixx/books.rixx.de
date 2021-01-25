@@ -2,17 +2,19 @@
 book:
   author: Lois McMaster Bujold
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526575795l/40138656._SY475_.jpg
+  dimensions:
+    height: 18.0
   goodreads: '40138656'
   isbn10: null
   isbn13: null
   pages: '98'
   publication_year: '2018'
+  series: Vorkosigan Saga
+  series_position: '16.1'
   spine_color: '#e6da22'
   tags:
   - scifi
   title: The Flowers of Vashnoi
-  series: Vorkosigan Saga
-  series_position: '16.1'
 plan:
   date_added: 2020-08-18
 related_books:

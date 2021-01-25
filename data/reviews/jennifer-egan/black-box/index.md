@@ -5,9 +5,9 @@ book:
   goodreads: '14435241'
   pages: '50'
   publication_year: '2012'
+  source: http://www.newyorker.com/magazine/2012/06/04/black-box-2
   spine_color: '#eab885'
   title: Black Box
-  source: http://www.newyorker.com/magazine/2012/06/04/black-box-2
 plan:
   date_added: '2019-09-20'
 related_books:

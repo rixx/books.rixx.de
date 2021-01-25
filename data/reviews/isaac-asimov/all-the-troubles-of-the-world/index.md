@@ -7,11 +7,11 @@ book:
   isbn13: '9780886822330'
   pages: '32'
   publication_year: '1958'
+  source: http://www.mcguiremarks.com/uploads/3/9/7/9/39793909/isaac_asimov-all_the_troubles_of_the_world_(1).pdf
   spine_color: '#ebcc7d'
   tags:
   - scifi
   title: All the Troubles of the World
-  source: http://www.mcguiremarks.com/uploads/3/9/7/9/39793909/isaac_asimov-all_the_troubles_of_the_world_(1).pdf
 plan:
   date_added: '2018-08-27'
 related_books:

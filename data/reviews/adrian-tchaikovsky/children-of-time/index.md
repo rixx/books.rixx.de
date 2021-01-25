@@ -22,7 +22,8 @@ plan:
   date_added: '2018-09-12'
 related_books:
 - book: vernor-vinge/a-fire-upon-the-deep
-  text: I will link the Deepness in the Sky here once I've finally finished it. Spider planet!
+  text: I will link the Deepness in the Sky here once I've finally finished it. Spider
+    planet!
 - book: adrian-tchaikovsky/children-of-time
   text: More Tchaikovsky, where the non-humans are more relatable than the humans.
 review:

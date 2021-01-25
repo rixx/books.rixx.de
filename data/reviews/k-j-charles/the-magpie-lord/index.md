@@ -20,7 +20,8 @@ plan:
   date_added: 2020-06-24
 related_books:
 - book: mackenzi-lee/the-gentlemans-guide-to-vice-and-virtue
-  text: What's up with the 1800s queer romances? The Montague Siblings go down a very similar road, not that I'm complaining.
+  text: What's up with the 1800s queer romances? The Montague Siblings go down a very
+    similar road, not that I'm complaining.
 - book: k-d-edwards/the-last-sun
   text: More queer fantasy.
 - book: emily-tesh/silver-in-the-wood

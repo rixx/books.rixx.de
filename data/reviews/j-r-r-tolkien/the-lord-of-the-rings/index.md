@@ -23,7 +23,8 @@ related_books:
 - book: hope-mirrlees/lud-in-the-mist
   text: A wildly different fantasy book, but also very early, even predating Tolkien's.
 - book: robert-jordan/the-eye-of-the-world
-  text: Hey look, it's a fellowship of mostly inexperienced villagers and then some useful people making a world-saving trip!
+  text: Hey look, it's a fellowship of mostly inexperienced villagers and then some
+    useful people making a world-saving trip!
 review:
   date_read:
   - 2001-05-01

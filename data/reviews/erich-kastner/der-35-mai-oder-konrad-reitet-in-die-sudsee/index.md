@@ -14,9 +14,11 @@ plan:
   date_added: '2015-08-06'
 related_books:
 - book: lewis-carroll/alice-in-wonderland
-  text: Similar in that they are early, absurd portal fantasies. Completely different vibe, though.
+  text: Similar in that they are early, absurd portal fantasies. Completely different
+    vibe, though.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
-  text: "Sharing the magical wardrobe leading children to a different world and talking animals. Not sharing: everything else."
+  text: 'Sharing the magical wardrobe leading children to a different world and talking
+    animals. Not sharing: everything else.'
 review:
   date_read:
   - 2003-08-01

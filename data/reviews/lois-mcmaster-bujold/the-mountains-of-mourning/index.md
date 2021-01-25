@@ -2,17 +2,19 @@
 book:
   author: Lois McMaster Bujold
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328024482l/2684541.jpg
+  dimensions:
+    height: 18.0
   goodreads: '2684541'
   isbn10: '1590623819'
   isbn13: '9781590623817'
   publication_year: '1989'
+  series: Vorkosigan Saga
+  series_position: '5.1'
   spine_color: '#6d0406'
   tags:
   - five-stars
   - scifi
   title: The Mountains of Mourning
-  series: Vorkosigan Saga
-  series_position: '5.1'
 plan:
   date_added: '2018-11-23'
 related_books:

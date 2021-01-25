@@ -27,5 +27,6 @@ review:
   - 2004-09-01
   rating: 3
 ---
+
 The German reference for Greek legends. Published in 1837, it has had time to become the de-facto standard. It's pretty
 readable and provides solid background knowledge for all other things that start with Greek legends.

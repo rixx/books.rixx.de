@@ -29,6 +29,7 @@ review:
   - 2005-07-01
   rating: 5
 ---
+
 Krabat (English: *The Satanic Mill*. Yes, really) is unique and I'm having a hard time finding anything similar. The
 story of a poor orphan during the 30 years war, who signs up for an apprenticeship in a mill and finds himself learning
 the Dark Arts – it should be cheesy, or cheap, or odd. Instead it feels like a deep old fairy tale, complete with

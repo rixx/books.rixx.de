@@ -23,5 +23,6 @@ review:
   - 2006-02-01
   rating: 4
 ---
+
 How would you discuss the conflict between old superstitious beliefs ruling the country and scientific enlightenment
-doing its thing? A ghost story? Well, that's what Storm thought, too. 
+doing its thing? A ghost story? Well, that's what Storm thought, too.

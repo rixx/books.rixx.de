@@ -13,7 +13,8 @@ plan:
   date_added: '2020-01-11'
 related_books:
 - book: meg-barker/rewriting-the-rules
-  text: Meg Barker's book is generally good *and* can serve as a gentle introduction to the whole gender thing for people who would like to understand.
+  text: Meg Barker's book is generally good *and* can serve as a gentle introduction
+    to the whole gender thing for people who would like to understand.
 - book: peter-watts/blindsight
   text: Another take on transhumanism.
 review:

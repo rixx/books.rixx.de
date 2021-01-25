@@ -22,7 +22,8 @@ related_books:
 - book: ichiro-kishimi/the-courage-to-be-disliked
   text: Similar approaches to handling your dark side.
 - book: brene-brown/daring-greatly
-  text: Both books talk about vulnerability, and have similar opinions, but come from a wildly different place.
+  text: Both books talk about vulnerability, and have similar opinions, but come from
+    a wildly different place.
 - book: bell-hooks/all-about-love
   text: Solo spiritual growth vs duo spiritual growth.
 review:

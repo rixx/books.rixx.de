@@ -4,12 +4,15 @@ book:
   goodreads: '28431251'
   pages: '850'
   publication_year: '2011'
+  source: https://archiveofourown.org/works/598019/chapters/1078847
   tags:
   - fanfic
-  source: https://archiveofourown.org/works/598019/chapters/1078847
   title: Digging for the Bones
 plan:
   date_added: '2020-02-25'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
+  text: The original.
 review:
   date_read:
   - 2020-02-25
@@ -17,9 +20,6 @@ review:
   tldr: Fanfic's like junk food. It's not great, but it's food, it's easily accessible,
     and it's easy to start a habit. This one's not bad, I just wish I'd space them
     out a bit.
-related_books:
-- book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
-  text: The original.
 social:
   mastodon:
     datetime: 2020-07-05 21:01:12.412084

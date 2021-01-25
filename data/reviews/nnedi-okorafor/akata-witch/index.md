@@ -23,7 +23,8 @@ plan:
   date_added: '2018-02-18'
 related_books:
 - book: diane-duane/so-you-want-to-be-a-wizard
-  text: Teenagers who have to navigate learning magic next to everything else in their everyday life.
+  text: Teenagers who have to navigate learning magic next to everything else in their
+    everyday life.
 review:
   date_read:
   - 2018-03-04

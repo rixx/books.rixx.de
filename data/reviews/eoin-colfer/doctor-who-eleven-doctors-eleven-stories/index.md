@@ -15,7 +15,8 @@ plan:
   date_added: '2017-12-24'
 related_books:
 - book: diana-wynne-jones/conrads-fate
-  text: Strong Doctor Who vibes when the magical Chrestomanci has to investigate and fix a mystery.
+  text: Strong Doctor Who vibes when the magical Chrestomanci has to investigate and
+    fix a mystery.
 - book: neil-gaiman/fragile-things
   text: More short stories by Neil Gaiman.
 review:
@@ -23,5 +24,6 @@ review:
   - 2018-01-24
   rating: 3
 ---
+
 An alright collection of Doctor Who stories, but missable for the most part. Neil Gaiman's Thatcher story was unsurprisingly the
 highlight of the collection.

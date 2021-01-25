@@ -4,10 +4,10 @@ book:
   goodreads: '43788310'
   pages: '1777'
   publication_year: '2017'
+  source: https://archiveofourown.org/works/855528/chapters/1637607
   tags:
   - fanfic
   title: Sansûkh
-  source: https://archiveofourown.org/works/855528/chapters/1637607
 plan:
   date_added: '2019-01-30'
 related_books:

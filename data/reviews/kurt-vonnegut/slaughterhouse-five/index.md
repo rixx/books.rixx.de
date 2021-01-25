@@ -12,10 +12,10 @@ book:
   pages: 275
   publication_year: '1969'
   spine_color: '#745f32'
-  title: Slaughterhouse-Five
   tags:
   - historical-fiction
   - scifi
+  title: Slaughterhouse-Five
 plan:
   date_added: '2015-04-08'
 related_books:

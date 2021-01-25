@@ -19,7 +19,8 @@ plan:
   date_added: '2018-02-28'
 related_books:
 - book: charles-stross/halting-state
-  text: Near-future thriller in an always-online world with an eye on information distribution.
+  text: Near-future thriller in an always-online world with an eye on information
+    distribution.
 - book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
   text: Another take on futuristic education.
 - book: vernor-vinge/a-fire-upon-the-deep

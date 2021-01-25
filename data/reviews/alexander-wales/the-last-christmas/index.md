@@ -4,17 +4,13 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446240775l/27396199._SX98_.jpg
   goodreads: '27396199'
   publication_year: null
+  source: https://www.fanfiction.net/s/9915682/1/The-Last-Christmas
   spine_color: '#8e7571'
-  title: The Last Christmas
   tags:
   - christmas
-  source: https://www.fanfiction.net/s/9915682/1/The-Last-Christmas
+  title: The Last Christmas
 plan:
   date_added: '2018-09-20'
-review:
-  date_read:
-  - 2018-09-21
-  rating: 2
 related_books:
 - book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
   text: The original rational fic.
@@ -22,6 +18,10 @@ related_books:
   text: More Alexander Wales.
 - book: terry-pratchett/hogfather
   text: If you're here for the Christmas mood.
+review:
+  date_read:
+  - 2018-09-21
+  rating: 2
 tags:
 - christmas
 ---

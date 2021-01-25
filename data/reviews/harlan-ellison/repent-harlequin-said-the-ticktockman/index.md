@@ -11,11 +11,11 @@ book:
   isbn13: '9781887424356'
   pages: 48
   publication_year: '1965'
+  source: https://compositionawebb.pbworks.com/f/%255C%27Repent,%2BHarlequin!%255C%27%2BSaid%2Bthe%2BTicktockman%2Bby%2BHarlan%2BEllison.pdf
   spine_color: '#4f4a27'
   tags:
   - scifi
   title: '"Repent, Harlequin!" Said the Ticktockman'
-  source: https://compositionawebb.pbworks.com/f/%255C%27Repent,%2BHarlequin!%255C%27%2BSaid%2Bthe%2BTicktockman%2Bby%2BHarlan%2BEllison.pdf
 plan:
   date_added: '2018-03-13'
 related_books:

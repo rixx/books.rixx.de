@@ -17,7 +17,8 @@ plan:
   date_added: '2017-11-15'
 related_books:
 - book: franz-kafka/the-metamorphosis
-  text: Hard not to link the two – what does it mean to be you? What does it mean to change?
+  text: Hard not to link the two – what does it mean to be you? What does it mean
+    to change?
 - book: ian-j-deary/intelligence-a-very-short-introduction
   text: Nonfiction about intelligence.
 review:
