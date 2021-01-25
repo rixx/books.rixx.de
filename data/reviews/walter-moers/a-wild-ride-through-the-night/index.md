@@ -34,6 +34,24 @@ review:
   rating: 4
   tldr: Walter Moers connects 21 illustrations by Gustave Doré in a delightfully weird
     story
+social:
+  mastodon:
+    datetime: 2021-01-25 02:59:38.029172
+    id: '105613883989480399'
+    in_reply_to: '105547275226621278'
+    text: '8/ A Wild Ride Through the Night by Walter Moers. Walter Moers connects
+      21 illustrations by Gustave Doré in a delightfully weird story
+
+      https://books.rixx.de/walter-moers/a-wild-ride-through-the-night/ #rixxReads'
+  number: 8
+  twitter:
+    datetime: 2021-01-25 02:59:37.631882
+    id: '1353522883956510720'
+    in_reply_to: '1349259923356610562'
+    text: '8/ A Wild Ride Through the Night by Walter Moers. Walter Moers connects
+      21 illustrations by Gustave Doré in a delightfully weird story
+
+      https://books.rixx.de/walter-moers/a-wild-ride-through-the-night/'
 ---
 
 Walter Moers decided to branch out and do something wildly different. Okay, maybe not wildly: there's still much

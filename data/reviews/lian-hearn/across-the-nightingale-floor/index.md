@@ -38,6 +38,24 @@ review:
   rating: 4
   tldr: Village boy into clan lord and assassin in Fantasy faux-Japan. Good fun, if
     bloody.
+social:
+  mastodon:
+    datetime: 2021-01-25 02:59:51.170919
+    id: '105613884851081336'
+    in_reply_to: '105613883989480399'
+    text: '9/ Across the Nightingale Floor by Lian Hearn. Village boy into clan lord
+      and assassin in Fantasy faux-Japan. Good fun, if bloody.
+
+      https://books.rixx.de/lian-hearn/across-the-nightingale-floor/ #rixxReads'
+  number: 9
+  twitter:
+    datetime: 2021-01-25 02:59:50.833430
+    id: '1353522939308683264'
+    in_reply_to: '1353522883956510720'
+    text: '9/ Across the Nightingale Floor by Lian Hearn. Village boy into clan lord
+      and assassin in Fantasy faux-Japan. Good fun, if bloody.
+
+      https://books.rixx.de/lian-hearn/across-the-nightingale-floor/'
 ---
 
 Everybody is extremely dramatic in this book. Very YA. But it stood up to a re-read surprisingly well: Young boy in

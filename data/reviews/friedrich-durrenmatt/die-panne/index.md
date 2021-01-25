@@ -25,6 +25,28 @@ review:
   date_read:
   - 2021-01-17
   rating: 4
+  tldr: Delightfully brutal novella (as Dürrenmatt tends to be). The protagonist feels
+    great the whole time, while the reader is trapped in uneasiness.
+social:
+  mastodon:
+    datetime: 2021-01-25 03:05:34.483114
+    id: '105613907349017078'
+    in_reply_to: '105613884851081336'
+    text: '10/ Die Panne by Friedrich Dürrenmatt. Delightfully brutal novella (as
+      Dürrenmatt tends to be). The protagonist feels great the whole time, while the
+      reader is trapped in uneasiness.
+
+      https://books.rixx.de/friedrich-durrenmatt/die-panne/ #rixxReads'
+  number: 10
+  twitter:
+    datetime: 2021-01-25 03:05:34.147627
+    id: '1353524379255250944'
+    in_reply_to: '1353522939308683264'
+    text: '10/ Die Panne by Friedrich Dürrenmatt. Delightfully brutal novella (as
+      Dürrenmatt tends to be). The protagonist feels great the whole time, while the
+      reader is trapped in uneasiness.
+
+      https://books.rixx.de/friedrich-durrenmatt/die-panne/'
 ---
 
 Our protagonist has a breakdown and, because the village inn is full, is invited to stay in a local mansion. It turns
