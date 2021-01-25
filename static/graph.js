@@ -11,9 +11,19 @@ let startNode = null
 let endNode = null
 let currentPath = null
 let currentPathLinks = null
+let currentHash = {}
 
 window.addEventListener("mouseup", e => isDragging = false)
 
+
+const updateHash = (obj) => {
+    Object.entries(obj).forEach(data => {
+        if (data && data.length > 1) {
+            currentHash[data[0]] = data[1]
+        }
+    })
+    window.location.hash = Object.entries(currentHash).filter(value => value[1]).map(value => `${value[0]}=${encodeURI(value[1])}`).join("&")
+}
 
 const deletePath = () => {
     currentPath = null
@@ -46,11 +56,13 @@ const setStart = (book) => {
         document.querySelector("#start-name").innerHTML = ""
         document.querySelector("#start-delete").style.display = "none"
         deletePath()
+        updateHash({start: null})
     } else {
         startNode = book
         document.querySelector("#start-name").innerHTML = `${book.name} by ${book.author}`
         document.querySelector("#start-delete").style.display = "inline-block"
         updatePath()
+        updateHash({start: book.id})
     }
     document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
 }
@@ -61,11 +73,13 @@ const setEnd = (book) => {
         document.querySelector("#end-name").innerHTML = ""
         document.querySelector("#end-delete").style.display = "none"
         deletePath()
+        updateHash({end: null})
     } else {
         endNode = book
         document.querySelector("#end-name").innerHTML = `${book.name} by ${book.author}`
         document.querySelector("#end-delete").style.display = "inline-block"
         updatePath()
+        updateHash({end: book.id})
     }
     document.querySelector("#book-route").style.display = (!startNode && !endNode) ? "none" : "block"
 }
@@ -141,7 +155,7 @@ const changeGraphHighlight = () => {
 
 const changeSearch = () => {
     const search = document.querySelector("input#graph-search").value
-    window.location.hash = encodeURI(search)
+    updateHash({search})
     const searchTerms = search
         .split(" ")
         .filter(d => d.length)
@@ -280,11 +294,25 @@ d3.json("/graph.json").then(data => {
     document.querySelector("#start-delete").addEventListener("click", () => setStart())
     document.querySelector("#end-delete").addEventListener("click", () => setEnd())
 
-    document.querySelector("input#graph-search").value = decodeURI(window.location.hash.substr(1))
+    try {
+        currentHash = window.location.hash.substr(1).split('&').reduce((res, item) => {
+            if (item.includes("=")) {
+                var parts = item.split('=')
+                res[parts[0]] = decodeURI(parts[1])
+                return res
+            }
+            return res
+        }, {});
+        console.log(currentHash)
 
+    } catch {}
+
+    if (currentHash.search) document.querySelector("input#graph-search").value = currentHash.search
     changeSearch()
-    setStart()
-    setEnd()
+    const start = graph.getNode(currentHash.start)
+    if (start) setStart(start.data)
+    const end = graph.getNode(currentHash.end)
+    if (end) setEnd(end.data)
 })
 
 document.addEventListener('DOMContentLoaded', function() {
