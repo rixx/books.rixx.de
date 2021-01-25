@@ -823,8 +823,15 @@ header a {
   padding-right: 6px;
   text-align: center;
 }
+#graph-wrapper #graph-sidebar #book-route {
+  margin: 0 16px;
+  font-size: 18px;
+}
 #graph-wrapper #graph-sidebar #book-preview > * {
   margin-bottom: 6px;
+}
+#graph-wrapper #graph-sidebar #graph-stats {
+  font-size: 18px;
 }
 #graph-wrapper #graph-sidebar #graph-stats #graph-search {
   margin: 12px;
@@ -840,7 +847,8 @@ header a {
 }
 #graph-wrapper svg circle.bunt,
 #graph-wrapper svg circle.bunt.active,
-#graph-wrapper svg circle.search-hit {
+#graph-wrapper svg circle.search-hit,
+#graph-wrapper svg circle.path-hit {
   fill: var(--book-color);
 }
 #graph-wrapper svg circle.bunt.active {
@@ -850,6 +858,15 @@ header a {
 #graph-wrapper svg circle.search-hit {
   stroke: #990000;
   stroke-width: 2px;
+}
+#graph-wrapper svg line:not(.bunt) {
+  stroke: #999;
+}
+#graph-wrapper svg circle.path-hit,
+#graph-wrapper svg circle.search-hit.path-hit,
+#graph-wrapper svg line.path-hit {
+  stroke: #00a7a7;
+  stroke-width: 3px;
 }
 #graph-wrapper svg line.bunt {
   stroke-width: 3px;

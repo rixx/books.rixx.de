@@ -1,28 +1,42 @@
 let isDragging = false
+let isHovering = false
 let currentBook = null
 
 let node = null
 let link = null
-let linkMap = {}
+let graph = createGraph()
+let path = null
 
 let startNode = null
 let endNode = null
 let currentPath = null
+let currentPathLinks = null
 
 window.addEventListener("mouseup", e => isDragging = false)
 
 
-const redrawPath = () => {
-}
-
-
 const deletePath = () => {
-    currentPath = []
-    redrawPath()
+    currentPath = null
+    currentPathLinks = null
+    changeGraphHighlight()
 }
 
 const updatePath = () => {
-    redrawPath()
+    if (startNode && endNode) {
+        currentPath = path.find(startNode.id, endNode.id)
+        currentPathLinks = []
+        link.each(l => {
+            for (let i=0; i < currentPath.length - 1; i++) {
+                const source = currentPath[i]
+                const target = currentPath[i + 1]
+                if ((l.target && l.source) && ((l.target.id === target.id && l.source.id === source.id) || (l.target.id === source.id && l.source.id === target.id))) {
+                    currentPathLinks.push(l)
+                }
+            }
+
+        })
+        changeGraphHighlight()
+    }
 }
 
 
@@ -90,22 +104,39 @@ const changeSidebarBook = (book) => {
 }
 
 const isConnected = (a, b) => {
-    return a.id === b.id || linkMap[`${a.id},${b.id}`] || linkMap[`${b.id},${a.id}`]
+    return !!(graph.getLink(a.id, b.id))
 }
 
-const changeGraphHighlight = (book) => {
-    node.classed("bunt", (d) => isConnected(d, book))
-    node.classed("active", (d) => isConnected(d, book))
-    link.classed("bunt", (d) => d.source.id === book.id || d.target.id === book.id)
-        .attr("stroke", (d) => (d.source.id === book.id || d.target.id === book.id) ? book.color : "#999")
-}
-
-const removeGraphHighlight = (book) => {
-    node.classed("bunt", true)
-        .classed("active", false)
-    link.classed("bunt", false)
-        .attr("stroke", "#999")
-        .attr("stroke-opacity", 0.6)
+const changeGraphHighlight = () => {
+    node.classed("bunt", (d) => {
+        // This could be a single line boolean expression but it's a pain to debug
+        const relevantCurrentBook = currentBook && (isDragging || isHovering)
+        if (!relevantCurrentBook && !currentPath) {
+            // When nothing is highlighted, everything is highlighted
+            return true
+        }
+        if (relevantCurrentBook && (d === currentBook || (currentBook && isConnected(d, currentBook)))) {
+            // If this book is active or connected to the active book
+            return true
+        }
+        if (currentPath && currentPath.includes(d)) {
+            return true
+        }
+        return false
+    })
+    if (currentPath) {
+        node.classed("path-hit", d => currentPath.filter(p => p.id === d.id).length)
+        link.classed("path-hit", d => currentPathLinks.filter(l => l.index == d.index).length)
+    }
+    if (currentBook && (isHovering || isDragging)) {
+        node.classed("active", (d) => d === currentBook || isConnected(d, currentBook))
+        link.classed("bunt", (d) => d.source.id === currentBook.id || d.target.id === currentBook.id)
+            .attr("stroke", (d) => (d.source.id === currentBook.id || d.target.id === currentBook.id) ? currentBook.color : null)
+    } else {
+        node.classed("active", false)
+        link.classed("bunt", false)
+            .attr("stroke", null)
+    }
 }
 
 const changeSearch = () => {
@@ -132,19 +163,26 @@ const changeSearch = () => {
 const hoverHandler = (d, i) => {
     if (isDragging) return
     if (currentBook === i.id) return
+    isHovering = true
     changeSidebarBook(i)
-    changeGraphHighlight(i)
+    changeGraphHighlight()
 }
 const mouseLeaveHandler = (d, i) => {
+    isHovering = false
     if (isDragging) return
-    removeGraphHighlight()
+    changeGraphHighlight()
 }
 
 d3.json("/graph.json").then(data => {
 
-    data.links.forEach(link => {
-        linkMap[`${link.source},${link.target}`] = true
+    data.nodes.forEach(node => {
+        graph.addNode(node.id, node)
     })
+    data.links.forEach(link => {
+        graph.addLink(link.source, link.target)
+        graph.addLink(link.target, link.source)
+    })
+    path = ngraphPath.aStar(graph)
 
     const container = document.querySelector("#book-graph")
     const svg = d3.select("#book-graph").append("svg")
