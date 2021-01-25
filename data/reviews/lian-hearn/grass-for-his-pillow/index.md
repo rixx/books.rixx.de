@@ -27,7 +27,29 @@ review:
   - 2006-10-01
   - 2021-01-17
   rating: 4
-  tldr: null
+  tldr: Enjoyable second part of the series. Generally better than the first part,
+    except for the sheer stupidity of the ending (which serves to set up a lot of
+    equally stupid drama.)
+social:
+  mastodon:
+    datetime: 2021-01-25 17:31:12.123408
+    id: '105617311132724277'
+    in_reply_to: '105617291453518751'
+    text: '12/ Grass for his Pillow by Lian Hearn. Enjoyable second part of the series.
+      Generally better than the first part, except for the sheer stupidity of the
+      ending (which serves to set up a lot of equally stupid drama.)
+
+      https://books.rixx.de/lian-hearn/grass-for-his-pillow/ #rixxReads'
+  number: 12
+  twitter:
+    datetime: 2021-01-25 17:31:11.744098
+    id: '1353742221330276353'
+    in_reply_to: '1353740406727602182'
+    text: '12/ Grass for his Pillow by Lian Hearn. Enjoyable second part of the series.
+      Generally better than the first part, except for the sheer stupidity of the
+      ending (which serves to set up a lot of equally stupid drama.)
+
+      https://books.rixx.de/lian-hearn/grass-for-his-pillow/'
 ---
 
 Enjoyable second part of the series: Our heroes encounter adversity and have to make bad choices and live with their
