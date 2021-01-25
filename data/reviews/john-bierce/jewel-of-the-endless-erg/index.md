@@ -8,12 +8,19 @@ book:
   pages: null
   publication_year: null
   spine_color: '#c7a9a2'
+  series: Mage Errant
+  series_position: 2
   tags:
   - fantasy
   - learning-the-arts
-  title: 'Jewel of the Endless Erg (Mage Errant #2)'
+  title: 'Jewel of the Endless Erg'
 plan:
   date_added: 2020-10-25
+related_books:
+- book: john-bierce/a-traitor-in-skyhold
+  text: The next book in the series.
+- book: john-bierce/into-the-labyrinth
+  text: The previous book in the series.
 review:
   date_read:
   - 2020-10-22

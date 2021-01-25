@@ -18,6 +18,11 @@ book:
   title: Descartes' Error
 plan:
   date_added: '2020-04-17'
+related_books:
+- book: daniel-kahneman/thinking-fast-and-slow
+  text: Another psychology book that has not aged too well.
+- book: w-timothy-gallwey/the-inner-game-of-tennis
+  text: More about non-rational thinking.
 review:
   date_read:
   - 2020-04-18
@@ -46,4 +51,6 @@ social:
       https://books.rixx.de/antonio-r-damasio/descartes-error/'
 ---
 
-Didn't hold much new information for me, because its contents have grown so accepted and foundational in the 25 years since publication. Nevertheless it provides a solid fundamental overview in a very readable way, despite also dealing in a bit of technical details.
+Didn't hold much new information for me, because its contents have grown so accepted and foundational in the 25 years
+since publication. Nevertheless it provides a solid fundamental overview in a very readable way, despite also dealing in
+a bit of technical details.

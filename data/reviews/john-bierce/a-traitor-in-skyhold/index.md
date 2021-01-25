@@ -19,8 +19,10 @@ book:
 plan:
   date_added: 2020-10-25
 related_books:
-- book: john-bierce/into-the-labyrinth
+- book: john-bierce/jewel-of-the-endless-erg
   text: The previous book in the series.
+- book: john-bierce/into-the-labyrinth
+  text: The first book in the series.
 review:
   date_read:
   - 2020-10-23

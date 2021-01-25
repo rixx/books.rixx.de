@@ -16,6 +16,13 @@ book:
   title: The Songs of Distant Earth
 plan:
   date_added: '2020-01-23'
+related_books:
+- book: adrian-tchaikovsky/children-of-time
+  text: Another last ship leaving a destroyed Earth.
+- book: arthur-c-clarke/the-nine-billion-names-of-god
+  text: Clarke's short fiction.
+- book: arthur-c-clarke/the-star
+  text: More of Clarke's short fiction.
 review:
   date_read:
   - 2020-01-24
@@ -48,4 +55,7 @@ social:
 A future human settlement gets visited by the last travellers from the doomed planet earth, on their way to their final
 destination, a new earth. Very calm, slow, slightly utopian.
 
-I'm not really sure what to make of this book. On the one hand, it was utterly lovely: The calm, nearly slice-of-life story of the surviving members of the human race. Touching, simple, optimistic, … sweet? At the same time, the lack of tension made me take a long time reading this book, and the parts that were interesting to me (the other planet! the ALIEN LIFE!) were only mentioned in passing. Weirdly frustrating for such a nice and optimistic book.
+I'm not really sure what to make of this book. On the one hand, it was utterly lovely: The calm, nearly slice-of-life
+story of the surviving members of the human race. Touching, simple, optimistic, … sweet? At the same time, the lack of
+tension made me take a long time reading this book, and the parts that were interesting to me (the other planet! the
+ALIEN LIFE!) were only mentioned in passing. Weirdly frustrating for such a nice and optimistic book.

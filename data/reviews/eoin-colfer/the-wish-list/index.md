@@ -18,6 +18,8 @@ plan:
 related_books:
 - book: lauren-oliver/before-i-fall
   text: Another "save yourself after your death" story.
+- book: a-j-hackwith/the-library-of-the-unwritten
+  text: More people getting caught in the conflict between heaven and hell.
 - book: eoin-colfer/artemis-fowl
   text: Eoin Colfer's better-known books. Similar tone, probably a bit better but also more drawn-out.
 - book: neil-gaiman/the-graveyard-book

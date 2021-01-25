@@ -14,6 +14,9 @@ book:
   title: The March North
 plan:
   date_added: 2020-10-08
+related_books:
+- book: charles-stross/the-atrocity-archives
+  text: No, these two books don't have anything to do with one another. Except that both delight in making the reader work for their information, and in their own cleverness. Might be a usenet thing.
 review:
   date_read:
   - 2020-08-03

@@ -24,6 +24,8 @@ related_books:
 - book: ralf-isau/das-jahrhundertkind
   text: A completely different story, but one that also follows its protagonist from
     childhood to old age over several books.
+- book: elizabeth-bear/range-of-ghosts
+  text: Magical story of a young brave man who lives mostly on horseback.
 - book: liselotte-welskopf-henrich/der-weg-in-die-verbannung
   text: The next book in the series.
 review:

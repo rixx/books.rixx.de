@@ -24,6 +24,10 @@ related_books:
   text: "Nonfiction: An actual NASA catastrophe."
 - book: diane-duane/a-wizard-of-mars
   text: More Mars shenanigans, this time Fantasy.
+- book: chris-hadfield/an-astronauts-guide-to-life-on-earth
+  text: One famous astronaut, meet another.
+- book: andy-weir/the-egg
+  text: Andy Weir when he's being famous.
 review:
   date_read:
   - 2015-08-06

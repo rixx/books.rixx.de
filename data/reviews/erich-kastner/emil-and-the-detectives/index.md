@@ -19,7 +19,7 @@ book:
   title: Emil and the Detectives
 plan:
   date_added: '2015-08-06'
-related_book:
+related_books:
 - book: astrid-lindgren/kalle-blomquist
   text: Another junior detective.
 - book: otfried-preussler/der-rauber-hotzenplotz

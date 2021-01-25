@@ -15,6 +15,8 @@ plan:
 related_books:
 - book: stephen-king/11-22-63
   text: More time travel to the rural US in the 60s.
+- book: elizabeth-bear/range-of-ghosts
+  text: More by Elizabeth Baer.
 review:
   date_read:
   - 2020-02-12

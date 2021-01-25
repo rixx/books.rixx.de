@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: eoin-colfer/artemis-fowl
   text: Young kid with powers in the midst of a world-wide magical conspiracy.
+- book: a-j-hackwith/the-library-of-the-unwritten
+  text: More action-based librarians.
 - book: brandon-sanderson/alcatraz-versus-the-scriveners-bones
   text: The next book in the series.
 review:

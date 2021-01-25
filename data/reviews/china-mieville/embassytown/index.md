@@ -27,6 +27,8 @@ related_books:
     more into linguistics. Do read!
 - book: ursula-k-le-guin/the-left-hand-of-darkness
   text: More scifi through the lens of anthropology and language.
+- book: china-mieville/perdido-street-station
+  text: Some authors can't manage a world like this *once* in their life. Miéville managed many.
 review:
   date_read:
   - 2019-03-12

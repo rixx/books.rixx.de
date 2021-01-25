@@ -27,6 +27,8 @@ related_books:
   text: Excellent scifi with alien aliens.
 - book: peter-watts/starfish
   text: A different kind of creepy Peter Watts.
+- book: isabel-fall/i-sexually-identify-as-an-attack-helicopter
+  text: Another take on transhumanism.
 review:
   date_read:
   - 2019-01-11

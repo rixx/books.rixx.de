@@ -18,6 +18,9 @@ book:
   title: The Last Starfighter
 plan:
   date_added: '2018-04-05'
+related_books:
+- book: orson-scott-card/enders-game
+  text: You know the drill.
 review:
   date_read:
   - 2018-04-29

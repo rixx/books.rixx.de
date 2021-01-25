@@ -29,6 +29,8 @@ related_books:
   text: Genius kids going overboard.
 - book: janusz-korczak/king-matt-the-first
   text: Another bright child taking the rei(g)ns.
+- book: alan-dean-foster/the-last-starfighter
+  text: You know the drill.
 review:
   date_read:
   - 2014-01-01

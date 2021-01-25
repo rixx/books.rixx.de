@@ -23,6 +23,8 @@ related_books:
   text: Similar approaches to handling your dark side.
 - book: brene-brown/daring-greatly
   text: Both books talk about vulnerability, and have similar opinions, but come from a wildly different place.
+- book: bell-hooks/all-about-love
+  text: Solo spiritual growth vs duo spiritual growth.
 review:
   date_read:
   - 2020-05-24

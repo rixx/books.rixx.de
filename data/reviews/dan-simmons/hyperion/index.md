@@ -20,10 +20,19 @@ book:
   title: Hyperion
 plan:
   date_added: '2017-02-01'
+related_books:
+- book: frank-herbert/dune
+  text: Epic complex philosophical scifi-masterworks that I could not get into.
+- book: gene-wolfe/the-shadow-of-the-torturer
+  text: Another scifi-classic that I just don't appreciate. People seem to think the two are linked.
 review:
   date_read:
   - 2018-11-16
   rating: 3
 ---
 
-I think my problem with **Hyperion** were my expectations. The book is touted as one of the best scifi books out there, and it didn't live up to that. Apart from this, though, it's a fine scifi book – relatable characters, each presenting themselves over and their (mostly tragic) history over the course of an equally tragic main plot. Then, just when we're supposed to get some resolution, it simply stops. WHAT? Yes. The entire book is giving the cast background to make us understand the stakes, and then leaves us hanging on a cliffhanger. I'll read the next one, but I'll do it grudgingly.
+I think my problem with **Hyperion** were my expectations. The book is touted as one of the best scifi books out there,
+and it didn't live up to that. Apart from this, though, it's a fine scifi book – relatable characters, each presenting
+themselves over and their (mostly tragic) history over the course of an equally tragic main plot. Then, just when we're
+supposed to get some resolution, it simply stops. WHAT? Yes. The entire book is giving the cast background to make us
+understand the stakes, and then leaves us hanging on a cliffhanger. I'll read the next one, but I'll do it grudgingly.

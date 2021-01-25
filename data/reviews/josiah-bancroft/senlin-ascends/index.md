@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2018-09-11'
 related_books:
+- book: walter-moers/the-13-12-lives-of-captain-bluebear
+  text: Features another completely overwhelming city.
 - book: josiah-bancroft/arm-of-the-sphinx
   text: The next book in the series.
 review:

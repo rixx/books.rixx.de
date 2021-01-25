@@ -22,7 +22,7 @@ book:
   title: The Just City
 plan:
   date_added: '2019-09-28'
-related_book:
+related_books:
 - book: jostein-gaarder/sophies-world
   text: More philosopher fanboying.
 - book: jo-walton/my-real-children

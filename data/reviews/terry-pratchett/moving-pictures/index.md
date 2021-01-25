@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: dale-bailey/the-ghoul-goes-west
+  text: Another loving commentary on Hollywood.
 - book: terry-pratchett/moving-pictures
   text: The next Industrial Discworld book.
 - book: terry-pratchett/death-and-what-comes-next

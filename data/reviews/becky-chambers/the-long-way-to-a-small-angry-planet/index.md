@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2017-11-15'
 related_books:
+- book: aliette-de-bodard/the-tea-master-and-the-detective
+  text: More sentient ships.
 - book: ken-liu/the-paper-menagerie-and-other-stories
   text: More painfully wholesome stories.
 - book: becky-chambers/a-closed-and-common-orbit

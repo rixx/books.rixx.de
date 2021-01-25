@@ -17,6 +17,11 @@ book:
   title: Die Habsburger ohne Reich
 plan:
   date_added: 2020-07-18
+related_books:
+- book: friedrich-torberg/die-tante-jolesch
+  text: Torberg can maybe show just a little bit how we got here.
+- book: stefan-zweig/the-world-of-yesterday
+  text: See somebody else become a monarchist.
 review:
   date_read:
   - 2020-07-18

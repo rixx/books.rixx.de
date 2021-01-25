@@ -15,10 +15,19 @@ book:
   title: Flowers for Algernon
 plan:
   date_added: '2017-11-15'
+related_books:
+- book: franz-kafka/the-metamorphosis
+  text: Hard not to link the two – what does it mean to be you? What does it mean to change?
+- book: ian-j-deary/intelligence-a-very-short-introduction
+  text: Nonfiction about intelligence.
 review:
   date_read:
   - 2018-07-25
   rating: 3
 ---
 
-I liked **Flowers for Algernon** by *Daniel Keyes* – even though the ending in itself felt predictable, it was very clear that the journey to that ending was the core of the book. It's not an easy question: How much does intelligence determine who we are, and what would happen if our intelligence were to rapidly in- or decrease? While I liked the concept of the book, I can't say that I enjoyed it though … it felt too stressfull with a hint of the kafkaesque for that.
+I liked **Flowers for Algernon** by *Daniel Keyes* – even though the ending in itself felt predictable, it was very
+clear that the journey to that ending was the core of the book. It's not an easy question: How much does intelligence
+determine who we are, and what would happen if our intelligence were to rapidly in- or decrease? While I liked the
+concept of the book, I can't say that I enjoyed it though … it felt too stressfull with a hint of the kafkaesque for
+that.

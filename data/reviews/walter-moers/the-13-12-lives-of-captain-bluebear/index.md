@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: josiah-bancroft/senlin-ascends
+  text: Features another completely overwhelming city.
 - book: walter-moers/the-city-of-dreaming-books
   text: The Moers book that is closest in spirit.
 - book: douglas-adams/the-hitchhikers-guide-to-the-galaxy

@@ -21,8 +21,14 @@ book:
 plan:
   date_added: '2018-07-28'
 related_books:
+- book: elise-kova/the-alchemists-of-loom
+  text: Young magically talented woman will not hesitate to kill to reach her goal, and makes friends along the way.
 - book: mark-lawrence/grey-sister
   text: The next book in the series.
+- book: jay-kristoff/nevernight
+  text: Young girl goes to a slightly religious assassin school.
+- book: brent-weeks/the-way-of-shadows
+  text: More thematically fitting assassins.
 review:
   date_read:
   - 2018-12-04

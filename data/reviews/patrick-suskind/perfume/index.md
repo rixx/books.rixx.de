@@ -18,6 +18,9 @@ book:
   title: 'Perfume: The Story of a Murderer'
 plan:
   date_added: '2015-04-09'
+related_books:
+- book: richard-powers/the-time-of-our-singing
+  text: What Suskind does for smelling, Powers does for singing.
 review:
   date_read:
   - 2010-12-01

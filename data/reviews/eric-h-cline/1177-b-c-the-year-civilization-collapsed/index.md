@@ -18,6 +18,9 @@ book:
   title: '1177 B.C.: The Year Civilization Collapsed'
 plan:
   date_added: '2018-07-31'
+related_books:
+- book: james-c-scott/against-the-grain
+  text: Even earlier history.
 review:
   date_read:
   - 2020-05-16

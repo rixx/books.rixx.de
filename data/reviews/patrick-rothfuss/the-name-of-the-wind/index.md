@@ -26,6 +26,8 @@ related_books:
 - book: n-k-jemisin/the-hundred-thousand-kingdoms
   text: Protagonists elevated to a place beyond their station where they have to learn
     and prove themselves.
+- book: john-bierce/into-the-labyrinth
+  text: Similar schooling arc.
 - book: patrick-rothfuss/the-wise-mans-fear
   text: The next book in the series.
 review:

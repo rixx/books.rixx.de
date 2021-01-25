@@ -19,6 +19,9 @@ book:
   title: Every Day
 plan:
   date_added: '2018-06-06'
+related_books:
+- book: lauren-oliver/before-i-fall
+  text: Groundhog day scenario, similarly YA angst.
 review:
   date_read:
   - 2018-06-06
@@ -26,3 +29,4 @@ review:
 ---
 
 It's a nice premise, but the execution was somewhat lacking. Too dramatic, too predictable, and not going far enough.
+Interesting take on a groundhog-style premise though.

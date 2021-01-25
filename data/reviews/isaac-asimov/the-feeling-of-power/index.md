@@ -8,12 +8,20 @@ book:
   tags:
   - scifi
   title: The Feeling of Power
+  source: https://urbigenous.net/library/power.html
 plan:
   date_added: '2018-07-15'
+related_books:
+- book: isaac-asimov/all-the-troubles-of-the-world
+  text: More Asimov.
 review:
   date_read:
   - 2018-07-15
   rating: 3
 ---
 
-Let's put it like this: My grandfather is a maths teacher, and he'd love this. [The Feeling of Power](<a target="_blank" href="https://urbigenous.net/library/power.html" rel="nofollow">https://urbigenous.net/library/power....</a>) by *Isaac Asimov* explores a world in which computers are everywhere, and humans have forgotten how to do anything by themselves, especially calculations. Not a novel concept, you may say, but the publication date is 1958. I'm completely undecided on if this has aged astonishingly well or has been made unreadable, but I'd say take the five minutes and read it regardless.
+Let's put it like this: My grandfather is a maths teacher, and he'd love this. The Feeling of Power by *Isaac Asimov*
+explores a world in which computers are everywhere, and humans have forgotten how to do anything by themselves,
+especially calculations. Not a novel concept, you may say, but the publication date is 1958. I'm completely undecided on
+if this has aged astonishingly well or has been made unreadable, but I'd say take the five minutes and read it
+regardless.

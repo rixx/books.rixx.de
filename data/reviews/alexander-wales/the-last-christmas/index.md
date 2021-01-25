@@ -6,14 +6,26 @@ book:
   publication_year: null
   spine_color: '#8e7571'
   title: The Last Christmas
+  tags:
+  - christmas
+  source: https://www.fanfiction.net/s/9915682/1/The-Last-Christmas
 plan:
   date_added: '2018-09-20'
 review:
   date_read:
   - 2018-09-21
   rating: 2
+related_books:
+- book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
+  text: The original rational fic.
+- book: alexander-wales/a-bluer-shade-of-white
+  text: More Alexander Wales.
+- book: terry-pratchett/hogfather
+  text: If you're here for the Christmas mood.
 tags:
 - christmas
 ---
 
-This story has potential, but rationalists and their aversion to humour kind of ruins it. [The Last Christmas](<a target="_blank" href="https://www.fanfiction.net/s/9915682/1/The-Last-Christmas" rel="nofollow">https://www.fanfiction.net/s/9915682/...</a>) is a fun premise, but way too short to build it up properly, and so it ends up all over the place. Still: It's pretty short, and a nice read, so if you want to see how an engineer deals with suddenly being Santa, go check it out.
+This story has potential, but rationalists and their aversion to humour kind of ruins it.  The Last Christmas is a fun
+premise, but way too short to build it up properly, and so it ends up all over the place. Still: It's pretty short, and
+a nice read, so if you want to see how an engineer deals with suddenly being Santa, go check it out.

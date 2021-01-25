@@ -17,7 +17,7 @@ book:
   title: Chess Story
 plan:
   date_added: '2016-05-08'
-relaed_books:
+related_books:
 - book: stefan-zweig/the-world-of-yesterday
   text: In a way, the prequel to this book.
 review:

@@ -15,6 +15,11 @@ book:
   title: 'Get Together: How to build a community with your people'
 plan:
   date_added: '2020-03-05'
+related_books:
+- book: steven-sloman/the-knowledge-illusion
+  text: This book made me understand more about group organisation than Get Together did.
+- book: vm-vicky-brasseur/forge-your-future-with-open-source
+  text: Different practices of community-building, but growing closer each year.
 review:
   date_read:
   - 2020-03-05

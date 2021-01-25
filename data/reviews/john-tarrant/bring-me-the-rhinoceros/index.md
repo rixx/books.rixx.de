@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: lao-tzu/tao-te-ching
   text: More zen.
+- book: douglas-e-harding/on-having-no-head
+  text: A Zen book that didn't work for me at all, but ymmv.
 review:
   date_read:
   - 2020-06-21

@@ -23,6 +23,10 @@ related_books:
   text: A better fit for me.
 - book: meg-barker/rewriting-the-rules
   text: A better fit for me.
+- book: jennifer-egan/black-box
+  text: Contains a vivid description of PTSD.
+- book: alice-miller-ruth-ward/the-drama-of-the-gifted-child
+  text: An other take on early childhood and invisible neglect.
 social:
   mastodon:
     datetime: 2020-07-02 10:44:59.229079

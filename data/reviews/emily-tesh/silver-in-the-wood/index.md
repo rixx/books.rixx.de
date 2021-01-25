@@ -21,6 +21,11 @@ book:
   title: Silver in the Wood
 plan:
   date_added: '2020-02-20'
+related_books:
+- book: naomi-novik/uprooted
+  text: Magical dangerous forests.
+- book: k-j-charles/the-magpie-lord
+  text: More olde magical queer British romance.
 review:
   date_read:
   - 2020-02-20
@@ -49,4 +54,5 @@ social:
       https://books.rixx.de/reviews/2020/silver-in-the-wood/'
 ---
 
-Good forest fairytale. Heavier on the "hurt" side of hurt/comfort that I initially thought. Good characters, good writing, and only a bit low on substance.
+Good forest fairytale. Heavier on the "hurt" side of hurt/comfort that I initially thought. Good characters, good
+writing, and only a bit low on substance.

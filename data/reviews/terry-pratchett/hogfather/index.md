@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: p-l-travers/mary-poppins
+  text: Discworld governesses are more terrifying than even Mary Poppins.
 - book: terry-pratchett/the-wee-free-men
   text: Another young Discworld heroine taking on supernatural beings to defend the
     children in her care …

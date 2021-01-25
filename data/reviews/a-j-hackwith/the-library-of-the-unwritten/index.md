@@ -15,6 +15,11 @@ book:
   title: The Library of the Unwritten
 plan:
   date_added: 2020-11-10
+related_books:
+- book: brandon-sanderson/alcatraz-versus-the-evil-librarians
+  text: More action-based librarians.
+- book: eoin-colfer/the-wish-list
+  text: More people getting caught in the conflict between heaven and hell.
 review:
   date_read:
   - 2020-10-30

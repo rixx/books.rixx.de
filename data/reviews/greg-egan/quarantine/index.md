@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2018-02-21'
 related_books:
+- book: arthur-c-clarke/the-nine-billion-names-of-god
+  text: Both paint the same picture.
 - book: greg-egan/permutation-city
   text: The next book in the series.
 - book: frank-herbert/dune

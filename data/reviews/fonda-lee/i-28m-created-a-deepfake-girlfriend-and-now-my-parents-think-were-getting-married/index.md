@@ -12,6 +12,9 @@ book:
     married
 plan:
   date_added: '2020-02-12'
+related_books:
+- book: gretchen-mcculloch/because-internet
+  text: Internet slang everywhere.
 review:
   date_read:
   - 2020-02-12
@@ -38,4 +41,5 @@ social:
       https://books.rixx.de/reviews/2020/i-28m-created-a-deepfake-girlfriend-and-now-my-parents-think-were-getting-married/'
 ---
 
-About as good as the title suggests (and about as much content, too). Got the tone of voice right, more or less, though catering to the wider crowd/immersion break with the user names.
+About as good as the title suggests (and about as much content, too). Got the tone of voice right, more or less, though
+catering to the wider crowd/immersion break with the user names.

@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: w-timothy-gallwey/the-inner-game-of-tennis
   text: Taught me more useful things than Kahneman. If you're into stupid terminology, both books have a System 1/2 thing.
+- book: antonio-r-damasio/descartes-error
+  text: Another psychology book that has not aged too well.
 review:
   date_read:
   - 2018-05-29

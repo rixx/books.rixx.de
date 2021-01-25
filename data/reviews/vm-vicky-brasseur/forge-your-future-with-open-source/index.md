@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: linus-torvalds/just-for-fun
   text: See how a huge Open Source project started out.
+- book: bailey-richardson/get-together
+  text: Different practices of community-building, but growing closer each year.
 review:
   date_read:
   - 2019-09-20

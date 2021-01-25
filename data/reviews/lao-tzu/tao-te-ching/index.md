@@ -25,6 +25,8 @@ related_books:
   text: A modern take on some aspects of zen.
 - book: john-tarrant/bring-me-the-rhinoceros
   text: More zen.
+- book: epictetus/the-manual
+  text: More old philosophy.
 review:
   date_read:
   - 2020-03-26

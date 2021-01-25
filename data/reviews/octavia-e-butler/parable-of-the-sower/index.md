@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-03-06'
 related_books:
+- book: rivers-solomon/an-unkindness-of-ghosts
+  text: Fighting against being dehumanized in a cruel class-based society on the brink of disaster.
 - book: octavia-e-butler/parable-of-the-talents
   text: The next book in the series.
 review:

@@ -27,6 +27,8 @@ related_books:
 - book: robert-a-heinlein/have-space-suit-will-travel
   text: For a similar feeling of interstellar travel by kids who have to deal with
     very real conflicts, Have Space Suit–Will Travel is a good match.
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: More supercomputers that will answer your questions.
 - book: diane-duane/deep-wizardry
   text: The previous book in the series.
 - book: diane-duane/a-wizard-abroad

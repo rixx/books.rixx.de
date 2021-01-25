@@ -17,6 +17,9 @@ book:
   title: The Tyranny of Metrics
 plan:
   date_added: '2020-01-09'
+related_books:
+- book: steven-sloman/the-knowledge-illusion
+  text: Better models for cooperation.
 review:
   date_read:
   - 2020-04-17

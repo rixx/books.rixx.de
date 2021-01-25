@@ -19,6 +19,9 @@ book:
   title: Twilight of the Idols
 plan:
   date_added: 2020-05-24
+related_books:
+- book: epictetus/the-manual
+  text: Nitsche has Opinions on Greek philosophers.
 review:
   date_read:
   - 2020-05-25

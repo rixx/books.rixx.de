@@ -24,6 +24,8 @@ related_books:
   text: Pratchett's Watch is probably the closest I've gotten to a similar sense of humour and fighting at the same time.
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Similarly fast-paced humour, but darker.
+- book: josiah-bancroft/arm-of-the-sphinx
+  text: Desperate band of friends making a last stand.
 review:
   date_read:
   - 2019-05-18

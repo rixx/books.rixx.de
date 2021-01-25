@@ -25,6 +25,10 @@ related_books:
 - book: terry-pratchett/good-omens
   text: The dialogue between these two is very similar, even when everything else
     isn't.
+- book: isaac-asimov/all-the-troubles-of-the-world
+  text: More supercomputers that will answer your questions.
+- book: diane-duane/high-wizardry
+  text: More nearly all-knowing computers.
 - book: douglas-adams/the-restaurant-at-the-end-of-the-universe
   text: The next book in the series.
 review:

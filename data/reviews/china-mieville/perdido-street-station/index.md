@@ -20,8 +20,14 @@ book:
 plan:
   date_added: '2018-02-19'
 related_books:
+- book: brenda-peynado/the-kite-maker
+  text: Similar take on insect-like aliens in a big human/mixed city.
+- book: abbey-mei-otis/sweetheart
+  text: More suburban take on insectoid aliens in a mixed city.
 - book: china-mieville/the-scar
   text: The next book in the series.
+- book: china-mieville/embassytown
+  text: Some authors can't manage a world like this *once* in their life. Miéville managed many.
 review:
   date_read:
   - 2018-06-19

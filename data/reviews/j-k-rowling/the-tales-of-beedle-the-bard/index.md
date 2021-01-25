@@ -17,10 +17,15 @@ book:
   title: The Tales of Beedle the Bard
 plan:
   date_added: '2016-05-03'
+related_books:
+- book: j-k-rowling/harry-potter-and-the-sorcerers-stone
+  text: The main work.
 review:
   date_read:
   - 2017-05-31
   rating: 2
 ---
 
-Meh. I kind of expected more (in volume, at least), and the Dumbledore parts reminded me awfully of Kästner in Pünktchen &amp; Anton, where he felt the need to explain lots of stuff, especially the political implications. I think Rowling might have done better to trust her readers to think for themselves.
+Meh. I kind of expected more (in volume, at least), and the Dumbledore parts reminded me awfully of Kästner in Pünktchen
+&amp; Anton, where he felt the need to explain lots of stuff, especially the political implications. I think Rowling
+might have done better to trust her readers to think for themselves.

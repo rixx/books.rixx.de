@@ -18,6 +18,11 @@ book:
   title: 'On Having No Head: Zen and the Rediscovery of the Obvious'
 plan:
   date_added: '2020-05-09'
+related_books:
+- book: john-tarrant/bring-me-the-rhinoceros
+  text: The Zen book that worked for me.
+- book: daryl-gregory/second-person-present-tense
+  text: Also about having no head. In a way.
 review:
   date_read:
   - 2020-05-09

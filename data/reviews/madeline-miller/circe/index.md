@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: Background knowledge on Greek legends.
+- book: janell-rhiannon/song-of-sacrifice
+  text: More fiction about Greek myths.
 review:
   date_read:
   - 2019-11-24

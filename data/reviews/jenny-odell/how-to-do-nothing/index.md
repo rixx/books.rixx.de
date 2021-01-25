@@ -18,6 +18,11 @@ book:
   title: 'How to Do Nothing: Resisting the Attention Economy'
 plan:
   date_added: '2020-01-26'
+related_books:
+- book: john-tarrant/bring-me-the-rhinoceros
+  text: A better intro to zen attitudes for me.
+- book: josef-pieper/leisure-the-basis-of-culture
+  text: A better criticism of work culture.
 review:
   date_read:
   - 2019-12-26

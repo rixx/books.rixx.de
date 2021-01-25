@@ -22,10 +22,17 @@ plan:
 related_books:
 - book: michael-d-leinbach/bringing-columbia-home
   text: More insight into NASA.
+- book: andy-weir/the-martian
+  text: One famous astronaut, meet another.
 review:
   date_read:
   - 2018-08-26
   rating: 5
 ---
 
-This book is just nice reading in every regard. You'll learn something about space. You'll learn about NASA and interntional space agency relations. You'll learn about Chris Hadfield's life on earth and in space. It's a peculiar mix of his life story (or rather work story), and the more fundamental approaches that he learned on the way, and that allowed him to get where he got. There are lots of calls for humility, and preparedness, and perseverance, and empathy and helping others bear their loads. And at the same time, the book is completely light-hearted, and made me smile on a regular basis. It made my day better, and it might help make me better, too.
+This book is just nice reading in every regard. You'll learn something about space. You'll learn about NASA and
+interntional space agency relations. You'll learn about Chris Hadfield's life on earth and in space. It's a peculiar mix
+of his life story (or rather work story), and the more fundamental approaches that he learned on the way, and that
+allowed him to get where he got. There are lots of calls for humility, and preparedness, and perseverance, and empathy
+and helping others bear their loads. And at the same time, the book is completely light-hearted, and made me smile on a
+regular basis. It made my day better, and it might help make me better, too.

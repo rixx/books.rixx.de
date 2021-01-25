@@ -26,7 +26,7 @@ related_books:
 - book: neil-gaiman/stardust
   text: Stardust has a similar sense of big reluctant (British) magical adventure. Maybe all that divides them is a gender line …
 - book: naomi-novik/uprooted
-  text: The feared evil sorcerer how isn't.
+  text: The feared evil sorcerer who isn't.
 review:
   date_read:
   - 2009-10-01

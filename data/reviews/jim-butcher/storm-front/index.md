@@ -27,6 +27,8 @@ related_books:
   text: Russian Urban Fantasy, with better characters and less fake grit.
 - book: richard-kadrey/sandman-slim
   text: A Dresden lookalike.
+- book: ed-mcdonald/blackwing
+  text: Different setting, but tonally the same.
 - book: jim-butcher/furies-of-calderon
   text: Butcher's other series.
 - book: jim-butcher/fool-moon

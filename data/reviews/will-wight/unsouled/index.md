@@ -18,8 +18,12 @@ plan:
 related_books:
 - book: will-wight/soulsmith
   text: The next book in the series.
+- book: cthulhuraejepsen/worth-the-candle
+  text: Also progression fiction.
 - book: lian-hearn/across-the-nightingale-floor
   text: I'm afraid Japanese fantasy is the closest I can offer.
+- book: john-bierce/into-the-labyrinth
+  text: Start out as powerless, then work yourself up. Unsouled has exponential growth where Mage Errant stays linear.
 review:
   date_read:
   - 2020-04-30

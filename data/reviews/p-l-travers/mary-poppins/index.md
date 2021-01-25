@@ -19,6 +19,9 @@ book:
   title: Mary Poppins
 plan:
   date_added: '2016-05-19'
+related_books:
+- book: terry-pratchett/hogfather
+  text: Discworld governesses are more terrifying than even Mary Poppins.
 review:
   date_read:
   - 2002-02-01

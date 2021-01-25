@@ -12,6 +12,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: daniel-keyes/flowers-for-algernon
+  text: Hard not to link the two – what does it mean to be you? What does it mean to change?
 - book: franz-kafka/the-castle
   text: The next Kafka book.
 review:

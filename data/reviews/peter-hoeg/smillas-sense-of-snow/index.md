@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: stieg-larsson/the-girl-with-the-dragon-tattoo
   text: Smilla and Lisbeth could be sisters.
+- book: jordanna-max-brodsky/the-wolf-in-the-whale
+  text: Another book that will make you think a lot about snow and arctic survival.
 review:
   date_read:
   - 2010-10-01

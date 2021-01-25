@@ -23,6 +23,10 @@ related_books:
   text: Torberg tells of adjacent circles at the same time.
 - book: stefan-zweig/chess-story
   text: In a way, the book that concludes this one.
+- book: dieter-kindermann/die-habsburger-ohne-reich
+  text: Modern Austrian monarchist.
+- book: ulrich-herbert/das-dritte-reich-geschichte-einer-diktatur
+  text: Historical context.
 review:
   date_read:
   - 2008-12-01

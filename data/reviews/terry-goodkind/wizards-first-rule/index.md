@@ -24,6 +24,8 @@ related_books:
   text: The original.
 - book: rosemary-kirstein/the-steerswoman
   text: A much better truth-seeker.
+- book: christopher-stasheff/the-warlock-in-spite-of-himself
+  text: More terrible old Fantasy.
 review:
   date_read:
   - 2016-10-24

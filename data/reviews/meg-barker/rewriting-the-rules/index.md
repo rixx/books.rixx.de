@@ -21,6 +21,8 @@ related_books:
   text: Details on how to be authentic and also find relationships.
 - book: jo-walton/my-real-children
   text: Both books implore you to stand up for yourself.
+- book: bell-hooks/all-about-love
+  text: Both good books about healthy relationships.
 review:
   date_read:
   - 2019-10-05

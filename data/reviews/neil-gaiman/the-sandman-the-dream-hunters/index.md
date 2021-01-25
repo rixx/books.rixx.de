@@ -13,7 +13,7 @@ book:
   title: 'The Sandman: The Dream Hunters'
 plan:
   date_added: '2018-06-11'
-related_book:
+related_books:
 - book: hans-christian-andersen/the-complete-fairy-tales
   text: The original Sandman.
 - book: e-t-a-hoffmann/der-sandmann

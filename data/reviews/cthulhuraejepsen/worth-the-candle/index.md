@@ -9,10 +9,15 @@ book:
   title: Worth the Candle
 plan:
   date_added: '2018-07-12'
+related_books:
+- book: will-wight/unsouled
+  text: Also progression fiction.
 review:
   date_read:
   - 2018-07-12
   rating: 4
 ---
 
-While I'm a sucker for "suddenly in a game" stories, I dislike most, because they're typically really bad. This one isn't. It gets meta (well, not fast, but it does), and addresses most things you'll point out as ridiculous in the beginning. Still ongoing, and very good.
+While I'm a sucker for "suddenly in a game" stories, I dislike most, because they're typically really bad. This one
+isn't. It gets meta (well, not fast, but it does), and addresses most things you'll point out as ridiculous in the
+beginning. Still ongoing, and very good. LitRPG.

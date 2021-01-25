@@ -9,12 +9,19 @@ book:
   tags:
   - scifi
   title: Sweetheart
+  source: https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/
 plan:
   date_added: '2018-09-20'
+related_books:
+- book: brenda-peynado/the-kite-maker
+  text: More suburban insectoid aliens with xenophobia challenges.
+- book: china-mieville/perdido-street-station
+  text: Less civilised take on insect-like aliens in a big human/mixed city.
 review:
   date_read:
   - 2018-09-20
   rating: 3
 ---
 
-A bit on the nose, but still nice: [Sweatheart](<a target="_blank" href="https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/" rel="nofollow">https://www.tor.com/2018/08/14/read-a...</a>) is a well-written very short story by *Abbey Mei Otis* that is first sweet and then chilling in the path the story takes – nothing too special either, just a perfectly fine scifi short.
+A bit on the nose, but still nice: Sweatheart is a well-written very short story by *Abbey Mei Otis* that is first sweet
+and then chilling in the path the story takes – nothing too special either, just a perfectly fine scifi short.

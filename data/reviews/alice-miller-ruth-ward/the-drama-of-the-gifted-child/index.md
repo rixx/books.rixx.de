@@ -20,6 +20,9 @@ book:
   title: The Drama of the Gifted Child
 plan:
   date_added: 2020-10-26
+related_books:
+- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+  text: A better take on early childhood and invisible neglect.
 review:
   date_read:
   - 2020-10-25

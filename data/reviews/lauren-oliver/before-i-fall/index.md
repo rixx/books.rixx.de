@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: eoin-colfer/the-wish-list
   text: Another "save yourself after your death" story.
+- book: david-levithan/every-day
+  text: Groundhog day by way of body jumping, similarly YA angst.
 review:
   date_read:
   - 2017-06-27

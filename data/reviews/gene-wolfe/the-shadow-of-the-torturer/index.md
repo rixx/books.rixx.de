@@ -17,10 +17,17 @@ book:
   title: The Shadow of the Torturer
 plan:
   date_added: '2018-02-18'
+related_books:
+- book: j-r-r-tolkien/the-lord-of-the-rings
+  text: I was very tempted to link the Silmarillion out of spite.
+- book: dan-simmons/hyperion
+  text: Another scifi-classic that I just don't appreciate. People seem to think the two are linked.
 review:
   date_read:
   - 2018-03-12
   rating: 1
 ---
 
-Really not sure what to think. Odd pacing, odd descriptions, odd … everything? I just didn't find my way into this world and this rhythm. I guess the storytelling is a stylistic choice that makes sense within that world, but requires a dedication I don't feel motivated for (think Tolkien).
+Really not sure what to think. Odd pacing, odd descriptions, odd … everything? I just didn't find my way into this world
+and this rhythm. I guess the storytelling is a stylistic choice that makes sense within that world, but requires a
+dedication I don't feel motivated for (think Tolkien).

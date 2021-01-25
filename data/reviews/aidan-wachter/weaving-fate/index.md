@@ -21,6 +21,8 @@ related_books:
 - book: carolyn-elliott/existential-kink
   text: Elliott's Deepest Fear Inventory is a similar approach to Wachter's Desire
     Inventory.
+- book: adam-r-shannon/on-the-day-you-spend-forever-with-your-dog
+  text: Surprisingly simlar takes on memory and the flow of time.
 review:
   date_read:
   - 2021-01-06

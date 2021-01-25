@@ -15,6 +15,8 @@ book:
 plan:
   date_added: '2019-10-18'
 related_books:
+- book: casey-mcquiston/red-white-royal-blue
+  text: Very similar YA romance, down to the British royalty being involved.
 - book: diane-duane/so-you-want-to-be-a-wizard
   text: Feels like a grown-up, British version of Duane, in some ways. Less deep, of course.
 review:

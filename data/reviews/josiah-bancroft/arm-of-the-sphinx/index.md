@@ -18,6 +18,8 @@ book:
 plan:
   date_added: 2020-11-28
 related_books:
+- book: nicholas-eames/kings-of-the-wyld
+  text: Desperate band of friends making a last stand.
 - book: josiah-bancroft/senlin-ascends
   text: The previous book in the series.
 review:

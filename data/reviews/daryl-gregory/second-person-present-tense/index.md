@@ -11,6 +11,13 @@ book:
   title: Second Person, Present Tense
 plan:
   date_added: '2020-04-23'
+related_books:
+- book: ursula-k-le-guin/the-ones-who-walk-away-from-omelas
+  text: Both landmarks in my mind.
+- book: andy-weir/the-egg
+  text: Another mind-changing short story.
+- book: douglas-e-harding/on-having-no-head
+  text: Also about having no head. In a way.
 review:
   date_read:
   - 2020-04-24

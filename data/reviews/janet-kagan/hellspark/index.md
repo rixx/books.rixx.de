@@ -22,6 +22,8 @@ related_books:
 - book: samuel-r-delany/babel-17
   text: Another high-energy scifi book that takes language and relentless enjoyment
     seriously.
+- book: aliette-de-bodard/the-tea-master-and-the-detective
+  text: Another sentient ship as companion.
 - book: ursula-k-le-guin/planet-of-exile
   text: Another exercise in showing various alien cultures through each other's eyes.
 review:

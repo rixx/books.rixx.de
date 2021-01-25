@@ -25,6 +25,8 @@ related_books:
   text: The next book in the series.
 - book: mur-lafferty/six-wakes
   text: Clones are not robots, and the general vibe is different, but the setting and narrative approach just felt aligned.
+- book: suzanne-palmer/the-secret-life-of-robots
+  text: More sentient robots.
 - book: lynne-m-thomas/uncanny-magazine-issue-18-september-october-2017
   text: Also about a robot who turns out to enjoy pop culture.
 review:

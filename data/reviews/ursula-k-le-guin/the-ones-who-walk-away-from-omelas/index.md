@@ -22,6 +22,10 @@ related_books:
   text: More governance criticism.
 - book: lao-tzu/tao-te-ching
   text: le Guin's version of the Tao te Ching is well worth reading.
+- book: daryl-gregory/second-person-present-tense
+  text: Both landmarks in my mind.
+- book: andy-weir/the-egg
+  text: Another mind-changing short story.
 review:
   date_read:
   - 2018-02-02

@@ -7,7 +7,7 @@ book:
   isbn13: '9780345539786'
   pages: '382'
   publication_year: '2014'
-  series: Red Rising Saga
+  series: Red Rising
   series_position: '1'
   spine_color: '#b92c29'
   tags:

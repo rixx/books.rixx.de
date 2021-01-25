@@ -23,6 +23,8 @@ related_books:
   text: What's up with the 1800s queer romances? The Montague Siblings go down a very similar road, not that I'm complaining.
 - book: k-d-edwards/the-last-sun
   text: More queer fantasy.
+- book: emily-tesh/silver-in-the-wood
+  text: More olde magical queer British romance.
 review:
   date_read:
   - 2020-06-30

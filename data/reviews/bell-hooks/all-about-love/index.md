@@ -18,6 +18,13 @@ book:
   title: 'All About Love: New Visions'
 plan:
   date_added: '2020-03-15'
+related_books:
+- book: meg-barker/rewriting-the-rules
+  text: Both good books about healthy relationships.
+- book: tsultrim-allione/feeding-your-demons
+  text: Solo spiritual growth vs duo spiritual growth.
+- book: brene-brown/daring-greatly
+  text: Brown was more helpful to me, but has a much narrower scope. Both want to bring a similar message across.
 review:
   date_read:
   - 2020-03-15

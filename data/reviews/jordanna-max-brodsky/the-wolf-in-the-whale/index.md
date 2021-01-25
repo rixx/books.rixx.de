@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: jack-london/the-call-of-the-wild
   text: Another arctic animal adventure, though magical realism.
+- book: peter-hoeg/smillas-sense-of-snow
+  text: Another book that will make you think a lot about snow and arctic survival.
 review:
   date_read:
   - 2019-05-05

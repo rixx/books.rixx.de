@@ -25,6 +25,8 @@ related_books:
     to "Have you considered that you might be into it?"
 - book: tsultrim-allione/feeding-your-demons
   text: Both books talk about vulnerability, and have similar opinions, but come from a wildly different place.
+- book: bell-hooks/all-about-love
+  text: Hooks worked less well for me, but also wants to spread the message of love and worthiness.
 review:
   date_read:
   - 2019-10-01

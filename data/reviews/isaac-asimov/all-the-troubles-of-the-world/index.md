@@ -11,12 +11,21 @@ book:
   tags:
   - scifi
   title: All the Troubles of the World
+  source: http://www.mcguiremarks.com/uploads/3/9/7/9/39793909/isaac_asimov-all_the_troubles_of_the_world_(1).pdf
 plan:
   date_added: '2018-08-27'
+related_books:
+- book: isaac-asimov/the-feeling-of-power
+  text: More Asimov.
+- book: diane-duane/high-wizardry
+  text: More nearly all-knowing computers.
+- book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
+  text: More supercomputers that will answer your questions.
 review:
   date_read:
   - 2018-08-27
   rating: 4
 ---
 
-This short story by *Isaac Asimov*, available [online](<a target="_blank" href="http://www.mcguiremarks.com/uploads/3/9/7/9/39793909/isaac_asimov-all_the_troubles_of_the_world_(1).pdf" rel="nofollow">http://www.mcguiremarks.com/uploads/3...</a>) was heart-breaking and well-paced. I was kind of sick of reading of dystopic futures with evil, flawed humans and evil, flawed AI everywhere, and this story is a nice break from all that.
+This short story by *Isaac Asimov*, available online,
+was heart-breaking and well-paced. I was kind of sick of reading of dystopic futures with evil, flawed humans and evil, flawed AI everywhere, and this story is a nice break from all that.

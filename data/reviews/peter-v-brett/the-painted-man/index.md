@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: brandon-sanderson/the-way-of-kings
   text: Another recent multi-POV series in a unique world.
+- book: ed-mcdonald/blackwing
+  text: Supernatural enemies who require warding.
 - book: peter-v-brett/the-desert-spear
   text: The next book in the series.
 review:

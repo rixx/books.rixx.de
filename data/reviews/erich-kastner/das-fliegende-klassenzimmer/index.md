@@ -31,6 +31,8 @@ related_books:
 - book: erich-kastner/emil-and-the-detectives
   text: If you want to read more of the same characters, particularly the poor boy
     who valiantly cares for his family, Kästner has you covered.
+- book: emmy-von-rhoden/der-trotzkopf
+  text: German boarding schools – girls vs boys.
 review:
   date_read:
   - 2001-07-01

@@ -8,10 +8,20 @@ book:
   pages: '240'
   publication_year: '1967'
   spine_color: '#dba65b'
+  source: https://urbigenous.net/library/nine_billion_names_of_god.html
   tags:
   - scifi
   - space-monks
   title: The Nine Billion Names of God
+related_books:
+- book: greg-egan/quarantine
+  text: Both paint the same picture.
+- book: arthur-c-clarke/trouble-with-time
+  text: More Clarke short stories.
+- book: arthur-c-clarke/the-songs-of-distant-earth
+  text: Clarke, full-length novel.
+- book: arthur-c-clarke/the-star
+  text: More Christian-inspired Clarke.
 plan:
   date_added: '2019-02-19'
 review:
@@ -20,4 +30,6 @@ review:
   rating: 3
 ---
 
-I appreciated the woo, but. [The Nine Billion Names of God](<a target="_blank" href="https://urbigenous.net/library/nine_billion_names_of_god.html" rel="nofollow">https://urbigenous.net/library/nine_b...</a>) is a short story fairly typical of the Arthur C. Clarke times of scifi. Doesn't hurt to read, but by now it's fairly predictable, and the premise was new then, but is kind of ehhh today.
+I appreciated the woo, but. The Nine Billion Names of God is a short story fairly typical of the Arthur C. Clarke times
+of scifi. Doesn't hurt to read, but by now it's fairly predictable, and the premise was new then, but is kind of ehhh
+today.

@@ -15,10 +15,16 @@ book:
   series_position: '1'
   spine_color: '#457e60'
   tags:
+  - alien-aliens
   - scifi
   title: Children of Time
 plan:
   date_added: '2018-09-12'
+related_books:
+- book: vernor-vinge/a-fire-upon-the-deep
+  text: I will link the Deepness in the Sky here once I've finally finished it. Spider planet!
+- book: adrian-tchaikovsky/children-of-time
+  text: More Tchaikovsky, where the non-humans are more relatable than the humans.
 review:
   date_read:
   - 2019-11-15

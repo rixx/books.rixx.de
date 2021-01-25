@@ -19,10 +19,17 @@ book:
   title: Range of Ghosts
 plan:
   date_added: '2019-03-17'
+related_books:
+- book: liselotte-welskopf-henrich/harka
+  text: Non-magical story of a young brave man who lives mostly on horseback.
+- book: elizabeth-bear/a-time-to-reap
+  text: More Elizabeth Baer.
 review:
   date_read:
   - 2020-05-08
   rating: 2
 ---
 
-Good worldbuilding on the Mongolian inspired Fantasy, but I'm generally not a fan of books that end on a cliffhanger without even an attempt at providing an internal arc, and this bothered me a lot. First book by Elizabeth Bear and not something I'll continue reading any time soon, I think.
+Good worldbuilding on the Mongolian inspired Fantasy, but I'm generally not a fan of books that end on a cliffhanger
+without even an attempt at providing an internal arc, and this bothered me a lot. First book by Elizabeth Bear and not
+something I'll continue reading any time soon, I think.

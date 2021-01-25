@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-02-13'
 related_books:
+- book: neal-stephenson/anathem
+  text: Both books talk at least partially about the same thing, though they take very different routes in getting there.
 - book: liu-cixin/the-dark-forest
   text: The next book in the series.
 review:
@@ -28,8 +30,15 @@ review:
   rating: 3
 ---
 
-I came into the first volume of *Liu Cixin*'s **Remembrance of Earth's Past** with high expectations, as there was somewhat of a hype surrounding the book. It's nearly as good as (and too me, evocative of) Subjective Cosmology by Greg Egan. It's very nice physics (and physicists) scifi. The characters were irritatingly flat a lot of the time (a common hard scifi illness), and often felt over the top to me.
-The beginning of the book was fairly slow, and compared to that, the ending felt sudden (not rushed, mind, only sudden), and I missed some information and worldbuilding there. (I can't be more specific without heavy spoilers, sorry.) I appreciated the somber ending (although the very final scene was a bit over the top for me).
-The translation was pretty good. There remained occasional phrases that sounded weird/unidiomatic, but it happens, especially if there's so much culture to translate.
+I came into the first volume of *Liu Cixin*'s **Remembrance of Earth's Past** with high expectations, as there was
+somewhat of a hype surrounding the book. It's nearly as good as (and too me, evocative of) Subjective Cosmology by Greg
+Egan. It's very nice physics (and physicists) scifi. The characters were irritatingly flat a lot of the time (a common
+hard scifi illness), and often felt over the top to me.  The beginning of the book was fairly slow, and compared to
+that, the ending felt sudden (not rushed, mind, only sudden), and I missed some information and worldbuilding there. (I
+can't be more specific without heavy spoilers, sorry.) I appreciated the somber ending (although the very final scene
+was a bit over the top for me).  The translation was pretty good. There remained occasional phrases that sounded
+weird/unidiomatic, but it happens, especially if there's so much culture to translate.
 
-By the way, shout-out to the wonderful Mastodon reading group at [#sffbookclub](<a target="_blank" href="https://chaos.social/tags/sffbookclub" rel="nofollow">https://chaos.social/tags/sffbookclub</a>) who read and discussed the book in August, too.
+By the way, shout-out to the wonderful Mastodon reading group at [#sffbookclub](<a target="_blank"
+href="https://chaos.social/tags/sffbookclub" rel="nofollow">https://chaos.social/tags/sffbookclub</a>) who read and
+discussed the book in August, too.

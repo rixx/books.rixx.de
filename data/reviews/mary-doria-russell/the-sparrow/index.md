@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: orson-scott-card/speaker-for-the-dead
   text: Similarly Christian first-contact book. Both better than you'd think.
+- book: arthur-c-clarke/the-star
+  text: More space Jesuits.
 review:
   date_read:
   - 2020-01-08

@@ -19,10 +19,14 @@ book:
   title: The Alchemists of Loom
 plan:
   date_added: '2018-11-26'
+related_books:
+- book: mark-lawrence/red-sister
+  text: Young magically talented woman will not hesitate to kill to reach her goal, and makes friends along the way.
 review:
   date_read:
   - 2020-05-06
   rating: 2
 ---
 
-Decent enough generic fantasy, but ends on such a blatant cliffhanger that I feel mor appalled then compelled to read the next part.
+Decent enough generic fantasy, but ends on such a blatant cliffhanger that I feel mor appalled then compelled to read
+the next part.

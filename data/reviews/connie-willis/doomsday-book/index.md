@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
   text: More medieval time travel.
+- book: emily-st-john-mandel/station-eleven
+  text: Flawed people coping with a flu-like virus.
 - book: connie-willis/to-say-nothing-of-the-dog
   text: The next book in the series.
 review:

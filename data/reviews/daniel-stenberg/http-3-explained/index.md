@@ -19,6 +19,9 @@ review:
   tldr: An overview over HTTP/3 by the developer of curl. Fairly short and informative,
     and includes a helpful amount of history and reasoning. A good way to find out
     if and where you want to dive deeper into the topic.
+related_books:
+- book: michael-w-lucas/ssh-mastery
+  text: More good technical networking explanations with a cultural component.
 social:
   mastodon:
     datetime: 2020-06-27 11:08:08.977181

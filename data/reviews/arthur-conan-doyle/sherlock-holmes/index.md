@@ -28,6 +28,8 @@ related_books:
   text: William of Baskerville – guess who he's based on?
 - book: neil-gaiman/a-study-in-emerald
   text: Sherlock meets Cthulhu.
+- book: aliette-de-bodard/the-tea-master-and-the-detective
+  text: Sherlock in space.
 review:
   date_read:
   - 2003-09-01

@@ -15,7 +15,7 @@ book:
   - mystery
 plan:
   date_added: '2019-12-16'
-relate_books:
+related_books:
 - book: fanny-muller/keks-frau-k-und-katastrophen
   text: Similar narrative voice, different genre.
 review:

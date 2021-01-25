@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: arthur-c-clarke/trouble-with-time
+  text: Making date lines into puch lines apparently works in every century.
 - book: jules-verne/journey-to-the-center-of-the-earth
   text: The previous book in the series.
 - book: jules-verne/the-castle-of-the-carpathians

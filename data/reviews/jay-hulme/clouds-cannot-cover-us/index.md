@@ -12,6 +12,9 @@ book:
   title: Clouds Cannot Cover Us
 plan:
   date_added: '2020-01-03'
+related_books:
+- book: jennifer-egan/black-box
+  text: Not exactly a poem, but not not a poem either.
 review:
   date_read:
   - 2020-01-13

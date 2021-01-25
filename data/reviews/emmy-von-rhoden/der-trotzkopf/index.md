@@ -15,6 +15,9 @@ book:
   title: Der Trotzkopf
 plan:
   date_added: '2015-04-08'
+related_books:
+- book: erich-kastner/das-fliegende-klassenzimmer
+  text: German boarding schools – girls vs boys.
 review:
   date_read:
   - 2004-03-01

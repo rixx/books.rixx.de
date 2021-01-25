@@ -19,8 +19,10 @@ book:
 plan:
   date_added: '2018-07-20'
 related_books:
+- book: emily-tesh/silver-in-the-wood
+  text: Magical dangerous forests.
 - book: diana-wynne-jones/howls-moving-castle
-  text: The feared evil sorcerer how isn't.
+  text: The feared evil sorcerer who isn't.
 - book: hans-christian-andersen/the-complete-fairy-tales
   text: Fairytale source material.
 review:

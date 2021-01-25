@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: francois-de-callieres/on-the-manner-of-negotiating-with-princes
+  text: French court behaviour guidelines.
 - book: alfred-bester/the-stars-my-destination
   text: Monte Cristo in space.
 - book: victor-hugo/gavroche

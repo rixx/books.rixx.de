@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2020-04-18'
 related_books:
+- book: fonda-lee/i-28m-created-a-deepfake-girlfriend-and-now-my-parents-think-were-getting-married
+  text: Internet slang everywhere.
 - book: mark-twain/the-awful-german-language
   text: Another look at a second language closely related to English.
 - book: richard-s-gallagher/the-customer-service-survival-kit
