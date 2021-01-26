@@ -18,6 +18,28 @@ review:
   - 2018-12-06
   - 2021-01-24
   rating: 4
+  tldr: A young hero in a standard Narnia-like portal fantasy, and what happens after
+    she grows up. Short story, available online.
+social:
+  mastodon:
+    datetime: 2021-01-26 22:05:37.885120
+    id: '105624052545237259'
+    in_reply_to: '105624046606201202'
+    text: '15/ Probably Still the Chosen One by Kelly Barnhill. A young hero in a
+      standard Narnia-like portal fantasy, and what happens after she grows up. Short
+      story, available online.
+
+      https://books.rixx.de/kelly-barnhill/probably-still-the-chosen-one/ #rixxReads'
+  number: 15
+  twitter:
+    datetime: 2021-01-26 22:05:37.539790
+    id: '1354173671787687938'
+    in_reply_to: '1354173291632734214'
+    text: '15/ Probably Still the Chosen One by Kelly Barnhill. A young hero in a
+      standard Narnia-like portal fantasy, and what happens after she grows up. Short
+      story, available online.
+
+      https://books.rixx.de/kelly-barnhill/probably-still-the-chosen-one/'
 ---
 
 Did you dream of being the hero of your own adventurous story as a kid? If you did, this will be good for you. Also,

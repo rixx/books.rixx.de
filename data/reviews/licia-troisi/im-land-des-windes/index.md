@@ -39,6 +39,29 @@ review:
   - 2008-06-01
   - 2021-01-18
   rating: 4
+  tldr: Well-done if slightly generic Fantasy story. The last living half-elf, a young
+    girl, grows up into a dragon rider and has to grow past her hate and stubbornness
+    blah blah blah.
+social:
+  mastodon:
+    datetime: 2021-01-25 17:33:54.862268
+    id: '105617321781079383'
+    in_reply_to: '105617311132724277'
+    text: '13/ Im Land des Windes by Licia Troisi. Well-done if slightly generic Fantasy
+      story. The last living half-elf, a young girl, grows up into a dragon rider
+      and has to grow past her hate and stubbornness blah blah blah.
+
+      https://books.rixx.de/licia-troisi/im-land-des-windes/ #rixxReads'
+  number: 13
+  twitter:
+    datetime: 2021-01-25 17:33:54.267829
+    id: '1353742903001157632'
+    in_reply_to: '1353742221330276353'
+    text: '13/ Im Land des Windes by Licia Troisi. Well-done if slightly generic Fantasy
+      story. The last living half-elf, a young girl, grows up into a dragon rider
+      and has to grow past her hate and stubbornness blah blah blah.
+
+      https://books.rixx.de/licia-troisi/im-land-des-windes/'
 ---
 
 Worldbuilding! I forgot about the worldbuilding of this book. For example, there are tower cities where everything is

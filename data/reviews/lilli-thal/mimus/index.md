@@ -23,6 +23,26 @@ review:
   - 2006-07-01
   - 2021-01-21
   rating: 5
+  tldr: A young prince has to become the court jester for the enemy king. Excellent
+    YA (re-read).
+social:
+  mastodon:
+    datetime: 2021-01-26 22:04:07.263685
+    id: '105624046606201202'
+    in_reply_to: '105617321781079383'
+    text: '14/ Mimus by Lilli Thal. A young prince has to become the court jester
+      for the enemy king. Excellent YA (re-read).
+
+      https://books.rixx.de/lilli-thal/mimus/ #rixxReads'
+  number: 14
+  twitter:
+    datetime: 2021-01-26 22:04:06.906567
+    id: '1354173291632734214'
+    in_reply_to: '1353742903001157632'
+    text: '14/ Mimus by Lilli Thal. A young prince has to become the court jester
+      for the enemy king. Excellent YA (re-read).
+
+      https://books.rixx.de/lilli-thal/mimus/'
 ---
 
 Mimus is the wonderfully cruel tale of Prince Florin. In the struggle of two nations, the baddies use the age-old plot
