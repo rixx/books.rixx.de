@@ -38,3 +38,9 @@ people, and places in passing. I spent at least as much time following reference
 more. Imagine having to wait and go to the library and try to make sense of it all instead!
 
 It's not an action-packed or even fast-paced book, but if you're interested in early history, give it a go.
+
+**Edit:**
+[This](https://www.reddit.com/r/AskHistorians/comments/gu1tj5/did_people_realize_they_were_part_of_a/ftb9pet/?context=3)
+/r/AskHistorians comment received an award in the Users' Choice Awards that year. It provides a bunch of context as to
+Cline's role in the community and how his book is received by professionals. Modern opinion seems to tend towards "there
+was no collapse outside the super elite".

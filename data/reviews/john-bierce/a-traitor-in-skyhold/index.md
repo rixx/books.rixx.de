@@ -19,6 +19,8 @@ book:
 plan:
   date_added: 2020-10-25
 related_books:
+- book: john-bierce/the-lost-city-of-ithos
+  text: The next book in the series.
 - book: john-bierce/jewel-of-the-endless-erg
   text: The previous book in the series.
 - book: john-bierce/into-the-labyrinth
