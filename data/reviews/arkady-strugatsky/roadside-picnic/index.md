@@ -32,7 +32,8 @@ published 14 years before Chernobyl, mind.
 Our protagonist a is working for the institute investigating the zone when he's not busy being in prison for his
 smuggling activities. He has a wife and a daughter <span class="spoilers">who looks like a little monkey. As I said,
 Chernobyl feeling</span>. He's extremely irreverent and snarky and his inner monologue was a joy to read. I read the
-German translation, but I've been told this goes for the English one, too.
+German translation, but I've been told this goes for the English one, too. The German translation is an utter joy to
+read.
 
 I've been trying to put into words why this book feels so very, very Russian. I think it's the interactions between
 people. There's a common assumption that everybody is scavenging and finding semi-legal ways of making do, and also that

@@ -37,7 +37,10 @@ author (a once-Buddhist-nun, now American coach) to a Western audience. The auth
 required for a woo book, it includes more about the author's personal journey and all the people she has helped than I
 cared to know.
 
-But if you remove the window dressing, you are left with a reflection/meditation technique that seems to actually just
+The setting is this: Anything that blocks complete inner freedom is a demon. Gods are our hopes, our obsessions,
+longings, attachments.
+
+But when you remove the window dressing, you are left with a reflection/meditation technique that seems to actually just
 work for me. It is very similar in structure to [Focusing](/eugene-t-gendlin/focusing/), except that it
 is more visual and tactile where Focusing is verbal. Both are based around felt senses and embodied emotions, though.
 

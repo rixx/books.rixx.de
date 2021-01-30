@@ -33,3 +33,7 @@ review:
 ---
 
 ❤
+
+<div class="spoilers">
+“That’s flying high, prole boy. Don’t let your wings get singed.” A brief smile turned Jole’s lips. I had my flying lessons long ago from Aral, who never let me fall.
+</div>
