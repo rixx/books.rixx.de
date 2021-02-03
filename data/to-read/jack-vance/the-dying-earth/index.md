@@ -14,3 +14,5 @@ book:
 plan:
   date_added: '2018-09-12'
 ---
+
+[+1](https://www.reddit.com/r/Fantasy/comments/l7ab1g/author_recommendation_jack_vance/)
