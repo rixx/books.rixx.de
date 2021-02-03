@@ -438,7 +438,7 @@ def get_book_from_input():
         inquirer.Text("cover_description", message="What’s the cover?"),
         inquirer.Text("isbn10", message="Do you know the ISBN-10?"),
         inquirer.Text("isbn13", message="Do you know the ISBN-13?"),
-        inquirer.Text("pages", message="How many pages does the book have?"),
+        inquirer.Text("source", message="Do you have a source link?"),
         inquirer.List(
             "series",
             message="Is this book part of a series?",
@@ -520,6 +520,7 @@ def create_book(search_term=None):
         metadata["review"] = {key: review_info[key] for key in ("date_read", "rating")}
         if review_info["did_not_finish"]:
             metadata["review"]["did_not_finish"] = True
+    metadata = {key: value for key, value in metadata.items() if value}
 
     review = Review(metadata=metadata, text="", entry_type=entry_type)
     if review.goodreads_url:
