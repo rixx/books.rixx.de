@@ -540,7 +540,6 @@ def create_book(search_term=None):
     review.update_tags()
     review.save()
     review.find_cover(force_new=True)
-    review.show_cover()
     review.save()
 
     review.edit()
