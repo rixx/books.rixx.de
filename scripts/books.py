@@ -461,6 +461,18 @@ def get_book_from_input():
         answers = {**answers, **inquirer.prompt(series_questions)}
     else:
         answers.pop("series")
+
+    page_method = inquirer.list_input(
+        message="Do you know the length in pages or in words?",
+        choices=[("Pages", "pages"), ("Words", "words")],
+        default="words" if answers.get("source") else "pages",
+        carousel=True,
+    )
+    if page_method == "pages":
+        answers["pages"] = inquirer.text(message="Page count")
+    else:
+        answers["pages"] = int(int(inquirer.text(message="Word count")) / 300)
+
     return answers
 
 
