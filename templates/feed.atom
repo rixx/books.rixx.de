@@ -18,7 +18,7 @@
       <updated>{{ event.relevant_date }}T00:00:00Z</updated>
       <content type="html">I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | e }}
         {% if event.metadata.book.source %}
-        &lt;p&gt; The source is available &lt;a href=&quot;{{ event.metadata.book.source }}&quot;&gt;here&lt;/a&gt;
+        &lt;p&gt; The source is available &lt;a href=&quot;{{ event.metadata.book.source }}&quot;&gt;here&lt;/a&gt;.
         {% endif %}
     </content>
     </entry>

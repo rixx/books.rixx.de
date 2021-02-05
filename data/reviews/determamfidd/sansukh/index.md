@@ -16,6 +16,8 @@ related_books:
   text: The beginning of the journey.
 - book: j-r-r-tolkien/the-lord-of-the-rings
   text: Covers most of Sansûkh.
+- book: scarletjedi/comes-around-again
+  text: A time-travel spin-off.
 review:
   date_read:
   - 2019-01-30
