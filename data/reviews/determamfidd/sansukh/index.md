@@ -59,3 +59,6 @@ production quality, the beginnings of a graphical novel, and a
 music.  The soundtrack is linked in the appropriate sections of the story, and it's amazing.
 [This](https://determamfidd.tumblr.com/post/66451748399/sansukh-the-masterpost) page lists sub-pages which link to all
 the additional content.
+
+If you want more fanfics in this general direction (though none as good), look at [determamfidd's recommendation
+document](https://docs.google.com/document/d/1hQmcVr7FvxT_VZt2yZBNrRKlAVidhhwmnkXNrydC52o/edit#).
