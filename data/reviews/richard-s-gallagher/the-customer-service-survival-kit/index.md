@@ -22,9 +22,8 @@ plan:
 related_books:
 - book: francois-de-callieres/on-the-manner-of-negotiating-with-princes
   text: A slightly older version of this manual.
-- book: gretchen-mcculloch/because-internet
-  text: Combining these two books into a style guide for appropriate communication
-    would be interesting.
+- book: chris-voss/never-split-the-difference
+  text: Another application of tactical empathy in adversarial professional interactions.
 - book: per-leo/mit-rechten-reden-ein-leitfaden
   text: Another communication strategy book.
 - book: mark-manson/models
@@ -33,6 +32,9 @@ related_books:
   text: What could happen to you when you don't follow this advice.
 - book: gary-provost/100-ways-to-improve-your-writing
   text: Another book about clear communications.
+- book: gretchen-mcculloch/because-internet
+  text: Combining these two books into a style guide for appropriate communication
+    would be interesting.
 review:
   date_read:
   - 2020-05-08

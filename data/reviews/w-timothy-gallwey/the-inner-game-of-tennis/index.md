@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: lao-tzu/tao-te-ching
   text: More zen.
+- book: chris-voss/never-split-the-difference
+  text: If you enjoy the genre of "successful expert teaches surprisingly emotional skill".
 review:
   date_read:
   - 2020-03-31

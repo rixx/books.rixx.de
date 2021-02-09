@@ -28,6 +28,8 @@ related_books:
 - book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
   text: 'One of Harry''s favourite quotes is from Focusing: What is true is already
     so, etc.'
+- book: chris-voss/never-split-the-difference
+  text: The "that's right" technique.
 review:
   date_read:
   - 2019-07-15

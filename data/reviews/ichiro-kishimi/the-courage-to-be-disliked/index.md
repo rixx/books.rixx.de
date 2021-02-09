@@ -21,6 +21,8 @@ related_books:
     stuffiness of this one.
 - book: robert-bly/a-little-book-on-the-human-shadow
   text: Explains the work of another Freud pupil turning against Freud.
+- book: chris-voss/never-split-the-difference
+  text: Another take on "you get what you ask for".
 review:
   date_read:
   - 2020-03-11

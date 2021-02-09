@@ -24,6 +24,8 @@ related_books:
     similar.
 - book: richard-s-gallagher/the-customer-service-survival-kit
   text: Another communication book that discusses how to *use* honesty.
+- book: chris-voss/never-split-the-difference
+  text: Another application of polarising early and dealing with rejection.
 review:
   date_read:
   - 2020-04-16

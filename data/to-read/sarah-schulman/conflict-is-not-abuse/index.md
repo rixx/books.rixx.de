@@ -19,6 +19,9 @@ book:
   title: Conflict Is Not Abuse
 plan:
   date_added: 2020-08-13
+related_books:
+- book: chris-voss/never-split-the-difference
+  text: Another take on the positive sides of conflict and the drawbacks of conflict avoidance.
 ---
 
 I've been actively avoiding this book for months, might as well add it to the list.

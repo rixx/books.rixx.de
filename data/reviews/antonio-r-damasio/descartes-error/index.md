@@ -23,6 +23,8 @@ related_books:
   text: Another psychology book that has not aged too well.
 - book: w-timothy-gallwey/the-inner-game-of-tennis
   text: More about non-rational thinking.
+- book: chris-voss/never-split-the-difference
+  text: Explicitly quotes Damásio, shows practical applications of dealing with emotions.
 review:
   date_read:
   - 2020-04-18
