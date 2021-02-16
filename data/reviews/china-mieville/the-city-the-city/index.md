@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: ursula-k-le-guin/the-dispossessed
   text: Two societies, mirroring each other and yet completely different.
+- book: china-mieville/this-census-taker
+  text: Similarly dry strangeness.
 review:
   date_read:
   - 2018-11-14

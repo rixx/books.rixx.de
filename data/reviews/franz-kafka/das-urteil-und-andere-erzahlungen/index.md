@@ -23,6 +23,8 @@ related_books:
     and less horrifying than the rest.
 - book: friedrich-durrenmatt/the-visit
   text: Dürrenmatt at his bleakest always reminds me of Kafka at his warmest.
+- book: china-mieville/this-census-taker
+  text: Had Kafka been into magical realism.
 review:
   date_read:
   - 2009-04-01
