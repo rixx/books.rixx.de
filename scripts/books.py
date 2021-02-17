@@ -95,6 +95,14 @@ class Review:
         else:
             raise Exception(f"A review needs metadata or a path! ({self.path})")
 
+    def __str__(self):
+        if self.path:
+            return f"Review(path={self.path})"
+        return f"Review(path=None, title={self.metadata['book']['title']})"
+
+    def __repr__(self):
+        return str(self)
+
     def _load_data_from_file(self, path=None):
         try:
             post = frontmatter.load(path or self.path)
