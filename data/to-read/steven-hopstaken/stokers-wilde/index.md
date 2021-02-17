@@ -17,4 +17,4 @@ plan:
   date_added: '2019-11-15'
 ---
 
-Can't remember. Kristian? It was a strong personal rec
+Via Kristian.
