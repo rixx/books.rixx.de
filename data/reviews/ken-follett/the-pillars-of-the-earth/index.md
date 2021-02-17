@@ -19,6 +19,8 @@ related_books:
 - book: noah-gordon/the-physician
   text: Working with stones or with people – either way it's a dive into medieval
     Europe and even the British Isles.
+- book: guy-gavriel-kay/sailing-to-sarantium
+  text: Another book that makes you value early medieval builders and craft.
 review:
   date_read:
   - 2017-06-30

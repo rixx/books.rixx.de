@@ -21,6 +21,8 @@ related_books:
   text: A bit of background on the ruling Italian families at the time.
 - book: sophia-mcdougall/romanitas
   text: Another book where Rome never fell. Not nearly as good, though.
+- book: guy-gavriel-kay/sailing-to-sarantium
+  text: Another take on slightly-magical Byzantium.
 review:
   date_read:
   - 2020-07-25
