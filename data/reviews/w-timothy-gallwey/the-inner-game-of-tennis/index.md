@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2020-03-30'
 related_books:
+- book: missy-vineyard/how-you-stand-how-you-move-how-you-live
+  text: Both books overlap significantly, but have a different approach.
 - book: lao-tzu/tao-te-ching
   text: More zen.
 - book: chris-voss/never-split-the-difference
