@@ -135,7 +135,8 @@ def post_next(dry_run=False):
         reviews,
         key=lambda x: (
             not bool(x.metadata.get("social", {}).get("twitter", {}).get("id")),
-            x.metadata.get("social", {}).get("twitter", {}).get("id") or 0,  # We use the fact that Twitter has monotonic IDs
+            x.metadata.get("social", {}).get("twitter", {}).get("id")
+            or 0,  # We use the fact that Twitter has monotonic IDs
             x.relevant_date,
         ),
     )
