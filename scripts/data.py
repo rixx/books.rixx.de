@@ -233,3 +233,13 @@ def normalize_series():
     for books in by_series.values():
         normalize_series_height(books)
         normalize_series_related_books(books)
+
+
+def find_duplicates():
+    from scripts.books import load_reviews, load_to_read
+
+    to_read = set(review.id for review in load_to_read())
+    reviews = set(review.id for review in load_reviews())
+
+    for double in to_read & reviews:
+        print(double)
