@@ -52,11 +52,11 @@ def get_book_data(url):
     return get_book_data_from_xml(book)
 
 
-def get_book_from_goodreads(search_term=None):
-    auth = get_auth()
+def _get_search_results(search_term, auth=None):
+    auth = auth or get_auth()
     search_term = inquirer.text(
         "Give me your best Goodreads search terms – or a URL, if you have one!",
-        default=None,
+        default=search_term,
     )
     if "goodreads.com" in search_term:
         return get_book_data(url=search_term.strip() + ".xml")
@@ -78,12 +78,31 @@ def get_book_from_goodreads(search_term=None):
                 work.find("best_book").find("id").text,
             )
         )
+    return options
 
-    click.echo(
-        click.style(f"Found {len(options)} possible books:", fg="green", bold=True)
-    )
-    book = inquirer.list_input(message="Which one did you mean?", choices=options)
-    return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml")
+
+def search_book_on_goodreads(search_term=None):
+    auth = get_auth()
+
+    while True:
+        result = _get_search_results(search_term=search_term, auth=auth)
+        if isinstance(result, dict):
+            return result
+        if len(result) == 0:
+            click.echo(
+                click.style(
+                    f"Found no possible books, try a different search term.",
+                    fg="green",
+                    bold=True,
+                )
+            )
+        else:
+            options = result + [("Try different search", None)]
+            book = inquirer.list_input(
+                message="Which one did you mean?", choices=options
+            )
+            if book:
+                return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml")
 
 
 def maybe_date(value):

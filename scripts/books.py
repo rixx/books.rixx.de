@@ -532,7 +532,7 @@ def create_book(search_term=None):
     metadata = {
         "book": get_book_from_input()
         if choice == "manually"
-        else goodreads.get_book_from_goodreads(search_term=search_term)
+        else goodreads.search_book_on_goodreads(search_term=search_term)
     }
     if entry_type == "reviews":
         review_info = get_review_info()
