@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2017-11-28'
 related_books:
+- book: nghi-vo/the-empress-of-salt-and-fortune
+  text: Another neat Fantasy novella with a similar subtlety in storytelling.
 - book: brandon-sanderson/legion
   text: Another great standalone by Sanderson.
 - book: brandon-sanderson/the-way-of-kings
