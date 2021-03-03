@@ -282,12 +282,15 @@ class Review:
         extension = {"image/jpeg": "jpg", "image/png": "png", "image/gif": "gif"}[
             headers["Content-Type"]
         ]
-        destination = self.path.parent / f"cover.{extension}"
-
+        destination = self.path.parent / f"cover.jpg"
         if not destination.exists() or force_new:
             if self.cover_path:
                 self.cover_path.unlink()
-            shutil.move(filename, destination)
+
+            if extension == "jpg":
+                shutil.move(filename, destination)
+            else:
+                subprocess.check_call(["convert", filename, destination])
 
         self.metadata["book"]["cover_image_url"] = cover_image_url
         del self.cover_path
