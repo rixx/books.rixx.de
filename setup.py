@@ -21,7 +21,7 @@ setup(
         "markdown==3.1.*",
         "mastodon.py",
         "networkx==2.5.*",
-        "pillow==7.0.*",
+        "pillow==7.1.*",
         "python-dateutil",
         "python-frontmatter==0.5.*",
         "rauth",
