@@ -151,22 +151,9 @@ class Review:
 
     @cached_property
     def cover_path(self):
-        if self.path:
-            covers = list(self.path.parent.glob("cover.*"))
-            if covers:
-                return covers[0]
-
-    @cached_property
-    def thumbnail_name(self):
-        if not self.cover_path:
-            return
-        return f"thumbnail{self.cover_path.suffix}"
-
-    @cached_property
-    def square_name(self):
-        if not self.cover_path:
-            return
-        return f"square{self.cover_path.suffix}"
+        cover_path = self.path.parent / "cover.jpg"
+        if cover_path.exists():
+            return cover_path
 
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")

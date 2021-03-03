@@ -127,8 +127,8 @@ def create_thumbnail(review):
         return
 
     html_path = pathlib.Path("_html") / review.id
-    thumbnail_path = html_path / review.thumbnail_name
-    square_path = html_path / review.square_name
+    thumbnail_path = html_path / "thumbnail.jpg"
+    square_path = html_path / "square.jpg"
     cover_path = html_path / review.cover_path.name
     cover_age = review.cover_path.stat().st_mtime
 
@@ -621,7 +621,6 @@ def build_site(**kwargs):
         nodes.append(
             {
                 "id": node,
-                "cover": review.thumbnail_name,
                 "name": review.metadata["book"]["title"],
                 "author": review.metadata["book"]["author"],
                 "rating": int(review.metadata["review"]["rating"]),
