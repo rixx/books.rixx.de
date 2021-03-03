@@ -16,7 +16,7 @@ const renderSearchResults = (books, tags) => {
         books.forEach(book => {
             content += `<a href="/${book.id}/" class="result book-result">`
             if (book.cover) {
-                content += `<img class="cover" src="/${book.id}/cover.jpg">`
+                content += `<img class="cover" src="/${book.id}/thumbnail.jpg">`
             } else {
                 content += `<div class="cover cover-placeholder"></div>`
             }
