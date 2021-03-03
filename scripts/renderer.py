@@ -622,7 +622,9 @@ def build_site(**kwargs):
             {
                 "id": node,
                 "name": review.metadata["book"]["title"],
+                "cover": bool(review.cover_path),
                 "author": review.metadata["book"]["author"],
+                "series": review.metadata["book"].get("series"),
                 "rating": int(review.metadata["review"]["rating"]),
                 "color": review.metadata["book"].get("spine_color"),
                 "connections": len(list(graph.neighbors(node))),
@@ -642,6 +644,15 @@ def build_site(**kwargs):
             }
         )
     edges = [{"source": source, "target": target} for source, target in graph.edges]
+    search_tags = [
+        {
+            "slug": tag.slug,
+            "name": tag.metadata.get("title") or tag.slug,
+            "search": (tag.metadata.get("title") or tag.slug).lower().split(),
+        }
+        for tag in tags.keys()
+    ]
+    render_string("search.json", json.dumps({"books": nodes, "tags": search_tags}))
     render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
     render(
         "graph.html",

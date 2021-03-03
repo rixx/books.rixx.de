@@ -9,12 +9,9 @@
   </nav>
 
   <div id="sidenav-right" class="sidenav">
-    <div class="searchform" role="search">
-      <!-- DuckDuckGo custom search -->
-      <form method="get" id="search" action="https://duckduckgo.com/" class="navbar-form pull-left">
-      <input type="hidden" name="sites" value="https://books.rixx.de/"><input type="hidden" name="kj" value="#fff"><input type="hidden" name="k7" value="#fff"><input type="hidden" name="k8" value="#444"><input type="hidden" name="k9" value="#007171"><input type="hidden" name="kaa" value="#007171"><input type="hidden" name="kae" value="#fff"><input type="hidden" name="ks" value="l"><input type="hidden" name="km" value="m"><input type="hidden" name="kx" value="#900"><input type="hidden" name="kt" value="h"><input type="hidden" name="kz" value="-1"><input type="hidden" name="kaf" value="1"><input type="hidden" name="k1" value="-1"><input type="text" name="q" maxlength="255" placeholder="Search…" class="span2" style="margin-top: 4px;"><input type="submit" value="DuckDuckGo Search" style="visibility: hidden; display: none">
-      </form>
-      <!-- End of custom search -->
+    <div id="search-container" role="search">
+      <input type="text" id="search" maxlength="255" placeholder="Search…">
+      <div id="search-results" class="empty"></div>
     </div>
   </div>
 </header>

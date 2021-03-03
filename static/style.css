@@ -74,8 +74,9 @@ article p.more:first-child::first-letter, p.more::first-letter {
   text-indent: inherit !important;
 
 }
-#search input[type=text] {
+#search {
   padding: 6px;
+  margin-top: 5px;
   border: solid #ccc 1px;
   border-radius: 4px;
 }
@@ -797,6 +798,61 @@ header a {
 }
 .spine.spine-lined {
   background-image: url('/static/lined.png')
+}
+
+#search-results.empty {
+  display: none;
+}
+#search-container {
+  position: relative;
+}
+#search-results {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 45px;
+  right: 0;
+  width: 300px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.12),0 1px 3px rgba(0,0,0,0.24);
+}
+#search-results .tag-result, #search-results .book-result {
+  padding: 16px;
+  background-color: white;
+}
+#search-results .tag-result:hover, #search-results .book-result:hover {
+  background-color: #eee;
+}
+#search-results .tag-result {
+  padding-left: 90px;
+  color: #222;
+  line-height: 1.4;
+  font-size: 0.9em;
+  font-family: 'EB Garamond 12';
+}
+#search-results .book-result {
+  display: flex;
+}
+#search-results .book-result img {
+  max-height: 100px;
+}
+#search-results .book-result .cover-placeholder {
+  max-width: 60px;
+  max-height: 90px;
+  margin-right: 10px;
+}
+#search-results .book-result .search-content {
+  display: flex;
+  flex-direction: column;
+  margin-left: 16px;
+}
+#search-results .book-result .search-content .book-title,
+#search-results .book-result .search-content .book-author {
+  color: #222;
+  line-height: 1.4;
+  font-size: 0.8em;
+  font-family: 'EB Garamond 12';
 }
 
 #graph-wrapper {
