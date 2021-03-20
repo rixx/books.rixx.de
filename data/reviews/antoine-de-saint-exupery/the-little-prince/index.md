@@ -16,6 +16,8 @@ related_books:
   text: In most ways the strict opposite of this book. Where the Little Prince is
     whimsical and caring, Animal Farm is harsh and brutal. And yet, both want nothing
     more than convince a child-like audience of their point.
+- book: antoine-de-saint-exupery/flight-to-arras
+  text: Less metaphorical about it.
 review:
   date_read:
   - 2002-04-01

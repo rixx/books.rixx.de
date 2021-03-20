@@ -23,6 +23,8 @@ related_books:
   text: The other very well-known Vonnegut. Lighter mood.
 - book: joseph-heller/catch-22
   text: Same vibe, same war.
+- book: antoine-de-saint-exupery/flight-to-arras
+  text: If you want the absurdity and horror of WWII with some patriotism and sensemaking.
 review:
   date_read:
   - 2009-01-01

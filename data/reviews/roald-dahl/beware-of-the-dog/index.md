@@ -13,9 +13,8 @@ book:
 plan:
   date_added: '2019-04-22'
 related_books:
-- book: antoine-de-saint-exupery/the-little-prince
-  text: Sorry, but I can't read stories about or by WW2 pilots without thinking of
-    the Little Prince.
+- book: antoine-de-saint-exupery/flight-to-arras
+  text: Another book by a WW2 pilot about his experience.
 review:
   date_read:
   - 2019-04-23

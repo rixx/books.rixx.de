@@ -17,6 +17,8 @@ related_books:
     to the whole gender thing for people who would like to understand.
 - book: peter-watts/blindsight
   text: Another take on transhumanism.
+- book: antoine-de-saint-exupery/flight-to-arras
+  text: 'de Saint-Exupéry writes: "This mask through which I breathe. I am attached to the plane by a rubber tube as indispensable as an umbilical cord. The plane is plugged in to the circulation of my blood. Organs have been added to my being, and they seem to intervene between me and my heart."'
 review:
   date_read:
   - 2020-01-12
