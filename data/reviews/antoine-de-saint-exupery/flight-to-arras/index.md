@@ -23,10 +23,10 @@ related_books:
     to the plane by a rubber tube as indispensable as an umbilical cord. The plane
     is plugged in to the circulation of my blood. Organs have been added to my being,
     and they seem to intervene between me and my heart."'
-- book: l-david-marquet/turn-this-ship-around
+- book: l-david-marquet/turn-the-ship-around
   text: 'de Saint-Exupéry writes: "An administration is conceived as a safeguard against
     disturbances resulting from human initiative. The gear-wheels of the watch stand
-    guard against the intervention of man."'
+    guard against the intervention of man.". Another military perspective.'
 - book: kurt-vonnegut/slaughterhouse-five
   text: If you want the absurdity and horror of WWII without the final patriotism.
 review:

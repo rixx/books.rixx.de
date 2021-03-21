@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: steven-sloman/the-knowledge-illusion
   text: Better models for cooperation.
+- book: l-david-marquet/turn-the-ship-around
+  text: Great examples for short-term rewards and metrics fucking with people.
 review:
   date_read:
   - 2020-04-17

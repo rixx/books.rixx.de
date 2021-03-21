@@ -24,6 +24,8 @@ related_books:
 - book: meg-barker/rewriting-the-rules
   text: You need other people to store knowledge, this is how you learn to deal with
     them.
+- book: l-david-marquet/turn-the-ship-around
+  text: Lived examples of using vs blocking shared knowledge. Marquet explicitly talks about "where the information lives".
 - book: steven-johnson/where-good-ideas-come-from
   text: Knowledge and ideas need each other.
 review:

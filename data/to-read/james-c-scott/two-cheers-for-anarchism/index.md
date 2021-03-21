@@ -15,6 +15,9 @@ book:
   title: Two Cheers for Anarchism
 plan:
   date_added: '2020-01-02'
+related_books:
+- book: l-david-marquet/turn-the-ship-around
+  text: Hear a submarine captain advocate for anarchism.
 review: {}
 ---
 

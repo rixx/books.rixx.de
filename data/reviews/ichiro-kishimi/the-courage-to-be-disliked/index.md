@@ -25,6 +25,8 @@ related_books:
   text: Another take on "you get what you ask for".
 - book: missy-vineyard/how-you-stand-how-you-move-how-you-live
   text: "I've been causing this problem myself, haven't I?"
+- book: l-david-marquet/turn-the-ship-around
+  text: Marquet is big on taking action – he literally mentions the then-catchphrase "Don't be a victim".
 review:
   date_read:
   - 2020-03-11
