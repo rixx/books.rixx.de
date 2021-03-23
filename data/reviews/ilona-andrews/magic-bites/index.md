@@ -27,6 +27,8 @@ related_books:
   text: The same in trashier.
 - book: ilona-andrews/magic-burns
   text: The next book in the series
+- book: ilona-andrews/clean-sweep
+  text: Her other urban fantasy series.
 review:
   date_read:
   - 2020-06-21
