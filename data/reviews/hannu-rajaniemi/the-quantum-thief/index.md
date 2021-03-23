@@ -22,6 +22,8 @@ related_books:
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Another fast-paced fun heist story with strong world-building, the same energy
     just in fantasy.
+- book: roger-zelazny/lord-of-light
+  text: If you want more of the space trickster vibe – the protagonists feel very similar.
 review:
   date_read:
   - 2020-08-17

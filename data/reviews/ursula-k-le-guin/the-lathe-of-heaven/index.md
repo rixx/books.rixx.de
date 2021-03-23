@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2018-02-01'
 related_books:
+- book: roger-zelazny/lord-of-light
+  text: A different sci-fi take on space spirituality.
 - book: lao-tzu/tao-te-ching
   text: le Guin's version of the Tao te Ching is well worth a read.
 - book: michael-ende/the-neverending-story
