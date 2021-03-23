@@ -26,6 +26,8 @@ review:
 related_books:
 - book: ilona-andrews/magic-bites
   text: Her better urban fantasy series.
+- book: diane-duane/high-wizardry
+  text: The same feeling of interstellar travel where you have to deal with the peculiarities of other races – but at the same time, everybody is pretty used to it, and there are practical solutions.
 ---
 
 Ilona Andrews, who I only knew from her *Kate Daniels* series, with the magical tavern/innkeeper trope. This is
@@ -37,3 +39,7 @@ is somewhat generic (plucky young woman, semi-troubled past, blah). I had high h
 very, *very* into sentient houses and ships and the like – I wasn't completely disappointed! But it's been done better,
 and I wish more time had been spent with the semi-sentient magical house and less on rejecting-then-falling-for the
 arrogant-but-caring werewolf. (Yes, this trope has also been done better.)
+
+What I really liked, apart from the whole sentient inn thing, is that Andrews took the whole concept in a *scifi*
+direction, which I didn't really expect. There's magical space travel, portals, high tech, other civilisations, and
+travel across the universe. All of that is pretty neat, and I'd love to see more of it.
