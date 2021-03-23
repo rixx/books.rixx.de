@@ -14,6 +14,11 @@ book:
   title: War Music
 plan:
   date_added: 2021-02-26
+related_books:
+- book: gustav-schwab/sagen-des-klassischen-altertums
+  text: Less adapted and more true-to-form Greek myths.
+- book: neil-gaiman/american-gods
+  text: A similarly serious, modern, and sometimes lyrical look at old gods.
 review:
   date_read:
   - 2021-03-12
@@ -21,11 +26,26 @@ review:
   rating: 4
   tldr: Retelling of the Iliad in form of a modern poem. Excellent stuff, well-researched
     and full of ancient heroes and modern sentiment. I'm a bit in love.
-related_books:
-- book: gustav-schwab/sagen-des-klassischen-altertums
-  text: Less adapted and more true-to-form Greek myths.
-- book: neil-gaiman/american-gods
-  text: A similarly serious, modern, and sometimes lyrical look at old gods.
+social:
+  mastodon:
+    datetime: 2021-03-23 17:06:58.350412
+    id: '105939967538093324'
+    in_reply_to: '105928773968276044'
+    text: '28/ War Music by Christopher Logue. Retelling of the Iliad in form of a
+      modern poem. Excellent stuff, well-researched and full of ancient heroes and
+      modern sentiment. I''m a bit in love.
+
+      https://books.rixx.de/christopher-logue/war-music/ #rixxReads'
+  number: 28
+  twitter:
+    datetime: 2021-03-23 17:06:57.736728
+    id: '1374392230845112320'
+    in_reply_to: '1373675842048565248'
+    text: '28/ War Music by Christopher Logue. Retelling of the Iliad in form of a
+      modern poem. Excellent stuff, well-researched and full of ancient heroes and
+      modern sentiment. I''m a bit in love.
+
+      https://books.rixx.de/christopher-logue/war-music/'
 ---
 
 War Music is *art*. Christopher Logue transformed the Iliad into a modern poem, and it's all kinds of awesome. The story
