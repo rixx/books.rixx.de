@@ -17,6 +17,15 @@ book:
   title: Stoker's Wilde
 plan:
   date_added: '2019-11-15'
+related_books:
+- book: theodora-goss/the-strange-case-of-the-alchemists-daughter
+  text: Same genre (what if these Victorian stories were real?!), but much better
+    execution.
+- book: bram-stoker/dracula
+  text: Dracula isn't terribly readable, but at least as good as this. Plus you'll
+    have read Dracula.
+- book: oscar-wilde/the-canterville-ghost
+  text: Original Wilde snark.
 review:
   date_read:
   - 2021-03-14
@@ -24,13 +33,24 @@ review:
   rating: 2
   tldr: Bram Stoker and Oscar Wilde hunt vampires and talk about it in their letters.
     Very meh.
-related_books:
-- book: theodora-goss/the-strange-case-of-the-alchemists-daughter
-  text: Same genre (what if these Victorian stories were real?!), but much better execution.
-- book: bram-stoker/dracula
-  text: Dracula isn't terribly readable, but at least as good as this. Plus you'll have read Dracula.
-- book: oscar-wilde/the-canterville-ghost
-  text: Original Wilde snark.
+social:
+  mastodon:
+    datetime: 2021-03-23 23:22:16.529153
+    id: '105941443303319654'
+    in_reply_to: '105941438847063614'
+    text: '30/ Stoker''s Wilde by Steven Hopstaken. Bram Stoker and Oscar Wilde hunt
+      vampires and talk about it in their letters. Very meh.
+
+      https://books.rixx.de/steven-hopstaken/stokers-wilde/ #rixxReads'
+  number: 30
+  twitter:
+    datetime: 2021-03-23 23:22:16.171321
+    id: '1374486680145596416'
+    in_reply_to: '1374486394790285326'
+    text: '30/ Stoker''s Wilde by Steven Hopstaken. Bram Stoker and Oscar Wilde hunt
+      vampires and talk about it in their letters. Very meh.
+
+      https://books.rixx.de/steven-hopstaken/stokers-wilde/'
 ---
 
 Imagine, if you will, Bram Stoker: a dour, somewhat dull man who always feels a bit out of place in the illustrious

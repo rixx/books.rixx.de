@@ -23,7 +23,7 @@ related_books:
   text: Le Guin always feels like she's running a spirituality commentary in space.
 - book: hannu-rajaniemi/the-quantum-thief
   text: If you want more of the space trickster vibe – the protagonists feel very
-    similar.
+    similar, and both have to deal with body transfers.
 review:
   date_read:
   - 2021-03-15
@@ -31,6 +31,24 @@ review:
   rating: 4
   tldr: Space Hinduism! Extremely fun 60s sci-fi novel, and also thoughtful commentary
     on cultural appropriation.
+social:
+  mastodon:
+    datetime: 2021-03-23 23:22:30.157625
+    id: '105941444197386988'
+    in_reply_to: '105941443303319654'
+    text: '31/ Lord of Light by Roger Zelazny. Space Hinduism! Extremely fun 60s sci-fi
+      novel, and also thoughtful commentary on cultural appropriation.
+
+      https://books.rixx.de/roger-zelazny/lord-of-light/ #rixxReads'
+  number: 31
+  twitter:
+    datetime: 2021-03-23 23:22:29.779337
+    id: '1374486737204834312'
+    in_reply_to: '1374486680145596416'
+    text: '31/ Lord of Light by Roger Zelazny. Space Hinduism! Extremely fun 60s sci-fi
+      novel, and also thoughtful commentary on cultural appropriation.
+
+      https://books.rixx.de/roger-zelazny/lord-of-light/'
 ---
 
 Lord of Light is hard to describe without spoilers up to the last third of the book, so I won't even try. You have been

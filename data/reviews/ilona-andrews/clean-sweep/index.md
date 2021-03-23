@@ -16,6 +16,13 @@ book:
   title: Clean Sweep
 plan:
   date_added: 2020-08-13
+related_books:
+- book: ilona-andrews/magic-bites
+  text: Her better urban fantasy series.
+- book: diane-duane/high-wizardry
+  text: The same feeling of interstellar travel where you have to deal with the peculiarities
+    of other races – but at the same time, everybody is pretty used to it, and there
+    are practical solutions.
 review:
   date_read:
   - 2021-03-13
@@ -23,11 +30,26 @@ review:
   rating: 2
   tldr: A bit more trashy than I like, not as good as her Kate Daniels series. I still
     like the sentient inn/magical innkeeper trope, though.
-related_books:
-- book: ilona-andrews/magic-bites
-  text: Her better urban fantasy series.
-- book: diane-duane/high-wizardry
-  text: The same feeling of interstellar travel where you have to deal with the peculiarities of other races – but at the same time, everybody is pretty used to it, and there are practical solutions.
+social:
+  mastodon:
+    datetime: 2021-03-23 23:21:08.544371
+    id: '105941438847063614'
+    in_reply_to: '105939967538093324'
+    text: '29/ Clean Sweep by Ilona Andrews. A bit more trashy than I like, not as
+      good as her Kate Daniels series. I still like the sentient inn/magical innkeeper
+      trope, though.
+
+      https://books.rixx.de/ilona-andrews/clean-sweep/ #rixxReads'
+  number: 29
+  twitter:
+    datetime: 2021-03-23 23:21:08.144263
+    id: '1374486394790285326'
+    in_reply_to: '1374392230845112320'
+    text: '29/ Clean Sweep by Ilona Andrews. A bit more trashy than I like, not as
+      good as her Kate Daniels series. I still like the sentient inn/magical innkeeper
+      trope, though.
+
+      https://books.rixx.de/ilona-andrews/clean-sweep/'
 ---
 
 Ilona Andrews, who I only knew from her *Kate Daniels* series, with the magical tavern/innkeeper trope. This is
