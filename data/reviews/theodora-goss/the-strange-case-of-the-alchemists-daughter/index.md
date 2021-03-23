@@ -21,6 +21,8 @@ related_books:
   text: One of the referenced books.
 - book: arthur-conan-doyle/sherlock-holmes
   text: One of the referenced books.
+- book: steven-hopstaken/stokers-wilde
+  text: Same genre (what if these Victorian stories were real?!).
 review:
   date_read:
   - 2019-08-06

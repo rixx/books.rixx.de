@@ -26,6 +26,8 @@ related_books:
   text: Different horror, same period.
 - book: johann-wolfgang-von-goethe/the-sorrows-of-young-werther
   text: If epistolary classics work well for you.
+- book: steven-hopstaken/stokers-wilde
+  text: Bram Stoker fanfiction.
 review:
   date_read:
   - 2009-04-01
