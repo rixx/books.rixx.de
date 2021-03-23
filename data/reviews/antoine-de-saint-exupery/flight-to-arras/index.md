@@ -34,6 +34,26 @@ review:
   - 2021-03-10
   did_not_finish: false
   rating: 3
+  tldr: Memoir about being a reconnaissance pilot during WWII. I should stop reading
+    English translations.
+social:
+  mastodon:
+    datetime: 2021-03-21 17:38:33.741432
+    id: '105928767138367456'
+    in_reply_to: '105803532030163362'
+    text: '26/ Flight to Arras by Antoine de Saint-Exupéry. Memoir about being a reconnaissance
+      pilot during WWII. I should stop reading English translations.
+
+      https://books.rixx.de/antoine-de-saint-exupery/flight-to-arras/ #rixxReads'
+  number: 26
+  twitter:
+    datetime: 2021-03-21 17:38:33.183587
+    id: '1373675405371179010'
+    in_reply_to: '1365660358724231169'
+    text: '26/ Flight to Arras by Antoine de Saint-Exupéry. Memoir about being a reconnaissance
+      pilot during WWII. I should stop reading English translations.
+
+      https://books.rixx.de/antoine-de-saint-exupery/flight-to-arras/'
 ---
 
 Published in 1942, Antoine de Saint-Exupéry talks about his life, experience, thoughts and feelings about being a pilot
@@ -54,11 +74,12 @@ Some more observations:
 As always, it's disconcerting to read things written in the midst of a big event, particularly while the end is still
 uncertain. In 1942, things looked terrible for France, and I'm awed reading about it.
 
-The translation uses the word "holocaust" in some places, and I'm not sure how well-chosen it is, given the publication
-date. "Ça sauve- rait notre mission d’être sacrifiée, une panne de laryngophone" is translated as "A speaking tube out
-of order would preserve us from the holocaust." (and another similar case), or "Nous nous sommes jetés dans l’incendie."
-as "[We] flung ourselves into the holocaust.". The translation is also off-by-two-chapters for some reason, but my
-French isn't good enough to figure out what happened there.
+I'm not sure why I keep trusting English translations.  The translation uses the word "holocaust" in some places, and
+I'm not sure how well-chosen it is, given the publication date. "Ça sauve- rait notre mission d’être sacrifiée, une
+panne de laryngophone" is translated as "A speaking tube out of order would preserve us from the holocaust." (and
+another similar case), or "Nous nous sommes jetés dans l’incendie." as "[We] flung ourselves into the holocaust.". The
+translation is also off-by-two-chapters for some reason, but my French isn't good enough to figure out what happened
+there.
 
 Lastly: when he talks about the absurdity of war, the missing material, the gears that refuse to mesh, the sheer scope
 of astonished terror, he reminds me of Vonnegut: "After nine months of war we had still not succeeded in persuading the

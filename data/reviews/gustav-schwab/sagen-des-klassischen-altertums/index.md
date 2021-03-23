@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: christopher-logue/war-music
+  text: A modern look at the Iliad.
 - book: neil-gaiman/norse-mythology
   text: The same for Norse legends.
 - book: madeline-miller/circe

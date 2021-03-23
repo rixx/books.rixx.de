@@ -18,10 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: douglas-adams/the-long-dark-tea-time-of-the-soul
-  text: A very different take on living gods.
-- book: neil-gaiman/anansi-boys
-  text: The next book in the series.
+- book: christopher-logue/war-music
+  text: Another earnest, lyrical modern look at old gods.
 - book: neil-gaiman/norse-mythology
   text: Gaiman returns to the scene of the crime.
 - book: neil-gaiman/fragile-things
@@ -34,6 +32,10 @@ related_books:
   text: Gaiman's less dramatic (more overly dramatic) take on modern gods.
 - book: scott-hawkins/the-library-at-mount-char
   text: Both books about gods in modern America.
+- book: douglas-adams/the-long-dark-tea-time-of-the-soul
+  text: A very different take on living gods.
+- book: neil-gaiman/anansi-boys
+  text: The next book in the series.
 review:
   date_read:
   - 2012-02-01

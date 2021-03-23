@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2019-04-10'
 related_books:
+- book: christopher-logue/war-music
+  text: If you want modern takes on the Iliad, please read Logue.
 - book: madeline-miller/circe
   text: More fiction about Greek myths.
 - book: gustav-schwab/sagen-des-klassischen-altertums

@@ -36,6 +36,28 @@ review:
   date_read:
   - 2021-03-11
   rating: 3
+  tldr: An unlikely advocate for decentralised, anarchic structures. Much better as
+    a memoir than as the management book it wants to be.
+social:
+  mastodon:
+    datetime: 2021-03-21 17:40:18.292681
+    id: '105928773968276044'
+    in_reply_to: '105928767138367456'
+    text: '27/ Turn the Ship Around! by L. David Marquet. An unlikely advocate for
+      decentralised, anarchic structures. Much better as a memoir than as the management
+      book it wants to be.
+
+      https://books.rixx.de/l-david-marquet/turn-the-ship-around/ #rixxReads'
+  number: 27
+  twitter:
+    datetime: 2021-03-21 17:40:17.372417
+    id: '1373675842048565248'
+    in_reply_to: '1373675405371179010'
+    text: '27/ Turn the Ship Around! by L. David Marquet. An unlikely advocate for
+      decentralised, anarchic structures. Much better as a memoir than as the management
+      book it wants to be.
+
+      https://books.rixx.de/l-david-marquet/turn-the-ship-around/'
 ---
 
 Anarchic structures are great, particularly at groups under a certain size. I know this, my friends know this – I didn't
