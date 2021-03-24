@@ -602,6 +602,7 @@ def build_site(**kwargs):
         "stats.html",
         "stats/index.html",
         stats=stats,
+        active="stats",
     )
 
     # Render graph page
@@ -662,6 +663,7 @@ def build_site(**kwargs):
         missing_nodes=len(all_reviews) - graph.number_of_nodes(),
         parts=nx.number_connected_components(graph),
         is_connected=nx.is_connected(graph),
+        active="graph",
     )
 
     # Render quotes

@@ -327,8 +327,6 @@ header a {
   justify-content: space-around;
   font-size: 22px;
   font-variant: bold;
-  width: 100%;
-  max-width: 450px;
   margin: auto;
 }
 #nav-links a {
