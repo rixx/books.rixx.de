@@ -28,8 +28,8 @@ main:not(.wide) {
   margin-left: auto;
   margin-right: auto;
   padding: 1em;
-  max-width: 800px;
-  min-width: 600px;
+  max-width: min(800px, 100vw);
+  min-width: min(600px, 100vw);
   min-height: 83vh;
   overflow-wrap: break-word;
   background: white;
@@ -178,6 +178,7 @@ button {
 
 .book-card, .lists {
   min-height: 161px;
+  max-width: calc(100vw - 40px);
   position: relative;
   flex: 1 0 auto;
   align-self: stretch;
@@ -328,6 +329,9 @@ header a {
   font-size: 22px;
   font-variant: bold;
   margin: auto;
+}
+#nav-links .sep {
+  display: none;
 }
 #nav-links a {
   margin: 8px 0;
@@ -680,13 +684,14 @@ header a {
   background-position-y: 0px;
   box-shadow: inset 0px 0px 15px 0px rgba(0,0,0,0.43);
   padding: 0 1px;
-  width: calc(100% - 30px);
+  width: min(calc(100% - 30px), calc(100vw - 80px));
 }
 
 #shelf-wrapper {
   display:flex;
   align-items: stretch;
   align-content: stretch;
+  max-width:  calc(100vw - 50px);
 }
 #shelf-wrapper .shelf-side {
   margin:-1px;
@@ -700,6 +705,7 @@ header a {
   height: 20px;
   position: relative;
   z-index: 20;
+  max-width: calc(100vw - 50px);
 }
 #shelftop img, #shelfbottom img {
   width: calc(100% + 48px);
@@ -927,29 +933,37 @@ header a {
 }
 
 @media (max-width: 480px) {
-  main {
+  main, main:not(.wide) {
     border-left: none;
     border-right: none;
+    padding: 0;
+  }
+  main > * {
+    margin-left: 15px;
   }
   main .book-card {
     padding: 0;
     padding-bottom: 15px;
-    margin: 15px 0;
+    margin: 15px;
     height: auto;
+  }
+  .book-card .external-link {
+    display: none;
   }
   .book-card .cover {
     margin: 0 18px 6px 0px;
   }
-  div.rating {
-    padding-left: 118px
-  }
   table.book-metadata {
     clear: both;
   }
-  #nav-links a {
+  #nav-links a, #nav-links .sep {
     margin: 8px 0;
     padding: 0;
     padding-top: 12px;
+  }
+  #nav-links .sep {
+    display: block;
+    margin: 8px 8px;
   }
   .alphabet-section .initial::first-letter {
     padding-right: none;
@@ -969,7 +983,8 @@ header a {
   }
 }
 @media (max-width: 700px) {
-  #sidenav-left {
+  #sidenav-left,
+  #nav-links #graph-nav {
     display: none;
   }
   #social-article {
