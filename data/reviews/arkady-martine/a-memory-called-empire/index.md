@@ -24,7 +24,9 @@ related_books:
 review:
   date_read:
   - 2019-07-07
+  - 2021-03-26
   rating: 4
+  tldr: Excellent scifi including technology and language and culture (so much language and culture). Loved it even more on the re-read.
 ---
 
 A junior ambassador from one alien nation and planet to another, which boasts of a highly complex language and culture?
@@ -49,3 +51,11 @@ In one or two places, the book takes the easy way out of these moral quandaries,
 same in every-day life. We break problems down, or circumvent them, and don't always meet them with intellectual
 curiosity and honesty head on. I enjoyed this book very much, and I'm extremely impressed that this was the first
 published book by this author. Apparently a second volume is in the making, which I'm very much looking forward to.
+
+But to be honest, what spoke most to me in this book is how it mirrors exactly how I feel about interacting with English
+native speakers on the one hand and English-speaking culture on the other hand. The casual talking-down, the constant
+taking-for-granted and the occasional cutting inadequacy are stunningly the same, just as the constant threat of
+cultural and non-cultural imperialism. Language works slightly differently, but so does EVERYTHING ELSE. Smiles. Hints.
+Politeness. It's absurd, and hard, and the way the (don't take this the wrong way) cultural primacy handles it is *not*
+enjoyable. The way the protagonist struggles between her culture and her love for the Teixcalaan culture (and her desire
+to be somewhat accepted or at least acknowledged, knowing how impossible it is) is *painful* because yes, this is me.
