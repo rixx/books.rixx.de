@@ -27,6 +27,8 @@ related_books:
   text: Similarly fast-paced humour, but darker.
 - book: josiah-bancroft/arm-of-the-sphinx
   text: Desperate band of friends making a last stand.
+- book: david-gemmell/legend
+  text: Couldn't have been written without Legend and the whole genre to back it up.
 review:
   date_read:
   - 2019-05-18

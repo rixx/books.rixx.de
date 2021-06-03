@@ -16,6 +16,8 @@ book:
 plan:
   date_added: '2015-04-09'
 related_books:
+- book: david-gemmell/legend
+  text: Less ironic heroes.
 - book: terry-pratchett/the-last-continent
   text: The next Rincewind book.
 - book: terry-pratchett/eric
