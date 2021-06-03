@@ -18,6 +18,8 @@ plan:
 related_books:
 - book: george-r-r-martin/a-game-of-thrones
   text: Complex and political Fantasy with brutal twists.
+- book: hugh-cook/the-wizards-and-the-warriors
+  text: Odd characters trying to deal with a weird world much larger than themselves.
 review:
   date_read:
   - 2019-01-05
