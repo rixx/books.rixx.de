@@ -11,7 +11,8 @@ book:
   series_position: '1'
   spine_color: '#c4bba2'
   tags:
-  - fantasy
+  - language
+  - scifi
   title: A Memory Called Empire
 plan:
   date_added: '2019-06-12'
@@ -28,7 +29,7 @@ review:
 
 A junior ambassador from one alien nation and planet to another, which boasts of a highly complex language and culture?
 Finding herself scrambling to catch up with her predecessor (rudely murdered, instead of being in her brain as would be
-appropriate), trying not to share his fate? Sudden conspiracies, even mor complex cultural games, plus an assistent
+appropriate), trying not to share his fate? Sudden conspiracies, even more complex cultural games, plus an assistent
 she's very much into? Hell yes.
 
 A Memory Called Empire by *Arkady Martine* is exactly the kind of sci-fi that I like reading. All people in this novel
@@ -44,8 +45,7 @@ definitions of being human. And as if that wasn't enough, we also get to think a
 What if my culture says that your culture does hideously brutal things that make it barely human at all – but I have to
 choose between allying with you and potentially dooming all thinking galactic life? Yeah, that.
 
-In one or two
-places, the book takes the easy way out of these moral quandries, but then again, that's fair: We do the same in
-every-day life. We break problems down, or circumvent them, and don't always meet them with intellectual curiosity and
-honesty head on. I enjoyed this book very much, and I'm extremely impressed that this was the first published book by
-this author. Apparently a second volume is in the making, which I'm very much looking forward to.
+In one or two places, the book takes the easy way out of these moral quandaries, but then again, that's fair: We do the
+same in every-day life. We break problems down, or circumvent them, and don't always meet them with intellectual
+curiosity and honesty head on. I enjoyed this book very much, and I'm extremely impressed that this was the first
+published book by this author. Apparently a second volume is in the making, which I'm very much looking forward to.
