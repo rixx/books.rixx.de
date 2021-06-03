@@ -29,6 +29,8 @@ related_books:
   text: The next book in the series
 - book: ilona-andrews/clean-sweep
   text: Her other urban fantasy series.
+- book: toby-barlow
+  text: Urban fantasy werewolves, but in an epic poem.
 review:
   date_read:
   - 2020-06-21

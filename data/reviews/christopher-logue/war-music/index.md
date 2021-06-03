@@ -19,6 +19,8 @@ related_books:
   text: Less adapted and more true-to-form Greek myths.
 - book: neil-gaiman/american-gods
   text: A similarly serious, modern, and sometimes lyrical look at old gods.
+- book: toby-barlow/sharp-teeth
+  text: For more novels in form of modern epic poems.
 review:
   date_read:
   - 2021-03-12
