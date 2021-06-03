@@ -21,7 +21,9 @@ plan:
   date_added: 2020-05-24
 related_books:
 - book: epictetus/the-manual
-  text: Nitsche has Opinions on Greek philosophers.
+  text: Nietzsche has Opinions on Greek philosophers.
+- book: g-k-chesterton/heretics
+  text: Chesterton expresses some non-favourable opinions on Nietzsche while being also extremely like him.
 review:
   date_read:
   - 2020-05-25

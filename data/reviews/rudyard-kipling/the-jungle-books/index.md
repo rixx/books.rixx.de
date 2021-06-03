@@ -19,6 +19,8 @@ related_books:
     I have a better suggestion for you.
 - book: neil-gaiman/the-graveyard-book
   text: This one is a bit far out there, but boy-raised-by-ghosts meets boy-raised-by-wolves.
+- book: g-k-chesterton/heretics
+  text: Want to read how others saw Kipling?
 review:
   date_read:
   - 2008-11-01
