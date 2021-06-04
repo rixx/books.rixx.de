@@ -1,0 +1,43 @@
+{
+    "A4": {
+        "hard": [
+            "diane-duane/the-door-into-sunset"
+        ],
+        "normal": []
+    },
+    "B4": {
+        "hard": [
+            "diane-duane/the-door-into-sunset"
+        ],
+        "normal": []
+    },
+    "C3": {
+        "hard": [],
+        "normal": [
+            "arkady-martine/a-desolation-called-peace"
+        ]
+    },
+    "D4": {
+        "hard": [],
+        "normal": [
+            "diane-duane/the-door-into-sunset"
+        ]
+    },
+    "E2": {
+        "hard": [],
+        "normal": [
+            "arkady-martine/a-desolation-called-peace"
+        ]
+    },
+    "E5": {
+        "hard": [
+            "diane-duane/the-door-into-sunset"
+        ],
+        "normal": []
+    },
+    "hacky": {
+        "hack": [
+            "g-k-chesterton/heretics"
+        ]
+    }
+}
