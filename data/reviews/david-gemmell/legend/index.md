@@ -23,6 +23,25 @@ review:
   - 2021-03-20
   did_not_finish: false
   rating: 3
+  tldr: Big heroic classic fantasy. Better than it sounds, but not that much.
+social:
+  mastodon:
+    datetime: 2021-06-04 13:47:29.919065
+    id: '106352295923367887'
+    in_reply_to: '106351744966684037'
+    text: '34/ Legend by David Gemmell. Big heroic classic fantasy. Better than it
+      sounds, but not that much.
+
+      https://books.rixx.de/david-gemmell/legend/ #rixxReads'
+  number: 34
+  twitter:
+    datetime: 2021-06-04 13:47:29.507856
+    id: '1400781247522258944'
+    in_reply_to: '1400745986448924674'
+    text: '34/ Legend by David Gemmell. Big heroic classic fantasy. Better than it
+      sounds, but not that much.
+
+      https://books.rixx.de/david-gemmell/legend/'
 ---
 
 On my reading list, this book had the note "Big heroic classic fantasy", and that's *exactly* what it is. Big damn
