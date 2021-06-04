@@ -99,7 +99,10 @@ def search_book_on_goodreads(search_term=None):
         else:
             options = result + [("Try different search", None)]
             book = inquirer.list_input(
-                message="Which one did you mean?", choices=options, carousel=True, default=options[0][1]
+                message="Which one did you mean?",
+                choices=options,
+                carousel=True,
+                default=options[0][1],
             )
             if book:
                 return get_book_data(url=f"{GOODREADS_URL}book/show/{book}.xml")
