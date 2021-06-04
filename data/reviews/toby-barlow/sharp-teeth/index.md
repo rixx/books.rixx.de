@@ -28,8 +28,26 @@ review:
   date_read:
   - 2021-03-16
   rating: 4
-  tldr: Urban fantasy novel about big city werewolves … told entirely in verse. Apparently I'm a sucker for 
-    modern poems. Yessss.
+  tldr: Urban fantasy novel about big city werewolves … told entirely in verse. Apparently
+    I'm a sucker for modern poems. Yessss.
+social:
+  mastodon:
+    datetime: 2021-06-04 11:27:23.019501
+    id: '106351744966684037'
+    in_reply_to: '106351519691835147'
+    text: '33/ Sharp Teeth by Toby Barlow. Urban fantasy novel about big city werewolves
+      … told entirely in verse. Apparently I''m a sucker for modern poems. Yessss.
+
+      https://books.rixx.de/toby-barlow/sharp-teeth/ #rixxReads'
+  number: 33
+  twitter:
+    datetime: 2021-06-04 11:27:22.651936
+    id: '1400745986448924674'
+    in_reply_to: '1400731568667185156'
+    text: '33/ Sharp Teeth by Toby Barlow. Urban fantasy novel about big city werewolves
+      … told entirely in verse. Apparently I''m a sucker for modern poems. Yessss.
+
+      https://books.rixx.de/toby-barlow/sharp-teeth/'
 ---
 
 Werewolf packs in LA might seem like an urban fantasy staple (and it is), but not like this: Toby Barlow tells the
