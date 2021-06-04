@@ -21,6 +21,8 @@ related_books:
   text: A similarly complex world, also questioning divided loyalties.
 - book: seth-dickinson/the-traitor-baru-cormorant
   text: Another look at world-spanning empires and their agents.
+- book: arkady-martine/a-desolation-called-peace
+  text: The next part of the series.
 review:
   date_read:
   - 2019-07-07
