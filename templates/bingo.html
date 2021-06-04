@@ -1,0 +1,46 @@
+
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Bingo!</h1>
+
+<p>
+
+  A rough progress on the yearly <a
+                                   href="https://www.reddit.com/r/Fantasy/comments/mhz2tt/official_rfantasy_2021_book_bingo_challenge/">/r/fantasy</a>
+  Bingo challenge. This page doesn't show a finished board, it lists all
+  possible square allocations. If I cover enough of the board, I'll resolve the
+  conflicts in time for the March 31st deadline.
+</p>
+<p>
+  Book covers with a border are in hard mode (hover over the ? for square explanations and hard mode rules).
+</p>
+
+  <div id="bingo">
+    {% for row in squares %}
+    <div class="bingo-row">
+      {% for square in row %}
+      <div class="bingo-square{% if square['books'] %} bingo-active{% endif %}">
+        <span class="bingo-hint" data-description="{{ square.description }}{% if square.description %}&#xa;{% endif %}Hard mode: {{ square.hard_mode }}">?</span>
+        {{ square.title }}
+        {% if square["books"] %}
+        <div class="covers">
+          {% for review in square["books"]["hard"] %}
+          <a href="{{ review.id }}" alt="{{ review.metadata['book']['title'] }} by {{ review.metadata['book']['author'] }}" class="hard-bingo">
+            {% include "_book_cover.html" %}
+          </a>
+          {% endfor %}
+          {% for review in square["books"]["normal"] %}
+          <a href="{{ review.id }}" alt="{{ review.metadata['book']['title'] }} by {{ review.metadata['book']['author'] }}">
+            {% include "_book_cover.html" %}
+          </a>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+
+{% endblock %}

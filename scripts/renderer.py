@@ -19,7 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markdown.extensions.smarty import SmartyExtension
 from PIL import Image
 
-from . import books
+from . import books, reddit
 
 
 def unmark_element(element, stream=None):
@@ -603,6 +603,20 @@ def build_site(**kwargs):
         "stats/index.html",
         stats=stats,
         active="stats",
+    )
+    squares = reddit.SQUARES
+    data = reddit.load_reddit_data()
+    data.pop("hacky")
+    for square, content in data.items():
+        squares[square]["books"] = {
+            "normal": [review_lookup[book] for book in content["normal"]],
+            "hard": [review_lookup[book] for book in content["hard"]],
+        }
+    squares = list(squares.values())
+    render(
+        "bingo.html",
+        "bingo/index.html",
+        squares=[squares[i * 5 : i * 5 + 5] for i in range(5)],
     )
 
     # Render graph page

@@ -91,7 +91,7 @@ def search_book_on_goodreads(search_term=None):
         if len(result) == 0:
             click.echo(
                 click.style(
-                    f"Found no possible books, try a different search term.",
+                    "Found no possible books, try a different search term.",
                     fg="green",
                     bold=True,
                 )

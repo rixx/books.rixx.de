@@ -189,7 +189,7 @@ def add_book_squares(data, book):
                 data[name]["hard"].append(book.id)
             else:
                 data[name] = {"hard": [book.id], "normal": []}
-    if not "hacky" in data:
+    if "hacky" not in data:
         data["hacky"] = {"hack": [book.id]}
     else:
         data["hacky"]["hack"].append(book.id)

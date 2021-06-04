@@ -269,7 +269,7 @@ class Review:
         extension = {"image/jpeg": "jpg", "image/png": "png", "image/gif": "gif"}[
             headers["Content-Type"]
         ]
-        destination = self.path.parent / f"cover.jpg"
+        destination = self.path.parent / "cover.jpg"
         if not destination.exists() or force_new:
             if self.cover_path:
                 self.cover_path.unlink()
