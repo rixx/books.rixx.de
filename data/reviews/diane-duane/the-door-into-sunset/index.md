@@ -11,6 +11,7 @@ book:
   series: Tale of the Five
   series_position: '3'
   spine_color: '#ad6b3f'
+  pages: 384
   tags:
   - fantasy
   - queer
