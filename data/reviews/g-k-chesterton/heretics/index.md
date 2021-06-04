@@ -18,7 +18,7 @@ book:
 plan:
   date_added: 2021-06-03
 related_books:
-- book: friedrich-nitzsche/twilight-of-the-idols
+- book: friedrich-nietzsche/twilight-of-the-idols
   text: Chesterton expresses some non-favourable opinions on Nietzsche while being
     also extremely like him.
 - book: rudyard-kipling/the-jungle-books

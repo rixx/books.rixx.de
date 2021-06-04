@@ -17,17 +17,37 @@ book:
   title: The Wizards and the Warriors
 plan:
   date_added: 2021-04-26
+related_books:
+- book: george-r-r-martin/a-game-of-thrones
+  text: For an odd character-driven plot much larger than the initial book.
+- book: steven-erikson/gardens-of-the-moon
+  text: Odd characters trying to deal with a weird world much larger than themselves.
 review:
   date_read:
   - 2021-03-09
   rating: 3
   tldr: Much less generic than the title makes it sound, but didn't really work for
     me regardless. Felt like ASOIAF x Malazan.
-related_books:
-- book: george-r-r-martin/a-game-of-thrones
-  text: For an odd character-driven plot much larger than the initial book.
-- book: steven-erikson/gardens-of-the-moon
-  text: Odd characters trying to deal with a weird world much larger than themselves.
+social:
+  mastodon:
+    datetime: 2021-06-04 10:30:05.597625
+    id: '106351519691835147'
+    in_reply_to: '105941444197386988'
+    text: '32/ The Wizards and the Warriors by Hugh Cook. Much less generic than the
+      title makes it sound, but didn''t really work for me regardless. Felt like ASOIAF
+      x Malazan.
+
+      https://books.rixx.de/hugh-cook/the-wizards-and-the-warriors/ #rixxReads'
+  number: 32
+  twitter:
+    datetime: 2021-06-04 10:30:05.230927
+    id: '1400731568667185156'
+    in_reply_to: '1374486737204834312'
+    text: '32/ The Wizards and the Warriors by Hugh Cook. Much less generic than the
+      title makes it sound, but didn''t really work for me regardless. Felt like ASOIAF
+      x Malazan.
+
+      https://books.rixx.de/hugh-cook/the-wizards-and-the-warriors/'
 ---
 
 Some wizards try to re-capture an artifact that could end the world, but get caught up in wars, petty conflicts, their

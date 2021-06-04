@@ -20,7 +20,7 @@ book:
 plan:
   date_added: 2021-06-04
 related_books:
-- book: christoper-logue/war-music
+- book: christopher-logue/war-music
   text: For more novels in form of epic modern verse.
 - book: ilona-andrews/magic-bites
   text: More regular urban fantasy werwolf packs.
