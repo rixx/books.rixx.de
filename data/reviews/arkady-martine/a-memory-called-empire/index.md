@@ -28,7 +28,28 @@ review:
   - 2019-07-07
   - 2021-03-26
   rating: 4
-  tldr: Excellent scifi including technology and language and culture (so much language and culture). Loved it even more on the re-read.
+  tldr: Excellent scifi including technology and language and culture (so much language
+    and culture). Loved it even more on the re-read.
+social:
+  mastodon:
+    datetime: 2021-06-04 23:47:08.051359
+    id: '106354653774558865'
+    in_reply_to: '106352295923367887'
+    text: '35/ A Memory Called Empire by Arkady Martine. Excellent scifi including
+      technology and language and culture (so much language and culture). Loved it
+      even more on the re-read.
+
+      https://books.rixx.de/arkady-martine/a-memory-called-empire/ #rixxReads'
+  number: 35
+  twitter:
+    datetime: 2021-06-04 23:47:07.201074
+    id: '1400932148018823182'
+    in_reply_to: '1400781247522258944'
+    text: '35/ A Memory Called Empire by Arkady Martine. Excellent scifi including
+      technology and language and culture (so much language and culture). Loved it
+      even more on the re-read.
+
+      https://books.rixx.de/arkady-martine/a-memory-called-empire/'
 ---
 
 A junior ambassador from one alien nation and planet to another, which boasts of a highly complex language and culture?
