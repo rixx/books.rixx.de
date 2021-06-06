@@ -28,6 +28,24 @@ review:
   rating: 3
   tldr: Interesting conclusion to the trilogy. Not what I expected. Good stuff, and
     rewards attention to detail.
+social:
+  mastodon:
+    datetime: 2021-06-06 20:20:06.369072
+    id: '106365164341736571'
+    in_reply_to: '106365164048780454'
+    text: '40/ Harpist in the Wind by Patricia A. McKillip. Interesting conclusion
+      to the trilogy. Not what I expected. Good stuff, and rewards attention to detail.
+
+      https://books.rixx.de/patricia-a-mckillip/harpist-in-the-wind/ #rixxReads'
+  number: 40
+  twitter:
+    datetime: 2021-06-06 20:20:06.122856
+    id: '1401604826870525955'
+    in_reply_to: '1401604807723520014'
+    text: '40/ Harpist in the Wind by Patricia A. McKillip. Interesting conclusion
+      to the trilogy. Not what I expected. Good stuff, and rewards attention to detail.
+
+      https://books.rixx.de/patricia-a-mckillip/harpist-in-the-wind/'
 ---
 
 Concluding this series, the established power couple tackles the remaining big riddles in the world, and finally figure

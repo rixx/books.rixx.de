@@ -29,6 +29,26 @@ review:
   date_read:
   - 2021-04-16
   rating: 3
+  tldr: Unconventional fantasy, reminded me of Earthsea. Glad I read it despite the
+    oddly distanced storytelling.
+social:
+  mastodon:
+    datetime: 2021-06-06 20:19:43.731077
+    id: '106365162852148967'
+    in_reply_to: '106364145092012294'
+    text: '38/ The Riddle-Master of Hed by Patricia A. McKillip. Unconventional fantasy,
+      reminded me of Earthsea. Glad I read it despite the oddly distanced storytelling.
+
+      https://books.rixx.de/patricia-a-mckillip/the-riddle-master-of-hed/ #rixxReads'
+  number: 38
+  twitter:
+    datetime: 2021-06-06 20:19:43.364942
+    id: '1401604731370409986'
+    in_reply_to: '1401539594630402048'
+    text: '38/ The Riddle-Master of Hed by Patricia A. McKillip. Unconventional fantasy,
+      reminded me of Earthsea. Glad I read it despite the oddly distanced storytelling.
+
+      https://books.rixx.de/patricia-a-mckillip/the-riddle-master-of-hed/'
 ---
 
 Reluctant heroes are a bit overdone, but this one is honest and plausible (though, as all reluctant heroes, a bit

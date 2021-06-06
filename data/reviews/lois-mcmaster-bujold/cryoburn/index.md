@@ -18,7 +18,7 @@ book:
 plan:
   date_added: 2020-08-18
 related_books:
-- book: lois-mcmaster-bujold-liuis-makmastr-biudzhold/winterfair-gifts
+- book: lois-mcmaster-bujold/winterfair-gifts
   text: The previous book in the series.
 - book: lois-mcmaster-bujold/captain-vorpatrils-alliance
   text: The next book in the series.

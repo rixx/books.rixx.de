@@ -22,7 +22,7 @@ plan:
 related_books:
 - book: lois-mcmaster-bujold/a-civil-campaign
   text: The previous book in the series.
-- book: lois-mcmaster-bujold-liuis-makmastr-biudzhold/winterfair-gifts
+- book: lois-mcmaster-bujold/winterfair-gifts
   text: The next book in the series.
 - book: lois-mcmaster-bujold/shards-of-honour
   text: The first book in the series.

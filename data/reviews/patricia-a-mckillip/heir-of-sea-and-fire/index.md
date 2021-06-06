@@ -29,6 +29,26 @@ review:
   rating: 3
   tldr: Good second part of the series – unconventional, as it makes the first protagonist's
     fiancée the new protagonist.
+social:
+  mastodon:
+    datetime: 2021-06-06 20:20:02.420832
+    id: '106365164048780454'
+    in_reply_to: '106365162852148967'
+    text: '39/ Heir of Sea and Fire by Patricia A. McKillip. Good second part of the
+      series – unconventional, as it makes the first protagonist''s fiancée the new
+      protagonist.
+
+      https://books.rixx.de/patricia-a-mckillip/heir-of-sea-and-fire/ #rixxReads'
+  number: 39
+  twitter:
+    datetime: 2021-06-06 20:20:01.641692
+    id: '1401604807723520014'
+    in_reply_to: '1401604731370409986'
+    text: '39/ Heir of Sea and Fire by Patricia A. McKillip. Good second part of the
+      series – unconventional, as it makes the first protagonist''s fiancée the new
+      protagonist.
+
+      https://books.rixx.de/patricia-a-mckillip/heir-of-sea-and-fire/'
 ---
 
 Fiancées in fantasy books are often not taken quite seriously, even more so if they are a princess. McKillip will have
