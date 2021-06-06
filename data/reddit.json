@@ -22,13 +22,15 @@
     "B1": {
         "hard": [],
         "normal": [
-            "lois-mcmaster-bujold/the-curse-of-chalion"
+            "lois-mcmaster-bujold/the-curse-of-chalion",
+            "r-j-barker/the-bone-ships"
         ]
     },
     "B2": {
         "hard": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
-            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city",
+            "r-j-barker/the-bone-ships"
         ],
         "normal": []
     },
@@ -67,6 +69,12 @@
             "arkady-martine/a-desolation-called-peace"
         ]
     },
+    "C4": {
+        "hard": [],
+        "normal": [
+            "r-j-barker/the-bone-ships"
+        ]
+    },
     "D2": {
         "hard": [],
         "normal": [
@@ -81,8 +89,15 @@
         "normal": [
             "diane-duane/the-door-into-sunset",
             "lois-mcmaster-bujold/the-curse-of-chalion",
-            "ilona-andrews/sweep-in-peace"
+            "ilona-andrews/sweep-in-peace",
+            "r-j-barker/the-bone-ships"
         ]
+    },
+    "D5": {
+        "hard": [
+            "r-j-barker/the-bone-ships"
+        ],
+        "normal": []
     },
     "E1": {
         "hard": [
@@ -97,6 +112,12 @@
         "hard": [],
         "normal": [
             "arkady-martine/a-desolation-called-peace"
+        ]
+    },
+    "E3": {
+        "hard": [],
+        "normal": [
+            "r-j-barker/the-bone-ships"
         ]
     },
     "E5": {
@@ -115,7 +136,8 @@
             "lois-mcmaster-bujold/the-curse-of-chalion",
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "ilona-andrews/sweep-in-peace",
-            "ilona-andrews/one-fell-sweep"
+            "ilona-andrews/one-fell-sweep",
+            "r-j-barker/the-bone-ships"
         ]
     }
 }
