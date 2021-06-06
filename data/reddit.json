@@ -11,6 +11,12 @@
         ],
         "normal": []
     },
+    "B1": {
+        "hard": [],
+        "normal": [
+            "lois-mcmaster-bujold/the-curse-of-chalion"
+        ]
+    },
     "B2": {
         "hard": [
             "patricia-a-mckillip/the-riddle-master-of-hed"
@@ -47,7 +53,8 @@
     "D4": {
         "hard": [],
         "normal": [
-            "diane-duane/the-door-into-sunset"
+            "diane-duane/the-door-into-sunset",
+            "lois-mcmaster-bujold/the-curse-of-chalion"
         ]
     },
     "E1": {
@@ -55,7 +62,8 @@
             "patricia-a-mckillip/heir-of-sea-and-fire"
         ],
         "normal": [
-            "patricia-a-mckillip/the-riddle-master-of-hed"
+            "patricia-a-mckillip/the-riddle-master-of-hed",
+            "lois-mcmaster-bujold/the-curse-of-chalion"
         ]
     },
     "E2": {
@@ -76,7 +84,8 @@
             "g-k-chesterton/heretics",
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "patricia-a-mckillip/heir-of-sea-and-fire",
-            "patricia-a-mckillip/harpist-in-the-wind"
+            "patricia-a-mckillip/harpist-in-the-wind",
+            "lois-mcmaster-bujold/the-curse-of-chalion"
         ]
     }
 }

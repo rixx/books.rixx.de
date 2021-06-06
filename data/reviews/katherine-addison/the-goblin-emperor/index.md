@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2018-08-28'
 related_books:
+- book: lois-mcmaster-bujold/the-curse-of-chalion
+  text: Similar "thrown in at the deep end" political intrigue fantasy.
 - book: janusz-korczak/king-matt-the-first
   text: More lessons in how complex ruling is for unexperienced young kings. Much
     bleaker.
