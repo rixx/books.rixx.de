@@ -21,6 +21,8 @@ related_books:
   text: Another take on slightly-magical Byzantium.
 - book: ken-follett/the-pillars-of-the-earth
   text: Another book that makes you value early medieval builders and craft.
+- book: k-j-parker/sixteen-ways-to-defend-a-walled-city
+  text: More pseudo-Roman engineering.
 review:
   date_read:
   - 2021-02-10

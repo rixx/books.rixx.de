@@ -11,6 +11,12 @@
         ],
         "normal": []
     },
+    "A5": {
+        "hard": [],
+        "normal": [
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+        ]
+    },
     "B1": {
         "hard": [],
         "normal": [
@@ -19,7 +25,8 @@
     },
     "B2": {
         "hard": [
-            "patricia-a-mckillip/the-riddle-master-of-hed"
+            "patricia-a-mckillip/the-riddle-master-of-hed",
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
         ],
         "normal": []
     },
@@ -36,7 +43,9 @@
         "hard": [
             "patricia-a-mckillip/heir-of-sea-and-fire"
         ],
-        "normal": []
+        "normal": [
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+        ]
     },
     "C1": {
         "hard": [
@@ -85,7 +94,8 @@
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "patricia-a-mckillip/heir-of-sea-and-fire",
             "patricia-a-mckillip/harpist-in-the-wind",
-            "lois-mcmaster-bujold/the-curse-of-chalion"
+            "lois-mcmaster-bujold/the-curse-of-chalion",
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
         ]
     }
 }
