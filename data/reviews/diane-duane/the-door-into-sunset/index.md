@@ -7,11 +7,11 @@ book:
   goodreads: '531225'
   isbn10: 0812514319
   isbn13: '9780812514315'
+  pages: 384
   publication_year: '1992'
   series: Tale of the Five
   series_position: '3'
   spine_color: '#ad6b3f'
-  pages: 384
   tags:
   - fantasy
   - queer
@@ -30,6 +30,24 @@ review:
   rating: 3
   tldr: The weakest part of the Door Into series, leaving us hanging without a real
     end.
+social:
+  mastodon:
+    datetime: 2021-06-06 16:00:53.888947
+    id: '106364145092012294'
+    in_reply_to: '106364144064805585'
+    text: '37/ The Door into Sunset by Diane Duane. The weakest part of the Door Into
+      series, leaving us hanging without a real end.
+
+      https://books.rixx.de/diane-duane/the-door-into-sunset/ #rixxReads'
+  number: 37
+  twitter:
+    datetime: 2021-06-06 16:00:53.564155
+    id: '1401539594630402048'
+    in_reply_to: '1401539528582746114'
+    text: '37/ The Door into Sunset by Diane Duane. The weakest part of the Door Into
+      series, leaving us hanging without a real end.
+
+      https://books.rixx.de/diane-duane/the-door-into-sunset/'
 ---
 
 Silly me, I assumed that this series was a trilogy. This book was published in 1992 and doesn't wrap up the series.

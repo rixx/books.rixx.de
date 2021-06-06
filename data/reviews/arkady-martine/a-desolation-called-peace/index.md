@@ -22,13 +22,34 @@ related_books:
 - book: arkady-martine/a-memory-called-empire
   text: The first part of the series.
 - book: orson-scott-card/speaker-for-the-dead
-  text: Human civilisations considering the implications of killing an entire hive mind based alien race? My kind of sci-fi.
+  text: Human civilisations considering the implications of killing an entire hive
+    mind based alien race? My kind of sci-fi.
 review:
   date_read:
   - 2021-04-11
   rating: 4
   tldr: As good as the first part, in different ways. Still sci-fi focused on culture
     and language, and I want more.
+social:
+  mastodon:
+    datetime: 2021-06-06 16:00:38.195260
+    id: '106364144064805585'
+    in_reply_to: '106354653774558865'
+    text: '36/ A Desolation Called Peace by Arkady Martine. As good as the first part,
+      in different ways. Still sci-fi focused on culture and language, and I want
+      more.
+
+      https://books.rixx.de/arkady-martine/a-desolation-called-peace/ #rixxReads'
+  number: 36
+  twitter:
+    datetime: 2021-06-06 16:00:37.813985
+    id: '1401539528582746114'
+    in_reply_to: '1400932148018823182'
+    text: '36/ A Desolation Called Peace by Arkady Martine. As good as the first part,
+      in different ways. Still sci-fi focused on culture and language, and I want
+      more.
+
+      https://books.rixx.de/arkady-martine/a-desolation-called-peace/'
 ---
 
 Generally, *A Desolation Called Peace* is nearly as good as [A Memory Called
