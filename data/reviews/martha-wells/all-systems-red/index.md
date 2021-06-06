@@ -30,6 +30,8 @@ related_books:
   text: More sentient robots.
 - book: lynne-m-thomas/uncanny-magazine-issue-18-september-october-2017
   text: Also about a robot who turns out to enjoy pop culture.
+- book: naomi-kritzer/catfishing-on-catnet
+  text: Another AI that really only wants to look at online media, and maybe help some friends.
 review:
   date_read:
   - 2018-09-02

@@ -28,6 +28,8 @@ related_books:
   text: An infinitely worse take on video games.
 - book: ursula-poznanski/elanus
   text: More Poznanski YA on the dangers of misapplied technology.
+- book: naomi-kritzer/catfishing-on-catnet
+  text: Another YA book about interactions with hidden AIs.
 review:
   date_read:
   - 2018-03-12

@@ -7,7 +7,8 @@
     },
     "A4": {
         "hard": [
-            "diane-duane/the-door-into-sunset"
+            "diane-duane/the-door-into-sunset",
+            "naomi-kritzer/catfishing-on-catnet"
         ],
         "normal": []
     },
@@ -33,7 +34,8 @@
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "r-j-barker/the-bone-ships",
-            "alix-e-harrow/the-ten-thousand-doors-of-january"
+            "alix-e-harrow/the-ten-thousand-doors-of-january",
+            "naomi-kritzer/catfishing-on-catnet"
         ],
         "normal": []
     },
@@ -62,14 +64,16 @@
     },
     "C2": {
         "hard": [
-            "ilona-andrews/sweep-in-peace"
+            "ilona-andrews/sweep-in-peace",
+            "naomi-kritzer/catfishing-on-catnet"
         ],
         "normal": []
     },
     "C3": {
         "hard": [],
         "normal": [
-            "arkady-martine/a-desolation-called-peace"
+            "arkady-martine/a-desolation-called-peace",
+            "naomi-kritzer/catfishing-on-catnet"
         ]
     },
     "C4": {
@@ -101,7 +105,9 @@
             "r-j-barker/the-bone-ships",
             "alix-e-harrow/the-ten-thousand-doors-of-january"
         ],
-        "normal": []
+        "normal": [
+            "naomi-kritzer/catfishing-on-catnet"
+        ]
     },
     "E1": {
         "hard": [
@@ -122,7 +128,8 @@
     "E3": {
         "hard": [],
         "normal": [
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "naomi-kritzer/catfishing-on-catnet"
         ]
     },
     "E5": {
@@ -143,7 +150,8 @@
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
             "r-j-barker/the-bone-ships",
-            "alix-e-harrow/the-ten-thousand-doors-of-january"
+            "alix-e-harrow/the-ten-thousand-doors-of-january",
+            "naomi-kritzer/catfishing-on-catnet"
         ]
     }
 }
