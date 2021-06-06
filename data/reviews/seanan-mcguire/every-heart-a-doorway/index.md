@@ -30,6 +30,8 @@ related_books:
   text: Mandatory portal fantasy, it seems.
 - book: catherynne-m-valente/the-girl-who-circumnavigated-fairyland-in-a-ship-of-her-own-making
   text: Another look at portal fantasy.
+- book: alix-e-harrow/the-ten-thousand-doors-of-january
+  text: More modern coming-of-age portal fantasy.
 review:
   date_read:
   - 2018-10-06

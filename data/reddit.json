@@ -16,21 +16,24 @@
         "normal": [
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "ilona-andrews/sweep-in-peace",
-            "ilona-andrews/one-fell-sweep"
+            "ilona-andrews/one-fell-sweep",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ]
     },
     "B1": {
         "hard": [],
         "normal": [
             "lois-mcmaster-bujold/the-curse-of-chalion",
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ]
     },
     "B2": {
         "hard": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ],
         "normal": []
     },
@@ -95,7 +98,8 @@
     },
     "D5": {
         "hard": [
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ],
         "normal": []
     },
@@ -105,7 +109,8 @@
         ],
         "normal": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
-            "lois-mcmaster-bujold/the-curse-of-chalion"
+            "lois-mcmaster-bujold/the-curse-of-chalion",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ]
     },
     "E2": {
@@ -137,7 +142,8 @@
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "alix-e-harrow/the-ten-thousand-doors-of-january"
         ]
     }
 }

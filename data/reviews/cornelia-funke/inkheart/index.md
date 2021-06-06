@@ -28,6 +28,8 @@ related_books:
     characters really exist.
 - book: michael-ende/the-neverending-story
   text: The original book that sucks you in.
+- book: alix-e-harrow/the-ten-thousand-doors-of-january
+  text: Another coming-of-age portal fantasy with a strong focus on books as a medium.
 - book: cornelia-funke/inkspell
   text: The next book in the series.
 review:
