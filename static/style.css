@@ -974,6 +974,7 @@ header a {
 }
 #bingo .hard-bingo img {
   border: 3px #990000 dotted;
+  margin-bottom: 4px;
 }
 #bingo img {
   height: 70px;
