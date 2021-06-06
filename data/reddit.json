@@ -2,13 +2,15 @@
     "A3": {
         "hard": [],
         "normal": [
-            "patricia-a-mckillip/the-riddle-master-of-hed"
+            "patricia-a-mckillip/the-riddle-master-of-hed",
+            "madeline-miller/the-song-of-achilles"
         ]
     },
     "A4": {
         "hard": [
             "diane-duane/the-door-into-sunset",
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "madeline-miller/the-song-of-achilles"
         ],
         "normal": []
     },
@@ -18,7 +20,8 @@
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
-            "alix-e-harrow/the-ten-thousand-doors-of-january"
+            "alix-e-harrow/the-ten-thousand-doors-of-january",
+            "madeline-miller/the-song-of-achilles"
         ]
     },
     "B1": {
@@ -46,7 +49,9 @@
             "patricia-a-mckillip/heir-of-sea-and-fire",
             "patricia-a-mckillip/harpist-in-the-wind"
         ],
-        "normal": []
+        "normal": [
+            "madeline-miller/the-song-of-achilles"
+        ]
     },
     "B5": {
         "hard": [
@@ -116,7 +121,8 @@
         "normal": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "lois-mcmaster-bujold/the-curse-of-chalion",
-            "alix-e-harrow/the-ten-thousand-doors-of-january"
+            "alix-e-harrow/the-ten-thousand-doors-of-january",
+            "madeline-miller/the-song-of-achilles"
         ]
     },
     "E2": {
@@ -130,6 +136,12 @@
         "normal": [
             "r-j-barker/the-bone-ships",
             "naomi-kritzer/catfishing-on-catnet"
+        ]
+    },
+    "E4": {
+        "hard": [],
+        "normal": [
+            "madeline-miller/the-song-of-achilles"
         ]
     },
     "E5": {
@@ -151,7 +163,8 @@
             "ilona-andrews/one-fell-sweep",
             "r-j-barker/the-bone-ships",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "madeline-miller/the-song-of-achilles"
         ]
     }
 }

@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2018-11-14'
 related_books:
+- book: madeline-miller/the-song-of-achilles
+  text: More Miller myths.
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: Background knowledge on Greek legends.
 - book: janell-rhiannon/song-of-sacrifice
