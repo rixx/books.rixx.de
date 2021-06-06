@@ -208,7 +208,7 @@ def run_reddit():
 
     all_reviews = load_reviews()
     relevant_books = [book for book in all_reviews if date_ok(book.relevant_date)]
-    for book in relevant_books:
+    for book in sorted(relevant_books, key=lambda b: b.relevant_date):
         if book.id in known_books:
             continue
         known_data = add_book_squares(known_data, book)

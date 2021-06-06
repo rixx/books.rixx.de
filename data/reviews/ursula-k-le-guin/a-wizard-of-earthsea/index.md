@@ -25,6 +25,8 @@ related_books:
   text: Magic with names and balances and strange teachers. Less indulgent.
 - book: diane-duane/so-you-want-to-be-a-wizard
   text: Duane understands Earthsea better than most.
+- book: patricia-a-mckillip/the-riddle-master-of-hed
+  text: Another classic fantasy world with a riddle-loving academy and a similarly odd pacing.
 - book: ursula-k-le-guin/gifts
   text: Another fantasy series by le Guin.
 - book: ursula-k-le-guin/the-tombs-of-atuan

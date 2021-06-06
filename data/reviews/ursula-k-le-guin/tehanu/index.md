@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-02-22'
 related_books:
+- book: patricia-a-mckillip/heir-of-sea-and-fire
+  text: Similar switch to a female POV.
 - book: ursula-k-le-guin/the-farthest-shore
   text: The previous book in the series.
 - book: ursula-k-le-guin/tales-from-earthsea

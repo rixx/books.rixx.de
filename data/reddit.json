@@ -1,13 +1,40 @@
 {
+    "A3": {
+        "hard": [],
+        "normal": [
+            "patricia-a-mckillip/the-riddle-master-of-hed"
+        ]
+    },
     "A4": {
         "hard": [
             "diane-duane/the-door-into-sunset"
         ],
         "normal": []
     },
+    "B2": {
+        "hard": [
+            "patricia-a-mckillip/the-riddle-master-of-hed"
+        ],
+        "normal": []
+    },
     "B4": {
         "hard": [
-            "diane-duane/the-door-into-sunset"
+            "diane-duane/the-door-into-sunset",
+            "patricia-a-mckillip/the-riddle-master-of-hed",
+            "patricia-a-mckillip/heir-of-sea-and-fire",
+            "patricia-a-mckillip/harpist-in-the-wind"
+        ],
+        "normal": []
+    },
+    "B5": {
+        "hard": [
+            "patricia-a-mckillip/heir-of-sea-and-fire"
+        ],
+        "normal": []
+    },
+    "C1": {
+        "hard": [
+            "patricia-a-mckillip/harpist-in-the-wind"
         ],
         "normal": []
     },
@@ -23,6 +50,14 @@
             "diane-duane/the-door-into-sunset"
         ]
     },
+    "E1": {
+        "hard": [
+            "patricia-a-mckillip/heir-of-sea-and-fire"
+        ],
+        "normal": [
+            "patricia-a-mckillip/the-riddle-master-of-hed"
+        ]
+    },
     "E2": {
         "hard": [],
         "normal": [
@@ -31,13 +66,17 @@
     },
     "E5": {
         "hard": [
-            "diane-duane/the-door-into-sunset"
+            "diane-duane/the-door-into-sunset",
+            "patricia-a-mckillip/heir-of-sea-and-fire"
         ],
         "normal": []
     },
     "hacky": {
         "hack": [
-            "g-k-chesterton/heretics"
+            "g-k-chesterton/heretics",
+            "patricia-a-mckillip/the-riddle-master-of-hed",
+            "patricia-a-mckillip/heir-of-sea-and-fire",
+            "patricia-a-mckillip/harpist-in-the-wind"
         ]
     }
 }
