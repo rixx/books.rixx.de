@@ -23,6 +23,8 @@ related_books:
   text: The same feeling of interstellar travel where you have to deal with the peculiarities
     of other races – but at the same time, everybody is pretty used to it, and there
     are practical solutions.
+- book: ilona-andrews/sweep-in-peace
+  text: The next book in the series.
 review:
   date_read:
   - 2021-03-13

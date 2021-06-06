@@ -14,7 +14,9 @@
     "A5": {
         "hard": [],
         "normal": [
-            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city",
+            "ilona-andrews/sweep-in-peace",
+            "ilona-andrews/one-fell-sweep"
         ]
     },
     "B1": {
@@ -53,17 +55,33 @@
         ],
         "normal": []
     },
+    "C2": {
+        "hard": [
+            "ilona-andrews/sweep-in-peace"
+        ],
+        "normal": []
+    },
     "C3": {
         "hard": [],
         "normal": [
             "arkady-martine/a-desolation-called-peace"
         ]
     },
-    "D4": {
+    "D2": {
         "hard": [],
         "normal": [
+            "ilona-andrews/sweep-in-peace",
+            "ilona-andrews/one-fell-sweep"
+        ]
+    },
+    "D4": {
+        "hard": [
+            "ilona-andrews/one-fell-sweep"
+        ],
+        "normal": [
             "diane-duane/the-door-into-sunset",
-            "lois-mcmaster-bujold/the-curse-of-chalion"
+            "lois-mcmaster-bujold/the-curse-of-chalion",
+            "ilona-andrews/sweep-in-peace"
         ]
     },
     "E1": {
@@ -95,7 +113,9 @@
             "patricia-a-mckillip/heir-of-sea-and-fire",
             "patricia-a-mckillip/harpist-in-the-wind",
             "lois-mcmaster-bujold/the-curse-of-chalion",
-            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city",
+            "ilona-andrews/sweep-in-peace",
+            "ilona-andrews/one-fell-sweep"
         ]
     }
 }
