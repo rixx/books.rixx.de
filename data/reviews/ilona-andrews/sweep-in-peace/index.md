@@ -25,7 +25,26 @@ review:
   date_read:
   - 2021-04-28
   rating: 3
-  tldr: More fantastical innkeeper stories. This time – intergalactic diplomacy edition. Enjoyable comfort read.
+  tldr: More fantastical innkeeper stories. This time – intergalactic diplomacy edition.
+    Enjoyable comfort read.
+social:
+  mastodon:
+    datetime: 2021-06-07 18:09:22.509664
+    id: '106370312595955224'
+    in_reply_to: '106368351581176657'
+    text: '43/ Sweep in Peace by Ilona Andrews. More fantastical innkeeper stories.
+      This time – intergalactic diplomacy edition. Enjoyable comfort read.
+
+      https://books.rixx.de/ilona-andrews/sweep-in-peace/ #rixxReads'
+  number: 43
+  twitter:
+    datetime: 2021-06-07 18:09:22.129561
+    id: '1401934314556821507'
+    in_reply_to: '1401808810080190465'
+    text: '43/ Sweep in Peace by Ilona Andrews. More fantastical innkeeper stories.
+      This time – intergalactic diplomacy edition. Enjoyable comfort read.
+
+      https://books.rixx.de/ilona-andrews/sweep-in-peace/'
 ---
 
 More magical tavern innkeeper stories! This one wasn't that different from the first part. It has found its footing, and

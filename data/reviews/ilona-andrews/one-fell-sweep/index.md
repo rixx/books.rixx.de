@@ -25,6 +25,26 @@ review:
   rating: 2
   tldr: The Innkeeper series with more of an ensemble cast. Not bad, but worse than
     the previous books, I'm probably going to stop reading here.
+social:
+  mastodon:
+    datetime: 2021-06-07 18:09:26.850671
+    id: '106370312878449049'
+    in_reply_to: '106370312595955224'
+    text: '44/ One Fell Sweep by Ilona Andrews. The Innkeeper series with more of
+      an ensemble cast. Not bad, but worse than the previous books, I''m probably
+      going to stop reading here.
+
+      https://books.rixx.de/ilona-andrews/one-fell-sweep/ #rixxReads'
+  number: 44
+  twitter:
+    datetime: 2021-06-07 18:09:26.555751
+    id: '1401934333175386113'
+    in_reply_to: '1401934314556821507'
+    text: '44/ One Fell Sweep by Ilona Andrews. The Innkeeper series with more of
+      an ensemble cast. Not bad, but worse than the previous books, I''m probably
+      going to stop reading here.
+
+      https://books.rixx.de/ilona-andrews/one-fell-sweep/'
 ---
 
 Ensemble casts are very hit and miss for me, and this one was a miss. The Innkeeper Chronicles have an ensemble cast by
