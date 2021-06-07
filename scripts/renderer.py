@@ -112,7 +112,7 @@ def _create_new_square(src_path, square_path):
 
     dimension = max(im.size)
 
-    new = Image.new("RGB", size=(dimension, dimension), color=(255, 255, 255))
+    new = Image.new("RGBA", size=(dimension, dimension), color=(255, 0, 0, 0))
 
     if im.height > im.width:
         new.paste(im, box=((dimension - im.width) // 2, 0))
