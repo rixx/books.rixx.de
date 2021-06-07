@@ -27,6 +27,24 @@ review:
   did_not_finish: false
   rating: 2
   tldr: Sadly, Bujold's Fantasy is not for me. I'll stick with the Vorkosigan saga.
+social:
+  mastodon:
+    datetime: 2021-06-07 09:50:32.339192
+    id: '106368351092282606'
+    in_reply_to: '106365164341736571'
+    text: '41/ The Curse of Chalion by Lois McMaster Bujold. Sadly, Bujold''s Fantasy
+      is not for me. I''ll stick with the Vorkosigan saga.
+
+      https://books.rixx.de/lois-mcmaster-bujold/the-curse-of-chalion/ #rixxReads'
+  number: 41
+  twitter:
+    datetime: 2021-06-07 09:50:31.934271
+    id: '1401808778278887424'
+    in_reply_to: '1401604826870525955'
+    text: '41/ The Curse of Chalion by Lois McMaster Bujold. Sadly, Bujold''s Fantasy
+      is not for me. I''ll stick with the Vorkosigan saga.
+
+      https://books.rixx.de/lois-mcmaster-bujold/the-curse-of-chalion/'
 ---
 
 Bujold has a type. The type here being "adult physically broken but very clever reluctant hero, who meddles with

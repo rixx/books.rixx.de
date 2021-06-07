@@ -27,6 +27,26 @@ review:
   rating: 2
   tldr: Not quite as good as the title, but decent. Roman military engineering fanfiction,
     in a good-ish way.
+social:
+  mastodon:
+    datetime: 2021-06-07 09:50:40.143073
+    id: '106368351581176657'
+    in_reply_to: '106368351092282606'
+    text: '42/ Sixteen Ways to Defend a Walled City by K.J. Parker. Not quite as good
+      as the title, but decent. Roman military engineering fanfiction, in a good-ish
+      way.
+
+      https://books.rixx.de/k-j-parker/sixteen-ways-to-defend-a-walled-city/ #rixxReads'
+  number: 42
+  twitter:
+    datetime: 2021-06-07 09:50:39.515520
+    id: '1401808810080190465'
+    in_reply_to: '1401808778278887424'
+    text: '42/ Sixteen Ways to Defend a Walled City by K.J. Parker. Not quite as good
+      as the title, but decent. Roman military engineering fanfiction, in a good-ish
+      way.
+
+      https://books.rixx.de/k-j-parker/sixteen-ways-to-defend-a-walled-city/'
 ---
 
 Badass titles are the clickbait of the literary world, and this one worked very well on me. The book was not quite as
