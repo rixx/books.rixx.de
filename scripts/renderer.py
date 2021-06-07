@@ -155,6 +155,15 @@ def median_year(reviews):
     return int(statistics.median(years))
 
 
+def median_length(reviews):
+    pages = [
+        int(review.metadata["book"].get("pages"))
+        for review in reviews
+        if review.metadata["book"].get("pages")
+    ]
+    return int(statistics.median(pages))
+
+
 def xml_element(name, content, **kwargs):
     attribs = " ".join(
         f'{key.strip("_").replace("_", "-")}="{value}"' for key, value in kwargs.items()
@@ -580,12 +589,16 @@ def build_site(**kwargs):
     print("📊 Rendering stats")
     stats = get_stats(reviews=all_reviews, years=all_years)
     stats["table"] = [
-        ("Total books read", len(all_reviews)),
-        ("Reading pile", len(all_plans)),
-        ("Books without review", len([b for b in all_reviews if not b.text.strip()])),
+        ("Total books", len(all_reviews), len(all_plans)),
+        (
+            "Books without review",
+            len([b for b in all_reviews if not b.text.strip()]),
+            None,
+        ),
         (
             "Books without related books",
             len([b for b in all_reviews if not b.metadata.get("related_books")]),
+            None,
         ),
         (
             "Books per week",
@@ -594,9 +607,14 @@ def build_site(**kwargs):
                 / ((dt.datetime.now().date() - dt.date(1998, 1, 1)).days / 7),
                 2,
             ),
+            round(
+                len(all_plans)
+                / ((dt.datetime.now().date() - all_plans[-1].relevant_date).days / 7),
+                2,
+            ),
         ),
-        ("Median publication year (reviews)", median_year(all_reviews)),
-        ("Median publication year (reading pile)", median_year(all_plans)),
+        ("Median publication year", median_year(all_reviews), median_year(all_plans)),
+        ("Median length", median_length(all_reviews), median_length(all_plans)),
     ]
     render(
         "stats.html",

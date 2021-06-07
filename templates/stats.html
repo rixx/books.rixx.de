@@ -41,10 +41,18 @@ But still, it's nice to look at, and I'm tempted to add more ridiculous charts, 
 </p>
 
 <table>
-  {% for heading, value in stats.table %}
+  <thead>
+    <tr>
+      <th></th>
+      <th>Read books</th>
+      <th>Reading pile</th>
+    </tr>
+  </thead>
+  {% for heading, value1, value2 in stats.table %}
   <tr>
     <td>{{ heading }}</td>
-    <th>{{ value }}</th>
+    <th>{{ value1|default('-', true) }}</th>
+    <th>{{ value2|default('-', true) }}</th>
   </tr>
   {% endfor %}
 </table>
