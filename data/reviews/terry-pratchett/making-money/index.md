@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: charles-stross/the-family-trade
   text: If econ fiction is your thing …
+- book: j-zachary-pike/orconomics
+  text: Different take on Fantasy economy.
 - book: terry-pratchett/raising-steam
   text: The next Industrial Discworld book.
 - book: terry-pratchett/going-postal

@@ -23,6 +23,8 @@ related_books:
 - book: terry-pratchett/guards-guards
   text: Pratchett's Watch is probably the closest I've gotten to a similar sense of
     humour and fighting at the same time.
+- book: j-zachary-pike/orconomics
+  text: Another dig at adventurer guilds.
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Similarly fast-paced humour, but darker.
 - book: josiah-bancroft/arm-of-the-sphinx

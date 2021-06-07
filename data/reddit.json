@@ -12,7 +12,9 @@
             "naomi-kritzer/catfishing-on-catnet",
             "madeline-miller/the-song-of-achilles"
         ],
-        "normal": []
+        "normal": [
+            "j-zachary-pike/orconomics"
+        ]
     },
     "A5": {
         "hard": [],
@@ -38,7 +40,8 @@
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "r-j-barker/the-bone-ships",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "j-zachary-pike/orconomics"
         ],
         "normal": []
     },
@@ -91,7 +94,8 @@
         "hard": [],
         "normal": [
             "ilona-andrews/sweep-in-peace",
-            "ilona-andrews/one-fell-sweep"
+            "ilona-andrews/one-fell-sweep",
+            "j-zachary-pike/orconomics"
         ]
     },
     "D4": {
@@ -102,7 +106,8 @@
             "diane-duane/the-door-into-sunset",
             "lois-mcmaster-bujold/the-curse-of-chalion",
             "ilona-andrews/sweep-in-peace",
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "j-zachary-pike/orconomics"
         ]
     },
     "D5": {
@@ -141,7 +146,8 @@
     "E4": {
         "hard": [],
         "normal": [
-            "madeline-miller/the-song-of-achilles"
+            "madeline-miller/the-song-of-achilles",
+            "j-zachary-pike/orconomics"
         ]
     },
     "E5": {
@@ -164,7 +170,8 @@
             "r-j-barker/the-bone-ships",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
             "naomi-kritzer/catfishing-on-catnet",
-            "madeline-miller/the-song-of-achilles"
+            "madeline-miller/the-song-of-achilles",
+            "j-zachary-pike/orconomics"
         ]
     }
 }
