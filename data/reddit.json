@@ -23,7 +23,8 @@
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
-            "madeline-miller/the-song-of-achilles"
+            "madeline-miller/the-song-of-achilles",
+            "graydon-saunders/the-march-north"
         ]
     },
     "B1": {
@@ -95,7 +96,8 @@
         "normal": [
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "graydon-saunders/the-march-north"
         ]
     },
     "D4": {
@@ -147,7 +149,8 @@
         "hard": [],
         "normal": [
             "madeline-miller/the-song-of-achilles",
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "graydon-saunders/the-march-north"
         ]
     },
     "E5": {
@@ -155,7 +158,9 @@
             "diane-duane/the-door-into-sunset",
             "patricia-a-mckillip/heir-of-sea-and-fire"
         ],
-        "normal": []
+        "normal": [
+            "graydon-saunders/the-march-north"
+        ]
     },
     "hacky": {
         "hack": [
@@ -171,7 +176,8 @@
             "alix-e-harrow/the-ten-thousand-doors-of-january",
             "naomi-kritzer/catfishing-on-catnet",
             "madeline-miller/the-song-of-achilles",
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "graydon-saunders/the-march-north"
         ]
     }
 }
