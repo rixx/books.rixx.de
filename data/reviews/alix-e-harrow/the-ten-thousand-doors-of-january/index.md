@@ -29,6 +29,24 @@ review:
   - 2021-05-13
   rating: 2
   tldr: Coming-of-age portal fantasy. Nice, but not my cup of tea.
+social:
+  mastodon:
+    datetime: 2021-06-09 00:47:11.192523
+    id: '106377539161959713'
+    in_reply_to: '106377538609560126'
+    text: '46/ The Ten Thousand Doors of January by Alix E. Harrow. Coming-of-age
+      portal fantasy. Nice, but not my cup of tea.
+
+      https://books.rixx.de/alix-e-harrow/the-ten-thousand-doors-of-january/ #rixxReads'
+  number: 46
+  twitter:
+    datetime: 2021-06-09 00:47:10.911392
+    id: '1402396815098527751'
+    in_reply_to: '1402396779354656772'
+    text: '46/ The Ten Thousand Doors of January by Alix E. Harrow. Coming-of-age
+      portal fantasy. Nice, but not my cup of tea.
+
+      https://books.rixx.de/alix-e-harrow/the-ten-thousand-doors-of-january/'
 ---
 
 Coming-of-age stories are possibly just not for me anymore. The book-driven portal fantasy is nice enough, and the

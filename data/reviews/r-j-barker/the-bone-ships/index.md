@@ -30,6 +30,26 @@ review:
   tldr: Proof that worldbuilding-focused fiction is not restricted to sci-fi. Enjoyed
     this a lot, though – an extremely well-built naval fantasy world, with ships and
     sea dragons and all kinds of great stuff.
+social:
+  mastodon:
+    datetime: 2021-06-09 00:47:02.750248
+    id: '106377538609560126'
+    in_reply_to: '106370312878449049'
+    text: '45/ The Bone Ships by R. J. Barker. Proof that worldbuilding-focused fiction
+      is not restricted to sci-fi. Enjoyed this a lot, though – an extremely well-built
+      naval fantasy world, with ships and sea dragons and all kinds of great stuff.
+
+      https://books.rixx.de/r-j-barker/the-bone-ships/ #rixxReads'
+  number: 45
+  twitter:
+    datetime: 2021-06-09 00:47:02.434534
+    id: '1402396779354656772'
+    in_reply_to: '1401934333175386113'
+    text: '45/ The Bone Ships by R. J. Barker. Proof that worldbuilding-focused fiction
+      is not restricted to sci-fi. Enjoyed this a lot, though – an extremely well-built
+      naval fantasy world, with ships and sea dragons and all kinds of great stuff.
+
+      https://books.rixx.de/r-j-barker/the-bone-ships/'
 ---
 
 World-building at the detriment of plot and character development is usually a prerogative of sci-fi, but this book
