@@ -32,6 +32,28 @@ review:
   - 2021-05-13
   did_not_finish: false
   rating: 3
+  tldr: Basically Achilles fanfiction. A bit better than I make it sound but not *that*
+    much better. Reading this so soon after War Music was not a good idea.
+social:
+  mastodon:
+    datetime: 2021-06-09 21:07:02.428426
+    id: '106382335824328897'
+    in_reply_to: '106377539161959713'
+    text: '47/ The Song of Achilles by Madeline Miller. Basically Achilles fanfiction.
+      A bit better than I make it sound but not *that* much better. Reading this so
+      soon after War Music was not a good idea.
+
+      https://books.rixx.de/madeline-miller/the-song-of-achilles/ #rixxReads'
+  number: 47
+  twitter:
+    datetime: 2021-06-09 21:07:02.025532
+    id: '1402703800574648328'
+    in_reply_to: '1402396815098527751'
+    text: '47/ The Song of Achilles by Madeline Miller. Basically Achilles fanfiction.
+      A bit better than I make it sound but not *that* much better. Reading this so
+      soon after War Music was not a good idea.
+
+      https://books.rixx.de/madeline-miller/the-song-of-achilles/'
 ---
 
 Circe was okayish, this is the second chance I was giving Miller before deciding that her access to myths doesn't match

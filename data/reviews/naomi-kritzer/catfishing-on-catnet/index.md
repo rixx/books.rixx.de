@@ -29,6 +29,24 @@ review:
   rating: 4
   tldr: Excellent YA about a friendly AI that really only wants to look at cat pictures
     (and help their friends).
+social:
+  mastodon:
+    datetime: 2021-06-09 21:07:07.974140
+    id: '106382336183601899'
+    in_reply_to: '106382335824328897'
+    text: '48/ Catfishing on CatNet by Naomi Kritzer. Excellent YA about a friendly
+      AI that really only wants to look at cat pictures (and help their friends).
+
+      https://books.rixx.de/naomi-kritzer/catfishing-on-catnet/ #rixxReads'
+  number: 48
+  twitter:
+    datetime: 2021-06-09 21:07:07.619036
+    id: '1402703824620507138'
+    in_reply_to: '1402703800574648328'
+    text: '48/ Catfishing on CatNet by Naomi Kritzer. Excellent YA about a friendly
+      AI that really only wants to look at cat pictures (and help their friends).
+
+      https://books.rixx.de/naomi-kritzer/catfishing-on-catnet/'
 ---
 
 Catfishing on CatNet was tons of fun. It's a not-quite-light YA about a helpful AI who kinda just wants to look at cat
