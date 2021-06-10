@@ -23,6 +23,28 @@ review:
   - 2021-05-15
   did_not_finish: false
   rating: 4
+  tldr: Super fun fantasy satire – reminded me a lot of Pratchett, in a D&D-ish world.
+    Managed to be often fun, mostly interesting, and occasionally genuinely hearbreaking.
+social:
+  mastodon:
+    datetime: 2021-06-10 23:30:51.143027
+    id: '106388563618506168'
+    in_reply_to: '106382336183601899'
+    text: '49/ Orconomics by J. Zachary Pike. Super fun fantasy satire – reminded
+      me a lot of Pratchett, in a D&D-ish world. Managed to be often fun, mostly interesting,
+      and occasionally genuinely hearbreaking.
+
+      https://books.rixx.de/j-zachary-pike/orconomics/ #rixxReads'
+  number: 49
+  twitter:
+    datetime: 2021-06-10 23:30:50.488783
+    id: '1403102379336257543'
+    in_reply_to: '1402703824620507138'
+    text: '49/ Orconomics by J. Zachary Pike. Super fun fantasy satire – reminded
+      me a lot of Pratchett, in a D&D-ish world. Managed to be often fun, mostly interesting,
+      and occasionally genuinely hearbreaking.
+
+      https://books.rixx.de/j-zachary-pike/orconomics/'
 ---
 
 Orconomics was *hilarious* and heartbreaking, and that's coming from somebody who usually doesn't like "humerous"
