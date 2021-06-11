@@ -19,4 +19,6 @@ plan:
   date_added: '2018-09-15'
 ---
 
-Allegedly better than The Way of Shadows.
+Apparently good at first, and then some books later devolves into blatant Christian propaganda to the degree that people
+[regret reading the
+series](https://www.reddit.com/r/Fantasy/comments/nrrxua/have_you_ever_fallen_out_of_love_with_a_series/h0je6bs/).
