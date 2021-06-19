@@ -57,4 +57,4 @@ social:
 I hadn't expected a Zen book, but here we are. This book is short and to the point, and presents a couple of very good
 takes on not-just-tennis. It applies at the very least to every physical activity *and* anything that works like a
 competition. The insights on physical activity have been immediately helpful for me in everyday life, and the thoughts
-on competition will do the same once I've had time to think about them for a bit. Highly recommended.
+on competition will do the same once I've had time to think about them. Highly recommended.

@@ -22,8 +22,7 @@ related_books:
   text: Vonnegut's other very famous book. Similar vibe, but that goes for all his
     books.
 - book: joseph-heller/catch-22
-  text: Heller has incredibly Vonnegut-like vibes, and these books match up pretty
-    well.
+  text: Heller has incredibly Vonnegut-like vibes, and these books match up well.
 - book: jo-walton/among-others
   text: Quotes this book heavily.
 review:

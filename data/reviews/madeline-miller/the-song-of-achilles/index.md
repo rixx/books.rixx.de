@@ -59,6 +59,6 @@ social:
 Circe was okayish, this is the second chance I was giving Miller before deciding that her access to myths doesn't match
 mine. I liked Achilles more than Circe, but part of that is that I'm a sucker for the pairing. I didn't like the
 depiction of Patroclus too much, and both felt oddly pale to me. I know it's the current poster child of queer
-readership and TikTok in particular, but … ehh. It's alright, I guess.
+readership and TikTok in particular, but … ehh. It's alright.
 
 Could be I'm just unfairly harsh because Logue's War Music has set unreasonable standards, though.

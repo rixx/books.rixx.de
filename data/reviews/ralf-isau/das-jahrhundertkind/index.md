@@ -41,4 +41,4 @@ Generally, I dislike the way Isau does magic, the way he does characters, the ar
 for lack of a better world, as if he's always trying to do something to the reader, convert us? This is still true for
 this series, but its scale and awesomeness outweigh the drawbacks. The protagonist lives for exactly 100 years and has
 to fight forces of darkness, mysterious ones. His life takes him all over the planet, and he gets to see many historic
-people and situations first-hand while figuring out his life. It's pretty amazing.
+people and situations first-hand while figuring out his life. It's amazing.

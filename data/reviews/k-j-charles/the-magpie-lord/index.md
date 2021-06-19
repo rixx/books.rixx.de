@@ -35,8 +35,6 @@ review:
 Romance, mysterious curse, estate management: A queer/gay romance in a fantasy version of Victorian England.  The
 youngest exiled son of a lord returns to England after his father and brother die, and has to contest with the curse
 that led to their deaths. Luckily, he finds a strange but attractive young wizard blah blah blah, you see where this
-ends.  Very atmospheric, and a bit too well-written to deserve to be labeled as "enjoyable trash".
-
-There's a second part, and I'm pretty sure I'm going to read it.
+ends.  Very atmospheric, and too well-written to deserve to be labeled as "enjoyable trash".
 
 Found [via the Oddly Specific Fantasy Recommendation Requests](https://www.reddit.com/r/Fantasy/comments/hazt57/oddly_specific_fantasy_recommendation_requests/fv6zou9/)

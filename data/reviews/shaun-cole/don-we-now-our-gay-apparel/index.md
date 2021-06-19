@@ -63,7 +63,7 @@ overstate how in-depth and conscientously the information is presented.
 
 While being very descriptive, it's also to the point, and comes with a huge bibliography and lots of footnotes. I'll
 follow up a couple of those, and I like I have a much better understanding of the evolution and context of a lot of gay
-… traditions, I guess?
+… traditions.
 
 My only niggle: I had the impression that the issue of race could've been tackled more: It's a part of the book, and
 occasionally mentioned in terms of how black gay men's dress was different from others, but not very much/often. I can't

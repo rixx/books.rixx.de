@@ -55,7 +55,7 @@ social:
 ---
 
 Fun, well-written Fantasy with very strong characters and great character development. Bit predictable, and a
-fairly large cast, but still a good read – and that's saying something for a novel that may be Fantasy, but has not the
+large cast, but still a good read – and that's saying something for a novel that may be Fantasy, but has not the
 least bit adventure in it, instead going for ALL the politics.
 
 What I liked best about this book is how everybody in there is a *person*. Not necessarily a good person, oh no! But

@@ -26,5 +26,5 @@ review:
 ---
 
 I have a vaguely positive memory of this book, but that's about it. The protagonist was nice, had an annoying older
-sister, and dealt with ghosts with cleverness and hacked up techy devices? It's basically the Cornelia Funke boy series
+sister, and dealt with ghosts with cleverness and hacked up techy devices? It's the Cornelia Funke boy series
 to her more famous [girl series](/cornelia-funke/die-wilden-huhner).

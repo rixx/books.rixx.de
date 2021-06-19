@@ -30,4 +30,4 @@ review:
   rating: 3
 ---
 
-There are always some small hints about Mr Snicket, which is kind of the worst thing about the whole thing.
+There are always some small hints about Mr Snicket, which is the worst thing about the whole thing.

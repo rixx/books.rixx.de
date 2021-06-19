@@ -34,6 +34,6 @@ review:
   rating: 3
 ---
 
-Yet another Rincewind book. The only good part is that it sets up a later book rather nicely. I guess the Four
-Horsemen of the apocalypse are alright. It's not a book that I'd recommend while there are all the other Pratchett books
-available, though.
+Yet another Rincewind book. The only good part is that it sets up a later book rather nicely. The Four Horsemen of the
+apocalypse are alright. It's not a book that I'd recommend while there are all the other Pratchett books available,
+though.

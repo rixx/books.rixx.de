@@ -62,5 +62,4 @@ It's not exactly great art, but it's a great art exercise. And it might be the b
 time – Moers really is a brilliant author. Some of the puns are so deeply embedded that you can't even hope to translate
 them.
 
-It may be the only Moers book without Moers illustrations, which is sad. But I guess if you can't have Moers, Doré will
-do.
+It may be the only Moers book without Moers illustrations, which is sad. But if you can't have Moers, Doré will do.

@@ -30,7 +30,7 @@ review:
   rating: 3
 ---
 
-This collection of short Miss Marple stories was pretty enjoyable. While Agatha Christie mostly follows her pattern of
+This collection of short Miss Marple stories was enjoyable. While Agatha Christie mostly follows her pattern of
 "the most vulnerable-looking person is most suspicious", I don't read mysteries for the plot, so I didn't care all that
 much. But the characterisation of poor old Miss Marple was very entertaining to read! I remember how this narration
 device got boring and even annoying when I read most of the Miss Marple books in one go, but over longer intervals, it

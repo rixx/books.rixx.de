@@ -30,6 +30,6 @@ review:
 
 Without Julie Andrews, who is Mary Poppins? The governess of Disney Musical fame is a bit less charming and much
 stricter in the books. I encountered her first here, and did enjoy the books, a bit. But they are terribly repetetive
-(not object level repetetive, but the story is always the same), so I dropped them pretty soon.
+(not object level repetetive, but the story is always the same), so I dropped them soon.
 
 Funny to think that the Mary Poppins books are technically Urban Fantasy.

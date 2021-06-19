@@ -34,7 +34,7 @@ I like *Iain Banks* and his **Culture** series very much, but **Matter** was a l
 that's really quite disappointing copared to the potential of both the series and its own contents.
 
 **Matter** shows us a *lot* of things I'm really interested in: We get to see somebody who is still in training to be a
-Special Circumstances agent, *and* she comes from a fairly archaic non-Culture world, to boot! This gives us a nice
+Special Circumstances agent, *and* she comes from an archaic non-Culture world, to boot! This gives us a nice
 comment on the Culture from her eyes, and at least a bit of character development. This was definitely the good part.
 
 But we get many more POV characters, and most of them weren't all that interesting. Her two brothers, princes in said

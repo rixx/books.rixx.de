@@ -24,5 +24,5 @@ review:
 
 Theodor Storm: good. Theodor Fontane: ehhhh. This is my qualified German literature opinion.
 
-Aquis submersus is a pretty old-school (but fun) story with a frame story, and then another, and then possibly another.
-It feels relaxed even when it's creepy. I have an unreasonable liking for it.
+Aquis submersus is an old-school (but fun) story with a frame story, and then another, and then possibly another.
+It's relaxed even when it's creepy. I have an unreasonable liking for it.

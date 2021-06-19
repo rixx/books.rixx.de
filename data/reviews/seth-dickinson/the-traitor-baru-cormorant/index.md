@@ -36,7 +36,7 @@ review:
 ---
 
 I loved **The Traitor Baru Cormorant** by *Seth Dickinson*. I don't even know where to start. Our protagonist is a young
-girl in a fairly "primitive" country when the story starts. Her country is annexed by the big empire next door by
+girl in a "primitive" country when the story starts. Her country is annexed by the big empire next door by
 economic and cultural means. The Masquerade promptly sets about destroying local culture (which involves polyamory and
 homosexuality, which doesn't go well with the Masquerade's straight repressive culture and eugenic views). The
 protagonist is educated in the school, recognized as a genius, and on fast track to rise high in the professed

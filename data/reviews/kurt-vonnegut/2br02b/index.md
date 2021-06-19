@@ -22,5 +22,5 @@ review:
 
 2BR02B is a very *Kurt Vonnegut* short story about a future with immortal people and very quid-pro-quo population
 control. Think Futurama's suicide booth. It's gruesome in this Vonnegut style that shows you reality, but in a very
-specific detached angle. I read it when I was feeling pretty down, and it did a good job kicking me back into a more
+specific detached angle. I read it when I was feeling down, and it did a good job kicking me back into a more
 grounded view, as ill-fitting as that sounds.

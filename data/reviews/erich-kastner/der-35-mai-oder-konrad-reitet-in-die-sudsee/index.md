@@ -31,5 +31,5 @@ generals play with tin soldiers. The roller-skating circus horse made redundant 
 parents get educated and punished. A futuristic city where a completely automated slaughterhouse suddenly starts working
 in reverse and begins sucking in finished handbags and spitting out calves.
 
-Interestingly, Kästner's future predictions sound pretty good ninety years later: Moving sidewalks and pocket telephones
+Interestingly, Kästner's future predictions have aged well ninety years later: Moving sidewalks and pocket telephones
 with voice dialling, anybody?

@@ -28,12 +28,12 @@ review:
   rating: 3
 ---
 
-Ninefox Gambit by *Yoon Ha Lee* was a lot of fun, but at the same time frustrating. The writing, pacing, and characters
-are very well done, but the worldbuilding … it's frustrating how much potential it has. With some work, this could have
-been a book opening up a great universe, but it felt like the author cut short all the worldbuilding work they should
-have done on their end, and instead substituted "what I say goes" rules for an inner logic in that world, making
-decisions and outcomes feel kind of random. I like being dropped in a weird and unfamiliar world, having to figure
-things out on my own – but I get grumpy if it turns out that there's nothing to figure out, because the author makes up
-the rules as the action goes along.
+Ninefox Gambit by *Yoon Ha Lee* was a lot of fun, but at the same time frustrating.  It's high fantasy in space, and
+comes with all the usually frustrating parts of high fantasy (minus the racism).
 
-It's basically high fantasy in space.
+The writing, pacing, and characters are very well done, but the worldbuilding … it's frustrating how much potential it
+has. With some work, this could have been a book opening up a great universe, but it felt like the author cut short all
+the worldbuilding work they should have done on their end, and instead substituted "what I say goes" rules for an inner
+logic in that world, making decisions and outcomes feel random. I like being dropped in a weird and unfamiliar world,
+having to figure things out on my own – but I get grumpy if it turns out that there's nothing to figure out, because the
+author makes up the rules as the action goes along.

@@ -37,7 +37,7 @@ A Darker Shade of Magic should be a book I like a whole lot: Decent writing, imp
 particularly parallel Londons – connected by magic, this book has it all.
 
 And yet, it left me strangely cold. All the challenges the characters run into felt just a bit too contrived, as if they
-were the author's whim. The female sassy-thief-finding-her-conscience (sorry, but true) just a bit too clever, the
+were the author's whim. The female sassy-thief-finding-her-conscience just a bit too clever, the
 protagonist just a bit too bumbling, the evil antagonists just a bit too evil … The different worlds just a bit too
 stereotyped into their niches.
 

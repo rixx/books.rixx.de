@@ -25,7 +25,7 @@ review:
 ---
 
 The Mechanical by Ian Tregellis is a case of the scenario being better than the implementation (though not as bad as it
-could've been). The scenario: in the late 1400s, a Dutch alchemist manages to create basically-robots, the titular
+could've been). The scenario: in the late 1400s, a Dutch alchemist manages to create quasi-robots, the titular
 Mechanicals. With this power, the Dutch take over the world in place of the British. In roughly our time, the only
 remainder of non-Dutch Europe is a French resistance in North America. The Dutch are extremely Calvinist and say that
 machines can't feel or think, while the French are naturally Catholic and have decided that the mechanicals do have

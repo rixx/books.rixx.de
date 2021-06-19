@@ -34,5 +34,5 @@ review:
 
 A Lord Peter Wimsey mystery about lesbians, mostly. The mystery itself wasn't very compelling, with a solution so
 obvious I kept expecting a twist. The lesbian couples were a nice touch, though applied with their fair share of
-misogyny. Then there's the racism, which … could've been worse, I guess? Is implicitly criticised, vaguely? There were
-some pretty good characters to this book, but not much else.
+misogyny. Then there's the racism, which … could've been worse, considering the time. Is implicitly criticised, vaguely?
+There were some good characters to this book, but not much else.

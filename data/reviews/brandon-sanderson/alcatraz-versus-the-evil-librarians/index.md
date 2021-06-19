@@ -32,4 +32,4 @@ review:
   rating: 1
 ---
 
-Despite wanting to like the book, it's just not my kind of humour.
+Despite wanting to like the book, the humour wasn't for me.

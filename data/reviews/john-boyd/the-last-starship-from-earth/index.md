@@ -34,7 +34,7 @@ tongue-in-cheek. It takes place in a future where the state is run by Soc(iologi
 (led by a mechanical pope, a huge computer in a monstrous church building). People have their life and careers
 regulated by their family status, with the state assigning partners and keeping tabs. Also, there are starships that are
 only used to bring prisoners to the planet Hell. Apparently their history diverged from ours when Jesus didn't die
-young, but instead marched on Rome, successfully. (The divergance is tiny for that sort of change, but hey.)
+young, but instead marched on Rome, successfully. (The divergance is tiny for a change like that, but hey.)
 
 The protagonist, a somewhat obnoxious brilliant young mathematician, Haldane IV, falls in love with a young woman from
 the artistic class, Helix. But falling in love is super verboten, so while she awakens his mind to poetry and emotions,
@@ -46,11 +46,11 @@ breakneck speed on the last couple of pages, he succeeds, and apparently spirits
 starship, sending him to the colony on Hell, and choosing to stay behind as the itinerant Eternal Jew. Yes.</span>
 
 So here is a thing: For the first quarter of the book, I low-key expected a reveal that everybody was a robot, left
-behind on Earth, because everybody was terribly wooden and formal and unmoved and really very robotic. I guess that's
+behind on Earth, because everybody was terribly wooden and formal and unmoved and really very robotic. That's
 meant to be due to their rigid social order, but I can't suspend my disbelief that much. Just like [Jo Walton can't
 believe Plato's Republic](/jo-walton/among-others/), I can't suspend my disbelief to assume a society where everybody
 behaves like this, where a total reglementation of marriages is accepted as common and good, and people following their,
-ugh, "primal urges" is basically unheard-of.
+ugh, "primal urges" is unheard-of.
 
 In the same way, you could attribute all opinions about Helix to the protagonist being pompous and raised in a terrible
 society, but they come across as too neat, too women-am-I-right-mate. Even with the final reveal <span class="spoilers">

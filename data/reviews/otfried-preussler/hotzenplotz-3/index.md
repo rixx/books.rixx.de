@@ -28,4 +28,4 @@ review:
   rating: 3
 ---
 
-Third part of the series – I remember a pretty good scene and not much else.
+Third part of the series – I remember one good scene and not much else.

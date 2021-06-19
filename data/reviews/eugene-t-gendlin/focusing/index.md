@@ -39,8 +39,7 @@ review:
 Focusing by *Eugene T. Gendlin* was my first book I really wanted to give up on this year. I'm always very hesitant to
 pick up non-fiction books, especially those that touch on self-help or psychology in any way. There's so much
 misinformation and only mildly informed, untested theory out there, and I'm just not qualified to judge what is good and
-what isn't. An unqualified reader such as myself is likely to be taken in by somebody with more writing skill than
-knowledge, and I really can do without that sort of thing.
+what isn't. It's frustrating.
 
 **Focusing** was recommended to me, but it starts out trying to sell me things. It tries to sell its own brilliance
 ("couldn't do without it!"), and innovation ("studying some questions that most psychotherapists don't like to ask out
@@ -50,7 +49,7 @@ to sell me a washing machine that I don't need. The writing is always either sel
 found it very offputting – I don't like the cheap manipulation that comes with this style of writing.
 
 The core idea is listening to your body, and experiencing bodily shifts (positive feelings of a knot opening etc) when
-trying to figure out a problem – basically a meditative practice. This is very plausible to me, but the writing made it
+trying to figure out a problem – a meditative practice. This is very plausible to me, but the writing made it
 hard to get through the material. So, spoilers, here is their methodology:
 
 1. **Calm down**: Sit down, calm down, breathe for a bit. Then list the things that feel like they're currently a

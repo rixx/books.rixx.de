@@ -30,5 +30,5 @@ review:
   rating: 4
 ---
 
-I did enjoy myself. Written fairly well (if a bit heavy on the fancy words in the beginning). Looking forward to
+I did enjoy myself. Well-written (if heavy on the fancy words in the beginning). Looking forward to
 the next books in the series.

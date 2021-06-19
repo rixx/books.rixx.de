@@ -43,5 +43,5 @@ regardless: not only for how it changes my perception of state structures, but a
 interesting angle for all kinds of human communities.
 
 That said: while every single paragraph is insightful and every single chapter has its place, the book *still* manages
-to feel like a giant slog, and at some point just … ends? I would have liked some sort of actual ending and was a bit
+to feel like a giant slog, and at some point just … ends? I would have liked an actual ending and was a bit
 perplexed. I'm now very motivated to read *Seeing Like a State*, Scott's most popular work, … next year, perhaps.

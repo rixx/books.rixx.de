@@ -23,6 +23,6 @@ review:
   rating: 3
 ---
 
-My low rating may just be that I'm sick of generic superhero origin stories.
-How to Move Spheres and Influence People
-by *Marko Kloos* is a superhero origin story, I guess. It's about a teenager who discovers that she can move any spherical object with her mind. Very slice-of-life, not really going anywhere.
+Unfair rating, because: I'm sick of generic superhero origin stories.  How to Move Spheres and Influence People
+by *Marko Kloos* is a superhero origin story. It's about a teenager who discovers that she can move any spherical object
+with her mind. Very slice-of-life, not really going anywhere.

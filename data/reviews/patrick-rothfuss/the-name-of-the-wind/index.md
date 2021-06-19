@@ -36,8 +36,8 @@ review:
   rating: 4
 ---
 
-I really liked this book … at first - it hit all the sweet spots for me. Brilliant language, not-too-overbearing fantasy
-setting, believable characters, good pacing and narration (and a bit of training in the $arts).
+I really liked this book … at first - it hit all the sweet spots for me. Flowery language, not-too-overbearing fantasy
+setting, believable characters, good pacing and narration (and training in the $arts).
 
 Kvothe is a terrible Mary Sue even when he's making mistakes. Though of course that's easy to hit, when you write an
 author stand-in as protagonist.  At the same time, this is very much a male nerd power fantasy. I still enjoyed the book

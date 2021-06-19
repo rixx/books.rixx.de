@@ -30,5 +30,5 @@ review:
   rating: 3
 ---
 
-Pain and emotional turmoil. Conflict and strife and a bit of family warmth – this book is high drama, and is both a bit
-of payoff for reading the first three books, and also sets up the second half of the series extremely well.
+Pain and emotional turmoil. Conflict and strife and family warmth – this book is high drama, and is both
+payoff for reading the first three books, and also sets up the second half of the series extremely well.

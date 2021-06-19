@@ -24,4 +24,4 @@ review:
   rating: 4
 ---
 
-Not as great as the first one, but a bit longer, and fleshes out the concept nicely.
+Not as great as the first one, but longer, and fleshes out the concept nicely.

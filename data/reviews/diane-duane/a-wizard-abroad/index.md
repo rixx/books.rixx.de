@@ -32,4 +32,4 @@ review:
   rating: 3
 ---
 
-Nita goes to Ireland - it felt less important, somehow, and just like following a pattern. But since the pattern is pretty good, I still enjoyed reading it.
+Nita goes to Ireland - it felt less important, somehow, and just like following a pattern. But since the pattern is good, I still enjoyed reading it.

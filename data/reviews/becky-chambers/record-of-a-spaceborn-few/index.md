@@ -28,4 +28,11 @@ review:
   rating: 3
 ---
 
-I'm never really sure what to make of the **Wayfarers** series by *Becky Chambers*. I usually enjoy reading the books, because I only start them when I'm in the right frame of mind, for instance after reading a couple of complicated or dark books. The slice-of-life space fluff is nice. Becky Chambers is pretty good at describing small realistic scenes, be it angry teens, toddler tantrums, stubbornness, or romance. But at the same time, things always seemed so smoothed out and sanded down that I can't help but miss some substance, or plot, or … less obvious moralising, I guess? There's a bunch of poetic passages in there that touched me – but at the same time they felt like a cheap grab for my feelings. Just because the grab is successful, it's not good. I'm going to continue reading for the poetic prose and fluff, but I'm not quite convinced.
+I'm never really sure what to make of the **Wayfarers** series by *Becky Chambers*. I usually enjoy reading the books,
+because I only start them when I'm in the right frame of mind, for instance after reading a couple of complicated or
+dark books. The slice-of-life space fluff is nice. Becky Chambers is good at describing small realistic scenes, be it
+angry teens, toddler tantrums, stubbornness, or romance. But at the same time, things always seemed so smoothed out and
+sanded down that I can't help but miss some substance, or plot, or … less obvious moralising, in the end. There's a
+bunch of poetic passages in there that touched me – but at the same time they felt like a cheap grab for my feelings.
+Just because the grab is successful, it's not good. I'm going to continue reading for the poetic prose and fluff, but
+I'm not quite convinced.

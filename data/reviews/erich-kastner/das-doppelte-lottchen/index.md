@@ -20,9 +20,9 @@ plan:
   date_added: '2015-08-06'
 related_books:
 - book: erich-kastner/das-fliegende-klassenzimmer
-  text: Of Kästner's novels, The Flying Classroom feels very similar to this one.
+  text: Of Kästner's novels, The Flying Classroom is very similar to this one.
 - book: erich-kastner/emil-and-the-detectives
-  text: Emil also feels extremely similar to this book.
+  text: Emil is also extremely similar to this book.
 - book: michael-ende/jim-knopf-und-lukas-der-lokomotivfuhrer
   text: The Jim Button series comes close in the way it shows the world from the perspective
     of children.

@@ -35,5 +35,5 @@ review:
 While **Beneath the Sugar Sky** by *Seanan McGuire* was yet another pleasant entry in the *Wayward Children* series, it
 didn't grab me nearly as much as the previous novellas. I'm not into Candyland in the first place, or that of the troupe
 of children on the rescue mission I only really liked half (and felt for those two or three). The whole story just felt
-a bit flat, and I felt that the main character was more told than shown, and due to this and her tendency to inaction,
+flat, and I felt that the main character was more told than shown, and due to this and her tendency to inaction,
 she felt rather pale.

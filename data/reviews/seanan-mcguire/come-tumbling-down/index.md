@@ -52,8 +52,8 @@ social:
       https://books.rixx.de/reviews/2020/come-tumbling-down/'
 ---
 
-I liked Come Tumbling Down okay, but I feel it repeated previous plots a bit. The worldbuilding and writing was still
-good, but I felt that character growth was taking place mostly between books. Both the boys involved were pretty useless
+I liked Come Tumbling Down okay, but I feel it repeated previous plots. The worldbuilding and writing was still
+good, but I felt that character growth was taking place mostly between books. Both the boys involved were useless
 for most of the time, which is especially unfortunate with the trans guy cast in a (learned?) helplessness and inability
 to be of help.
 

@@ -25,7 +25,7 @@ related_books:
     arc.
 - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
   text: If you liked the lyrical language and the brutal humour, and don't mind reading
-    a bit of sci-fi, this book is the perfect fit.
+    sci-fi, this book is the perfect fit.
 - book: peter-s-beagle/in-calabria
   text: More Peter S. Beagle unicorns.
 - book: peter-s-beagle/the-unicorn-anthology
@@ -37,4 +37,4 @@ review:
 ---
 
 I really enjoyed this one - it's a fairytale, it's very very lyrical, but at the same time it surprises you with bursts
-of dry humour. The length and pacing is perfect, too - it's a fairly short book, but it carries its length well.
+of dry humour. The length and pacing is perfect, too - it's a short book, but it carries its length well.

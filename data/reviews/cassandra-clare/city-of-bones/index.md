@@ -33,5 +33,5 @@ review:
   rating: 2
 ---
 
-Fairly okay YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires,
-werewolves, fay, the works. Short but enjoyable.
+Okay YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires,
+werewolves, fay, the works. Short, and enjoyable just like fast food is occasionally enjoyable.

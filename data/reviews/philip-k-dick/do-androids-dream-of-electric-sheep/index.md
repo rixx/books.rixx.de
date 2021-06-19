@@ -28,4 +28,4 @@ review:
   rating: 3
 ---
 
-Definitely the kind of scifi that I like. Real, easy to read. Also, sheep.
+Sci-fi that I like. Real, easy to read. Also, sheep.

@@ -74,7 +74,7 @@ Some of the original travelers are not amused. Our protagonist is introduced thu
 Mahasamatman and said he was a god. He preferred to drop the Maha- and the -atman, however, and called himself Sam."
 He uses Buddhism (because he knows how to use it with and against Hinduism) to get people to resist their
 technologically advanced gods, and leads a war against heaven. That's it, that's the story. It's well-told, it's fun,
-and it has aged well. The only really sketchy bit is how everybody is still straight and a bit hung up on their birth
+and it has aged well. The only really sketchy bit is how everybody is still straight and hung up on their birth
 gender (if they switched), but that's still way ahead of its time and could also be written today – and at least Zelazny
 considered the question of gender swaps and reasonable reactions at all. Way ahead of his time.
 

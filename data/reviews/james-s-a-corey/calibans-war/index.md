@@ -30,11 +30,11 @@ review:
   rating: 4
 ---
 
-Whee! The good kind of Sci-fi!
+Whee! Good Sci-fi!
 
 This book was set up excellently by Leviathan Wakes. We know enough about humans and politics in this world to see how
-things are going to go wrong, and then the authors tilt things a bit further. The plot feels never quite predictable,
-but stays within your general forecast, so it also feels plausible.
+things are going to go wrong, and then the authors tilt things a bit further. The plot is never quite predictable,
+but stays within your general forecast, so it's also plausible.
 
 Character-wise, this book *also* shines, though I was a bit meh on the botanist. Yes, he felt realistic. No, I didn't
 care about reading more of him when there were other exciting new and old characters to explore. The multiple POV thing

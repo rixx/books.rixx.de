@@ -63,5 +63,5 @@ faux-Japan gets his family murdered, is adopted into a clan and things escalate 
 not only adopted by the rightful leader of the clan, he's also born to a long line of secret assassins and has lots of
 magical gifts. And everybody wants a piece of them.
 
-It's fairly brutal and bloody, and the story is a bit predictable and sometimes makes characters stupid for a minute to
-further its aims. But it's still fun to read.
+It's brutal and bloody, and the story is predictable and sometimes makes characters stupid for a minute to further
+its aims. But it's still fun to read.

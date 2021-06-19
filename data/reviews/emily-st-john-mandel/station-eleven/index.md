@@ -29,7 +29,7 @@ review:
 Sometimes, you find books that are good books, and you notice how they are good books, and you like the parts that make
 them good books, but you don't like them. **Station Eleven** by *Emily St. John Mandel* is such a book for me. It's not
 the characters – they are vivid, and real, and neither horrible nor brilliant people. It's not the plot – the story
-wanders a bit, and is mostly slice-of-apocalyptic-life, but it's a good story. It's not the writing – the language is
+wanders, and is mostly slice-of-apocalyptic-life, but it's a good story. It's not the writing – the language is
 precise and beautiful and conjures up images and feelings in your mind.
 
 Reading this book while depressed is not a good idea. And don't get me wrong, it's not the post-apocalyptic parts that

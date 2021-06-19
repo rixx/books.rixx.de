@@ -25,5 +25,5 @@ review:
 ---
 
 Arctic animal adventures! I loved this book to the point that I can't say if it is any good, or if it was just exactly
-right for me at the time. London's writing feels like there's a trick somewhere that gets me to like it. But it's very
+right for me at the time. London's writing is like there's a trick somewhere that gets me to like it. But it's very
 reliable and enjoyable, so I'm not complaining.

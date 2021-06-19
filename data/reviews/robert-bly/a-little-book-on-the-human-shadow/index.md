@@ -31,7 +31,7 @@ review:
 
 On a whim, I read A Little Book on the Human Shadow. It's very short, and it felt very much worth my time.
 
-It's a pretty even split: I felt indifferent about a third of it (mostly the poetry commentary), I wasn't interested
+It's an even split: I felt indifferent about a third of it (mostly the poetry commentary), I wasn't interested
 in another third (very specific to US American culture, and of a certain time or generation), and the last third was
 extremely useful and interesting. As it's a very short book, I count that as a win.
 

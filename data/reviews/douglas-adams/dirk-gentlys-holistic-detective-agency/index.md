@@ -34,4 +34,4 @@ review:
 
 Inevitably, the Dirk Gently books get compared to the Hitchhiker's Guide books. Lacking originality, I'll do the same.
 Yes, this book is much denser and a bit more absurd despite the fact that the Earth remains standing (er, revolving) and
-there are no aliens. It also feels more geeky, or nerdy, or written to a British academic in-group. Or possibly against it.
+there are no aliens. It's also more geeky, or nerdy, or written to a British academic in-group. Or possibly against it.

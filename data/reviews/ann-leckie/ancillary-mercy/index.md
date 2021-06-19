@@ -31,4 +31,4 @@ review:
   rating: 5
 ---
 
-Wow! A worthy ending to the **Imperial Radch** trilogy ba Ann Leckie. The actions and decisions of the previous volumes find their somewhat logical conclusion in a complicated struggle for independence in an empire that has pretty much forgotten what independence even is. This book was a truly amazing mix of fast-paced action (lots of fun and creativitiy in there, too), and deep, deep character development. This series hit my tastes in pretty much every way, balancing action, character development, humor, serious issues of personal growth, society, and politics. Wow.
+Wow! A worthy ending to the **Imperial Radch** trilogy ba Ann Leckie. The actions and decisions of the previous volumes find their somewhat logical conclusion in a complicated struggle for independence in an empire that has forgotten what independence even is. This book was a truly amazing mix of fast-paced action (lots of fun and creativitiy in there, too), and deep, deep character development. This series hit my tastes in every way, balancing action, character development, humor, serious issues of personal growth, society, and politics. Wow.

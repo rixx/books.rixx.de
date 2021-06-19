@@ -32,4 +32,4 @@ review:
 ---
 
 This may be where I discovered my love of training sequences – at least, the training is all I remember of this book. No
-great loss, I think, it was pretty much the then-hyped generic fantasy book.
+great loss, I think. Was this my first overhyped generic fantasy book?

@@ -32,5 +32,5 @@ review:
 
 This was absolutely lovely scifi that reminded me a lot of Firefly in terms of down-to-earth real ship operations with a lovely, relatable crew and a gritty/real feeling universe. Seeing the crew of the Wayfarer coming together, in all their alien differences, and following them on their way to a difficult job, and seeing their hardship and friendship, was touching and a wonderful help against the autumn gloom.
 
-Slice of life, though, so nothing big happens, and conflict is mostly avoided – if that's not your kind of thing, you
-won't get much out of this book.
+Slice of life, though, so nothing big happens, and conflict is mostly avoided – it's different, compared to most sci-fi,
+but in the right mood, it works.

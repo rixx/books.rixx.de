@@ -24,7 +24,7 @@ review:
   rating: 3
 ---
 
-Feynman's autobiography was a bit too far on the stream-of-consciousness side for my tastes, but at least this way the
+Feynman's autobiography was too far on the stream-of-consciousness side for my tastes, but at least this way the
 reader gets a very direct feeling for what Feynman was like. Not always the best person, and with his share of faults
 and stupid/bad behaviour, but at the same time very engaging and open. Some parts dragged on, but most were interesting
 in at least some respect. An enjoyable read in the end.

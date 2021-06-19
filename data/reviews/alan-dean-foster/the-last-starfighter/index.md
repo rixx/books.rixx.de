@@ -27,4 +27,4 @@ review:
   rating: 2
 ---
 
-I'm sure the movie is much better than this, but the book just feels like a cheap version of Ender's Game.
+I'm sure the movie is much better than this, but the book is just a cheap version of Ender's Game.

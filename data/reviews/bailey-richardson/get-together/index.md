@@ -53,7 +53,7 @@ social:
       https://books.rixx.de/reviews/2020/get-together-how-to-build-a-community-with-your-people/'
 ---
 
-This is an alright book if you want to build a "community" for a corporate entity. It tries to provide more than that, but everything it suggests feels just slightly icky and tainted with this corporate language. But it does provide actionable advice, and a solid focus on engagement and growth.
+This is an alright book if you want to build a "community" for a corporate entity. It tries to provide more than that, but everything it suggests is just slightly icky and tainted with this corporate language. But it does provide actionable advice, and a solid focus on engagement and growth.
 
 It also presents an impressive collection of well-researched current examples for communities like Twitch. Sadly, no failures are examined, so the survivorship bias is strong here.
 

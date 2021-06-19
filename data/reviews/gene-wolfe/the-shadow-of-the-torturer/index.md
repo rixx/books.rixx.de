@@ -30,5 +30,5 @@ review:
 ---
 
 Really not sure what to think. Odd pacing, odd descriptions, odd … everything? I just didn't find my way into this world
-and this rhythm. I guess the storytelling is a stylistic choice that makes sense within that world, but requires a
+and this rhythm. The storytelling is a stylistic choice that makes sense within that world, but requires a
 dedication I don't feel motivated for (think Tolkien).

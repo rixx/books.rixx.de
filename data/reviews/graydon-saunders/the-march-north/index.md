@@ -27,7 +27,7 @@ review:
 ---
 
 Sometimes I read books that make me very happy, so that I have to focus a lot to find reasons why other people would
-not be into them. *The March North* is not that kind of book.
+not be into them. Not so for *The March North*.
 
 Don't get me wrong: I like *The March North* a lot – but it's also immediately clear why people would not agree with me.
 The good part is: If you make it past the first page with a smile, you'll get through the book and possibly even like

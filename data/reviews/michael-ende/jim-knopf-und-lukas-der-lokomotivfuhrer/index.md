@@ -51,7 +51,7 @@ the kids reading the book, because the dragon is cruel and arbitrary and terribl
 is guarded heavily, and at its entry there is a sign, "Attention! Entry by racially impure dragons forbidden on pain of
 death." The city is a smoking collection of volcanoes, a hellish place, and its entrance looks like a smoking oven. The
 pure half-dragon Nepomuk is not allowed inside the city because of his birth. The dragons are so very much the Nazis
-it's kind of stunning to see them in a book for children like this.
+it's stunning to see them in a book for children like this.
 
 All of this, though, I only noticed when I re-read the book in ~2018. Until then, I only remembered the amazing
 adventures, that involved a lot of danger, but also integrity and strength and curiosity and honesty.

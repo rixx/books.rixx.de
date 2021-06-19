@@ -37,5 +37,5 @@ comprehendable scale.
 
 I'm particularly a fan of the non-human, weird, different aliens. Relatable, well-thought-out, and with clever bits of
 history and culture, … wow. Bonus points for having humans, but not-really-Earth humans. Their mythic, Earth-similar
-world of medieval legends was a nice touch. The human protagonists tended to be a bit on the stupid side, particularly
+world of medieval legends was a nice touch. The human protagonists tended to be on the stupid side, particularly
 the kids, but not unreasonably so.

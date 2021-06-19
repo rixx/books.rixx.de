@@ -49,7 +49,7 @@ social:
       https://books.rixx.de/naomi-kritzer/catfishing-on-catnet/'
 ---
 
-Catfishing on CatNet was tons of fun. It's a not-quite-light YA about a helpful AI who kinda just wants to look at cat
+Catfishing on CatNet was tons of fun. It's a not-quite-light YA about a helpful AI who just wants to look at cat
 pictures and also help their friends. In a way it's the YA version of MurderBot. It includes some heavy themes, and they
 are generally handled well. Kritzer has a really good grip on chatroom language and managed to write all those parts
 good without "hello, fellow kids" vibes, which I appreciated a lot.

@@ -33,4 +33,4 @@ review:
 
 Concluding the Inkworld series, and concluding it well. Like all the books, it's a bit too long with characters who are
 just a bit too bland. But this book at least has a good share of action and plotting (possibly too much, looking at its
-length), and a fairly satisfying ending, and that's more than many authors can manage.
+length), and a satisfying ending, and that's more than many authors can manage.

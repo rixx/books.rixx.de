@@ -26,6 +26,6 @@ review:
   rating: 2
 ---
 
-Meh. I kind of expected more (in volume, at least), and the Dumbledore parts reminded me awfully of Kästner in Pünktchen
+Meh. I expected more (in volume, at least), and the Dumbledore parts reminded me awfully of Kästner in Pünktchen
 &amp; Anton, where he felt the need to explain lots of stuff, especially the political implications. I think Rowling
 might have done better to trust her readers to think for themselves.

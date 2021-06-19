@@ -32,7 +32,7 @@ review:
 
 Krabat (English: *The Satanic Mill*. Yes, really) is unique and I'm having a hard time finding anything similar. The
 story of a poor orphan during the 30 years war, who signs up for an apprenticeship in a mill and finds himself learning
-the Dark Arts – it should be cheesy, or cheap, or odd. Instead it feels like a deep old fairy tale, complete with
+the Dark Arts – it should be cheesy, or cheap, or odd. Instead it's like a deep old fairy tale, complete with
 violence, love, friendship, death and magic.
 
 We read the book in school and it's one of the few books that school didn't manage to ruin for me. It's just too good.

@@ -22,10 +22,10 @@ review:
 
 Provenance by *Ann Leckie* is set in the Ancillary universe, but doesn't have much to do with the Radch or any of the
 known characters. Instead, it's a pleasant little space-opera adventure. I enjoyed it a lot, even if it didn't have the
-same quality as the Ancillary trilogy – it clearly doesn't aim to be the same kind of book, and that worked for me. The
+same quality as the Ancillary trilogy – it clearly doesn't aim to be the same book, and that worked for me. The
 protagonist is young, sometimes clever, but noticeably inexperienced and often wrong. There are a couple of
 inconsistencies in her character, I'd say (both painfully insecure, and sufficiently sure of herself to pull off big
-plots of her own?), but having the inner view on a clever, but anxious person was pretty convincing, all things
+plots of her own?), but having the inner view on a clever, but anxious person was convincing, all things
 considered. As usual for Leckie, relationships are not really fleshed out (because, again, the protagonist is somewhat
 clueless, although we do get a very low-key romance), so it falls to the reader to notice interactions and draw
 conclusions. The worldbuilding was very good, as to be expected, and I'd have loved to see more of it, especially of the

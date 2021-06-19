@@ -35,8 +35,8 @@ space! Science! Alternate history!
 
 Spoilers up ahead.
 
-Anti-Ice features a young ~anti-hero~ privileged idiot as protagonist. His character was one-dimensional, and served
-pretty well to tell the story, and also to invite info dumps. While the book wants you to believe that there was
+Anti-Ice features a young ~anti-hero~ privileged idiot as protagonist. His character was one-dimensional, and worked
+well to tell the story, and also to invite info dumps. While the book wants you to believe that there was
 character development, there was none. He also falls in love with an **obvious French saboteur** after talking to her
 twice. Seriously. It's so obvious other characters comment on it. He never gets over it.
 
@@ -44,7 +44,7 @@ We also get the scientist with a conscience, the British patriot, the British bu
 about escaped having a Prussian cardboard cut-out.
 
 Sadly, we don't get a plot. Well, except if you accept "Idiot goes to space by accident, discovers moon monsters,
-returns". Actually, that part of the story was *fun*, in a pulp-y sort of way. Like, there is no plot, but there are
+returns". Actually, that part of the story was *fun*, in a pulp-y way. Like, there is no plot, but there are
 detailed descriptions of Victorians in space, which seems like a Jules Verne thing to do, and a lot of fun. Though Jules
 Verne would've been more realistic about things, seriously. Building a rocket that lives through both liftoff and
 re-entry? And air filtering, food, etc? Just like that, really? My suspension of disbelief took a big hit there, *and I
@@ -56,7 +56,7 @@ to explain how some Mr Dickens or Mr Disraeli are *really* not well-known becaus
 Totally natural.
 
 Anti-Ice itself is such a heavy-handed metaphor for nuclear power that it doesn't really bear mention. Includes all of
-methods of transport, missiles, destroying cities and armies, a cold war, etc. Pretty uninspired, I thought, because
+methods of transport, missiles, destroying cities and armies, a cold war, etc. Uninspired:
 **this has been done**. In real life. Give me at least some "alternate" with my alternate history, please.
 
 So, yeah. If you like steampunk, go ahead! Parts of it are really enjoyable! You won't get character development or a

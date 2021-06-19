@@ -37,7 +37,7 @@ review:
 
 This is the first part of a very German series of books for children. The Sams (from "Samstag", "Saturday") appears the
 the very dull, very anxious office worker Herr Taschenbier after for a full week every day fulfills its literal name,
-making the book basically untranslatable. The Sams has blue dots all over its face, and whenever you make a wish, a dot
+making the book untranslatable. The Sams has blue dots all over its face, and whenever you make a wish, a dot
 disappears and the wish comes true.
 
 It's a hilarious premise for kids, especially since the adult is a scared bullied slip of a man, and the Sams is

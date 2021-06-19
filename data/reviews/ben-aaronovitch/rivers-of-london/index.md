@@ -31,9 +31,9 @@ review:
   rating: 4
 ---
 
-I thought I was kind of done with Urban Fantasy after the slot of Jim Butcher's forced-funny, forced-dark supernatural
-detective, but Ben Aaronovitch won me over. This series is more measured, more funny, and – admittedly – London feels
-more like a city I want to read about compared with Chicago.
+I thought I was done with Urban Fantasy after the slot of Jim Butcher's forced-funny, forced-dark supernatural
+detective, but Ben Aaronovitch won me over. This series is more measured, more funny, and – admittedly – I want to read
+about London much more than about Chicago.
 
 The protagonist/narrator is snarking nearly constantly, but he does so in a relatable way, not trying to be edgy, not
 punching down. The whole book smacked of real life, and was a lot of fun. I appreciated supernatural Newton very much.

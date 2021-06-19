@@ -28,4 +28,8 @@ review:
   rating: 4
 ---
 
-Tremendous amounts of fun! We get all the things I hoped for: More cool grandpa, more cool Rose, more cool girlfriend, (also otherwise cool women, especially the Princess seems to rock), and more cultural juxtaposition. The evil guy within the Commonwealth isn't … openly evil? I'm not even sure which side of their story I beliefe yet. And then we get dropped a huge cliffhanger on us (Princess missing, Kurt about to visit the Commonwealth, Adam The First Man dead) that is straight up illegal in the EU. Good thing the UK is seceding I guess.
+Tremendous amounts of fun! We get all the things I hoped for: More cool grandpa, more cool Rose, more cool girlfriend,
+(also otherwise cool women, especially the Princess seems to rock), and more cultural juxtaposition. The evil guy within
+the Commonwealth isn't … openly evil? I'm not even sure which side of their story I beliefe yet. And then we get dropped
+a huge cliffhanger on us (Princess missing, Kurt about to visit the Commonwealth, Adam The First Man dead) that is
+straight up illegal in the EU. Good thing the UK is seceding, if you look at it that way.

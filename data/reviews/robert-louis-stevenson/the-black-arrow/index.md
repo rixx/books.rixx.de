@@ -15,7 +15,7 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: robert-louis-stevenson/treasure-island
-  text: Treasure Island was much more fun for me at basically the same time.
+  text: Treasure Island was much more fun for me at the same age.
 review:
   date_read:
   - 2003-10-01

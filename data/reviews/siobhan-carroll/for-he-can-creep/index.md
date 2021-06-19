@@ -41,5 +41,5 @@ social:
       https://books.rixx.de/reviews/2020/for-he-can-creep/'
 ---
 
-Cat-lovers, take note: This short story lovingly combines cat stereotypes, and then goes just a bit beyond. Very
+Cat-lovers, take note: This short story lovingly combines cat stereotypes, and then goes two steps further. Very
 enjoyable.

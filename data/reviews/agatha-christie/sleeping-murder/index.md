@@ -28,7 +28,7 @@ review:
   rating: 4
 ---
 
-This was one of the few Miss Marple mysteries that I remembered for years. It didn't vanish into the blur of "eh, I
-guess somebody died and Miss Marple solved it". Partially because I found it genuinely creepy, and partially because
-it's a pretty unusual setup: New homeowners feel creeped out, and particularly Gwenda feels bad vibes, is scared of the
-dark, remembers doors where none are etc. Pretty good setup, and a neat solution!
+This was one of the few Miss Marple mysteries that I remembered for years. It didn't vanish into the blur of "eh,
+somebody died and Miss Marple solved it". Partially because I found it genuinely creepy, and partially because
+it's an unusual setup: New homeowners feel creeped out, and particularly Gwenda feels bad vibes, is scared of the
+dark, remembers doors where none are etc. Good setup, and a neat solution.

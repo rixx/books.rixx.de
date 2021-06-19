@@ -30,4 +30,4 @@ review:
   rating: 3
 ---
 
-As per usual, Cetaganda is a very enjoyable book in the Vorkosigan series. It gripped me a bit less than usual, which still makes it a very good book. We follow Miles as he saves yet another empire. I still enjoy both the dry wit and how you've got to think along to get the most of the subtle fun between the lines. Other than that, it felt a bit like Yet Another Adventure, where usually the Vorkosigan books tend to contain series-changing events. Great scifi in any case, I'm looking forward to the next one.
+As per usual, Cetaganda is a very enjoyable book in the Vorkosigan series. It gripped me less than usual, which still makes it a very good book. We follow Miles as he saves yet another empire. I still enjoy both the dry wit and how you've got to think along to get the most of the subtle fun between the lines. Other than that, it felt like Yet Another Adventure, where usually the Vorkosigan books tend to contain series-changing events. Great scifi in any case, I'm looking forward to the next one.

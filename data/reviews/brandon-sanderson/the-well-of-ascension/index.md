@@ -29,10 +29,10 @@ review:
 ---
 
 I'm pampered by more recent *Brandon Sanderson* novels, and so I thought that the writing in **The Well of Ascension**
-(part two of **Mistborn**) was pretty bad. Both the story arcs and character arcs were decent (and while patterns
+(part two of **Mistborn**) was disappointing. Both the story arcs and character arcs were decent (and while patterns
 Sanderson likes are very noticeable, and he has gotten better at their execution, that wasn't so bad), but the writing
 made clear why people say they read Sanderson "for the plot, not for the writing". Had the plot been less plausible or
 the characters less likeable, I might have just stopped reading this book after the first couple of chapters. But I
-liked how Vin and her friends have agency and a bit of development (even if it would've been great if it hadn't been
+liked how Vin and her friends have agency and some development (even if it would've been great if it hadn't been
 slapped in my face repeatedly). Let's just see this book as a testament of how far Sanderson has come as a writer since
 then.

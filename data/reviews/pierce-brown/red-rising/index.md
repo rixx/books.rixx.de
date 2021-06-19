@@ -32,5 +32,5 @@ review:
   rating: 3
 ---
 
-Wooop! Sci-Fi version of Hunger Games with real characters (a bit Mary Sue-ish, but still fun). Also, touches of Brave
+Wooop! Sci-Fi version of Hunger Games with real characters (Mary Sue-ish, but still fun). Also, touches of Brave
 New World in terms of castes.

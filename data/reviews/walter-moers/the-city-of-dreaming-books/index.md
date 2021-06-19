@@ -39,7 +39,7 @@ review:
 ---
 
 The year I got this book, I must have read it five times in a row. It's one of those books that appeal deliberately to
-any reader's affinity to books – but where stories about magical librarians or book-hopping narrators are a bit cautious
+any reader's affinity to books – but where stories about magical librarians or book-hopping narrators are cautious
 about it, Moers goes all in. This is not an appeal, it's unrepentant, happy, blatant pandering. God, I loved reading
 this book.
 

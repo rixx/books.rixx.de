@@ -28,7 +28,7 @@ review:
 
 Five stars mean a book changed my life. This book changed my life several times, and I'm not sure it's done with me yet.
 It's about language. It's about philosophy. It's about linguistics. It's about playing with language, and it's about
-heritage and tradition, and – look, it's pretty perfect for me.
+heritage and tradition, and – look, it's perfect for me.
 
 The narrative framework is that a group of five children on vacation (GDR, so inland vacation) have to pass the time, so
 they play little language games. Find increasingly longer words with just one vowel, find palindromes, etc. Their games

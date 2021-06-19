@@ -39,7 +39,7 @@ review:
   rating: 5
 ---
 
-Soo, the beginning of my favourite Stross series. You know: magic is advanced maths, kinda powerful geeks and really powerful burocracy.
+Soo, the beginning of my favourite Stross series. You know: magic is advanced maths, powerful geeks and really powerful burocracy.
 
 I think it's noticable that Atrocity Archives is an early Stross book. In the first half, the Shibboleth/Shibboleet dropping is sometimes very obvious and a bit annoying. (Redeeming Stross though, he is actually knowledgable enough to actually use all those jokes, tropes and catchphrases, so it's ok.)
 

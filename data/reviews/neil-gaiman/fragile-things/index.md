@@ -23,7 +23,7 @@ related_books:
 - book: neil-gaiman/american-gods
   text: The background on Shadow.
 - book: franz-kafka/das-urteil-und-andere-erzahlungen
-  text: If the frequent Kafkaesque stories were your kind of thing.
+  text: If the frequent Kafkaesque stories were your thing.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: If you want to meet Susan again.
 - book: neil-gaiman/m-is-for-magic
@@ -42,7 +42,7 @@ amount of stories that didn't do a thing for me, even though I fell for a few of
 
 There was a lot in here that struck me as stereotypically gothic or "just a" story, even though Gaiman always finds
 beautiful words for his stories. But beautiful words don't make a story. That was The Flints of Memory Lane, The Facts
-in the Case of the Departure of Miss Finch (I kind of felt that you had to be Kurt Vonnegut to pull off telling the
+in the Case of the Departure of Miss Finch (I felt that you had to be Kurt Vonnegut to pull off telling the
 ending first), Feeders and Eaters, Pages From a Journal Found in a Shoebox Left in a Greyhound Bus Somewhere Between
 Tulsa, Oklahoma, and Louisville, Kentucky (how Kafka would have written, if he was Neil Gaiman), Keepsakes and
 Treasures, and the Forbidden Brides of the Faceless Slaves …, also nearly all of the Poems.

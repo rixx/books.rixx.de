@@ -42,8 +42,8 @@ review:
 ---
 
 Harry Potter – look, I can't be objective. I grew up on these books. My friends and I could act out entire scenes by
-heart. I went through the cycle a generation experienced: Love, obsession, disappointment (to varying degrees, mine was
-fairly light), detachment (in many cases by growing up, in my case by discovering fanfics).
+heart. I went through the cycle a generation experienced: Love, obsession, disappointment, detachment (in many cases by
+growing up, in my case by discovering fanfics).
 
 I still really like the first book though. It has a strong vibe of a good book for kids, strong worldbuilding, an
 atmosphere you can nearly touch. I don't mind its inconsistencies, the lack of logic in many places. It mirrors how a

@@ -30,4 +30,4 @@ review:
   rating: 3
 ---
 
-Ehh. Hating on trendy people is a bit boring, but it wasn't too bad.
+Ehh. Hating on trendy people is boring, but it wasn't too bad.

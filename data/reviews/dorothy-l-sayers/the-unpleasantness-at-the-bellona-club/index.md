@@ -32,5 +32,5 @@ review:
   rating: 3
 ---
 
-I kinda disliked the last third/final twist of this novel, and found the first half a bit predictable, but I continue to
+I disliked the last third/final twist of this novel, and found the first half a bit predictable, but I continue to
 enjoy the characters and the writing tremendously, so this may just be my general dislike of mysteries.

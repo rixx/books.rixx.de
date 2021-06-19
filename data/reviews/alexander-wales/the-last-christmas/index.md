@@ -26,6 +26,6 @@ tags:
 - christmas
 ---
 
-This story has potential, but rationalists and their aversion to humour kind of ruins it.  The Last Christmas is a fun
-premise, but way too short to build it up properly, and so it ends up all over the place. Still: It's pretty short, and
+This story has potential, but rationalists and their aversion to humour ruins it.  The Last Christmas is a fun
+premise, but way too short to build it up properly, and so it ends up all over the place. Still: It's short, and
 a nice read, so if you want to see how an engineer deals with suddenly being Santa, go check it out.

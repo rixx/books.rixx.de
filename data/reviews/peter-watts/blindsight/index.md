@@ -26,7 +26,7 @@ related_books:
 - book: vernor-vinge/a-fire-upon-the-deep
   text: Excellent scifi with alien aliens.
 - book: peter-watts/starfish
-  text: A different kind of creepy Peter Watts.
+  text: Creepy Peter Watts, but different.
 - book: isabel-fall/i-sexually-identify-as-an-attack-helicopter
   text: Another take on transhumanism.
 review:

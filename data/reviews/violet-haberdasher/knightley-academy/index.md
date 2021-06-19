@@ -51,19 +51,19 @@ whom Henry ~trusted~ because of course.
 </p>
 
 One thing was noticeable to me, though, was how in every place where Harry Potter chose to be progressive/egalitarian,
-Knightly Academy chooses to be conservative. There's a sub-plot about basically-Scotland, which has recently undergone a
+Knightly Academy chooses to be conservative. There's a sub-plot about quasi-Scotland, which has recently undergone a
 change in government. The new state is: communist, racist, oppressive, highly religious, intolerant, evil, warmongering,
 to say the least. Imagine a mix of Russia and China through the eyes of Ayn Rand, and you're not far off. In comparison,
-the class system in basically-England is somewhat praised, with the slow and careful opening to dirty commoners seen as
+the class system in quasi-England is somewhat praised, with the slow and careful opening to dirty commoners seen as
 the height of tolerance. It doesn't really matter in a book for kids, you might say, but I found it a persistent
 wrongness in the head of my mind, that this would be the evil straw man the author would choose to conjure up.
 
 To offset this, Knightley Acadmey is clearly in favour of *gasp* providing an education for women and not being an
 asshole to your servants. To champion diversity, the cast consists of Henry (boring white guy) and his two friends, who
-are of Indian and Jewish descent, respectively. This felt a bit more like a nod than actual engagement, but at the same
+are of Indian and Jewish descent, respectively. This felt more like a nod than actual engagement, but at the same
 time, nods like that are nice to see, too (especially if the author does not have to take to Twitter to retcon them).
 Of course, there are a total of three female characters: the giggling, superstitious servant side character,
-basically-Buffy the vampire slayer sassy badass manic Victorian dream girl, and her terrible and uptight grandmother who
+quasi-Buffy the vampire slayer sassy badass manic Victorian dream girl, and her terrible and uptight grandmother who
 makes her life hell. Yup.
 
 The book definitely carries off decent writing and worldbuilding, and I enjoyed (for the most part) reading it despite

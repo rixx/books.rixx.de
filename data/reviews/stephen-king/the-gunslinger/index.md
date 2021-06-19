@@ -30,4 +30,4 @@ review:
 ---
 
 Wow. I read King's revised version from when he had finished the series, and it's stunning. I need to read the rest.
-It's … kinda what Firefly is to sci-fi: the fantasy edition, and so much fun, and with wonderful characters, and … wow.
+It's what Firefly is to sci-fi: the fantasy edition, and so much fun, and with wonderful characters, and … wow.

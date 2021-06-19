@@ -49,5 +49,5 @@ annoying) voice makes it easy to forget that this is genuine Victorian-era sci-f
 
 This book was possibly my first ever sci-fi book. I remember being faintly bewildered by the attention given to the
 science babble and "proving" that the center of the Earth doesn't have to be hot. It didn't help that the translation
-was old and in places fairly awkward (though I'm told that even in the original, Verne isn't the most poetic of
+was old and in places awkward (though I'm told that even in the original, Verne isn't the most poetic of
 authors). It certainly taught me a lot of words I have rarely had to use since then, and re-reading was a fun throwback.

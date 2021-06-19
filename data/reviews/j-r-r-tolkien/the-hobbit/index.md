@@ -44,6 +44,6 @@ of explanations for small oddities, especially around the behaviour of Bilbo and
 if you're know about the cultural norms being broken, and Bilbo's caricature of a proper English posh guy, and I had to
 pick up a lot of pieces to get there.
 
-I'm pretty sure that unless you're a die-hard fan of old epics, the Hobbit is vastly better than the Lord of the Rings.
+Unless you're a die-hard fan of old epics, the Hobbit is vastly better than the Lord of the Rings.
 It's not as drawn-out, the characters are more than stereotypes, there's actual humour, and it's just super rewarding to
 read.

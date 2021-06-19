@@ -19,7 +19,7 @@ plan:
   date_added: '2016-05-05'
 related_books:
 - book: astrid-lindgren/ronia-the-robbers-daughter
-  text: I think pretty much anything that Astrid Lindgren wrote makes for a better
+  text: Anything else by Astrid Lindgren wrote makes for a better
     read. If you're looking for more stories of strong and wild girls, Ronia the robber's
     daughter would be a good way to get started.
 - book: astrid-lindgren/pippi-langstrumpf

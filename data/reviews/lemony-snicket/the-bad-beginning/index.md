@@ -32,5 +32,5 @@ review:
   rating: 4
 ---
 
-I just, y'know, kind of ate this one up. I don't think there is a thing I dislike about it (and for the record, I think
+I just ate this one up. I don't think there is a thing I dislike about it (and for the record, I think
 the show is just as good!).

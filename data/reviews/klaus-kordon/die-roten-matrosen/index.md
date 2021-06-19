@@ -41,4 +41,4 @@ revolution), so he may be responsible for my early dislike of socialists. Regard
 sure that I could never forget what happened in those days, and who key players like Ebert, Scheidemann and Noske were.
 
 The trilogy follows this family, but has a different point-of-view character for each book, for the years 1918, 1933 and
-1945. It's pretty great.
+1945. It's great.

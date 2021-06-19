@@ -40,11 +40,11 @@ review:
 ---
 
 It's the one German boarding school novel and I loved it to pieces as a kid. As all Kästner books except for
-[Lottchen](/erich-kastner/das-doppelte-lottchen) it features a fairly transparent self-insert, but it's fine, imo. Most
+[Lottchen](/erich-kastner/das-doppelte-lottchen) it features a transparent self-insert, but it's fine, imo. Most
 boarding school novels do this, to be honest.
 
 What I appreciate most, I think, is how real it feels. The kids have worries and problems, and they are vital and real
-and are never minimised. No matter if one of the boys feels scared and neglected or if one has not enough money to go
+and are never minimised. No matter if one of the boys is scared and neglected or if one has not enough money to go
 home for Christmas: they have existential feelings and the book does not shy away from them. There are good teachers and
 stern teachers, older bullies, younger bullies, protectors in unlikely places, artsy students, and above all:
 friendship.

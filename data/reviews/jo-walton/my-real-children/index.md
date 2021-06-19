@@ -27,7 +27,7 @@ review:
   rating: 5
 ---
 
-This review is biased. Of course, all my reviews are biased, what else are they there for? But this one feels more
+This review is biased. Of course, all my reviews are biased, what else are they there for? But this one is more
 biased than most. **My Real Children** by *Jo Walton* came recommended by a friend who said “if you ever feel the need
 to bawl your eyes out”, when I mentioned that I had planned to read something by Jo Walton.
 

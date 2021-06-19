@@ -19,7 +19,7 @@ plan:
   date_added: '2017-06-01'
 related_books:
 - book: richard-p-feynman/surely-youre-joking-mr-feynman
-  text: This feels like something Feynman would come up with as explanation aid.
+  text: This is something Feynman would come up with as explanation aid.
 review:
   date_read:
   - 2017-06-01

@@ -30,12 +30,12 @@ Arthur's Court](/mark-twain/a-connecticut-yankee-in-king-arthurs-court). The las
 was 10, read it in German, and enjoyed it very much. Reading it again did not reduce my enjoyment: Wilde pokes fun at
 both British and American stereotypes with a light recklessness that holds up nearly 150 years later.
 
-It feels a bit like comparing the two books – Yankee and Canterville – is unfair to Mark Twain. But is it? Both are
+It is a bit like comparing the two books – Yankee and Canterville – is unfair to Mark Twain. But is it? Both are
 meant to be fun, both contrast British and American attitudes in not-quite-serious ways. One is a short story and the
 other drags on forever, but that's the author's choice, in the end. Both Wilde and Twain are funny and quotable, but at
 least from these two books, Wilde's wit appears to me both sharper and more forgiving (when he feels like it, at least).
 Twain goes out of his way to make the obvious jokes and then goes further, whereas Wilde goes out
 of his way to skip the obvious jokes.
 
-The last time I read The Canterville Ghost, I tried to follow up with Dorian, and gave up pretty soon. I might want to
-revisit that at some point in the future to see some long-form Wilde.
+The last time I read The Canterville Ghost, I tried to follow up with Dorian, and gave up soon.
+We'll see if I'll revisit that at some point in the future to see some long-form Wilde.

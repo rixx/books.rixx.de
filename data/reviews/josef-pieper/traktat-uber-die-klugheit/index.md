@@ -15,7 +15,7 @@ plan:
   date_added: 2020-11-23
 related_books:
 - book: josef-pieper/no-one-could-have-known
-  text: Pieper's autobiography. Makes all of this a bit less shiny.
+  text: Pieper's autobiography. Makes all of this less shiny.
 - book: josef-pieper/uber-das-christliche-menschenbild
   text: More Pieper, more moralising.
 review:

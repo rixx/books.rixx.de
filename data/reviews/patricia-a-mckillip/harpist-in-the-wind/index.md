@@ -50,7 +50,7 @@ social:
 
 Concluding this series, the established power couple tackles the remaining big riddles in the world, and finally figure
 out what's going on. Some parts of it were obvious, at least the direction – but the conclusion surprised me and was
-pretty impressive. I can't say more because it'd be impossible to do without heavy spoilers.
+impressive. I can't say more because it'd be impossible to do without heavy spoilers.
 
 What I will say is that this book, much more so than the two previous ones, rewards careful reading. So much takes place
 in an aside or as a hint that is resolved in an allusion later on, and it's a great experience when you figure things

@@ -53,7 +53,7 @@ don't want Rome to fall. Marcus has to flee and is mildly determined to also abo
 
 Guess who the good guys are.
 
-Sorry. Snarky day. The plot continues as you'd guess: He meets the other POV characters, who are escaped slaves with
+The plot continues as you'd guess: He meets the other POV characters, who are escaped slaves with
 slightly supernatural capabilities – the strong wild girl and the sensitive boy –, token character development happens,
 the protagonist is sent up the tree of compilcations, pelted with the rocks of despair and conveniently set-up family
 intrigue, and finally <span class="spoilers">permitted down in imperial success</span>, with plenty of hints that are

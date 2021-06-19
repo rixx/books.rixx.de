@@ -44,7 +44,7 @@ The only two things Ender has over Bean are a loving family and charisma.
 Parts of the book are blatant retcons. Bean is given a convenient hero-worship of Ender, to make sure their three-or-so
 conversations have a reason to look like Bean is just a smart little kid. Parts of the books go into justifications for
 Bean's intelligence. The rest is just … Bean being smart at people. It's enjoyable in its way, as all power fantasies,
-but it's so over-the-top that my immersion was pretty much ruined. And what's more: Where Ender's Game does the same,
+but it's so over-the-top that my immersion was ruined. And what's more: Where Ender's Game does the same,
 then beautifully subverts it (after giving you ample time to enjoy it, of course), leading up to a series pivot into a
 very different focus, there is no similar pivot here. Bean is smart, continues to be smart, learns that sharing his
 smarts with people can make him even smarter, then he's smart some more, then the book is over.

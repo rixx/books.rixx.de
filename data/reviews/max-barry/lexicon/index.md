@@ -32,7 +32,7 @@ questions you can figure out any person's category (out of <1000), and then appl
 and allow for deep manipulation and commands. These words are taught in a school that is – surprise – not exactly
 lawful-good.
 
-The characters were pretty flat and everything was focused on being very grim (think The Magicians vibes, or maybe Mount
+The characters were flat and everything was focused on being very grim (think The Magicians vibes, or maybe Mount
 Char). Dutifully, it points out how internet surveys and user profiling is already similar to what the in-book magic
 allows people to do, but it doesn't really go anywhere from there. It's not exactly bad, but it's not exactly good
 either. You can do so much with language as virus/command structure, and this book … didn't.

@@ -58,7 +58,7 @@ reluctant to show you more than one dimension at a time.
 Protagonist from modest upbringing on a deliberately peaceful fantasy island sets out to solve riddles that this world
 is structured around.  (The riddles are a very strong choice both for style and for world-building. I enjoyed them
 throughout the trilogy). He finds out that the world is not run the way he thinks it is, and it's all a mix of extremely
-slow and dramatic. Good twist, good drama, but everything is so veiy slow and feels anti-climactic no matter what
+slow and dramatic. Good twist, good drama, but everything is so very slow and anti-climactic no matter what
 happens.
 
 I'm not sure how much of this is the book's age. Or rather, I think the book's age gives way to the oddly distanced slow

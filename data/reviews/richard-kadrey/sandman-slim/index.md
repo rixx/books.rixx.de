@@ -34,5 +34,5 @@ review:
   rating: 4
 ---
 
-Thoroughly enjoyable urban fantasy, Dresden style. Dialogue felt a bit stilted/lacking rhythm at times, but the Hell vs
+Thoroughly enjoyable urban fantasy, Dresden style. Dialogue felt stilted/lacking rhythm at times, but the Hell vs
 Heaven vs third party vs potty-mouthed gunslinger protagonist worked well.

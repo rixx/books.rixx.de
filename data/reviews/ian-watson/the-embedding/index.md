@@ -24,7 +24,7 @@ review:
   rating: 1
 ---
 
-Linguistics sci-fi is my kind of thing, and it was in search of more of it that I read this book. Or, at least, tried to
+I am into linguistics sci-fi, and it was in search of more of it that I read this book. Or, at least, tried to
 read it: I gave up about 60% in, and it didn't work for me at all. First Contact, dodgy language experiments on kids,
 just as dodgy writing, some rainforest activism, plus no women (released in 1973, and I know for a fact that there were
 women on Earth even back then), …  there was nothing to keep me going.

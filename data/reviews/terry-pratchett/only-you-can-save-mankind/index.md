@@ -32,5 +32,5 @@ review:
   rating: 4
 ---
 
-A computer game that turns out to be real – in 1992. Great fun. Has aged a bit, of course, but the important bits still
+A computer game that turns out to be real – in 1992. Great fun. Has aged, of course, but the important bits still
 work.

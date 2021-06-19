@@ -33,8 +33,8 @@ review:
   rating: 5
 ---
 
-Monstrous Regiment is not one of the best Discworld books, I'd argue. It shows Pratchett's personal politics a bit more
-than some, and its final character arc is so cheesy it's downright embarassing.
+Monstrous Regiment is not one of the best Discworld books, I'd argue. It shows Pratchett's personal politics more
+than other books, and its final character arc is so cheesy it's downright embarassing.
 
 That said, it stands among my five-star books because it was (and possibly is) tremendously important to me and I can't
-get it out of my head. Also, props for accurate depiction of what eastern Europe feels like, sometimes.
+get it out of my head. Also, props for accurate depiction of what eastern Europe is like.

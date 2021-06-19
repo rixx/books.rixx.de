@@ -37,7 +37,7 @@ Pratchett, but written by a poet. It's exciting, and I'm happy this series exist
 feel formulaic, "yawn, here we go being dazzled by language again", but it wasn't so overbearing as to be painful.
 
 The story itself – Two Serpents Rising, quite literally, in a wonderful and strange city in a magical-yet-bureaucratical
-world – is a bit heavier on the allegories than the first book. It wants to make sure that you understand that there is
+world – is heavier on the allegories than the first book. It wants to make sure that you understand that there is
 Subtext, and you should Think Through The Message. I don't mind that as much as I do in other books, because it doesn't
 quite do away with all moral ambiguity, but it's skirting the edge of what I think a decent author should do in terms of
 moralising.

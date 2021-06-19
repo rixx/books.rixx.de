@@ -32,4 +32,4 @@ review:
 
 This is the last of the Rincewind books that I've read. There's technically *The Last Hero* and *Unseen Academicals*
 waiting for me but I couldn't be bothered. Though, surprisingly, I found this one more bearable than the others, if only
-by a little. I should talk to an Australian about it, I guess.
+by a little. I should talk to an Australian about it.

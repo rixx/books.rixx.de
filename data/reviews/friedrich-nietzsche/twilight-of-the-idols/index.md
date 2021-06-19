@@ -94,7 +94,7 @@ only use of morality he accepts is as a language to communicate individual and g
 only useful to those who are already part of the in-group.
 
 By extension, he also rails against "free will", which (he says) is only used to declare people responsible for things,
-so that we can judge and punish them. "sin and guilt are fake don't @ me" basically.
+so that we can judge and punish them. "sin and guilt are fake don't @ me".
 
 ### Altruism
 
@@ -159,7 +159,7 @@ experiences his own existence as distressing — morally speaking, as an injusti
 want the means: if one wants slaves, then one is a fool if one educates them to be masters.". And again: spot-on
 analysis, spot-ty judgement.
 
-He also makes a big case for assisted suicide that pretty much follows the arguments still in use today. There's a lot
+He also makes a big case for assisted suicide that follows the arguments still in use today. There's a lot
 of anger at Christianity for attaching morality to suicide, and to fostering a world in which death is late and drawn
 out.
 

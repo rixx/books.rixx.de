@@ -24,7 +24,7 @@ related_books:
   text: Kate Daniels is quite a bit better than Mercy Thompson, while occupying the
     same niche.
 - book: jim-butcher/storm-front
-  text: I guess if you like this, Jim Butcher should work well for you, too.
+  text: If you like this, Jim Butcher should work well for you, too.
 - book: stephenie-meyer/twilight
   text: The YA version.
 - book: patricia-briggs/blood-bound

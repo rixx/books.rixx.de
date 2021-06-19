@@ -33,7 +33,7 @@ review:
   rating: 4
 ---
 
-The Vor Game is another Miles book in the **Vorkosigan Saga**, and as usual, it is a lot of fast-paced fun. I felt a bit
+The Vor Game is another Miles book in the **Vorkosigan Saga**, and as usual, it is a lot of fast-paced fun. I was
 lost over the first third or so, where it wasn't clear where the plot was going, and every time I thought I had it
 figured out, it switched to an entirely new track. I spent a good amount of time wondering how those threads would be
 tied back together, and the story did not disappoint at all – but it does turn out that the first third was a standalone

@@ -32,6 +32,6 @@ The Phoenix Project is a very nice management introduction for IT projects, talk
 about Agile Methods.
 
 It's only very basically made up to seem like a novel instead of a textbook, but if you accept it as such (a very
-entertaining textbook instead of a novel), it works fairly well if you don't mind the incessant preaching. (I do mind)
+entertaining textbook instead of a novel), it works well if you don't mind the incessant preaching. (I do mind.)
 
 Also, the depiction of what can, must and will go wrong in IT Operations is just so spot on it might hurt.

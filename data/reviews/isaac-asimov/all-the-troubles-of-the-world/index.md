@@ -28,4 +28,4 @@ review:
 ---
 
 This short story by *Isaac Asimov*, available online,
-was heart-breaking and well-paced. I was kind of sick of reading of dystopic futures with evil, flawed humans and evil, flawed AI everywhere, and this story is a nice break from all that.
+was heart-breaking and well-paced. I was sick of reading of dystopic futures with evil, flawed humans and evil, flawed AI everywhere, and this story is a nice break from all that.

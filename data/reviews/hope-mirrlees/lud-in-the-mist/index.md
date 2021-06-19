@@ -34,7 +34,7 @@ also subverts all kinds of implicit genre expectations, having been published be
 influence started and defined half a century of a new literary genre. For instance, I found it delightful to see how
 much inspiration of the fantastic comes more from the general voice and pattern of European fairytales compared to the
 general Fantasy tendency to go with myths instead. Her combination of fairytale antics with good, solid, stout (and
-pretty British) real life has a lot of similarities to Tolkien's hobbits, but I liked how the explicit contrast between
+so British) real life has a lot of similarities to Tolkien's hobbits, but I liked how the explicit contrast between
 the fantastic and the Law (and everything related to it) was a focal point in the story. 
 
 While side characters may be a bit flat, and the pacing is noticeably uneven, Mirrlees not only shines a great light on

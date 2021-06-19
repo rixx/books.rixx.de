@@ -84,7 +84,7 @@ the practice in itself sounds intriguing enough that I'm going to try it.
 
 ## Corridor
 
-This is a visualisation exercise: You visualise some sort of corridor / some place with a lot of doors (settings will
+This is a visualisation exercise: You visualise a corridor / place with a lot of doors (settings will
 vary).  Stepping through doors gives you access to a situation in your past, which you can then re-interpret or
 re-shape.  This will in turn change how you experience present and future events, since your perception is rooted in
 your past.  It is not exactly used to create new memories – more to introduce a dissonance in a comfortable story you've
@@ -98,7 +98,7 @@ will be receptive and open, which situation you will visit, and that the whole t
 ## Fever Stone
 
 This is a trauma visualisation exercise, best I can tell, accompanied by some symbolism (he wants you to keep and use a
-stone. I'm ignoring that part). It's not my kinda thing, so this is just the very abridged version:
+stone. I'm ignoring that part). I didn't enjoy reading this chapter, so this is just the very abridged version:
 
 You practice visualising a temple/church, seeing yourself laid out in there (alive, tho). Practice visualising a stone
 in your body (frozen trauma), that you remove and burn up. Also practice visualising feeding warmth/energy to

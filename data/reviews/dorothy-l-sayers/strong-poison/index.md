@@ -52,7 +52,7 @@ social:
 ---
 
 I like Strong Poison a whole lot – Peter meets Harriet for the first time, and behaves like a bit of an idiot, which
-feels realistic and is appreciated. Lots of terrible things about society in those days are displayed ostensibly without
+is both realistic and appreciated. Lots of terrible things about society in those days are displayed ostensibly without
 judgement, but with lots of judgement just by the looks Mrs Sayers throws at said society. It's delightful.
 
 It's also a book that shows very strongly where Lois McMaster Bujold got some of her inspiration for Miles Vorkosigan.

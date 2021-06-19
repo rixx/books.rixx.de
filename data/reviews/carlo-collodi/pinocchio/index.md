@@ -19,7 +19,7 @@ related_books:
     of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio
     more of the casually brutal kind.
 - book: mark-twain/the-adventures-of-tom-sawyer
-  text: Tom Sawyer also feels mischievous and brutal, but makes do with a lot less
+  text: Tom Sawyer is also mischievous and brutal, but makes do with a lot less
     of moralising, thankfully.
 review:
   date_read:

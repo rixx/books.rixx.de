@@ -29,8 +29,8 @@ review:
 ---
 
 Victorian London, just with vampires and werewolves – both of which very proper and integrated – and propriety, corsets,
-hats, gossip, and all other Victorian stereotypes. It's basically Urban Fantasy, complete with the sassy, abrasive,
-clever, female protagonist and a handsome werewolf.
+hats, gossip, and all other Victorian stereotypes. It's Urban Fantasy, complete with the sassy, abrasive, clever, female
+protagonist and a handsome werewolf.
 
 Honestly, this book reminded me of the Kate Daniels books, only a very dainty form of them, with worse writing, and a
 couple of very peculiar choices. For one, barely a chapter passes before the author feels the need to remind you that

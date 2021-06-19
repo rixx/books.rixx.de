@@ -36,5 +36,5 @@ This is the only Terry Pratchett book that I've heard as an audio book (in Germa
 missed half the stuff, all of the jokes and it didn't feel nearly as deep as it turned out to be in the end. An
 interesting experience and one that put me off audio books (I don't do auditory processing well, it turns out).
 
-Wonderful book though. Vimes gets to grapple with his darkness a bit, improvises on the spot with long-lasting
+Wonderful book though. Vimes gets to grapple with his darkness, improvises on the spot with long-lasting
 consequences, and also sets up the best Watch book in the series.

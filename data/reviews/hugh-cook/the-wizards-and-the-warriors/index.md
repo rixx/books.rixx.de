@@ -52,7 +52,7 @@ social:
 
 Some wizards try to re-capture an artifact that could end the world, but get caught up in wars, petty conflicts, their
 own desires, centuries-old curses, the works. This book is *much* less generic than both the title and this summary make
-it sound. A lot about it feels unique – like [A Song of Ice and Fire](/george-r-r-martin/a-game-of-thrones/) crossed
+it sound. A lot about it is unique – like [A Song of Ice and Fire](/george-r-r-martin/a-game-of-thrones/) crossed
 with [Malazan](/steven-erikson/gardens-of-the-moon).
 
 This feeling comes from two things: The characters have unique (or at least unusual) profiles despite their flatness,

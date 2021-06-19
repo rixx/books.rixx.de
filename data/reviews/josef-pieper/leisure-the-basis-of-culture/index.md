@@ -24,15 +24,14 @@ related_books:
 - book: josef-pieper/uber-das-christliche-menschenbild
   text: This book is firmly grounded in Pieper's opinion on what humanity *is*.
 - book: josef-pieper/no-one-could-have-known
-  text: Pieper's autobiography. Makes all of this a bit less shiny.
+  text: Pieper's autobiography. Makes all of this less shiny.
 review:
   date_read:
   - 2020-05-24
   rating: 5
 ---
 
-This book is A Lot. It's basically a Christian philosopher arguing for the value of Tao, that is, work-transcending
-leisure.
+This book is A Lot. It's a Christian philosopher arguing for the value of Tao, that is, work-transcending leisure.
 
 The upshot is that Josef Pieper warns us of turning all our life into work, which would be Bad. Two caveats: The "us" he
 is trying to convice are influential Germans after the war, who are undertaking the rebuilding of society. In the most part
@@ -45,11 +44,11 @@ opens with a wonderful thrashing of Kantian values, especially his tendency to o
 are no fun. Virtue is no fun and philosophy has to be work to ✨count✨. Pieper (who is at least adjacent to
 neo-scholastic tradition) counters with a medieval distinction between *ratio* (abstract, focused, logical) and
 *intellectus* (effortless intellectual intuition). It's the basis of two different perceptions of humans: Kant assumes
-we suck, so we need to work against our nature to become good. Aquin (and with him, Pieper) assumes that we're pretty
+we suck, so we need to work against our nature to become good. Aquin (and with him, Pieper) assumes that we're
 alright, and we just need to work to find the good versions of our impulses.
 
 Then he goes into a disturbing trend: Increasingly, everything including intellectual effort is labeled as "work",
-whereas before the difference between work and not-work followed pretty much the border between the *artes liberales* –
+whereas before the difference between work and not-work followed the border between the *artes liberales* –
 art, culture, music, philosophy etc – and the *artes serviles* - mechanical arts, manual labour, architecture, anything
 tied directly to a purpose. In his opinion, this comes with a cataclysmic cost. If everything turns into work, then
 
@@ -77,7 +76,7 @@ favour of sloth. Acedia is the feeling of numbness and despair, of desparately n
 of touch with who you are and what matters to you, of feeling restless. It's a common feeling in the reals of depression
 and burnout and has been described in detail by early Christians (think desert fathers).
 
-As a solution, he argues that you need true leisure. He basically writes a love song to leisure, similar to 1 Cor 13 in
+As a solution, he argues that you need true leisure. He writes a love song to leisure, similar to 1 Cor 13 in
 style and content. True leisure will serve to truly transcend work, to break away from the concept. True leisure, he
 says, is effortless, an attitude of non-activity, of being calm and letting things happen. Of being receptive and
 contemplative instead of searching things out. Of being cheerful and trusting and open. Of having a light touch, a loose
@@ -87,7 +86,7 @@ productivity so that you can be a better worker, but to allow you to stay human.
 The purest form of this, in his opinion, is not prayer or meditation or something otherworldly like that: It's
 celebrations, feasts, parties. Anything that joins people in a shared positive purpose.
 (Here, the fact that humans need more than just breaks in between work segues into a short "and therefore god
-exists", but if that's not your kind of thing, it's pretty easy to ignore.)
+exists", but if that's easy to ignore.)
 
 All in all: I don't agree with everything it says (actually, I disagree with half of it easily), but I disagree
 in interesting ways that made me think a lot about culture and work and spirituality.

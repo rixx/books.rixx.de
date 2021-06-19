@@ -25,5 +25,5 @@ review:
 
 I can't write a good review for this book, because it was clear that I was in the wrong headspace for it. Banks
 describes a modern-day cult from the inside perspective of the potential next leader, a devoted young woman. She has a
-strong voice, strong opinions, and the narration mirrors her perspective beautifully. I suspect this book can be fairly
+strong voice, strong opinions, and the narration mirrors her perspective beautifully. I suspect this book can be
 enjoyable, but to me it felt only depressing.

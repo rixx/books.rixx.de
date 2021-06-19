@@ -51,6 +51,6 @@ social:
 
 Coming-of-age stories are possibly just not for me anymore. The book-driven portal fantasy is nice enough, and the
 helping of "remember how bad turn-of-the-century racism is" is not bad if a bit forced, but … I just didn't care about
-the fairly predictable story. Maybe if there had been a bigger focus on the portals, or the portal writing, or the
-portal worlds? I don't know. I can appreciate why this book is popular, but it felt more generic than it should have to
+the predictable story. If only there had been a bigger focus on the portals, or the portal writing, or the
+portal worlds …  I can appreciate why this book is popular, but it felt more generic than it should have to
 me.

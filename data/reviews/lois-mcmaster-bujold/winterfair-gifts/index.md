@@ -36,6 +36,6 @@ Milesian in every way. As this a novelly, Bujold mostly uses it to show us all o
 manages to cram new characters in there, plus something resembling a plot.
 
 I was afraid that Bujold would shortchange Roic, which she mostly didn't. I appreciated Taura more than anything (except
-from Aral and Cordelia, duh). I'm not a big Roic fan per se – he *is* a bit boring, you have to admit – but he's a
-utterly consistent, well-written character who sees quite a bit of implicit development over the course of three or four
+from Aral and Cordelia, duh). I'm not a big Roic fan per se – he *is* boring, you have to admit – but he's a
+utterly consistent, well-written character who sees implicit development over the course of three or four
 books.

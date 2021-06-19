@@ -26,5 +26,5 @@ review:
 ---
 
 Dan Brown, kids edition: Children have to solve weird puzzles where the correct solution is far from obvious unless
-you're the author. A bit better than Brown in that there's a better reason for the obscurity and also there are no
+you're the author. Better than Brown in that there's a better reason for the obscurity and also there are no
 illuminati.

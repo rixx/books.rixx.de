@@ -41,7 +41,7 @@ review:
 Even though I love the Zamonien books as much as anybody, this … was not it. This book is an encyclopaedia for the
 fictional continent Zamonien, as a tie-in for all the other books by [Walter
 Moers](https://books.rixx.de/walter-moers/). And I understand everybody who loved it, in a nostalgic way, thinking back
-to when they first read the Zamonion books. But damn, this feels so limited, like a big missed chance.
+to when they first read the Zamonion books. But damn, this is so limited, like a big missed chance.
 
 The book is a mix of small illustrations, book quotes and summaries of book events/people/places. There is very little
 (if any?) new material. It's just a refresher, without substance of its own. Compare it to a very similar book about

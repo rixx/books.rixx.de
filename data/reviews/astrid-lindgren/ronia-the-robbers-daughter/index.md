@@ -35,6 +35,6 @@ her part in carrying me through the less fortunate moments of my childhood. I lo
 about strength and loyalty and self-reliance when I needed them.
 
 It holds up well to a re-read, and the adult point of view is certainly interesting. I didn't catch that Ronja's father
-is an alcoholic, for example, which is pretty clear when looking at the book now. As with all Lindgren books, it feels
+is an alcoholic, for example, which is clear when looking at the book now. As with all Lindgren books, it feels
 incredibly real, as if I could touch everything she's talking about. Everybody sounds like a real person, as if she had
 been there and just written up what she had heard.

@@ -26,10 +26,10 @@ review:
 ---
 
 Berlin's Third Gender (Berlins drittes Geschlecht) by Dr Magnus Hirschfeld is a description of queer lives in Berlin
-around 1900 (published 1905). Even though it's naturally sad in some ways, it's also encouraging: Berlin was pretty
-liberal at the time, and I enjoyed the descriptions of queer groups, events, relationships, and creative side-stepping
-of general conventions. The descriptions are very vivid and obviously well-researched, and contain lots of amusing facts
-about everyday life in different social circles.
+around 1900 (published 1905). Even though it's naturally sad in some ways, it's also encouraging: Berlin was
+comparatively liberal at the time, and I enjoyed the descriptions of queer groups, events, relationships, and creative
+side-stepping of general conventions. The descriptions are very vivid and obviously well-researched, and contain lots of
+amusing facts about everyday life in different social circles.
 
 Hirschfeld is not without his problems (he never really believed that homosexuality was quite as good as
 heterosexuality), but in this book, it barely shows. In reading queer history, you probably won't find less depressing

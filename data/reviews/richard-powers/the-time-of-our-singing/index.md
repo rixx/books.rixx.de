@@ -25,6 +25,6 @@ review:
 ---
 
 This book made me dream, and made me miss singing. I loved it intensely - half of it. The other half was overly
-dramatic, overwrought, and more in love with its own understanding of music than with having any sort of plot or
+dramatic, overwrought, and more in love with its own understanding of music than with having any plot or
 tension. Sadly, the two halves are completely woven together, so you have to take one to get the other. I found the read
 well worth my time, but your mileage will vary.

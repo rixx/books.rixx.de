@@ -26,7 +26,7 @@ review:
   rating: 4
 ---
 
-The Labyrinth Index, the latest entry in *Charlie Stross*' Laundry Files series … escalates. When the last volume of the Laundry Files ended fairly apocalyptic, I was under the impression that Charlie was fed up with reality overtaking his books pre-publication, and escalated to a level reality isn't yet willing to follow.
+The Labyrinth Index, the latest entry in *Charlie Stross*' Laundry Files series … escalates. When the last volume of the Laundry Files featured an apocalyptic ending, I was under the impression that Charlie was fed up with reality overtaking his books pre-publication, and escalated to a level reality isn't yet willing to follow.
 
 The Labyrinth Index introduces Mhari as the protagonist and POV character, which I found refreshing and nice. Laundry protagonists are a bit chancy, for me – Mo was part great, part meh, and Alex was 90% annoying. Mhari is about as good as Mo, for me, and a bit more evenly written (or the transition to yet-another-protagonist is less jarring than to the first non-Bob one). Bob and Mo are not part of this story, btw – we accompany Mhari on a field mission to the US, where the conflicts between the UK's new Lord and the US' new Lord are dunked out.
 

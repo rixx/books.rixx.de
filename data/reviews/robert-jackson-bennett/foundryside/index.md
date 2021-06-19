@@ -24,7 +24,7 @@ review:
   rating: 3
 ---
 
-Foundryside by *Robert Jackson Bennett* is a hard book for me to rate. In the beginning it felt a bit lackluster,
+Foundryside by *Robert Jackson Bennett* is a hard book for me to rate. In the beginning it was lackluster,
 because it felt like very system-heavy Fantasy: Fantasy where the author cares more about the magic *system* than about
 the characters, or the worldbuilding, or anything else. After about a third of the book, it came close to hitting its
 stride, drawing me in and letting me feel with the thief-protagonist and her life and quandries. But then, towards the

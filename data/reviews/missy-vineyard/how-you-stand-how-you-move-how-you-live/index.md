@@ -97,7 +97,7 @@ You just have to stop.
 The second big part of the book is about **spatial awareness**. Vineyard encourages you to perform a mental motion that
 keeps you aware of your surroundings. The shortened formula is "up, forward, wide" (see details in the exercise below),
 or imagining a sheet of paper morphing into a cube. Expanding your active awareness in these directions, and then beyond
-yourself and into your surroundings, feels extremely powerful and good, though I could not say for what.
+yourself and into your surroundings, is extremely powerful and good, though I could not say for what.
 
 One last thought that I picked up from this book, and that has kept me busy for a while: You have and maintain a model
 of your body, and you build this model by way of your bodily sensations. The sensations are true, but your
@@ -127,7 +127,7 @@ not roll your legs in or out. Relax and open your jaw.
 
 A good practice for inhibition is starting small: First, tell yourself you're not lifting your arm and *don't lift your
 arm*. Repeat for a while, no matter how silly. Then, tell yourself you're not lifting your arm and start lifting it. The
-second your attention moves to your arm (probably after a few cm of movement): stop, focus on your thoughts for a bit,
+second your attention moves to your arm (probably after a few cm of movement): stop, focus on your thoughts,
 then start again.
 
 Your end goal is to reach a point where you can consciously form an *intention* to move, but never *decide* to move.

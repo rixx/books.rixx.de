@@ -14,7 +14,7 @@ plan:
   date_added: '2020-02-04'
 related_books:
 - book: linus-torvalds/just-for-fun
-  text: More cultural background, I guess?
+  text: More cultural background.
 - book: daniel-stenberg/http-3-explained
   text: More good technical networking explanations with a cultural component.
 review:

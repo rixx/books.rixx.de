@@ -39,7 +39,7 @@ and debugging cycles include prayers and worship as well as fixing pipes and mon
 phrase "theological engineering" and go read.
 
 This book is really well-written. The pacing is on point, the characters are relatable, the language is carefully chosen
-to not break immersion too much in spite of the somewhat unconventional setup. The resolution is a bit
+to not break immersion too much in spite of the somewhat unconventional setup. The resolution is
 predictable – not going off tropes, but going off the excellent foreshadowing. This is in line with some of the
-worldbuilding being a bit on the nose – but at the same time, it's a good world, a good plot, and good action, so
+worldbuilding being on the nose – but at the same time, it's a good world, a good plot, and good action, so
 there's no real reason to complain. Looking forward to reading the next part of the series.

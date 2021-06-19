@@ -18,7 +18,7 @@ related_books:
 - book: tim-powers/the-drawing-of-the-dark
   text: Well-researched historical fiction.
 - book: klabund-alfred-henschke/borgia
-  text: A bit of background on the ruling Italian families at the time.
+  text: Background on the ruling Italian families at the time.
 - book: sophia-mcdougall/romanitas
   text: Another book where Rome never fell. Not nearly as good, though.
 - book: guy-gavriel-kay/sailing-to-sarantium

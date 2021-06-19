@@ -52,8 +52,8 @@ social:
       https://books.rixx.de/reviews/2020/gideon-the-ninth/'
 ---
 
-Gideon the Ninth was good, but not quite my kind of thing – the first third (or so) felt very muddled and I was
+Gideon the Ninth is popular, but didn't work for me – the first third (or so) felt very muddled and I was
 wondering why everybody seemed to love this book so much. It got better, but the world it played in never felt quite
 solid to me, and I'd have liked it much more with just a bit less flippancy? Grimdark with aggressively flippant
-protagonist feels done to death. Quality of writing and worldbuilding increased throughout the book, apart from the
+protagonist has been done to death. Quality of writing and worldbuilding increased throughout the book, apart from the
 final battle, and I enjoyed how the characters were fleshed out (for most of them, at least).

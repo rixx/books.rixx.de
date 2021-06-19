@@ -30,5 +30,5 @@ review:
   rating: 3
 ---
 
-We get a bit of character development, which may just turn into a thing we get thrown every three books or so, so that
+We get character development, which may just turn into a thing we get thrown every three books or so, so that
 we don't feel like we're reading the book equivalent of Fast & Furious VIII.

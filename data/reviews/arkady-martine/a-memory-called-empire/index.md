@@ -57,11 +57,11 @@ Finding herself scrambling to catch up with her predecessor (rudely murdered, in
 appropriate), trying not to share his fate? Sudden conspiracies, even more complex cultural games, plus an assistent
 she's very much into? Hell yes.
 
-A Memory Called Empire by *Arkady Martine* is exactly the kind of sci-fi that I like reading. All people in this novel
+A Memory Called Empire by *Arkady Martine* is exactly what I like to read in sci-fi. All people in this novel
 are human – but they don't necessarily see each other this way. Our protagonist is the ambassador to a sprawling, huge
 empire that has a terribly lyrical culture, where everything is an allusion or a poem or a reference, and probably all
 of these rolled together. She has to come to grips with her new posting, and find her way in this world, while figuring
-out why her predecessor is dead, and … well, the empire kind of collapses.
+out why her predecessor is dead, and … well, the empire collapses.
 
 This on its own would be
 fascinating, but we don't only get to see the culture clash between our protagonist and her empire assistant, oh no –

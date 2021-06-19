@@ -54,7 +54,7 @@ social:
 ---
 
 DNF: The writing style was grating for me, and the book opened with such strong tech pessimism ("kids these days don't
-know how to talk to each other", phrased a bit more nicely) that I disengaged very soon. Later she goes on to say that
+know how to talk to each other", phrased more nicely) that I disengaged very soon. Later she goes on to say that
 she only objects to *commercial* social networks, and that she's sure that decentralised communal ones are perfectly
 nice, but she had already lost me.
 

@@ -43,6 +43,6 @@ social:
 ---
 
 I first read Bloodchild last year, I think, and re-read it now. It's a very Octavia Butler story – aliens cohabitating
-with humans and making ties that touch on reproductive and life cycles is kinda a thing she does? But she does it well,
+with humans and making ties that touch on reproductive and life cycles is a thing she does. But she does it well,
 and it's not a repeated shtick. I didn't *enjoy* the story as such, but it was expertly written, and viscerally stuck in
 my memory. (Also: ew.)

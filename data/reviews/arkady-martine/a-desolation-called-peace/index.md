@@ -23,7 +23,7 @@ related_books:
   text: The first part of the series.
 - book: orson-scott-card/speaker-for-the-dead
   text: Human civilisations considering the implications of killing an entire hive
-    mind based alien race? My kind of sci-fi.
+    mind based alien race? Now THIS is sci-fi.
 review:
   date_read:
   - 2021-04-11
@@ -57,14 +57,14 @@ Empire](/arkady-martine/a-memory-called-empire). It replaces parts of the intric
 aliens who need to be communicated with, but surprisingly, the aliens are one of the weakest parts of the book. This is
 basially the anti-Tchaikovsky, where humans are inevitably more interesting than even hive mind aliens.
 
-The weak parts of the book echo the first book, really: The story wraps up a bit too neatly, the character development
+The weak parts of the book echo the first book, really: The story wraps up too neatly, the character development
 is put off too much where inconvenient, and the book would like to spend more time on exploring the culture than on the
 plot. Which works for me, so no complaints there.
 
-I wish the aliens had been a bit more intriguing, but I minded less than I expected. The aliens make a distinction
+I wish the aliens had been more intriguing, but I minded less than I expected. The aliens make a distinction
 between being a real person (aka undying hive mind) and the others, who they characterise as "thinking language". As
-somebody with a primarily nonverbal mode of thinking, that was exciting at first with … kind of zero payoff, which feels
-like a wasted opportunity. In exchange, Martine does an *occasionally* very good job of portraying the trouble of
+somebody with a primarily nonverbal mode of thinking, that was exciting at first with … zero payoff, which is
+a wasted opportunity. In exchange, Martine does an *occasionally* very good job of portraying the trouble of
 learning an alien language during first contact – but then goes back to being really more into the culture and politics
 of the empire.
 

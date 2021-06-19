@@ -25,4 +25,4 @@ review:
   rating: 4
 ---
 
-The **Wool Omnibus** is a collection of truly good scifi – the old trope of isolated humans in a post-apocalyptic world, but without a huge predictable arc. You can predict some things some of the time, but not a lot, which I always appreciate. It's kind of depressing, but drew me in by showing realistic worlds and characters, and posing some pretty hard ethics questions.
+The **Wool Omnibus** is a collection of truly good scifi – the old trope of isolated humans in a post-apocalyptic world, but without a huge predictable arc. You can predict some things some of the time, but not a lot, which I always appreciate. It's depressing, but drew me in by showing realistic worlds and characters, and posing some hard ethics questions.

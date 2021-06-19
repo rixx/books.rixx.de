@@ -40,8 +40,8 @@ wholly unprepared to ascend into its steampunk hell.
 
 As you may gather, I disliked this character from the beginning, even though I noticed that this was intended. He was
 just too uptight, too little-minded, too cringe. A disaster waiting to happen. The transformation he undergoes starts
-off slow, but once it starts – oh boy! We get some real character growth, borne out of a lot of suffering, and a bit of
+off slow, but once it starts – oh boy! We get some real character growth, borne out of a lot of suffering, and of
 intellect. I was very impressed how plausible and at the same time absurd the story developed. The kafkaesque depressive
-elements felt a bit much sometimes, but I've always been a bit sensitive with those, so that may be just me. Looking
+elements were much sometimes, but I've always been sensitive with those, so that may be just me. Looking
 forward to further books on this front! Also, one of the best uses of steampunk I've ever seen in a book: just
 over-the-top enough to be fun, but not without inner logic.

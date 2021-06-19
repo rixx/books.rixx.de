@@ -31,7 +31,7 @@ review:
 ---
 
 Yeah, Commander Vimes and little Sammy and *another* book (this one about Poo). Also, the countryside. Also, Goblins
-turn out not to be vermin.  Surprise! It's a bit run of the mill, but with Discworld books, that still means high
+turn out not to be vermin.  Surprise! It's run of the mill, but with Discworld books, that still means high
 quality fun.
 
 This also concludes the Watch series, making me very sad.

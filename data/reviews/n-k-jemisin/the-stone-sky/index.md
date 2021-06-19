@@ -27,4 +27,4 @@ review:
   rating: 4
 ---
 
-The Stone Sky is a great ending to a great trilogy. I kind of dislike books where the ending is clear ahead of time, but the amounts of good storytelling and additional context we got made up for it. Nassun's development felt a bit heavy-handed at times, but she still makes a good character, and contrasts well with her mother Essun. I enjoyed getting the true backstory for the breaking of the earth!
+The Stone Sky is a great ending to a great trilogy. I dislike books where the ending is clear ahead of time, but the amounts of good storytelling and additional context we got made up for it. Nassun's development felt a bit heavy-handed at times, but she still makes a good character, and contrasts well with her mother Essun. I enjoyed getting the true backstory for the breaking of the earth!

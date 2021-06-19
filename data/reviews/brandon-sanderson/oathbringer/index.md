@@ -34,6 +34,6 @@ Oathbringer shows how intensely *Brandon Sanderson* can deliver payoff to &gt;1k
 several moments where I was so invested in both the characters an the story, that the ongoing action made me emotional –
 we get to see our share of drug problems, depression, psychic breakdowns, all from characters that have a lot of history
 and have come a far way. Finally getting all the backstory on Dalinar, and seeing his development, were definitely worth
-the read – but I really wish that this Brandon could make this payoff possible in thinner books. Only a bit, mind, but
-the Stormlight Archives do tend to be … lengthy. And despite the length, somehow we never get to see how the main cast
+the read – but I really wish that this Brandon could make this payoff possible in thinner books.
+The Stormlight Archives do tend to be … lengthy. And despite the length, somehow we never get to see how the main cast
 react to drastic events and revelations. It's weird – but it's still good (sometimes: great) fantasy.

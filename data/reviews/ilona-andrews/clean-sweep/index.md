@@ -21,7 +21,7 @@ related_books:
   text: Her better urban fantasy series.
 - book: diane-duane/high-wizardry
   text: The same feeling of interstellar travel where you have to deal with the peculiarities
-    of other races – but at the same time, everybody is pretty used to it, and there
+    of other races – but at the same time, everybody is used to it, and there
     are practical solutions.
 - book: ilona-andrews/sweep-in-peace
   text: The next book in the series.
@@ -66,4 +66,4 @@ arrogant-but-caring werewolf. (Yes, this trope has also been done better.)
 
 What I really liked, apart from the whole sentient inn thing, is that Andrews took the whole concept in a *scifi*
 direction, which I didn't really expect. There's magical space travel, portals, high tech, other civilisations, and
-travel across the universe. All of that is pretty neat, and I'd love to see more of it.
+travel across the universe. All of that is neat, and I'd love to see more of it.

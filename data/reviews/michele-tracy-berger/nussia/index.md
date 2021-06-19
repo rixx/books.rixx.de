@@ -23,4 +23,4 @@ review:
 
 I'm just not one for exchange student stories.
 Nussia
-is a short story that describes the first alien exchange student, who comes to a black family in the Bronx. The writing felt very uneven, and the plot a bit directionless, so even though the idea is nice, the story didn't capture me at all.
+is a short story that describes the first alien exchange student, who comes to a black family in the Bronx. The writing felt very uneven, and the plot directionless, so even though the idea is nice, the story didn't capture me at all.

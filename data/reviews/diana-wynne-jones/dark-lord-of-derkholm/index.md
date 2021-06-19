@@ -40,13 +40,13 @@ left this book on my reading list as a guaranteed good book, and after being so 
 [Romanitas](/sophia-mcdougall/romanitas/), I needed the palate cleanser badly.
 
 Though that's wrong: This is not a rebound book. It reads as playful fantasy caricature at first, but despite the light
-storytelling it's a fairly dark story. The wizard Derk has to be this year's Dark Lord – and few could be less suited
+storytelling it's a dark story. The wizard Derk has to be this year's Dark Lord – and few could be less suited
 than Derk, who just wants to live in peace with his wife and children, most of whom he made by splicing genes together
 to create new creatures. Like his griffin kids, or the happy cows (so stupid they don't know they will die), the magic
 sarcastic geese, the talking horses, the flying pigs, etc.
 
 But there has to be a Dark Lord, you see, for the tours. Each year during tourist season, dozens of tours are conducted,
-coming from pretty much our world, experiencing a classical fantasy trip complete with defeating a dark lord, and losing
+coming from our world, experiencing a classical fantasy trip complete with defeating a dark lord, and losing
 a couple of people marked as expendable by their (paying) relatives. Lighthearted fun! Mr Chesney has found ways to
 extort even the dragons into his schemes. The world can't take it anymore and conspire to get rid of the near-almighty
 Mr Chesney – and will uncover more secrets and a fair bunch of character growth in the process.

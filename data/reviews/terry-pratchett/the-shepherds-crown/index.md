@@ -28,7 +28,7 @@ review:
   rating: 4
 ---
 
-It's a bit unpolished, and sometimes stumbles or takes some time where other Aching books were quick and smooth, but
+It's unpolished, and sometimes stumbles or takes some time where other Aching books were quick and smooth, but
 still – it's magnificent and we're so lucky to have it.
 
 It's not the same, but it's better than nothing, and I'll honestly take anything to soothe the persistent heartbreak.

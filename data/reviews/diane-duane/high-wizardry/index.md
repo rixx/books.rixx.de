@@ -28,7 +28,7 @@ related_books:
   text: For a similar feeling of interstellar travel by kids who have to deal with
     very real conflicts, Have Space Suit–Will Travel is a good match.
 - book: ilona-andrews/clean-sweep
-  text: The same feeling of interstellar travel where you have to deal with the peculiarities of other races – but at the same time, everybody is pretty used to it, and there are practical solutions.
+  text: The same feeling of interstellar travel where you have to deal with the peculiarities of other races – but at the same time, everybody is used to it, and there are practical solutions.
 - book: douglas-adams/the-hitchhikers-guide-to-the-galaxy
   text: More supercomputers that will answer your questions.
 - book: diane-duane/deep-wizardry

@@ -65,7 +65,7 @@ Pratchett, if you will. But the available hordes shrink, and looting becomes les
 that happens in this book.
 
 The other part are the so-called shadowkin (F.O.E.s, Forces of Evil). Goblins, orcs and the like can be killed by
-basically everybody, and heroes gain in status/points for doing so. They don't enjoy that, naturally, and their way out
+anybody, and heroes gain in status/points for doing so. They don't enjoy that, naturally, and their way out
 is to acquire N.P.C., noncombatant papers. They have to carry them always, and by doing so gain access to the lowest
 tiers of society. It's all dark and amazing and I'm very into it.
 
@@ -77,6 +77,6 @@ neat declaration of love for lock picking that could have come straight from *Ho
 I wish the author had had a bit more confidence in his world and had resorted a bit less to "haha I'm using Tolkien/D&D
 nudge nudge". You can name a halfling Bolbi Baggs and his secretary Lobelia, but do you have to? But really, it got me
 to laugh and it delivered a gut punch, and I can't ask more than that. It's not quite Discworld in a way that I struggle
-to put into words. Pratchett feels more grounded, and when he's serious you know he's making a Point that he'll back up
-well.  Though that's also more true for later Pratchett, and "you're not late Pratchett" is a pretty unfair criticism.
+to put into words. Pratchett is more grounded, and when he's serious you know he's making a Point that he'll back up
+well.  Though that's also more true for later Pratchett, and "you're not late Pratchett" is an unfair criticism.
 Also, apparently, this is self-published, making it even more impressive.

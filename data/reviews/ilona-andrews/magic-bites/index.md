@@ -44,7 +44,7 @@ yeah, I can get behind this.
 I'm especially interested in the magic/technology split in the worldbuilding. Magic is something like the tide, rising
 and ebbing, so people have to have two cars, and have to switch to the non-tech one when magic rises. It's weird, and
 interesting, and I appreciate that it's not explained *at all*. It's implied that magic only really started to be a
-thing fairly recently, so there's not a lot of historical divergance, and I expect the series will slowly explore what
+thing more recently, so there's not a lot of historical divergance, and I expect the series will slowly explore what
 happened to the world, and also go into our heroine's parentage.
 
 As for Kate Daniels, the protagonist: At first I thought she'd be the very generic loudmouth badass Buffy-style fetish

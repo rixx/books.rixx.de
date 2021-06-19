@@ -66,7 +66,7 @@ expect a US submarine captain to know and advocate it. Yet that was the pleasant
 Marquet knowing all this is great to read, him advocating it less so – reading this book is much more fun when you read it
 as a cool guy telling life stories, than when you read it as the management book it's intended to be. That's mostly
 because he has a good grasp on how all of this works, because he's done it for a long time. But he only had to introduce
-it once (at scale, in his own group), so it feels like his success was mostly driven by intuition and courageous poking
+it once (at scale, in his own group), so it's like his success was mostly driven by intuition and courageous poking
 around, and all the lessons he draws from it won't replicate for anybody else.
 
 He emphasises that in leader-leader structures (as opposed to leader-follower), you get much better results because

@@ -45,4 +45,3 @@ and oh boy, was I in for a ride.
 Fitz is likeable without being perfect, and both of his mentors, especially Chade, are wonderful in their
 characterizations. I also liked that the Six Duchies have a well-considered political and geographical structure. Seeing
 FitzChivalry go from stable boy to young assassin without the usual tropes of the assassin fantasy novels was a treat.
-I'm fairly sure I'm going to read the other novels, too.

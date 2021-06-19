@@ -35,7 +35,7 @@ review:
 Blackwing by *Ed McDonald* is classed as grimdark fantasy. I'm usually careful about those – much of the genre strikes
 me as ~edgy~ woe-is-me drivel that just delights in being as cynical as possible. Looking at the facts, Blackwing seems
 similar: middle-aged first-person character with a hard, depressing life, competent but always in difficulties, drinks
-too much, brutality all around, now the world (which is already pretty gruesome) seems to be ending. Add in higher
+too much, brutality all around, now the world (which is already gruesome) seems to be ending. Add in higher
 beings using humans as playthings in their ineffable games, and … yeah.
 
 But Blackwing works against this setting: The protagonist is a cynical hardass, but also unreliable, and still cares

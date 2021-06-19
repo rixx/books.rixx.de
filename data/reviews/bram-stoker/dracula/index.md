@@ -35,6 +35,6 @@ review:
 ---
 
 Dracula is over one hundred years old, by now (the book, not the vampire!). It has aged, but not to the point that it is
-unreadable. It's a bit slow-going and stuffy at times, but I found that much more bearable in an epistolary work than
+unreadable. It's slow-going and stuffy at times, but I found that much more bearable in an epistolary work than
 in regular novels. The plot itself is so well-known that I don't think I can judge it very well. Some parts of it (the
 Texan, oh gods) are hilarious, some parts just annoying (Harker, mostly).

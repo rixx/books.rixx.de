@@ -34,4 +34,4 @@ review:
 ---
 
 Cory is always preaching. I don't like preachy books (look at all my Narnia hate). Even when I like the message, as I do
-here, I'd like to be taken a bit more seriously as a reader.
+here, I'd like to be taken more seriously as a reader.

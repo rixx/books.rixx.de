@@ -39,10 +39,10 @@ review:
 Embassytown by *China Miéville* starts out as okay-if-weird scifi, with decent characters, plausibly weird
 worldbuilding, and appropriately weird aliens, so everything you'd expect from Miéville. It starts by following a good
 if generic feeling story arc, and continues like that for quite a while. Miéville continues to be great at writing about
-cities (Perdido Street Station!), so I felt pretty comfortable, once I had spent the first ~20% of the book figuring out
+cities (Perdido Street Station!), so I felt comfortable, once I had spent the first ~20% of the book figuring out
 how the world worked.
 
 Then, towards the end, both the action and the writing just take off in quality. Man, I wouldn't have thought that an
-author could get me emotional on the question of if and how the use of metaphors constitutes lies (which is kind of the
+author could get me emotional on the question of if and how the use of metaphors constitutes lies (which is the
 focal point of the story, in the end). Brilliant, surprising, weird scifi! I will admit that any language sci-fi will
 have it easy to convince me, though.

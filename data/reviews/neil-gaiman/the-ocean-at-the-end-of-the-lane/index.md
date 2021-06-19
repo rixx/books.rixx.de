@@ -35,7 +35,7 @@ review:
   rating: 5
 ---
 
-The Ocean at the End of the Lane is most definitely a Neil Gaiman book. It also feels like a Pratchett book - a bit less
+The Ocean at the End of the Lane is most definitely a Neil Gaiman book. It's also like a Pratchett book - a bit less
 humor and a bit more beauty in its sentences.
 
 It plays on myths and real life. And on childhood - it's not a coming-of-age story, it's a story about childhood with

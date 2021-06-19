@@ -43,4 +43,4 @@ decision (all the while building on glimpses into the previous/repressed culture
 As always with Ursula K. Le Guin, this book felt very philosophical and deep, while never arrogantly hiding its message
 (as some authors are wont to do – really, we get it, you're being clever), but also never forgetting about practical
 reality. This combination works really well for me: Practicalities without arc or meaning are boring (slice-of-life gets
-old fast, for me), but philosophy without being firmly grounded in life just feels weird (Dune, looking at you!).
+old fast, for me), but philosophy without being firmly grounded in life is just weird (Dune, looking at you!).

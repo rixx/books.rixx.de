@@ -59,6 +59,6 @@ straight up like a Kafka short story that I can point at).
 
 I liked that you are really just given the protagonist's perspective. If you want to know more about this
 strange-but-not-for-him world, read and think and pay a lot of attention, and you may catch glimpses of a war in past
-generations, of intermixing and tensions, of an empire and her employees. But it kind of goes nowhere, and I didn't
+generations, of intermixing and tensions, of an empire and her employees. But it goes nowhere, and I didn't
 enjoy the experience. I know Miéville thinks of this as his best work to date, and I think I'll stick to his Bas-Lag
 era.

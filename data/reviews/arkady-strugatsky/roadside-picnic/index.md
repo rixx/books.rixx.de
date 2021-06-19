@@ -24,7 +24,7 @@ review:
 ---
 
 Roadside picnic was a good book to read, and I was surprised that I didn't find it depressing. It takes place in
-a small town in roughly-Canada, where an alien exclusion zone has spawned that feels very much like a radioactive dump:
+a small town in roughly-Canada, where an alien exclusion zone has spawned that is very much like a radioactive dump:
 People around it experience mutations, people at the site when it spawned lost their lives or were injured in weird
 ways, you should only enter the zone in a special suit, but of course people do enter without one anyways. This was
 published 14 years before Chernobyl, mind.
@@ -35,7 +35,7 @@ Chernobyl feeling</span>. He's extremely irreverent and snarky and his inner mon
 German translation, but I've been told this goes for the English one, too. The German translation is an utter joy to
 read.
 
-I've been trying to put into words why this book feels so very, very Russian. I think it's the interactions between
+I've been trying to put into words why this book is so very, very Russian. I think it's the interactions between
 people. There's a common assumption that everybody is scavenging and finding semi-legal ways of making do, and also that
 everybody could be an informer about to tattle. This common assumption is born with equanimy and alcohol, and a strong
 reliance on community bonds. While the protagonist is in prison, friends check in on his wife and stand up to her

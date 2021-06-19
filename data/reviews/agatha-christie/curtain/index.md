@@ -35,7 +35,7 @@ After reading the [first Poirot](/agatha-christie/the-mysterious-affair-at-style
 thought I'd continue with the last one. Agatha Christie takes Poirot full circle, with the last novel playing in the
 same place as the first one, with plenty of reminiscing going on.
 
-This is a pretty good showcase for the better kind of Christie mystery, I think, where she sets up a regular whodunnit,
+This is a good showcase for the better Christie mystery, I think, where she sets up a regular whodunnit,
 and then presents a solution that is unconventional in at least one way. She does the same in Death on the Nile, and
 Orient Express, and of course in Roger Ackroyd. I found this one a little contrived, but nonetheless a nice read, and it
 was interesting to contrast her later writing with her earlier one.
@@ -43,5 +43,5 @@ was interesting to contrast her later writing with her earlier one.
 Even though I enjoyed it, I can already tell that the gimmick of Hastings as narrator is grating after two books. Apart
 from that, I thought she handled the transition to an aging <span class="spoilers">and ultimately dying</span> Poirot in
 a consistent and even somewhat fun way. As usually, there was a ton of red herrings, but since in this instance they
-were meta-addressed and kind of the point, I was okay with it, and found myself unusually interested in the final
+were both meta-addressed and the point, I was okay with it, and found myself unusually interested in the final
 reveal.

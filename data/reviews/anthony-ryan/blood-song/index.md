@@ -27,11 +27,11 @@ review:
   rating: 3
 ---
 
-Blood Song is the start of the **Raven's Shadow** series by *Anthony Ryan*. It was a bit hard to make up my mind about
+Blood Song is the start of the **Raven's Shadow** series by *Anthony Ryan*. It was hard to make up my mind about
 this book – it changed a lot over the course of the story.
 
 We start off with a young protagonist who is given by his family to an order of warrior monks to be trained. And while
-the worldbuilding (which is only hinted at at this point) is solid, we basically get a third of a book's worth of a mix
+the worldbuilding (which is only hinted at at this point) is solid, we get a third of a book's worth of a mix
 of brutal Hogwarts and training sequences. This isn't bad per se, but I started to see this book as one of those guilty
 pleasure fantasy reads: I'm a sucker for training stories, and I know it, and that's fine.
 

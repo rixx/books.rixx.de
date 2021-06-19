@@ -22,7 +22,7 @@ related_books:
 - book: mary-doria-russell/the-sparrow
   text: Similarly Christian first-contact book. Both better than you'd think.
 - book: arkady-martine/a-desolation-called-peace
-  text: Human civilisations considering the implications of killing an entire hive mind based alien race? My kind of sci-fi.
+  text: Human civilisations considering the implications of killing an entire hive mind based alien race? Now THIS is sci-fi.
 - book: joe-haldeman/the-forever-war
   text: If you enjoyed thinking about FTL travel.
 - book: orson-scott-card/enders-game

@@ -37,5 +37,5 @@ review:
 
 I enjoyed this one, and not just for the digs against Fillory (which is a transparently renamed Narnia). The darkly
 realistic magic school: good. The annoying, whiny, dickish protagonist getting his comeuppance: yeah, dig it. No magic
-reform arc, either. In total it was a bit rough and not particularly fulfilling as a book, but individual parts all
+reform arc, either. In total it was rough and not particularly fulfilling as a book, but individual parts all
 worked really well for me.

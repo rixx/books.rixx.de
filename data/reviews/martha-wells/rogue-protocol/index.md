@@ -32,4 +32,4 @@ review:
   rating: 4
 ---
 
-In **Rogue Protocol**, the Murderbot Diaries by *Martha Wells* continue to be enjoyable – it's a bit lighter on the character building and action than the previous two volumes, and some ticks of our protagonist start to feel a bit worn-out, but I still liked it! I read it when I was feeling tired, and down, and easy and fun (but never too easy, or too fun) books like these are the best thing next to hot chocolate for moods like that.
+In **Rogue Protocol**, the Murderbot Diaries by *Martha Wells* continue to be enjoyable – it's lighter on the character building and action than the previous two volumes, and some ticks of our protagonist start to feel worn-out, but I still liked it! I read it when I was feeling tired, and down, and easy and fun (but never too easy, or too fun) books like these are the best thing next to hot chocolate for moods like that.

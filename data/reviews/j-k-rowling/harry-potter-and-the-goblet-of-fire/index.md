@@ -30,8 +30,8 @@ review:
   rating: 3
 ---
 
-This was the first Harry Potter book that I read while it was still pretty new. That was a novel experience for me:
-Pretty much all of my books up to that point had been old, or at least definitely not new. Reading an ongoing series was
+This was the first Harry Potter book that I read while it was still new. That was a novel experience for me:
+Most of my books up to that point had been old, or at least definitely not new. Reading an ongoing series was
 exciting. I don't remember much speculation about what would happen next, except for some recurring "Is Snape good or
 evil" debate.
 

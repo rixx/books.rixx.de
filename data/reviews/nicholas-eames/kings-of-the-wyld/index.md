@@ -38,8 +38,8 @@ review:
 ---
 
 Ever wanted to read a self-aware Expendables in a Fantasy world? **Kings of the Wyld** by *Nicholas Eames* is for you. I
-wasn't a fan for the first half (it was solid, but kinda annoying, and Getting The Band Back Together isn't my kind of
-story), but it shaped up massively in the second half, and I really enjoyed the ending!  The first half of the book does
+wasn't a fan for the first half (it was solid, but annoying, and Getting The Band Back Together isn't a story I enjoy),
+but it shaped up massively in the second half, and I really enjoyed the ending!  The first half of the book does
 a lot of work to establish the characters and the humor, and took its sweet time about it. It seemed as if the book was
 only ha-ha-funny, but the second half tugged on some serious heartstrings, and found a good compromise between humour
 and serious character building/experiences.

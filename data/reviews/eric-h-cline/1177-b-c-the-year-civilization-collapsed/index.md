@@ -29,7 +29,7 @@ review:
 
 This book was a great overview of the wider mediterranean civilisations during the Bronze Age, with a short discussion
 of the so-called collapse towards the end. I went into it expecting a lot of content about the collapse itself, and the
-book turned out to be 80% stage-setting. I happen to like this sort of thing, so it was a pleasant surprise, but
+book turned out to be 80% stage-setting. I happen to be into this, so it was a pleasant surprise, but
 depending on your tastes, this could also be less fun.
 
 An interesting point is that reading this book in pre-internet times would have been absolute torture for me. In the

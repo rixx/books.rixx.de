@@ -52,4 +52,4 @@ I was cautiously excited by the idea, but very underwhelmed by the execution.
 -----
 
 ¹ I get that sometimes. If an author writes too exactly about their own life story, I feel faintly embarassed,
-especially when it fails to capture me or feels trite and unprocessed.
+especially when it fails to capture me or is trite and unprocessed.

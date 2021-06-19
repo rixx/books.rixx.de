@@ -33,4 +33,4 @@ review:
 HPMOR is both the best and the worst of rationalist fiction. Terrible, terrible writing, in a physically painful stilted
 style, and oh-so-fucking superior. There aren't even characters in this story, only symbols.
 
-At the same time, there's the sequence against death, which I kind of love to pieces, enough to revisit it occasionally.
+At the same time, there's the sequence against death, which I love to pieces, enough to revisit it occasionally.

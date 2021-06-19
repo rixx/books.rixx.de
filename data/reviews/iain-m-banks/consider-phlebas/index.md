@@ -30,5 +30,5 @@ review:
   rating: 3
 ---
 
-I liked the world building (this was my first Culture novel), but the story pacing was way off. It dragged on, and lots
-of personal story elementes were fairly predictable.
+I liked the world building (this was my first Culture novel), but the story pacing was way off. It dragged on, and most
+of the personal story elementes were predictable.

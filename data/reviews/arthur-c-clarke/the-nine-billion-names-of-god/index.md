@@ -30,6 +30,6 @@ review:
   rating: 3
 ---
 
-I appreciated the woo, but. The Nine Billion Names of God is a short story fairly typical of the Arthur C. Clarke times
-of scifi. Doesn't hurt to read, but by now it's fairly predictable, and the premise was new then, but is kind of ehhh
+I appreciated the woo, but. The Nine Billion Names of God is a short story typical of the Arthur C. Clarke times
+of scifi. Doesn't hurt to read, but by now it's predictable, and the premise was new then, but is ehhh
 today.

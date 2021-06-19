@@ -39,16 +39,16 @@ viewpoint (and is he ever), I might as well enjoy myself.
 Though it would have been nice if he hadn't planned his
 chapters to lead from one witticism to the next – it's a bit obvious and tiring in the long run.
 
-With that disclaimer out of the way, what is *Heretics* about? It's basically Chesterton having a go at his
-philosophical opponents, one at a time, summing up their entire world view in just a handful of pages, and then
-explaining how they are brilliant and yet completely wrong by virtue of some place where they differ from Mr Chesterton
-himself, as a pseudo-traditional conservative Catholic populist. A quote late in the books sums him up really well: 
-"No man ought to write at all, or even to speak at all, unless he thinks that he is in truth and the other man in error."
+With that disclaimer out of the way, what is *Heretics* about? It's Chesterton having a go at his philosophical
+opponents, one at a time, summing up their entire world view in just a handful of pages, and then explaining how they
+are brilliant and yet completely wrong by virtue of some place where they differ from Mr Chesterton himself, as a
+pseudo-traditional conservative Catholic populist. A quote late in the books sums him up really well: "No man ought to
+write at all, or even to speak at all, unless he thinks that he is in truth and the other man in error."
 
 Obnoxious? Yeah, for sure. But it was extremely intriguing to see prolific writers condensed to their essence in style
 and world view, and to see a contrasting opinion expressed clearly. I kept wondering who could (and would!) do the same
 today. There are some very occasional blog authors who are similarly good at pointing out the essence of something, but
-they are rare, and not easy to find (they are basically never famous or have big blogs).
+they are rare, and not easy to find (they are never famous or have big blogs).
 
 Below follow some notes regarding the actual content, because I read the stuff and I want to avoid having to read it
 again – feel free to skip if you don't want to know Chesterton's opinion on Bernard Shaw and Rudyard Kipling.
@@ -72,7 +72,7 @@ culture, we can forgive him.)
 
 Chesterton and Shaw were friends who loved to argue, so he's intimately familiar with his world view. He argues that Shaw
 is incredibly principled and never switches positions for shits and giggles and cleverness – but that he's lacking in
-humility as a product of his lack of appreciation for the dark/mystic. Basically a lack of religion and appreciation of
+humility as a product of his lack of appreciation for the dark/mystic: A lack of religion and appreciation of
 humanity.
 
 Interestingly, he makes a rather unusual argument for the Catholic Church here: that it is the best way for anybody to
@@ -86,7 +86,7 @@ travelling to far away places gives in to a fear. Our neighbours are more terrif
 
 Money quote: "I am not concerned with Mr. Bernard Shaw as one of the most brilliant and one of the most honest men
 alive; I am concerned with him as a Heretic—that is to say, a man whose philosophy is quite solid, quite coherent, and
-quite wrong." He does a bit of summing up of other people I care less about. The Kipling chapter was charming and
+quite wrong." He sums up of other people I care less about. The Kipling chapter was charming and
 informative, particularly since I have read very little Kipling.
 
 He really really dislikes Nietzsche, which is hilarious because the two have so much in common – in particular, their

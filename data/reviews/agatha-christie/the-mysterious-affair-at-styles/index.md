@@ -61,4 +61,4 @@ living in the 20s, writing this book, you can see how writing Hastings is an ext
 therapy-cum-punching-bag.
 
 I have read [some Agatha Christie](/agatha-christie/) before, and I'll try to read some more. It's a very nice
-distraction, basically comfort food.
+distraction, no more or less than comfort food.

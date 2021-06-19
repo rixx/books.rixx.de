@@ -54,4 +54,4 @@ social:
 
 This review is for Ursula K. le Guin's rendition of the Tao Te Ching. It's not exactly a translation (she didn't know Chinese) – she compared a bunch of translations and consulted experts, but also wrote poetry and what seemed right to her. A translation with more poetic license than usual. Some chapters have end notes with her interpretation – surprisingly (to me) I did not care for those at all. The book closes with notes on her choices of phrasing and with some specific comments for individual chapters, plus a short commentary on the translations she relied on, which I enjoyed to read.
 
-I liked this book a lot. I have no basis for comparison, it was the first time I read any version of Tao Te Ching. But it was very clear, very poetic, and it reflected what I had gathered from secondary sources. A good read, very calming, and I'm pretty sure I'll return to it in the future.
+I liked this book a lot. I have no basis for comparison, it was the first time I read any version of Tao Te Ching. But it was very clear, very poetic, and it reflected what I had gathered from secondary sources. A good read, and very calming.

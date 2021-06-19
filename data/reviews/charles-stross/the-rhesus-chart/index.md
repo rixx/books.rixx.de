@@ -31,4 +31,4 @@ review:
 
 We meet Mhari again! Bob is amazingly grown-up about it. Everybody realizes they get played early on … and still: people die. A lot of them. Including <span class="spoilers">Angleton</span>. Because their opponent is a century-old PHANG.
 
-Written very smoothly, Stross is really in his element here. Feels effortless, and is easy to read.
+Written very smoothly, Stross is really in his element here. Effortless, and is easy to read.

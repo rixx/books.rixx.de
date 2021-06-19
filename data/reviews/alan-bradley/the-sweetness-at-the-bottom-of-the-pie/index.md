@@ -32,5 +32,5 @@ review:
   rating: 3
 ---
 
-Well, that was fun. I'm not too much of a fan, the rambling style of Flavia's train of thought is a bit annoying, I
+Well, that was fun. I'm not too much of a fan, the rambling style of Flavia's train of thought is annoying, I
 think. But at the same time it's definitely well-written and just fun to read. I'm looking forward to the next parts.

@@ -27,6 +27,6 @@ review:
 ---
 
 Huckleberry Finn is a less likely protagonist than Tom Sawyer, and I liked the book much less as a consequence. Bleaker,
-more contrived (the plot, at least), and just a bit more depressing. It's probably the better book from a literary
+more contrived (the plot, at least), and just more depressing. It's probably the better book from a literary
 perspective, what with the first person vernacular and all that, but that didn't endear it to me either (which may be a
 translation issue, come to think of it).

@@ -36,7 +36,7 @@ review:
   rating: 4
 ---
 
-Komarr reads so much like [Gaudy Night](https://books.rixx.de/dorothy-l-sayers/gaudy-night/) to me, it's a bit
+Komarr reads so much like [Gaudy Night](https://books.rixx.de/dorothy-l-sayers/gaudy-night/) to me, it's
 ridiculous (although it doesn't go to the same romantic height). That is to say: I liked it very much.
 
 First, the good: The characters. Oh! How Bujold does characters. Seeing Miles from the outside is always a treat, of

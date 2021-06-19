@@ -22,5 +22,5 @@ review:
   rating: 3
 ---
 
-It's rational fiction on Frozen. Fairly good (rrrresist the cool pun, resist!), but characterisations are very much on
+It's rational fiction on Frozen. Cool, but characterisations are very much on
 the nose and progression is weird. Enjoyable short read though.

@@ -25,7 +25,7 @@ review:
   rating: 4
 ---
 
-Gate of Ivrel hit a lot of sweet spots for me. I mean, Fantasy in a scifi/Stargate universe, kind of? Hell yeah. It
+Gate of Ivrel hit a lot of sweet spots for me. I mean, Fantasy in a scifi/Stargate universe? Hell yeah. It
 relies on the reader to think along, and the characters are certainly far from perfect, while also being relatable. I
 went through it in a day or so, because wow.
 
@@ -34,7 +34,7 @@ the gates leads to unmitigated catastrophe sooner rather than later, so missions
 This is, by necessity, a one-way trip: You start by shutting down a connection, and then continue travelling down that
 road, shutting down Gates as you go.
 
-The story takes place on a fairly standard Low Fantasy world, with medieval power structures, clans, "magic", all that
+The story takes place on a standard Low Fantasy world, with medieval power structures, clans, "magic", all that
 jazz. The story is then told from the eyes of an inhabitant of that world, through pride, tradition, fear, and a lot of
 superstition. It's up to the reader to pick out the actual scifi story under the fantasy surface-level story. I enjoyed
 this process tremendously and I hope that the series continues like this.

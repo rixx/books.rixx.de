@@ -29,8 +29,9 @@ review:
   rating: 3
 ---
 
-This is a tricky one: Repent, Harlequin!, Said the Ticktockman
-by *Harlan Ellison* is a metaphor against an over-reglemented world. It's pretty old, and I'm afraid to my eyes it hasn't aged too well. I totally agree with the message, and the scenario isn't bad either, and the language is poetic, but it didn't capture me at all.
+This is a tricky one: Repent, Harlequin!, Said the Ticktockman by *Harlan Ellison* is a metaphor against an
+over-reglemented world. It's old, and I'm afraid to my eyes it hasn't aged too well. It's got an important message, and
+the scenario isn't bad either, and the language is poetic, but it didn't capture me at all.
 
 On the other hand, even months or years later I can remember the feeling, the vibe, the discomfort of the world
-described, so I think my initial review was a bit harsh.
+described, so I think my initial review was too harsh.

@@ -42,6 +42,6 @@ important to the story - this is rarely done well and very refreshing.
 
 The story was a bit boring and dragged on (or didn't catch my interest), but, as always, Fforde compensates with
 excellent, tongue-in-cheek worldbuilding, which I enjoyed a lot. As always, political and corporate structures make an
-awesome weird sort of sense.
+awesome weird sense.
 
 Overall, a nice book, but nothing special. Very optimistic and useful as a palate cleanser.

@@ -42,7 +42,7 @@ rules are sufficiently mysterious to feel consistent, yet not clinical. I'm writ
 reading the book, and the characters are still very vivid in my mind, which is probably the highest praise I can pay the
 book.
 
-Also, because this may impact some of my readers' decision to read the book: This world feels wonderfully archaic in
+Also, because this may impact some of my readers' decision to read the book: This world is wonderfully archaic in
 many ways, but it is also very emancipated and queer. The protagonist is in a same-sex relationship, and there are open
 relationships, discussions of how children are brought up, and all female characters have very much characters,
 opinions, and arcs of their own. The story is not such that I think this needs to be a selling point – it is really

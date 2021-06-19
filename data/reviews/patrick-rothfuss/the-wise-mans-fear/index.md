@@ -34,8 +34,8 @@ We see Kvothe travelling here: he meets the Maer and navigates his court, hunts 
 with Felurian, and finally learns the arts (Ketan) of the Adem before returning to the University. Sadly, while a bunch
 of things happen, few seem to have any consequences.
 
-I liked that Kvothe seems to learn from his story and his mistakes. While some of his capabilities are still a bit
-Mary-Sue-ish for my tastes, he's by no means perfect and both the storytelling and the story itself reflect this. I
+I liked that Kvothe seems to learn from his story and his mistakes. While some of his capabilities are still too
+Mary-Sue-ish, he's not perfect and both the storytelling and the story itself reflect this. I
 liked the different culture of the Adem and its discussion. I'm intrigued by Elodin. I'm also tremendously irritated by
 the writing of the female cast, because it really drives home how much of a male nerd power fantasy this is. I picked up
 on that part during The Wise Man's Fear, but I didn't notice the female characters then.

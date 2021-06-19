@@ -36,7 +36,7 @@ review:
   rating: 5
 ---
 
-Anathem by *Neal Stephenson* kept me pretty busy. Between a bunch of conferences, the sufficient concentration was a bit
+Anathem by *Neal Stephenson* kept me busy. Between a bunch of conferences, the sufficient concentration was a bit
 hard to come by. What's worse: Now that I have read it, I can't tell you if it is a good book or not.
 
 … because I enjoyed it too much. This book hit my sweet nerd spots one after another. Advanced future? Monasteries?

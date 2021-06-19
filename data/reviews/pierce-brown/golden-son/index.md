@@ -28,4 +28,9 @@ review:
   rating: 2
 ---
 
-Golden Son was a worthy successor to **Red Rising**. It, too, had a slow start, only here te start extends to the 50% mark of the book. After that, a fairly slow and generic story picks up speed, originality, and its past characteristics. Even at its best though it still feels forced in a way that's hard to describe: As if everything happened just because the author willed it that way, and may as well have happened completely differently without breaking any internal logic. The wooden language doesn't help either. I felt there was a lot of unfulfilled potential in this book, and I'm not sure if I'm going to continue the series.
+Golden Son was a worthy successor to **Red Rising**. It, too, had a slow start, only here te start extends to the 50%
+mark of the book. After that, a slow and generic story picks up speed, originality, and its past characteristics. Even
+at its best though it's still forced in a way that's hard to describe: As if everything happened just because the author
+willed it that way, and may as well have happened completely differently without breaking any internal logic. The wooden
+language doesn't help either. I felt there was a lot of unfulfilled potential in this book, and I'm not sure if I'm
+going to continue the series.

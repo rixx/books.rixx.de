@@ -57,5 +57,5 @@ good) disdaining help from women, recommends spanking arrogant women, falls in l
 graphic assault/rape/coercion (later justified b/c she was faking him out), … I could go on.
 
 Then there are politics more blatant than in Sword of Truth (literal Marxists itching to shoot the aristocracy) – though
-that part was pretty fun, really. I can get behind "it's so bad it's good", but I can't get behind the sexism and to be
+that part was fun, really. I can get behind "it's so bad it's good", but I can't get behind the sexism and to be
 honest plain middling writing.

@@ -28,7 +28,7 @@ review:
 
 The Core concludes the **Demon Cycle** series by *Peter Brett*, and it was a disappointment to me. While we still get a
 couple of cool side characters, the main cast has grown unrelatable to me. The story often felt like a mix of fanfiction
-and a detailed narration of a video game: hack, slash, get your dreams, feel a bit of mandatory doubt and off you go to
+and a detailed narration of a video game: hack, slash, get your dreams, feel mandatory doubt and off you go to
 your heroic journey, filled with never-too-difficult enemies. The bit of relevant character development itself (Renna,
 mostly) seemed to have taken place between books.
 

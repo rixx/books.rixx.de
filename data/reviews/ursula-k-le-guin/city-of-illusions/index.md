@@ -29,7 +29,7 @@ review:
 ---
 
 City of Illusions is part of the **Heinish Cycle**, and a good one at that! This book starts out slow, and then
-meanders, and then reaches a pretty good ending – that is cut way too short, in my opinion. As is common with Ursula K.
+meanders, and then reaches a good ending – that is cut way too short, in my opinion. As is common with Ursula K.
 le Guin, we see the protagonist on a not-quite-intentional journey. The large time gaps in the beginning helped to keep
 the story moving, and made me feel invested in the protagonist's search for his past, without feeling that I was just
 seeing a common trope. The resolution was typical of le Guin, who rarely shies away from difficult discussions and

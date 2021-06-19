@@ -40,7 +40,7 @@ points of relationships with others, such as starting out, having sex, separatin
 couple of very good practical observations. All chapters discuss cultural rules we may apply without thinking (about
 gender, sex, behaviour in general, partnerships vs friendships, etc), and how they can be harmful and beneficial. This
 discussion is both very practical and very differentiated, which makes for a nice change compared with most other books
-of this type. I'd recommend it without hesitation for people looking to read and think a bit about relationships and
+of this type. I'd recommend it without hesitation for people looking to read and think about relationships and
 friendships.
 
 -----
@@ -55,7 +55,7 @@ Here follows a summary of the chapters according to my spotty notes, mostly mean
    dare shame a friend for their body. Find out what makes your body feel good, and do it once per day. Don't separate
    body and self. When do you feel embodied, when separate?
 3. **Partnership.** We assume our partners will be The One, centre of our life, saviour-like, and that we are not enough
-   on our own. Being single, as a consequence, is presented as a horror. Be a bit more detached. Reduce the focus on
+   on our own. Being single, as a consequence, is presented as a horror. Be more detached. Reduce the focus on
    relationships, because you can get needs met in other ways, and relieve thereby he pressure of others having to be
    perfect. Especially when living together: Get some space and distance. Love is cultivated, it does not happen (or
    stick around) magically.

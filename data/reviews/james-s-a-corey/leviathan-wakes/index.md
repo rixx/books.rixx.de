@@ -41,7 +41,7 @@ Fantastic space opera, even more fun than the TV series. 4.5 stars for me, but I
 generous today and it was just so much immersive fun!
 
 I think what I liked best is that this book is *grimy*. It doesn't hide the underpinnings. It shows you actual
-(fucked-up) humans in their actual (fucked-up, of course) society. It feels slightly noir, but not in an artsy way. It's
+(fucked-up) humans in their actual (fucked-up, of course) society. It's slightly noir, but not in an artsy way. It's
 an action-focused book that *still* manages to touch on politics in a decent way, and obviously sets up to do more of
 that in the future. Hell yes.
 

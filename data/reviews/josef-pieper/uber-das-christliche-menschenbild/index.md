@@ -72,9 +72,9 @@ as cures for depressed moods: enjoyment, crying, sympathy from your friends, foc
 and bathing. So yeah, no ascetic dour morality here.
 
 Of course, the four cardinal virtues only work with the three theological ones, blah blah. This is what sets Christians
-apart, because their worldly (cardinal) virtues are grounded in supernatural ones. Basically, Christian prudence can
+apart, because their worldly (cardinal) virtues are grounded in supernatural ones. Christian prudence can
 contradict obvious worldly wisdom (same for courage), because you can always pull the God card.
 
 -----
 
-¹ I'm pretty happy I read this in German, it evoked just the right amount of noble spirit to be interesting.
+¹ I'm glad I read this in German, it evoked just the right amount of noble spirit to be interesting.

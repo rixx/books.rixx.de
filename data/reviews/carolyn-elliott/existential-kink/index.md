@@ -20,7 +20,7 @@ related_books:
     is likely to be bound up in the experience. This book is a good way to get a handle
     on what shame is and how it works.
 - book: ichiro-kishimi/the-courage-to-be-disliked
-  text: This book makes basically the same claims as Existential Kink, only that it
+  text: This book makes the same claims as Existential Kink, only that it
     is very severe about them where EK decides to enjoy the hell out of life.
 - book: aidan-wachter/weaving-fate
   text: Wachter has a technique that works like Elliott's Deepest Fear Inventory,
@@ -41,7 +41,7 @@ rating is due to the fact that it was tremendously helpful to me personally, and
 
 Here's the premise of **Existential Kink**: Have you considered that you're into it?
 
-That's basically the book's answer to everything, particularly about things you dislike. If you're in a situation that
+That's the book's answer to everything, particularly about things you dislike. If you're in a situation that
 you dislike: Are you sure that some part of you isn't enjoying the complaining, the struggle, the position you put
 yourself in?
 

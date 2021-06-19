@@ -28,5 +28,5 @@ review:
   rating: 1
 ---
 
-Battle Royale basically was a badly written Hunger Games in a fictional contemporary totalitarian Asian state. The
-writing was truly bad, and the characters too. Truly do not recommend.
+Battle Royale is a badly written Hunger Games in a fictional contemporary totalitarian Asian state. The writing was
+truly bad, and the characters too. Do not recommend.

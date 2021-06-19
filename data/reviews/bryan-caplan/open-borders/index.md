@@ -26,4 +26,4 @@ review:
   rating: 4
 ---
 
-I can't really judge the content, not being an economist. But the presentation was very well done: The arguments were clear, with good rhethoric lines and arc, and the illustrations were pretty good, too. There was a fair bit of stereotyping going on, but I think that's more than fair on this topic: People's fears and concerns are based on stereotypes, so they are part of the discussion already, and need to be addressed.
+I can't really judge the content, not being an economist. But the presentation was very well done: The arguments were clear, with good rhethoric lines and arc, and the illustrations were good, too. There was a fair bit of stereotyping going on, but I think that's more than fair on this topic: People's fears and concerns are based on stereotypes, so they are part of the discussion already, and need to be addressed.

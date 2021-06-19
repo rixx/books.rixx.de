@@ -34,4 +34,4 @@ review:
 ---
 
 Yet another Sams book – I didn't really like the follow-ups. The original was whimsical in a way that the next parts
-didn't capture. Too busy following the formula, I guess?
+didn't capture. Too busy following the formula.

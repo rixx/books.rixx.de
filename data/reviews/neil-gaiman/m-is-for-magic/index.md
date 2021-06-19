@@ -38,7 +38,7 @@ Again - Neil Gaiman can write short stories like the best of them.
    y'know, people's lives being eaten.
  - Don't ask Jack: Short horror story - I think if it grips you, it's hard to get over it, but it didn't quite work on
    me.
- - How to Sell the Ponti Bridge: I kinda wanted to like that one more than I actually liked it, the trickster seemed not
+ - How to Sell the Ponti Bridge: I wanted to like that one more than I actually liked it, the trickster seemed not
    quite fleshed out as much as I'd have liked, but the storytelling was marvellous nonetheless.
  - October in the Chair: I knew that one already and loved to re-read Runt's story.
  - Chivalry: *So* lovely, *so* English, and not about the Holy Grail at all.

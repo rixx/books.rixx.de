@@ -33,4 +33,4 @@ review:
 ---
 
 The worldbuilding is better, the characters are only slightly worse, and the plot couldn't be worse than the first one,
-and is possibly slightly better? Sorry, I don't remember, I was busy being amazed at the worldbuilding.
+and is possibly slightly better? I don't remember, I was busy being amazed at the worldbuilding.

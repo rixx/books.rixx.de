@@ -38,9 +38,9 @@ sounded like it could be hilarious. Which it really wasn't.
 
 The book had its fun moments, but it was also extremely tedious. A contemporary American gets sent back through time to
 King Arthur's court, engineers his way into the King's council because he knows the solar eclipses of the time by heart,
-and tries to slowly change everything. It honestly read a bit like a bad fanfic.
+and tries to slowly change everything. It honestly read like a bad fanfic.
 
 On the upside, I picked up what constitutes generic old-timey speech in English, and which stereotypes were commonly
-associated with Americans and medieval knights, so while the book in itself was really not good, it provided a bit of
+associated with Americans and medieval knights, so while the book in itself was really not good, it provided
 honest world-building for the world we actually live in. Even if you don't like a joke, you have to understand its
 context to recognise it as a joke, etc.

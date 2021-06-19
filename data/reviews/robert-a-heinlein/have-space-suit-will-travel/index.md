@@ -44,5 +44,5 @@ A big point in favour is also that while there are noticeable references to aged
 travelling with a younger girl for a time – he acknowledges both his protective impulses and that they are not always
 appropriate, which was funny, charming, and somewhat impressive.
 
-My next Heinlein will be "The Moon is a Harsh Mistress", which feels less forbidding now that I know that Heinlein is
+My next Heinlein will be "The Moon is a Harsh Mistress", which is less forbidding now that I know that Heinlein is
 readable.

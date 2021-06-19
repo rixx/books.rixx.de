@@ -52,8 +52,8 @@ social:
 ---
 
 Gooood Fantasy! Highly likable characters, good world, good plot, excellent eye for detail. The concept of a
-mostly-female order/guild/group of scientifically minded truth seekers is very cool, and yet not overdone. Feels like
-Science Fantasy in a NK Jemisin way. Way to go on the emancipation side: women being equal to men is just a non-issue in
-all jobs (guards, merchants, sailors, etc).
+mostly-female order/guild/group of scientifically minded truth seekers is very cool, and yet not overdone.  Science
+Fantasy in an NK Jemisin way. Way to go on the emancipation side: women being equal to men is just a non-issue in all
+jobs (guards, merchants, sailors, etc).
 
 If I had read this a couple of years ago, I might have been less susceptible to HPMOR.

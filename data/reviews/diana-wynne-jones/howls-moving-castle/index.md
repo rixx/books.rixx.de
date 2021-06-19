@@ -23,7 +23,7 @@ plan:
 related_books:
 - book: terry-pratchett/the-wee-free-men
   text: 'If the young heroine battling magical forces above her skill level is your
-    kind of thing: Read Tiffany books.'
+    thing: Read Tiffany books.'
 - book: neil-gaiman/stardust
   text: Stardust has a similar sense of big reluctant (British) magical adventure.
     Maybe all that divides them is a gender line …

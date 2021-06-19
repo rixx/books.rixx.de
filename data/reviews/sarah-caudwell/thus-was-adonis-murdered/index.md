@@ -27,5 +27,5 @@ review:
 This book sports a dry humour that's a lot of fun to read. The self-important unreliable narrator is incredibly well
 done, and makes for an unusual and fun narrative arc. I'm not a big fan of mysteries, so I wasn't all that interested in
 who murdered whom, and more with the snark in the meantime (which, I suppose, is just as intended). At times, the
-intentional tediousness of the narrator grated a bit, because I had been dealing with people who were somewhat similar
+intentional tediousness of the narrator grated, because I had been dealing with people who were somewhat similar
 while reading the book – which also made me appreciate the dry meta commentary a lot.

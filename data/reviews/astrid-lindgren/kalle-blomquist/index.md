@@ -46,5 +46,5 @@ Apparently he's known as [Bill Bergson](https://en.wikipedia.org/wiki/Bill_Bergs
 
 Kalle Blomquist alway stood out to me for being real in a way that other detective books did not and could not reach.
 The three ???, or TKKG, or similar books could not compete because they were too excited, too dramatised. The best I can
-recommend are basically all the other books by [Astrid
+recommend are all the other books by [Astrid
 Lindgred](https://books.rixx.de/astrid-lindgren/), who is consistently good or great.

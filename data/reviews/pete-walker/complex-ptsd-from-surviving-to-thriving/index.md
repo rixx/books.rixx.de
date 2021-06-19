@@ -54,7 +54,7 @@ First off: I'm not quite the target group for this book, and this has influenced
 
 That said, a lot about the books contents and writing style continued to irritate me in minor but constant ways. I also got the impression that the most valuable actionable advice was covered better by books like Focusing and Rewriting the Rules, but that may again be my bias due to being not in the target group.
 
-One content note: This book highlights and assumes that cPTSD comes from parents and family pretty much exclusively, and assumes that institutions like schools will be neutral to helpful, which seemed very odd to me.
+One content note: This book highlights and assumes that cPTSD comes from parents and family exclusively, and assumes that institutions like schools will be neutral to helpful, which seemed very odd to me.
 
 Anyways, good-ish book, just not for me. Many people with more immediate interest and general knowledge like it a lot,
 so if you think that trauma and cPTSD is something you'd like to investigate further, this is very much a good book to

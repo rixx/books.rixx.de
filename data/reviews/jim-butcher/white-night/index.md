@@ -32,4 +32,4 @@ review:
   rating: 3
 ---
 
-Stakes rise. Supernatural battles continue. The snark feels tired.
+Stakes rise. Supernatural battles continue. The snark is tired.

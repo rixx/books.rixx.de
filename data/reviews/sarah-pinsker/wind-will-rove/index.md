@@ -21,4 +21,4 @@ review:
 
 Very nice scifi about an intergenerational conflict on a multi(think &gt;100) generational spaceship, focussing on
 music, both the people keeping old music alive, and the younger people rejecting history. I liked the setting and world
-building and characters, but it fell a bit flat, all things considered.
+building and characters, but I was hoping for more depth in every way.

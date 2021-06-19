@@ -41,7 +41,7 @@ it read like mediocre fanfiction (except for the format).
 While the inconsistencies (brewing polyjuice to-go? Where is Teddy Lupin? Why are James and Lily out and about while
 fearing for their lives?) may sound nitpicky, they made suspension of disbelief that much harder. I liked some of the
 new characters, Scorpius in particular, but to my (very biased) eye and brain, there was a lot of queerbaiting going on,
-and that was just horribly disappointing. (Yay for consistent characterization of McGonagall, I guess.)
+and that was just horribly disappointing. (Yay for consistent characterization of McGonagall, though.)
 
 I also had an intense dislike for the time travelling. Not for breaking in-universe rules, but for being lazy, and old,
 and done over and over in better ways. The writers also seemed to have a weird focus on Cedric. What's up with that?

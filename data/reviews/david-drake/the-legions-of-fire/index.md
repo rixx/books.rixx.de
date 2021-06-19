@@ -35,7 +35,7 @@ come to realise that world-ending magic is attacking the empire, and work agains
 Roman, Norse, and Greek mythology, and mixes them very well. The level of attention paid to details and consistency is
 very nice.
 
-I felt that the characters were a bit on the two-adjective side if we're being generous, but I enjoyed them nonetheless
+I felt that the characters were on the two-adjective side if we're being generous, but I enjoyed them nonetheless
 – the honourable military youth, the clever, awkward son of a senator, the insecure, irascible daughter of a senator,
 the loyal clever servant etc etc. The second half of the book takes place in magic/dream worlds, and I felt those were
 weaker and more chaotic, and suffered from break-up-the-party syndrome. Overall this was a fun and rewarding reading

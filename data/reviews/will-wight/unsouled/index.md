@@ -32,5 +32,5 @@ review:
 ---
 
 This was nice. Chinese inspired fantasy, but with a high escalation path into stellar politics among
-superpowered/ascended beings. The juxtaposition of the two ("low level farm boy" vs "god-like beings") was a bit clumsy
+superpowered/ascended beings. The juxtaposition of the two ("low level farm boy" vs "god-like beings") was clumsy
 at times, and it cuts off early, but it was still relaxing to read.

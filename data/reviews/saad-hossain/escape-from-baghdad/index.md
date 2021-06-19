@@ -32,7 +32,7 @@ review:
 tl;dr: Fun, violence, fun.
 
 In some very technical sense, this book is Urban Fantasy: there are fantastical elements, and it takes place in a city.
-As you may have guessed, the city is Baghdad. The time is not long after Hussein's death, so it feels less like a city
+As you may have guessed, the city is Baghdad. The time is not long after Hussein's death, so it's less like a city
 and more like a war zone, but still – Urban Fantasy.
 
 Thankfully, and I say this as somebody [who](/ben-aaronovitch/moon-over-soho)
@@ -48,6 +48,6 @@ things. The supernatural aspect does not serve to soften or hide or motivate thi
 matter-of-fact and humanly flawed as the rest of the plot.
 
 Despite the focus on war, PTSD, violence, death, torture, and pain – I enjoyed reading this book, and it managed to be
-fun, not depressing. And that's despite (or due? probably not) the fact that it feels terribly real. Even though there
+fun, not depressing. And that's despite (or due? probably not) the fact that it's terribly real. Even though there
 would be room for a sequel, the author has no plans to write one, and while that's probably wise, I can't help but be a
 little sad.

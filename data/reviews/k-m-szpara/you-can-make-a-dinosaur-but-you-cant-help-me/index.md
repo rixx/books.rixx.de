@@ -18,4 +18,4 @@ review:
   rating: 2
 ---
 
-Crossing a trans guy's story with Jurassic Park. Occasionally sweet, but also a bit unfocussed.
+Crossing a trans guy's story with Jurassic Park. Occasionally sweet, but also unfocussed.

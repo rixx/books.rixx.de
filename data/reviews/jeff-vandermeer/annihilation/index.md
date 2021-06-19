@@ -28,4 +28,4 @@ review:
   rating: 2
 ---
 
-Horror is not my genre, and this one just kind of didn't have an effect on me? Not a bad book, just book-reader-mismatch, I think. The protagonist had a good distinct voice, and Area X was weird in a good way, but it never clicked for me.
+Horror is not my genre, and this one just didn't have an effect on me? Not a bad book, just book-reader-mismatch, I think. The protagonist had a good distinct voice, and Area X was weird in a good way, but it never clicked for me.

@@ -29,4 +29,4 @@ review:
 ---
 
 Our beloved hero is banished (well, his father is and he follows). The mood is predictably bad, but seeing Harka stand
-on his own and living through all the shit life throws at him was pretty inspiring.
+on his own and living through all the shit life throws at him was inspiring.

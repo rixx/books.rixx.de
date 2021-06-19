@@ -31,7 +31,7 @@ review:
 
 The second part of the [Jim Button series](https://books.rixx.de/reviews/1999/jim-knopf-und-lukas-der-lokomotivfuhrer)
 is still super imaginary, and this time concerns rebuilding (well, expanding, really). It's fun, but lacks the deep
-strength of the first part. Also, finding out that Jim is a descendant of one of the Three Kings is kind of random and
+strength of the first part. Also, finding out that Jim is a descendant of one of the Three Kings is random and
 when I re-read the book, I was confused and suspicious about Ende's motivation.
 
 But also, this book features a lot of screen time (so to speak) for Molly, the **baby locomotive**, who is just adorable

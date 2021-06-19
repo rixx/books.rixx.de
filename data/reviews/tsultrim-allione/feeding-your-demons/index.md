@@ -44,7 +44,7 @@ But when you remove the window dressing, you are left with a reflection/meditati
 work for me. It is very similar in structure to [Focusing](/eugene-t-gendlin/focusing/), except that it
 is more visual and tactile where Focusing is verbal. Both are based around felt senses and embodied emotions, though.
 
-The first part is exactly like Focusing: You have some sort of inner conflict that you feel uncomfortable with, and that
+The first part is exactly like Focusing: You have an inner conflict that you feel uncomfortable with, and that
 you'd like to resolve. You set aside half an hour or so in a quiet space. Take two chairs, sit down, calm down (she
 prescribes 3x3 breaths with specific prompts, but whatever works for you). You generate clear positive motivation to
 understand and solve this inner conflict. Then you concentrate on the conflict itself, trigger the specific feeling of

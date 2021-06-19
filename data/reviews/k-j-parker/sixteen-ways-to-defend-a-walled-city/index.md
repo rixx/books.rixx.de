@@ -50,7 +50,7 @@ social:
 ---
 
 Badass titles are the clickbait of the literary world, and this one worked very well on me. The book was not quite as
-good as the title. It was a bit too smug and too self-involved and too busy being clever. It's basically pseudo-Roman
+good as the title. It was a bit too smug and too self-involved and too busy being clever. It's pseudo-Roman
 military engineering with a snarky first-person narrator. Fantasy Rome doing Fantasy Roman things: the book.
 
 The snarky narrator might redeem the book for you. Or, if you're an engineer, the insistence on how engineers are the
@@ -62,4 +62,4 @@ city, and all those parts did not keep my disbelief suspended. That's just … n
 I'm not usually into protagonists who are always right, and this one was a damn Gary Stu: can do anything, knows tons of
 languages, pulled himself out of slavery by his own bootstraps blah blah blah … which is the major reason I rated it
 this low, along with the very weak character building on the protagonist's moral foundation.  But if you don't take the
-book too seriously, it's pretty enjoyable.
+book too seriously, it's enjoyable.

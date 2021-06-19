@@ -38,5 +38,5 @@ normal space, and we have sentient ships.
 
 I can't really give you an objective review (even less than usually, I mean) because I'm a sucker for sentient space
 ships. These ones are very well done, I felt, and the duo of the Tea Master and the Detective worked very well. And if
-it feels like Sherlock Holmes coupled with an Ann Leckie world – so what? I would've read and enjoyed a full novel of
+it is just Sherlock Holmes coupled with an Ann Leckie world – so what? I would've read and enjoyed a full novel of
 this instead of just a novella (though it was very well-paced).

@@ -26,5 +26,5 @@ review:
   rating: 2
 ---
 
-Lessing was a good critic, but at best a middling author. His theatre feels nearly Brecht-ian in its desire to hit you
+Lessing was a good critic, but at best a middling author. His theatre is nearly Brecht-ian in its desire to hit you
 repeatedly over the head with the metaphor until you're sure to get it.

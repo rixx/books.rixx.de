@@ -99,7 +99,7 @@ tension before a battle, than "The armies hum / As power-station outflow cables 
 shield / As microphones on politicians’ stands:", and you know exactly what to picture.  ‘Laid his trunk open from
 shoulder to hip – / Like a beauty-queen’s sash.’ is brutal, yes (the whole book shows that Logue knows how brutal and
 unappetising war is), and wonderfully evocative.  And these modern comparisons mix very well with the epic nature of the
-book: Describing gods as "With faces like NO ENTRY signs they hurried through the clouds." feels *good*. Or maybe my
+book: Describing gods as "With faces like NO ENTRY signs they hurried through the clouds." is *good*. Or maybe my
 favourite example:
 
 <blockquote>

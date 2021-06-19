@@ -46,7 +46,7 @@ I approve of this feeling and it's definitely a contributing factor in my desire
 But it also made me anxious in a way. I noticed that the concept of people dedicating years of their life to a koan – as
 in, their regular life, not in a monastery – made me feel like I was falling behind by not doing the same. I got the
 feeling of being inadequate by not pursuing¹ deeper understanding. I started trying to judge my skill, deciding that I
-was inherently "bad at" this kind of thinking/processing/shifting. It was amusing to see, in a way – at the same time,
+was inherently "bad at" thinking/processing/shifting. It was amusing to see, in a way – at the same time,
 it's something I'll take time to attend to.
 
 Also, ugh, I wish words were less inadequate for the things I thought and experienced while reading this book – which is

@@ -63,9 +63,9 @@ hook for the second book.
 
 Kay knows his history, and (less common among historical fantasy authors) can make you love it, too. If you know your
 Byzantine history, you'll find all sorts of great facts hidden in the story, and if you don't, you're not going to miss
-out. As most historical fantasy in this genre, it's a fairly male cast, with most women being cast in passive
+out. As most historical fantasy in this genre, the main cast is male, with most women being cast in passive
 (sacrificial or victimised) roles or overly sexualised. Plus, they of course all throw themselves at the protagonist. It
 wasn't quite as obnoxious as I make it sound, but something I noticed when I finished reading. The clumsy horniness for
-hot powerful women makes me a bit less eager to pick up the next part.
+hot powerful women makes me less eager to pick up the next part.
 
 But on the other hand, Kay made me excited about old mosaics, so I'll read it sooner or later.

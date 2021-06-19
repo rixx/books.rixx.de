@@ -41,5 +41,5 @@ review:
 
 Fun fact: It took me three tries to finish Brave New World, because the last third (or so) just had me tune out. It's
 interesting to contrast this work – of Huxley's youth, all convinced of things gravitating towards terribleness – to
-*Island*. He wrote Island much later in life, and it shows. What if … people could just feel good, for a bit? That would
+*Island*. He wrote Island much later in life, and it shows. What if … people could just feel good, for a while? That would
 be … good?

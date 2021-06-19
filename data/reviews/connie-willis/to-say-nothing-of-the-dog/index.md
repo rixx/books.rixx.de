@@ -61,6 +61,6 @@ social:
       https://books.rixx.de/reviews/2020/to-say-nothing-of-the-dog/'
 ---
 
-This book as good as advertised – even a bit better than that, because part of it is targeted at people who had their heart broken by Gaudy Night, which I just had two weeks ago. I'm very happy I didn't accidentally read this one before Gaudy Night, that would've ruined the reading experience quite a bit.
+This book as good as advertised – even better than that, because part of it is targeted at people who had their heart broken by Gaudy Night, which I just had two weeks ago. I'm very happy I didn't accidentally read this one before Gaudy Night, that would've ruined the reading experience.
 
-Other than that, To Say Nothing of the Dog also very much shines on its own merits. The dry humour, the direct and indirect quotes, the impeccable research and convoluted-in-a-good-way plot only work because the characters are well built and as usual for Connie Willis everything feels real in a quietly frustrating way.
+Other than that, To Say Nothing of the Dog also very much shines on its own merits. The dry humour, the direct and indirect quotes, the impeccable research and convoluted-in-a-good-way plot only work because the characters are well built and as usual for Connie Willis everything is real in a quietly frustrating way.

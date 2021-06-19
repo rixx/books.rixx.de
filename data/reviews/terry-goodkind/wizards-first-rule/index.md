@@ -33,11 +33,11 @@ review:
 ---
 
 This book could have been classic fantasy. It has all the right ingredients: Richard, the Woman, the Wizard, the Quest,
-the Traitor, the Evil Antagonist. Boring? Yes. Schematic? Couldn't be more so. But still, a lot of Fantasy does this
-kind of thing. It's not a crime, and in some regards, this book is just one of those very mediocre SFF books:
+the Traitor, the Evil Antagonist. Boring? Yes. Schematic? Couldn't be more so. But still, a lot of Fantasy works like
+this. It's not a crime, and in some regards, this book is just one of those very mediocre SFF books:
 
 The author has a bad case of "tell, don't show", and his language and phrasing are far from lyrical. The story has some
-strong parts, but feels mediocre and generic most of the time. Even the plot holes are generic.
+strong parts, but it's mediocre and generic most of the time. Even the plot holes are generic.
 
 **But.**
 

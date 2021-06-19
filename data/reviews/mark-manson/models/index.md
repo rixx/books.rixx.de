@@ -59,7 +59,7 @@ replace all "woman" with "person" and "women" with "people" so that the ridiculo
 
 For the most part, it has good and bad points: A lot of gross evopsych, think "women are evolved to", "As is often the
 case, women are terrible authorities on why they like/dislike something, all they know is that they like/dislike it". It
-kinda makes up for it by saying a couple of good things against PUA stuff (like advocating vulnerability, decent
+makes up for it by saying a couple of good things against PUA stuff (like advocating vulnerability, decent
 self-improvement progression etc).  It also comes with good theory of interaction, by advocating to fix your
 relationship to yourself and then polarise people early. During that part, it's been a depressing read because it's
 tailored to average guys and I hate how this looks – tough talk, dumbing things down, dominance games.
