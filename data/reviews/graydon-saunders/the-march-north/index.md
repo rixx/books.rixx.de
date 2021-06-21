@@ -24,6 +24,26 @@ review:
   - 2020-08-03
   - 2021-05-16
   rating: 4
+  tldr: Extraordinary start to an extraordinary series. I love it to pieces, as weird
+    and unreadable as it is.
+social:
+  mastodon:
+    datetime: 2021-06-21 21:14:43.720813
+    id: '106450313777779582'
+    in_reply_to: '106388563618506168'
+    text: '50/ The March North by Graydon Saunders. Extraordinary start to an extraordinary
+      series. I love it to pieces, as weird and unreadable as it is.
+
+      https://books.rixx.de/graydon-saunders/the-march-north/ #rixxReads'
+  number: 50
+  twitter:
+    datetime: 2021-06-21 21:14:43.381340
+    id: '1407054390586925058'
+    in_reply_to: '1403102379336257543'
+    text: '50/ The March North by Graydon Saunders. Extraordinary start to an extraordinary
+      series. I love it to pieces, as weird and unreadable as it is.
+
+      https://books.rixx.de/graydon-saunders/the-march-north/'
 ---
 
 Sometimes I read books that make me very happy, so that I have to focus a lot to find reasons why other people would

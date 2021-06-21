@@ -29,7 +29,26 @@ review:
   date_read:
   - 2021-06-03
   rating: 3
-  tldr: Chesterton is an extremely entertaining bastard. Heretics is a good read if you can tolerate him.
+  tldr: Chesterton is an extremely entertaining bastard. Heretics is a good read if
+    you can tolerate him.
+social:
+  mastodon:
+    datetime: 2021-06-21 21:14:48.046887
+    id: '106450314064790745'
+    in_reply_to: '106450313777779582'
+    text: '51/ Heretics by G.K. Chesterton. Chesterton is an extremely entertaining
+      bastard. Heretics is a good read if you can tolerate him.
+
+      https://books.rixx.de/g-k-chesterton/heretics/ #rixxReads'
+  number: 51
+  twitter:
+    datetime: 2021-06-21 21:14:47.784870
+    id: '1407054408802787346'
+    in_reply_to: '1407054390586925058'
+    text: '51/ Heretics by G.K. Chesterton. Chesterton is an extremely entertaining
+      bastard. Heretics is a good read if you can tolerate him.
+
+      https://books.rixx.de/g-k-chesterton/heretics/'
 ---
 
 Chesterton is an utter bastard, and enjoying himself while he's at it. As a result, I enjoyed myself, too: He's
