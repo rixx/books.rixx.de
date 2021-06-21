@@ -19,11 +19,13 @@ related_books:
   text: No, these two books don't have anything to do with one another. Except that
     both delight in making the reader work for their information, and in their own
     cleverness. Might be a usenet thing.
+- book: graydon-saunders/a-succession-of-bad-days
+  text: The next part in the series
 review:
   date_read:
   - 2020-08-03
   - 2021-05-16
-  rating: 4
+  rating: 5
   tldr: Extraordinary start to an extraordinary series. I love it to pieces, as weird
     and unreadable as it is.
 social:

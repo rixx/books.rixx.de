@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2020-05-07'
 related_books:
+- book: graydon-saunders/a-succession-of-bad-days
+  text: Much better love letter to fantasy engineering.
 - book: guy-gavriel-kay/sailing-to-sarantium
   text: More pseudo-Roman engineering.
 review:

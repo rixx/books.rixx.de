@@ -24,6 +24,8 @@ related_books:
 - book: orson-scott-card/speaker-for-the-dead
   text: Human civilisations considering the implications of killing an entire hive
     mind based alien race? Now THIS is sci-fi.
+- book: graydon-saunders/a-succession-of-bad-days
+  text: Another look at the meaning and implications of human hive minds.
 review:
   date_read:
   - 2021-04-11
