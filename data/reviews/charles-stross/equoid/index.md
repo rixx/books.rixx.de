@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-07-02'
 related_books:
+- book: graydon-saunders/safely-you-deliver
+  text: Now THIS is how you do unicorns.
 - book: peter-s-beagle/the-unicorn-anthology
   text: More unicorns.
 - book: peter-s-beagle/the-last-unicorn
