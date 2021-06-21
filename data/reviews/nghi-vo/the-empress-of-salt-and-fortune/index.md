@@ -21,6 +21,8 @@ related_books:
   text: Similar vibes of queer fantasy.
 - book: brandon-sanderson/the-emperors-soul
   text: Another neat Fantasy novella with a similar subtlety in storytelling.
+- book: j-y-yang/the-black-tides-of-heaven
+  text: Better Asia-inspired queer Fantasy.
 review:
   date_read:
   - 2021-02-26
