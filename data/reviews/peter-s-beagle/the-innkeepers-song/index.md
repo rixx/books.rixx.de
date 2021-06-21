@@ -1,0 +1,35 @@
+---
+book:
+  author: Peter S. Beagle
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451452887-L.jpg
+  goodreads: '11938'
+  isbn10: 0451452887
+  isbn13: '9780451452887'
+  pages: '346'
+  publication_year: '1993'
+  spine_color: '#947f79'
+  tags:
+  - fantasy
+  title: The Innkeeper's Song
+plan:
+  date_added: '2018-10-05'
+related_books:
+- book: peter-s-beagle/the-last-unicorn
+  text: More Peter S. Beagle fantasy.
+- book: william-goldman/the-princess-bride
+  text: Similar levels of banter in places.
+review:
+  date_read:
+  - 2021-06-14
+  did_not_finish: false
+  rating: 3
+  tldr: "Reminded me of Princess Bride in places: very solid, always slightly unconventional fantasy, but failed to grip me. Still an enjoyable read, Beagle just can't disappoint."
+---
+
+Peter S. Beagle is always interesting and never quite conventional. This book starts out with the titular Innkeeper's
+Song, providing us with the entire plot condensed into a folk song, and then proceeds to elaborate in first-person
+chapters from different viewpoints. It does so beautifully, and it's never predictable, and yet, I never felt really
+close to the plot. I've felt this way about all books by Beagle so far, though, and I still like them.
+
+There are a lot of individually cool things about this story! They just failed to grip me.
+Also, idk how necessary the whole gender-pretend-group-sex scene was.

@@ -26,6 +26,8 @@ related_books:
   text: Strangely enough, Stardust is similar to Princess Bride. Though admittedly,
     the similarity is more prominent in the movie version of Stardust, which in turn
     cannot hope to compete with the Princess Bride movie.
+- book: peter-s-beagle/the-innkeepers-song
+  text: Similar levels of banter in places.
 review:
   date_read:
   - 2018-02-28

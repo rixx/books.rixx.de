@@ -30,6 +30,8 @@ related_books:
   text: More Peter S. Beagle unicorns.
 - book: peter-s-beagle/the-unicorn-anthology
   text: Even more unicorns.
+- book: peter-s-beagle/the-innkeepers-song
+  text: More Peter S. Beagle fantasy.
 review:
   date_read:
   - 2017-02-23
