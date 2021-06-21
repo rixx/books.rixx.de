@@ -183,7 +183,6 @@ class Review:
             self.save()
         if push_to_goodreads:
             goodreads.change_shelf(review=self)
-        subprocess.check_call(["git", "add", self.path, old_path])
 
     def get_path(self):
         out_path = Path("data") / self.entry_type / self.id / "index.md"
@@ -552,14 +551,6 @@ def create_book(search_term=None):
         if push_to_goodreads:
             review = Review(path=review.path)  # need to reload
             goodreads.push_to_goodreads(review)
-
-    subprocess.check_call(
-        [
-            "git",
-            "add",
-            review.path.parent,
-        ]
-    )
 
     if review.isbn:
         from .data import update_book_data
