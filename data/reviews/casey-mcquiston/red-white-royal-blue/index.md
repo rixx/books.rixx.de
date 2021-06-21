@@ -14,6 +14,8 @@ book:
 plan:
   date_added: '2019-06-08'
 related_books:
+- book: aiden-thomas/cemetery-boys
+  text: Similarly culturally specific queer coming-of-age, just for US Latinx culture.
 - book: fayjay/the-student-prince
   text: Very similar YA romance, down to the British royalty being involved.
 review:
