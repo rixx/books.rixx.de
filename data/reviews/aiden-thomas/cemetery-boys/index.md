@@ -26,6 +26,8 @@ related_books:
     culture.
 - book: neil-gaiman/the-graveyard-book
   text: Young boys growing up in graveyards.
+- book: austin-chant/peter-darling
+  text: More gay trans guy coming of age.
 review:
   date_read:
   - 2021-06-12
