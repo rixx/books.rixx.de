@@ -22,6 +22,8 @@ related_books:
   text: Much better love letter to fantasy engineering.
 - book: guy-gavriel-kay/sailing-to-sarantium
   text: More pseudo-Roman engineering.
+- book: sam-hawke/city-of-lies
+  text: More siege stories.
 review:
   date_read:
   - 2021-04-27
