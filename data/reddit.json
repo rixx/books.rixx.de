@@ -1,6 +1,14 @@
 {
+    "A2": {
+        "hard": [
+            "j-y-yang/the-black-tides-of-heaven"
+        ],
+        "normal": []
+    },
     "A3": {
-        "hard": [],
+        "hard": [
+            "j-y-yang/the-black-tides-of-heaven"
+        ],
         "normal": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "madeline-miller/the-song-of-achilles"
@@ -10,21 +18,31 @@
         "hard": [
             "diane-duane/the-door-into-sunset",
             "naomi-kritzer/catfishing-on-catnet",
-            "madeline-miller/the-song-of-achilles"
+            "madeline-miller/the-song-of-achilles",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/safely-you-deliver"
         ],
         "normal": [
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "graydon-saunders/under-one-banner"
         ]
     },
     "A5": {
-        "hard": [],
+        "hard": [
+            "graydon-saunders/a-mist-of-grit-and-splinters",
+            "sam-hawke/city-of-lies",
+            "peter-s-beagle/the-innkeepers-song"
+        ],
         "normal": [
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
             "madeline-miller/the-song-of-achilles",
-            "graydon-saunders/the-march-north"
+            "graydon-saunders/the-march-north",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/under-one-banner",
+            "j-y-yang/the-black-tides-of-heaven"
         ]
     },
     "B1": {
@@ -32,7 +50,10 @@
         "normal": [
             "lois-mcmaster-bujold/the-curse-of-chalion",
             "r-j-barker/the-bone-ships",
-            "alix-e-harrow/the-ten-thousand-doors-of-january"
+            "alix-e-harrow/the-ten-thousand-doors-of-january",
+            "aiden-thomas/cemetery-boys",
+            "j-y-yang/the-black-tides-of-heaven",
+            "austin-chant/peter-darling"
         ]
     },
     "B2": {
@@ -42,7 +63,11 @@
             "r-j-barker/the-bone-ships",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
             "naomi-kritzer/catfishing-on-catnet",
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "j-y-yang/the-black-tides-of-heaven",
+            "aiden-thomas/cemetery-boys",
+            "austin-chant/peter-darling",
+            "sam-hawke/city-of-lies"
         ],
         "normal": []
     },
@@ -51,7 +76,8 @@
             "diane-duane/the-door-into-sunset",
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "patricia-a-mckillip/heir-of-sea-and-fire",
-            "patricia-a-mckillip/harpist-in-the-wind"
+            "patricia-a-mckillip/harpist-in-the-wind",
+            "peter-s-beagle/the-innkeepers-song"
         ],
         "normal": [
             "madeline-miller/the-song-of-achilles"
@@ -67,9 +93,12 @@
     },
     "C1": {
         "hard": [
-            "patricia-a-mckillip/harpist-in-the-wind"
+            "patricia-a-mckillip/harpist-in-the-wind",
+            "sam-hawke/city-of-lies"
         ],
-        "normal": []
+        "normal": [
+            "aiden-thomas/cemetery-boys"
+        ]
     },
     "C2": {
         "hard": [
@@ -88,16 +117,29 @@
     "C4": {
         "hard": [],
         "normal": [
-            "r-j-barker/the-bone-ships"
+            "r-j-barker/the-bone-ships",
+            "graydon-saunders/a-succession-of-bad-days",
+            "sam-hawke/city-of-lies"
+        ]
+    },
+    "D1": {
+        "hard": [],
+        "normal": [
+            "aiden-thomas/cemetery-boys"
         ]
     },
     "D2": {
-        "hard": [],
+        "hard": [
+            "graydon-saunders/a-mist-of-grit-and-splinters"
+        ],
         "normal": [
             "ilona-andrews/sweep-in-peace",
             "ilona-andrews/one-fell-sweep",
             "j-zachary-pike/orconomics",
-            "graydon-saunders/the-march-north"
+            "graydon-saunders/the-march-north",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/safely-you-deliver",
+            "graydon-saunders/under-one-banner"
         ]
     },
     "D4": {
@@ -118,18 +160,24 @@
             "alix-e-harrow/the-ten-thousand-doors-of-january"
         ],
         "normal": [
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "sam-hawke/city-of-lies",
+            "peter-s-beagle/the-innkeepers-song"
         ]
     },
     "E1": {
         "hard": [
-            "patricia-a-mckillip/heir-of-sea-and-fire"
+            "patricia-a-mckillip/heir-of-sea-and-fire",
+            "graydon-saunders/a-mist-of-grit-and-splinters"
         ],
         "normal": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "lois-mcmaster-bujold/the-curse-of-chalion",
             "alix-e-harrow/the-ten-thousand-doors-of-january",
-            "madeline-miller/the-song-of-achilles"
+            "madeline-miller/the-song-of-achilles",
+            "graydon-saunders/a-succession-of-bad-days",
+            "j-y-yang/the-black-tides-of-heaven",
+            "sam-hawke/city-of-lies"
         ]
     },
     "E2": {
@@ -139,10 +187,15 @@
         ]
     },
     "E3": {
-        "hard": [],
+        "hard": [
+            "aiden-thomas/cemetery-boys",
+            "austin-chant/peter-darling"
+        ],
         "normal": [
             "r-j-barker/the-bone-ships",
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/safely-you-deliver"
         ]
     },
     "E4": {
@@ -150,16 +203,23 @@
         "normal": [
             "madeline-miller/the-song-of-achilles",
             "j-zachary-pike/orconomics",
-            "graydon-saunders/the-march-north"
+            "graydon-saunders/the-march-north",
+            "j-y-yang/the-black-tides-of-heaven",
+            "aiden-thomas/cemetery-boys"
         ]
     },
     "E5": {
         "hard": [
             "diane-duane/the-door-into-sunset",
-            "patricia-a-mckillip/heir-of-sea-and-fire"
+            "patricia-a-mckillip/heir-of-sea-and-fire",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/safely-you-deliver",
+            "graydon-saunders/under-one-banner",
+            "aiden-thomas/cemetery-boys"
         ],
         "normal": [
-            "graydon-saunders/the-march-north"
+            "graydon-saunders/the-march-north",
+            "graydon-saunders/a-mist-of-grit-and-splinters"
         ]
     },
     "hacky": {
@@ -177,7 +237,16 @@
             "naomi-kritzer/catfishing-on-catnet",
             "madeline-miller/the-song-of-achilles",
             "j-zachary-pike/orconomics",
-            "graydon-saunders/the-march-north"
+            "graydon-saunders/the-march-north",
+            "graydon-saunders/a-succession-of-bad-days",
+            "graydon-saunders/safely-you-deliver",
+            "graydon-saunders/under-one-banner",
+            "graydon-saunders/a-mist-of-grit-and-splinters",
+            "j-y-yang/the-black-tides-of-heaven",
+            "aiden-thomas/cemetery-boys",
+            "austin-chant/peter-darling",
+            "sam-hawke/city-of-lies",
+            "peter-s-beagle/the-innkeepers-song"
         ]
     }
 }
