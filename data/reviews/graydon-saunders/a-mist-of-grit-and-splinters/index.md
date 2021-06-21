@@ -5,7 +5,7 @@ book:
   goodreads: '50274258'
   isbn10: null
   isbn13: '9780993712654'
-  pages: null
+  pages: 292
   publication_year: '2020'
   series: Commonweal
   series_position: 5

@@ -5,7 +5,7 @@ book:
   goodreads: '58170822'
   isbn10: null
   isbn13: '9781087818191'
-  pages: null
+  pages: 159
   publication_year: '2017'
   spine_color: '#4d5759'
   tags:

@@ -7,7 +7,7 @@ book:
   goodreads: '49234048'
   isbn10: null
   isbn13: null
-  pages: null
+  pages: 362
   publication_year: '2019'
   series: Mage Errant
   series_position: '3'

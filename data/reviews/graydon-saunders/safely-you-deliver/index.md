@@ -5,7 +5,7 @@ book:
   goodreads: '29418615'
   isbn10: null
   isbn13: null
-  pages: null
+  pages: 430
   publication_year: '2016'
   series: Commonweal
   series_position: '3'
