@@ -12,6 +12,8 @@ book:
   tags:
   - fantasy
   title: The March North
+  series: Commonweal
+  series_position: 1
 plan:
   date_added: 2020-10-08
 related_books:

@@ -14,6 +14,8 @@ book:
   - queer
   - romance
   title: A Succession of Bad Days
+  series: Commonweal
+  series_position: 2
 plan:
   date_added: 2021-06-21
 related_books:
