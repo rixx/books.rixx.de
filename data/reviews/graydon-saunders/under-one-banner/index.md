@@ -26,7 +26,26 @@ review:
   date_read:
   - 2021-06-04
   rating: 3
-  tldr: A drop in quality, but still nice worldbuilding. Only worth it if you enjoy the series a lot.
+  tldr: A drop in quality, but still nice worldbuilding. Only worth it if you enjoy
+    the series a lot.
+social:
+  mastodon:
+    datetime: 2021-06-25 12:21:43.262707
+    id: '106470867148425684'
+    in_reply_to: '106470866559037778'
+    text: '54/ Under One Banner by Graydon Saunders. A drop in quality, but still
+      nice worldbuilding. Only worth it if you enjoy the series a lot.
+
+      https://books.rixx.de/graydon-saunders/under-one-banner/ #rixxReads'
+  number: 54
+  twitter:
+    datetime: 2021-06-25 12:21:42.916223
+    id: '1408369806387171329'
+    in_reply_to: '1408369768483233796'
+    text: '54/ Under One Banner by Graydon Saunders. A drop in quality, but still
+      nice worldbuilding. Only worth it if you enjoy the series a lot.
+
+      https://books.rixx.de/graydon-saunders/under-one-banner/'
 ---
 
 The series started dropping off for me a bit here: I didn't find the protagonist compelling, and her recovery from an

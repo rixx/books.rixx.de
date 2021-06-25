@@ -28,6 +28,26 @@ review:
   date_read:
   - 2021-05-20
   rating: 3
+  tldr: This one is pure worldbuilding, but three books into a series is a good place
+    for that.
+social:
+  mastodon:
+    datetime: 2021-06-25 12:21:34.252323
+    id: '106470866559037778'
+    in_reply_to: '106470863260105292'
+    text: '53/ Safely You Deliver by Graydon Saunders. This one is pure worldbuilding,
+      but three books into a series is a good place for that.
+
+      https://books.rixx.de/graydon-saunders/safely-you-deliver/ #rixxReads'
+  number: 53
+  twitter:
+    datetime: 2021-06-25 12:21:33.889429
+    id: '1408369768483233796'
+    in_reply_to: '1408369557329285122'
+    text: '53/ Safely You Deliver by Graydon Saunders. This one is pure worldbuilding,
+      but three books into a series is a good place for that.
+
+      https://books.rixx.de/graydon-saunders/safely-you-deliver/'
 ---
 
 Similar to the previous book, we get to see the posse from a different point of view. There is a unicorn, and Saunders

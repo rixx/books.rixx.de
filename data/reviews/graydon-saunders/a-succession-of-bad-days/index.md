@@ -7,6 +7,8 @@ book:
   isbn13: '9780993712616'
   pages: '529'
   publication_year: '2015'
+  series: Commonweal
+  series_position: 2
   spine_color: '#464a36'
   tags:
   - fantasy
@@ -14,8 +16,6 @@ book:
   - queer
   - romance
   title: A Succession of Bad Days
-  series: Commonweal
-  series_position: 2
 plan:
   date_added: 2021-06-21
 related_books:
@@ -32,6 +32,28 @@ review:
   - 2021-05-17
   did_not_finish: false
   rating: 5
+  tldr: '"A fairy-tale lost in a civil engineering manual", literally. Amazing stuff,
+    if you like civil engineering manuals in your fantasy.'
+social:
+  mastodon:
+    datetime: 2021-06-25 12:20:43.962620
+    id: '106470863260105292'
+    in_reply_to: '106450314064790745'
+    text: '52/ A Succession of Bad Days by Graydon Saunders. "A fairy-tale lost in
+      a civil engineering manual", literally. Amazing stuff, if you like civil engineering
+      manuals in your fantasy.
+
+      https://books.rixx.de/graydon-saunders/a-succession-of-bad-days/ #rixxReads'
+  number: 52
+  twitter:
+    datetime: 2021-06-25 12:20:43.547420
+    id: '1408369557329285122'
+    in_reply_to: '1407054408802787346'
+    text: '52/ A Succession of Bad Days by Graydon Saunders. "A fairy-tale lost in
+      a civil engineering manual", literally. Amazing stuff, if you like civil engineering
+      manuals in your fantasy.
+
+      https://books.rixx.de/graydon-saunders/a-succession-of-bad-days/'
 ---
 
 Following *The March North* is not easy in any way, and yet, Saunders manages. Same world, directly after the events of
