@@ -24,6 +24,8 @@ related_books:
 - book: hannu-rajaniemi/the-quantum-thief
   text: Another fast-paced fun heist story with strong world-building, the same energy
     just in scifi.
+- book: lynn-flewelling/luck-in-the-shadows
+  text: Also focused on heists and hijinks.
 - book: lois-mcmaster-bujold/the-warriors-apprentice
   text: My favourite witty snarky heist hero.
 - book: brandon-sanderson/the-final-empire

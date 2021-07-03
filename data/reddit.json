@@ -28,7 +28,8 @@
             "madeline-miller/the-song-of-achilles",
             "graydon-saunders/a-succession-of-bad-days",
             "graydon-saunders/safely-you-deliver",
-            "p-c-hodgell/god-stalk"
+            "p-c-hodgell/god-stalk",
+            "lynn-flewelling/luck-in-the-shadows"
         ],
         "normal": [
             "j-zachary-pike/orconomics",
@@ -86,7 +87,8 @@
             "rebecca-roanhorse/trail-of-lightning",
             "clifford-d-simak/way-station",
             "p-c-hodgell/god-stalk",
-            "jodi-taylor/just-one-damned-thing-after-another"
+            "jodi-taylor/just-one-damned-thing-after-another",
+            "lynn-flewelling/luck-in-the-shadows"
         ],
         "normal": []
     },
@@ -96,7 +98,8 @@
             "patricia-a-mckillip/the-riddle-master-of-hed",
             "patricia-a-mckillip/heir-of-sea-and-fire",
             "patricia-a-mckillip/harpist-in-the-wind",
-            "peter-s-beagle/the-innkeepers-song"
+            "peter-s-beagle/the-innkeepers-song",
+            "lynn-flewelling/luck-in-the-shadows"
         ],
         "normal": [
             "madeline-miller/the-song-of-achilles"
@@ -115,7 +118,8 @@
     "C1": {
         "hard": [
             "patricia-a-mckillip/harpist-in-the-wind",
-            "sam-hawke/city-of-lies"
+            "sam-hawke/city-of-lies",
+            "lynn-flewelling/luck-in-the-shadows"
         ],
         "normal": [
             "aiden-thomas/cemetery-boys",
@@ -125,11 +129,11 @@
     "C2": {
         "hard": [
             "ilona-andrews/sweep-in-peace",
-            "naomi-kritzer/catfishing-on-catnet"
-        ],
-        "normal": [
+            "naomi-kritzer/catfishing-on-catnet",
+            "lynn-flewelling/luck-in-the-shadows",
             "jodi-taylor/just-one-damned-thing-after-another"
-        ]
+        ],
+        "normal": []
     },
     "C3": {
         "hard": [],
@@ -190,7 +194,8 @@
         "normal": [
             "naomi-kritzer/catfishing-on-catnet",
             "sam-hawke/city-of-lies",
-            "peter-s-beagle/the-innkeepers-song"
+            "peter-s-beagle/the-innkeepers-song",
+            "lynn-flewelling/luck-in-the-shadows"
         ]
     },
     "E1": {
@@ -254,7 +259,8 @@
         "normal": [
             "graydon-saunders/the-march-north",
             "graydon-saunders/a-mist-of-grit-and-splinters",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "lynn-flewelling/luck-in-the-shadows"
         ]
     },
     "hacky": {
@@ -288,7 +294,8 @@
             "v-e-schwab/vicious",
             "clifford-d-simak/way-station",
             "p-c-hodgell/god-stalk",
-            "jodi-taylor/just-one-damned-thing-after-another"
+            "jodi-taylor/just-one-damned-thing-after-another",
+            "lynn-flewelling/luck-in-the-shadows"
         ]
     }
 }

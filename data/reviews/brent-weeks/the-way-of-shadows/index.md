@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: lynn-flewelling/luck-in-the-shadows
+  text: Similar apprenticeship, lower stakes, much better writing.
 - book: brandon-sanderson/the-way-of-kings
   text: Similar in tone, with a much larger scope.
 - book: robin-hobb/assassins-apprentice
