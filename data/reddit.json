@@ -32,7 +32,8 @@
         "normal": [
             "j-zachary-pike/orconomics",
             "graydon-saunders/under-one-banner",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "v-e-schwab/vicious"
         ]
     },
     "A5": {
@@ -97,7 +98,8 @@
     },
     "B5": {
         "hard": [
-            "patricia-a-mckillip/heir-of-sea-and-fire"
+            "patricia-a-mckillip/heir-of-sea-and-fire",
+            "v-e-schwab/vicious"
         ],
         "normal": [
             "k-j-parker/sixteen-ways-to-defend-a-walled-city",
@@ -270,7 +272,8 @@
             "peter-s-beagle/the-innkeepers-song",
             "chana-porter/the-seep",
             "sarah-pinsker/sooner-or-later-everything-falls-into-the-sea",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "v-e-schwab/vicious"
         ]
     }
 }
