@@ -7,7 +7,10 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://books.rixx.de/{{ review.id }}/">
-<meta property="og:title" content="Tobias's review of {{ review.metadata.book.title }}">
+<meta property="og:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
+{% if review.metadata.review.tldr %}
+<meta name="og:description" content="Review: {{ review.metadata.review.tldr }}" />
+{% endif %}
 {% if review.cover_path %}
 <meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/square.jpg"/>
 <meta property="og:image" content="https://books.rixx.de/{{ review.id }}/square.jpg"/>
