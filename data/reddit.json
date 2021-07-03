@@ -90,7 +90,9 @@
             "jodi-taylor/just-one-damned-thing-after-another",
             "lynn-flewelling/luck-in-the-shadows"
         ],
-        "normal": []
+        "normal": [
+            "lindsay-ellis/axioms-end"
+        ]
     },
     "B4": {
         "hard": [
@@ -217,7 +219,8 @@
     "E2": {
         "hard": [
             "chana-porter/the-seep",
-            "clifford-d-simak/way-station"
+            "clifford-d-simak/way-station",
+            "lindsay-ellis/axioms-end"
         ],
         "normal": [
             "arkady-martine/a-desolation-called-peace"
@@ -244,7 +247,8 @@
             "graydon-saunders/the-march-north",
             "j-y-yang/the-black-tides-of-heaven",
             "aiden-thomas/cemetery-boys",
-            "chana-porter/the-seep"
+            "chana-porter/the-seep",
+            "lindsay-ellis/axioms-end"
         ]
     },
     "E5": {
@@ -295,7 +299,8 @@
             "clifford-d-simak/way-station",
             "p-c-hodgell/god-stalk",
             "jodi-taylor/just-one-damned-thing-after-another",
-            "lynn-flewelling/luck-in-the-shadows"
+            "lynn-flewelling/luck-in-the-shadows",
+            "lindsay-ellis/axioms-end"
         ]
     }
 }
