@@ -23,6 +23,8 @@ related_books:
   text: The same feeling of interstellar travel where you have to deal with the peculiarities
     of other races – but at the same time, everybody is used to it, and there
     are practical solutions.
+- book: clifford-d-simak/way-station
+  text: Another galactiv way station.
 - book: ilona-andrews/sweep-in-peace
   text: The next book in the series.
 review:

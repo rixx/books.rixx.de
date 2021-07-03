@@ -80,7 +80,8 @@
             "austin-chant/peter-darling",
             "sam-hawke/city-of-lies",
             "chana-porter/the-seep",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "clifford-d-simak/way-station"
         ],
         "normal": []
     },
@@ -200,7 +201,8 @@
     },
     "E2": {
         "hard": [
-            "chana-porter/the-seep"
+            "chana-porter/the-seep",
+            "clifford-d-simak/way-station"
         ],
         "normal": [
             "arkady-martine/a-desolation-called-peace"
@@ -273,7 +275,8 @@
             "chana-porter/the-seep",
             "sarah-pinsker/sooner-or-later-everything-falls-into-the-sea",
             "rebecca-roanhorse/trail-of-lightning",
-            "v-e-schwab/vicious"
+            "v-e-schwab/vicious",
+            "clifford-d-simak/way-station"
         ]
     }
 }
