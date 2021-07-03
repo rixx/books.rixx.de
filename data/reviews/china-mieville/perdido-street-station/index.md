@@ -24,6 +24,8 @@ related_books:
   text: Similar take on insect-like aliens in a big human/mixed city.
 - book: abbey-mei-otis/sweetheart
   text: More suburban take on insectoid aliens in a mixed city.
+- book: p-c-hodgell/god-stalk
+  text: Similarly weird fantasy city, with more uneven pacing.
 - book: china-mieville/the-scar
   text: The next book in the series.
 - book: china-mieville/embassytown
