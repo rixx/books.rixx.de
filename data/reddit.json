@@ -67,7 +67,8 @@
             "j-y-yang/the-black-tides-of-heaven",
             "aiden-thomas/cemetery-boys",
             "austin-chant/peter-darling",
-            "sam-hawke/city-of-lies"
+            "sam-hawke/city-of-lies",
+            "chana-porter/the-seep"
         ],
         "normal": []
     },
@@ -181,7 +182,9 @@
         ]
     },
     "E2": {
-        "hard": [],
+        "hard": [
+            "chana-porter/the-seep"
+        ],
         "normal": [
             "arkady-martine/a-desolation-called-peace"
         ]
@@ -189,7 +192,8 @@
     "E3": {
         "hard": [
             "aiden-thomas/cemetery-boys",
-            "austin-chant/peter-darling"
+            "austin-chant/peter-darling",
+            "chana-porter/the-seep"
         ],
         "normal": [
             "r-j-barker/the-bone-ships",
@@ -205,7 +209,8 @@
             "j-zachary-pike/orconomics",
             "graydon-saunders/the-march-north",
             "j-y-yang/the-black-tides-of-heaven",
-            "aiden-thomas/cemetery-boys"
+            "aiden-thomas/cemetery-boys",
+            "chana-porter/the-seep"
         ]
     },
     "E5": {
@@ -246,7 +251,8 @@
             "aiden-thomas/cemetery-boys",
             "austin-chant/peter-darling",
             "sam-hawke/city-of-lies",
-            "peter-s-beagle/the-innkeepers-song"
+            "peter-s-beagle/the-innkeepers-song",
+            "chana-porter/the-seep"
         ]
     }
 }
