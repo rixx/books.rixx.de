@@ -22,6 +22,8 @@ book:
 plan:
   date_added: '2018-03-13'
 related_books:
+- book: jodi-taylor/just-one-damned-thing-after-another
+  text: Another time travel institute with academical snark.
 - book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
   text: More medieval time travel.
 - book: emily-st-john-mandel/station-eleven

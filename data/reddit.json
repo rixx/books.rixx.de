@@ -34,7 +34,8 @@
             "j-zachary-pike/orconomics",
             "graydon-saunders/under-one-banner",
             "rebecca-roanhorse/trail-of-lightning",
-            "v-e-schwab/vicious"
+            "v-e-schwab/vicious",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ]
     },
     "A5": {
@@ -53,7 +54,8 @@
             "graydon-saunders/a-succession-of-bad-days",
             "graydon-saunders/under-one-banner",
             "j-y-yang/the-black-tides-of-heaven",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ]
     },
     "B1": {
@@ -83,7 +85,8 @@
             "chana-porter/the-seep",
             "rebecca-roanhorse/trail-of-lightning",
             "clifford-d-simak/way-station",
-            "p-c-hodgell/god-stalk"
+            "p-c-hodgell/god-stalk",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ],
         "normal": []
     },
@@ -124,13 +127,16 @@
             "ilona-andrews/sweep-in-peace",
             "naomi-kritzer/catfishing-on-catnet"
         ],
-        "normal": []
+        "normal": [
+            "jodi-taylor/just-one-damned-thing-after-another"
+        ]
     },
     "C3": {
         "hard": [],
         "normal": [
             "arkady-martine/a-desolation-called-peace",
-            "naomi-kritzer/catfishing-on-catnet"
+            "naomi-kritzer/catfishing-on-catnet",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ]
     },
     "C4": {
@@ -171,7 +177,8 @@
             "ilona-andrews/sweep-in-peace",
             "r-j-barker/the-bone-ships",
             "j-zachary-pike/orconomics",
-            "rebecca-roanhorse/trail-of-lightning"
+            "rebecca-roanhorse/trail-of-lightning",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ]
     },
     "D5": {
@@ -280,7 +287,8 @@
             "rebecca-roanhorse/trail-of-lightning",
             "v-e-schwab/vicious",
             "clifford-d-simak/way-station",
-            "p-c-hodgell/god-stalk"
+            "p-c-hodgell/god-stalk",
+            "jodi-taylor/just-one-damned-thing-after-another"
         ]
     }
 }
