@@ -13,10 +13,14 @@ book:
   publication_year: '2020'
   spine_color: '#c6bea4'
   tags:
+  - alien-aliens
   - scifi
   title: The Seep
 plan:
   date_added: 2021-07-03
+related_books:
+- book: greg-egan/axiomatic
+  text: The setting reminded me of Axiomatic, and I would have loved to see Egan's take on this.
 review:
   date_read:
   - 2021-06-15

@@ -26,6 +26,8 @@ related_books:
   text: If the frequent Kafkaesque stories were your thing.
 - book: c-s-lewis/the-lion-the-witch-and-the-wardrobe
   text: If you want to meet Susan again.
+- book: sarah-pinsker/sooner-or-later-everything-falls-into-the-sea
+  text: Different genre, but I think if you enjoy one collection, you'll enjoy the other too.
 - book: neil-gaiman/m-is-for-magic
   text: More Gaiman short stories.
 - book: neil-gaiman/a-study-in-emerald

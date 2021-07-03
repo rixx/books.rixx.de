@@ -13,6 +13,8 @@ plan:
 related_books:
 - book: rivers-solomon/an-unkindness-of-ghosts
   text: More multi generational spaceships!
+- book: sarah-pinsker/sooner-or-later-everything-falls-into-the-sea
+  text: Also included in this short story collection.
 review:
   date_read:
   - 2018-02-24

@@ -14,6 +14,8 @@ plan:
 related_books:
 - book: j-k-rowling/harry-potter-and-the-prisoner-of-azkaban
   text: Time travellers meeting themselves? Never!
+- book: sarah-pinsker/sooner-or-later-everything-falls-into-the-sea
+  text: Also included in this short story collection.
 review:
   date_read:
   - 2018-02-02
