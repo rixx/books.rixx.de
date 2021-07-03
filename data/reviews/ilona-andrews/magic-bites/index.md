@@ -25,12 +25,14 @@ related_books:
   text: The same, only very dainty and Victorian.
 - book: patricia-briggs/moon-called
   text: The same in trashier.
+- book: toby-barlow/sharp-teeth
+  text: Urban fantasy werewolves, but in an epic poem.
+- book: rebecca-roanhorse/trail-of-lightning
+  text: Same tropes, different setting.
 - book: ilona-andrews/magic-burns
   text: The next book in the series
 - book: ilona-andrews/clean-sweep
   text: Her other urban fantasy series.
-- book: toby-barlow/sharp-teeth
-  text: Urban fantasy werewolves, but in an epic poem.
 review:
   date_read:
   - 2020-06-21

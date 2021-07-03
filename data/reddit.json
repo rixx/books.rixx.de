@@ -1,4 +1,10 @@
 {
+    "A1": {
+        "hard": [
+            "sarah-pinsker/sooner-or-later-everything-falls-into-the-sea"
+        ],
+        "normal": []
+    },
     "A2": {
         "hard": [
             "j-y-yang/the-black-tides-of-heaven"
@@ -7,7 +13,8 @@
     },
     "A3": {
         "hard": [
-            "j-y-yang/the-black-tides-of-heaven"
+            "j-y-yang/the-black-tides-of-heaven",
+            "rebecca-roanhorse/trail-of-lightning"
         ],
         "normal": [
             "patricia-a-mckillip/the-riddle-master-of-hed",
@@ -24,7 +31,8 @@
         ],
         "normal": [
             "j-zachary-pike/orconomics",
-            "graydon-saunders/under-one-banner"
+            "graydon-saunders/under-one-banner",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "A5": {
@@ -42,7 +50,8 @@
             "graydon-saunders/the-march-north",
             "graydon-saunders/a-succession-of-bad-days",
             "graydon-saunders/under-one-banner",
-            "j-y-yang/the-black-tides-of-heaven"
+            "j-y-yang/the-black-tides-of-heaven",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "B1": {
@@ -53,7 +62,8 @@
             "alix-e-harrow/the-ten-thousand-doors-of-january",
             "aiden-thomas/cemetery-boys",
             "j-y-yang/the-black-tides-of-heaven",
-            "austin-chant/peter-darling"
+            "austin-chant/peter-darling",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "B2": {
@@ -68,7 +78,8 @@
             "aiden-thomas/cemetery-boys",
             "austin-chant/peter-darling",
             "sam-hawke/city-of-lies",
-            "chana-porter/the-seep"
+            "chana-porter/the-seep",
+            "rebecca-roanhorse/trail-of-lightning"
         ],
         "normal": []
     },
@@ -89,7 +100,8 @@
             "patricia-a-mckillip/heir-of-sea-and-fire"
         ],
         "normal": [
-            "k-j-parker/sixteen-ways-to-defend-a-walled-city"
+            "k-j-parker/sixteen-ways-to-defend-a-walled-city",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "C1": {
@@ -98,7 +110,8 @@
             "sam-hawke/city-of-lies"
         ],
         "normal": [
-            "aiden-thomas/cemetery-boys"
+            "aiden-thomas/cemetery-boys",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "C2": {
@@ -152,7 +165,8 @@
             "lois-mcmaster-bujold/the-curse-of-chalion",
             "ilona-andrews/sweep-in-peace",
             "r-j-barker/the-bone-ships",
-            "j-zachary-pike/orconomics"
+            "j-zachary-pike/orconomics",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "D5": {
@@ -178,7 +192,8 @@
             "madeline-miller/the-song-of-achilles",
             "graydon-saunders/a-succession-of-bad-days",
             "j-y-yang/the-black-tides-of-heaven",
-            "sam-hawke/city-of-lies"
+            "sam-hawke/city-of-lies",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "E2": {
@@ -224,7 +239,8 @@
         ],
         "normal": [
             "graydon-saunders/the-march-north",
-            "graydon-saunders/a-mist-of-grit-and-splinters"
+            "graydon-saunders/a-mist-of-grit-and-splinters",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     },
     "hacky": {
@@ -252,7 +268,9 @@
             "austin-chant/peter-darling",
             "sam-hawke/city-of-lies",
             "peter-s-beagle/the-innkeepers-song",
-            "chana-porter/the-seep"
+            "chana-porter/the-seep",
+            "sarah-pinsker/sooner-or-later-everything-falls-into-the-sea",
+            "rebecca-roanhorse/trail-of-lightning"
         ]
     }
 }
