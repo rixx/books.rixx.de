@@ -34,4 +34,5 @@ review:
 
 Surface Detail is a true Culture novel. Complicated action, backstabbing actors, different civilisations, matters of
 life, death, and life beyond death, and witty Minds. Well. The beginning was a slow burn (but Culture novels tend to
-have weird pacing), but this was still very enjoyable.
+have weird pacing), but this was still very enjoyable. "Should hell be allowed to exist if it's up to us?" is … quite a
+question.
