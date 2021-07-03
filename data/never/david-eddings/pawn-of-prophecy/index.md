@@ -19,4 +19,7 @@ plan:
   date_added: '2016-10-05'
 ---
 
-Highly recommended, by Pornokitsch ("The Belgariad is my go to series whenever I'm sick") among others
+Highly recommended, by Pornokitsch ("The Belgariad is my go to series whenever I'm sick") among others.
+
+Others mention that the plot is formulaic beyond reason, it's not a good read once you're not a teenager anymore,
+there's a ton of misogyny. Was also in jail for child abuse, and honestly, with so many books to read, why bother.
