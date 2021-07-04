@@ -35,6 +35,26 @@ review:
   tldr: Coming-of-age novel about a trans gay Latinx boy in the US, who fights to
     become a brujo and solve a mystery.  Well-done intersectional queer-by-default
     YA.
+social:
+  mastodon:
+    datetime: 2021-07-04 22:02:24.792183
+    id: '106524111318065794'
+    in_reply_to: '106523755605149124'
+    text: '57/ Cemetery Boys by Aiden Thomas. Coming-of-age novel about a trans gay
+      Latinx boy in the US, who fights to become a brujo and solve a mystery.  Well-done
+      intersectional queer-by-default YA.
+
+      https://books.rixx.de/aiden-thomas/cemetery-boys/ #rixxReads'
+  number: 57
+  twitter:
+    datetime: 2021-07-04 22:02:24.446020
+    id: '1411777432856760322'
+    in_reply_to: '1411754667638464519'
+    text: '57/ Cemetery Boys by Aiden Thomas. Coming-of-age novel about a trans gay
+      Latinx boy in the US, who fights to become a brujo and solve a mystery.  Well-done
+      intersectional queer-by-default YA.
+
+      https://books.rixx.de/aiden-thomas/cemetery-boys/'
 ---
 
 Coming-of-age novel set in an urban fantasy: Yadriel is a Latinx trans boy in the US. His whole family are brujx and

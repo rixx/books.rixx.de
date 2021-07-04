@@ -29,6 +29,24 @@ review:
   did_not_finish: false
   rating: 2
   tldr: Asian-inspired genderfun fantasy. Not compelling to me, but not terrible either.
+social:
+  mastodon:
+    datetime: 2021-07-04 20:31:57.134775
+    id: '106523755605149124'
+    in_reply_to: '106523755223656563'
+    text: '56/ The Black Tides of Heaven by J.Y.  Yang. Asian-inspired genderfun fantasy.
+      Not compelling to me, but not terrible either.
+
+      https://books.rixx.de/j-y-yang/the-black-tides-of-heaven/ #rixxReads'
+  number: 56
+  twitter:
+    datetime: 2021-07-04 20:31:56.747008
+    id: '1411754667638464519'
+    in_reply_to: '1411754643143774210'
+    text: '56/ The Black Tides of Heaven by J.Y.  Yang. Asian-inspired genderfun fantasy.
+      Not compelling to me, but not terrible either.
+
+      https://books.rixx.de/j-y-yang/the-black-tides-of-heaven/'
 ---
 
 Asian-inspired genderfun fantasy. Didn't compel me at all: the plot wasn't as focused as the short length warranted, and

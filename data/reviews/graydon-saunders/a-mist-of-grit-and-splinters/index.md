@@ -24,6 +24,28 @@ review:
   date_read:
   - 2021-06-08
   rating: 2
+  tldr: The latest Commonweal book circles back to mil sci-fi. I still enjoy the book,
+    but it's enjoyment in spite of most of the story.
+social:
+  mastodon:
+    datetime: 2021-07-04 20:31:51.197599
+    id: '106523755223656563'
+    in_reply_to: '106470867148425684'
+    text: '55/ A Mist of Grit and Splinters by Graydon Saunders. The latest Commonweal
+      book circles back to mil sci-fi. I still enjoy the book, but it''s enjoyment
+      in spite of most of the story.
+
+      https://books.rixx.de/graydon-saunders/a-mist-of-grit-and-splinters/ #rixxReads'
+  number: 55
+  twitter:
+    datetime: 2021-07-04 20:31:50.915116
+    id: '1411754643143774210'
+    in_reply_to: '1408369806387171329'
+    text: '55/ A Mist of Grit and Splinters by Graydon Saunders. The latest Commonweal
+      book circles back to mil sci-fi. I still enjoy the book, but it''s enjoyment
+      in spite of most of the story.
+
+      https://books.rixx.de/graydon-saunders/a-mist-of-grit-and-splinters/'
 ---
 
 Saunders goes back to military fiction here, and I didn't find any part of it particularly compelling, apart from the
