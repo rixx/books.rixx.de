@@ -23,6 +23,26 @@ review:
   rating: 2
   tldr: Peter Pan, a trans boy, returns to Neverland to figure things out and finally
     grow up, by the power of Hook's pretty eyes or something.
+social:
+  mastodon:
+    datetime: 2021-07-05 01:52:56.582803
+    id: '106525017792992978'
+    in_reply_to: '106524111318065794'
+    text: '58/ Peter Darling by Austin Chant. Peter Pan, a trans boy, returns to Neverland
+      to figure things out and finally grow up, by the power of Hook''s pretty eyes
+      or something.
+
+      https://books.rixx.de/austin-chant/peter-darling/ #rixxReads'
+  number: 58
+  twitter:
+    datetime: 2021-07-05 01:52:56.071812
+    id: '1411835446921936899'
+    in_reply_to: '1411777432856760322'
+    text: '58/ Peter Darling by Austin Chant. Peter Pan, a trans boy, returns to Neverland
+      to figure things out and finally grow up, by the power of Hook''s pretty eyes
+      or something.
+
+      https://books.rixx.de/austin-chant/peter-darling/'
 ---
 
 Peter Pan returns to Neverland, coming to terms with being a trans boy in bad old England. He starts out as a cruel boy

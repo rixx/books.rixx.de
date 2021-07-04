@@ -24,6 +24,26 @@ review:
   tldr: White-hat assassin siblings have to save the not-king from poison attempts
     and defend the realm. Nice inversion of the shining city into the decadent city
     on a rotting foundation.
+social:
+  mastodon:
+    datetime: 2021-07-05 01:53:03.354226
+    id: '106525018240524528'
+    in_reply_to: '106525017792992978'
+    text: '59/ City of Lies by Sam Hawke. White-hat assassin siblings have to save
+      the not-king from poison attempts and defend the realm. Nice inversion of the
+      shining city into the decadent city on a rotting foundation.
+
+      https://books.rixx.de/sam-hawke/city-of-lies/ #rixxReads'
+  number: 59
+  twitter:
+    datetime: 2021-07-05 01:53:02.932562
+    id: '1411835475560632323'
+    in_reply_to: '1411835446921936899'
+    text: '59/ City of Lies by Sam Hawke. White-hat assassin siblings have to save
+      the not-king from poison attempts and defend the realm. Nice inversion of the
+      shining city into the decadent city on a rotting foundation.
+
+      https://books.rixx.de/sam-hawke/city-of-lies/'
 ---
 
 White-hat assassin siblings have to defend the realm. It's a bit generic. Good parts: the role of the protagonist as
