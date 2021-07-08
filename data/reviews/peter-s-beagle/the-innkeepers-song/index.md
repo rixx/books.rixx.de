@@ -23,7 +23,28 @@ review:
   - 2021-06-14
   did_not_finish: false
   rating: 3
-  tldr: "Reminded me of Princess Bride in places: very solid, always slightly unconventional fantasy, but failed to grip me. Still an enjoyable read, Beagle just can't disappoint."
+  tldr: 'Reminded me of Princess Bride in places: very solid, always slightly unconventional
+    fantasy, but failed to grip me. Still an enjoyable read, Beagle just can''t disappoint.'
+social:
+  mastodon:
+    datetime: 2021-07-08 10:57:06.466384
+    id: '106544144474168526'
+    in_reply_to: '106525018240524528'
+    text: '60/ The Innkeeper''s Song by Peter S. Beagle. Reminded me of Princess Bride
+      in places: very solid, always slightly unconventional fantasy, but failed to
+      grip me. Still an enjoyable read, Beagle just can''t disappoint.
+
+      https://books.rixx.de/peter-s-beagle/the-innkeepers-song/ #rixxReads'
+  number: 60
+  twitter:
+    datetime: 2021-07-08 10:57:06.144352
+    id: '1413059554938605568'
+    in_reply_to: '1411835475560632323'
+    text: '60/ The Innkeeper''s Song by Peter S. Beagle. Reminded me of Princess Bride
+      in places: very solid, always slightly unconventional fantasy, but failed to
+      grip me. Still an enjoyable read, Beagle just can''t disappoint.
+
+      https://books.rixx.de/peter-s-beagle/the-innkeepers-song/'
 ---
 
 Peter S. Beagle is always interesting and never quite conventional. This book starts out with the titular Innkeeper's

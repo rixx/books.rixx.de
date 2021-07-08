@@ -20,13 +20,32 @@ plan:
   date_added: 2021-07-03
 related_books:
 - book: greg-egan/axiomatic
-  text: The setting reminded me of Axiomatic, and I would have loved to see Egan's take on this.
+  text: The setting reminded me of Axiomatic, and I would have loved to see Egan's
+    take on this.
 review:
   date_read:
   - 2021-06-15
   rating: 2
   tldr: Earth gets infected by aliens who give everybody amazing powers at the price
     of turning them into hippies. Slow and underexplored.
+social:
+  mastodon:
+    datetime: 2021-07-08 18:26:17.381412
+    id: '106545910729508977'
+    in_reply_to: '106544144474168526'
+    text: '61/ The Seep by Chana Porter. Earth gets infected by aliens who give everybody
+      amazing powers at the price of turning them into hippies. Slow and underexplored.
+
+      https://books.rixx.de/chana-porter/the-seep/ #rixxReads'
+  number: 61
+  twitter:
+    datetime: 2021-07-08 18:26:17.091657
+    id: '1413172595411886087'
+    in_reply_to: '1413059554938605568'
+    text: '61/ The Seep by Chana Porter. Earth gets infected by aliens who give everybody
+      amazing powers at the price of turning them into hippies. Slow and underexplored.
+
+      https://books.rixx.de/chana-porter/the-seep/'
 ---
 
 Solid ehhhh: The Seep is a short scifi novel(la?) about an alien race that gives humanity nearly unlimited powers,
