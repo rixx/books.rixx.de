@@ -23,13 +23,35 @@ related_books:
 - book: sarah-pinsker/wind-will-rove
   text: Another good story in this book.
 - book: neil-gaiman/fragile-things
-  text: Different genre, but I think if you enjoy one collection, you'll enjoy the other too.
+  text: Different genre, but I think if you enjoy one collection, you'll enjoy the
+    other too.
 review:
   date_read:
   - 2021-06-15
   rating: 3
   tldr: Short story collection - two or three really worked for me, and you can't
     ask more than that from a story collection.
+social:
+  mastodon:
+    datetime: 2021-07-09 12:00:10.436623
+    id: '106550054769441373'
+    in_reply_to: '106545910729508977'
+    text: '62/ Sooner or Later Everything Falls Into the Sea by Sarah Pinsker. Short
+      story collection - two or three really worked for me, and you can''t ask more
+      than that from a story collection.
+
+      https://books.rixx.de/sarah-pinsker/sooner-or-later-everything-falls-into-the-sea/
+      #rixxReads'
+  number: 62
+  twitter:
+    datetime: 2021-07-09 12:00:10.121279
+    id: '1413437813840769027'
+    in_reply_to: '1413172595411886087'
+    text: '62/ Sooner or Later Everything Falls Into the Sea by Sarah Pinsker. Short
+      story collection - two or three really worked for me, and you can''t ask more
+      than that from a story collection.
+
+      https://books.rixx.de/sarah-pinsker/sooner-or-later-everything-falls-into-the-sea/'
 ---
 
 Sarah Pinsker writes excellent short stories. This collection opens with some shorter stories, which I found *too*

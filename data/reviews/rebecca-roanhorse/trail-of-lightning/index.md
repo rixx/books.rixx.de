@@ -29,6 +29,26 @@ review:
   rating: 3
   tldr: Urban fantasy, set on a reservation in post-collapse America. Follows all
     the genre tropes – not bad, just not good either.
+social:
+  mastodon:
+    datetime: 2021-07-09 13:55:09.394709
+    id: '106550506900538907'
+    in_reply_to: '106550054769441373'
+    text: '63/ Trail of Lightning by Rebecca Roanhorse. Urban fantasy, set on a reservation
+      in post-collapse America. Follows all the genre tropes – not bad, just not good
+      either.
+
+      https://books.rixx.de/rebecca-roanhorse/trail-of-lightning/ #rixxReads'
+  number: 63
+  twitter:
+    datetime: 2021-07-09 13:55:09.059362
+    id: '1413466750218342404'
+    in_reply_to: '1413437813840769027'
+    text: '63/ Trail of Lightning by Rebecca Roanhorse. Urban fantasy, set on a reservation
+      in post-collapse America. Follows all the genre tropes – not bad, just not good
+      either.
+
+      https://books.rixx.de/rebecca-roanhorse/trail-of-lightning/'
 ---
 
 Urban fantasy needn't take place in a city, and this is a prime example: it may be a supernatural mystery story taking
