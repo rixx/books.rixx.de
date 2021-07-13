@@ -29,6 +29,26 @@ review:
   tldr: 80s fantasy that is ALL over the place. The good parts are Bas-Lag levels
     of fantasy city building, but the uneven pace and sheer mass of things shoved
     into this book make it hard to enjoy.
+social:
+  mastodon:
+    datetime: 2021-07-13 19:43:07.131718
+    id: '106574524385461245'
+    in_reply_to: '106573538895378381'
+    text: '66/ God Stalk by P.C. Hodgell. 80s fantasy that is ALL over the place.
+      The good parts are Bas-Lag levels of fantasy city building, but the uneven pace
+      and sheer mass of things shoved into this book make it hard to enjoy.
+
+      https://books.rixx.de/p-c-hodgell/god-stalk/ #rixxReads'
+  number: 66
+  twitter:
+    datetime: 2021-07-13 19:43:06.802822
+    id: '1415003869168365568'
+    in_reply_to: '1414940797825425425'
+    text: '66/ God Stalk by P.C. Hodgell. 80s fantasy that is ALL over the place.
+      The good parts are Bas-Lag levels of fantasy city building, but the uneven pace
+      and sheer mass of things shoved into this book make it hard to enjoy.
+
+      https://books.rixx.de/p-c-hodgell/god-stalk/'
 ---
 
 God Stalk is a lot, and I think it's too much. The world is rich and the author glosses over much of it – which is

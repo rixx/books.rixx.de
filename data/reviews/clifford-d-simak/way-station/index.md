@@ -29,6 +29,26 @@ review:
   rating: 3
   tldr: Published in 1963, the story of Earth as one of many way stations in a galactic
     transport network, and also commentary on the Cold War. Aged well.
+social:
+  mastodon:
+    datetime: 2021-07-13 15:32:29.757073
+    id: '106573538895378381'
+    in_reply_to: '106567557082870160'
+    text: '65/ Way Station by Clifford D. Simak. Published in 1963, the story of Earth
+      as one of many way stations in a galactic transport network, and also commentary
+      on the Cold War. Aged well.
+
+      https://books.rixx.de/clifford-d-simak/way-station/ #rixxReads'
+  number: 65
+  twitter:
+    datetime: 2021-07-13 15:32:29.432941
+    id: '1414940797825425425'
+    in_reply_to: '1414557961989591040'
+    text: '65/ Way Station by Clifford D. Simak. Published in 1963, the story of Earth
+      as one of many way stations in a galactic transport network, and also commentary
+      on the Cold War. Aged well.
+
+      https://books.rixx.de/clifford-d-simak/way-station/'
 ---
 
 Rural US portal space travel scifi: Aliens need a portal on earth, to pass through, and they select Enoch as station
