@@ -26,6 +26,24 @@ review:
   rating: 3
   tldr: St Mary masks as a history institute, but does time travel. Very fun popcorn
     read.
+social:
+  mastodon:
+    datetime: 2021-07-14 16:52:40.152797
+    id: '106579516461155476'
+    in_reply_to: '106578111820922584'
+    text: '68/ Just One Damned Thing After Another by Jodi Taylor. St Mary masks as
+      a history institute, but does time travel. Very fun popcorn read.
+
+      https://books.rixx.de/jodi-taylor/just-one-damned-thing-after-another/ #rixxReads'
+  number: 68
+  twitter:
+    datetime: 2021-07-14 16:52:39.871431
+    id: '1415323362193195008'
+    in_reply_to: '1415233465033834500'
+    text: '68/ Just One Damned Thing After Another by Jodi Taylor. St Mary masks as
+      a history institute, but does time travel. Very fun popcorn read.
+
+      https://books.rixx.de/jodi-taylor/just-one-damned-thing-after-another/'
 ---
 
 Time travel comfort food! This book starts out as adult time travel Hogwarts: masking as an institute, St Mary dabbles

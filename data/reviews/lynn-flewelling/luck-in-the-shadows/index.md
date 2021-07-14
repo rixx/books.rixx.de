@@ -32,6 +32,26 @@ review:
   rating: 4
   tldr: Fantasy novel somewhere between "solid" and "excellent". Well-done apprenticeship-to-the-mysterious-spy
     story with vivid characters and a great world.
+social:
+  mastodon:
+    datetime: 2021-07-14 10:55:27.090587
+    id: '106578111820922584'
+    in_reply_to: '106574524385461245'
+    text: '67/ Luck in the Shadows by Lynn Flewelling. Fantasy novel somewhere between
+      "solid" and "excellent". Well-done apprenticeship-to-the-mysterious-spy story
+      with vivid characters and a great world.
+
+      https://books.rixx.de/lynn-flewelling/luck-in-the-shadows/ #rixxReads'
+  number: 67
+  twitter:
+    datetime: 2021-07-14 10:55:26.712362
+    id: '1415233465033834500'
+    in_reply_to: '1415003869168365568'
+    text: '67/ Luck in the Shadows by Lynn Flewelling. Fantasy novel somewhere between
+      "solid" and "excellent". Well-done apprenticeship-to-the-mysterious-spy story
+      with vivid characters and a great world.
+
+      https://books.rixx.de/lynn-flewelling/luck-in-the-shadows/'
 ---
 
 Excellent fantasy – very 90s, and I devoured it in a single Saturday. Teenage boy with no family gets helped out of
