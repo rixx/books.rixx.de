@@ -22,11 +22,29 @@ plan:
   date_added: 2021-07-04
 related_books:
 - book: cory-doctorow/little-brother
-  text: Weird how the unironic hacktivist take can be more readable than the distanced analytic take, but here we are.
+  text: Weird how the unironic hacktivist take can be more readable than the distanced
+    analytic take, but here we are.
 review:
   date_read:
   - 2021-07-03
   rating: 2
+  tldr: Unconvincing first-contact fiction.
+social:
+  mastodon:
+    datetime: 2021-07-22 14:10:40.411712
+    id: '106624177943182040'
+    in_reply_to: '106579516461155476'
+    text: '69/ Axiom''s End by Lindsay  Ellis. Unconvincing first-contact fiction.
+
+      https://books.rixx.de/lindsay-ellis/axioms-end/ #rixxReads'
+  number: 69
+  twitter:
+    datetime: 2021-07-22 14:10:40.000959
+    id: '1418181697015795719'
+    in_reply_to: '1415323362193195008'
+    text: '69/ Axiom''s End by Lindsay  Ellis. Unconvincing first-contact fiction.
+
+      https://books.rixx.de/lindsay-ellis/axioms-end/'
 ---
 
 Unconvincing first-contact fiction. The protagonist is the daughter of quasi-Assange, and lives in poverty due to his
