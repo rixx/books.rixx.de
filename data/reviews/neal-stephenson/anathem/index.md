@@ -27,7 +27,7 @@ related_books:
   text: Pretentious monks nerding out.
 - book: rosemary-kirstein/the-steerswoman
   text: Another order dedicated to finding and keeping knowledge.
-- book: neal-stephenson/anathem
+- book: liu-cixin/the-three-body-problem
   text: Both books talk at least partially about the same thing, though they take
     very different routes in getting there.
 review:
