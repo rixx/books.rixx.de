@@ -26,6 +26,8 @@ related_books:
   text: Similar apprenticeship, higher stakes, worse writing.
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Also focused on heists and hijinks.
+- book: lynn-flewelling/stalking-darkness
+  text: The next book in the series.
 review:
   date_read:
   - 2021-07-02
