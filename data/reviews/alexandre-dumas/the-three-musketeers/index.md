@@ -19,6 +19,8 @@ related_books:
 - book: william-goldman/the-princess-bride
   text: Look, if you enjoy the three musketeers doing musketeer things, you have got
     to enjoy the Princess Bride, too.
+- book: david-drake/with-the-lightnings
+  text: The life of a poor officer and his servant – but in space.
 - book: robert-louis-stevenson/treasure-island
   text: More adventuring, less France.
 - book: alexandre-dumas/the-count-of-monte-cristo

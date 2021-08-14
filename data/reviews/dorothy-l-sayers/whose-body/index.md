@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: lois-mcmaster-bujold/the-warriors-apprentice
   text: Miles Vorkosigan is at least partially based on Lord Peter.
+- book: david-drake/with-the-lightnings
+  text: Two charming, book-loving aristocrats with military history and a clever, ruthless servant, solving mysteries.
 - book: arthur-conan-doyle/sherlock-holmes
   text: Another of the big mystery authors of the time.
 - book: agatha-christie/murder-at-the-vicarage

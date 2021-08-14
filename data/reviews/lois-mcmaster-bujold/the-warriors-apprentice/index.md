@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: terry-pratchett/going-postal
   text: The Discworld take on ambition and momentum. Not nearly as good, though.
+- book: david-drake/with-the-lightnings
+  text: Leary and Vorkosigan are both clever, energetic aristocrats who long to prove their worth and honour in the space military, with a good understanding of duty and responsibility, and charismatic leadership that gets them in as much trouble as it avoids.
 - book: orson-scott-card/enders-game
   text: Genius kids going overboard.
 - book: scott-lynch/the-lies-of-locke-lamora
