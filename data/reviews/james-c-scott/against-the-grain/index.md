@@ -23,6 +23,8 @@ related_books:
   text: Evolution of ideas, in a different context.
 - book: eric-h-cline/1177-b-c-the-year-civilization-collapsed
   text: Slightly later history.
+- book: jane-jacobs/the-economy-of-cities
+  text: These books pair extremely well – their versions of history are extremely compatible, but their implicit value judgement are not.
 review:
   date_read:
   - 2020-10-18
