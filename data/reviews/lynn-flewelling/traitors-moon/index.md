@@ -29,6 +29,8 @@ review:
 related_books:
 - book: diane-duane/the-door-into-fire
   text: Better done inclusive fantasy.
+- book: lynn-flewelling/shadows-return
+  text: The next book in the series.
 - book: lynn-flewelling/stalking-darkness
   text: The previous book in the series.
 - book: lynn-flewelling/luck-in-the-shadows
