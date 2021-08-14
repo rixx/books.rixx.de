@@ -28,6 +28,8 @@ review:
 related_books:
 - book: lynn-flewelling/luck-in-the-shadows
   text: The first book in the series.
+- book: lynn-flewelling/traitors-moon
+  text: The next book in the series.
 ---
 
 Avoiding second-book syndrome, Stalking Darkness is at least as good as [Luck in the

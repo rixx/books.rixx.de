@@ -24,6 +24,8 @@ plan:
 related_books:
 - book: t-kingfisher/clockwork-boys
   text: Both rich worlds with excellent character building.
+- book: lynn-flewelling/traitors-moon
+  text: Also inclusive fantasy.
 - book: diane-duane/the-door-into-shadow
   text: The next book in the series.
 - book: diane-duane/so-you-want-to-be-a-wizard
