@@ -20,12 +20,6 @@ book:
   title: Traitor's Moon
 plan:
   date_added: 2021-08-14
-review:
-  date_read:
-  - 2021-07-18
-  rating: 3
-  tldr: The series continues to be good fantasy, and earnestly inclusive – but it's
-    uneasy about its inclusivity, disappointingly.
 related_books:
 - book: diane-duane/the-door-into-fire
   text: Better done inclusive fantasy.
@@ -35,6 +29,30 @@ related_books:
   text: The previous book in the series.
 - book: lynn-flewelling/luck-in-the-shadows
   text: The first book in the series.
+review:
+  date_read:
+  - 2021-07-18
+  rating: 3
+  tldr: The series continues to be good fantasy, and earnestly inclusive – but it's
+    uneasy about its inclusivity, disappointingly.
+social:
+  mastodon:
+    datetime: 2021-08-15 15:42:52.278937
+    id: '106760435937097740'
+    in_reply_to: '106759934178376533'
+    text: '72/ Traitor''s Moon by Lynn Flewelling. The series continues to be good
+      fantasy, and earnestly inclusive – but it''s uneasy about its inclusivity, disappointingly.
+
+      https://books.rixx.de/lynn-flewelling/traitors-moon/ #rixxReads'
+  number: 72
+  twitter:
+    datetime: 2021-08-15 15:42:51.940167
+    id: '1426902208021422082'
+    in_reply_to: '1426870095834456065'
+    text: '72/ Traitor''s Moon by Lynn Flewelling. The series continues to be good
+      fantasy, and earnestly inclusive – but it''s uneasy about its inclusivity, disappointingly.
+
+      https://books.rixx.de/lynn-flewelling/traitors-moon/'
 ---
 
 Just as with the previous book in the series, I enjoyed the world and the storytelling a lot, but some

@@ -19,19 +19,43 @@ book:
   title: With the Lightnings
 plan:
   date_added: 2021-08-14
+related_books:
+- book: lois-mcmaster-bujold/the-warriors-apprentice
+  text: Leary and Vorkosigan are both clever, energetic aristocrats who long to prove
+    their worth and honour in the space military, with a good understanding of duty
+    and responsibility, and charismatic leadership that gets them in as much trouble
+    as it avoids.
+- book: dorothy-l-sayers/whose-body
+  text: Two charming, book-loving aristocrats with military history and a clever,
+    ruthless servant, solving mysteries.
+- book: alexandre-dumas/the-three-musketeers
+  text: The life of a poor officer and his servant is straight up Dumas.
 review:
   date_read:
   - 2021-07-04
   rating: 4
   tldr: Navy swashbuckling, but in space, with a touch of Lord Peter Wimsey. Lots
     of fun, and only the first part of a long series.
-related_books:
-- book: lois-mcmaster-bujold/the-warriors-apprentice
-  text: Leary and Vorkosigan are both clever, energetic aristocrats who long to prove their worth and honour in the space military, with a good understanding of duty and responsibility, and charismatic leadership that gets them in as much trouble as it avoids.
-- book: dorothy-l-sayers/whose-body
-  text: Two charming, book-loving aristocrats with military history and a clever, ruthless servant, solving mysteries.
-- book: alexandre-dumas/the-three-musketeers
-  text: The life of a poor officer and his servant is straight up Dumas.
+social:
+  mastodon:
+    datetime: 2021-08-14 14:23:14.034964
+    id: '106754460479472503'
+    in_reply_to: '106624177943182040'
+    text: '70/ With the Lightnings by David Drake. Navy swashbuckling, but in space,
+      with a touch of Lord Peter Wimsey. Lots of fun, and only the first part of a
+      long series.
+
+      https://books.rixx.de/david-drake/with-the-lightnings/ #rixxReads'
+  number: 70
+  twitter:
+    datetime: 2021-08-14 14:23:13.711337
+    id: '1426519779343540227'
+    in_reply_to: '1418181697015795719'
+    text: '70/ With the Lightnings by David Drake. Navy swashbuckling, but in space,
+      with a touch of Lord Peter Wimsey. Lots of fun, and only the first part of a
+      long series.
+
+      https://books.rixx.de/david-drake/with-the-lightnings/'
 ---
 
 Being a fan of both the [Vorkosigan Saga](https://books.rixx.de/lois-mcmaster-bujold/shards-of-honour/) and of the [Lord
