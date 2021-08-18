@@ -29,6 +29,24 @@ review:
   rating: 4
   tldr: Excellent, classic book on how cities come to be, neatly paired with a small
     history of invention.
+social:
+  mastodon:
+    datetime: 2021-08-18 22:38:58.482215
+    id: '106779059050680344'
+    in_reply_to: '106768509824140020'
+    text: '74/ The Economy of Cities by Jane Jacobs. Excellent, classic book on how
+      cities come to be, neatly paired with a small history of invention.
+
+      https://books.rixx.de/jane-jacobs/the-economy-of-cities/ #rixxReads'
+  number: 74
+  twitter:
+    datetime: 2021-08-18 22:38:58.081284
+    id: '1428094087442440199'
+    in_reply_to: '1427418937390686216'
+    text: '74/ The Economy of Cities by Jane Jacobs. Excellent, classic book on how
+      cities come to be, neatly paired with a small history of invention.
+
+      https://books.rixx.de/jane-jacobs/the-economy-of-cities/'
 ---
 
 This classic (pub. 1969) on city development was extremely accessible to read, particularly considering the ugh field

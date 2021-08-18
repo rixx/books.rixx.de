@@ -11,14 +11,19 @@ book:
   isbn13: '9780553590081'
   pages: 522
   publication_year: '2008'
+  series: Nightrunner
+  series_position: 4
   spine_color: '#cfb180'
   tags:
   - fantasy
-  title: 'Shadows Return'
-  series: Nightrunner
-  series_position: 4
+  title: Shadows Return
 plan:
   date_added: 2021-08-14
+related_books:
+- book: lynn-flewelling/traitors-moon
+  text: The previous book in the series.
+- book: lynn-flewelling/luck-in-the-shadows
+  text: The first book in the series.
 review:
   date_read:
   - 2021-07-20
@@ -26,11 +31,26 @@ review:
   tldr: This is where I stop reading the Nightrunner series. The protagonists are
     kidnapped by NOT AT ALL ARABS who proceed to torture them for the rest of the
     book, until they escape.
-related_books:
-- book: lynn-flewelling/traitors-moon
-  text: The previous book in the series.
-- book: lynn-flewelling/luck-in-the-shadows
-  text: The first book in the series.
+social:
+  mastodon:
+    datetime: 2021-08-17 01:56:10.029407
+    id: '106768509824140020'
+    in_reply_to: '106760435937097740'
+    text: '73/ Shadows Return by Lynn Flewelling. This is where I stop reading the
+      Nightrunner series. The protagonists are kidnapped by NOT AT ALL ARABS who proceed
+      to torture them for the rest of the book, until they escape.
+
+      https://books.rixx.de/lynn-flewelling/shadows-return/ #rixxReads'
+  number: 73
+  twitter:
+    datetime: 2021-08-17 01:56:09.715194
+    id: '1427418937390686216'
+    in_reply_to: '1426902208021422082'
+    text: '73/ Shadows Return by Lynn Flewelling. This is where I stop reading the
+      Nightrunner series. The protagonists are kidnapped by NOT AT ALL ARABS who proceed
+      to torture them for the rest of the book, until they escape.
+
+      https://books.rixx.de/lynn-flewelling/shadows-return/'
 ---
 
 This is where I stop reading the Nightrunner series. The protagonists are kidnapped after a lengthy exposition part. The
