@@ -11,8 +11,6 @@ book:
   isbn13: '9780898701319'
   pages: 227
   publication_year: '1970'
-  series: 'No One Could Have Known: An Autobiography: The Early Years, 1904-1945'
-  series_position: ''
   spine_color: '#fefefe'
   tags:
   - nonfiction
