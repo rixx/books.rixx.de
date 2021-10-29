@@ -23,6 +23,8 @@ related_books:
   text: These books pair extremely well – their versions of history are extremely
     compatible, but their implicit value judgement are not. My notes are an attempt
     at a summary.
+- book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
+  text: A look at invention in the Middle Ages with a short stint towards antiquity. Confirms many of the points made here in detail.
 review:
   date_read:
   - 2021-07-25

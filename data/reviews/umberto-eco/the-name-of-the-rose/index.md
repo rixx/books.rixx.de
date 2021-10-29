@@ -22,6 +22,8 @@ plan:
 related_books:
 - book: neal-stephenson/anathem
   text: Pretentious monks nerding out.
+- book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
+  text: Outstanding history book covering the middle ages, confirming much found here, and expanding on the church's position towards innovation.
 - book: walter-moers/the-city-of-dreaming-books
   text: Another book for book lovers, though less pretentious. And less medieval.
     And completely different in every way.

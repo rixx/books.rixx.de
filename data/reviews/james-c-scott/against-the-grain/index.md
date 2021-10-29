@@ -25,6 +25,8 @@ related_books:
   text: Slightly later history.
 - book: jane-jacobs/the-economy-of-cities
   text: These books pair extremely well – their versions of history are extremely compatible, but their implicit value judgement are not.
+- book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
+  text: Another history book about new technology. Focused on the Middle Ages, but also great at illustrating how progress can harm people, and how increased legibility often leads to oppression.
 review:
   date_read:
   - 2020-10-18
