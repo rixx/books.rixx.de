@@ -557,10 +557,27 @@ def build_site(**kwargs):
 
     # Render the "want to read" page
 
+    mapped_plans = {tag.slug: {"tag": tag, "books": []} for tag in tags}
+    mapped_plans[None] = {"books": [], "tag": None}
+    for plan in all_plans:
+        book_tags = plan.metadata["book"].get("tags")
+        if book_tags:
+            for tag in book_tags:
+                mapped_plans[tag]["books"].append(plan)
+        else:
+            mapped_plans[None]["books"].append(plan)
+
+    mapped_plans = sorted(
+        list(mapped_plans.values()),
+        key=lambda r: (r["tag"].slug if r["tag"] else "zzz"),
+    )
+    for plan in mapped_plans:
+        plan["books"] = sorted(plan["books"], key=lambda r: r.metadata["book"]["title"])
+
     render(
         "list_to_read.html",
         "to-read/index.html",
-        all_plans=all_plans,
+        mapped_plans=mapped_plans,
         title="Books i want to read",
         active="to-read",
     )

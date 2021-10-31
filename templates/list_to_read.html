@@ -2,25 +2,28 @@
 
 {% block content %}
 
-  <button id="random">Choose random book</button>
-
   <h2>Books I want to read (and why)</h2>
 
-  {% for review in all_plans %}
-  {% include "_book_card.html" %}
+  <p>Tags are pulled semi-automatically from Goodreads, so these lists might be a bit wonky.</p>
+
+  {% for tag in mapped_plans %}
+  {% if tag.books %}
+  <h3>{% if tag.tag %}
+    {% if tag.tag.metadata.title %}
+      {{ tag.tag.metadata.title }}
+    {% else %}
+      {{ tag.tag.slug }}
+    {% endif %}
+  {% else %}
+    Untagged
+  {% endif %}</h3>
+  <details>
+    <summary>Show all {{ tag.books|length }} books</summary>
+    {% for review in tag.books %}
+    {% include "_book_card.html" %}
+    {% endfor %}
+  </details>
+  {% endif %}
   {% endfor %}
 
-  <script>
-    document.querySelector("#random").addEventListener("click", () => {
-      const books = document.querySelectorAll("div.reading")
-      const randomBook = books[Math.floor(Math.random() * books.length)]
-      books.forEach(book => {
-        if (book === randomBook) {
-          book.style.display = "block"
-        } else {
-          book.style.display = "none"
-        }
-      })
-    })
-  </script>
 {% endblock %}
