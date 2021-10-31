@@ -10,19 +10,6 @@
   <link href="https://books.rixx.de/" rel="alternate"/>
   <link href="https://books.rixx.de/feed.atom" rel="self"/>
   {%- for event in events -%}
-    {%- if event.entry_type == "to-read" -%}
-    <entry>
-      <title>{{ event.metadata.book.title }}</title>
-      <link href="https://books.rixx.de/to-read" rel="alternate"/>
-      <id>urn:uuid:{{ event.feed_uuid }}</id>
-      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <content type="html">I want to read {{ event.metadata.book.title }} by {{ event.metadata.book.author }}. {{ event.text | render_markdown | e }}
-        {% if event.metadata.book.source %}
-        &lt;p&gt; The source is available &lt;a href=&quot;{{ event.metadata.book.source }}&quot;&gt;here&lt;/a&gt;.
-        {% endif %}
-    </content>
-    </entry>
-    {%- else -%}
     <entry>
       <title>{{ event.metadata.book.title }}</title>
       <link href="https://books.rixx.de/{{ event.id }}/" rel="alternate"/>
@@ -39,6 +26,5 @@
         {% endif %}
     </content>
     </entry>
-    {%- endif -%}
   {%- endfor -%}
 </feed>

@@ -573,7 +573,7 @@ def build_site(**kwargs):
 
     # Render feeds
     print("📰 Rendering feed pages")
-    render_feed(all_events[:20], "feed.atom", render)
+    render_feed(all_reviews[:20], "feed.atom", render)
     render_feed(all_reviews[:20], "reviews.atom", render)
 
     # Render the front page
