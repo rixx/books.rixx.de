@@ -14,6 +14,11 @@ book:
   series: Temeraire
   series_position: '1'
   spine_color: '#a31f1b'
+  tags:
+  - historical-fiction
+  - fantasy
+  - scifi
+  - ya
   title: His Majesty's Dragon
 plan:
   date_added: '2018-07-21'

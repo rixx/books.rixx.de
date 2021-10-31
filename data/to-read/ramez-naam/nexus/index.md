@@ -10,6 +10,10 @@ book:
   series: Nexus
   series_position: '1'
   spine_color: '#babbc4'
+  tags:
+  - scifi
+  - tech
+  - fantasy
   title: Nexus
 plan:
   date_added: '2018-08-12'

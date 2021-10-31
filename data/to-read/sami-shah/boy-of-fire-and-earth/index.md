@@ -8,6 +8,8 @@ book:
   pages: null
   publication_year: '2016'
   spine_color: '#671e26'
+  tags:
+  - fantasy
   title: Boy of Fire and Earth
 plan:
   date_added: 2020-06-14

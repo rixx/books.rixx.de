@@ -6,6 +6,10 @@ book:
   pages: '224'
   publication_year: '2016'
   spine_color: '#e6652c'
+  tags:
+  - psychology
+  - philosophy
+  - personal-development
   title: 'The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living
     a Good Life'
 plan:

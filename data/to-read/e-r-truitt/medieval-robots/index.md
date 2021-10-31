@@ -12,6 +12,9 @@ book:
   pages: 312
   publication_year: '2015'
   spine_color: '#b79777'
+  tags:
+  - tech
+  - history
   title: Medieval Robots
 plan:
   date_added: 2021-10-31

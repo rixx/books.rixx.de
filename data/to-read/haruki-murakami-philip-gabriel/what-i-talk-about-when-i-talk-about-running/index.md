@@ -8,6 +8,8 @@ book:
   pages: '188'
   publication_year: '2008'
   spine_color: '#b30c08'
+  tags:
+  - nonfiction
   title: What I Talk About When I Talk About Running
 plan:
   date_added: 2020-05-24

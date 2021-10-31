@@ -8,7 +8,11 @@ book:
   pages: '355'
   publication_year: '2015'
   spine_color: '#a4bc48'
-  tags: []
+  tags:
+  - fantasy
+  - scifi
+  - urban-fantasy
+  - historical-fiction
   title: Crooked
 plan:
   date_added: 2020-06-24

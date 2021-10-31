@@ -10,6 +10,11 @@ book:
   series: Hell's Library
   series_position: '1'
   spine_color: '#8c7e72'
+  tags:
+  - scifi
+  - queer
+  - urban-fantasy
+  - fantasy
   title: The Library of the Unwritten
 plan:
   date_added: 2021-10-31

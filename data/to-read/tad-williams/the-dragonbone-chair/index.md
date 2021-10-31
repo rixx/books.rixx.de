@@ -14,6 +14,11 @@ book:
   series: Memory, Sorrow, and Thorn
   series_position: '1'
   spine_color: '#c5bf8f'
+  tags:
+  - ya
+  - scifi
+  - kids
+  - fantasy
   title: The Dragonbone Chair
 plan:
   date_added: '2018-09-15'

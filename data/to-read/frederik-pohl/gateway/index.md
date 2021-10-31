@@ -14,6 +14,9 @@ book:
   series: Heechee Saga
   series_position: '1'
   spine_color: '#d2dfb5'
+  tags:
+  - fantasy
+  - scifi
   title: Gateway
 plan:
   date_added: '2018-08-25'

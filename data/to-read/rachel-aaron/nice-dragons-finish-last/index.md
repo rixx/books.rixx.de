@@ -8,6 +8,12 @@ book:
   series: Heartstrikers
   series_position: '1'
   spine_color: '#695d52'
+  tags:
+  - romance
+  - fantasy
+  - ya
+  - scifi
+  - urban-fantasy
   title: Nice Dragons Finish Last
 plan:
   date_added: '2018-09-15'

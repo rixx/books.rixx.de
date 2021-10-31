@@ -12,6 +12,9 @@ book:
   pages: 208
   publication_year: '1979'
   spine_color: '#94875b'
+  tags:
+  - personal-development
+  - psychology
   title: Impro
 plan:
   date_added: 2021-10-31

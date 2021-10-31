@@ -12,6 +12,9 @@ book:
   pages: 429
   publication_year: '2018'
   spine_color: '#948678'
+  tags:
+  - scifi
+  - fantasy
   title: Sisyphean
 plan:
   date_added: '2018-07-24'

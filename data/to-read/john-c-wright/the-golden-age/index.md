@@ -14,6 +14,10 @@ book:
   series: Golden Age
   series_position: '1'
   spine_color: '#1d3a6f'
+  tags:
+  - philosophy
+  - scifi
+  - fantasy
   title: The Golden Age
 plan:
   date_added: '2018-09-03'

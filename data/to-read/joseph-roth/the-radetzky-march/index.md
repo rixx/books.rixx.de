@@ -12,6 +12,9 @@ book:
   pages: 363
   publication_year: '1932'
   spine_color: '#aa4528'
+  tags:
+  - historical-fiction
+  - german
   title: The Radetzky March
 plan:
   date_added: '2015-04-08'

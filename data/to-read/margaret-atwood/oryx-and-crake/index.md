@@ -14,6 +14,9 @@ book:
   series: MaddAddam
   series_position: '1'
   spine_color: '#584831'
+  tags:
+  - scifi
+  - fantasy
   title: Oryx and Crake
 plan:
   date_added: '2018-07-23'

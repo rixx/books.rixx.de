@@ -12,6 +12,9 @@ book:
   pages: 352
   publication_year: '2019'
   spine_color: '#82827e'
+  tags:
+  - tech
+  - history
   title: Permanent Record
 plan:
   date_added: '2020-01-02'

@@ -10,6 +10,8 @@ book:
   pages: 96
   publication_year: '1979'
   spine_color: '#747d88'
+  tags:
+  - german
   title: Unser Herr Böckelmann
 plan:
   date_added: 2021-10-31

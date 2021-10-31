@@ -10,6 +10,11 @@ book:
   series: Daughter of Smoke & Bone
   series_position: '1'
   spine_color: '#3f7189'
+  tags:
+  - ya
+  - romance
+  - urban-fantasy
+  - fantasy
   title: Daughter of Smoke & Bone
 plan:
   date_added: '2016-06-08'

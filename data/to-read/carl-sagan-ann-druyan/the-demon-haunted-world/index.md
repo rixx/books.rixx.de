@@ -12,6 +12,11 @@ book:
   pages: 459
   publication_year: '1996'
   spine_color: '#c76e48'
+  tags:
+  - philosophy
+  - tech
+  - history
+  - psychology
   title: The Demon-Haunted World
 plan:
   date_added: 2021-10-31

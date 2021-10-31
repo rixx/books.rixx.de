@@ -12,6 +12,8 @@ book:
   pages: 480
   publication_year: '2013'
   spine_color: '#bc9e77'
+  tags:
+  - history
   title: A History of Future Cities
 plan:
   date_added: 2021-10-31

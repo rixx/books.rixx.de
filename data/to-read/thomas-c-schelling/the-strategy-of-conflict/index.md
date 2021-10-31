@@ -12,6 +12,11 @@ book:
   pages: 328
   publication_year: '1960'
   spine_color: '#f4e927'
+  tags:
+  - tech
+  - psychology
+  - philosophy
+  - nonfiction
   title: The Strategy of Conflict
 plan:
   date_added: 2020-06-06

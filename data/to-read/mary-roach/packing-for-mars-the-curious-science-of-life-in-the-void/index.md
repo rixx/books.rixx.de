@@ -12,6 +12,10 @@ book:
   pages: 334
   publication_year: '2010'
   spine_color: '#6d4a42'
+  tags:
+  - tech
+  - scifi
+  - history
   title: 'Packing for Mars: The Curious Science of Life in the Void'
 plan:
   date_added: '2016-05-19'

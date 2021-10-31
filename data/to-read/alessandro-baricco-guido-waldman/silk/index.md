@@ -14,7 +14,9 @@ book:
   series: Silk
   series_position: ''
   spine_color: '#a3946f'
-  tags: []
+  tags:
+  - romance
+  - historical-fiction
   title: Silk
 plan:
   date_added: 2020-06-24

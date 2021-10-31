@@ -14,6 +14,10 @@ book:
   series: Lightbringer
   series_position: '1'
   spine_color: '#89a5c6'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: The Black Prism
 plan:
   date_added: 2021-10-31

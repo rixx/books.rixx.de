@@ -10,6 +10,10 @@ book:
   series: Watership Down
   series_position: '1'
   spine_color: '#f7e367'
+  tags:
+  - ya
+  - kids
+  - fantasy
   title: Watership Down
 plan:
   date_added: '2018-09-30'

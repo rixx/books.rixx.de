@@ -14,6 +14,11 @@ book:
   series: The Checquy Files
   series_position: '2'
   spine_color: '#642a29'
+  tags:
+  - scifi
+  - mystery
+  - urban-fantasy
+  - fantasy
   title: Stiletto
 plan:
   date_added: '2018-09-15'

@@ -12,6 +12,9 @@ book:
   pages: 199
   publication_year: '1968'
   spine_color: '#33531e'
+  tags:
+  - philosophy
+  - scifi
   title: His Master's Voice
 plan:
   date_added: 2020-06-07

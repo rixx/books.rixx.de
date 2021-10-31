@@ -8,6 +8,13 @@ book:
   pages: '336'
   publication_year: '2018'
   spine_color: '#808864'
+  tags:
+  - queer
+  - historical-fiction
+  - fantasy
+  - mystery
+  - time-travel
+  - scifi
   title: The Psychology of Time Travel
 plan:
   date_added: '2019-03-09'

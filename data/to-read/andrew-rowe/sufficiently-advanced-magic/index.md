@@ -7,6 +7,10 @@ book:
   series: Arcane Ascension
   series_position: '1'
   spine_color: '#5e6470'
+  tags:
+  - ya
+  - queer
+  - fantasy
   title: Sufficiently Advanced Magic
 plan:
   date_added: '2018-09-15'

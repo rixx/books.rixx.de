@@ -14,6 +14,8 @@ book:
   series: Skyway
   series_position: '1'
   spine_color: '#d8d0ab'
+  tags:
+  - scifi
   title: Starrigger (Skyway, Book 1)
 plan:
   date_added: 2021-10-31

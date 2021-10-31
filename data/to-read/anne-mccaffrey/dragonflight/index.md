@@ -14,6 +14,12 @@ book:
   series: Dragonriders of Pern
   series_position: '1'
   spine_color: '#1c4cd7'
+  tags:
+  - romance
+  - time-travel
+  - fantasy
+  - ya
+  - scifi
   title: Dragonflight
 plan:
   date_added: '2018-09-15'

@@ -12,6 +12,9 @@ book:
   pages: 464
   publication_year: '2013'
   spine_color: '#625043'
+  tags:
+  - history
+  - historical-fiction
   title: How to Be a Victorian
 plan:
   date_added: 2021-10-31

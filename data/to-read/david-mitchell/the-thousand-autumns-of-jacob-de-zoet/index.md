@@ -8,6 +8,8 @@ book:
   pages: '479'
   publication_year: '2010'
   spine_color: '#87623e'
+  tags:
+  - historical-fiction
   title: The Thousand Autumns of Jacob de Zoet
 plan:
   date_added: '2016-05-11'

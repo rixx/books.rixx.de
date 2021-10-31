@@ -8,6 +8,9 @@ book:
   pages: '140'
   publication_year: '1922'
   spine_color: '#a66f4c'
+  tags:
+  - history
+  - personal-development
   title: My Life And Work
 plan:
   date_added: '2020-02-04'

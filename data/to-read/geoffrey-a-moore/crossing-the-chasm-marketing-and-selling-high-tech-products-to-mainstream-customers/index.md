@@ -12,6 +12,10 @@ book:
   pages: 256
   publication_year: '1991'
   spine_color: '#abc642'
+  tags:
+  - tech
+  - psychology
+  - personal-development
   title: 'Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream
     Customers'
 plan:

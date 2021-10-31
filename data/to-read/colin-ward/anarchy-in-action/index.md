@@ -12,6 +12,9 @@ book:
   pages: 152
   publication_year: '1973'
   spine_color: '#ef382b'
+  tags:
+  - philosophy
+  - nonfiction
   title: Anarchy in Action
 plan:
   date_added: '2017-11-20'

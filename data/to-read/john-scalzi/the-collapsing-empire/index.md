@@ -11,6 +11,9 @@ book:
   series: The Interdependency
   series_position: '1'
   spine_color: '#212444'
+  tags:
+  - scifi
+  - fantasy
   title: The Collapsing Empire
 plan:
   date_added: '2018-08-07'

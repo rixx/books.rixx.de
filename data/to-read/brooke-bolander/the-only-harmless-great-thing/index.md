@@ -12,6 +12,10 @@ book:
   pages: 96
   publication_year: '2018'
   spine_color: '#f3eba8'
+  tags:
+  - fantasy
+  - scifi
+  - historical-fiction
   title: The Only Harmless Great Thing
 plan:
   date_added: '2018-11-22'

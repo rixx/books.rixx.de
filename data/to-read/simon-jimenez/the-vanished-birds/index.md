@@ -12,6 +12,11 @@ book:
   pages: 400
   publication_year: '2020'
   spine_color: '#ab7c50'
+  tags:
+  - scifi
+  - time-travel
+  - queer
+  - fantasy
   title: The Vanished Birds
 plan:
   date_added: '2020-01-03'

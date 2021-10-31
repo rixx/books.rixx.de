@@ -14,6 +14,9 @@ book:
   series: Zones of Thought
   series_position: '2'
   spine_color: '#7f6855'
+  tags:
+  - scifi
+  - fantasy
   title: A Deepness in the Sky
 plan:
   date_added: '2019-03-03'

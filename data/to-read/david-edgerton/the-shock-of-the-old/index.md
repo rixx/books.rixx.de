@@ -14,6 +14,9 @@ book:
   series: 'The Shock of the Old: Technology and Global History Since 1900'
   series_position: ''
   spine_color: '#482816'
+  tags:
+  - tech
+  - history
   title: The Shock of the Old
 plan:
   date_added: 2021-10-31

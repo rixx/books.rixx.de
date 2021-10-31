@@ -12,6 +12,9 @@ book:
   pages: 432
   publication_year: '2017'
   spine_color: '#328595'
+  tags:
+  - tech
+  - scifi
   title: Noumenon
 plan:
   date_added: '2018-07-23'

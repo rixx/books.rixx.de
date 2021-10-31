@@ -8,6 +8,8 @@ book:
   pages: '562'
   publication_year: '2015'
   spine_color: '#ab2f42'
+  tags:
+  - tech
   title: Designing Data-Intensive Applications
 plan:
   date_added: 2021-10-31

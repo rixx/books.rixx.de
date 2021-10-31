@@ -8,6 +8,9 @@ book:
   pages: '224'
   publication_year: '1962'
   spine_color: '#b11420'
+  tags:
+  - history
+  - tech
   title: Medieval Technology and Social Change
 plan:
   date_added: 2021-10-31

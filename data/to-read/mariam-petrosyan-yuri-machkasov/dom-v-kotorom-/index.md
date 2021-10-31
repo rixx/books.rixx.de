@@ -10,6 +10,9 @@ book:
   series: The Gray House
   series_position: ''
   spine_color: '#5c8e83'
+  tags:
+  - ya
+  - fantasy
   title: Дом, в котором...
 plan:
   date_added: 2021-10-31

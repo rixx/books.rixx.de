@@ -12,6 +12,9 @@ book:
   pages: 532
   publication_year: '1847'
   spine_color: '#976246'
+  tags:
+  - historical-fiction
+  - romance
   title: Jane Eyre
 plan:
   date_added: '2015-04-17'

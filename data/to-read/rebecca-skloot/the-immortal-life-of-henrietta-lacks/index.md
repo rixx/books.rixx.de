@@ -12,6 +12,10 @@ book:
   pages: 370
   publication_year: '2010'
   spine_color: '#ed983e'
+  tags:
+  - historical-fiction
+  - tech
+  - history
   title: The Immortal Life of Henrietta Lacks
 plan:
   date_added: '2018-10-06'

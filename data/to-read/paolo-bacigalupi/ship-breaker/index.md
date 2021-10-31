@@ -14,6 +14,10 @@ book:
   series: Ship Breaker
   series_position: '1'
   spine_color: '#776860'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Ship Breaker
 plan:
   date_added: '2016-06-08'

@@ -8,6 +8,10 @@ book:
   series: The Cemetery of Forgotten Books
   series_position: '1'
   spine_color: '#d4c2a2'
+  tags:
+  - historical-fiction
+  - mystery
+  - fantasy
   title: The Shadow of the Wind
 plan:
   date_added: '2018-07-24'

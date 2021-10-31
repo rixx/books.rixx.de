@@ -12,6 +12,11 @@ book:
   pages: 304
   publication_year: '1997'
   spine_color: '#cfc4b7'
+  tags:
+  - ya
+  - scifi
+  - myths-legends
+  - fantasy
   title: Sister Emily's Lightship and Other Stories
 plan:
   date_added: 2021-10-31

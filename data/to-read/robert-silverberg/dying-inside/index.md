@@ -12,6 +12,10 @@ book:
   pages: 256
   publication_year: '1972'
   spine_color: '#d7e6ef'
+  tags:
+  - psychology
+  - scifi
+  - fantasy
   title: Dying Inside
 plan:
   date_added: 2021-10-31

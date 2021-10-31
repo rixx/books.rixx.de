@@ -12,6 +12,9 @@ book:
   pages: 424
   publication_year: '1991'
   spine_color: '#4c6e96'
+  tags:
+  - scifi
+  - fantasy
   title: A Woman of the Iron People
 plan:
   date_added: 2021-10-31

@@ -10,6 +10,9 @@ book:
   series: The Red Queen's War
   series_position: '1'
   spine_color: '#5b7090'
+  tags:
+  - scifi
+  - fantasy
   title: Prince of Fools
 plan:
   date_added: '2019-04-04'

@@ -10,6 +10,11 @@ book:
   series: City of Spires
   series_position: '1'
   spine_color: '#a4927b'
+  tags:
+  - ya
+  - scifi
+  - queer
+  - fantasy
   title: City of Strife
 plan:
   date_added: '2018-09-28'

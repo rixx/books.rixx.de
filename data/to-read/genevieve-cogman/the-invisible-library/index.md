@@ -8,6 +8,12 @@ book:
   series: The Invisible Library
   series_position: '1'
   spine_color: '#b7a12f'
+  tags:
+  - mystery
+  - fantasy
+  - ya
+  - scifi
+  - urban-fantasy
   title: The Invisible Library
 plan:
   date_added: '2019-03-09'

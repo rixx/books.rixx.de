@@ -12,6 +12,10 @@ book:
   pages: 208
   publication_year: '2015'
   spine_color: '#e4873d'
+  tags:
+  - ya
+  - queer
+  - kids
   title: George
 plan:
   date_added: '2016-05-11'

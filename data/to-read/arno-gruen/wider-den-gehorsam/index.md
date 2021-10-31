@@ -5,6 +5,10 @@ book:
   goodreads: '24160407'
   publication_year: '2014'
   spine_color: '#ee3d22'
+  tags:
+  - psychology
+  - philosophy
+  - german
   title: Wider den Gehorsam
 plan:
   date_added: '2019-10-22'

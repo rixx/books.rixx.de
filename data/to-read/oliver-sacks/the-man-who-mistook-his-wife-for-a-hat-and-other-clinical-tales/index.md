@@ -12,6 +12,10 @@ book:
   pages: 243
   publication_year: '1985'
   spine_color: '#ab7b64'
+  tags:
+  - psychology
+  - tech
+  - personal-development
   title: The Man Who Mistook His Wife for a Hat and Other Clinical Tales
 plan:
   date_added: '2016-05-18'

@@ -12,6 +12,10 @@ book:
   pages: 200
   publication_year: '1993'
   spine_color: '#68374c'
+  tags:
+  - ya
+  - urban-fantasy
+  - fantasy
   title: The Books of Magic
 plan:
   date_added: '2015-07-02'

@@ -12,6 +12,10 @@ book:
   pages: 176
   publication_year: '2006'
   spine_color: '#cacbca'
+  tags:
+  - tech
+  - scifi
+  - philosophy
   title: The Metamorphosis of Prime Intellect
 plan:
   date_added: '2018-09-03'

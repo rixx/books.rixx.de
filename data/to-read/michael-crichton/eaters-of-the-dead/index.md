@@ -12,7 +12,11 @@ book:
   pages: 304
   publication_year: '1976'
   spine_color: '#9ba7be'
-  tags: []
+  tags:
+  - fantasy
+  - scifi
+  - myths-legends
+  - historical-fiction
   title: Eaters of the Dead
 plan:
   date_added: 2021-02-17

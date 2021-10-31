@@ -12,6 +12,10 @@ book:
   pages: 198
   publication_year: '2012'
   spine_color: '#957f83'
+  tags:
+  - philosophy
+  - history
+  - nonfiction
   title: Two Cheers for Anarchism
 plan:
   date_added: '2020-01-02'

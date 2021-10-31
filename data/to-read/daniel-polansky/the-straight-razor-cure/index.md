@@ -14,6 +14,11 @@ book:
   series: Low Town
   series_position: '1'
   spine_color: '#e4e4e4'
+  tags:
+  - fantasy
+  - mystery
+  - scifi
+  - urban-fantasy
   title: The Straight Razor Cure
 plan:
   date_added: 2021-10-31

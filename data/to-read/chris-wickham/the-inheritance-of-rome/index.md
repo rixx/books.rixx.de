@@ -10,6 +10,9 @@ book:
   series: 'The Inheritance of Rome: Illuminating the Dark Ages, 400-1000'
   series_position: ''
   spine_color: '#7b7a67'
+  tags:
+  - history
+  - historical-fiction
   title: The Inheritance of Rome
 plan:
   date_added: 2021-10-31

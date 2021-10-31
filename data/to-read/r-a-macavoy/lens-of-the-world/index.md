@@ -14,6 +14,10 @@ book:
   series: Lens of the World
   series_position: '1'
   spine_color: '#0c233f'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Lens of the World
 plan:
   date_added: 2021-10-31

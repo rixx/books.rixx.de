@@ -12,6 +12,10 @@ book:
   pages: 381
   publication_year: '1976'
   spine_color: '#7a4e35'
+  tags:
+  - scifi
+  - time-travel
+  - fantasy
   title: Woman on the Edge of Time
 plan:
   date_added: '2018-12-01'

@@ -9,6 +9,9 @@ book:
   series: 'Witch World Series 1: Estcarp Cycle'
   series_position: '1'
   spine_color: '#b97b51'
+  tags:
+  - fantasy
+  - scifi
   title: Witch World
 plan:
   date_added: '2019-03-09'

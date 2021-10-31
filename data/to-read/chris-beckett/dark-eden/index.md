@@ -10,6 +10,10 @@ book:
   series: Dark Eden
   series_position: '1'
   spine_color: '#691258'
+  tags:
+  - fantasy
+  - ya
+  - scifi
   title: Dark Eden
 plan:
   date_added: '2019-02-07'

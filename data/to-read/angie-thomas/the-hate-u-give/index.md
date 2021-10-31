@@ -12,6 +12,8 @@ book:
   pages: 464
   publication_year: '2017'
   spine_color: '#5f4942'
+  tags:
+  - ya
   title: The Hate U Give
 plan:
   date_added: '2017-11-15'

@@ -14,6 +14,11 @@ book:
   series: Trident Chronicles
   series_position: '1'
   spine_color: '#612f33'
+  tags:
+  - ya
+  - fantasy
+  - scifi
+  - queer
   title: From Under the Mountain
 plan:
   date_added: '2018-09-28'

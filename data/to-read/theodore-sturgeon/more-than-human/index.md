@@ -12,6 +12,9 @@ book:
   pages: 186
   publication_year: '1953'
   spine_color: '#a0492e'
+  tags:
+  - scifi
+  - fantasy
   title: More Than Human
 plan:
   date_added: '2018-09-12'

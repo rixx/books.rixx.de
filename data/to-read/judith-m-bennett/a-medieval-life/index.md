@@ -14,6 +14,9 @@ book:
   series: 'A Medieval Life: Cecilia Penifader of Brigstock, c. 1295-1344'
   series_position: ''
   spine_color: '#c25b3e'
+  tags:
+  - nonfiction
+  - history
   title: A Medieval Life
 plan:
   date_added: 2021-10-31

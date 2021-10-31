@@ -12,6 +12,12 @@ book:
   pages: 384
   publication_year: '2003'
   spine_color: '#b59a6d'
+  tags:
+  - psychology
+  - history
+  - tech
+  - philosophy
+  - nonfiction
   title: 'Soul Made Flesh: The Discovery of the Brain--and How it Changed the World'
 plan:
   date_added: '2020-03-08'

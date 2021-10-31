@@ -14,6 +14,9 @@ book:
   series: The Last Policeman
   series_position: '1'
   spine_color: '#865144'
+  tags:
+  - scifi
+  - mystery
   title: The Last Policeman
 plan:
   date_added: '2018-08-27'

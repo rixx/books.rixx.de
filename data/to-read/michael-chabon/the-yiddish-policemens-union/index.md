@@ -12,6 +12,10 @@ book:
   pages: 432
   publication_year: '2007'
   spine_color: '#b5502f'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: The Yiddish Policemen's Union
 plan:
   date_added: '2017-02-01'

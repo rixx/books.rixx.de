@@ -12,6 +12,10 @@ book:
   pages: 288
   publication_year: '2015'
   spine_color: '#aa8f78'
+  tags:
+  - scifi
+  - history
+  - fantasy
   title: Radiomen
 plan:
   date_added: '2018-09-03'

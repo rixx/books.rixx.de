@@ -12,6 +12,9 @@ book:
   series: The People
   series_position: ''
   spine_color: '#939080'
+  tags:
+  - fantasy
+  - scifi
   title: Pilgrimage
 plan:
   date_added: 2021-10-31

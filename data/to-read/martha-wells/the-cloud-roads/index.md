@@ -14,6 +14,10 @@ book:
   series: Books of the Raksura
   series_position: '1'
   spine_color: '#b2912f'
+  tags:
+  - scifi
+  - romance
+  - fantasy
   title: The Cloud Roads
 plan:
   date_added: '2019-05-10'

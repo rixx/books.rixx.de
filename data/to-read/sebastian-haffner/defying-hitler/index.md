@@ -12,6 +12,9 @@ book:
   pages: 309
   publication_year: '2000'
   spine_color: '#b7743c'
+  tags:
+  - german
+  - history
   title: Defying Hitler
 plan:
   date_added: '2018-08-19'

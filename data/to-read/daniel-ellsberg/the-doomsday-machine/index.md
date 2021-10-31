@@ -12,6 +12,9 @@ book:
   pages: 420
   publication_year: '2017'
   spine_color: '#825559'
+  tags:
+  - tech
+  - history
   title: The Doomsday Machine
 plan:
   date_added: 2021-10-31

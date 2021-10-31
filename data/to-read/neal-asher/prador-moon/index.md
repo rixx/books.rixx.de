@@ -10,6 +10,9 @@ book:
   series: Polity Universe
   series_position: '1'
   spine_color: '#63849d'
+  tags:
+  - fantasy
+  - scifi
   title: Prador Moon
 plan:
   date_added: '2018-08-25'

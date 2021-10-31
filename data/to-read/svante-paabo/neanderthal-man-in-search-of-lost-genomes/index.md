@@ -12,6 +12,10 @@ book:
   pages: 288
   publication_year: '2014'
   spine_color: '#e6d5a9'
+  tags:
+  - nonfiction
+  - tech
+  - history
   title: 'Neanderthal Man: In Search of Lost Genomes'
 plan:
   date_added: '2018-09-28'

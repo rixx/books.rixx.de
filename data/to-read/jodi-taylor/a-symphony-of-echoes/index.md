@@ -12,6 +12,11 @@ book:
   series: The Chronicles of St. Mary's
   series_position: '2'
   spine_color: '#33a2cd'
+  tags:
+  - scifi
+  - time-travel
+  - historical-fiction
+  - fantasy
   title: A Symphony of Echoes
 plan:
   date_added: 2021-10-31

@@ -12,6 +12,10 @@ book:
   pages: 256
   publication_year: '2005'
   spine_color: '#471f18'
+  tags:
+  - nonfiction
+  - philosophy
+  - history
   title: On Anarchism
 plan:
   date_added: '2017-11-20'

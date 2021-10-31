@@ -14,6 +14,8 @@ book:
   series: 'Thinking in Jazz: The Infinite Art of Improvisation'
   series_position: ''
   spine_color: '#8c7668'
+  tags:
+  - nonfiction
   title: Thinking in Jazz
 plan:
   date_added: 2021-10-31

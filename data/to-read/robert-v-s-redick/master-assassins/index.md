@@ -8,6 +8,9 @@ book:
   series: The Fire Sacraments
   series_position: '1'
   spine_color: '#99725b'
+  tags:
+  - fantasy
+  - scifi
   title: Master Assassins
 plan:
   date_added: '2018-11-05'

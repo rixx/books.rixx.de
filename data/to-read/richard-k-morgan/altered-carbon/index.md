@@ -9,6 +9,10 @@ book:
   series: Takeshi Kovacs
   series_position: '1'
   spine_color: '#dbd0b0'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: Altered Carbon
 plan:
   date_added: '2016-06-08'

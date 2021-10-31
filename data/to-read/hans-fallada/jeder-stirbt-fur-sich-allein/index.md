@@ -11,6 +11,10 @@ book:
   pages: 704
   publication_year: '1947'
   spine_color: '#7f8fa5'
+  tags:
+  - historical-fiction
+  - history
+  - german
   title: Jeder stirbt für sich allein
 plan:
   date_added: '2018-07-24'

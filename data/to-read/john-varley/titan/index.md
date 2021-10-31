@@ -8,6 +8,10 @@ book:
   series: Gaea
   series_position: '1'
   spine_color: '#228e38'
+  tags:
+  - queer
+  - scifi
+  - fantasy
   title: Titan
 plan:
   date_added: '2018-11-01'

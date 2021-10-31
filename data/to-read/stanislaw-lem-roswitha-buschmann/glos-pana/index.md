@@ -12,6 +12,9 @@ book:
   series: Werke in Einzelausgaben / Stanisław Lem
   series_position: ''
   spine_color: '#dad2bf'
+  tags:
+  - scifi
+  - philosophy
   title: Głos Pana
 plan:
   date_added: 2021-10-31

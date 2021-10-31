@@ -14,6 +14,10 @@ book:
   series: Dragonlord
   series_position: '1'
   spine_color: '#e8be6a'
+  tags:
+  - romance
+  - scifi
+  - fantasy
   title: The Last Dragonlord
 plan:
   date_added: '2018-09-28'

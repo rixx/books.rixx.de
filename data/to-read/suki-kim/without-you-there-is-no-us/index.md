@@ -15,6 +15,8 @@ book:
     Korea’s elite'
   series_position: ''
   spine_color: '#951611'
+  tags:
+  - history
   title: Without You, There Is No Us
 plan:
   date_added: 2021-10-31

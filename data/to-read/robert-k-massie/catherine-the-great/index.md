@@ -12,6 +12,9 @@ book:
   pages: 625
   publication_year: '2011'
   spine_color: '#a98a6e'
+  tags:
+  - historical-fiction
+  - history
   title: Catherine the Great
 plan:
   date_added: 2021-10-31

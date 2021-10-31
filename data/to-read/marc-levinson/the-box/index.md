@@ -8,6 +8,9 @@ book:
   pages: '376'
   publication_year: '2006'
   spine_color: '#325987'
+  tags:
+  - tech
+  - history
   title: The Box
 plan:
   date_added: 2020-06-14

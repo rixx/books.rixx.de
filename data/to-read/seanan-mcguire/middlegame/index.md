@@ -6,6 +6,11 @@ book:
   pages: '528'
   publication_year: '2019'
   spine_color: '#817d79'
+  tags:
+  - fantasy
+  - scifi
+  - urban-fantasy
+  - time-travel
   title: Middlegame
 plan:
   date_added: '2019-09-26'

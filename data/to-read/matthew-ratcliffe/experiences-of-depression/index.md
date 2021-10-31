@@ -12,6 +12,9 @@ book:
   pages: 336
   publication_year: '2014'
   spine_color: '#ee9e38'
+  tags:
+  - philosophy
+  - psychology
   title: Experiences of Depression
 plan:
   date_added: 2021-10-31

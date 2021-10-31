@@ -14,6 +14,11 @@ book:
   series: Nightside
   series_position: '1'
   spine_color: '#d2bf6c'
+  tags:
+  - mystery
+  - urban-fantasy
+  - scifi
+  - fantasy
   title: Something from the Nightside
 plan:
   date_added: '2018-10-02'

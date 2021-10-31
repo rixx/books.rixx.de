@@ -14,6 +14,10 @@ book:
   series: Tao
   series_position: '1'
   spine_color: '#f5cc11'
+  tags:
+  - scifi
+  - urban-fantasy
+  - fantasy
   title: The Lives of Tao
 plan:
   date_added: '2018-08-27'

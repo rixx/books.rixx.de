@@ -14,6 +14,10 @@ book:
   series: The Tamír Triad
   series_position: '1'
   spine_color: '#d4bfa4'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: The Bone Doll's Twin
 plan:
   date_added: '2018-09-15'

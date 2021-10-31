@@ -12,6 +12,10 @@ book:
   pages: 234
   publication_year: '1996'
   spine_color: '#796058'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: The Tough Guide to Fantasyland
 plan:
   date_added: '2018-07-04'

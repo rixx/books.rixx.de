@@ -12,6 +12,9 @@ book:
   pages: 192
   publication_year: '1992'
   spine_color: '#9d7764'
+  tags:
+  - romance
+  - queer
   title: Written on the Body
 plan:
   date_added: 2020-06-07

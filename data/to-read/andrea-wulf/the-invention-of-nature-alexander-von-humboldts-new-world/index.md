@@ -12,6 +12,10 @@ book:
   pages: 473
   publication_year: '2015'
   spine_color: '#695748'
+  tags:
+  - tech
+  - history
+  - nonfiction
   title: 'The Invention of Nature: Alexander von Humboldt''s New World'
 plan:
   date_added: '2018-08-19'

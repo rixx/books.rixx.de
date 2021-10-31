@@ -10,6 +10,10 @@ book:
   series: Arcane America
   series_position: '1'
   spine_color: '#aa9988'
+  tags:
+  - fantasy
+  - scifi
+  - historical-fiction
   title: Uncharted
 plan:
   date_added: '2018-09-05'

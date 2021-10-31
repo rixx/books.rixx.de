@@ -12,6 +12,9 @@ book:
   pages: 228
   publication_year: '1951'
   spine_color: '#67b562'
+  tags:
+  - scifi
+  - fantasy
   title: The Day of the Triffids
 plan:
   date_added: '2019-01-17'

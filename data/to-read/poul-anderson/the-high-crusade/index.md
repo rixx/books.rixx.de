@@ -12,6 +12,10 @@ book:
   pages: 181
   publication_year: '1960'
   spine_color: '#b8bad0'
+  tags:
+  - fantasy
+  - scifi
+  - historical-fiction
   title: The High Crusade
 plan:
   date_added: '2018-09-12'

@@ -14,6 +14,10 @@ book:
   series: Spin
   series_position: '1'
   spine_color: '#5a5f68'
+  tags:
+  - scifi
+  - time-travel
+  - fantasy
   title: Spin
 plan:
   date_added: '2018-08-28'

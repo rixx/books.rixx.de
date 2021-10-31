@@ -10,6 +10,10 @@ book:
   series: The Sun Chronicles
   series_position: '1'
   spine_color: '#5d8084'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: Unconquerable Sun
 plan:
   date_added: 2021-10-31

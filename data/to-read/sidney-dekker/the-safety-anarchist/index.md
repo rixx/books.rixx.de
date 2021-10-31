@@ -8,6 +8,8 @@ book:
   pages: null
   publication_year: null
   spine_color: '#e3b734'
+  tags:
+  - personal-development
   title: The Safety Anarchist
 plan:
   date_added: 2021-10-31

@@ -8,6 +8,8 @@ book:
   pages: '416'
   publication_year: '2018'
   spine_color: '#8483a1'
+  tags:
+  - scifi
   title: Theory of Bastards
 plan:
   date_added: '2019-02-04'

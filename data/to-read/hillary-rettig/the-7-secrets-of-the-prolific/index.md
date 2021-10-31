@@ -8,6 +8,8 @@ book:
   pages: '188'
   publication_year: '2011'
   spine_color: '#ebd791'
+  tags:
+  - personal-development
   title: The 7 Secrets of the Prolific
 plan:
   date_added: 2020-06-07

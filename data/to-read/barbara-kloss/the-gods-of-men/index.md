@@ -7,6 +7,11 @@ book:
   series: Gods of Men
   series_position: '1'
   spine_color: '#5f7d93'
+  tags:
+  - fantasy
+  - ya
+  - scifi
+  - romance
   title: The Gods of Men
 plan:
   date_added: '2018-12-10'

@@ -14,6 +14,8 @@ book:
   series: The Centenal Cycle
   series_position: '1'
   spine_color: '#2fa9ba'
+  tags:
+  - scifi
   title: Infomocracy
 plan:
   date_added: '2018-09-22'

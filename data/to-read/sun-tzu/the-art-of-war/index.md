@@ -12,6 +12,10 @@ book:
   pages: 273
   publication_year: '-500'
   spine_color: '#cab89d'
+  tags:
+  - personal-development
+  - philosophy
+  - history
   title: The Art of War
 plan:
   date_added: '2018-08-13'

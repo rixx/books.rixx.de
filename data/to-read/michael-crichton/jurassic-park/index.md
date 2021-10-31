@@ -14,6 +14,9 @@ book:
   series: Jurassic Park
   series_position: '1'
   spine_color: '#907d6d'
+  tags:
+  - fantasy
+  - scifi
   title: Jurassic Park
 plan:
   date_added: '2017-11-15'

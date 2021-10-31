@@ -10,6 +10,10 @@ book:
   series: ®Evolution
   series_position: '1'
   spine_color: '#6c1a1d'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Gemsigns
 plan:
   date_added: '2019-03-09'

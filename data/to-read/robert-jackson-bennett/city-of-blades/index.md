@@ -12,6 +12,11 @@ book:
   series: The Divine Cities
   series_position: '2'
   spine_color: '#949075'
+  tags:
+  - mystery
+  - fantasy
+  - scifi
+  - urban-fantasy
   title: City of Blades
 plan:
   date_added: '2020-05-07'

@@ -12,6 +12,10 @@ book:
   pages: 384
   publication_year: '2010'
   spine_color: '#a53526'
+  tags:
+  - psychology
+  - tech
+  - personal-development
   title: In an Unspoken Voice
 plan:
   date_added: 2021-10-31

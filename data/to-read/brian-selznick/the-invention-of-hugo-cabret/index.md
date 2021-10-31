@@ -12,6 +12,12 @@ book:
   pages: 533
   publication_year: '2007'
   spine_color: '#127bb5'
+  tags:
+  - mystery
+  - kids
+  - fantasy
+  - ya
+  - historical-fiction
   title: The Invention of Hugo Cabret
 plan:
   date_added: '2016-05-19'

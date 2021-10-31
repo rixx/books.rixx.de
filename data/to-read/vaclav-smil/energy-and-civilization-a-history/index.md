@@ -12,6 +12,10 @@ book:
   pages: 568
   publication_year: '2017'
   spine_color: '#a18e71'
+  tags:
+  - nonfiction
+  - tech
+  - history
   title: 'Energy and Civilization: A History'
 plan:
   date_added: '2018-08-07'

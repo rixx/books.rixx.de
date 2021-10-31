@@ -12,6 +12,9 @@ book:
   pages: 336
   publication_year: '2005'
   spine_color: '#b9ab60'
+  tags:
+  - tech
+  - psychology
   title: 'Freakonomics: A Rogue Economist Explores the Hidden Side of Everything'
 plan:
   date_added: '2018-08-20'

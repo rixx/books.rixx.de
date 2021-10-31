@@ -12,6 +12,12 @@ book:
   pages: 336
   publication_year: '1987'
   spine_color: '#db882c'
+  tags:
+  - ya
+  - romance
+  - urban-fantasy
+  - fantasy
+  - scifi
   title: War for the Oaks
 plan:
   date_added: '2018-09-12'

@@ -12,6 +12,10 @@ book:
   pages: 351
   publication_year: '2012'
   spine_color: '#aaa7a7'
+  tags:
+  - scifi
+  - tech
+  - fantasy
   title: The Rapture of the Nerds
 plan:
   date_added: '2016-05-07'

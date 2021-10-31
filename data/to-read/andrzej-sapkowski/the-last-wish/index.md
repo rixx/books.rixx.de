@@ -8,6 +8,8 @@ book:
   series: The Witcher
   series_position: '0.5'
   spine_color: '#b23b2c'
+  tags:
+  - fantasy
   title: The Last Wish
 plan:
   date_added: '2018-09-15'

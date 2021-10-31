@@ -10,6 +10,12 @@ book:
   series: Whyborne & Griffin
   series_position: '1'
   spine_color: '#a79591'
+  tags:
+  - romance
+  - mystery
+  - queer
+  - fantasy
+  - historical-fiction
   title: Widdershins
 plan:
   date_added: 2021-10-31

@@ -14,6 +14,8 @@ book:
   series: 'Eat and Run: My Unlikely Journey to Ultramarathon Greatness'
   series_position: ''
   spine_color: '#596fad'
+  tags:
+  - nonfiction
   title: Eat and Run
 plan:
   date_added: 2021-10-31

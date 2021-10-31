@@ -8,6 +8,11 @@ book:
   series: Planetfall
   series_position: '1'
   spine_color: '#b3353c'
+  tags:
+  - scifi
+  - mystery
+  - queer
+  - fantasy
   title: Planetfall
 plan:
   date_added: '2019-03-09'

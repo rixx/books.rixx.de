@@ -5,6 +5,9 @@ book:
   goodreads: '9498065'
   publication_year: '1990'
   spine_color: '#5f687d'
+  tags:
+  - fantasy
+  - scifi
   title: The Madness Season
 plan:
   date_added: '2016-05-11'

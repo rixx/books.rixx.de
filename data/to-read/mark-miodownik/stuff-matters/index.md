@@ -12,6 +12,10 @@ book:
   pages: 272
   publication_year: '2013'
   spine_color: '#b4b273'
+  tags:
+  - tech
+  - history
+  - nonfiction
   title: Stuff Matters
 plan:
   date_added: '2020-03-08'

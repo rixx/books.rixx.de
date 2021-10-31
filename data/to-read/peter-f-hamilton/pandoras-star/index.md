@@ -8,6 +8,9 @@ book:
   pages: '768'
   publication_year: '2004'
   spine_color: '#6e86c7'
+  tags:
+  - scifi
+  - fantasy
   title: Pandora's Star
 plan:
   date_added: '2018-03-07'

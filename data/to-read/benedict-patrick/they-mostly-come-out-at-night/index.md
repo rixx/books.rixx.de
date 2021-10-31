@@ -8,6 +8,9 @@ book:
   series: Yarnsworld
   series_position: '1'
   spine_color: '#c8c293'
+  tags:
+  - myths-legends
+  - fantasy
   title: They Mostly Come Out at Night
 plan:
   date_added: '2018-09-21'

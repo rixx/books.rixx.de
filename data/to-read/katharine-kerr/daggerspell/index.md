@@ -14,6 +14,10 @@ book:
   series: Deverry
   series_position: '1'
   spine_color: '#dfbe54'
+  tags:
+  - scifi
+  - romance
+  - fantasy
   title: Daggerspell
 plan:
   date_added: '2018-09-28'

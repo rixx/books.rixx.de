@@ -12,6 +12,11 @@ book:
   series: The Chronicles of Master Li and Number Ten Ox
   series_position: '1'
   spine_color: '#efecb1'
+  tags:
+  - historical-fiction
+  - mystery
+  - scifi
+  - fantasy
   title: Bridge of Birds
 plan:
   date_added: '2018-08-28'

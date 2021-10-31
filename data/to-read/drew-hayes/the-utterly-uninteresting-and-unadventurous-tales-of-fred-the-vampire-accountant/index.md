@@ -10,7 +10,9 @@ book:
   series: Fred, the Vampire Accountant
   series_position: 1
   spine_color: '#867869'
-  tags: []
+  tags:
+  - urban-fantasy
+  - fantasy
   title: The Utterly Uninteresting and Unadventurous Tales of Fred, the Vampire Accountant
 plan:
   date_added: 2020-06-25

@@ -10,6 +10,10 @@ book:
   series: Embers of War
   series_position: '1'
   spine_color: '#d7b799'
+  tags:
+  - scifi
+  - tech
+  - fantasy
   title: Embers of War
 plan:
   date_added: '2019-02-04'

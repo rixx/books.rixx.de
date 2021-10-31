@@ -14,6 +14,9 @@ book:
   series: Mr. Penumbra's 24-Hour Bookstore
   series_position: '1'
   spine_color: '#f7ea29'
+  tags:
+  - mystery
+  - fantasy
   title: Mr. Penumbra's 24-Hour Bookstore
 plan:
   date_added: '2018-03-19'

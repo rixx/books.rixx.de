@@ -12,6 +12,10 @@ book:
   pages: 896
   publication_year: '2004'
   spine_color: '#6278a7'
+  tags:
+  - fantasy
+  - mystery
+  - scifi
   title: The Swarm
 plan:
   date_added: '2016-12-01'

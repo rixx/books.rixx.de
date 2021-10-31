@@ -8,6 +8,10 @@ book:
   pages: '410'
   publication_year: '2014'
   spine_color: '#7b819b'
+  tags:
+  - tech
+  - history
+  - historical-fiction
   title: 'In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the USS Jeannette'
 plan:
   date_added: '2016-05-11'

@@ -14,6 +14,11 @@ book:
   series: Inda
   series_position: '1'
   spine_color: '#efc798'
+  tags:
+  - ya
+  - fantasy
+  - scifi
+  - queer
   title: Inda
 plan:
   date_added: '2018-09-15'

@@ -12,6 +12,9 @@ book:
   pages: 320
   publication_year: '2012'
   spine_color: '#328299'
+  tags:
+  - mystery
+  - scifi
   title: Blackout
 plan:
   date_added: '2018-02-13'

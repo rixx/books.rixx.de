@@ -14,7 +14,8 @@ book:
   series: Lonesome Dove
   series_position: '1'
   spine_color: '#e6c47d'
-  tags: []
+  tags:
+  - historical-fiction
   title: Lonesome Dove
 plan:
   date_added: 2021-02-17

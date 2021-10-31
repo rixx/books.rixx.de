@@ -12,6 +12,9 @@ book:
   pages: 304
   publication_year: '1993'
   spine_color: '#2d2036'
+  tags:
+  - tech
+  - psychology
   title: Things That Make Us Smart
 plan:
   date_added: '2019-10-06'

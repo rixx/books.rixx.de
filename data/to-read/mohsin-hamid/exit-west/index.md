@@ -12,6 +12,9 @@ book:
   pages: 231
   publication_year: '2017'
   spine_color: '#5795c8'
+  tags:
+  - fantasy
+  - romance
   title: Exit West
 plan:
   date_added: '2018-08-15'

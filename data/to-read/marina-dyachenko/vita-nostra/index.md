@@ -5,6 +5,10 @@ book:
   goodreads: '16159259'
   publication_year: '2007'
   spine_color: '#304d7d'
+  tags:
+  - urban-fantasy
+  - scifi
+  - fantasy
   title: Vita Nostra
 plan:
   date_added: '2018-09-11'

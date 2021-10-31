@@ -14,6 +14,11 @@ book:
   series: The Golem and the Jinni
   series_position: '1'
   spine_color: '#a26e49'
+  tags:
+  - historical-fiction
+  - urban-fantasy
+  - myths-legends
+  - fantasy
   title: The Golem and the Jinni
 plan:
   date_added: '2018-08-20'

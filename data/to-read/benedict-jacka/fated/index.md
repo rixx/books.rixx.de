@@ -14,6 +14,11 @@ book:
   series: Alex Verus
   series_position: '1'
   spine_color: '#bf5d28'
+  tags:
+  - scifi
+  - mystery
+  - urban-fantasy
+  - fantasy
   title: Fated
 plan:
   date_added: '2018-10-07'

@@ -10,6 +10,10 @@ book:
   series: The Winnowing Flame Trilogy
   series_position: '1'
   spine_color: '#6a728e'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: The Ninth Rain
 plan:
   date_added: '2018-11-03'

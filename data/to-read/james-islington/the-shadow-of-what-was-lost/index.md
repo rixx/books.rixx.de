@@ -10,6 +10,9 @@ book:
   series: The Licanius Trilogy
   series_position: '1'
   spine_color: '#da9a59'
+  tags:
+  - scifi
+  - fantasy
   title: The Shadow of What Was Lost
 plan:
   date_added: '2018-09-15'

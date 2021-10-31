@@ -8,6 +8,9 @@ book:
   pages: '288'
   publication_year: '1966'
   spine_color: '#b4422c'
+  tags:
+  - scifi
+  - fantasy
   title: The Moon is a Harsh Mistress
 plan:
   date_added: '2018-03-13'

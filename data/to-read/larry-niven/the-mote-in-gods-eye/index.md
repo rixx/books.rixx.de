@@ -10,6 +10,9 @@ book:
   series: Moties
   series_position: '1'
   spine_color: '#4bd1e0'
+  tags:
+  - scifi
+  - fantasy
   title: The Mote in God's Eye
 plan:
   date_added: '2018-09-12'

@@ -10,6 +10,11 @@ book:
   series: Lockwood & Co.
   series_position: '1'
   spine_color: '#376c8e'
+  tags:
+  - fantasy
+  - ya
+  - mystery
+  - kids
   title: The Screaming Staircase
 plan:
   date_added: '2017-11-21'

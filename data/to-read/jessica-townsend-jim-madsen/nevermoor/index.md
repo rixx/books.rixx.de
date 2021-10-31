@@ -14,6 +14,11 @@ book:
   series: Nevermoor
   series_position: '1'
   spine_color: '#caccb1'
+  tags:
+  - kids
+  - mystery
+  - ya
+  - fantasy
   title: Nevermoor
 plan:
   date_added: 2021-10-31

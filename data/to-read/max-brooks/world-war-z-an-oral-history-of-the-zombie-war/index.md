@@ -12,6 +12,9 @@ book:
   pages: 342
   publication_year: '2006'
   spine_color: '#c76f38'
+  tags:
+  - scifi
+  - fantasy
   title: 'World War Z: An Oral History of the Zombie War'
 plan:
   date_added: '2018-03-19'

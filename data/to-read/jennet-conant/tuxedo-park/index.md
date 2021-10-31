@@ -15,6 +15,10 @@ book:
     Changed the Course of World War II'
   series_position: ''
   spine_color: '#796c50'
+  tags:
+  - historical-fiction
+  - tech
+  - history
   title: Tuxedo Park
 plan:
   date_added: 2021-10-31

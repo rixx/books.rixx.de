@@ -7,6 +7,11 @@ book:
   series: Less Valued Knights
   series_position: '1'
   spine_color: '#af4e43'
+  tags:
+  - historical-fiction
+  - kids
+  - myths-legends
+  - fantasy
   title: Sir Thomas the Hesitant and the Table of Less Valued Knights
 plan:
   date_added: '2019-01-23'

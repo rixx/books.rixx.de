@@ -6,6 +6,11 @@ book:
   pages: '384'
   publication_year: '2008'
   spine_color: '#aab7c4'
+  tags:
+  - historical-fiction
+  - scifi
+  - romance
+  - fantasy
   title: Pride and Prometheus
 plan:
   date_added: '2019-02-04'

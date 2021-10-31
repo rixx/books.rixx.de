@@ -14,6 +14,12 @@ book:
   series: The Giver
   series_position: '1'
   spine_color: '#6c5e53'
+  tags:
+  - kids
+  - nonfiction
+  - scifi
+  - ya
+  - fantasy
   title: The Giver
 plan:
   date_added: '2017-11-15'

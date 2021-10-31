@@ -14,6 +14,10 @@ book:
   series: Black Wolves
   series_position: '1'
   spine_color: '#827564'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: Black Wolves
 plan:
   date_added: 2021-10-31

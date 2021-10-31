@@ -12,7 +12,9 @@ book:
   pages: 252
   publication_year: '1994'
   spine_color: '#12474c'
-  tags: []
+  tags:
+  - tech
+  - history
   title: How Buildings Learn
 plan:
   date_added: 2021-02-17

@@ -12,6 +12,8 @@ book:
   pages: 792
   publication_year: '2015'
   spine_color: '#a5488d'
+  tags:
+  - tech
   title: Fluent Python
 plan:
   date_added: 2021-10-31

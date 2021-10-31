@@ -14,7 +14,10 @@ book:
   series: Legacy of Orïsha
   series_position: '1'
   spine_color: '#241414'
-  tags: []
+  tags:
+  - fantasy
+  - ya
+  - romance
   title: Children of Blood and Bone
 plan:
   date_added: 2021-02-17

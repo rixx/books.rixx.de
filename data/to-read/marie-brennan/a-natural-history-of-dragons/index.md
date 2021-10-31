@@ -14,6 +14,10 @@ book:
   series: The Memoirs of Lady Trent
   series_position: '1'
   spine_color: '#bfaea3'
+  tags:
+  - fantasy
+  - ya
+  - historical-fiction
   title: A Natural History of Dragons
 plan:
   date_added: '2018-09-15'

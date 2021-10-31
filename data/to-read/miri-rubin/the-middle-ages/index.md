@@ -12,6 +12,9 @@ book:
   pages: 144
   publication_year: '2014'
   spine_color: '#eddd61'
+  tags:
+  - history
+  - nonfiction
   title: The Middle Ages
 plan:
   date_added: 2021-10-31

@@ -14,6 +14,10 @@ book:
   series: The Machineries of Empire
   series_position: '2'
   spine_color: '#2e8c77'
+  tags:
+  - queer
+  - scifi
+  - fantasy
   title: Raven Stratagem
 plan:
   date_added: '2019-03-31'

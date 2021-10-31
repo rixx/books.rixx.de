@@ -12,6 +12,11 @@ book:
   pages: 528
   publication_year: '1995'
   spine_color: '#a52c07'
+  tags:
+  - historical-fiction
+  - fantasy
+  - scifi
+  - romance
   title: The Lions of Al-Rassan
 plan:
   date_added: '2018-09-15'

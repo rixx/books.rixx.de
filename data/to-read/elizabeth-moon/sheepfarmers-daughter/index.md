@@ -10,6 +10,9 @@ book:
   series: The Deed of Paksenarrion
   series_position: '1'
   spine_color: '#ac7c49'
+  tags:
+  - fantasy
+  - scifi
   title: Sheepfarmer's Daughter
 plan:
   date_added: '2018-09-03'

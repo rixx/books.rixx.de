@@ -14,6 +14,10 @@ book:
   series: The Vampire Chronicles
   series_position: '1'
   spine_color: '#6f5728'
+  tags:
+  - historical-fiction
+  - urban-fantasy
+  - fantasy
   title: Interview with the Vampire
 plan:
   date_added: '2018-10-12'

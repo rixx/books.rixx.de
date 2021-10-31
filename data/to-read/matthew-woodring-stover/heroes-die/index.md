@@ -10,6 +10,9 @@ book:
   series: The Acts of Caine
   series_position: '1'
   spine_color: '#c6c6c8'
+  tags:
+  - scifi
+  - fantasy
   title: Heroes Die
 plan:
   date_added: '2018-09-15'

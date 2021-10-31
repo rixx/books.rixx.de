@@ -8,6 +8,9 @@ book:
   pages: '352'
   publication_year: '2014'
   spine_color: '#b4b145'
+  tags:
+  - tech
+  - history
   title: Atomic Accidents
 plan:
   date_added: '2019-11-15'

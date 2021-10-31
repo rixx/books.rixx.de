@@ -14,6 +14,10 @@ book:
   series: Vlad Taltos
   series_position: '1'
   spine_color: '#898582'
+  tags:
+  - scifi
+  - mystery
+  - fantasy
   title: Jhereg
 plan:
   date_added: '2018-09-15'

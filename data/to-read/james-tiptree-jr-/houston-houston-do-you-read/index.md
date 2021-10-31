@@ -10,6 +10,10 @@ book:
   pages: 150
   publication_year: '1976'
   spine_color: '#fcfbf7'
+  tags:
+  - scifi
+  - time-travel
+  - fantasy
   title: Houston, Houston, Do You Read?
 plan:
   date_added: '2018-03-13'

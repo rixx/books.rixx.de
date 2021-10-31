@@ -10,6 +10,11 @@ book:
   series: 'This Star Shall Abide: aka Heritage of the Star'
   series_position: ''
   spine_color: '#f2e1a8'
+  tags:
+  - ya
+  - scifi
+  - kids
+  - fantasy
   title: This Star Shall Abide
 plan:
   date_added: 2021-10-31

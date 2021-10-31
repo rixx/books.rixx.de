@@ -12,6 +12,9 @@ book:
   pages: 327
   publication_year: '2012'
   spine_color: '#a29c91'
+  tags:
+  - tech
+  - history
   title: Consider the Fork
 plan:
   date_added: '2018-09-30'

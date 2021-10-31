@@ -6,6 +6,10 @@ book:
   pages: '324'
   publication_year: '1960'
   spine_color: '#c45c36'
+  tags:
+  - ya
+  - historical-fiction
+  - nonfiction
   title: To Kill a Mockingbird
 plan:
   date_added: '2015-04-17'

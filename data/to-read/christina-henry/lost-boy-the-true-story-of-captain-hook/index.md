@@ -12,6 +12,10 @@ book:
   pages: 292
   publication_year: '2017'
   spine_color: '#b9c1ca'
+  tags:
+  - ya
+  - myths-legends
+  - fantasy
   title: 'Lost Boy: The True Story of Captain Hook'
 plan:
   date_added: '2018-07-24'

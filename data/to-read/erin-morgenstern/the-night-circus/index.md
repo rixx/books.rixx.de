@@ -8,6 +8,11 @@ book:
   pages: '516'
   publication_year: '2011'
   spine_color: '#833d41'
+  tags:
+  - ya
+  - historical-fiction
+  - romance
+  - fantasy
   title: The Night Circus
 plan:
   date_added: '2018-03-19'

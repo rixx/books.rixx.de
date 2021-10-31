@@ -10,6 +10,11 @@ book:
   series: The Innsmouth Legacy
   series_position: '1'
   spine_color: '#ab9b89'
+  tags:
+  - historical-fiction
+  - scifi
+  - urban-fantasy
+  - fantasy
   title: Winter Tide
 plan:
   date_added: '2019-02-04'

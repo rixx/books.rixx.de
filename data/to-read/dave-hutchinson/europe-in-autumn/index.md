@@ -6,6 +6,10 @@ book:
   pages: '317'
   publication_year: '2014'
   spine_color: '#996241'
+  tags:
+  - fantasy
+  - mystery
+  - scifi
   title: Europe in Autumn
 plan:
   date_added: '2018-11-02'

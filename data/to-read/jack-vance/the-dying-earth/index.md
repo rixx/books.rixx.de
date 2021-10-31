@@ -10,6 +10,9 @@ book:
   series: The Dying Earth
   series_position: '1'
   spine_color: '#a1664f'
+  tags:
+  - fantasy
+  - scifi
   title: The Dying Earth
 plan:
   date_added: '2018-09-12'

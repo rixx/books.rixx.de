@@ -12,6 +12,11 @@ book:
   pages: 563
   publication_year: '2013'
   spine_color: '#b57e27'
+  tags:
+  - urban-fantasy
+  - romance
+  - scifi
+  - fantasy
   title: The Thinking Woman's Guide to Real Magic
 plan:
   date_added: 2021-10-31

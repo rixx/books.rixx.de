@@ -12,6 +12,9 @@ book:
   pages: 224
   publication_year: '2017'
   spine_color: '#c1bc6a'
+  tags:
+  - personal-development
+  - psychology
   title: Unf*ck Your Habitat
 plan:
   date_added: 2020-06-07

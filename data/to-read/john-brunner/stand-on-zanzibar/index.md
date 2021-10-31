@@ -12,6 +12,9 @@ book:
   pages: 672
   publication_year: '1968'
   spine_color: '#d7d871'
+  tags:
+  - scifi
+  - fantasy
   title: Stand on Zanzibar
 plan:
   date_added: '2018-09-03'

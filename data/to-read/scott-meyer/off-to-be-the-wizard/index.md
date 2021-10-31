@@ -14,6 +14,10 @@ book:
   series: Magic 2.0
   series_position: '1'
   spine_color: '#09834b'
+  tags:
+  - fantasy
+  - scifi
+  - time-travel
   title: Off to Be the Wizard
 plan:
   date_added: '2018-09-03'

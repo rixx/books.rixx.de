@@ -14,6 +14,9 @@ book:
   series: Der Meister und Margarita
   series_position: ''
   spine_color: '#5e5123'
+  tags:
+  - historical-fiction
+  - fantasy
   title: Мастер и Маргарита
 plan:
   date_added: 2021-10-31

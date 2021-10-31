@@ -15,6 +15,12 @@ book:
     World'
   series_position: ''
   spine_color: '#675869'
+  tags:
+  - history
+  - psychology
+  - philosophy
+  - nonfiction
+  - tech
   title: The Master and his Emissary
 plan:
   date_added: 2021-10-31

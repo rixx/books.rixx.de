@@ -10,6 +10,9 @@ book:
   series: Mars Trilogy
   series_position: '1'
   spine_color: '#982f1b'
+  tags:
+  - scifi
+  - fantasy
   title: Red Mars
 plan:
   date_added: '2018-03-13'

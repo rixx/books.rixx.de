@@ -12,6 +12,9 @@ book:
   pages: 210
   publication_year: '2016'
   spine_color: '#7d5970'
+  tags:
+  - tech
+  - personal-development
   title: 7 Powers
 plan:
   date_added: 2021-10-31

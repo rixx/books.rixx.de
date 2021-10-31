@@ -10,6 +10,9 @@ book:
   series: Der Spiegel im Spiegel. Ein Labyrinth
   series_position: ''
   spine_color: '#6d7954'
+  tags:
+  - german
+  - fantasy
   title: Der Spiegel im Spiegel
 plan:
   date_added: 2021-10-31

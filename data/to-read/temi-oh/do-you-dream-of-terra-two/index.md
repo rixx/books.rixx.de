@@ -8,7 +8,9 @@ book:
   pages: '520'
   publication_year: '2019'
   spine_color: '#ecdac8'
-  tags: []
+  tags:
+  - ya
+  - scifi
   title: Do You Dream of Terra-Two?
 plan:
   date_added: 2020-08-13

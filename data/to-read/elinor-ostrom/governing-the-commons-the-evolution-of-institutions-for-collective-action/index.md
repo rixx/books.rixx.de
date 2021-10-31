@@ -12,6 +12,10 @@ book:
   pages: 298
   publication_year: '1990'
   spine_color: '#2f1b87'
+  tags:
+  - nonfiction
+  - tech
+  - philosophy
   title: 'Governing the Commons: The Evolution of Institutions for Collective Action'
 plan:
   date_added: '2018-06-10'

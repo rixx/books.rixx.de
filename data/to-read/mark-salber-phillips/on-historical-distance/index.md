@@ -12,6 +12,8 @@ book:
   pages: 312
   publication_year: '2013'
   spine_color: '#6f573e'
+  tags:
+  - history
   title: On Historical Distance
 plan:
   date_added: 2021-10-31

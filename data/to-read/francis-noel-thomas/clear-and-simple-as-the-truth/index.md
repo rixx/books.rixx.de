@@ -12,6 +12,10 @@ book:
   pages: 240
   publication_year: '1994'
   spine_color: '#c7765e'
+  tags:
+  - philosophy
+  - language
+  - personal-development
   title: Clear and Simple as the Truth
 plan:
   date_added: '2019-11-15'

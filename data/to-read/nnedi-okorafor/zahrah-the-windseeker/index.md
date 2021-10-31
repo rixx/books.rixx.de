@@ -6,6 +6,11 @@ book:
   pages: '308'
   publication_year: '2005'
   spine_color: '#ecc6aa'
+  tags:
+  - ya
+  - kids
+  - scifi
+  - fantasy
   title: Zahrah the Windseeker
 plan:
   date_added: '2018-09-10'

@@ -10,6 +10,10 @@ book:
   series: Clocktaur War
   series_position: '2'
   spine_color: '#d2b16d'
+  tags:
+  - scifi
+  - romance
+  - fantasy
   title: The Wonder Engine
 plan:
   date_added: '2020-01-26'

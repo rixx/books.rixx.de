@@ -10,7 +10,11 @@ book:
   series: Dancers at the End of Time
   series_position: '1'
   spine_color: '#a72e2d'
-  tags: []
+  tags:
+  - scifi
+  - time-travel
+  - romance
+  - fantasy
   title: An Alien Heat
 plan:
   date_added: 2020-07-05

@@ -8,6 +8,8 @@ book:
   pages: '154'
   publication_year: '2015'
   spine_color: '#c42eab'
+  tags:
+  - tech
   title: How to Make Mistakes in Python
 plan:
   date_added: 2021-10-31

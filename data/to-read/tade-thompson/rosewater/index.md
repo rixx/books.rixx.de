@@ -10,6 +10,9 @@ book:
   series: The Wormwood Trilogy
   series_position: '1'
   spine_color: '#994645'
+  tags:
+  - scifi
+  - fantasy
   title: Rosewater
 plan:
   date_added: '2018-08-20'

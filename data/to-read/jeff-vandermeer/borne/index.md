@@ -14,6 +14,9 @@ book:
   series: Borne
   series_position: '1'
   spine_color: '#a29d76'
+  tags:
+  - scifi
+  - fantasy
   title: Borne
 plan:
   date_added: '2018-07-31'

@@ -12,6 +12,9 @@ book:
   pages: 96
   publication_year: '2007'
   spine_color: '#826861'
+  tags:
+  - historical-fiction
+  - mystery
   title: A Morbid Taste for Bones
 plan:
   date_added: 2021-10-31

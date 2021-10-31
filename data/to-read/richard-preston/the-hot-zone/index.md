@@ -12,6 +12,10 @@ book:
   pages: 352
   publication_year: '1994'
   spine_color: '#a8634c'
+  tags:
+  - tech
+  - history
+  - nonfiction
   title: The Hot Zone
 plan:
   date_added: 2021-10-31

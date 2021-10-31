@@ -12,6 +12,11 @@ book:
   pages: 343
   publication_year: '1974'
   spine_color: '#cea95c'
+  tags:
+  - fantasy
+  - ya
+  - scifi
+  - romance
   title: The Forgotten Beasts of Eld
 plan:
   date_added: '2018-09-15'

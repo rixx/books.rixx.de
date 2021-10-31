@@ -10,6 +10,9 @@ book:
   series: 'The Magus: A Revised Version'
   series_position: ''
   spine_color: '#a2736e'
+  tags:
+  - mystery
+  - fantasy
   title: The Magus
 plan:
   date_added: 2021-10-31

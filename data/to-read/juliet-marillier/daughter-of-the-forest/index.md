@@ -8,6 +8,12 @@ book:
   series: Sevenwaters
   series_position: '1'
   spine_color: '#70221a'
+  tags:
+  - myths-legends
+  - romance
+  - historical-fiction
+  - fantasy
+  - ya
   title: Daughter of the Forest
 plan:
   date_added: '2018-09-28'

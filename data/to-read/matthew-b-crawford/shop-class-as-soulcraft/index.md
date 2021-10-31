@@ -12,6 +12,10 @@ book:
   pages: 246
   publication_year: '2009'
   spine_color: '#30221d'
+  tags:
+  - philosophy
+  - psychology
+  - personal-development
   title: Shop Class as Soulcraft
 plan:
   date_added: 2021-10-31

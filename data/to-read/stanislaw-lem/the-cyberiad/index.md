@@ -12,6 +12,9 @@ book:
   pages: 312
   publication_year: '1965'
   spine_color: '#c83b1f'
+  tags:
+  - scifi
+  - fantasy
   title: The Cyberiad
 plan:
   date_added: '2018-10-16'

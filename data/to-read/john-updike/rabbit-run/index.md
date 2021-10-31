@@ -8,6 +8,7 @@ book:
   pages: '337'
   publication_year: '1960'
   spine_color: '#657e77'
+  tags: []
   title: Rabbit, Run
 plan:
   date_added: 2021-10-31

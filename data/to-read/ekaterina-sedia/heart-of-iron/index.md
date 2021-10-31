@@ -12,7 +12,11 @@ book:
   pages: 311
   publication_year: '2011'
   spine_color: '#8d8c8b'
-  tags: []
+  tags:
+  - fantasy
+  - ya
+  - scifi
+  - historical-fiction
   title: Heart of Iron
 plan:
   date_added: 2020-08-13

@@ -12,6 +12,10 @@ book:
   pages: 424
   publication_year: '2012'
   spine_color: '#cac9c6'
+  tags:
+  - ya
+  - fantasy
+  - scifi
   title: Railsea
 plan:
   date_added: '2020-05-01'

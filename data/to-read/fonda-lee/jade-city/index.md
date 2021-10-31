@@ -14,6 +14,11 @@ book:
   series: The Green Bone Saga
   series_position: '1'
   spine_color: '#67ec25'
+  tags:
+  - scifi
+  - mystery
+  - urban-fantasy
+  - fantasy
   title: Jade City
 plan:
   date_added: '2018-09-21'

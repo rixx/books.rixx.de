@@ -12,6 +12,8 @@ book:
   pages: 502
   publication_year: '2018'
   spine_color: '#a69926'
+  tags:
+  - historical-fiction
   title: The Overstory
 plan:
   date_added: '2019-02-04'

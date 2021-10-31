@@ -14,6 +14,8 @@ book:
   series: Aubrey & Maturin
   series_position: '1'
   spine_color: '#a88549'
+  tags:
+  - historical-fiction
   title: Master and Commander
 plan:
   date_added: 2021-10-31

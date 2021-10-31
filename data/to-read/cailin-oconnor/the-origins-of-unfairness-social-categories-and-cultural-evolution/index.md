@@ -8,6 +8,9 @@ book:
   pages: '256'
   publication_year: '2019'
   spine_color: '#d1826d'
+  tags:
+  - philosophy
+  - tech
   title: 'The Origins of Unfairness: Social Categories and Cultural Evolution'
 plan:
   date_added: '2020-02-18'

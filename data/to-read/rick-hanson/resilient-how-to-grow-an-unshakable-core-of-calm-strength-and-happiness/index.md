@@ -10,6 +10,11 @@ book:
   series: 'Resilient: How to Grow an Unshakable Core of Calm, Strength, and Happiness'
   series_position: ''
   spine_color: '#a08e5a'
+  tags:
+  - philosophy
+  - tech
+  - psychology
+  - personal-development
   title: Resilient. How to Grow an Unshakable Core of Calm, Strength, and Happiness
 plan:
   date_added: 2021-10-31

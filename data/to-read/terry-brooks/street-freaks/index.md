@@ -7,6 +7,11 @@ book:
   pages: '312'
   publication_year: '2018'
   spine_color: '#84aabc'
+  tags:
+  - ya
+  - urban-fantasy
+  - scifi
+  - fantasy
   title: Street Freaks
 plan:
   date_added: '2018-06-19'

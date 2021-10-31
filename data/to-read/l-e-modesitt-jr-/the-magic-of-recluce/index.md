@@ -14,6 +14,9 @@ book:
   series: The Saga of Recluce
   series_position: '1'
   spine_color: '#452e27'
+  tags:
+  - scifi
+  - fantasy
   title: The Magic of Recluce
 plan:
   date_added: '2018-09-03'

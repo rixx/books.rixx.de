@@ -14,6 +14,8 @@ book:
   series: Sun and Steel
   series_position: ''
   spine_color: '#94a3a8'
+  tags:
+  - philosophy
   title: 太陽と鉄 [Taiyō to tetsu]
 plan:
   date_added: 2021-10-31

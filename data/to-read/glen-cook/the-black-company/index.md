@@ -8,6 +8,11 @@ book:
   series: The Chronicles of the Black Company
   series_position: '1'
   spine_color: '#d0c9ab'
+  tags:
+  - fantasy
+  - ya
+  - kids
+  - scifi
   title: The Black Company
 plan:
   date_added: '2017-11-21'

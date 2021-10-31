@@ -12,6 +12,8 @@ book:
   pages: 124
   publication_year: '2017'
   spine_color: '#865c63'
+  tags:
+  - scifi
   title: Prime Meridian
 plan:
   date_added: '2019-03-09'

@@ -12,6 +12,9 @@ book:
   pages: 272
   publication_year: '1989'
   spine_color: '#719ac1'
+  tags:
+  - historical-fiction
+  - history
   title: Life in a Medieval Village
 plan:
   date_added: 2021-10-31

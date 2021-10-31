@@ -14,6 +14,10 @@ book:
   series: Liveship Traders
   series_position: '1'
   spine_color: '#4c5162'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Ship of Magic
 plan:
   date_added: '2017-02-01'

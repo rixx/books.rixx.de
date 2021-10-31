@@ -8,6 +8,9 @@ book:
   pages: '264'
   publication_year: '1997'
   spine_color: '#855340'
+  tags:
+  - history
+  - nonfiction
   title: Growing Old in the Middle Ages
 plan:
   date_added: 2021-10-31

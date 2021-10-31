@@ -12,6 +12,9 @@ book:
   pages: 182
   publication_year: '1949'
   spine_color: '#66bfea'
+  tags:
+  - scifi
+  - fantasy
   title: The Martian Chronicles
 plan:
   date_added: '2018-07-23'

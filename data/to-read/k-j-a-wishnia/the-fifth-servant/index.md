@@ -12,6 +12,9 @@ book:
   pages: 400
   publication_year: '2010'
   spine_color: '#ebe7e7'
+  tags:
+  - mystery
+  - historical-fiction
   title: The Fifth Servant
 plan:
   date_added: 2021-10-31

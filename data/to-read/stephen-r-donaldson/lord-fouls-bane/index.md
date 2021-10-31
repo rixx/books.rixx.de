@@ -14,6 +14,11 @@ book:
   series: The Chronicles of Thomas Covenant the Unbeliever
   series_position: '1'
   spine_color: '#8abf81'
+  tags:
+  - ya
+  - fantasy
+  - scifi
+  - kids
   title: Lord Foul's Bane
 plan:
   date_added: '2018-09-22'

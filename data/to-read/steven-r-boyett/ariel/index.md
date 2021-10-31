@@ -12,6 +12,10 @@ book:
   pages: 435
   publication_year: '1983'
   spine_color: '#5e6c79'
+  tags:
+  - urban-fantasy
+  - scifi
+  - fantasy
   title: Ariel
 plan:
   date_added: '2018-09-10'

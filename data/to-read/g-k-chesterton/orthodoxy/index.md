@@ -12,6 +12,10 @@ book:
   pages: 168
   publication_year: '1908'
   spine_color: '#643a41'
+  tags:
+  - personal-development
+  - philosophy
+  - history
   title: Orthodoxy
 plan:
   date_added: 2021-10-31

@@ -10,6 +10,10 @@ book:
   series: The Prince of Nothing
   series_position: '1'
   spine_color: '#c6a787'
+  tags:
+  - scifi
+  - philosophy
+  - fantasy
   title: The Darkness That Comes Before
 plan:
   date_added: '2015-04-17'

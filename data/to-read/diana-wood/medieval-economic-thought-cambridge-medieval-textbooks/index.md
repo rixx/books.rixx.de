@@ -14,6 +14,8 @@ book:
   series: Medieval Economic Thought
   series_position: ''
   spine_color: '#f1e5bd'
+  tags:
+  - history
   title: Medieval Economic Thought (Cambridge Medieval Textbooks)
 plan:
   date_added: 2021-10-31

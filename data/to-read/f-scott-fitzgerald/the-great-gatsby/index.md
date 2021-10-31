@@ -6,6 +6,9 @@ book:
   pages: '200'
   publication_year: '1925'
   spine_color: '#847268'
+  tags:
+  - romance
+  - historical-fiction
   title: The Great Gatsby
 plan:
   date_added: '2015-04-17'

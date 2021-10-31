@@ -12,6 +12,10 @@ book:
   pages: 200
   publication_year: '2013'
   spine_color: '#3c5f69'
+  tags:
+  - ya
+  - queer
+  - romance
   title: Two Boys Kissing
 plan:
   date_added: '2019-01-23'

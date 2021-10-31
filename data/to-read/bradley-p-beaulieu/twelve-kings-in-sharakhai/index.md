@@ -10,6 +10,9 @@ book:
   series: The Song of the Shattered Sands
   series_position: '1'
   spine_color: '#86554c'
+  tags:
+  - scifi
+  - fantasy
   title: Twelve Kings in Sharakhai
 plan:
   date_added: '2018-09-15'

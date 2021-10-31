@@ -14,6 +14,9 @@ book:
   series: Ahasver
   series_position: ''
   spine_color: '#715b5a'
+  tags:
+  - german
+  - historical-fiction
   title: The Wandering Jew
 plan:
   date_added: 2021-10-31

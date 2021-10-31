@@ -14,6 +14,9 @@ book:
   series: Firefall
   series_position: '2'
   spine_color: '#efc561'
+  tags:
+  - scifi
+  - fantasy
   title: Echopraxia
 plan:
   date_added: '2019-01-14'

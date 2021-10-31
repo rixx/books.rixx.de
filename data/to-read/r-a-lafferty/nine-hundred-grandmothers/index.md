@@ -6,6 +6,9 @@ book:
   pages: '318'
   publication_year: '1970'
   spine_color: '#efe6d9'
+  tags:
+  - scifi
+  - fantasy
   title: Nine Hundred Grandmothers
 plan:
   date_added: '2016-05-18'

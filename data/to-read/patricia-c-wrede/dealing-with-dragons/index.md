@@ -14,6 +14,11 @@ book:
   series: Enchanted Forest Chronicles
   series_position: '1'
   spine_color: '#987d74'
+  tags:
+  - ya
+  - kids
+  - myths-legends
+  - fantasy
   title: Dealing with Dragons
 plan:
   date_added: '2016-05-19'

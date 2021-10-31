@@ -7,6 +7,11 @@ book:
   series: The Books of Ambha
   series_position: '1'
   spine_color: '#722f26'
+  tags:
+  - ya
+  - scifi
+  - romance
+  - fantasy
   title: Empire of Sand
 plan:
   date_added: '2018-12-04'

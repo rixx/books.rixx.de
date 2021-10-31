@@ -14,6 +14,11 @@ book:
   series: The Warlord Chronicles
   series_position: '1'
   spine_color: '#aeb4b6'
+  tags:
+  - historical-fiction
+  - history
+  - myths-legends
+  - fantasy
   title: 'The Winter King: A Novel of Arthur'
 plan:
   date_added: '2018-09-19'

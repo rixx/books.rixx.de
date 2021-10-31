@@ -12,6 +12,10 @@ book:
   pages: 288
   publication_year: '1996'
   spine_color: '#c8aa66'
+  tags:
+  - fantasy
+  - scifi
+  - queer
   title: The Fortunate Fall
 plan:
   date_added: '2016-07-24'

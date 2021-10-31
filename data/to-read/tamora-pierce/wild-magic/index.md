@@ -10,6 +10,10 @@ book:
   series: Immortals
   series_position: '1'
   spine_color: '#85715a'
+  tags:
+  - ya
+  - kids
+  - fantasy
   title: Wild Magic
 plan:
   date_added: '2016-10-05'

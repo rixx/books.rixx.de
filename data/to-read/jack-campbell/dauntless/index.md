@@ -14,6 +14,9 @@ book:
   series: The Lost Fleet
   series_position: '1'
   spine_color: '#c5b199'
+  tags:
+  - fantasy
+  - scifi
   title: Dauntless
 plan:
   date_added: '2018-10-22'

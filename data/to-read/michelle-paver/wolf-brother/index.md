@@ -14,6 +14,11 @@ book:
   series: Chronicles of Ancient Darkness
   series_position: '1'
   spine_color: '#b28e74'
+  tags:
+  - ya
+  - kids
+  - fantasy
+  - historical-fiction
   title: Wolf Brother
 plan:
   date_added: '2016-05-19'

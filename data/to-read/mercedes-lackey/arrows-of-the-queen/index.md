@@ -14,6 +14,11 @@ book:
   series: Heralds of Valdemar
   series_position: '1'
   spine_color: '#8c6e62'
+  tags:
+  - ya
+  - kids
+  - scifi
+  - fantasy
   title: Arrows of the Queen
 plan:
   date_added: '2018-09-15'

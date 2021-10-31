@@ -12,6 +12,10 @@ book:
   pages: 284
   publication_year: '2011'
   spine_color: '#b7a487'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Mechanique
 plan:
   date_added: 2021-10-31

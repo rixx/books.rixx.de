@@ -12,6 +12,10 @@ book:
   pages: 272
   publication_year: '1937'
   spine_color: '#c79575'
+  tags:
+  - scifi
+  - philosophy
+  - fantasy
   title: Star Maker
 plan:
   date_added: '2018-08-28'

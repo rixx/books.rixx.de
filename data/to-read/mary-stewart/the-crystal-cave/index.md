@@ -14,6 +14,11 @@ book:
   series: Arthurian Saga
   series_position: '1'
   spine_color: '#e0b973'
+  tags:
+  - historical-fiction
+  - scifi
+  - myths-legends
+  - fantasy
   title: The Crystal Cave
 plan:
   date_added: '2018-10-12'

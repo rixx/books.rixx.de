@@ -8,6 +8,7 @@ book:
   pages: '495'
   publication_year: '2008'
   spine_color: '#142c5a'
+  tags: []
   title: 'Onkel Dagobert – Sein Leben, seine Milliarden: Die Biografie von Don Rosa'
 plan:
   date_added: '2015-06-28'

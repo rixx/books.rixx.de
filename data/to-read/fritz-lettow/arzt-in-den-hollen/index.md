@@ -8,6 +8,8 @@ book:
   pages: null
   publication_year: '2013'
   spine_color: '#8b837e'
+  tags:
+  - history
   title: Arzt in den Höllen
 plan:
   date_added: 2021-10-31

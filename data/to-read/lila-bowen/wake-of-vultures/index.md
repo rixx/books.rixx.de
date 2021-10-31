@@ -14,6 +14,12 @@ book:
   series: The Shadow
   series_position: '1'
   spine_color: '#644245'
+  tags:
+  - ya
+  - urban-fantasy
+  - queer
+  - historical-fiction
+  - fantasy
   title: Wake of Vultures
 plan:
   date_added: '2016-06-08'

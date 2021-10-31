@@ -12,6 +12,10 @@ book:
   pages: 342
   publication_year: '2016'
   spine_color: '#f53c3f'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: Dark Matter
 plan:
   date_added: '2018-08-20'

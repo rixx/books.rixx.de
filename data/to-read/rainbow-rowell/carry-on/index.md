@@ -14,6 +14,11 @@ book:
   series: Simon Snow
   series_position: '1'
   spine_color: '#794a6f'
+  tags:
+  - ya
+  - queer
+  - romance
+  - fantasy
   title: Carry On
 plan:
   date_added: '2018-09-15'

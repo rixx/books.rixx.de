@@ -15,6 +15,8 @@ book:
     C. 1200 1520'
   series_position: ''
   spine_color: '#198796'
+  tags:
+  - history
   title: Standards of Living in the Later Middle Ages
 plan:
   date_added: 2021-10-31

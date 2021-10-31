@@ -14,6 +14,10 @@ book:
   series: Phèdre's Trilogy
   series_position: '1'
   spine_color: '#6590ae'
+  tags:
+  - scifi
+  - romance
+  - fantasy
   title: Kushiel's Dart
 plan:
   date_added: '2018-09-15'

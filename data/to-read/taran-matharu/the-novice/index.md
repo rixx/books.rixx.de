@@ -8,6 +8,9 @@ book:
   series: Summoner
   series_position: '1'
   spine_color: '#618894'
+  tags:
+  - ya
+  - fantasy
   title: The Novice
 plan:
   date_added: '2018-09-21'

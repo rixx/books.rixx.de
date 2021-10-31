@@ -15,6 +15,9 @@ book:
     Europe 950-1250'
   series_position: ''
   spine_color: '#8d6941'
+  tags:
+  - history
+  - historical-fiction
   title: The Formation of a Persecuting Society
 plan:
   date_added: 2021-10-31

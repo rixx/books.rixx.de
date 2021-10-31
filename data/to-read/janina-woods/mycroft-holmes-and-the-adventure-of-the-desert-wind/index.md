@@ -9,6 +9,8 @@ book:
   series: Mycroft Holmes
   series_position: '1'
   spine_color: '#91643a'
+  tags:
+  - mystery
   title: Mycroft Holmes and the Adventure of the Desert Wind
 plan:
   date_added: '2017-11-15'

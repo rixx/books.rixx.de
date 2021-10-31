@@ -10,6 +10,10 @@ book:
   pages: 202
   publication_year: '1950'
   spine_color: '#175876'
+  tags:
+  - scifi
+  - mystery
+  - fantasy
   title: Night of the Jabberwock
 plan:
   date_added: '2018-09-12'

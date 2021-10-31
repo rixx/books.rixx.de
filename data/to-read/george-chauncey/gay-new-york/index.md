@@ -12,6 +12,10 @@ book:
   pages: 496
   publication_year: '1994'
   spine_color: '#f4eec3'
+  tags:
+  - historical-fiction
+  - queer
+  - history
   title: Gay New York
 plan:
   date_added: 2021-10-31

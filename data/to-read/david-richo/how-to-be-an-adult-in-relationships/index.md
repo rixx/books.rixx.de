@@ -12,6 +12,9 @@ book:
   pages: 265
   publication_year: '2002'
   spine_color: '#e2d486'
+  tags:
+  - psychology
+  - personal-development
   title: How to Be an Adult in Relationships
 plan:
   date_added: 2021-10-31

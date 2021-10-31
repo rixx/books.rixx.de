@@ -14,6 +14,10 @@ book:
   series: Mistborn
   series_position: '3'
   spine_color: '#bcd7db'
+  tags:
+  - ya
+  - fantasy
+  - scifi
   title: The Hero of Ages
 plan:
   date_added: '2019-07-15'

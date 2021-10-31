@@ -7,6 +7,10 @@ book:
   series: The Serpent Gates
   series_position: '1'
   spine_color: '#b49a76'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: The Unspoken Name
 plan:
   date_added: '2020-03-26'

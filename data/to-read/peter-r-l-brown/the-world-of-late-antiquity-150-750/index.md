@@ -8,6 +8,8 @@ book:
   pages: '216'
   publication_year: '1971'
   spine_color: '#b56916'
+  tags:
+  - history
   title: The World of Late Antiquity 150-750
 plan:
   date_added: 2021-10-31

@@ -14,6 +14,12 @@ book:
   series: Aven Cycle
   series_position: '1'
   spine_color: '#b7986f'
+  tags:
+  - romance
+  - scifi
+  - myths-legends
+  - fantasy
+  - historical-fiction
   title: From Unseen Fire
 plan:
   date_added: '2018-09-28'

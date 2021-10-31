@@ -12,6 +12,9 @@ book:
   pages: 250
   publication_year: '2012'
   spine_color: '#c42c2a'
+  tags:
+  - psychology
+  - personal-development
   title: Running on Empty
 plan:
   date_added: 2020-05-25

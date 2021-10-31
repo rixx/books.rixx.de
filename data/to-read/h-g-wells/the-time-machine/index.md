@@ -6,6 +6,10 @@ book:
   pages: '118'
   publication_year: '1895'
   spine_color: '#1986b8'
+  tags:
+  - fantasy
+  - scifi
+  - time-travel
   title: The Time Machine
 plan:
   date_added: '2018-09-03'

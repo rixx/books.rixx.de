@@ -12,6 +12,11 @@ book:
   pages: 400
   publication_year: '2020'
   spine_color: '#807271'
+  tags:
+  - historical-fiction
+  - tech
+  - history
+  - nonfiction
   title: Kindred
 plan:
   date_added: 2021-10-31

@@ -8,6 +8,10 @@ book:
   series: The Salvagers
   series_position: '1'
   spine_color: '#0d0f20'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: A Big Ship at the Edge of the Universe
 plan:
   date_added: '2018-12-04'

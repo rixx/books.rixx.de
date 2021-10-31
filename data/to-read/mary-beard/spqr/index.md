@@ -12,6 +12,9 @@ book:
   pages: 606
   publication_year: '2015'
   spine_color: '#cdbb9a'
+  tags:
+  - history
+  - historical-fiction
   title: SPQR
 plan:
   date_added: 2021-10-31

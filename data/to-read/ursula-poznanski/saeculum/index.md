@@ -8,6 +8,11 @@ book:
   pages: '496'
   publication_year: '2011'
   spine_color: '#8e8d8e'
+  tags:
+  - mystery
+  - ya
+  - german
+  - fantasy
   title: Saeculum
 plan:
   date_added: '2017-02-01'

@@ -8,6 +8,9 @@ book:
   pages: '348'
   publication_year: '1957'
   spine_color: '#5fa9c0'
+  tags:
+  - mystery
+  - historical-fiction
   title: The Scapegoat
 plan:
   date_added: '2019-05-05'

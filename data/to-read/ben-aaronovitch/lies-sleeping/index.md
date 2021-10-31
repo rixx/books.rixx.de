@@ -12,6 +12,10 @@ book:
   series: Peter Grant
   series_position: '7'
   spine_color: '#8a2f5a'
+  tags:
+  - fantasy
+  - mystery
+  - urban-fantasy
   title: Lies Sleeping
 plan:
   date_added: '2018-12-04'

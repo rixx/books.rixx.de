@@ -12,6 +12,8 @@ book:
   pages: 415
   publication_year: '2005'
   spine_color: '#b96556'
+  tags:
+  - scifi
   title: Accelerando
 plan:
   date_added: '2018-10-16'

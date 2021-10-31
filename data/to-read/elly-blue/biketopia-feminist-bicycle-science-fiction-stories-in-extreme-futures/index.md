@@ -12,6 +12,10 @@ book:
   pages: 128
   publication_year: '2017'
   spine_color: '#dbb867'
+  tags:
+  - queer
+  - scifi
+  - fantasy
   title: 'Biketopia: Feminist Bicycle Science Fiction Stories in Extreme Futures'
 plan:
   date_added: '2018-01-27'

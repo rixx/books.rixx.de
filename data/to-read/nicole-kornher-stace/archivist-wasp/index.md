@@ -14,6 +14,10 @@ book:
   series: Archivist Wasp Saga
   series_position: '1'
   spine_color: '#ab1a31'
+  tags:
+  - fantasy
+  - ya
+  - scifi
   title: Archivist Wasp
 plan:
   date_added: '2018-08-27'

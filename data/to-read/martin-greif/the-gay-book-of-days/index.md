@@ -12,6 +12,10 @@ book:
   pages: 224
   publication_year: '1982'
   spine_color: '#544643'
+  tags:
+  - historical-fiction
+  - history
+  - queer
   title: The Gay Book of Days
 plan:
   date_added: '2019-11-21'

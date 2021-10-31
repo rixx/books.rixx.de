@@ -8,6 +8,11 @@ book:
   series: The Great Library
   series_position: '1'
   spine_color: '#174c78'
+  tags:
+  - ya
+  - historical-fiction
+  - scifi
+  - fantasy
   title: Ink and Bone
 plan:
   date_added: '2018-08-21'

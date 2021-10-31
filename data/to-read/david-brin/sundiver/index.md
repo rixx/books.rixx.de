@@ -14,6 +14,10 @@ book:
   series: The Uplift Saga
   series_position: '1'
   spine_color: '#c9984f'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: Sundiver
 plan:
   date_added: '2018-09-12'

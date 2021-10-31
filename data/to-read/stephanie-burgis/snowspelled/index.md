@@ -8,6 +8,10 @@ book:
   series: The Harwood Spellbook
   series_position: '1'
   spine_color: '#9297b2'
+  tags:
+  - historical-fiction
+  - romance
+  - fantasy
   title: Snowspelled
 plan:
   date_added: '2019-02-11'

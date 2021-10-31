@@ -8,7 +8,10 @@ book:
   pages: '704'
   publication_year: '2005'
   spine_color: '#ab9157'
-  tags: []
+  tags:
+  - historical-fiction
+  - mystery
+  - fantasy
   title: The Historian
 plan:
   date_added: 2020-06-24

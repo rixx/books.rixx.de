@@ -14,6 +14,12 @@ book:
   series: The Once and Future King
   series_position: '1'
   spine_color: '#af5920'
+  tags:
+  - myths-legends
+  - kids
+  - fantasy
+  - ya
+  - historical-fiction
   title: The Sword in the Stone
 plan:
   date_added: '2018-09-25'

@@ -10,6 +10,9 @@ book:
   series: The Company Wars
   series_position: '1'
   spine_color: '#d6d4be'
+  tags:
+  - scifi
+  - fantasy
   title: Downbelow Station
 plan:
   date_added: '2018-08-28'

@@ -8,6 +8,10 @@ book:
   series: Bone Universe
   series_position: '1'
   spine_color: '#6974a1'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Updraft
 plan:
   date_added: '2018-08-28'

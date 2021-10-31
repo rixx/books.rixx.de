@@ -14,6 +14,11 @@ book:
   series: Outlander
   series_position: '1'
   spine_color: '#dc922a'
+  tags:
+  - fantasy
+  - time-travel
+  - romance
+  - historical-fiction
   title: Outlander
 plan:
   date_added: '2018-10-25'

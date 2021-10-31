@@ -8,6 +8,9 @@ book:
   pages: '14'
   publication_year: '1970'
   spine_color: '#934931'
+  tags:
+  - philosophy
+  - personal-development
   title: The Tyranny Of Structurelessness
 plan:
   date_added: '2019-11-15'

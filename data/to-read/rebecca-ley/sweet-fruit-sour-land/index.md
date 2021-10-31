@@ -7,6 +7,8 @@ book:
   isbn13: '9781912240333'
   publication_year: '2018'
   spine_color: '#e9b122'
+  tags:
+  - scifi
   title: Sweet Fruit, Sour Land
 plan:
   date_added: '2018-11-12'

@@ -8,6 +8,12 @@ book:
   series: Captive Prince
   series_position: '1'
   spine_color: '#91544f'
+  tags:
+  - ya
+  - romance
+  - queer
+  - historical-fiction
+  - fantasy
   title: Captive Prince
 plan:
   date_added: '2019-02-04'

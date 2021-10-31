@@ -12,6 +12,9 @@ book:
   pages: 329
   publication_year: '2000'
   spine_color: '#a24c44'
+  tags:
+  - scifi
+  - fantasy
   title: Midnight Robber
 plan:
   date_added: '2018-08-28'

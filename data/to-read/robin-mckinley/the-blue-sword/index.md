@@ -14,6 +14,12 @@ book:
   series: Damar
   series_position: '1'
   spine_color: '#a44a1c'
+  tags:
+  - ya
+  - kids
+  - romance
+  - scifi
+  - fantasy
   title: The Blue Sword
 plan:
   date_added: '2016-10-05'

@@ -14,6 +14,12 @@ book:
   series: Swords and Fire
   series_position: '1'
   spine_color: '#cd7618'
+  tags:
+  - romance
+  - mystery
+  - fantasy
+  - ya
+  - scifi
   title: The Tethered Mage
 plan:
   date_added: '2019-11-15'

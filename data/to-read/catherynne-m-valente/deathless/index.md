@@ -14,6 +14,11 @@ book:
   series: Leningrad Diptych
   series_position: '1'
   spine_color: '#ab6a59'
+  tags:
+  - historical-fiction
+  - romance
+  - myths-legends
+  - fantasy
   title: Deathless
 plan:
   date_added: '2018-07-23'

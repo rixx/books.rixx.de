@@ -12,6 +12,11 @@ book:
   pages: 464
   publication_year: '2017'
   spine_color: '#b2b373'
+  tags:
+  - myths-legends
+  - scifi
+  - fantasy
+  - historical-fiction
   title: 'Ka: Dar Oakley in the Ruin of Ymr'
 plan:
   date_added: '2018-09-04'

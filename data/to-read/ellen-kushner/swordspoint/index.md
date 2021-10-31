@@ -14,6 +14,12 @@ book:
   series: Riverside
   series_position: '1'
   spine_color: '#7e674b'
+  tags:
+  - romance
+  - queer
+  - fantasy
+  - historical-fiction
+  - scifi
   title: Swordspoint
 plan:
   date_added: '2018-09-15'

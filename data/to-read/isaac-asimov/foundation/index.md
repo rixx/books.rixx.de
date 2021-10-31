@@ -14,6 +14,9 @@ book:
   series: Foundation
   series_position: '1'
   spine_color: '#f3791d'
+  tags:
+  - scifi
+  - fantasy
   title: Foundation
 plan:
   date_added: '2018-02-18'

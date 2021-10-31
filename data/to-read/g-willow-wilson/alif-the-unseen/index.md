@@ -12,6 +12,12 @@ book:
   pages: 433
   publication_year: '2012'
   spine_color: '#eae10e'
+  tags:
+  - scifi
+  - urban-fantasy
+  - ya
+  - fantasy
+  - history
   title: Alif the Unseen
 plan:
   date_added: '2018-08-28'

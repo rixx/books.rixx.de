@@ -14,6 +14,10 @@ book:
   series: The Shadow Campaigns
   series_position: '1'
   spine_color: '#afac6b'
+  tags:
+  - scifi
+  - queer
+  - fantasy
   title: The Thousand Names
 plan:
   date_added: '2018-09-12'

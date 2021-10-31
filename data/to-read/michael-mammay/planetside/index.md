@@ -10,6 +10,9 @@ book:
   series: Planetside
   series_position: '1'
   spine_color: '#666e7e'
+  tags:
+  - mystery
+  - scifi
   title: Planetside
 plan:
   date_added: '2018-08-07'

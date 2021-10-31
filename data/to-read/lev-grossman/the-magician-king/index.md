@@ -14,6 +14,12 @@ book:
   series: The Magicians
   series_position: '2'
   spine_color: '#a43428'
+  tags:
+  - kids
+  - scifi
+  - urban-fantasy
+  - ya
+  - fantasy
   title: The Magician King
 plan:
   date_added: '2020-05-05'

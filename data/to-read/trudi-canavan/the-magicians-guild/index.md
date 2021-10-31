@@ -14,6 +14,12 @@ book:
   series: Black Magician Trilogy
   series_position: '1'
   spine_color: '#999897'
+  tags:
+  - romance
+  - kids
+  - fantasy
+  - ya
+  - scifi
   title: The Magicians' Guild
 plan:
   date_added: '2016-05-03'

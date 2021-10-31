@@ -12,6 +12,10 @@ book:
   pages: 308
   publication_year: '2018'
   spine_color: '#de7454'
+  tags:
+  - scifi
+  - fantasy
+  - myths-legends
   title: The Mere Wife
 plan:
   date_added: '2018-09-20'

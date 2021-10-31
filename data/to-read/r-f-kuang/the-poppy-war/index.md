@@ -11,6 +11,10 @@ book:
   series: The Poppy War
   series_position: '1'
   spine_color: '#b29f9f'
+  tags:
+  - fantasy
+  - ya
+  - historical-fiction
   title: The Poppy War
 plan:
   date_added: '2018-08-27'

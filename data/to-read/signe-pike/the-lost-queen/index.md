@@ -10,6 +10,11 @@ book:
   series: The Lost Queen Trilogy
   series_position: '1'
   spine_color: '#8e4e43'
+  tags:
+  - historical-fiction
+  - fantasy
+  - myths-legends
+  - romance
   title: The Lost Queen
 plan:
   date_added: '2018-11-26'

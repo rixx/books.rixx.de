@@ -8,6 +8,10 @@ book:
   pages: '208'
   publication_year: '2009'
   spine_color: '#b20404'
+  tags:
+  - tech
+  - psychology
+  - personal-development
   title: The Checklist Manifesto
 plan:
   date_added: '2019-11-27'

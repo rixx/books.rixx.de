@@ -12,6 +12,9 @@ book:
   pages: 397
   publication_year: '2007'
   spine_color: '#854639'
+  tags:
+  - historical-fiction
+  - history
   title: Young Stalin
 plan:
   date_added: 2021-10-31

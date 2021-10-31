@@ -12,6 +12,7 @@ book:
   pages: 514
   publication_year: '2006'
   spine_color: '#e8232e'
+  tags: []
   title: Special Topics in Calamity Physics
 plan:
   date_added: 2021-10-31

@@ -10,6 +10,9 @@ book:
   series: 'Silencing the Past: Power and the Production of History'
   series_position: ''
   spine_color: '#c9a883'
+  tags:
+  - philosophy
+  - history
   title: Silencing the Past
 plan:
   date_added: 2021-10-31

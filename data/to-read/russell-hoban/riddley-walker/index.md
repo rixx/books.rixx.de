@@ -12,6 +12,9 @@ book:
   pages: 256
   publication_year: '1980'
   spine_color: '#48536d'
+  tags:
+  - scifi
+  - fantasy
   title: Riddley Walker
 plan:
   date_added: '2018-09-03'

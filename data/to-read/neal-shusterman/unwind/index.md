@@ -14,6 +14,10 @@ book:
   series: Unwind
   series_position: '1'
   spine_color: '#aa0c1b'
+  tags:
+  - ya
+  - scifi
+  - fantasy
   title: Unwind
 plan:
   date_added: '2018-08-27'

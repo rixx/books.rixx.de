@@ -8,6 +8,10 @@ book:
   pages: '337'
   publication_year: '2018'
   spine_color: '#453261'
+  tags:
+  - kids
+  - fantasy
+  - myths-legends
   title: The House with Chicken Legs
 plan:
   date_added: '2018-08-15'

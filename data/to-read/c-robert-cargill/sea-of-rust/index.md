@@ -8,6 +8,10 @@ book:
   pages: '365'
   publication_year: '2017'
   spine_color: '#a64e3f'
+  tags:
+  - tech
+  - scifi
+  - fantasy
   title: Sea of Rust
 plan:
   date_added: '2018-08-08'

@@ -10,6 +10,12 @@ book:
   series: A Charm of Magpies
   series_position: '3'
   spine_color: '#627180'
+  tags:
+  - romance
+  - mystery
+  - queer
+  - fantasy
+  - historical-fiction
   title: Flight of Magpies
 plan:
   date_added: 2021-10-31

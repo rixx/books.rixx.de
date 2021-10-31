@@ -14,6 +14,9 @@ book:
   series: Space Odyssey
   series_position: '1'
   spine_color: '#cac2a7'
+  tags:
+  - scifi
+  - fantasy
   title: '2001: A Space Odyssey'
 plan:
   date_added: '2018-07-31'

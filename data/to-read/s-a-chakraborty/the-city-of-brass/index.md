@@ -14,6 +14,12 @@ book:
   series: The Daevabad Trilogy
   series_position: '1'
   spine_color: '#d5a242'
+  tags:
+  - ya
+  - historical-fiction
+  - romance
+  - fantasy
+  - myths-legends
   title: The City of Brass
 plan:
   date_added: '2018-08-27'

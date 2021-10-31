@@ -14,6 +14,9 @@ book:
   series: 'Unauthorised Access: Physical Penetration Testing for IT Security Teams'
   series_position: ''
   spine_color: '#3f4b5e'
+  tags:
+  - tech
+  - nonfiction
   title: Unauthorised Access
 plan:
   date_added: 2021-10-31

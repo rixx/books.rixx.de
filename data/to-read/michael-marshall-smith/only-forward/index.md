@@ -12,6 +12,10 @@ book:
   pages: 320
   publication_year: '1994'
   spine_color: '#1e9997'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: Only Forward
 plan:
   date_added: 2021-10-31

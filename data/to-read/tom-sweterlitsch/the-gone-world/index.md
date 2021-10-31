@@ -12,6 +12,10 @@ book:
   pages: 388
   publication_year: '2018'
   spine_color: '#0f1e3c'
+  tags:
+  - mystery
+  - scifi
+  - time-travel
   title: The Gone World
 plan:
   date_added: 2021-10-31

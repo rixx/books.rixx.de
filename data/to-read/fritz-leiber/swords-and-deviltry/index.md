@@ -14,6 +14,9 @@ book:
   series: Fafhrd and the Gray Mouser
   series_position: '1'
   spine_color: '#467f97'
+  tags:
+  - fantasy
+  - scifi
   title: Swords and Deviltry
 plan:
   date_added: '2018-09-21'

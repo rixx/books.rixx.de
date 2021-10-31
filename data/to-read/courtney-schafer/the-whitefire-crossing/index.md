@@ -14,6 +14,11 @@ book:
   series: Shattered Sigil
   series_position: '1'
   spine_color: '#544045'
+  tags:
+  - ya
+  - queer
+  - scifi
+  - fantasy
   title: The Whitefire Crossing
 plan:
   date_added: '2018-09-15'

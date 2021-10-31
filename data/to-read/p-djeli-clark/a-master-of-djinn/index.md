@@ -10,6 +10,12 @@ book:
   series: Dead Djinn Universe
   series_position: '1'
   spine_color: '#79675a'
+  tags:
+  - queer
+  - historical-fiction
+  - mystery
+  - scifi
+  - fantasy
   title: A Master of Djinn
 plan:
   date_added: 2021-10-31

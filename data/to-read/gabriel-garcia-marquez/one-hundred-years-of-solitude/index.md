@@ -6,6 +6,9 @@ book:
   pages: '417'
   publication_year: '1967'
   spine_color: '#eae20e'
+  tags:
+  - fantasy
+  - historical-fiction
   title: One Hundred Years of Solitude
 plan:
   date_added: '2019-04-02'

@@ -7,6 +7,9 @@ book:
   isbn13: '9780140046984'
   publication_year: '1949'
   spine_color: '#77624a'
+  tags:
+  - historical-fiction
+  - mystery
   title: Brat Farrar
 plan:
   date_added: '2018-09-03'

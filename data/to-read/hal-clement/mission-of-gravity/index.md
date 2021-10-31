@@ -10,6 +10,9 @@ book:
   pages: 174
   publication_year: '1954'
   spine_color: '#f1d975'
+  tags:
+  - scifi
+  - fantasy
   title: Mission of Gravity
 plan:
   date_added: '2018-02-19'

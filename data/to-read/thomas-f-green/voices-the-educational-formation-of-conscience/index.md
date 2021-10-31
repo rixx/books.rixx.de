@@ -12,6 +12,8 @@ book:
   pages: 214
   publication_year: '1999'
   spine_color: '#a7c6af'
+  tags:
+  - philosophy
   title: 'Voices: The Educational Formation Of Conscience'
 plan:
   date_added: 2020-05-25

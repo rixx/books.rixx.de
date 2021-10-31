@@ -12,6 +12,8 @@ book:
   pages: 239
   publication_year: '2005'
   spine_color: '#aa7767'
+  tags:
+  - history
   title: The Fall of Rome and the End of Civilization
 plan:
   date_added: 2021-10-31

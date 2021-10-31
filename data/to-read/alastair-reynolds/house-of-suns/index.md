@@ -8,6 +8,10 @@ book:
   pages: '512'
   publication_year: '2008'
   spine_color: '#59585e'
+  tags:
+  - mystery
+  - scifi
+  - fantasy
   title: House of Suns
 plan:
   date_added: '2018-09-06'

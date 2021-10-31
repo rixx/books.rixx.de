@@ -14,6 +14,11 @@ book:
   series: 'The Luck Factor: The Scientific Study of the Lucky Mind'
   series_position: ''
   spine_color: '#26a6ed'
+  tags:
+  - philosophy
+  - tech
+  - psychology
+  - personal-development
   title: The Luck Factor
 plan:
   date_added: 2021-10-31

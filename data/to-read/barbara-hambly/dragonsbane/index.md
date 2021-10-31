@@ -14,6 +14,9 @@ book:
   series: Winterlands
   series_position: '1'
   spine_color: '#ad2f16'
+  tags:
+  - scifi
+  - fantasy
   title: Dragonsbane
 plan:
   date_added: '2018-09-03'

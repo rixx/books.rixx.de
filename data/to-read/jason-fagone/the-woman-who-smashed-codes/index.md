@@ -6,6 +6,10 @@ book:
   pages: '14'
   publication_year: '2017'
   spine_color: '#777d89'
+  tags:
+  - historical-fiction
+  - tech
+  - history
   title: The Woman Who Smashed Codes
 plan:
   date_added: '2020-01-07'

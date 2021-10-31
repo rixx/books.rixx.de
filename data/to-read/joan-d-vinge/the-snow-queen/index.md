@@ -14,6 +14,11 @@ book:
   series: The Snow Queen Cycle
   series_position: '1'
   spine_color: '#8094b1'
+  tags:
+  - scifi
+  - romance
+  - myths-legends
+  - fantasy
   title: The Snow Queen
 plan:
   date_added: '2018-08-28'

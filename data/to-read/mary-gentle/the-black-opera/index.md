@@ -8,7 +8,10 @@ book:
   pages: '688'
   publication_year: '2012'
   spine_color: '#e7d2a7'
-  tags: []
+  tags:
+  - historical-fiction
+  - scifi
+  - fantasy
   title: The Black Opera
 plan:
   date_added: 2020-07-26

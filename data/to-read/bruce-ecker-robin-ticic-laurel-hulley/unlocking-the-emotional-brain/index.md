@@ -8,6 +8,10 @@ book:
   pages: '265'
   publication_year: '2012'
   spine_color: '#e6b87c'
+  tags:
+  - tech
+  - psychology
+  - personal-development
   title: Unlocking the Emotional Brain
 plan:
   date_added: 2021-10-31

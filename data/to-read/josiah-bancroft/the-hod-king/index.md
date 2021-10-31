@@ -10,6 +10,9 @@ book:
   series: The Books of Babel
   series_position: '3'
   spine_color: '#85648a'
+  tags:
+  - scifi
+  - fantasy
   title: The Hod King
 plan:
   date_added: 2021-10-31

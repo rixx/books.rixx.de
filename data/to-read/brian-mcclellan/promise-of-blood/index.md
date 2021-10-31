@@ -10,6 +10,11 @@ book:
   series: Powder Mage
   series_position: '1'
   spine_color: '#6b554b'
+  tags:
+  - ya
+  - fantasy
+  - scifi
+  - kids
   title: Promise of Blood
 plan:
   date_added: '2018-08-20'

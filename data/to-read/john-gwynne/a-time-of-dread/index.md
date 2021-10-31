@@ -10,6 +10,9 @@ book:
   series: Of Blood and Bone
   series_position: '1'
   spine_color: '#a9654c'
+  tags:
+  - scifi
+  - fantasy
   title: A Time of Dread
 plan:
   date_added: '2019-04-03'

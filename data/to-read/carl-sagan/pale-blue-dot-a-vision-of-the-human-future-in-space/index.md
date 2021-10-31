@@ -12,6 +12,11 @@ book:
   pages: 384
   publication_year: '1994'
   spine_color: '#73321a'
+  tags:
+  - philosophy
+  - tech
+  - scifi
+  - history
   title: 'Pale Blue Dot: A Vision of the Human Future in Space'
 plan:
   date_added: '2017-02-01'

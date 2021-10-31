@@ -8,6 +8,9 @@ book:
   pages: '251'
   publication_year: '1976'
   spine_color: '#fdfdfd'
+  tags:
+  - scifi
+  - fantasy
   title: Where Late the Sweet Birds Sang
 plan:
   date_added: '2018-09-03'

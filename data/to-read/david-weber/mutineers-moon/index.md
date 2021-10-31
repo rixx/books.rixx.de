@@ -14,6 +14,9 @@ book:
   series: Dahak
   series_position: '1'
   spine_color: '#c98170'
+  tags:
+  - scifi
+  - fantasy
   title: Mutineers' Moon
 plan:
   date_added: '2018-08-25'

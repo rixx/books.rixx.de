@@ -12,6 +12,8 @@ book:
   series: Millennium
   series_position: '2'
   spine_color: '#e82b16'
+  tags:
+  - mystery
   title: The Girl Who Played with Fire
 plan:
   date_added: '2017-02-01'

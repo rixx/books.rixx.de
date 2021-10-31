@@ -14,6 +14,12 @@ book:
   series: The Dark is Rising
   series_position: '1'
   spine_color: '#b4a074'
+  tags:
+  - myths-legends
+  - kids
+  - fantasy
+  - ya
+  - scifi
   title: Over Sea, Under Stone
 plan:
   date_added: '2018-09-15'

@@ -8,6 +8,10 @@ book:
   series: Dr. Greta Helsing
   series_position: '1'
   spine_color: '#c50a0b'
+  tags:
+  - fantasy
+  - mystery
+  - urban-fantasy
   title: Strange Practice
 plan:
   date_added: '2019-02-04'

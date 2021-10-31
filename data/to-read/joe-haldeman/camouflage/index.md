@@ -12,6 +12,9 @@ book:
   pages: 289
   publication_year: '2004'
   spine_color: '#cac6b7'
+  tags:
+  - scifi
+  - fantasy
   title: Camouflage
 plan:
   date_added: 2021-10-31

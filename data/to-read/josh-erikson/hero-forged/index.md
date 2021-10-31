@@ -8,6 +8,9 @@ book:
   series: Ethereal Earth
   series_position: '1'
   spine_color: '#8d8581'
+  tags:
+  - urban-fantasy
+  - fantasy
   title: Hero Forged
 plan:
   date_added: '2019-04-01'

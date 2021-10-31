@@ -14,6 +14,11 @@ book:
   series: The Raven Cycle
   series_position: '1'
   spine_color: '#2e161d'
+  tags:
+  - ya
+  - fantasy
+  - urban-fantasy
+  - romance
   title: The Raven Boys
 plan:
   date_added: '2018-09-15'

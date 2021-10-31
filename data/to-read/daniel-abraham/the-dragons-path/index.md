@@ -10,7 +10,9 @@ book:
   series: The Dagger and the Coin
   series_position: '1'
   spine_color: '#436d7d'
-  tags: []
+  tags:
+  - scifi
+  - fantasy
   title: The Dragon's Path
 plan:
   date_added: 2020-07-26

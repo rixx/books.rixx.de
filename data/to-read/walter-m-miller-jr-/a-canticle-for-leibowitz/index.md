@@ -14,6 +14,10 @@ book:
   series: St. Leibowitz
   series_position: '1'
   spine_color: '#dab462'
+  tags:
+  - history
+  - scifi
+  - fantasy
   title: A Canticle for Leibowitz
 plan:
   date_added: '2018-09-25'

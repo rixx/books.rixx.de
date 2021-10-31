@@ -10,7 +10,10 @@ book:
   series: Hawk & Fisher
   series_position: '1'
   spine_color: '#8f5451'
-  tags: []
+  tags:
+  - mystery
+  - urban-fantasy
+  - fantasy
   title: No Haven for the Guilty
 plan:
   date_added: 2021-02-17

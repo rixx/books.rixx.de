@@ -10,7 +10,8 @@ book:
   series: The Left Hand of the Electron
   series_position: ''
   spine_color: '#baba55'
-  tags: []
+  tags:
+  - tech
   title: The Left Hand of The Electron
 plan:
   date_added: 2021-02-17

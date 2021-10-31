@@ -8,6 +8,8 @@ book:
   pages: null
   publication_year: null
   spine_color: '#dad2bf'
+  tags:
+  - personal-development
   title: Practising The Power Of Now, Stillness Speaks and The Power of Now 3 Eckhart
     Tolle Books Collection Box set
 plan:

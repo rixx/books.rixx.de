@@ -12,6 +12,9 @@ book:
   pages: 316
   publication_year: '2009'
   spine_color: '#49494a'
+  tags:
+  - historical-fiction
+  - history
   title: 'Nothing to Envy: Ordinary Lives in North Korea'
 plan:
   date_added: '2016-05-19'

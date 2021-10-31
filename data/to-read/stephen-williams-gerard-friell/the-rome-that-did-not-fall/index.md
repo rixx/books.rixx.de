@@ -14,6 +14,9 @@ book:
   series: 'The Rome that Did Not Fall: The Survival of the East in the Fifth Century'
   series_position: ''
   spine_color: '#b0a96f'
+  tags:
+  - historical-fiction
+  - history
   title: The Rome That Did Not Fall
 plan:
   date_added: 2021-10-31

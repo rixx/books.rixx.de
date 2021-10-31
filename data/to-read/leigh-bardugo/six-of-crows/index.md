@@ -14,6 +14,11 @@ book:
   series: Six of Crows
   series_position: '1'
   spine_color: '#63717b'
+  tags:
+  - fantasy
+  - ya
+  - queer
+  - romance
   title: Six of Crows
 plan:
   date_added: '2018-07-04'

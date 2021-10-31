@@ -12,6 +12,8 @@ book:
   pages: 246
   publication_year: '1978'
   spine_color: '#ab9171'
+  tags:
+  - tech
   title: Data and Reality
 plan:
   date_added: '2019-11-15'

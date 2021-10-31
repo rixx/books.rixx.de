@@ -8,6 +8,9 @@ book:
   pages: '414'
   publication_year: '2011'
   spine_color: '#ec6b42'
+  tags:
+  - romance
+  - historical-fiction
   title: Wildauge
 plan:
   date_added: '2019-01-25'

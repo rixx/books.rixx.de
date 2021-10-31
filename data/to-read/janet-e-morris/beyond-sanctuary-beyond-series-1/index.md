@@ -10,6 +10,11 @@ book:
   series: Beyond Sanctuary
   series_position: ''
   spine_color: '#71624d'
+  tags:
+  - personal-development
+  - historical-fiction
+  - fantasy
+  - scifi
   title: 'Beyond Sanctuary (Beyond Series, #1)'
 plan:
   date_added: 2021-10-31

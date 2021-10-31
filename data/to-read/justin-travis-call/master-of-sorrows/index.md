@@ -8,6 +8,9 @@ book:
   series: The Silent Gods
   series_position: '1'
   spine_color: '#555950'
+  tags:
+  - ya
+  - fantasy
   title: Master of Sorrows
 plan:
   date_added: '2019-01-28'

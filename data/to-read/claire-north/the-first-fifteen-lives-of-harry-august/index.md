@@ -8,7 +8,11 @@ book:
   pages: '417'
   publication_year: '2014'
   spine_color: '#3d4e6c'
-  tags: []
+  tags:
+  - time-travel
+  - scifi
+  - fantasy
+  - historical-fiction
   title: The First Fifteen Lives of Harry August
 plan:
   date_added: 2021-02-17

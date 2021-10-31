@@ -14,6 +14,12 @@ book:
   series: Astreiant
   series_position: '1'
   spine_color: '#353e25'
+  tags:
+  - romance
+  - mystery
+  - queer
+  - fantasy
+  - historical-fiction
   title: Point of Hopes
 plan:
   date_added: 2021-10-31

@@ -8,6 +8,9 @@ book:
   pages: '293'
   publication_year: '1981'
   spine_color: '#db5013'
+  tags:
+  - tech
+  - history
   title: The Soul of a New Machine
 plan:
   date_added: '2018-08-26'

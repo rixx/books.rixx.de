@@ -8,6 +8,8 @@ book:
   pages: '287'
   publication_year: '2006'
   spine_color: '#868680'
+  tags:
+  - scifi
   title: The Road
 plan:
   date_added: '2018-09-30'
