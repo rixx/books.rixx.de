@@ -7,21 +7,42 @@ book:
   isbn13: '9781324002932'
   pages: '392'
   publication_year: '2020'
-  series: 'The Light Ages: The Surprising Story of Medieval Science'
-  series_position: ''
   spine_color: '#c08445'
   tags:
   - history
   title: The Light Ages
 plan:
   date_added: 2021-11-01
+related_books:
+- book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
+  text: Another book about middle age tech, but broader, and more focused on technology.
 review:
   date_read:
   - 2021-08-06
   rating: 4
-related_books:
-- book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
-  text: Another book about middle age tech, but broader, and more focused on technology.
+  tldr: Explains medieval astronomy and all the related science and things by following
+    one specific monk. Very down to earth and interesting as long as you skip the
+    technical astronomy parts.
+social:
+  mastodon:
+    datetime: 2021-11-02 11:14:29.639824
+    id: '107206939085183216'
+    in_reply_to: '107201466999828620'
+    text: '77/ The Light Ages by Seb Falk. Explains medieval astronomy and all the
+      related science and things by following one specific monk. Very down to earth
+      and interesting as long as you skip the technical astronomy parts.
+
+      https://books.rixx.de/seb-falk/the-light-ages/ #rixxReads'
+  number: 77
+  twitter:
+    datetime: 2021-11-02 11:14:29.258955
+    id: '1455478409929363460'
+    in_reply_to: '1455128194139496452'
+    text: '77/ The Light Ages by Seb Falk. Explains medieval astronomy and all the
+      related science and things by following one specific monk. Very down to earth
+      and interesting as long as you skip the technical astronomy parts.
+
+      https://books.rixx.de/seb-falk/the-light-ages/'
 ---
 
 Seb Falk follows the reconstructed life story of one particular English monk, John Westwyk, to show off how life and
@@ -232,4 +253,3 @@ Germany, most church registers from before the 30 years war have been lost, and 
 along the years the registers start (this goes especially for small villages). Whereas in England, you can say stuff
 like "He was probably ordained in this year, but we can't know for sure, because the ordinations from the years 1368-79
 are lost".
-
