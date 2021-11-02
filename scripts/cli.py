@@ -141,11 +141,3 @@ def social(dry_run):
     from .social import post_next
 
     post_next(dry_run=dry_run)
-
-
-@cli.command()
-def reddit():
-    """ Import book data from a goodreads-to-sqlite database. """
-    from .reddit import run_reddit
-
-    run_reddit()
