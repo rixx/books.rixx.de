@@ -36,7 +36,9 @@ related_books:
 review:
   date_read:
   - 2004-04-01
+  - 2021-08-12
   rating: 5
+  tldr: What's there to say? The book is a giant pretentious nerd trap and I enjoy pretty much everything about it. Re-read.
 ---
 
 Medieval monks? Thinly disguised opportunities to lecture the reader about history and theology? Showing off your
