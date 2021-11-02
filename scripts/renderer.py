@@ -1,141 +1,14 @@
 import datetime as dt
-import hashlib
 import itertools
 import json
-import pathlib
-import statistics
-import subprocess
-import uuid
 import sys
 from collections import defaultdict
-from functools import partial
-from io import StringIO
 from pathlib import Path
 
-import markdown
 import networkx as nx
-import smartypants
-from jinja2 import Environment, FileSystemLoader, select_autoescape
-from markdown.extensions.smarty import SmartyExtension
-from PIL import Image
 
-from . import books, reddit
-
-
-def unmark_element(element, stream=None):
-    if stream is None:
-        stream = StringIO()
-    if element.text:
-        stream.write(element.text)
-    for sub in element:
-        unmark_element(sub, stream)
-    if element.tail:
-        stream.write(element.tail)
-    return stream.getvalue()
-
-
-# patching Markdown
-markdown.Markdown.output_formats["plain"] = unmark_element
-plain_markdown = markdown.Markdown(output_format="plain")
-plain_markdown.stripTopLevelTags = False
-
-
-def rsync(source, destination):
-    subprocess.check_call(["rsync", "--recursive", "--delete", source, destination])
-
-
-def render_markdown(text):
-    return markdown.markdown(text, extensions=[SmartyExtension()])
-
-
-def strip_markdown(text):
-    return plain_markdown.convert(text)
-
-
-def render_date(date_value):
-    if isinstance(date_value, dt.date):
-        return date_value.strftime("%Y-%m-%d")
-    return date_value
-
-
-def render_page(template_name, path, env=None, **context):
-    template = env.get_template(template_name)
-    html = template.render(**context)
-    out_path = pathlib.Path("_html") / path
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(html)
-
-
-def render_string(path, string):
-    out_path = pathlib.Path("_html") / path
-    out_path.parent.mkdir(exist_ok=True, parents=True)
-    out_path.write_text(string)
-
-
-def render_feed(events, path, render):
-    for event in events:
-        m = hashlib.md5()
-        m.update(
-            f"{event.metadata['book']['title']}:{event.entry_type}:{event.relevant_date}:{event.metadata['book'].get('goodreads', '')}".encode()
-        )
-        event.feed_uuid = str(uuid.UUID(m.hexdigest()))
-
-    render("feed.atom", path, events=events)
-
-
-def render_tag_page(tag, reviews, render):
-    render(
-        "tag.html",
-        f"lists/{tag.slug}/index.html",
-        tag=tag,
-        reviews=reviews,
-        active="lists",
-        title="List: " + (tag.metadata.get("title") or tag.slug),
-    )
-
-
-def _create_new_thumbnail(src_path, dst_path):
-    dst_path.parent.mkdir(exist_ok=True, parents=True)
-
-    im = Image.open(src_path)
-
-    if im.width > 240 and im.height > 240:
-        im.thumbnail((240, 240))
-    im.save(dst_path)
-
-
-def _create_new_square(src_path, square_path):
-    square_path.parent.mkdir(exist_ok=True, parents=True)
-
-    im = Image.open(src_path)
-    im.thumbnail((240, 240))
-
-    dimension = max(im.size)
-
-    new = Image.new("RGBA", size=(dimension, dimension), color=(255, 255, 255, 0))
-
-    if im.height > im.width:
-        new.paste(im, box=((dimension - im.width) // 2, 0))
-    else:
-        new.paste(im, box=(0, (dimension - im.height) // 2))
-
-    new.save(square_path)
-
-
-def create_thumbnail(review):
-    if not review.cover_path:
-        return
-
-    html_path = pathlib.Path("_html") / review.id
-    thumbnail_path = html_path / "thumbnail.jpg"
-    square_path = html_path / "square.png"
-    cover_path = html_path / review.cover_path.name
-    cover_age = review.cover_path.stat().st_mtime
-
-    if not cover_path.exists() or cover_age > cover_path.stat().st_mtime:
-        rsync(review.cover_path, cover_path)
-        _create_new_thumbnail(review.cover_path, thumbnail_path)
-        _create_new_square(review.cover_path, square_path)
+from . import books
+from .rendering import images, stats, template
 
 
 def isfloat(value):
@@ -146,212 +19,41 @@ def isfloat(value):
         return False
 
 
-def median_year(reviews):
-    years = [
-        int(review.metadata["book"].get("publication_year"))
-        for review in reviews
-        if review.metadata["book"].get("publication_year")
-    ]
-    return int(statistics.median(years))
-
-
-def median_length(reviews):
-    pages = [
-        int(review.metadata["book"].get("pages"))
-        for review in reviews
-        if review.metadata["book"].get("pages")
-    ]
-    return int(statistics.median(pages))
-
-
-def xml_element(name, content, **kwargs):
-    attribs = " ".join(
-        f'{key.strip("_").replace("_", "-")}="{value}"' for key, value in kwargs.items()
-    ).strip()
-    attribs = f" {attribs}" if attribs else ""
-    content = content or ""
-    return f"<{name}{attribs}>{content}</{name}>"
-
-
-def generate_svg(
-    data, key, max_month, max_year, primary_color, secondary_color, offset
-):
-    current_year = dt.datetime.now().year
-    fallback_color = "#ebedf0"
-    content = ""
-    year_width = 45
-    rect_height = 15
-    gap = 3
-    block_width = rect_height + gap
-    stats_width = 6 * block_width
-    total_width = (block_width * 12) + year_width * 3 + stats_width
-    total_height = block_width * len(data)
-    for row, year in enumerate(data):
-        year_content = (
-            xml_element(
-                "text",
-                year["year"],
-                x=year_width - gap * 2,
-                y=row * 18 + 13,
-                width=year_width,
-                text_anchor="end",
-            )
-            + "\n"
-        )
-        for column, month in enumerate(year["months"]):
-            total = month.get(f"total_{key}")
-            title = xml_element("title", f"{month['date']}: {total}")
-            if total:
-                color = primary_color.format((total + offset) / max_month)
-            elif year["year"] == current_year:
-                continue
-            else:
-                color = fallback_color
-            rect = xml_element(
-                "rect",
-                title,
-                width=rect_height,
-                height=rect_height,
-                x=column * block_width + year_width,
-                y=row * block_width,
-                fill=color,
-                _class="month",
-            )
-            year_content += (
-                xml_element("a", rect, href=f"/reviews/{year['year']}/#{month['date']}")
-                + "\n"
-            )
-
-        total = year.get(f"total_{key}")
-        title = xml_element("title", f"{year['year']}: {total}")
-        rect_width = total * stats_width / max_year
-        rect = xml_element(
-            "rect",
-            title,
-            width=rect_width,
-            height=rect_height,
-            x=12 * block_width + year_width,
-            y=row * block_width,
-            fill=secondary_color.format(0.42),
-            _class="total",
-        )
-        content += year_content + rect + "\n"
-        content += (
-            xml_element(
-                "text",
-                total,
-                x=12.5 * block_width + year_width + rect_width,
-                y=row * 18 + 13,
-                width=year_width * 2,
-                fill="#97989a",
-            )
-            + "\n"
-        )
-
-    return xml_element(
-        "svg", content, style=f"width: {total_width}px; height: {total_height}px"
-    )
-
-
-def get_stats(reviews, years):
-    stats = {}
-    time_lookup = defaultdict(list)
-    for review in reviews:
-        for timestamp in review.metadata["review"]["date_read"]:
-            key = timestamp.strftime("%Y-%m")
-            time_lookup[key].append(review)
-
-    most_monthly_books = 0
-    most_monthly_pages = 0
-    most_yearly_books = 0
-    most_yearly_pages = 0
-    numbers = []
-    for year in years:
-        total_pages = 0
-        total_books = 0
-        months = []
-        for month in range(12):
-            written_month = f"{month + 1:02}"
-            written_date = f"{year}-{written_month}"
-            reviews = time_lookup[written_date]
-            book_count = len(reviews)
-            page_count = sum(
-                int(review.metadata["book"].get("pages", 0) or 0) for review in reviews
-            )
-            total_pages += page_count
-            total_books += book_count
-            most_monthly_books = max(most_monthly_books, book_count)
-            most_monthly_pages = max(most_monthly_pages, page_count)
-            months.append(
-                {
-                    "month": written_month,
-                    "date": written_date,
-                    "total_books": book_count,
-                    "total_pages": page_count,
-                }
-            )
-        most_yearly_books = max(most_yearly_books, total_books)
-        most_yearly_pages = max(most_yearly_pages, total_pages)
-        numbers.append(
-            {
-                "year": year,
-                "months": months,
-                "total_pages": total_pages,
-                "total_books": total_books,
-            }
-        )
-
-    stats["pages"] = generate_svg(
-        numbers,
-        "pages",
-        max_month=most_monthly_pages,
-        max_year=most_yearly_pages,
-        primary_color="rgba(0, 113, 113, {})",
-        secondary_color="rgba(153, 0, 0, {})",
-        offset=1000,
-    )
-    stats["books"] = generate_svg(
-        numbers,
-        "books",
-        max_month=most_monthly_books,
-        max_year=most_yearly_books,
-        primary_color="rgba(153, 0, 0, {})",
-        secondary_color="rgba(0, 113, 113, {})",
-        offset=1,
-    )
-
-    return stats
+def sort_reviews(reviews):
+    return sorted(reviews, key=lambda x: x.relevant_date, reverse=True)
 
 
 def build_site(**kwargs):
     print("✨ Starting to build the site … ✨")
-    env = Environment(
-        loader=FileSystemLoader("templates"),
-        autoescape=select_autoescape(["html", "xml"]),
-    )
-    env.filters["render_markdown"] = render_markdown
-    env.filters["strip_markdown"] = strip_markdown
-    env.filters["render_date"] = render_date
-    env.filters["smartypants"] = smartypants.smartypants
-    render = partial(render_page, env=env)
+    this_year = dt.datetime.now().strftime("%Y")
 
     print("📔 Loading reviews from files")
-    this_year = dt.datetime.now().strftime("%Y")
     review_lookup = {review.id: review for review in books.load_reviews()}
-    all_plans = list(books.load_to_read())
 
-    all_reviews = sorted(
-        review_lookup.values(), key=lambda x: x.relevant_date, reverse=True
+    all_reviews = sort_reviews(review_lookup.values())
+    all_plans = sort_reviews(books.load_to_read())
+    all_events = sort_reviews(all_plans + all_reviews)
+
+    authors_with_reviews = sorted(
+        [
+            (author, list(reviews))
+            for (author, reviews) in itertools.groupby(
+                sorted(
+                    all_reviews,
+                    key=lambda rev: rev.metadata["book"]["author"],
+                ),
+                key=lambda review: review.metadata["book"]["author"],
+            )
+        ],
+        key=lambda x: x[0].upper(),
     )
-    all_plans = sorted(all_plans, key=lambda x: x.relevant_date, reverse=True)
-    all_events = all_plans + all_reviews
-    all_events = sorted(all_events, key=lambda x: x.relevant_date, reverse=True)
+    author_lookup = dict(authors_with_reviews)
+
     tags = defaultdict(list)
     reviews_by_year = defaultdict(list)
-
-    # Render single review pages
     redirects = []
 
+    # Render single review pages
     print("🖋 Rendering review pages")
     for review in all_reviews:
         review.spine = books.Spine(review)
@@ -369,16 +71,17 @@ def build_site(**kwargs):
             sys.exit(-1)
         for timestamp in review.metadata["review"]["date_read"]:
             year = timestamp.strftime("%Y")
-            redirects.append(
-                (
-                    f"reviews/{year}/{review.slug}",
-                    review.id,
-                )
-            )
             reviews_by_year[year].append(review)
+            if int(year) <= 2020:
+                redirects.append(
+                    (
+                        f"reviews/{year}/{review.slug}",
+                        review.id,
+                    )
+                )
         for tag in review.metadata["book"].get("tags", []):
             tags[tag].append(review)
-        render(
+        template.render(
             "review.html",
             Path(review.id) / "index.html",
             review=review,
@@ -386,22 +89,7 @@ def build_site(**kwargs):
             active="read",
         )
 
-    render("redirects.conf", "redirects.conf", redirects=redirects)
-
-    authors_with_reviews = sorted(
-        [
-            (author, list(reviews))
-            for (author, reviews) in itertools.groupby(
-                sorted(
-                    all_reviews,
-                    key=lambda rev: rev.metadata["book"]["author"],
-                ),
-                key=lambda review: review.metadata["book"]["author"],
-            )
-        ],
-        key=lambda x: x[0].upper(),
-    )
-    author_lookup = dict(authors_with_reviews)
+    template.render("redirects.conf", "redirects.conf", redirects=redirects)
 
     for plan in all_plans:
         if plan.metadata["book"]["author"] in author_lookup:
@@ -425,15 +113,32 @@ def build_site(**kwargs):
     }
 
     for tag, reviews in tags.items():
-        render_tag_page(tag, reviews, render)
+        template.render(
+            "tag.html",
+            f"lists/{tag.slug}/index.html",
+            tag=tag,
+            reviews=reviews,
+            active="lists",
+            title="List: " + (tag.metadata.get("title") or tag.slug),
+        )
 
-    render("tags.html", "lists/index.html", tags=tags, active="lists")
+    template.render("tags.html", "lists/index.html", tags=tags, active="lists")
 
-    # Render the "all reviews" page
+    # Render stats page
+    print("📊 Rendering stats")
+    all_years = sorted(list(reviews_by_year.keys()), reverse=True)
+    grid = stats.get_stats_grid(reviews=all_reviews, years=all_years)
+    table = stats.get_stats_table(reviews=all_reviews, plans=all_plans, years=all_years)
+    template.render(
+        "stats.html",
+        "stats/index.html",
+        grid=grid,
+        table=table,
+        active="stats",
+    )
 
     print("🔎 Rendering list pages")
-
-    all_years = sorted(list(reviews_by_year.keys()), reverse=True)
+    # Render the "all reviews" page
     for (year, reviews) in reviews_by_year.items():
         kwargs = {
             "reviews": sorted(
@@ -445,20 +150,26 @@ def build_site(**kwargs):
             "title": "Books I’ve read",
             "active": "read",
         }
-        render(
+        template.render(
             "list_reviews.html",
             f"reviews/{year or 'other'}/index.html",
             **kwargs,
         )
+        year_stats = stats.get_year_stats(year, reviews)
+        template.render(
+            "year_stats.html",
+            f"reviews/{year or 'other'}/stats/index.html",
+            stats=year_stats,
+            **kwargs,
+        )
         if year == this_year:
-            render(
+            template.render(
                 "list_reviews.html",
                 "reviews/index.html",
                 **kwargs,
             )
 
     # Render the "by title" page
-
     title_reviews = sorted(
         [
             (letter, list(reviews))
@@ -473,7 +184,7 @@ def build_site(**kwargs):
         ],
         key=lambda x: (not x[0].isalpha(), x[0].upper()),
     )
-    render(
+    template.render(
         "list_by_title.html",
         "reviews/by-title/index.html",
         reviews=title_reviews,
@@ -494,7 +205,7 @@ def build_site(**kwargs):
         ],
         key=lambda x: (not x[0].isalpha(), x[0].upper()),
     )
-    render(
+    template.render(
         "list_by_author.html",
         "reviews/by-author/index.html",
         reviews=author_reviews,
@@ -505,7 +216,7 @@ def build_site(**kwargs):
     )
 
     for author, reviews in authors_with_reviews:
-        render(
+        template.render(
             "author.html",
             f"{reviews[0].author_slug}/index.html",
             author=author,
@@ -544,7 +255,7 @@ def build_site(**kwargs):
         [s for s in series_reviews if len(s[1]) > 1],
         key=lambda x: (not x[0][0].isalpha(), x[0].upper()),
     )
-    render(
+    template.render(
         "list_by_series.html",
         "reviews/by-series/index.html",
         reviews=series_reviews,
@@ -573,84 +284,32 @@ def build_site(**kwargs):
     for plan in mapped_plans:
         plan["books"] = sorted(plan["books"], key=lambda r: r.metadata["book"]["title"])
 
-    render(
+    template.render(
         "list_to_read.html",
         "to-read/index.html",
         mapped_plans=mapped_plans,
-        title="Books i want to read",
+        title="Books I want to read",
         active="to-read",
     )
 
     print("📷 Generating thumbnails")
     for event in all_events:
-        create_thumbnail(event)
+        images.create_thumbnail(event)
 
-    rsync(source="static/", destination="_html/static/")
+    images.rsync(source="static/", destination="_html/static/")
 
     # Render feeds
     print("📰 Rendering feed pages")
-    render_feed(all_reviews[:20], "feed.atom", render)
-    render_feed(all_reviews[:20], "reviews.atom", render)
+    template.render_feed(all_reviews[:20], "feed.atom")
+    template.render_feed(all_reviews[:20], "reviews.atom")
 
     # Render the front page
-    render(
+    template.render(
         "index.html",
         "index.html",
         text=open("data/index.md").read(),
         reviews=all_reviews[:5],
         shelf_books=sorted(all_reviews, key=lambda x: x.metadata["book"]["author"]),
-    )
-
-    # Render stats page
-    print("📊 Rendering stats")
-    stats = get_stats(reviews=all_reviews, years=all_years)
-    stats["table"] = [
-        ("Total books", len(all_reviews), len(all_plans)),
-        (
-            "Books without review",
-            len([b for b in all_reviews if not b.text.strip()]),
-            None,
-        ),
-        (
-            "Books without related books",
-            len([b for b in all_reviews if not b.metadata.get("related_books")]),
-            None,
-        ),
-        (
-            "Books per week",
-            round(
-                len(all_reviews)
-                / ((dt.datetime.now().date() - dt.date(1998, 1, 1)).days / 7),
-                2,
-            ),
-            round(
-                len(all_plans)
-                / ((dt.datetime.now().date() - all_plans[-1].relevant_date).days / 7),
-                2,
-            ),
-        ),
-        ("Median publication year", median_year(all_reviews), median_year(all_plans)),
-        ("Median length", median_length(all_reviews), median_length(all_plans)),
-    ]
-    render(
-        "stats.html",
-        "stats/index.html",
-        stats=stats,
-        active="stats",
-    )
-    squares = reddit.SQUARES
-    data = reddit.load_reddit_data()
-    data.pop("hacky")
-    for square, content in data.items():
-        squares[square]["books"] = {
-            "normal": [review_lookup[book] for book in content["normal"]],
-            "hard": [review_lookup[book] for book in content["hard"]],
-        }
-    squares = list(squares.values())
-    render(
-        "bingo.html",
-        "bingo/index.html",
-        squares=[squares[i * 5 : i * 5 + 5] for i in range(5)],
     )
 
     # Render graph page
@@ -701,9 +360,11 @@ def build_site(**kwargs):
         }
         for tag in tags.keys()
     ]
-    render_string("search.json", json.dumps({"books": nodes, "tags": search_tags}))
-    render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
-    render(
+    template.render_string(
+        "search.json", json.dumps({"books": nodes, "tags": search_tags})
+    )
+    template.render_string("graph.json", json.dumps({"nodes": nodes, "links": edges}))
+    template.render(
         "graph.html",
         "graph/index.html",
         node_count=graph.number_of_nodes(),
