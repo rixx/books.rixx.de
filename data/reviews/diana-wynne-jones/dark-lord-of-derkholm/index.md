@@ -28,6 +28,8 @@ related_books:
   text: Wildly different book, but also one that understands families.
 - book: diana-wynne-jones/the-magicians-of-caprona
   text: Another Wynne Jones book that focuses on a magical family.
+- book: diana-wynne-jones/cart-and-cwidder
+  text: Another Wynne Jones book that focuses on a (slightly less magical) family.
 review:
   date_read:
   - 2020-07-30

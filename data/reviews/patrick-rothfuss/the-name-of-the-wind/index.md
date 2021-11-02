@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: ursula-k-le-guin/a-wizard-of-earthsea
   text: Magic with names and balances and strange teachers. Less indulgent.
+- book: diana-wynne-jones/cart-and-cwidder
+  text: Now *this* is how you write a family of travelling musicians and performers.
 - book: scott-lynch/the-lies-of-locke-lamora
   text: Similar protagonist ego size.
 - book: n-k-jemisin/the-hundred-thousand-kingdoms

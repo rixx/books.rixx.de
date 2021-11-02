@@ -23,6 +23,8 @@ related_books:
 - book: otfried-preussler/krabat
   text: A completely different book, but also one with darkness and that doesn't try
     to coddle the young reader.
+- book: diana-wynne-jones/cart-and-cwidder
+  text: Another book for children with good-but-fallible parents, who are much more complex when seen through adult eyes.
 review:
   date_read:
   - 2001-12-01

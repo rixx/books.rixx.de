@@ -27,7 +27,7 @@ related_books:
 review:
   date_read:
   - 2020-06-04
-  rating: 3
+  rating: 2
 ---
 
 Knightly Academy is, in a sentence, a conservative Harry Potter knockoff without magic.
