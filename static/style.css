@@ -932,54 +932,6 @@ header a {
   stroke-width: 3px;
 }
 
-#bingo {
-  display: flex;
-  flex-direction: column;
-}
-#bingo .bingo-row {
-  display:flex;
-  
-}
-#bingo .bingo-square {
-  border: solid black 1px;
-  flex: 1 1 0px;
-  margin: 4px;
-  border-radius: 3px;
-  padding: 4px;
-  font-size: 18px;
-  font-weight: bold;
-  position: relative;
-}
-#bingo .bingo-hint {
-  position: absolute;
-  top: 2px;
-  right: 4px;
-}
-#bingo .bingo-hint::after {
-  position: absolute;
-  right: 4px;
-  bottom: 2px;
-  content: attr(data-description);
-  width: 250px;
-  color: black;
-  background: white;
-  border: 1px solid black;
-  border-radius: 4px;
-  padding: 4px;
-  display: none;
-  font-weight: normal;
-}
-#bingo .bingo-hint:hover::after {
-  display: block;
-}
-#bingo .hard-bingo img {
-  border: 3px #990000 dotted;
-}
-#bingo img {
-  height: 70px;
-  margin-bottom: 4px;
-}
-
 @media (max-width: 480px) {
   main, main:not(.wide) {
     border-left: none;
