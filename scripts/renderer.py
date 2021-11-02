@@ -112,7 +112,7 @@ def _create_new_square(src_path, square_path):
 
     dimension = max(im.size)
 
-    new = Image.new("RGB", size=(dimension, dimension), color=(255, 255, 255))
+    new = Image.new("RGBA", size=(dimension, dimension), color=(255, 255, 255, 0))
 
     if im.height > im.width:
         new.paste(im, box=((dimension - im.width) // 2, 0))
@@ -128,7 +128,7 @@ def create_thumbnail(review):
 
     html_path = pathlib.Path("_html") / review.id
     thumbnail_path = html_path / "thumbnail.jpg"
-    square_path = html_path / "square.jpg"
+    square_path = html_path / "square.png"
     cover_path = html_path / review.cover_path.name
     cover_age = review.cover_path.stat().st_mtime
 
