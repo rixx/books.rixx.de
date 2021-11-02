@@ -5,7 +5,6 @@ import textwrap
 import tweepy
 from mastodon import Mastodon
 
-
 START_TOOT = "105514390528757710"
 START_TWEET = "1347155275552329730"
 

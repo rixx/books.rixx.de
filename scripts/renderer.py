@@ -412,7 +412,7 @@ def build_site(**kwargs):
     print("🔖 Rendering tag pages")
     tags = {
         books.Tag(tag): sorted(
-            tags[tag],
+            reviews,
             key=lambda rev: (
                 5 - (rev.metadata["review"]["rating"] or 5),
                 rev.metadata["book"]["author"],
@@ -421,7 +421,7 @@ def build_site(**kwargs):
                 rev.metadata["book"]["title"],
             ),
         )
-        for tag in sorted(tags.keys())
+        for tag, reviews in tags.items()
     }
 
     for tag, reviews in tags.items():
@@ -517,7 +517,6 @@ def build_site(**kwargs):
         )
 
     # Render the "by series" page
-
     series_reviews = [
         (
             series,

@@ -168,7 +168,6 @@ class Review:
         save=True,
         push_to_goodreads=False,
     ):
-        old_path = self.path or ""
         if entry_type != self.entry_type:
             if entry_type not in ("reviews", "to-read"):
                 raise Exception(f"Invalid entry_type {entry_type}")

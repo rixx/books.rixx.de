@@ -261,11 +261,14 @@ def push_to_goodreads(review):
                 review, session=session
             )  # Somehow, the shelf gets always set to read, so we update it
         else:  # Does posting twice update the read date?
-            goodreads_review = get_review(review) or {}  # We could get the ID from the response, probably, but.
+            goodreads_review = (
+                get_review(review) or {}
+            )  # We could get the ID from the response, probably, but.
             if "id" in goodreads_review:  # Does this even happen at some point?
                 review_data["id"] = goodreads_review["id"]
                 response = session.post(
-                    f"{GOODREADS_URL}review/{goodreads_review['id']}.xml", data=review_data
+                    f"{GOODREADS_URL}review/{goodreads_review['id']}.xml",
+                    data=review_data,
                 )
     else:
         review_data["id"] = goodreads_review["id"]
