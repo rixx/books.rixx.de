@@ -21,3 +21,4 @@ book:
 plan:
   date_added: 2021-10-31
 ---
+ From the bibliography of Cathedral, Forge and Waterwheel

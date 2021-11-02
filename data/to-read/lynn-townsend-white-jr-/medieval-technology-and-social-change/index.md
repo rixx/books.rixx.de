@@ -15,3 +15,5 @@ book:
 plan:
   date_added: 2021-10-31
 ---
+
+Mentioned in the bibliography of Cathedral, Forge and Waterwheel, and cited a lot.
