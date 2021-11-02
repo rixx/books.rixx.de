@@ -16,6 +16,8 @@ book:
 plan:
   date_added: 2021-10-27
 related_books:
+- book: seb-falk/the-light-ages
+  text: Another book about middle age tech, but with narrower focus, and more focused on science and astronomy.
 - book: umberto-eco/the-name-of-the-rose
   text: Eco goes into the whole church versus reason discussion quite a bit, and also
     has a good grip on technology levels at the time.
