@@ -146,6 +146,20 @@
             {{ stats.average_review }} words in the average review
         </div>
     </div>
+</div>
+
+<div id="year-stats-covers">
+    {% for review in reviews[::-1] %}
+    <a class="book-cover{% if review.metadata.review.rating == 5 %} big-grid{% endif %}" href="/{{ review.id }}/{{ review.cover_path.name }}">
+        {% set spine_border = True %}
+        {% include "_book_cover.html" %}
+        {% if review.metadata.review.rating == 5 %}
+        <div class="rating"> ★ ★ ★ ★ ★</div>
+        {% endif %}
+    </a>
+    {% endfor %}
+
+</div>
 
 {% endblock %}
 

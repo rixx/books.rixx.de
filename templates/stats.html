@@ -48,7 +48,7 @@ But still, it's nice to look at, and I'm tempted to add more ridiculous charts, 
       <th>Reading pile</th>
     </tr>
   </thead>
-  {% for heading, value1, value2 in stats.table %}
+  {% for heading, value1, value2 in table %}
   <tr>
     <td>{{ heading }}</td>
     <th>{{ value1|default('-', true) }}</th>

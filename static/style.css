@@ -1020,6 +1020,30 @@ h1#year-stats-headline:after {
 #year-stats-facts .stats-block-cover .book-cover img {
   height: 200px;
 }
+#year-stats-covers {
+  display: grid;
+  grid-auto-flow: dense;
+  grid-template-columns: repeat(5, 1fr);
+  grid-auto-rows: 200px;
+  column-gap: 24px;
+  row-gap: 32px;
+}
+#year-stats-covers .book-cover img {
+  height: 200px;
+  max-width: 85%;
+}
+#year-stats-covers .big-grid {
+  grid-column-start: span 2;
+  grid-row-start: span 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+#year-stats-covers .big-grid.book-cover img {
+  height: 400px;
+  max-height: 420px;
+}
 
 @media (max-width: 480px) {
   main, main:not(.wide) {
