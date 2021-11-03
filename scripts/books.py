@@ -628,7 +628,7 @@ def _change_manually(review, push_to_goodreads):
 
 
 def _change_cover(review, push_to_goodreads):
-    old_cover_url = review.metadata["book"]["cover_image_url"]
+    old_cover_url = review.metadata["book"].get("cover_image_url") or ""
     source = inquirer.list_input(
         message="Where do you want to retrieve the cover image from?",
         choices=[
