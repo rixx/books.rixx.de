@@ -1,7 +1,7 @@
 {% if review.cover_path %}
   <img
     class="cover"
-    src="/{{ review.id }}/thumbnail.jpg"
+    src="/{{ review.id }}/{% if full_size %}cover.jpg{% else %}thumbnail.jpg{% endif %}"
     alt="Cover of {{ review.metadata.book.title }}. {{ review.metadata.book.cover_description }}"
     {% if spine_border and review.metadata.book.spine_color %}style="border: 1px solid {{ review.metadata.book.spine_color }}; border-left: 24px solid {{ review.metadata.book.spine_color }};"{% endif %}
   >

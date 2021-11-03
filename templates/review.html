@@ -21,8 +21,9 @@
 
 {% block content %}
   {% if review.cover_path %}
-  <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+  <a class="book-cover" href="/{{ review.id }}/cover.jpg">
       {% set spine_border = True %}
+      {% set full_size = True %}
       {% include "_book_cover.html" %}
     </a>
   {% endif %}
