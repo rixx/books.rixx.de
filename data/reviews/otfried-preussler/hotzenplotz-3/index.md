@@ -7,6 +7,7 @@ book:
   goodreads: '1527165'
   isbn10: '3522119800'
   isbn13: '9783522119801'
+  pages: 128
   publication_year: '1973'
   series: Hotzenplotz
   series_position: '3'

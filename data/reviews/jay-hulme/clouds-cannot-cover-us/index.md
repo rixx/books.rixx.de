@@ -5,6 +5,7 @@ book:
   goodreads: '52421742'
   isbn10: '1912745100'
   isbn13: '9781912745104'
+  pages: 96
   publication_year: null
   spine_color: '#18999e'
   tags:

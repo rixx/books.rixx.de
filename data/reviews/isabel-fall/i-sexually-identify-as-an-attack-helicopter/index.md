@@ -4,6 +4,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578111751l/50267857._SX98_.jpg
   goodreads: '50267857'
   publication_year: '2020'
+  pages: 30
   source: https://web.archive.org/web/20200101232918/http://clarkesworldmagazine.com/fall_01_20/
   spine_color: '#d0c47f'
   tags:

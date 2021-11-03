@@ -7,6 +7,7 @@ book:
   goodreads: '6083610'
   isbn10: '3473388718'
   isbn13: '9783473388714'
+  pages: 208
   publication_year: '1962'
   series: Die Söhne der Großen Bärin
   series_position: '2'

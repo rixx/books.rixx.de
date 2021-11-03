@@ -7,6 +7,7 @@ book:
   goodreads: '1394908'
   isbn10: '3407788029'
   isbn13: '9783407788023'
+  pages: 524
   publication_year: '1995'
   series: Wendepunkte
   series_position: 3

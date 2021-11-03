@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 18
   goodreads: '36618062'
+  pages: 230
   publication_year: '2017'
   series: Clocktaur War
   series_position: '1'

@@ -4,6 +4,7 @@ book:
   goodreads: '3351055'
   isbn10: '3861505355'
   isbn13: '9783861505358'
+  pages: 80
   publication_year: null
   tags:
   - german

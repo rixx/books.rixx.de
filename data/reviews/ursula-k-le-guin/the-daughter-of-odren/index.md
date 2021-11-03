@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 21.0
   goodreads: '23380894'
+  pages: 32
   publication_year: '2014'
   series: Earthsea Cycle
   series_position: '6.5'

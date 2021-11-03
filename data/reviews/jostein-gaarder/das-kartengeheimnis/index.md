@@ -5,6 +5,7 @@ book:
   goodreads: '329743'
   isbn10: '3423125004'
   isbn13: '9783423125000'
+  pages: 338
   publication_year: '1990'
   spine_color: '#729594'
   tags:

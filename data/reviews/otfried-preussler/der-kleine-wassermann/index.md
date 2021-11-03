@@ -5,6 +5,7 @@ book:
   goodreads: '292186'
   isbn10: '3522106202'
   isbn13: '9783522106207'
+  pages: 125
   publication_year: '1956'
   spine_color: '#5e9160'
   tags:

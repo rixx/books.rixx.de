@@ -7,6 +7,7 @@ book:
   goodreads: '468837'
   isbn10: '3522149904'
   isbn13: '9783522149907'
+  pages: 276
   publication_year: '1962'
   series: Jim Knopf
   series_position: '2'

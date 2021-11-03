@@ -3,6 +3,7 @@ book:
   author: Elizabeth Baer
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572999756l/48715894._SY475_.jpg
   goodreads: '48715894'
+  pages: 183
   publication_year: '2019'
   source: https://uncannymagazine.com/article/a-time-to-reap/
   spine_color: '#deb36a'

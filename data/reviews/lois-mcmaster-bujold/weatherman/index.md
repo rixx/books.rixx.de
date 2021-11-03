@@ -6,6 +6,7 @@ book:
     height: 18.0
   goodreads: '11058951'
   isbn13: '2940012396303'
+  pages: 100
   publication_year: '1990'
   series: Vorkosigan Saga
   series_position: '5.4'

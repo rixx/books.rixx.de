@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22.3
   goodreads: '23387877'
+  pages: 33
   publication_year: '2015'
   series: Rivers of London
   series_position: '1'

@@ -12,6 +12,7 @@ book:
   - nonfiction
   - personal-development
   title: The Courage to Be Disliked
+  pages: 288
 plan:
   date_added: '2020-03-10'
 related_books:

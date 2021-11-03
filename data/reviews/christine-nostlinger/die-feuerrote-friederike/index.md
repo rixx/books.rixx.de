@@ -5,6 +5,7 @@ book:
   goodreads: '296394'
   isbn10: '3423071338'
   isbn13: '9783423071338'
+  pages: 83
   publication_year: '1970'
   spine_color: '#a0484c'
   tags:

@@ -4,6 +4,7 @@ book:
   dimensions:
     height: 24
   goodreads: '34213118'
+  pages: 1901
   publication_year: null
   series: Rigel Black
   series_position: '4'

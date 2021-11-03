@@ -4,6 +4,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517437940l/36466732._SX98_.jpg
   goodreads: '36466732'
   publication_year: '2018'
+  pages: 368
   series: The Tarot Sequence
   series_position: '1'
   spine_color: '#ad6e55'

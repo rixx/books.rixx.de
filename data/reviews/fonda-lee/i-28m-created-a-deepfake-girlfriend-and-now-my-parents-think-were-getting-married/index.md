@@ -3,6 +3,7 @@ book:
   author: Fonda Lee
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577497218l/50003099._SX98_.jpg
   goodreads: '50003099'
+  pages: 18
   publication_year: '2019'
   source: https://www.technologyreview.com/s/614942/deepfake-girlfriend-fiction-story/
   spine_color: '#877971'

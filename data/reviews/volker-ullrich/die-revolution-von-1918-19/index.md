@@ -5,6 +5,7 @@ book:
   goodreads: '12629234'
   isbn10: 340656254X
   isbn13: '9783406562549'
+  pages: 127
   publication_year: '2009'
   spine_color: '#ab141c'
   tags:

@@ -2,6 +2,7 @@
 book:
   author: K.M. Szpara
   goodreads: '40864052'
+  pages: 15
   publication_year: '2018'
   tags:
   - queer
