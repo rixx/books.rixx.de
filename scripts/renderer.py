@@ -57,6 +57,7 @@ def build_site(**kwargs):
     print("🖋 Rendering review pages")
     for review in all_reviews:
         review.spine = books.Spine(review)
+        review.word_count = len(review.text.split())
         try:
             review.related_books = [
                 {
@@ -147,6 +148,8 @@ def build_site(**kwargs):
             "all_years": all_years,
             "year": year,
             "current_year": (year == this_year),
+            "next_year": int(year) + 1,
+            "prev_year": int(year) - 1,
             "title": "Books I’ve read",
             "active": "read",
         }

@@ -1,6 +1,7 @@
+import copy
 import datetime as dt
 import statistics
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 
 def xml_element(name, content, **kwargs):
@@ -217,17 +218,24 @@ def get_stats_table(reviews, plans, years):
 
 
 def get_year_stats(year, reviews):
-    stats = {
-        "total_books": 0,
-        "total_pages": 0,
-        "average_pages": 0,
-        "average_rating": 0,
-        "rating_chart": {},
-        "shortest_book": None,
-        "longest_book": None,
-        "first_book": None,
-        "last_book": None,
-        "longest_review": None,
-        "shortest_review": None,
-        "average_review": 0,
-    }
+    reviews = copy.copy(reviews)
+    reviews = sorted(reviews, key=lambda x: x.date_read_lookup[year], reverse=True)
+    stats = {}
+    total_books = len(reviews)
+    stats["total_books"] = total_books
+    stats["total_pages"] = sum(int(review.metadata["book"].get("pages", 0)) for review in reviews)
+    stats["average_pages"] = round(stats["total_pages"] / total_books, 1)
+    stats["average_rating"] = round(sum(int(review.metadata["review"].get("rating", 0)) for review in reviews) / total_books, 1)
+    stats["first_book"] = reviews[0]
+    stats["last_book"] = reviews[-1]
+    reviews = sorted(reviews, key=lambda r: int(r.metadata["book"].get("pages", 0)))
+    stats["shortest_book"] = reviews[0]
+    stats["longest_book"] = reviews[-1]
+    reviews = sorted(reviews, key=lambda r: r.word_count)
+    stats["shortest_review"] = reviews[0]
+    stats["longest_review"] = reviews[-1]
+    stats["average_review"] = round(sum(review.word_count for review in reviews) / total_books, 1)
+    month_counter = Counter([r.date_read_lookup[year].strftime("%B") for r in reviews])
+    stats["busiest_month"] = month_counter.most_common()[0][0]
+    # stats["rating_chart"] = 
+    return stats

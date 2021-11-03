@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="stats-header">
+    <div>{% if not current_year %}<a href="/reviews/{{ next_year }}/stats/">{{ next_year }} stats</a>{% endif %}</div>
+    <div><a href="/reviews/{{ year }}/">Back to reviews</a></div>
+    <div><a href="/reviews/{{ prev_year }}/stats/">{{ prev_year }} stats</a></div>
+</div>
+<h1 id="year-stats-headline">{{ year }}</h1>
+
+<div id="year-stats-facts">
+    <div class="stats-line-wrapper">
+        <div class="stats-line">
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-big">{{ stats.total_books }}</div>
+                    <div class="stats-block-small">books</div>
+                </div>
+            </div>
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-big">{{ stats.average_rating }}</div>
+                    <div class="stats-block-small">avg rating</div>
+                </div>
+            </div>
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-big">{{ stats.total_pages }}</div>
+                    <div class="stats-block-small">pages</div>
+                </div>
+            </div>
+        </div>
+        <div class="stats-line-ps">♥</div>
+    </div>
+    <div class="stats-line-wrapper">
+        <div class="stats-line">
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-title">Shortest book</div>
+                    <div class="stats-block-big">{{ stats.shortest_book.metadata.book.pages }}</div>
+                    <div class="stats-block-small">pages</div>
+                </div>
+                <div class="stats-block-cover">
+                    {% with review=stats.shortest_book %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+            </div>
+            <div class="stats-block">
+                <div class="stats-block-cover">
+                    {% with review=stats.longest_book %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+                <div class="stats-block-content">
+                    <div class="stats-block-title">Longest book</div>
+                    <div class="stats-block-big">{{ stats.longest_book.metadata.book.pages }}</div>
+                    <div class="stats-block-small">pages</div>
+                </div>
+            </div>
+        </div>
+        <div class="stats-line-ps">
+            {{ stats.average_pages }} average pages
+        </div>
+    </div>
+
+    <div class="stats-line-wrapper">
+        <div class="stats-line">
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-title">First book</div>
+                    <div class="stats-block-big">{{ stats.first_book.metadata.pages }}</div>
+                    <div class="stats-block-small">{{ stats.first_book.date_read_lookup[year][0] }}</div>
+                </div>
+                <div class="stats-block-cover">
+                    {% with review=stats.first_book %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+            </div>
+            <div class="stats-block">
+                <div class="stats-block-cover">
+                    {% with review=stats.last_book %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+                <div class="stats-block-content">
+                    <div class="stats-block-title">Last book</div>
+                    <div class="stats-block-big">{{ stats.last_book.metadata.pages }}</div>
+                    <div class="stats-block-small">{{ stats.first_book.date_read_lookup[year][0] }}</div>
+                </div>
+            </div>
+        </div>
+        <div class="stats-line-ps">
+            busiest month: {{ stats.busiest_month }}
+        </div>
+    </div>
+
+    <div class="stats-line-wrapper">
+        <div class="stats-line">
+            <div class="stats-block">
+                <div class="stats-block-content">
+                    <div class="stats-block-title">Shortest review</div>
+                    <div class="stats-block-big">{{ stats.shortest_review.word_count }}</div>
+                    <div class="stats-block-small">words</div>
+                </div>
+                <div class="stats-block-cover">
+                    {% with review=stats.shortest_review %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+            </div>
+            <div class="stats-block">
+                <div class="stats-block-cover">
+                    {% with review=stats.longest_review %}
+                        <a class="book-cover" href="/{{ review.id }}/{{ review.cover_path.name }}">
+                            {% set spine_border = True %}
+                            {% include "_book_cover.html" %}
+                        </a>
+                    {% endwith %}
+                </div>
+                <div class="stats-block-content">
+                    <div class="stats-block-title">Longest review</div>
+                    <div class="stats-block-big">{{ stats.longest_review.word_count }}</div>
+                    <div class="stats-block-small">words</div>
+                </div>
+            </div>
+        </div>
+        <div class="stats-line-ps">
+            {{ stats.average_review }} words in the average review
+        </div>
+    </div>
+
+{% endblock %}
+
