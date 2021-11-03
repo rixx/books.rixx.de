@@ -6,5 +6,10 @@
     {% if spine_border and review.metadata.book.spine_color %}style="border: 1px solid {{ review.metadata.book.spine_color }}; border-left: 24px solid {{ review.metadata.book.spine_color }};"{% endif %}
   >
 {% else %}
-  <div class="cover cover-placeholder"></div>
+  <img
+    class="cover"
+    src="/static/cover.png"
+    alt="Cover placeholder for {{ review.metadata.book.title }}."
+    {% if spine_border %}style="border: 1px solid #3b5053; border-left: 24px solid #3b5053;"{% endif %}
+  >
 {% endif %}

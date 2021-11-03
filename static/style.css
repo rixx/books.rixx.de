@@ -416,25 +416,6 @@ header a {
 .book_thumbnail {
   float: left;
 }
-.cover-placeholder {
-  background: #1C5154;
-  display: inline-block;
-  border-radius: 2px;
-  box-shadow: 5px -5px white, 2px -2px white,3px -3px white, 8px -7px #1C5154 !important;
-  width: 85px;
-  height: 130px;
-}
-.cover-placeholder:before {
-  content: '';
-  display: inline-block;
-  margin-top: 20px;
-  margin-left: 8px;
-  height: 23%;
-  width: 75%;
-  background-color: #C3534B;
-  border: 3px solid #CFBD6E;
-  border-radius: 2px;
-}
 
 #jump_to {
   margin-bottom: -0.5em;
@@ -840,11 +821,6 @@ header a {
 }
 #search-results .book-result img {
   max-height: 100px;
-}
-#search-results .book-result .cover-placeholder {
-  max-width: 60px;
-  max-height: 90px;
-  margin-right: 10px;
 }
 #search-results .book-result .search-content {
   display: flex;

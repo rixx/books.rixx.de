@@ -110,7 +110,7 @@ const changeSidebarBook = (book) => {
     if (book.cover) {
         content += `${link}<img class="cover" src="/${book.id}/thumbnail.jpg"></a>`
     } else {
-        content += `${link}<div class="cover cover-placeholder"></div></a>`
+        content += `${link}<img class="cover" src="/static/cover.png"></a>`
     }
     content += `
         ${link}<div class="book-title">${book.name}</div></a>

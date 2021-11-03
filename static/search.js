@@ -18,7 +18,7 @@ const renderSearchResults = (books, tags) => {
             if (book.cover) {
                 content += `<img class="cover" src="/${book.id}/thumbnail.jpg">`
             } else {
-                content += `<div class="cover cover-placeholder"></div>`
+                content += `<img class="cover" src="/static/cover.png">`
             }
             let title = book.name
             if (book.series) title += ` (${book.series})`
