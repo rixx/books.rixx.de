@@ -19,6 +19,23 @@ review:
   date_read:
   - 2021-08-14
   rating: 3
+  tldr: Yup, it's an entire book about oranges.
+social:
+  mastodon:
+    datetime: 2021-11-08 18:14:05.853043
+    id: '107242562895648458'
+    in_reply_to: '107242525843021757'
+    text: '80/ Oranges by John McPhee. Yup, it''s an entire book about oranges.
+
+      https://books.rixx.de/john-mcphee/oranges/ #rixxReads'
+  number: 80
+  twitter:
+    datetime: 2021-11-08 18:14:05.464251
+    id: '1457758333645901826'
+    in_reply_to: '1457755962618654723'
+    text: '80/ Oranges by John McPhee. Yup, it''s an entire book about oranges.
+
+      https://books.rixx.de/john-mcphee/oranges/'
 ---
 
 A whole book about oranges: focusing on the orange growing industry in Florida, but also touching on history, uses,

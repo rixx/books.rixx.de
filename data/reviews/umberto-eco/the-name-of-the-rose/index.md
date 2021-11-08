@@ -23,7 +23,8 @@ related_books:
 - book: neal-stephenson/anathem
   text: Pretentious monks nerding out.
 - book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
-  text: Outstanding history book covering the middle ages, confirming much found here, and expanding on the church's position towards innovation.
+  text: Outstanding history book covering the middle ages, confirming much found here,
+    and expanding on the church's position towards innovation.
 - book: walter-moers/the-city-of-dreaming-books
   text: Another book for book lovers, though less pretentious. And less medieval.
     And completely different in every way.
@@ -38,7 +39,28 @@ review:
   - 2004-04-01
   - 2021-08-12
   rating: 5
-  tldr: What's there to say? The book is a giant pretentious nerd trap and I enjoy pretty much everything about it. Re-read.
+  tldr: What's there to say? The book is a giant pretentious nerd trap and I enjoy
+    pretty much everything about it. Re-read.
+social:
+  mastodon:
+    datetime: 2021-11-08 18:04:40.465209
+    id: '107242525843021757'
+    in_reply_to: '107207779560866143'
+    text: '79/ The Name of the Rose by Umberto Eco. What''s there to say? The book
+      is a giant pretentious nerd trap and I enjoy pretty much everything about it.
+      Re-read.
+
+      https://books.rixx.de/umberto-eco/the-name-of-the-rose/ #rixxReads'
+  number: 79
+  twitter:
+    datetime: 2021-11-08 18:04:40.155684
+    id: '1457755962618654723'
+    in_reply_to: '1455532200234033162'
+    text: '79/ The Name of the Rose by Umberto Eco. What''s there to say? The book
+      is a giant pretentious nerd trap and I enjoy pretty much everything about it.
+      Re-read.
+
+      https://books.rixx.de/umberto-eco/the-name-of-the-rose/'
 ---
 
 Medieval monks? Thinly disguised opportunities to lecture the reader about history and theology? Showing off your
