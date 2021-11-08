@@ -15,6 +15,8 @@ book:
 plan:
   date_added: '2018-07-24'
 related_books:
+- book: marina-dyachenko/vita-nostra
+  text: Extremely close vibe match.
 - book: stanislaw-lem/solaris
   text: If you'd like the melancholy Eastern European mood … in space.
 review:

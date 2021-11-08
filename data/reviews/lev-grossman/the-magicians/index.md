@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2018-03-19'
 related_books:
+- book: marina-dyachenko/vita-nostra
+  text: Depressing magic college, but Russian and better.
 - book: max-barry/lexicon
   text: Also a current-time grey morality magic school in a depressing and grim world,
     NLP edition.

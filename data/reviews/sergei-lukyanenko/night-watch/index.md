@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2016-05-06'
 related_books:
+- book: marina-dyachenko/vita-nostra
+  text: Also Russian urban fantasy, with similarly excellent vibe.
 - book: neil-gaiman/american-gods
   text: A similar vibe, except American (high brow) and therefore completely different.
 - book: jim-butcher/storm-front

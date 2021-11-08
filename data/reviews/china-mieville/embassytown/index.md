@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2018-11-14'
 related_books:
+- book: marina-dyachenko/vita-nostra
+  text: People inhabiting language with strong, dark worldbuilding.
 - book: samuel-r-delany/babel-17
   text: Alien linguistics!
 - book: janet-kagan/hellspark
