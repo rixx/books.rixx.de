@@ -1,7 +1,7 @@
 ---
 book:
   author: Richard S. Gallagher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358751606l/16241833._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358751606l/16241833.jpg
   dimensions:
     height: 22.9
     thickness: 1.3
@@ -11,7 +11,7 @@ book:
   isbn13: '9780814431832'
   pages: 208
   publication_year: '2013'
-  spine_color: '#2db5e3'
+  spine_color: '#2bb6e7'
   tags:
   - nonfiction
   - personal-development

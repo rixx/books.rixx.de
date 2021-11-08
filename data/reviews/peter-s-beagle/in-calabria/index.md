@@ -1,7 +1,7 @@
 ---
 book:
   author: Peter S. Beagle
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474818139l/30316199._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474818139l/30316199.jpg
   dimensions:
     height: 22.0
     thickness: 2.0
@@ -11,7 +11,7 @@ book:
   isbn13: '9781616962487'
   pages: 176
   publication_year: '2017'
-  spine_color: '#c9ac6b'
+  spine_color: '#c8a35a'
   tags:
   - fantasy
   title: In Calabria

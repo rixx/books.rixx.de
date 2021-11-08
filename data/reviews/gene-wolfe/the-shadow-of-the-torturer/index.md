@@ -1,7 +1,7 @@
 ---
 book:
   author: Gene Wolfe
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329650008l/60211._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329650008l/60211.jpg
   dimensions:
     height: 18.0
   goodreads: '60211'
@@ -11,7 +11,7 @@ book:
   publication_year: '1980'
   series: The Book of the New Sun
   series_position: '1'
-  spine_color: '#c6bdb8'
+  spine_color: '#c1b9b3'
   tags:
   - fantasy
   title: The Shadow of the Torturer

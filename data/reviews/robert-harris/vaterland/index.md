@@ -1,7 +1,7 @@
 ---
 book:
   author: Robert   Harris
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401970108l/1096832._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401970108l/1096832.jpg
   dimensions:
     height: 18.0
   goodreads: '1096832'

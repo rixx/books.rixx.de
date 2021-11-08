@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979.jpg
   dimensions:
     height: 20.0
     thickness: 3.5
@@ -13,7 +13,7 @@ book:
   publication_year: '2008'
   series: The Dresden Files
   series_position: '10'
-  spine_color: '#e4c56d'
+  spine_color: '#e5bc64'
   tags:
   - urban-fantasy
   title: Small Favor

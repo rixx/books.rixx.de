@@ -1,7 +1,7 @@
 ---
 book:
   author: Iain M. Banks
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013.jpg
   dimensions:
     height: 20.0
     thickness: 2.8
@@ -13,7 +13,7 @@ book:
   publication_year: '1996'
   series: Culture
   series_position: '5'
-  spine_color: '#c19b41'
+  spine_color: '#bc973d'
   tags:
   - scifi
   title: Excession

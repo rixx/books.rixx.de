@@ -1,7 +1,7 @@
 ---
 book:
   author: N.K. Jemisin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1303143211l/6437061.jpg
   dimensions:
     height: 21.0
     thickness: 3.2
@@ -13,7 +13,7 @@ book:
   publication_year: '2010'
   series: Inheritance
   series_position: '1'
-  spine_color: '#bda144'
+  spine_color: '#ba9e3f'
   tags:
   - fantasy
   title: The Hundred Thousand Kingdoms

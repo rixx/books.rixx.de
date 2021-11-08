@@ -1,7 +1,7 @@
 ---
 book:
   author: Charles Stross
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575744653l/8488439._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575744653l/8488439._SX318_.jpg
   dimensions:
     height: 22.0
   goodreads: '8488439'
@@ -9,7 +9,7 @@ book:
   publication_year: '2004'
   series: Laundry Files
   series_position: '1.5'
-  spine_color: '#858a49'
+  spine_color: '#858a48'
   tags:
   - urban-fantasy
   title: The Concrete Jungle

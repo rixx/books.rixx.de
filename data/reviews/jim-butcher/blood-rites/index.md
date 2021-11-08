@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451459879-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557965l/99383.jpg
   dimensions:
     height: 20.0
     thickness: 2.6
@@ -13,7 +13,7 @@ book:
   publication_year: '2004'
   series: The Dresden Files
   series_position: '6'
-  spine_color: '#565240'
+  spine_color: '#4b4635'
   tags:
   - urban-fantasy
   title: Blood Rites

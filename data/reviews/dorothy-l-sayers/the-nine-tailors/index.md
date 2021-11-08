@@ -1,7 +1,7 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353285546l/126675._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353285546l/126675.jpg
   dimensions:
     height: 20.0
     thickness: 3.6
@@ -13,7 +13,7 @@ book:
   publication_year: '1934'
   series: Lord Peter Wimsey
   series_position: '11'
-  spine_color: '#848b7b'
+  spine_color: '#7f8876'
   tags:
   - five-stars
   - german

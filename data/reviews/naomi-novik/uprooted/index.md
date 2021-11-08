@@ -1,7 +1,7 @@
 ---
 book:
   author: Naomi Novik
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX318_.jpg
   dimensions:
     height: 22.0
     thickness: 3.6
@@ -11,7 +11,7 @@ book:
   isbn13: '9780804179034'
   pages: 438
   publication_year: '2015'
-  spine_color: '#ddd298'
+  spine_color: '#d7cb8f'
   tags:
   - fantasy
   - myths-legends

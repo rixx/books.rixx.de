@@ -1,7 +1,7 @@
 ---
 book:
   author: Mark Manson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375568311l/12633800._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375568311l/12633800.jpg
   dimensions:
     height: 22.0
     thickness: 1.4
@@ -11,7 +11,7 @@ book:
   isbn13: '9781463750350'
   pages: 262
   publication_year: '2011'
-  spine_color: '#7d1f24'
+  spine_color: '#8c282e'
   tags:
   - nonfiction
   - personal-development

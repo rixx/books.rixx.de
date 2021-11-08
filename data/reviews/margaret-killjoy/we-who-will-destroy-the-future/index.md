@@ -1,12 +1,12 @@
 ---
 book:
   author: Margaret Killjoy
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523933891l/39867494._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523933891l/39867494._SY475_.jpg
   goodreads: '39867494'
   pages: '15'
   publication_year: '2018'
   source: https://resonanceaudiodistro.org/we-who-will-destroy-the-future/
-  spine_color: '#e0ba69'
+  spine_color: '#dfb969'
   tags:
   - scifi
   - time-travel

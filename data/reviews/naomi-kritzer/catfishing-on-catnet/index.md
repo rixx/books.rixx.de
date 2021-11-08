@@ -1,7 +1,7 @@
 ---
 book:
   author: Naomi Kritzer
-  cover_image_url: http://books.google.com/books/content?id=zLFrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568119890l/41556068._SY475_.jpg
   dimensions: {}
   goodreads: '41556068'
   isbn10: '1250165075'
@@ -10,7 +10,7 @@ book:
   publication_year: '2019'
   series: CatNet
   series_position: '1'
-  spine_color: '#751a84'
+  spine_color: '#9053ac'
   tags:
   - scifi
   - ya

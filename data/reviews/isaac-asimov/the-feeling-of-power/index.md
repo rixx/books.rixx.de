@@ -1,12 +1,14 @@
 ---
 book:
   author: Isaac Asimov
+  cover_image_url: https://drop.rixx.de/8qYT/
   goodreads: '1931795'
   isbn10: '9998070015'
   isbn13: '9789998070011'
   pages: 11
   publication_year: '1958'
   source: https://urbigenous.net/library/power.html
+  spine_color: '#3464ab'
   tags:
   - scifi
   title: The Feeling of Power

@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382955526l/201889._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382955526l/201889.jpg
   dimensions:
     height: 18.0
   goodreads: '201889'
@@ -9,7 +9,7 @@ book:
   publication_year: '1967'
   series: Hainish Cycle
   series_position: '3'
-  spine_color: '#c7c378'
+  spine_color: '#958249'
   tags:
   - scifi
   title: City of Illusions

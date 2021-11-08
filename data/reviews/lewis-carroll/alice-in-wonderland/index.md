@@ -1,11 +1,11 @@
 ---
 book:
   author: Lewis Carroll
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389447680l/138516._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389447680l/138516.jpg
   goodreads: '138516'
   pages: '51'
   publication_year: '1981'
-  spine_color: '#a09a85'
+  spine_color: '#a49c86'
   tags:
   - portal
   title: Alice in Wonderland

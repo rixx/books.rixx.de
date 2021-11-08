@@ -1,14 +1,14 @@
 ---
 book:
   author: Karin Tidbeck
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520413876l/38492054._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520413876l/38492054._SY475_.jpg
   goodreads: '38492054'
   isbn10: '1250192447'
   isbn13: '9781250192448'
   pages: '21'
   publication_year: '2019'
   source: https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/
-  spine_color: '#242334'
+  spine_color: '#2a2a3b'
   tags:
   - scifi
   title: The Last Voyage of Skidbladnir

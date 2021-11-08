@@ -1,7 +1,7 @@
 ---
 book:
   author: China Miéville
-  cover_image_url: http://books.google.com/books/content?id=aPTaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+  cover_image_url: http://cdn.shopify.com/s/files/1/0552/2233/7720/products/9781509812134_1_4b68d700-08eb-484d-88b6-39c9a1b683e6_600x.jpg?v=1618576221
   dimensions:
     height: 22.0
     thickness: 2.3
@@ -11,7 +11,7 @@ book:
   isbn13: '9781101967324'
   pages: 210
   publication_year: '2016'
-  spine_color: '#898682'
+  spine_color: '#79756b'
   tags:
   - fantasy
   title: This Census-Taker

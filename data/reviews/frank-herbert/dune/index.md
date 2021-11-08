@@ -1,7 +1,7 @@
 ---
 book:
   author: Frank Herbert
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780340839935-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434908555l/234225._SY475_.jpg
   dimensions:
     height: 20.0
     thickness: 3.9
@@ -13,7 +13,7 @@ book:
   publication_year: '1965'
   series: Dune Chronicles
   series_position: '1'
-  spine_color: '#554c23'
+  spine_color: '#5b5021'
   tags:
   - scifi
   - space-monks

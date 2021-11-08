@@ -1,12 +1,12 @@
 ---
 book:
   author: Daniel Stenberg
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547455205l/43560466._SX98_.jpg
+  cover_image_url: https://drop.rixx.de/m4GDu/
   goodreads: '43560466'
   pages: 68
   publication_year: 2018
   source: https://http3-explained.haxx.se/en/
-  spine_color: '#e38e2a'
+  spine_color: '#e48e2a'
   tags:
   - nonfiction
   - tech

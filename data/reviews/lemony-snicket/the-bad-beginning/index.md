@@ -1,7 +1,7 @@
 ---
 book:
   author: Lemony Snicket
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436737029l/78411._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436737029l/78411._SX318_.jpg
   dimensions:
     height: 19.0
   goodreads: '78411'
@@ -11,7 +11,7 @@ book:
   publication_year: '1999'
   series: A Series of Unfortunate Events
   series_position: '1'
-  spine_color: '#dfc08f'
+  spine_color: '#debe8b'
   tags:
   - ya
   title: The Bad Beginning

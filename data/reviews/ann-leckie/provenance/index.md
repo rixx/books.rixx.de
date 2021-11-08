@@ -1,11 +1,11 @@
 ---
 book:
   author: Ann Leckie
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492328037l/25353286._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492328037l/25353286._SX318_.jpg
   goodreads: '25353286'
   pages: '448'
   publication_year: '2017'
-  spine_color: '#b8b6a6'
+  spine_color: '#afac9c'
   tags:
   - scifi
   title: Provenance

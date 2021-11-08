@@ -1,7 +1,7 @@
 ---
 book:
   author: Ed McDonald
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060.jpg
   dimensions:
     height: 24.0
     thickness: 2.4
@@ -13,7 +13,7 @@ book:
   publication_year: '2017'
   series: Raven's Mark
   series_position: '1'
-  spine_color: '#b24733'
+  spine_color: '#b44732'
   tags:
   - fantasy
   title: Blackwing

@@ -1,7 +1,7 @@
 ---
 book:
   author: Brent Weeks
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033671-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881551l/3227063.jpg
   dimensions:
     height: 18.0
   goodreads: '3227063'
@@ -11,7 +11,7 @@ book:
   publication_year: '2008'
   series: Night Angel
   series_position: '1'
-  spine_color: '#7b7076'
+  spine_color: '#8e787b'
   tags:
   - fantasy
   - learning-the-arts

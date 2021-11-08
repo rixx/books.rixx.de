@@ -1,7 +1,7 @@
 ---
 book:
   author: Licia Troisi
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330028268l/6582267._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330028268l/6582267.jpg
   dimensions:
     height: 21
   goodreads: '6582267'
@@ -11,7 +11,7 @@ book:
   publication_year: '2004'
   series: Die Drachenkämpferin
   series_position: '2'
-  spine_color: '#445f88'
+  spine_color: '#456189'
   tags:
   - fantasy
   - german

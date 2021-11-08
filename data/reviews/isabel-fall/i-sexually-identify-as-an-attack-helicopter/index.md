@@ -1,12 +1,12 @@
 ---
 book:
   author: Isabel Fall
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578111751l/50267857._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578111751l/50267857._SY475_.jpg
   goodreads: '50267857'
-  publication_year: '2020'
   pages: 30
+  publication_year: '2020'
   source: https://web.archive.org/web/20200101232918/http://clarkesworldmagazine.com/fall_01_20/
-  spine_color: '#d0c47f'
+  spine_color: '#cec17c'
   tags:
   - scifi
   title: I Sexually Identify As An Attack Helicopter
@@ -19,7 +19,10 @@ related_books:
 - book: peter-watts/blindsight
   text: Another take on transhumanism.
 - book: antoine-de-saint-exupery/flight-to-arras
-  text: 'de Saint-Exupéry writes: "This mask through which I breathe. I am attached to the plane by a rubber tube as indispensable as an umbilical cord. The plane is plugged in to the circulation of my blood. Organs have been added to my being, and they seem to intervene between me and my heart."'
+  text: 'de Saint-Exupéry writes: "This mask through which I breathe. I am attached
+    to the plane by a rubber tube as indispensable as an umbilical cord. The plane
+    is plugged in to the circulation of my blood. Organs have been added to my being,
+    and they seem to intervene between me and my heart."'
 review:
   date_read:
   - 2020-01-12

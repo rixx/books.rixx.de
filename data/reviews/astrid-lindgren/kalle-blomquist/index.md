@@ -1,14 +1,14 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789141300-L.jpg
+  cover_image_url: https://drop.rixx.de/ia0/
   goodreads: '42329'
   isbn10: '3789141305'
   isbn13: '9783789141300'
   pages: '473'
   publication_year: '1946'
   series_position: '1'
-  spine_color: '#f3c410'
+  spine_color: '#f5ba05'
   tags:
   - five-stars
   - german

@@ -1,7 +1,7 @@
 ---
 book:
   author: Richard Kadrey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338323949l/14740038._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338323949l/14740038.jpg
   dimensions:
     height: 19.0
   goodreads: '14740038'
@@ -11,7 +11,7 @@ book:
   publication_year: '2012'
   series: Sandman Slim
   series_position: '3.5'
-  spine_color: '#e1c27a'
+  spine_color: '#e0b167'
   tags:
   - urban-fantasy
   title: Devil in the Dollhouse

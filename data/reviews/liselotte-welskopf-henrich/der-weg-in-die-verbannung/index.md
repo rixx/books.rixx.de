@@ -1,7 +1,7 @@
 ---
 book:
   author: Liselotte Welskopf-Henrich
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368886l/6083610._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368886l/6083610.jpg
   dimensions:
     height: 25
   goodreads: '6083610'
@@ -11,7 +11,7 @@ book:
   publication_year: '1962'
   series: Die Söhne der Großen Bärin
   series_position: '2'
-  spine_color: '#969c44'
+  spine_color: '#979c43'
   tags:
   - german
   - historical-fiction

@@ -1,7 +1,7 @@
 ---
 book:
   author: Ada Palmer
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443106959l/26114545._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443106959l/26114545.jpg
   dimensions:
     height: 25.0
     thickness: 3.8
@@ -13,7 +13,7 @@ book:
   publication_year: '2016'
   series: Terra Ignota
   series_position: '1'
-  spine_color: '#eeba8d'
+  spine_color: '#efba8c'
   tags:
   - five-stars
   - scifi

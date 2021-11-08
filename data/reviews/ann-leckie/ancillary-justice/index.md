@@ -1,7 +1,7 @@
 ---
 book:
   author: Ann Leckie
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380915234l/18626964._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380915234l/18626964.jpg
   dimensions:
     height: 19.8
   goodreads: '18626964'
@@ -9,7 +9,7 @@ book:
   publication_year: '2013'
   series: Imperial Radch
   series_position: '1'
-  spine_color: '#737e77'
+  spine_color: '#748079'
   tags:
   - five-stars
   - scifi

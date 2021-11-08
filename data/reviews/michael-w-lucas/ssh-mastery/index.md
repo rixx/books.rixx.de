@@ -1,11 +1,11 @@
 ---
 book:
   author: Michael W. Lucas
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332018706l/13550641._SX98_.jpg
+  cover_image_url: https://drop.rixx.de/VFlmsv/
   goodreads: '13550641'
   pages: '150'
   publication_year: '2012'
-  spine_color: '#a6875f'
+  spine_color: '#c3bd61'
   tags:
   - nonfiction
   - tech

@@ -1,7 +1,7 @@
 ---
 book:
   author: Diane Duane
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272379484l/1583121._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1272379484l/1583121.jpg
   dimensions:
     height: 18.0
     thickness: 4.3
@@ -13,7 +13,7 @@ book:
   publication_year: '2010'
   series: Young Wizards
   series_position: '9'
-  spine_color: '#c6bf7e'
+  spine_color: '#c1b977'
   tags:
   - fantasy
   - urban-fantasy

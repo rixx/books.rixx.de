@@ -1,7 +1,7 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530.jpg
   dimensions:
     height: 20.0
   goodreads: '62530'
@@ -9,7 +9,7 @@ book:
   publication_year: '2005'
   series: Discworld
   series_position: '34'
-  spine_color: '#58596f'
+  spine_color: '#595a70'
   title: Thud!
 plan:
   date_added: '2015-04-08'

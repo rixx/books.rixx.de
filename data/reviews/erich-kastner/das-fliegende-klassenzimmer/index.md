@@ -1,7 +1,7 @@
 ---
 book:
   author: Erich Kästner
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181250009l/1132597.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/61wVBi28UCL.jpg
   dimensions:
     height: 19.0
     thickness: 2.3
@@ -11,7 +11,7 @@ book:
   isbn13: '9783791530154'
   pages: 176
   publication_year: '1933'
-  spine_color: '#f4df18'
+  spine_color: '#f7d10c'
   tags:
   - christmas
   - five-stars

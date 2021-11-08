@@ -1,14 +1,14 @@
 ---
 book:
   author: Neil Clarke
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504312246l/36165705._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504312246l/36165705._SY475_.jpg
   dimensions:
     height: 17
   goodreads: '36165705'
   pages: '142'
   publication_year: '2017'
   source: http://clarkesworldmagazine.com/palmer_09_17/
-  spine_color: '#d6a57b'
+  spine_color: '#d6a67b'
   tags:
   - scifi
   title: Clarkesworld Magazine, Issue 132

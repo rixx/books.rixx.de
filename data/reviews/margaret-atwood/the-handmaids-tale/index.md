@@ -1,11 +1,11 @@
 ---
 book:
   author: Margaret Atwood
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SY475_.jpg
   goodreads: '38447'
   pages: '314'
   publication_year: '1985'
-  spine_color: '#c09b5b'
+  spine_color: '#bf9a5a'
   tags:
   - scifi
   title: The Handmaid's Tale

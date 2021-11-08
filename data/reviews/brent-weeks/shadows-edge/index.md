@@ -1,7 +1,7 @@
 ---
 book:
   author: Brent Weeks
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316033657-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881435l/3754016.jpg
   dimensions:
     height: 18.0
   goodreads: '3754016'
@@ -11,7 +11,7 @@ book:
   publication_year: '2008'
   series: Night Angel
   series_position: '2'
-  spine_color: '#c56663'
+  spine_color: '#c0685c'
   tags:
   - fantasy
   title: Shadow's Edge

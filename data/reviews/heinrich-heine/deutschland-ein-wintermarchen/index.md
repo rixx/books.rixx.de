@@ -7,7 +7,7 @@ book:
   isbn13: '9783938484142'
   pages: '80'
   publication_year: '1844'
-  spine_color: '#763224'
+  spine_color: '#763325'
   tags:
   - german
   title: Deutschland. Ein Wintermärchen

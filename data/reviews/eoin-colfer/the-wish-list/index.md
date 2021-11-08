@@ -1,13 +1,13 @@
 ---
 book:
   author: Eoin Colfer
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1185382995l/1574912.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/51zxw6HjkAL.jpg
   goodreads: '1574912'
   isbn10: '3548604730'
   isbn13: '9783548604732'
   pages: '232'
   publication_year: '2000'
-  spine_color: '#c3bb91'
+  spine_color: '#c6bd92'
   tags:
   - fantasy
   - german

@@ -1,13 +1,13 @@
 ---
 book:
   author: David Drake
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316131317l/7697892._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316131317l/7697892.jpg
   goodreads: '7697892'
   isbn10: 0765320789
   isbn13: '9780765320780'
   pages: '367'
   publication_year: '2010'
-  spine_color: '#d1a242'
+  spine_color: '#dca637'
   tags:
   - fantasy
   - historical-fiction

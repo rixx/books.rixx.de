@@ -1,7 +1,7 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423300l/1148053._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421423300l/1148053.jpg
   dimensions:
     height: 23
   goodreads: '1148053'
@@ -11,7 +11,7 @@ book:
   publication_year: '1969'
   series: Hotzenplotz
   series_position: '2'
-  spine_color: '#f3d312'
+  spine_color: '#f3cf10'
   tags:
   - german
   - kids

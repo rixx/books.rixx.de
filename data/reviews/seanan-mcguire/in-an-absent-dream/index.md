@@ -1,7 +1,7 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525436165l/38244358._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525436165l/38244358._SY475_.jpg
   dimensions:
     height: 22.0
   goodreads: '38244358'
@@ -9,7 +9,7 @@ book:
   publication_year: '2019'
   series: Wayward Children
   series_position: '4'
-  spine_color: '#3f575a'
+  spine_color: '#3d5557'
   tags:
   - fantasy
   title: In an Absent Dream

@@ -1,7 +1,7 @@
 ---
 book:
   author: Jupiter_Ash
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381674191l/18666098._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381674191l/18666098.jpg
   dimensions:
     height: 22
   goodreads: '18666098'
@@ -9,7 +9,7 @@ book:
   publication_year: null
   series: Tennis
   series_position: '2'
-  spine_color: '#a38062'
+  spine_color: '#a37f60'
   tags:
   - fanfic
   title: A Study in Doubles

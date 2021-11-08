@@ -1,13 +1,13 @@
 ---
 book:
   author: Sabrina Vourvoulias
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340588500l/15721155._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340588500l/15721155.jpg
   goodreads: '15721155'
   isbn10: 0615657818
   isbn13: '9780615657813'
   pages: '230'
   publication_year: '2012'
-  spine_color: '#a56a4f'
+  spine_color: '#a66b4f'
   tags:
   - scifi
   title: Ink

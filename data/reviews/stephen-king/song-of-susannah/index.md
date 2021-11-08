@@ -1,7 +1,7 @@
 ---
 book:
   author: Stephen King
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554221361l/5093._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554221361l/5093._SY475_.jpg
   dimensions:
     height: 23.0
   goodreads: '5093'
@@ -10,7 +10,7 @@ book:
   publication_year: '2004'
   series: The Dark Tower
   series_position: '6'
-  spine_color: '#5d7e92'
+  spine_color: '#5c7d91'
   tags:
   - fantasy
   - five-stars

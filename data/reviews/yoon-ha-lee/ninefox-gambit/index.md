@@ -1,7 +1,7 @@
 ---
 book:
   author: Yoon Ha Lee
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446557461l/26118426._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446557461l/26118426._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '26118426'
@@ -9,7 +9,7 @@ book:
   publication_year: '2016'
   series: The Machineries of Empire
   series_position: '1'
-  spine_color: '#307c99'
+  spine_color: '#2f7d9b'
   tags:
   - scifi
   title: Ninefox Gambit

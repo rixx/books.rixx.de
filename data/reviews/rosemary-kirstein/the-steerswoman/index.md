@@ -1,7 +1,7 @@
 ---
 book:
   author: Rosemary Kirstein
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278032321l/793297._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278032321l/793297.jpg
   goodreads: '793297'
   isbn10: '0345357620'
   isbn13: '9780345357625'
@@ -9,7 +9,7 @@ book:
   publication_year: '1989'
   series: The Steerswoman
   series_position: '1'
-  spine_color: '#b78a46'
+  spine_color: '#b88944'
   tags:
   - fantasy
   title: The Steerswoman

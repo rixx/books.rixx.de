@@ -1,6 +1,7 @@
 ---
 book:
   author: Charles Stross
+  cover_image_url: http://www.bestsf.net/wp-content/uploads/2011/01/engineeringinfinity.gif
   dimensions:
     height: 24.0
   goodreads: '18078713'
@@ -8,6 +9,7 @@ book:
   publication_year: '2010'
   series: Freyaverse
   series_position: '1.5'
+  spine_color: '#a27663'
   tags:
   - scifi
   title: Bit Rot

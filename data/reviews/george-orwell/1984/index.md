@@ -1,11 +1,11 @@
 ---
 book:
   author: George Orwell
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470.jpg
   goodreads: '5470'
   pages: '328'
   publication_year: '1949'
-  spine_color: '#a0c5d9'
+  spine_color: '#a1c7db'
   tags:
   - german
   - scifi

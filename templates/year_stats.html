@@ -76,8 +76,7 @@
             <div class="stats-block">
                 <div class="stats-block-content">
                     <div class="stats-block-title">First book</div>
-                    <div class="stats-block-big">{{ stats.first_book.metadata.pages }}</div>
-                    <div class="stats-block-small">{{ stats.first_book.date_read_lookup[year][0] }}</div>
+                    <div class="stats-block-big">{{ stats.first_book.date_read_lookup[year].strftime('%d.%m.') }}</div>
                 </div>
                 <div class="stats-block-cover">
                     {% with review=stats.first_book %}
@@ -99,13 +98,12 @@
                 </div>
                 <div class="stats-block-content">
                     <div class="stats-block-title">Last book</div>
-                    <div class="stats-block-big">{{ stats.last_book.metadata.pages }}</div>
-                    <div class="stats-block-small">{{ stats.first_book.date_read_lookup[year][0] }}</div>
+                    <div class="stats-block-big">{{ stats.last_book.date_read_lookup[year].strftime('%d.%m.') }}</div>
                 </div>
             </div>
         </div>
         <div class="stats-line-ps">
-            busiest month: {{ stats.busiest_month }}
+            busiest month: {{ stats.busiest_month[0] }} ({{ stats.busiest_month[1] }})
         </div>
     </div>
 

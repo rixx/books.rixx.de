@@ -1,7 +1,7 @@
 ---
 book:
   author: Alan Bradley
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472540479l/26194013._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472540479l/26194013._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '26194013'
@@ -11,7 +11,7 @@ book:
   publication_year: '2016'
   series: Flavia de Luce
   series_position: '8'
-  spine_color: '#c9902a'
+  spine_color: '#cb9028'
   tags: []
   title: Thrice the Brinded Cat Hath Mew'd
 plan:

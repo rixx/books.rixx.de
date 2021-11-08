@@ -1,14 +1,14 @@
 ---
 book:
   author: Mark Twain
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375469139l/237050._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375469139l/237050.jpg
   goodreads: '237050'
   isbn10: 157514266X
   isbn13: '9781575142661'
   pages: 6
   publication_year: '1900'
   source: https://warprayer.org/
-  spine_color: '#cea58a'
+  spine_color: '#d2a88d'
   title: The War Prayer
 plan:
   date_added: '2015-04-17'

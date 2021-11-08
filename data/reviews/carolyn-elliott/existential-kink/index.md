@@ -1,13 +1,13 @@
 ---
 book:
   author: Carolyn Elliott
-  cover_image_url: http://books.google.com/books/content?id=T-vJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569069343l/50915816._SX318_SY475_.jpg
   goodreads: '50915816'
   isbn10: '1578636477'
   isbn13: '9781578636471'
   pages: 220
   publication_year: null
-  spine_color: '#985254'
+  spine_color: '#9a4949'
   tags:
   - nonfiction
   - personal-development
@@ -20,8 +20,8 @@ related_books:
     is likely to be bound up in the experience. This book is a good way to get a handle
     on what shame is and how it works.
 - book: ichiro-kishimi/the-courage-to-be-disliked
-  text: This book makes the same claims as Existential Kink, only that it
-    is very severe about them where EK decides to enjoy the hell out of life.
+  text: This book makes the same claims as Existential Kink, only that it is very
+    severe about them where EK decides to enjoy the hell out of life.
 - book: aidan-wachter/weaving-fate
   text: Wachter has a technique that works like Elliott's Deepest Fear Inventory,
     only for desires.

@@ -1,11 +1,11 @@
 ---
 book:
   author: Franz Kafka
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894.jpg
   goodreads: '485894'
   pages: '201'
   publication_year: '1915'
-  spine_color: '#e2ca92'
+  spine_color: '#ddc389'
   tags:
   - german
   title: The Metamorphosis

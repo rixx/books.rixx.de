@@ -1,13 +1,13 @@
 ---
 book:
   author: Volker Ullrich
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346255353l/12629234._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346255353l/12629234.jpg
   goodreads: '12629234'
   isbn10: 340656254X
   isbn13: '9783406562549'
   pages: 127
   publication_year: '2009'
-  spine_color: '#ab141c'
+  spine_color: '#ac151d'
   tags:
   - german
   - history

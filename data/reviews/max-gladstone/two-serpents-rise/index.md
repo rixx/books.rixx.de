@@ -1,7 +1,7 @@
 ---
 book:
   author: Max Gladstone
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355469010l/16059411._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355469010l/16059411.jpg
   dimensions:
     height: 22.0
     thickness: 3.2
@@ -13,7 +13,7 @@ book:
   publication_year: '2013'
   series: Craft Sequence
   series_position: '2'
-  spine_color: '#e4d66f'
+  spine_color: '#e4d56b'
   tags:
   - fantasy
   - queer

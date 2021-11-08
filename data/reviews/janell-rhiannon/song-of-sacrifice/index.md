@@ -1,13 +1,13 @@
 ---
 book:
   author: Janell Rhiannon
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538446870l/42075692._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538446870l/42075692._SY475_.jpg
   goodreads: '42075692'
   pages: '543'
   publication_year: '2018'
   series: Homeric Chronicles
   series_position: '1'
-  spine_color: '#c1a868'
+  spine_color: '#bb9d5a'
   tags:
   - myths-legends
   title: Song of Sacrifice

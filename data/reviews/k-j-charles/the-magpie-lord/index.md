@@ -1,7 +1,7 @@
 ---
 book:
   author: K.J. Charles
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490703800l/34715150._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490703800l/34715150._SY475_.jpg
   goodreads: '34715150'
   isbn10: null
   isbn13: '9780995799028'
@@ -9,7 +9,7 @@ book:
   publication_year: '2013'
   series: A Charm of Magpies
   series_position: '1'
-  spine_color: '#737e71'
+  spine_color: '#707a6c'
   tags:
   - queer
   - romance

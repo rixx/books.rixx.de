@@ -1,7 +1,7 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183914l/16005281._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564072991l/16005281._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '16005281'
@@ -9,7 +9,7 @@ book:
   publication_year: '2007'
   series: Sacrifices Arc
   series_position: '7'
-  spine_color: '#312f4b'
+  spine_color: '#809cdb'
   tags:
   - fanfic
   title: I Am Also Thy Brother

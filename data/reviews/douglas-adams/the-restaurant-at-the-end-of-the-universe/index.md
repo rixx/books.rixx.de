@@ -1,7 +1,7 @@
 ---
 book:
   author: Douglas Adams
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SY475_.jpg
   dimensions:
     height: 21.0
   goodreads: '8695'
@@ -9,7 +9,7 @@ book:
   publication_year: '1980'
   series: Hitchhiker's Guide to the Galaxy
   series_position: '2'
-  spine_color: '#a17342'
+  spine_color: '#a57543'
   tags:
   - german
   - scifi

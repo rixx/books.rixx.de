@@ -1,13 +1,13 @@
 ---
 book:
   author: Hugh Howey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029.jpg
   goodreads: '13453029'
   pages: '509'
   publication_year: '2012'
   series: Silo
   series_position: '1'
-  spine_color: '#8a8649'
+  spine_color: '#8d8949'
   tags:
   - scifi
   title: Wool Omnibus

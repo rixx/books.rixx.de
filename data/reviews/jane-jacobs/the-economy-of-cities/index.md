@@ -1,7 +1,7 @@
 ---
 book:
   author: Jane Jacobs
-  cover_image_url: http://books.google.com/books/content?id=I6XjDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348414116l/85398.jpg
   dimensions:
     height: 19.0
     thickness: 1.5
@@ -11,7 +11,7 @@ book:
   isbn13: '9780394705842'
   pages: 268
   publication_year: '1969'
-  spine_color: '#dac98e'
+  spine_color: '#ddc78e'
   tags:
   - history
   - nonfiction
@@ -24,7 +24,8 @@ related_books:
     compatible, but their implicit value judgement are not. My notes are an attempt
     at a summary.
 - book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
-  text: A look at invention in the Middle Ages with a short stint towards antiquity. Confirms many of the points made here in detail.
+  text: A look at invention in the Middle Ages with a short stint towards antiquity.
+    Confirms many of the points made here in detail.
 review:
   date_read:
   - 2021-07-25

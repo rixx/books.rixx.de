@@ -1,7 +1,7 @@
 ---
 book:
   author: Otfried Preußler
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392994064l/316808._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392994064l/316808.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -11,7 +11,7 @@ book:
   isbn13: '9783522174404'
   pages: 137
   publication_year: '1966'
-  spine_color: '#b19c62'
+  spine_color: '#b5985a'
   tags:
   - german
   - kids

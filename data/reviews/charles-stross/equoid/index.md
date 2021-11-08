@@ -1,7 +1,7 @@
 ---
 book:
   author: Charles Stross
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380030682l/18403081._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380030682l/18403081.jpg
   dimensions:
     height: 22.0
   goodreads: '18403081'
@@ -11,7 +11,7 @@ book:
   publication_year: '2013'
   series: Laundry Files
   series_position: '2.9'
-  spine_color: '#b9b2b4'
+  spine_color: '#4f4747'
   tags:
   - urban-fantasy
   title: Equoid

@@ -1,7 +1,7 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460274588l/61880._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460274588l/61880.jpg
   dimensions:
     height: 18.0
   goodreads: '61880'
@@ -11,7 +11,7 @@ book:
   publication_year: '1996'
   series: Vorkosigan Saga
   series_position: '10'
-  spine_color: '#b55339'
+  spine_color: '#bc5438'
   tags:
   - five-stars
   - scifi

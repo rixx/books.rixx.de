@@ -1,13 +1,13 @@
 ---
 book:
   author: Peter S. Beagle
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492682178l/34908556._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492682178l/34908556._SX318_.jpg
   goodreads: '34908556'
   isbn10: '1616962836'
   isbn13: '9781616962838'
   pages: '285'
   publication_year: '2017'
-  spine_color: '#b4b0ad'
+  spine_color: '#a5a09d'
   tags:
   - fantasy
   title: The Unicorn Anthology

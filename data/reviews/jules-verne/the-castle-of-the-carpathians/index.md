@@ -1,7 +1,7 @@
 ---
 book:
   author: Jules Verne
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307523714l/1540877._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307523714l/1540877._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '1540877'
@@ -9,7 +9,7 @@ book:
   publication_year: '1892'
   series: Extraordinary Voyages
   series_position: '37'
-  spine_color: '#cdbb8c'
+  spine_color: '#baac81'
   tags:
   - german
   title: The Castle of the Carpathians

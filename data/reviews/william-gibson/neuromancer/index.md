@@ -1,13 +1,13 @@
 ---
 book:
   author: William Gibson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281419771l/888628._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281419771l/888628.jpg
   goodreads: '888628'
   pages: '320'
   publication_year: '1984'
   series: Sprawl
   series_position: '1'
-  spine_color: '#376797'
+  spine_color: '#376897'
   tags:
   - scifi
   title: Neuromancer

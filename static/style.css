@@ -242,6 +242,21 @@ hr + .external-link {
   height: 160px;
 }
 
+.cover-wrapper {
+  display: inline-flex;
+}
+.cover-wrapper.with-spine img {
+  border: 1px solid var(--spine-color);
+  margin-left: 0;
+}
+.cover-wrapper .cover-spine {
+  width: 20px;
+  margin: 10px 0;
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.25);
+  background:linear-gradient(90deg, rgba(100,100,100, 0.3) 0%, rgba(255, 255, 255, 0) 40%, rgba(255,255,255, 0.2) 78%, rgba(0,0,0, 0.2) 92%);
+  background-color: var(--spine-color);
+}
+
 .lists p.title {
   margin-left: 24px;
 }
@@ -301,6 +316,17 @@ a .book-review {
 
 h2 small {
   font-size: 18px;
+}
+h2.review-title {
+  display: flex;
+  align-items: center;
+}
+h2 small#year-in-books {
+  font-size: 20px;
+  margin-left: auto;
+}
+h2 small#year-in-books a {
+  color: #990000;
 }
 .muted {
   margin-right: 8px;
@@ -1007,6 +1033,7 @@ h1#year-stats-headline:after {
 #year-stats-covers .book-cover img {
   height: 200px;
   max-width: 85%;
+  object-fit: cover;
 }
 #year-stats-covers .big-grid {
   grid-column-start: span 2;
@@ -1017,8 +1044,8 @@ h1#year-stats-headline:after {
   margin-top: 30px;
 }
 #year-stats-covers .big-grid.book-cover img {
-  height: 400px;
-  max-height: 420px;
+  height: 350px;
+  max-height: 350px;
 }
 
 @media (max-width: 480px) {

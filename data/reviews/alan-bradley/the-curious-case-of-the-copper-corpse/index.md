@@ -1,7 +1,7 @@
 ---
 book:
   author: Alan Bradley
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414703512l/23480520._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414703512l/23480520.jpg
   dimensions:
     height: 20.0
   goodreads: '23480520'
@@ -9,7 +9,7 @@ book:
   publication_year: '2014'
   series: Flavia de Luce
   series_position: '6.5'
-  spine_color: '#c89e71'
+  spine_color: '#b68e66'
   tags: []
   title: The Curious Case of the Copper Corpse
 plan:

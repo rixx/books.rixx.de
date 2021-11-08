@@ -17,7 +17,8 @@ related_books:
 - book: jules-verne/around-the-world-in-eighty-days
   text: More Verne travels, though in a more privileged and safer manner.
 - book: r-j-barker/the-bone-ships
-  text: More sea adventure, though in a fantasy world. Similar love for all things ships.
+  text: More sea adventure, though in a fantasy world. Similar love for all things
+    ships.
 - book: robert-louis-stevenson/treasure-island
   text: Similar spirit of adventure, very different execution
 review:

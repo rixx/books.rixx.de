@@ -1,7 +1,7 @@
 ---
 book:
   author: Graydon Saunders
-  cover_image_url: http://books.google.com/books/content?id=tYyxCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433057438l/25635541._SX318_.jpg
   goodreads: '25635541'
   isbn10: null
   isbn13: '9780993712616'
@@ -9,7 +9,7 @@ book:
   publication_year: '2015'
   series: Commonweal
   series_position: 2
-  spine_color: '#464a36'
+  spine_color: '#333621'
   tags:
   - fantasy
   - learning-the-arts

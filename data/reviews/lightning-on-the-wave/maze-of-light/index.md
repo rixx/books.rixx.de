@@ -1,7 +1,7 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183060l/24376769._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183060l/24376769._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '24376769'
@@ -9,7 +9,7 @@ book:
   publication_year: '2005'
   series: Sacrifices Arc
   series_position: '3.5'
-  spine_color: '#312f4b'
+  spine_color: '#312e4b'
   tags:
   - fanfic
   title: Maze of Light

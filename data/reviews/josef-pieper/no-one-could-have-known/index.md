@@ -1,7 +1,7 @@
 ---
 book:
   author: Josef Pieper
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780898701319-L.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/515XHP6A21L.jpg
   dimensions:
     height: 21.0
     thickness: 1.9
@@ -11,7 +11,7 @@ book:
   isbn13: '9780898701319'
   pages: 227
   publication_year: '1970'
-  spine_color: '#fefefe'
+  spine_color: '#3f2317'
   tags:
   - nonfiction
   title: No One Could Have Known

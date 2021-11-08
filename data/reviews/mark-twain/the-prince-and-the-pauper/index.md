@@ -1,7 +1,7 @@
 ---
 book:
   author: Mark Twain
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780451528353-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376406798l/62446.jpg
   dimensions:
     height: 18.0
     thickness: 1.7
@@ -11,7 +11,7 @@ book:
   isbn13: '9780451528353'
   pages: 240
   publication_year: '1881'
-  spine_color: '#b89e79'
+  spine_color: '#baa27e'
   tags:
   - historical-fiction
   title: The Prince and the Pauper

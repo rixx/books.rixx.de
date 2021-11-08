@@ -1,13 +1,13 @@
 ---
 book:
   author: Samuel Beckett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327910301l/17716._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327910301l/17716.jpg
   goodreads: '17716'
   isbn10: null
   isbn13: null
   pages: '109'
   publication_year: '1952'
-  spine_color: '#bcd6e6'
+  spine_color: '#b2cbdd'
   tags:
   - german
   - stage-play

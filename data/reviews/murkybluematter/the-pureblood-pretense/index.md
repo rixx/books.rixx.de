@@ -1,7 +1,7 @@
 ---
 book:
   author: murkybluematter
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729168l/34213044._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729168l/34213044._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '34213044'
@@ -10,7 +10,7 @@ book:
   series: Rigel Black
   series_position: '1'
   source: https://www.fanfiction.net/s/7613196/1/The-Pureblood-Pretense
-  spine_color: '#7c7267'
+  spine_color: '#796a5a'
   tags:
   - fanfic
   title: The Pureblood Pretense

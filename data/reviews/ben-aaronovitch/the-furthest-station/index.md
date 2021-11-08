@@ -1,7 +1,7 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488204086l/31626329._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488204086l/31626329._SY475_.jpg
   dimensions:
     height: 22.3
   goodreads: '31626329'
@@ -11,7 +11,7 @@ book:
   publication_year: '2017'
   series: Rivers of London
   series_position: '5.5'
-  spine_color: '#7e233c'
+  spine_color: '#8a2a47'
   tags:
   - urban-fantasy
   title: The Furthest Station

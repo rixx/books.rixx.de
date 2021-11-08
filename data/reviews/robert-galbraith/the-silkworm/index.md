@@ -1,7 +1,7 @@
 ---
 book:
   author: Robert Galbraith
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540217126l/18214414.jpg
   dimensions:
     height: 25.0
   goodreads: '18214414'
@@ -11,7 +11,7 @@ book:
   publication_year: '2014'
   series: Cormoran Strike
   series_position: '2'
-  spine_color: '#ae6449'
+  spine_color: '#b0664a'
   tags:
   - mystery
   title: The Silkworm

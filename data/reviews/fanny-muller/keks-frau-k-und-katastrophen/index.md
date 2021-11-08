@@ -1,11 +1,13 @@
 ---
 book:
   author: Fanny Müller
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/41SyUFB8TgS._SX309_BO1,204,203,200_.jpg
   goodreads: '3351055'
   isbn10: '3861505355'
   isbn13: '9783861505358'
   pages: 80
   publication_year: null
+  spine_color: '#8691ad'
   tags:
   - german
   title: 'Keks, Frau K. und Katastrophen : alle Geschichten'

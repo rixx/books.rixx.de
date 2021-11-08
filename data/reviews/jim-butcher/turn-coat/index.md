@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027128l/3475161._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027128l/3475161.jpg
   dimensions:
     height: 20.0
     thickness: 3.6
@@ -13,7 +13,7 @@ book:
   publication_year: '2009'
   series: The Dresden Files
   series_position: '11'
-  spine_color: '#b9613b'
+  spine_color: '#b45d34'
   tags:
   - urban-fantasy
   title: Turn Coat

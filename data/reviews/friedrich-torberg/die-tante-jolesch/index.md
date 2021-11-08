@@ -1,7 +1,7 @@
 ---
 book:
   author: Friedrich Torberg
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423012669-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488750345l/1508991._SY475_.jpg
   dimensions:
     height: 18.0
     thickness: 1.6
@@ -11,7 +11,7 @@ book:
   isbn13: '9783423012669'
   pages: 249
   publication_year: '1975'
-  spine_color: '#615122'
+  spine_color: '#836e3b'
   tags:
   - german
   - history

@@ -1,7 +1,7 @@
 ---
 book:
   author: Scott  Hawkins
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453225113l/26892110.jpg
   dimensions:
     height: 20.4
     thickness: 2.1
@@ -11,7 +11,7 @@ book:
   isbn13: '9780553418620'
   pages: 400
   publication_year: '2015'
-  spine_color: '#cfb694'
+  spine_color: '#c6aa86'
   tags:
   - fantasy
   - learning-the-arts

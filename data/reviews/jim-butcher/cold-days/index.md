@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345145377l/12216302._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345145377l/12216302.jpg
   dimensions:
     height: 20.0
     thickness: 4.2
@@ -13,7 +13,7 @@ book:
   publication_year: '2012'
   series: The Dresden Files
   series_position: '14'
-  spine_color: '#5d728e'
+  spine_color: '#5d7390'
   tags:
   - urban-fantasy
   title: Cold Days

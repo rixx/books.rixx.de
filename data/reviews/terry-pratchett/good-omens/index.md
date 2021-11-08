@@ -1,11 +1,11 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392528568l/12067._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615552073l/12067.jpg
   goodreads: '12067'
   pages: '491'
   publication_year: '1990'
-  spine_color: '#c9b588'
+  spine_color: '#c5af66'
   tags:
   - fantasy
   title: 'Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch'

@@ -1,7 +1,7 @@
 ---
 book:
   author: Steven Sloman
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474600243l/30780235._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474600243l/30780235.jpg
   dimensions:
     height: 24.0
     thickness: 2.7
@@ -11,7 +11,7 @@ book:
   isbn13: '9780399184352'
   pages: 304
   publication_year: '2017'
-  spine_color: '#eeee1e'
+  spine_color: '#f0ef1e'
   tags:
   - five-stars
   - nonfiction
@@ -25,7 +25,8 @@ related_books:
   text: You need other people to store knowledge, this is how you learn to deal with
     them.
 - book: l-david-marquet/turn-the-ship-around
-  text: Lived examples of using vs blocking shared knowledge. Marquet explicitly talks about "where the information lives".
+  text: Lived examples of using vs blocking shared knowledge. Marquet explicitly talks
+    about "where the information lives".
 - book: steven-johnson/where-good-ideas-come-from
   text: Knowledge and ideas need each other.
 review:

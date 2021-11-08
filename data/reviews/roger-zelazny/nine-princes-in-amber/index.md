@@ -1,7 +1,7 @@
 ---
 book:
   author: Roger Zelazny
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780380014309-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416090973l/92121.jpg
   dimensions:
     height: 18.0
     thickness: 1.3
@@ -13,7 +13,7 @@ book:
   publication_year: '1970'
   series: The Chronicles of Amber
   series_position: '1'
-  spine_color: '#442208'
+  spine_color: '#be9823'
   tags:
   - fantasy
   title: Nine Princes in Amber

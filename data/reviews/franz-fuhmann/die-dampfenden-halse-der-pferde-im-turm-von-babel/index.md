@@ -1,13 +1,13 @@
 ---
 book:
   author: Franz Fühmann
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340833568l/2841133._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340833568l/2841133.jpg
   goodreads: '2841133'
   isbn10: '3356010980'
   isbn13: '9783356010985'
   pages: '358'
   publication_year: '1978'
-  spine_color: '#bbab8d'
+  spine_color: '#beac8d'
   tags:
   - five-stars
   - german

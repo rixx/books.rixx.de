@@ -1,7 +1,7 @@
 ---
 book:
   author: Alan Bradley
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409945571l/11277218._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409945571l/11277218.jpg
   dimensions:
     height: 20.0
   goodreads: '11277218'
@@ -11,7 +11,7 @@ book:
   publication_year: '2011'
   series: Flavia de Luce
   series_position: '4'
-  spine_color: '#ea2b27'
+  spine_color: '#e82b26'
   tags: []
   title: I Am Half-Sick of Shadows
 plan:

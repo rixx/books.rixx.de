@@ -1,7 +1,7 @@
 ---
 book:
   author: Aspen in the Sunlight
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158195l/16171495._SX98_.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1416158195i/16171495.jpg
   dimensions:
     height: 16
   goodreads: '16171495'
@@ -10,7 +10,7 @@ book:
   series: Like None Other
   series_position: '1'
   source: https://archiveofourown.org/works/742072
-  spine_color: '#18330d'
+  spine_color: '#16350e'
   tags:
   - fanfic
   title: A Year Like None Other

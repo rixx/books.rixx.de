@@ -1,13 +1,13 @@
 ---
 book:
   author: Michele Tracy Berger
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529578290l/40602716._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529578290l/40602716._SY475_.jpg
   goodreads: '40602716'
   isbn13: '9781942302735'
   pages: 25
   publication_year: '2018'
   source: https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html
-  spine_color: '#beafae'
+  spine_color: '#b8a8a6'
   tags:
   - scifi
   title: Nussia

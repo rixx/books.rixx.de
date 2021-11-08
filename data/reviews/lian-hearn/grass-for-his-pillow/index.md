@@ -1,7 +1,7 @@
 ---
 book:
   author: Lian Hearn
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370809289l/1864637._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783551581105-L.jpg
   dimensions:
     height: 24.0
   goodreads: '1864637'
@@ -11,7 +11,7 @@ book:
   publication_year: '2003'
   series: Tales of the Otori
   series_position: '2'
-  spine_color: '#649c86'
+  spine_color: '#1e4c4f'
   tags:
   - fantasy
   - ya

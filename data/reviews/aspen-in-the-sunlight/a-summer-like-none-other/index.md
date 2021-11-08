@@ -1,7 +1,7 @@
 ---
 book:
   author: Aspen in the Sunlight
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158403l/16171523._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416158403l/16171523.jpg
   dimensions:
     height: 16
   goodreads: '16171523'
@@ -9,7 +9,7 @@ book:
   publication_year: '2008'
   series: Like None Other
   series_position: '2'
-  spine_color: '#927c62'
+  spine_color: '#8a7559'
   tags:
   - fanfic
   title: A Summer Like None Other

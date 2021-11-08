@@ -1,7 +1,7 @@
 ---
 book:
   author: Charles Stross
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478673286l/32063117._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478673286l/32063117.jpg
   dimensions:
     height: 22.0
   goodreads: '32063117'
@@ -9,7 +9,7 @@ book:
   publication_year: '2017'
   series: Laundry Files
   series_position: '8'
-  spine_color: '#828a8b'
+  spine_color: '#ece9e2'
   tags:
   - urban-fantasy
   title: The Delirium Brief

@@ -1,7 +1,7 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783789129469-L.jpg
+  cover_image_url: https://bilder.buecher.de/produkte/00/00358/00358471z.jpg
   dimensions:
     height: 22.0
     thickness: 3.4
@@ -11,7 +11,7 @@ book:
   isbn13: '9783789129469'
   pages: 335
   publication_year: null
-  spine_color: '#fabe1c'
+  spine_color: '#fac122'
   tags:
   - german
   - kids

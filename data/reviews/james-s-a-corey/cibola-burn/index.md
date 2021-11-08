@@ -1,7 +1,7 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405023040l/18656030._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405023040l/18656030.jpg
   dimensions:
     height: 24.0
   goodreads: '18656030'
@@ -9,7 +9,7 @@ book:
   publication_year: '2014'
   series: The Expanse
   series_position: '4'
-  spine_color: '#8f9651'
+  spine_color: '#919650'
   tags:
   - scifi
   title: Cibola Burn

@@ -1,7 +1,7 @@
 ---
 book:
   author: Gail Carriger
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780316056632-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314020848l/6381205.jpg
   goodreads: '6381205'
   isbn10: '0316056634'
   isbn13: '9780316056632'
@@ -9,7 +9,7 @@ book:
   publication_year: '2009'
   series: Parasol Protectorate
   series_position: '1'
-  spine_color: '#9b5e72'
+  spine_color: '#7f5c68'
   tags:
   - fantasy
   - romance

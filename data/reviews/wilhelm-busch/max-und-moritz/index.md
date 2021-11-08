@@ -7,7 +7,7 @@ book:
   isbn13: '9783938264621'
   pages: '32'
   publication_year: '1865'
-  spine_color: '#f5e32e'
+  spine_color: '#f5e32f'
   tags:
   - five-stars
   - german

@@ -1,7 +1,7 @@
 ---
 book:
   author: China Miéville
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320470326l/9265453._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320470326l/9265453.jpg
   dimensions:
     height: 25.0
     thickness: 2.9
@@ -11,7 +11,7 @@ book:
   isbn13: '9780345524492'
   pages: 345
   publication_year: '2011'
-  spine_color: '#6a5a5a'
+  spine_color: '#6a5a59'
   tags:
   - fantasy
   - five-stars

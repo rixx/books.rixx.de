@@ -1,13 +1,13 @@
 ---
 book:
   author: Erich Kästner
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423110013-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337433439l/1477234.jpg
   goodreads: '1477234'
   isbn10: '3423110015'
   isbn13: '9783423110013'
   pages: '224'
   publication_year: '1936'
-  spine_color: '#eedc6a'
+  spine_color: '#f4df8b'
   tags:
   - german
   - poetry

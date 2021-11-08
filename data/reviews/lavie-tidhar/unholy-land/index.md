@@ -1,7 +1,7 @@
 ---
 book:
   author: Lavie Tidhar
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531831184l/39791736._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531831184l/39791736.jpg
   dimensions:
     height: 21.6
     thickness: 2.1
@@ -11,7 +11,7 @@ book:
   isbn13: '9781616963040'
   pages: 288
   publication_year: '2018'
-  spine_color: '#1b7580'
+  spine_color: '#1a7783'
   title: Unholy Land
 plan:
   date_added: '2018-10-06'

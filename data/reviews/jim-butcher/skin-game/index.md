@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387236318l/19486421._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387236318l/19486421.jpg
   dimensions:
     height: 20.0
   goodreads: '19486421'
@@ -11,7 +11,7 @@ book:
   publication_year: '2014'
   series: The Dresden Files
   series_position: '15'
-  spine_color: '#b66033'
+  spine_color: '#b45e30'
   tags:
   - urban-fantasy
   title: Skin Game

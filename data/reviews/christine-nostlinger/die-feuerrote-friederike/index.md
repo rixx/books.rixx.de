@@ -1,13 +1,13 @@
 ---
 book:
   author: Christine Nöstlinger
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423071338-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327346583l/296394.jpg
   goodreads: '296394'
   isbn10: '3423071338'
   isbn13: '9783423071338'
   pages: 83
   publication_year: '1970'
-  spine_color: '#a0484c'
+  spine_color: '#bd3543'
   tags:
   - german
   - kids

@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334148719l/201882._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334148719l/201882.jpg
   dimensions:
     height: 18.0
   goodreads: '201882'
@@ -11,7 +11,7 @@ book:
   publication_year: '1966'
   series: Hainish Cycle
   series_position: '2'
-  spine_color: '#c08c3e'
+  spine_color: '#c18c3e'
   tags:
   - scifi
   title: Planet of Exile

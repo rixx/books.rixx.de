@@ -7,7 +7,7 @@ book:
   isbn13: null
   pages: 58
   publication_year: '1962'
-  spine_color: '#111210'
+  spine_color: '#111211'
   tags:
   - language
   - scifi

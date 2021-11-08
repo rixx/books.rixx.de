@@ -1,7 +1,7 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515620585l/37906597._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515620585l/37906597._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '37906597'
@@ -9,7 +9,7 @@ book:
   publication_year: '1932'
   series: Lord Peter Wimsey
   series_position: '8'
-  spine_color: '#70a8a7'
+  spine_color: '#70a9a7'
   tags:
   - mystery
   title: Have His Carcase

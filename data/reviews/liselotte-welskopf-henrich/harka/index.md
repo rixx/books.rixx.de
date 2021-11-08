@@ -1,7 +1,7 @@
 ---
 book:
   author: Liselotte Welskopf-Henrich
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368730l/6083604._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385368730l/6083604.jpg
   dimensions:
     height: 25
   goodreads: '6083604'
@@ -11,7 +11,7 @@ book:
   publication_year: '1962'
   series: Die Söhne der Großen Bärin
   series_position: '1'
-  spine_color: '#afa541'
+  spine_color: '#aea540'
   tags:
   - five-stars
   - german

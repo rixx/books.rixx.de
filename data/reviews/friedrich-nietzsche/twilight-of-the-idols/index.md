@@ -1,7 +1,7 @@
 ---
 book:
   author: Friedrich Nietzsche
-  cover_image_url: https://upload.wikimedia.org/wikipedia/commons/a/a6/Gotzen-dammerung.gif
+  cover_image_url: https://www.penguinrandomhouse.de/content/edition/cover/350px/9783866472419.jpg
   dimensions:
     height: 22.0
     thickness: 13.9
@@ -11,7 +11,7 @@ book:
   isbn13: '9780872203549'
   pages: 209
   publication_year: '1888'
-  spine_color: '#fefefe'
+  spine_color: '#8d362f'
   tags:
   - german
   - nonfiction
@@ -23,7 +23,8 @@ related_books:
 - book: epictetus/the-manual
   text: Nietzsche has Opinions on Greek philosophers.
 - book: g-k-chesterton/heretics
-  text: Chesterton expresses some non-favourable opinions on Nietzsche while being also extremely like him.
+  text: Chesterton expresses some non-favourable opinions on Nietzsche while being
+    also extremely like him.
 review:
   date_read:
   - 2020-05-25

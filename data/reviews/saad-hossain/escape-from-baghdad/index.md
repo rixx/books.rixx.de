@@ -1,7 +1,7 @@
 ---
 book:
   author: Saad Hossain
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417045270l/23013966._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417045270l/23013966.jpg
   dimensions:
     height: 22.0
     thickness: 2.1
@@ -11,7 +11,7 @@ book:
   isbn13: '9781939419248'
   pages: 304
   publication_year: '2012'
-  spine_color: '#65232d'
+  spine_color: '#66242d'
   tags:
   - historical-fiction
   - urban-fantasy

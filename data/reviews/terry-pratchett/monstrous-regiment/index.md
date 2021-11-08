@@ -1,7 +1,7 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375908503l/34511._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375908503l/34511.jpg
   dimensions:
     height: 20.0
   goodreads: '34511'
@@ -9,7 +9,7 @@ book:
   publication_year: '2003'
   series: Discworld
   series_position: '31'
-  spine_color: '#c6bdbc'
+  spine_color: '#c3baba'
   title: Monstrous Regiment
 plan:
   date_added: '2015-04-08'

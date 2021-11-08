@@ -1,13 +1,13 @@
 ---
 book:
   author: Linda Nagata
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500521839l/35709112._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500521839l/35709112._SY475_.jpg
   goodreads: '35709112'
   isbn10: '1250162408'
   isbn13: '9781250162403'
   pages: '128'
   publication_year: '2017'
-  spine_color: '#dd7d4c'
+  spine_color: '#dd7c4b'
   tags:
   - scifi
   title: The Martian Obelisk

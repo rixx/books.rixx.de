@@ -1,14 +1,14 @@
 ---
 book:
   author: Marko Kloos
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554041800l/44281120._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554041800l/44281120._SY475_.jpg
   goodreads: '44281120'
   isbn10: '1250206871'
   isbn13: '9781250206879'
   pages: '32'
   publication_year: '2019'
   source: https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/
-  spine_color: '#ad9886'
+  spine_color: '#b29983'
   tags:
   - urban-fantasy
   title: How to Move Spheres and Influence People

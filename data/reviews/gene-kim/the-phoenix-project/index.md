@@ -1,7 +1,7 @@
 ---
 book:
   author: Gene Kim
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361113128l/17255186.jpg
   dimensions:
     height: 24.0
     thickness: 2.9
@@ -11,7 +11,7 @@ book:
   isbn13: '9780988262591'
   pages: 345
   publication_year: '2013'
-  spine_color: '#acaba2'
+  spine_color: '#adaca2'
   tags:
   - nonfiction
   - tech

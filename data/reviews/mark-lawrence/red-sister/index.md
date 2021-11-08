@@ -1,7 +1,7 @@
 ---
 book:
   author: Mark  Lawrence
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481038440l/25895524._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627762558l/25895524._SY475_.jpg
   dimensions:
     height: 24.0
     thickness: 3.9
@@ -13,7 +13,7 @@ book:
   publication_year: '2017'
   series: Book of the Ancestor
   series_position: '1'
-  spine_color: '#977e69'
+  spine_color: '#ab8363'
   tags:
   - fantasy
   - learning-the-arts

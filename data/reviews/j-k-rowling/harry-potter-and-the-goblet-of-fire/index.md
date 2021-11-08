@@ -1,7 +1,7 @@
 ---
 book:
   author: J.K. Rowling
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6.jpg
   dimensions:
     height: 24.0
   goodreads: '6'
@@ -9,7 +9,7 @@ book:
   publication_year: '2000'
   series: Harry Potter
   series_position: '4'
-  spine_color: '#c1824c'
+  spine_color: '#be7e48'
   tags:
   - fantasy
   - german

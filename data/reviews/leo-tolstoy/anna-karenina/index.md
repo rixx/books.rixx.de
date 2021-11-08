@@ -1,11 +1,11 @@
 ---
 book:
   author: Leo Tolstoy
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601352433l/15823480._SY475_.jpg
   goodreads: '15823480'
   pages: '964'
   publication_year: '1877'
-  spine_color: '#887662'
+  spine_color: '#827360'
   tags:
   - german
   title: Anna Karenina

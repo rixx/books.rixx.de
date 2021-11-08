@@ -1,7 +1,7 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image_url: http://books.google.com/books/content?id=d8p0CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439213337l/25155958._SY475_.jpg
   dimensions:
     height: 18.0
   goodreads: '25155958'
@@ -11,7 +11,7 @@ book:
   publication_year: '2016'
   series: Vorkosigan Saga
   series_position: '16'
-  spine_color: '#373d4a'
+  spine_color: '#323743'
   tags:
   - five-stars
   - romance

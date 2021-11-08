@@ -11,7 +11,7 @@ book:
   publication_year: '2002'
   series: Vorkosigan Saga
   series_position: '13.1'
-  spine_color: '#e07b30'
+  spine_color: '#e07b31'
   tags:
   - scifi
   title: Winterfair Gifts

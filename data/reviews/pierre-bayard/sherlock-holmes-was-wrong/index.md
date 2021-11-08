@@ -1,7 +1,7 @@
 ---
 book:
   author: Pierre Bayard
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312050651l/3476806._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312050651l/3476806.jpg
   dimensions:
     height: 21.0
     thickness: 2.0
@@ -11,7 +11,7 @@ book:
   isbn13: '9781596916050'
   pages: 208
   publication_year: '2008'
-  spine_color: '#ed4625'
+  spine_color: '#ec4524'
   title: 'Sherlock Holmes Was Wrong: Reopening the Case of The Hound of the Baskervilles'
 plan:
   date_added: '2019-07-17'

@@ -1,7 +1,7 @@
 ---
 book:
   author: C.S. Lewis
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915.jpg
   dimensions:
     height: 20.0
   goodreads: '100915'
@@ -9,7 +9,7 @@ book:
   publication_year: '1950'
   series: Chronicles of Narnia
   series_position: '1'
-  spine_color: '#af9b6e'
+  spine_color: '#ab9567'
   tags:
   - fantasy
   - german

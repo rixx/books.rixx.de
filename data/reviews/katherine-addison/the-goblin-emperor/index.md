@@ -1,7 +1,7 @@
 ---
 book:
   author: Katherine Addison
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373039517l/17910048._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373039517l/17910048.jpg
   dimensions:
     height: 22.0
     thickness: 3.8
@@ -13,7 +13,7 @@ book:
   publication_year: '2014'
   series: The Goblin Emperor
   series_position: '1'
-  spine_color: '#d3a56d'
+  spine_color: '#cf9f65'
   tags:
   - fantasy
   - learning-the-arts

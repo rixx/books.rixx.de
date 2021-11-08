@@ -1,12 +1,12 @@
 ---
 book:
   author: Dale Bailey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516209337l/38085498._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516209337l/38085498._SY475_.jpg
   goodreads: '38085498'
   pages: '46'
   publication_year: '2018'
   source: https://www.tor.com/2018/01/17/the-ghoul-goes-west-dale-bailey/
-  spine_color: '#eeecf3'
+  spine_color: '#eae8f3'
   title: The Ghoul Goes West
 plan:
   date_added: '2019-02-05'

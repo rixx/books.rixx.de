@@ -1,7 +1,7 @@
 ---
 book:
   author: Kameron Hurley
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9781481447966-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537977912l/40523931.jpg
   dimensions:
     height: 22.9
     thickness: 3.6
@@ -11,7 +11,7 @@ book:
   isbn13: '9781481447966'
   pages: 368
   publication_year: '2019'
-  spine_color: '#24c0b4'
+  spine_color: '#21c3b7'
   tags:
   - scifi
   - time-travel

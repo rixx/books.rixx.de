@@ -1,7 +1,7 @@
 ---
 book:
   author: Lois McMaster Bujold
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297831387l/61909._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297831387l/61909.jpg
   dimensions:
     height: 18.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   publication_year: '1994'
   series: Vorkosigan Saga
   series_position: '8'
-  spine_color: '#7c5855'
+  spine_color: '#7d5854'
   tags:
   - scifi
   title: Mirror Dance

@@ -1,14 +1,14 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331251248l/722587._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331251248l/722587.jpg
   goodreads: '722587'
   isbn10: '0451144244'
   isbn13: '9780451144249'
   pages: '278'
   publication_year: '1971'
   source: http://classes.dma.ucla.edu/Fall10/157A/wp-content/uploads/timeDelany_01.pdf
-  spine_color: '#f8efb8'
+  spine_color: '#f7edb5'
   tags:
   - five-stars
   - scifi

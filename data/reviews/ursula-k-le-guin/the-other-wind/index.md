@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441011254-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285821l/13658.jpg
   dimensions:
     height: 21.0
   goodreads: '13658'
@@ -11,7 +11,7 @@ book:
   publication_year: '2001'
   series: Earthsea Cycle
   series_position: '6'
-  spine_color: '#d6683d'
+  spine_color: '#de7543'
   tags:
   - fantasy
   title: The Other Wind

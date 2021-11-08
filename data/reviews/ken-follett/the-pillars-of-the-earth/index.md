@@ -1,13 +1,13 @@
 ---
 book:
   author: Ken Follett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043.jpg
   goodreads: '5043'
   pages: '976'
   publication_year: '1989'
   series: Kingsbridge
   series_position: '1'
-  spine_color: '#c6a87c'
+  spine_color: '#c9aa7d'
   tags:
   - historical-fiction
   title: The Pillars of the Earth

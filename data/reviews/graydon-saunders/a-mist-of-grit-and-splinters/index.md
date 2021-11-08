@@ -1,7 +1,7 @@
 ---
 book:
   author: Graydon Saunders
-  cover_image_url: http://books.google.com/books/content?id=eRjGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+  cover_image_url: https://kbimages1-a.akamaihd.net/119b2187-ca50-4130-8558-bbff42fa2728/353/569/90/False/a-mist-of-grit-and-splinters.jpg
   goodreads: '50274258'
   isbn10: null
   isbn13: '9780993712654'
@@ -9,7 +9,7 @@ book:
   publication_year: '2020'
   series: Commonweal
   series_position: 5
-  spine_color: '#e0d9bb'
+  spine_color: '#cfc7a4'
   tags:
   - fantasy
   title: A Mist of Grit and Splinters

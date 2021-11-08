@@ -1,7 +1,7 @@
 ---
 book:
   author: Lian Hearn
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370811227l/1864635._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370811227l/1864635.jpg
   dimensions:
     height: 22.0
   goodreads: '1864635'
@@ -11,7 +11,7 @@ book:
   publication_year: '2004'
   series: Der Clan der Otori
   series_position: '3'
-  spine_color: '#8a6983'
+  spine_color: '#84627d'
   tags:
   - fantasy
   - german

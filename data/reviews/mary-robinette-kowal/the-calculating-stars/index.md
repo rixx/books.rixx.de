@@ -1,13 +1,13 @@
 ---
 book:
   author: Mary Robinette Kowal
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850192l/33080122._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850192l/33080122.jpg
   goodreads: '33080122'
   pages: '431'
   publication_year: '2018'
   series: Lady Astronaut
   series_position: '1'
-  spine_color: '#80bbd5'
+  spine_color: '#71afcc'
   tags:
   - scifi
   title: The Calculating Stars

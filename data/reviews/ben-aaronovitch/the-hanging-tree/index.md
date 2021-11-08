@@ -1,7 +1,7 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480443659l/21479290._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480443659l/21479290._SY475_.jpg
   dimensions:
     height: 22.3
   goodreads: '21479290'
@@ -11,7 +11,7 @@ book:
   publication_year: '2016'
   series: Rivers of London
   series_position: '6'
-  spine_color: '#b03448'
+  spine_color: '#b3394d'
   tags:
   - five-stars
   - urban-fantasy

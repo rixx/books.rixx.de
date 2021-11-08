@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903582l/6316821._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903582l/6316821.jpg
   dimensions:
     height: 24.0
     thickness: 3.9
@@ -13,7 +13,7 @@ book:
   publication_year: '2009'
   series: Codex Alera
   series_position: '6'
-  spine_color: '#adbccc'
+  spine_color: '#a6b5c5'
   tags:
   - fantasy
   title: First Lord's Fury

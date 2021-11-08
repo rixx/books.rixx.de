@@ -1,13 +1,13 @@
 ---
 book:
   author: Carlo Collodi
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327938097l/180617._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327938097l/180617.jpg
   goodreads: '180617'
   isbn10: 0140382623
   isbn13: '9780140382624'
   pages: '262'
   publication_year: '1883'
-  spine_color: '#e98d0e'
+  spine_color: '#e98d0d'
   tags:
   - kids
   title: Pinocchio
@@ -19,8 +19,8 @@ related_books:
     of darkness and danger – Alice more of the trippy insanity kind, and Pinocchio
     more of the casually brutal kind.
 - book: mark-twain/the-adventures-of-tom-sawyer
-  text: Tom Sawyer is also mischievous and brutal, but makes do with a lot less
-    of moralising, thankfully.
+  text: Tom Sawyer is also mischievous and brutal, but makes do with a lot less of
+    moralising, thankfully.
 review:
   date_read:
   - 2001-04-01

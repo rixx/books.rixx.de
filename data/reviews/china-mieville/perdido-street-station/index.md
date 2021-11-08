@@ -1,7 +1,7 @@
 ---
 book:
   author: China Miéville
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393537963l/68494.jpg
   dimensions:
     height: 18.0
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   publication_year: '2000'
   series: New Crobuzon
   series_position: '1'
-  spine_color: '#a87c23'
+  spine_color: '#a67718'
   tags:
   - fantasy
   title: Perdido Street Station

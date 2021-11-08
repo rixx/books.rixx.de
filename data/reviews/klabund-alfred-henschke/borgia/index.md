@@ -1,12 +1,13 @@
 ---
 book:
   author: Klabund
-  cover_image_url: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+  cover_image_url: https://drop.rixx.de/xML/
   goodreads: '6249566'
   isbn10: '3932412230'
   isbn13: '9783932412233'
   pages: 122
   publication_year: '1928'
+  spine_color: '#d4b793'
   tags:
   - german
   - historical-fiction

@@ -1,7 +1,7 @@
 ---
 book:
   author: J.Y.  Yang
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765395412-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634814752l/33099588._SY475_.jpg
   dimensions:
     height: 21.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   publication_year: '2017'
   series: Tensorate
   series_position: '1'
-  spine_color: '#21263a'
+  spine_color: '#202633'
   tags:
   - fantasy
   - queer

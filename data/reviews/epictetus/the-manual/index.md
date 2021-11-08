@@ -1,13 +1,13 @@
 ---
 book:
   author: Epictetus
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525038557l/34946912._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525038557l/34946912._SY475_.jpg
   goodreads: '34946912'
   pages: 66
   publication_year: '2017'
   series: Stoic Philosophy
   series_position: '1'
-  spine_color: '#3f796e'
+  spine_color: '#417d71'
   tags:
   - nonfiction
   - personal-development

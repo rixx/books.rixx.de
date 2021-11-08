@@ -1,7 +1,7 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183435l/16005256._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349652137l/16005256._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '16005256'
@@ -9,7 +9,7 @@ book:
   publication_year: '2005'
   series: Sacrifices Arc
   series_position: '2'
-  spine_color: '#312f4b'
+  spine_color: '#2b566f'
   tags:
   - fanfic
   title: No Mouth But Some Serpent's

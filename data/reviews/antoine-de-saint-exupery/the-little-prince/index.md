@@ -1,11 +1,11 @@
 ---
 book:
   author: Antoine de Saint-Exupéry
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg
   goodreads: '157993'
   pages: '93'
   publication_year: '1943'
-  spine_color: '#094d8e'
+  spine_color: '#074f90'
   title: The Little Prince
 plan:
   date_added: '2015-04-09'

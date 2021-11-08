@@ -1,7 +1,7 @@
 ---
 book:
   author: Jupiter_Ash
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378844687l/18480041._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378844687l/18480041.jpg
   dimensions:
     height: 22
   goodreads: '18480041'
@@ -10,7 +10,7 @@ book:
   series: Tennis
   series_position: '1'
   source: https://archiveofourown.org/works/366788
-  spine_color: '#067430'
+  spine_color: '#057632'
   tags:
   - fanfic
   title: A Study in Winning

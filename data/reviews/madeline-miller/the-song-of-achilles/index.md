@@ -1,7 +1,7 @@
 ---
 book:
   author: Madeline Miller
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331154660l/11250317._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331154660l/11250317.jpg
   dimensions:
     height: 24.0
     thickness: 3.0
@@ -11,7 +11,7 @@ book:
   isbn13: '9781408816035'
   pages: 352
   publication_year: '2011'
-  spine_color: '#ab873b'
+  spine_color: '#ac873b'
   tags:
   - myths-legends
   - queer

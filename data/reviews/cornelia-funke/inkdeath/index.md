@@ -1,7 +1,7 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327341991l/2325825._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327341991l/2325825.jpg
   dimensions:
     height: 21.0
   goodreads: '2325825'
@@ -11,7 +11,7 @@ book:
   publication_year: '2007'
   series: Inkworld
   series_position: '3'
-  spine_color: '#6e6042'
+  spine_color: '#716143'
   tags:
   - fantasy
   - german

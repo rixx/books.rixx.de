@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585062885l/22249640._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585062885l/22249640._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '22249640'
@@ -11,7 +11,7 @@ book:
   publication_year: '2020'
   series: The Dresden Files
   series_position: '16'
-  spine_color: '#91b7a1'
+  spine_color: '#8db69d'
   tags:
   - urban-fantasy
   title: Peace Talks

@@ -1,7 +1,7 @@
 ---
 book:
   author: Robin Hobb
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399584431l/45112._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399584431l/45112.jpg
   dimensions:
     height: 18.0
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   publication_year: '1997'
   series: Farseer Trilogy
   series_position: '3'
-  spine_color: '#eed134'
+  spine_color: '#efcd2e'
   tags:
   - fantasy
   title: Assassin's Quest

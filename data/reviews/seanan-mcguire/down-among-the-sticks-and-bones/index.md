@@ -1,7 +1,7 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473685781l/31450908._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473685781l/31450908.jpg
   dimensions:
     height: 22.0
     thickness: 1.9
@@ -13,7 +13,7 @@ book:
   publication_year: '2017'
   series: Wayward Children
   series_position: '2'
-  spine_color: '#2c2730'
+  spine_color: '#302c34'
   tags:
   - fantasy
   - five-stars

@@ -1,7 +1,7 @@
 ---
 book:
   author: Philip K. Dick
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780679740674-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448756803l/216363.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -11,7 +11,7 @@ book:
   isbn13: '9780679740674'
   pages: 259
   publication_year: '1962'
-  spine_color: '#d96b25'
+  spine_color: '#b27044'
   tags:
   - historical-fiction
   - scifi

@@ -1,7 +1,7 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343059311l/13578175._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343059311l/13578175.jpg
   dimensions:
     height: 21.0
     thickness: 1.5
@@ -11,7 +11,7 @@ book:
   isbn13: '9781616960926'
   pages: 176
   publication_year: '2012'
-  spine_color: '#8e7260'
+  spine_color: '#91725e'
   tags:
   - fantasy
   - five-stars

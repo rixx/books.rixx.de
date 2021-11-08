@@ -1,7 +1,7 @@
 ---
 book:
   author: Charles Stross
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932.jpg
   dimensions:
     height: 22.0
   goodreads: '8420932'
@@ -9,7 +9,7 @@ book:
   publication_year: '2009'
   series: Laundry Files
   series_position: '3.5'
-  spine_color: '#abbd73'
+  spine_color: '#abbd70'
   tags:
   - christmas
   - urban-fantasy

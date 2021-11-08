@@ -1,15 +1,18 @@
-{% if review.cover_path %}
-  <img
-    class="cover"
-    src="/{{ review.id }}/{% if full_size %}cover.jpg{% else %}thumbnail.jpg{% endif %}"
-    alt="Cover of {{ review.metadata.book.title }}. {{ review.metadata.book.cover_description }}"
-    {% if spine_border and review.metadata.book.spine_color %}style="border: 1px solid {{ review.metadata.book.spine_color }}; border-left: 24px solid {{ review.metadata.book.spine_color }};"{% endif %}
-  >
-{% else %}
-  <img
-    class="cover"
-    src="/static/cover.png"
-    alt="Cover placeholder for {{ review.metadata.book.title }}."
-    {% if spine_border %}style="border: 1px solid #3b5053; border-left: 24px solid #3b5053;"{% endif %}
-  >
-{% endif %}
+<div class="cover-wrapper {% if spine_border %}with-spine" style="--spine-color: {% if review.metadata.book.spine_color %}{{ review.metadata.book.spine_color }}{% else %}#3b5053{% endif %}{% endif %}">
+  {% if spine_border %}
+  <div class="cover-spine"></div>
+  {% endif %}
+  {% if review.cover_path %}
+    <img
+      class="cover"
+      src="/{{ review.id }}/{% if full_size %}cover.jpg{% else %}thumbnail.jpg{% endif %}"
+      alt="Cover of {{ review.metadata.book.title }}. {{ review.metadata.book.cover_description }}"
+    >
+  {% else %}
+    <img
+      class="cover"
+      src="/static/cover.png"
+      alt="Cover placeholder for {{ review.metadata.book.title }}."
+    >
+  {% endif %}
+</div>

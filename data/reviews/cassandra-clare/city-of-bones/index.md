@@ -1,7 +1,7 @@
 ---
 book:
   author: Cassandra Clare
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9781416914280-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY475_.jpg
   dimensions:
     height: 24.0
     thickness: 3.8
@@ -13,7 +13,7 @@ book:
   publication_year: '2007'
   series: The Mortal Instruments
   series_position: '1'
-  spine_color: '#bfc66d'
+  spine_color: '#d3ca6f'
   tags:
   - fantasy
   - ya

@@ -1,7 +1,7 @@
 ---
 book:
   author: Neil Gaiman
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258417001l/4407._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1258417001l/4407.jpg
   dimensions:
     height: 17.1
   goodreads: '4407'
@@ -9,7 +9,7 @@ book:
   publication_year: '2001'
   series: American Gods
   series_position: '1'
-  spine_color: '#c1c59b'
+  spine_color: '#c0c092'
   tags:
   - fantasy
   - five-stars

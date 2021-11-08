@@ -1,7 +1,7 @@
 ---
 book:
   author: Rivers Solomon
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488470439l/34381254._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488470439l/34381254.jpg
   dimensions:
     height: 21.0
     thickness: 2.4
@@ -11,7 +11,7 @@ book:
   isbn13: '9781617755880'
   pages: 351
   publication_year: '2017'
-  spine_color: '#354a50'
+  spine_color: '#3a4f57'
   tags:
   - scifi
   title: An Unkindness of Ghosts

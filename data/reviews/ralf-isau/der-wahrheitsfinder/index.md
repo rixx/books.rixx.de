@@ -1,7 +1,7 @@
 ---
 book:
   author: Ralf Isau
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783522173353-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1186999444l/1692807.jpg
   dimensions:
     height: 22.0
   goodreads: '1692807'
@@ -11,7 +11,7 @@ book:
   publication_year: '2000'
   series: Der Kreis der Dämmerung
   series_position: '2'
-  spine_color: '#b76544'
+  spine_color: '#a95b2b'
   tags:
   - fantasy
   - german

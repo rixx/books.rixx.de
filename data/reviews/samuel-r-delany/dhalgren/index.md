@@ -1,11 +1,11 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532735651l/40963358._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532735651l/40963358._SY475_.jpg
   goodreads: '40963358'
   pages: '836'
   publication_year: '1975'
-  spine_color: '#b7b7ae'
+  spine_color: '#adada4'
   tags:
   - scifi
   title: Dhalgren

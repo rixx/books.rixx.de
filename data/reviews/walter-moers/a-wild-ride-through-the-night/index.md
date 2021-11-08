@@ -1,7 +1,7 @@
 ---
 book:
   author: Walter Moers
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1180378641l/1032913.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/51FSOqbSCkL.jpg
   dimensions:
     height: 24.0
     thickness: 2.0
@@ -11,7 +11,7 @@ book:
   isbn13: '9780436220548'
   pages: 224
   publication_year: '2001'
-  spine_color: '#ecc906'
+  spine_color: '#edc62c'
   tags:
   - fantasy
   - german

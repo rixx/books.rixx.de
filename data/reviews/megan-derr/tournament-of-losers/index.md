@@ -1,13 +1,13 @@
 ---
 book:
   author: Megan Derr
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446132545l/27388497._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446132545l/27388497._SY475_.jpg
   goodreads: '27388497'
   isbn10: '1620046695'
   isbn13: '9781620046692'
   pages: '229'
   publication_year: '2016'
-  spine_color: '#dca869'
+  spine_color: '#d9a160'
   tags:
   - fantasy
   - queer

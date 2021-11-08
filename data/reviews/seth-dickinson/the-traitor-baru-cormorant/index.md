@@ -1,7 +1,7 @@
 ---
 book:
   author: Seth Dickinson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422463936l/23444482._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422463936l/23444482.jpg
   dimensions:
     height: 24.0
     thickness: 3.5
@@ -13,7 +13,7 @@ book:
   publication_year: '2015'
   series: The Masquerade
   series_position: '1'
-  spine_color: '#807d8d'
+  spine_color: '#797581'
   tags:
   - fantasy
   - learning-the-arts

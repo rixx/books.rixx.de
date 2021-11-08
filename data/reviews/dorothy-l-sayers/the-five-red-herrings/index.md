@@ -1,7 +1,7 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530289829l/40669974._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530289829l/40669974._SY475_.jpg
   dimensions:
     height: 20.0
   goodreads: '40669974'
@@ -9,7 +9,7 @@ book:
   publication_year: '1931'
   series: Lord Peter Wimsey
   series_position: '7'
-  spine_color: '#9e4b49'
+  spine_color: '#9f4947'
   tags:
   - mystery
   title: The Five Red Herrings

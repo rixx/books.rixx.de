@@ -1,7 +1,7 @@
 ---
 book:
   author: Brandon Sanderson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338512017l/13452375._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338512017l/13452375.jpg
   dimensions:
     height: 22
   goodreads: '13452375'
@@ -11,7 +11,7 @@ book:
   publication_year: '2012'
   series: Legion
   series_position: '1'
-  spine_color: '#303246'
+  spine_color: '#383d53'
   tags:
   - fantasy
   title: Legion

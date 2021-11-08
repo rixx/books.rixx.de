@@ -1,7 +1,7 @@
 ---
 book:
   author: murkybluematter
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729187l/34213060._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502729187l/34213060._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '34213060'
@@ -10,7 +10,7 @@ book:
   series: Rigel Black
   series_position: '2'
   source: https://www.fanfiction.net/s/8239413/1/The-Serpentine-Subterfuge
-  spine_color: '#91897e'
+  spine_color: '#908376'
   tags:
   - fanfic
   title: The Serpentine Subterfuge

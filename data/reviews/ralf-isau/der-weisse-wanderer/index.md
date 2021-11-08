@@ -13,7 +13,7 @@ book:
   publication_year: '2001'
   series: Der Kreis der Dämmerung
   series_position: '3'
-  spine_color: '#a5a64d'
+  spine_color: '#a6a74e'
   tags:
   - fantasy
   - german

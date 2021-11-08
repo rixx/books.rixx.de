@@ -1,7 +1,7 @@
 ---
 book:
   author: Ilona Andrews
-  cover_image_url: http://books.google.com/books/content?id=kXefBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385939257l/19090384.jpg
   goodreads: '19090384'
   isbn10: '1625173431'
   isbn13: '9781625173430'
@@ -9,7 +9,7 @@ book:
   publication_year: '2013'
   series: Innkeeper Chronicles
   series_position: '1'
-  spine_color: '#70a1c0'
+  spine_color: '#75a8c5'
   tags:
   - fantasy
   - urban-fantasy
@@ -21,8 +21,8 @@ related_books:
   text: Her better urban fantasy series.
 - book: diane-duane/high-wizardry
   text: The same feeling of interstellar travel where you have to deal with the peculiarities
-    of other races – but at the same time, everybody is used to it, and there
-    are practical solutions.
+    of other races – but at the same time, everybody is used to it, and there are
+    practical solutions.
 - book: clifford-d-simak/way-station
   text: Another galactiv way station.
 - book: ilona-andrews/sweep-in-peace

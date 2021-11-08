@@ -1,7 +1,7 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391181745l/13107852._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391181745l/13107852.jpg
   dimensions:
     height: 20.0
   goodreads: '13107852'
@@ -9,7 +9,7 @@ book:
   publication_year: '2002'
   series: Discworld
   series_position: '10.5'
-  spine_color: '#c27854'
+  spine_color: '#bc724e'
   title: Death and What Comes Next
 plan:
   date_added: '2016-06-08'

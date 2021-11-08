@@ -1,7 +1,7 @@
 ---
 book:
   author: Alan Bradley
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371922l/13642963._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344371922l/13642963.jpg
   dimensions:
     height: 20.0
     thickness: 3.4
@@ -13,7 +13,7 @@ book:
   publication_year: '2013'
   series: Flavia de Luce
   series_position: '5'
-  spine_color: '#7397c7'
+  spine_color: '#7397c6'
   tags: []
   title: Speaking from Among the Bones
 plan:

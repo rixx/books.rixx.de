@@ -1,7 +1,7 @@
 ---
 book:
   author: Dorothy L. Sayers
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287510321l/192888._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287510321l/192888.jpg
   dimensions:
     height: 20.0
     thickness: 1.8
@@ -13,7 +13,7 @@ book:
   publication_year: '1926'
   series: Lord Peter Wimsey
   series_position: '2'
-  spine_color: '#364540'
+  spine_color: '#394f4d'
   tags:
   - german
   - mystery

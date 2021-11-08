@@ -1,7 +1,7 @@
 ---
 book:
   author: Raymond E. Feist
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780553564945-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408317983l/13812.jpg
   dimensions:
     height: 18.0
     thickness: 2.8
@@ -13,7 +13,7 @@ book:
   publication_year: '1982'
   series: The Riftwar Saga
   series_position: '1'
-  spine_color: '#594c9e'
+  spine_color: '#bd7460'
   tags:
   - fantasy
   - ya

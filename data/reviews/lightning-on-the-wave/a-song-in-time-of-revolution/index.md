@@ -1,7 +1,7 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183787l/16005277._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564072916l/16005277._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '16005277'
@@ -9,7 +9,7 @@ book:
   publication_year: '2006'
   series: Sacrifices Arc
   series_position: '6'
-  spine_color: '#312f4b'
+  spine_color: '#dac797'
   tags:
   - fanfic
   title: A Song In Time of Revolution

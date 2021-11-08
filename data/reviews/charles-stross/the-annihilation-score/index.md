@@ -1,7 +1,7 @@
 ---
 book:
   author: Charles Stross
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426160476l/23154785._SX98_.jpg
+  cover_image_url: https://www.lehmanns.de/media/8029940/2
   dimensions:
     height: 22.0
   goodreads: '23154785'
@@ -11,7 +11,7 @@ book:
   publication_year: '2015'
   series: Laundry Files
   series_position: '6'
-  spine_color: '#d5a74b'
+  spine_color: '#d1a349'
   tags:
   - urban-fantasy
   title: The Annihilation Score

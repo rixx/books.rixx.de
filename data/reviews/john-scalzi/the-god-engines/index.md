@@ -1,13 +1,13 @@
 ---
 book:
   author: John Scalzi
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255398826l/6470498._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255398826l/6470498.jpg
   goodreads: '6470498'
   isbn10: '1596062800'
   isbn13: '9781596062801'
   pages: '136'
   publication_year: '2009'
-  spine_color: '#cfb452'
+  spine_color: '#c9ac47'
   tags:
   - fantasy
   - scifi

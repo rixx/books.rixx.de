@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY475_.jpg
   dimensions:
     height: 18.0
   goodreads: '18423'
@@ -9,7 +9,7 @@ book:
   publication_year: '1969'
   series: Hainish Cycle
   series_position: '4'
-  spine_color: '#3792b5'
+  spine_color: '#389abe'
   tags:
   - scifi
   - queer

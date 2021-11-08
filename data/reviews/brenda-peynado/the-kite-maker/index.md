@@ -1,14 +1,14 @@
 ---
 book:
   author: Brenda Peynado
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535559053l/40698166._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535559053l/40698166.jpg
   goodreads: '40698166'
   isbn10: '1250312493'
   isbn13: '9781250312495'
   pages: '28'
   publication_year: '2018'
   source: https://www.tor.com/2018/08/29/the-kite-maker-brenda-peynado/
-  spine_color: '#c6ba6d'
+  spine_color: '#c4b664'
   tags:
   - scifi
   title: The Kite Maker

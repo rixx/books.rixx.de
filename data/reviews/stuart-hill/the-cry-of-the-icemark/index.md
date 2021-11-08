@@ -1,13 +1,13 @@
 ---
 book:
   author: Stuart Hill
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411373181l/23259852._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411373181l/23259852.jpg
   goodreads: '23259852'
   isbn10: '3423623446'
   isbn13: '9783423623445'
   pages: '528'
   publication_year: '2005'
-  spine_color: '#531f1a'
+  spine_color: '#581d1b'
   tags:
   - fantasy
   - five-stars

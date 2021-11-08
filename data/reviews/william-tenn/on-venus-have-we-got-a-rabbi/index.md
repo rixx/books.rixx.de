@@ -2,13 +2,13 @@
 book:
   author: William Tenn
   cover_description: ''
-  cover_image_url: https://tablet-mag-images.b-cdn.net/production/88cd6818fa2265108b2265556caf1db2b19e38dd-2560x1060.jpg?w=1300&q=70&auto=format&dpr=1
+  cover_image_url: https://drop.rixx.de/6rMU/
   isbn10: ''
   isbn13: ''
   pages: 39
   publication_year: '1974'
   source: https://www.tabletmag.com/sections/arts-letters/articles/on-venus-have-we-got-a-rabbi
-  spine_color: '#df6461'
+  spine_color: '#d55265'
   tags:
   - scifi
   - space-monks

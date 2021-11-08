@@ -1,7 +1,7 @@
 ---
 book:
   author: Lev Grossman
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780670020553-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313772941l/6101718.jpg
   dimensions:
     height: 25.0
     thickness: 3.8
@@ -13,7 +13,7 @@ book:
   publication_year: '2009'
   series: The Magicians
   series_position: '1'
-  spine_color: '#a1997e'
+  spine_color: '#919561'
   tags:
   - fantasy
   - learning-the-arts

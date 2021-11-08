@@ -1,7 +1,7 @@
 ---
 book:
   author: Samuel R. Delany
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1257546421l/1199688.jpg
   dimensions:
     height: 21.0
   goodreads: '1199688'
@@ -9,7 +9,7 @@ book:
   isbn13: '9780839823285'
   pages: 192
   publication_year: '1966'
-  spine_color: '#a13225'
+  spine_color: '#a03123'
   tags:
   - five-stars
   - language

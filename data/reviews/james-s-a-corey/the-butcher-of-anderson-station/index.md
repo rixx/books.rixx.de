@@ -1,7 +1,7 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316999513l/11570653._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316999513l/11570653.jpg
   dimensions:
     height: 24.0
   goodreads: '11570653'
@@ -11,7 +11,7 @@ book:
   publication_year: '2011'
   series: The Expanse
   series_position: '0.5'
-  spine_color: '#b85938'
+  spine_color: '#bc5939'
   title: The Butcher of Anderson Station
 plan:
   date_added: 2020-06-21

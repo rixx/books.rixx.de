@@ -1,7 +1,7 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414252892l/23387877._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414252892l/23387877.jpg
   dimensions:
     height: 22.3
   goodreads: '23387877'
@@ -9,7 +9,7 @@ book:
   publication_year: '2015'
   series: Rivers of London
   series_position: '1'
-  spine_color: '#a21f16'
+  spine_color: '#a11f16'
   tags:
   - learning-the-arts
   - urban-fantasy

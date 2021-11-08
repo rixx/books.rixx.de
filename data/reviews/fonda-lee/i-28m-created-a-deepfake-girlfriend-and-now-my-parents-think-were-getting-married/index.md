@@ -1,12 +1,12 @@
 ---
 book:
   author: Fonda Lee
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577497218l/50003099._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577497218l/50003099._SX318_.jpg
   goodreads: '50003099'
   pages: 18
   publication_year: '2019'
   source: https://www.technologyreview.com/s/614942/deepfake-girlfriend-fiction-story/
-  spine_color: '#877971'
+  spine_color: '#87766d'
   tags:
   - scifi
   title: I (28M) created a deepfake girlfriend and now my parents think we’re getting

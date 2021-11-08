@@ -1,13 +1,13 @@
 ---
 book:
   author: Astrid Lindgren
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327581153l/2171231._SX98_.jpg
+  cover_image_url: http://covers.openlibrary.org/b/isbn/9783423712699-L.jpg
   goodreads: '2171231'
   isbn10: '3423712694'
   isbn13: '9783423712699'
   pages: '222'
   publication_year: '1960'
-  spine_color: '#be3a2c'
+  spine_color: '#bf402c'
   tags:
   - german
   - kids

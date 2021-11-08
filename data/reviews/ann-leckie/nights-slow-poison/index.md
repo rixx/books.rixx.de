@@ -1,7 +1,7 @@
 ---
 book:
   author: Ann Leckie
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418606162l/22452306._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418606162l/22452306.jpg
   dimensions:
     height: 19.8
   goodreads: '22452306'
@@ -9,7 +9,7 @@ book:
   publication_year: '2012'
   series: Imperial Radch
   series_position: '0.5'
-  spine_color: '#a6200d'
+  spine_color: '#a3200a'
   tags:
   - scifi
   title: Night's Slow Poison

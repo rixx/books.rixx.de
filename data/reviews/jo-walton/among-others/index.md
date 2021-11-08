@@ -1,13 +1,13 @@
 ---
 book:
   author: Jo Walton
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792367l/8706185._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792367l/8706185.jpg
   goodreads: '8706185'
   isbn10: 076532153X
   isbn13: '9780765321534'
   pages: '304'
   publication_year: '2011'
-  spine_color: '#de512d'
+  spine_color: '#e0522c'
   tags:
   - fantasy
   title: Among Others

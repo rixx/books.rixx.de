@@ -1,7 +1,7 @@
 ---
 book:
   author: Michael D. Leinbach
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502131204l/34145295._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502131204l/34145295.jpg
   dimensions:
     height: 24.0
     thickness: 2.7
@@ -11,7 +11,7 @@ book:
   isbn13: '9781628728514'
   pages: 400
   publication_year: '2018'
-  spine_color: '#57554f'
+  spine_color: '#a29f98'
   tags:
   - history
   - nonfiction

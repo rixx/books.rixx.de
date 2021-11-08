@@ -1,7 +1,7 @@
 ---
 book:
   author: Graydon Saunders
-  cover_image_url: http://books.google.com/books/content?id=qyxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+  cover_image_url: https://drop.rixx.de/pGmlDm/
   goodreads: '41252994'
   isbn10: null
   isbn13: '9780993712647'
@@ -9,7 +9,7 @@ book:
   publication_year: null
   series: Commonweal
   series_position: 4
-  spine_color: '#93381c'
+  spine_color: '#b7744d'
   tags:
   - fantasy
   title: Under One Banner

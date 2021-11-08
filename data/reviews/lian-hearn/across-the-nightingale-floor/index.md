@@ -1,7 +1,7 @@
 ---
 book:
   author: Lian Hearn
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9781573223324-L.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/71jYSHx6rpL.jpg
   dimensions:
     height: 24.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   publication_year: '2002'
   series: Tales of the Otori
   series_position: '1'
-  spine_color: '#5a644b'
+  spine_color: '#ae412c'
   tags:
   - fantasy
   - learning-the-arts

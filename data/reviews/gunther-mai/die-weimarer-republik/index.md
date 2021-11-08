@@ -1,11 +1,11 @@
 ---
 book:
   author: Gunther Mai
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515502827l/11397051._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515502827l/11397051._SY475_.jpg
   goodreads: '11397051'
   pages: 136
   publication_year: '2009'
-  spine_color: '#921417'
+  spine_color: '#941518'
   tags:
   - german
   - history

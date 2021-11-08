@@ -1,13 +1,13 @@
 ---
 book:
   author: Robert Jackson Bennett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SY475_.jpg
   goodreads: '37173847'
   pages: '512'
   publication_year: '2018'
   series: The Founders Trilogy
   series_position: '1'
-  spine_color: '#c87924'
+  spine_color: '#c4741d'
   tags:
   - fantasy
   title: Foundryside

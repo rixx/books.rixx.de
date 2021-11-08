@@ -1,6 +1,7 @@
 ---
 book:
   author: murkybluematter
+  cover_image_url: https://drop.rixx.de/D0Y/
   dimensions:
     height: 24
   goodreads: '34213118'
@@ -9,6 +10,7 @@ book:
   series: Rigel Black
   series_position: '4'
   source: https://www.fanfiction.net/s/11911497/1/The-Futile-Facade
+  spine_color: '#888888'
   tags:
   - fanfic
   title: The Futile Facade

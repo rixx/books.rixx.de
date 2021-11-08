@@ -1,13 +1,13 @@
 ---
 book:
   author: J. Zachary Pike
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428577850l/25326486._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428577850l/25326486.jpg
   goodreads: '25326486'
   pages: '387'
   publication_year: '2014'
   series: The Dark Profit Saga
   series_position: '1'
-  spine_color: '#e4ba77'
+  spine_color: '#e3b773'
   tags:
   - fantasy
   title: Orconomics

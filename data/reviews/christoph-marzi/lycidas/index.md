@@ -1,7 +1,7 @@
 ---
 book:
   author: Christoph Marzi
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362759342l/1303536._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362759342l/1303536.jpg
   goodreads: '1303536'
   isbn10: '3453530063'
   isbn13: '9783453530065'
@@ -9,7 +9,7 @@ book:
   publication_year: '2004'
   series: Uralte Metropole
   series_position: '1'
-  spine_color: '#18345e'
+  spine_color: '#193660'
   tags:
   - fantasy
   - german

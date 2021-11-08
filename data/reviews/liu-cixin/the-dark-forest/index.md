@@ -1,7 +1,7 @@
 ---
 book:
   author: Liu Cixin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412064931l/23168817.jpg
   dimensions:
     height: 25.0
   goodreads: '23168817'
@@ -9,7 +9,7 @@ book:
   publication_year: '2008'
   series: Remembrance of Earth’s Past
   series_position: '2'
-  spine_color: '#daa836'
+  spine_color: '#dc9a22'
   tags:
   - scifi
   title: The Dark Forest

@@ -1,7 +1,7 @@
 ---
 book:
   author: Diane Duane
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1254906390l/531225.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542989096l/42936865._SY475_.jpg
   dimensions:
     height: 18.0
   goodreads: '531225'
@@ -11,7 +11,7 @@ book:
   publication_year: '1992'
   series: Tale of the Five
   series_position: '3'
-  spine_color: '#ad6b3f'
+  spine_color: '#8fc3eb'
   tags:
   - fantasy
   - queer

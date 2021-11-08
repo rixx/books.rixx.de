@@ -1,7 +1,7 @@
 ---
 book:
   author: Martha Wells
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SY475_.jpg
   dimensions:
     height: 21.0
   goodreads: '35519109'
@@ -9,7 +9,7 @@ book:
   publication_year: '2018'
   series: The Murderbot Diaries
   series_position: '4'
-  spine_color: '#9e9993'
+  spine_color: '#9d968e'
   tags:
   - scifi
   title: Exit Strategy

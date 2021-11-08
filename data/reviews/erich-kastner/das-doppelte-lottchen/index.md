@@ -1,7 +1,7 @@
 ---
 book:
   author: Erich Kästner
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783791530116-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380821301l/887010.jpg
   dimensions:
     height: 19.0
     thickness: 2.2
@@ -11,7 +11,7 @@ book:
   isbn13: '9783791530116'
   pages: 176
   publication_year: '1949'
-  spine_color: '#f3e216'
+  spine_color: '#f8e408'
   tags:
   - german
   - kids

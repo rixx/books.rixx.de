@@ -1,7 +1,7 @@
 ---
 book:
   author: Stieg Larsson
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/2429135.jpg
   dimensions:
     height: 23
   goodreads: '2429135'
@@ -9,7 +9,7 @@ book:
   publication_year: '2005'
   series: Millennium
   series_position: '1'
-  spine_color: '#ede73e'
+  spine_color: '#eee339'
   title: The Girl with the Dragon Tattoo
 plan:
   date_added: '2015-04-08'

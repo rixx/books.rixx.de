@@ -1,7 +1,7 @@
 ---
 book:
   author: Klaus Kordon
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9783407784322-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1267416143l/2978113.jpg
   dimensions:
     height: 19.0
   goodreads: '2978113'
@@ -9,7 +9,7 @@ book:
   isbn13: '9783407784322'
   pages: 199
   publication_year: '1982'
-  spine_color: '#aa4535'
+  spine_color: '#1a65a0'
   tags:
   - german
   - historical-fiction

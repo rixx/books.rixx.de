@@ -1,7 +1,7 @@
 ---
 book:
   author: James S.A. Corey
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407524221l/22886612._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407524221l/22886612.jpg
   dimensions:
     height: 24.0
   goodreads: '22886612'
@@ -9,7 +9,7 @@ book:
   publication_year: '2015'
   series: The Expanse
   series_position: '5'
-  spine_color: '#866a64'
+  spine_color: '#876b64'
   tags:
   - five-stars
   - scifi

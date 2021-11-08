@@ -1,11 +1,11 @@
 ---
 book:
   author: cthulhuraejepsen
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562714384l/36146179._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562714384l/36146179.jpg
   goodreads: '36146179'
   pages: '2591'
   publication_year: '2017'
-  spine_color: '#b69ea0'
+  spine_color: '#b79fa0'
   title: Worth the Candle
 plan:
   date_added: '2018-07-12'

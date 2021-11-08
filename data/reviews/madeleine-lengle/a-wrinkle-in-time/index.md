@@ -1,7 +1,7 @@
 ---
 book:
   author: Madeleine L'Engle
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780440498056-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329061522l/18131.jpg
   dimensions:
     height: 20.0
     thickness: 1.6
@@ -13,7 +13,7 @@ book:
   publication_year: '1962'
   series: Time Quintet
   series_position: '1'
-  spine_color: '#5b5087'
+  spine_color: '#5e6287'
   tags:
   - kids
   title: A Wrinkle in Time

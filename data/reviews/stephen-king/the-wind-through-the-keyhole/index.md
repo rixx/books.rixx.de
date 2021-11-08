@@ -1,7 +1,7 @@
 ---
 book:
   author: Stephen King
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328001524l/12341557._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328001524l/12341557.jpg
   dimensions:
     height: 23.0
   goodreads: '12341557'
@@ -9,7 +9,7 @@ book:
   publication_year: '2012'
   series: The Dark Tower
   series_position: '4.5'
-  spine_color: '#86adb6'
+  spine_color: '#84abb5'
   tags:
   - fantasy
   title: The Wind Through the Keyhole

@@ -1,7 +1,7 @@
 ---
 book:
   author: Robert Jackson Bennett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394545220l/20174424._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394545220l/20174424.jpg
   dimensions:
     height: 21.0
     thickness: 2.5
@@ -13,7 +13,7 @@ book:
   publication_year: '2014'
   series: The Divine Cities
   series_position: '1'
-  spine_color: '#717780'
+  spine_color: '#727882'
   tags:
   - fantasy
   title: City of Stairs

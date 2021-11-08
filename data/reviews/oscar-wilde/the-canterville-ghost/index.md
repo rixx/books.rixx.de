@@ -1,7 +1,7 @@
 ---
 book:
   author: Oscar Wilde
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780744549515-L.jpg
+  cover_image_url: https://drop.rixx.de/Kpx40o/
   dimensions:
     height: 19.0
     width: 12.0
@@ -10,7 +10,7 @@ book:
   isbn13: '9780744549515'
   pages: 126
   publication_year: '1887'
-  spine_color: '#e3c4a2'
+  spine_color: '#e5dac2'
   tags:
   - german
   title: The Canterville Ghost

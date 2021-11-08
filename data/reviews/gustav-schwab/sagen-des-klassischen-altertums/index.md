@@ -1,12 +1,12 @@
 ---
 book:
   author: Gustav Schwab
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369652042l/17981727._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369652042l/17981727.jpg
   goodreads: '17981727'
   isbn13: '9783954180257'
   pages: '1332'
   publication_year: '1837'
-  spine_color: '#ca7721'
+  spine_color: '#c97118'
   tags:
   - german
   - myths-legends

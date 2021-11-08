@@ -1,7 +1,7 @@
 ---
 book:
   author: Peter V. Brett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760l/13630171._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408637760l/13630171.jpg
   dimensions:
     height: 25.0
   goodreads: '13630171'
@@ -11,7 +11,7 @@ book:
   publication_year: '2015'
   series: Demon Cycle
   series_position: '4'
-  spine_color: '#beb7a2'
+  spine_color: '#baaf98'
   tags:
   - fantasy
   title: The Skull Throne

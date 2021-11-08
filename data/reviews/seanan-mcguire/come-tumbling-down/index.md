@@ -1,7 +1,7 @@
 ---
 book:
   author: Seanan McGuire
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765399311-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556543251l/44804083.jpg
   dimensions:
     height: 22.0
     thickness: 2.0
@@ -13,7 +13,7 @@ book:
   publication_year: '2020'
   series: Wayward Children
   series_position: '5'
-  spine_color: '#516691'
+  spine_color: '#516793'
   tags:
   - fantasy
   title: Come Tumbling Down

@@ -1,7 +1,7 @@
 ---
 book:
   author: N.K. Jemisin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578523237l/26228034._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578523237l/26228034._SY475_.jpg
   dimensions:
     height: 19
   goodreads: '26228034'
@@ -9,7 +9,7 @@ book:
   publication_year: '2016'
   series: The Broken Earth
   series_position: '2'
-  spine_color: '#b9a498'
+  spine_color: '#b6a094'
   tags:
   - fantasy
   - five-stars

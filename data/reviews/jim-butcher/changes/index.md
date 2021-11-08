@@ -1,7 +1,7 @@
 ---
 book:
   author: Jim Butcher
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027244l/6585201._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304027244l/6585201.jpg
   dimensions:
     height: 20.0
     thickness: 3.7
@@ -13,7 +13,7 @@ book:
   publication_year: '2010'
   series: The Dresden Files
   series_position: '12'
-  spine_color: '#84623a'
+  spine_color: '#8f6739'
   tags:
   - urban-fantasy
   title: Changes

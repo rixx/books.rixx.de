@@ -1,7 +1,7 @@
 ---
 book:
   author: Lightning on the Wave
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579183347l/16005247._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349651383l/16005247._SY475_.jpg
   dimensions:
     height: 24
   goodreads: '16005247'
@@ -9,7 +9,7 @@ book:
   publication_year: '2005'
   series: Sacrifices Arc
   series_position: '1'
-  spine_color: '#312f4b'
+  spine_color: '#a68679'
   tags:
   - fanfic
   title: Saving Connor

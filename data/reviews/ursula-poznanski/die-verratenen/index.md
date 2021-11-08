@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula Poznanski
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346059187l/15851619._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346059187l/15851619.jpg
   dimensions:
     height: 19
   goodreads: '15851619'
@@ -11,7 +11,7 @@ book:
   publication_year: '2012'
   series: Die Verratenen
   series_position: '1'
-  spine_color: '#2e2b2a'
+  spine_color: '#322f2e'
   tags:
   - german
   - scifi

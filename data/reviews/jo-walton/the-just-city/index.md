@@ -1,7 +1,7 @@
 ---
 book:
   author: Jo Walton
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448145l/22055276._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448145l/22055276.jpg
   dimensions:
     height: 22.0
     thickness: 3.1
@@ -13,7 +13,7 @@ book:
   publication_year: '2015'
   series: Thessaly
   series_position: '1'
-  spine_color: '#baa286'
+  spine_color: '#644a2e'
   tags:
   - fanfic
   - fantasy

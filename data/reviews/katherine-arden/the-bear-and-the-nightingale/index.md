@@ -1,7 +1,7 @@
 ---
 book:
   author: Katherine Arden
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470731420l/25489134._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611440212l/25489134._SX318_.jpg
   dimensions:
     height: 25.0
     thickness: 2.7
@@ -13,7 +13,7 @@ book:
   publication_year: '2017'
   series: Winternight Trilogy
   series_position: '1'
-  spine_color: '#46577c'
+  spine_color: '#164586'
   tags:
   - fantasy
   - myths-legends

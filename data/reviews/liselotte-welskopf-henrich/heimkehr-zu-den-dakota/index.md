@@ -11,7 +11,7 @@ book:
   publication_year: '1951'
   series: Die Söhne der Großen Bärin
   series_position: '4'
-  spine_color: '#79b520'
+  spine_color: '#78b321'
   tags:
   - german
   - historical-fiction

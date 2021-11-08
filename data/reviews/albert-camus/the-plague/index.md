@@ -1,11 +1,11 @@
 ---
 book:
   author: Albert Camus
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503362434l/11989._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503362434l/11989._SY475_.jpg
   goodreads: '11989'
   pages: '308'
   publication_year: '1947'
-  spine_color: '#977264'
+  spine_color: '#967063'
   title: The Plague
 plan:
   date_added: '2015-04-08'

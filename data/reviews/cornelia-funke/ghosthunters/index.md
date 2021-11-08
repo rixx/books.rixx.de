@@ -1,7 +1,7 @@
 ---
 book:
   author: Cornelia Funke
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388798852l/28196.jpg
+  cover_image_url: https://images-na.ssl-images-amazon.com/images/I/51Lztu+6cFL.jpg
   goodreads: '28196'
   isbn10: 0439849586
   isbn13: '9780439849586'
@@ -9,7 +9,7 @@ book:
   publication_year: '1993'
   series: Ghosthunters
   series_position: '1'
-  spine_color: '#bca890'
+  spine_color: '#181c2c'
   tags:
   - german
   - kids

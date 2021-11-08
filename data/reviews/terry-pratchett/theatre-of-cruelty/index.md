@@ -1,7 +1,7 @@
 ---
 book:
   author: Terry Pratchett
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415598042l/9528398._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415598042l/9528398.jpg
   dimensions:
     height: 20.0
   goodreads: '9528398'
@@ -10,7 +10,7 @@ book:
   series: Discworld
   series_position: '14.5'
   source: https://www.lspace.org/books/toc/toc-english.html#fn1
-  spine_color: '#e9c443'
+  spine_color: '#eec43e'
   title: Theatre of Cruelty
 plan:
   date_added: '2016-06-08'

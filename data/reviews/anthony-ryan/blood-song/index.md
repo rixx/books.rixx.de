@@ -1,7 +1,7 @@
 ---
 book:
   author: Anthony Ryan
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421573407l/13569581._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421573407l/13569581.jpg
   dimensions:
     height: 24.0
   goodreads: '13569581'
@@ -9,7 +9,7 @@ book:
   publication_year: '2011'
   series: Raven's Shadow
   series_position: '1'
-  spine_color: '#c2ab95'
+  spine_color: '#6e4a3d'
   tags:
   - fantasy
   - learning-the-arts

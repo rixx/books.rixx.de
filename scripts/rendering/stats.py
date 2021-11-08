@@ -236,6 +236,6 @@ def get_year_stats(year, reviews):
     stats["first_book"] = reviews[-1]
     stats["last_book"] = reviews[0]
     month_counter = Counter([r.date_read_lookup[year].strftime("%B") for r in reviews])
-    stats["busiest_month"] = month_counter.most_common()[0][0]
+    stats["busiest_month"] = month_counter.most_common()[0]
     # stats["rating_chart"] = 
     return stats

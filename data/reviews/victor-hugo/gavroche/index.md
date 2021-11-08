@@ -1,11 +1,11 @@
 ---
 book:
   author: Victor Hugo
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586713938l/53145311._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586713938l/53145311._SY475_.jpg
   goodreads: '53145311'
   pages: '142'
   publication_year: '1957'
-  spine_color: '#928271'
+  spine_color: '#8f7d6b'
   tags:
   - german
   title: Gavroche

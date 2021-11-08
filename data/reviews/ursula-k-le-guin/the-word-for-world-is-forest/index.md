@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1283091038l/276767._SY160_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1283091038l/276767.jpg
   dimensions:
     height: 18.0
   goodreads: '276767'
@@ -9,7 +9,7 @@ book:
   publication_year: '1972'
   series: Hainish Cycle
   series_position: '6'
-  spine_color: '#89b9b8'
+  spine_color: '#57838a'
   tags:
   - scifi
   title: The Word for World is Forest

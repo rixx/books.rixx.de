@@ -1,7 +1,7 @@
 ---
 book:
   author: Ursula K. Le Guin
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780886825010-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389866872l/92625.jpg
   dimensions:
     height: 22.3
     thickness: 0.9
@@ -11,7 +11,7 @@ book:
   isbn13: '9780886825010'
   pages: 32
   publication_year: '1973'
-  spine_color: '#d7a794'
+  spine_color: '#bc7d6a'
   tags:
   - scifi
   title: The Ones Who Walk Away from Omelas

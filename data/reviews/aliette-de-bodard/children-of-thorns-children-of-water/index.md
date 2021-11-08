@@ -1,7 +1,7 @@
 ---
 book:
   author: Aliette de Bodard
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492097640l/34851372._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492097640l/34851372.jpg
   goodreads: '34851372'
   isbn10: '1473212626'
   isbn13: '9781473212626'
@@ -10,7 +10,7 @@ book:
   series: Dominion of the Fallen
   series_position: '1.5'
   source: https://uncannymagazine.com/article/children-thorns-children-water/
-  spine_color: '#3e4c53'
+  spine_color: '#3e4d54'
   title: Children of Thorns, Children of Water
 plan:
   date_added: '2018-09-20'

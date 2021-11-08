@@ -1,12 +1,12 @@
 ---
 book:
   author: Sarah Pinsker
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504371081l/36067380._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504371081l/36067380._SX318_.jpg
   goodreads: '36067380'
   pages: '212'
   publication_year: '2017'
   source: http://sarahpinsker.com/wind_will_rove/
-  spine_color: '#e1e9df'
+  spine_color: '#e9f1e5'
   title: Wind Will Rove
 plan:
   date_added: '2018-02-24'

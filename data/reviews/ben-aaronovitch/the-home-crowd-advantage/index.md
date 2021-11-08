@@ -1,7 +1,7 @@
 ---
 book:
   author: Ben Aaronovitch
-  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434543726l/23471484._SX98_.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434543726l/23471484._SY475_.jpg
   dimensions:
     height: 22.3
   goodreads: '23471484'
@@ -9,7 +9,7 @@ book:
   publication_year: '2014'
   series: Rivers of London
   series_position: '1.5'
-  spine_color: '#e9d6b3'
+  spine_color: '#e7d1ac'
   tags:
   - urban-fantasy
   title: The Home Crowd Advantage
