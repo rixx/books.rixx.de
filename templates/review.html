@@ -20,83 +20,83 @@
 {% endblock %}
 
 {% block content %}
-  {% if review.cover_path %}
-  <a class="book-cover" href="/{{ review.id }}/cover.jpg">
-      {% set spine_border = True %}
-      {% set full_size = True %}
-      {% include "_book_cover.html" %}
-    </a>
-  {% endif %}
-
-  <h1>{{ review.metadata.book.title | smartypants | safe }}</h1>
-
-  <table class="book_metadata">
-    <tr>
-      <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
-      <th><a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
-        {%- if review.metadata.book.publication_year %}
-          ({{ review.metadata.book.publication_year}})
-        {%- endif -%}
-      </th>
-    </tr>
-    {% if review.metadata.book.series %}
-    <tr>
-      <td>series:</td>
-      <th><a href="/reviews/by-series/#{{ review.metadata.book.series }}">{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</a></th>
-    </tr>
+  <div class="book-meta-wrapper"><div>
+    <h1>{{ review.metadata.book.title | smartypants | safe }}</h1>
+    <table class="book_metadata">
+      <tr>
+        <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
+        <th><a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
+          {%- if review.metadata.book.publication_year %}
+            ({{ review.metadata.book.publication_year}})
+          {%- endif -%}
+        </th>
+      </tr>
+      {% if review.metadata.book.series %}
+      <tr>
+        <td>series:</td>
+        <th><a href="/reviews/by-series/#{{ review.metadata.book.series }}">{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</a></th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.date_added %}
+      <tr>
+        <td>date added:</td>
+        <th>{{ review.metadata.review.date_added | render_date }}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.date_read %}
+      <tr>
+        <td>date read:</td>
+        <th>{% for d in review.metadata.review.date_read %}{{ d | render_date }}<br>{% endfor %}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.pages %}
+      <tr>
+        <td>pages:</td>
+        <th>{{ review.metadata.book.pages }}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.tags %}
+      <tr>
+        <td>lists:</td>
+        <th>
+          {% for tag in review.metadata.book.tags %}
+            <a href="/lists/{{ tag }}/">{{ tag }}</a>
+            {{ ", " if not loop.last }}
+          {% endfor %}
+        </th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.rating %}
+      <tr>
+        <td>rating:</td>
+        <th class="rating">
+          {% for _ in range(review.metadata.review.rating) %}
+          ★
+          {% endfor %}
+          {% for _ in range(5 - review.metadata.review.rating) %}
+          ☆
+          {% endfor %}
+          {% if review.metadata.review.did_not_finish %}
+          (did not finish)
+          {% endif %}
+        </th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.source %}
+      <tr>
+        <td>available:</td>
+        <th><a href="{{ review.metadata.book.source }}" target=_blank>online</a></th>
+      </tr>
+      {% endif %}
+    </table></div>
+    {% if review.cover_path %}
+    <a class="book-cover" href="/{{ review.id }}/cover.jpg">
+        {% set spine_border = True %}
+        {% set full_size = True %}
+        {% include "_book_cover.html" %}
+      </a>
     {% endif %}
-    {% if review.metadata.review.date_added %}
-    <tr>
-      <td>date added:</td>
-      <th>{{ review.metadata.review.date_added | render_date }}</th>
-    </tr>
-    {% endif %}
-    {% if review.metadata.review.date_read %}
-    <tr>
-      <td>date read:</td>
-      <th>{% for d in review.metadata.review.date_read %}{{ d | render_date }}<br>{% endfor %}</th>
-    </tr>
-    {% endif %}
-    {% if review.metadata.book.pages %}
-    <tr>
-      <td>pages:</td>
-      <th>{{ review.metadata.book.pages }}</th>
-    </tr>
-    {% endif %}
-    {% if review.metadata.book.tags %}
-    <tr>
-      <td>lists:</td>
-      <th>
-        {% for tag in review.metadata.book.tags %}
-          <a href="/lists/{{ tag }}/">{{ tag }}</a>
-          {{ ", " if not loop.last }}
-        {% endfor %}
-      </th>
-    </tr>
-    {% endif %}
-    {% if review.metadata.review.rating %}
-    <tr>
-      <td>rating:</td>
-      <th class="rating">
-        {% for _ in range(review.metadata.review.rating) %}
-        ★
-        {% endfor %}
-        {% for _ in range(5 - review.metadata.review.rating) %}
-        ☆
-        {% endfor %}
-        {% if review.metadata.review.did_not_finish %}
-        (did not finish)
-        {% endif %}
-      </th>
-    </tr>
-    {% endif %}
-    {% if review.metadata.book.source %}
-    <tr>
-      <td>available:</td>
-      <th><a href="{{ review.metadata.book.source }}" target=_blank>online</a></th>
-    </tr>
-    {% endif %}
-  </table>
+  </div>
 
   <article>
   {{ review.text | render_markdown | safe }}

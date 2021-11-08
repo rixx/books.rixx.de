@@ -139,7 +139,11 @@ hr {
 img {
   vertical-align: middle;
 }
-
+.book-meta-wrapper {
+  display:flex;
+  justify-content: space-between;
+  align-items:flex-start;
+}
 table.book-metadata {
   border-collapse: collapse;
   margin-bottom: 1em;
