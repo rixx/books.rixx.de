@@ -23,6 +23,7 @@ related_books:
     related book.
 review:
   date_read:
+  - 2012-03-01
   - 2014-03-01
   rating: 4
 ---

@@ -24,6 +24,7 @@ related_books:
   text: The first book in the series.
 review:
   date_read:
+  - 2002-12-01
   - 2020-01-05
   rating: 3
   tldr: Good collection of Lord Peter Wimsey short stories, including some very intense

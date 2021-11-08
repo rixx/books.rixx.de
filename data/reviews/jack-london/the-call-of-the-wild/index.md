@@ -20,6 +20,7 @@ related_books:
   text: Another arctic animal adventure, though magical realism.
 review:
   date_read:
+  - 2006-09-01
   - 2008-09-01
   rating: 4
 ---
