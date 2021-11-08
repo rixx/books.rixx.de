@@ -4,13 +4,14 @@
 
   {% include "_year_nav.html" %}
 
-  <h2>The {{ reviews|length }} book{% if reviews|length != 1 %}s{% endif %}
+  <h2 class="review-title">The {{ reviews|length }} book{% if reviews|length != 1 %}s{% endif %}
   {% if current_year %}
     I&rsquo;ve read so far
   {% else %}
     I read
   {% endif %}
   in {{ year }}
+  <small id="year-in-books"><a href="/reviews/{{ year }}/stats/">year in books</a></small>
 </h2>
 
   {% set shelf_books = reviews %}
