@@ -29,6 +29,8 @@ related_books:
 - book: bell-hooks/all-about-love
   text: Hooks worked less well for me, but also wants to spread the message of love
     and worthiness.
+- book: jonice-webb-christine-musello/running-on-empty
+  text: Practical steps for people for whom shame completely blocks access to emotions.
 review:
   date_read:
   - 2019-10-01
