@@ -30,7 +30,7 @@ related_books:
     so, etc.'
 - book: chris-voss/never-split-the-difference
   text: The "that's right" technique.
-- book: jonice-webb-christine-musello
+- book: jonice-webb-christine-musello/running-on-empty
   text: Practical steps for people for whom shame completely blocks access to emotions, involving a bit of focusing and a lot of self-care.
 review:
   date_read:

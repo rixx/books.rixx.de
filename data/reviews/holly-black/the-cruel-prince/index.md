@@ -19,7 +19,7 @@ plan:
 related_books:
 - book: terry-pratchett/lords-and-ladies
   text: Pratchett's original Faerie.
-- book: terry-pratchett/wee-free-men
+- book: terry-pratchett/the-wee-free-men
   text: Pratchett's even better Faerie, with reluctant teenagers who use lies to their
     advantage.
 review:
@@ -28,6 +28,24 @@ review:
   rating: 2
   tldr: YA about teenagers forced to live in Faerie. Good setting, lame execution;
     predictable and flat.
+social:
+  mastodon:
+    datetime: 2021-11-14 00:16:55.522174
+    id: '107272301145406068'
+    in_reply_to: '107272300639671724'
+    text: '83/ The Cruel Prince by Holly Black. YA about teenagers forced to live
+      in Faerie. Good setting, lame execution; predictable and flat.
+
+      https://books.rixx.de/holly-black/the-cruel-prince/ #rixxReads'
+  number: 83
+  twitter:
+    datetime: 2021-11-14 00:16:55.254775
+    id: '1459661582145830917'
+    in_reply_to: '1459661549736505351'
+    text: '83/ The Cruel Prince by Holly Black. YA about teenagers forced to live
+      in Faerie. Good setting, lame execution; predictable and flat.
+
+      https://books.rixx.de/holly-black/the-cruel-prince/'
 ---
 
 Teenagers are pulled from their normal life to grow up with their half-sibling in Faerie. All the tropes included: no

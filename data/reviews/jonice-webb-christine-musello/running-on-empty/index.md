@@ -28,7 +28,28 @@ review:
   - 2021-08-17
   did_not_finish: false
   rating: 3
-  tldr: Despite its overly sweeping approach a decent, practical book for people with problems getting in touch with their emotions.
+  tldr: Despite its overly sweeping approach a decent, practical book for people with
+    problems getting in touch with their emotions.
+social:
+  mastodon:
+    datetime: 2021-11-14 00:17:04.620099
+    id: '107272301741724889'
+    in_reply_to: '107272301145406068'
+    text: '84/ Running on Empty by Jonice Webb, Christine Musello. Despite its overly
+      sweeping approach a decent, practical book for people with problems getting
+      in touch with their emotions.
+
+      https://books.rixx.de/jonice-webb-christine-musello/running-on-empty/ #rixxReads'
+  number: 84
+  twitter:
+    datetime: 2021-11-14 00:17:04.350144
+    id: '1459661620297310215'
+    in_reply_to: '1459661582145830917'
+    text: '84/ Running on Empty by Jonice Webb, Christine Musello. Despite its overly
+      sweeping approach a decent, practical book for people with problems getting
+      in touch with their emotions.
+
+      https://books.rixx.de/jonice-webb-christine-musello/running-on-empty/'
 ---
 
 Running on Empty does this thing therapy books do, where it ascribes all your problems to one source, and it describes
