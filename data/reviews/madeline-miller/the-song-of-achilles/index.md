@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: christopher-logue/war-music
   text: My favourite take on Achilles at the moment.
+- book: david-gemmell/lord-of-the-silver-bow
+  text: Another take on the Trojan war, much more interesting, though weirdly less hyped.
 - book: madeline-miller/circe
   text: More Miller myths.
 - book: janell-rhiannon/song-of-sacrifice
