@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: andy-weir/the-martian
   text: 'How to survive with limited means when disaster hits: single-person edition.'
+- book: andy-weir/project-hail-mary
+  text: More of Humanity banding together against extinction by sending unexpected people to space.
 review:
   date_read:
   - 2019-08-07

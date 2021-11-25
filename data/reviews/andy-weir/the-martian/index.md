@@ -27,6 +27,8 @@ related_books:
   text: More Mars shenanigans, this time Fantasy.
 - book: chris-hadfield/an-astronauts-guide-to-life-on-earth
   text: One famous astronaut, meet another.
+- book: andy-weir/project-hail-mary
+  text: 'How to survive with limited means when disaster hits: multi-person edition.'
 - book: andy-weir/the-egg
   text: Andy Weir when he's being famous.
 review:

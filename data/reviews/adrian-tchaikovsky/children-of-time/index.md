@@ -26,6 +26,8 @@ related_books:
     planet!
 - book: adrian-tchaikovsky/children-of-time
   text: More Tchaikovsky, where the non-humans are more relatable than the humans.
+- book: andy-weir/project-hail-mary
+  text: For spoiler reasons.
 review:
   date_read:
   - 2019-11-15
