@@ -60,8 +60,7 @@
         <td>lists:</td>
         <th>
           {% for tag in review.metadata.book.tags %}
-            <a href="/lists/{{ tag }}/">{{ tag }}</a>
-            {{ ", " if not loop.last }}
+            <a href="/lists/{{ tag }}/">{{ tag }}</a>{{ ", " if not loop.last }}
           {% endfor %}
         </th>
       </tr>
