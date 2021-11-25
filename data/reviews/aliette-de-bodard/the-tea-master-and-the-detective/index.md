@@ -26,6 +26,8 @@ related_books:
   text: The original detective.
 - book: aliette-de-bodard/children-of-thorns-children-of-water
   text: More de Bodard.
+- book: meredith-katz/the-cybernetic-tea-shop
+  text: Another novella about an AI finding their place in human society, slice-of-life.
 review:
   date_read:
   - 2019-07-07

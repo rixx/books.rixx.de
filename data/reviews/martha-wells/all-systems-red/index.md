@@ -32,6 +32,8 @@ related_books:
   text: Also about a robot who turns out to enjoy pop culture.
 - book: naomi-kritzer/catfishing-on-catnet
   text: Another AI that really only wants to look at online media, and maybe help some friends.
+- book: meredith-katz/the-cybernetic-tea-shop
+  text: More sweet humanised asexual robots.
 review:
   date_read:
   - 2018-09-02
