@@ -24,6 +24,8 @@ related_books:
   text: More insight into turn-of-the-century gay culture.
 - book: oscar-wilde/the-canterville-ghost
   text: Wilde makes quite an appearance in this book.
+- book: laura-kate-dale/gender-euphoria
+  text: More queer nonfiction.
 review:
   date_read:
   - 2020-02-18
