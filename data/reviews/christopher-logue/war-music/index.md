@@ -23,6 +23,8 @@ related_books:
   text: For more novels in form of modern epic poems.
 - book: david-gemmell/lord-of-the-silver-bow
   text: A vastly different take on the Trojan war, but both have in common that the authors had a strong vision and won't be held back by the original legend.
+- book: zachary-mason/the-lost-books-of-the-odyssey
+  text: Another set of great, often surprisingly lyrical takes on Odysseus.
 review:
   date_read:
   - 2021-03-12

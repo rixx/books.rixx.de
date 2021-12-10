@@ -29,6 +29,8 @@ related_books:
 - book: madeline-miller/the-song-of-achilles
   text: Another take on the Trojan war, much less interesting, though weirdly more
     hyped.
+- book: zachary-mason/the-lost-books-of-the-odyssey
+  text: Another set of great, related takes on Odysseus.
 review:
   date_read:
   - 2021-08-21
