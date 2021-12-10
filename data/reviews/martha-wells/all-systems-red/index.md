@@ -21,8 +21,8 @@ related_books:
   text: If you're here for the non-human protagonists.
 - book: ann-leckie/ancillary-justice
   text: Amazing sentient robots.
-- book: martha-wells/artificial-condition
-  text: The next book in the series.
+- book: martha-wells/the-cloud-roads
+  text: Her non-robot series.
 - book: mur-lafferty/six-wakes
   text: Clones are not robots, and the general vibe is different, but the setting
     and narrative approach just felt aligned.
@@ -34,6 +34,8 @@ related_books:
   text: Another AI that really only wants to look at online media, and maybe help some friends.
 - book: meredith-katz/the-cybernetic-tea-shop
   text: More sweet humanised asexual robots.
+- book: martha-wells/artificial-condition
+  text: The next book in the series.
 review:
   date_read:
   - 2018-09-02
