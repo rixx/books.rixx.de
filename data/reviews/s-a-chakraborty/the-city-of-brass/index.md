@@ -28,6 +28,9 @@ review:
   did_not_finish: false
   rating: 2
   tldr: Djinn and more during the Napoleonic wars in Egypt. Very flat despite the interesting setting – plot devices getting pushed through exposition blocks on a great stage.
+related_books:
+- book: p-djeli-clark/a-master-of-djinn
+  text: Another Djinn-focused one, set 100 years later, and literally referring to this book.
 ---
 
 Set in Napoleonic Egypt, this is the story of Djinn, Daeva and related beings. Didn't do much for me – the concept of a
