@@ -16,6 +16,8 @@ plan:
 related_books:
 - book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
   text: Another book about middle age tech, but broader, and more focused on technology.
+- book: james-hannam/gods-philosophers
+  text: Recommended as “A more swashbuckling story”
 review:
   date_read:
   - 2021-08-06
