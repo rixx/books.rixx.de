@@ -26,6 +26,8 @@ related_books:
   text: More zen.
 - book: chris-voss/never-split-the-difference
   text: If you enjoy the genre of "successful expert teaches surprisingly emotional skill".
+- book: joel-rosenberg/dshai
+  text: A cool fantasy take on flow states as genius.
 review:
   date_read:
   - 2020-03-31

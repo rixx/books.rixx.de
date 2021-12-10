@@ -18,6 +18,8 @@ plan:
 related_books:
 - book: robin-hobb/assassins-apprentice
   text: Mimus has it much worse than Fitz, but he's less of a tool, so it evens out.
+- book: joel-rosenberg/dshai
+  text: Another great look at acrobats as a peasant class performing for cruel nobility.
 review:
   date_read:
   - 2006-07-01

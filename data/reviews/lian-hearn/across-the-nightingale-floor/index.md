@@ -31,6 +31,8 @@ related_books:
     a rigid aristocracy that the protagonist doesn't really belong in.
 - book: john-flanagan/the-ruins-of-gorlan
   text: A less brutal but similarly enthralling coming-of-age story.
+- book: joel-rosenberg/dshai
+  text: Also Asian-inspired fantasy with a magic-like talent system based on flow states, strict caste systems, and even travelling acrobats in the focus.
 review:
   date_read:
   - 2006-10-01
