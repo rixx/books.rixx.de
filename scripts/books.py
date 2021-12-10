@@ -604,7 +604,14 @@ def _change_rating(review, push_to_goodreads):
     review.change_entry_type("reviews", save=True, push_to_goodreads=push_to_goodreads)
     review.edit()
     if push_to_goodreads:
-        goodreads.push_to_goodreads(review=review)
+        try:
+            goodreads.push_to_goodreads(review=review)
+        except Exception as e:
+            print(f"Error: Could not push to goodreads. {e}")
+            print("")
+            print(f"Go here and paste your review instead: {review.goodreads_url}")
+            print("")
+            print(review.text)
 
 
 def _change_to_tbr(review, push_to_goodreads):
