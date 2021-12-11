@@ -26,6 +26,8 @@ related_books:
   text: Stoker really comes into his own here.
 - book: emily-mcgovern/bloodlust-bonnets
   text: More Byron parody.
+- book: kriegundfreitag/psyche-du-kleiner-schlingel
+  text: Not sure why I'm reading a bunch of Twitter artist books in a row, but here we are.
 review:
   date_read:
   - 2021-09-26
