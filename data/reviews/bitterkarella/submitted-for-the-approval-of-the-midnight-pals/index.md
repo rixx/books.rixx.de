@@ -24,6 +24,8 @@ related_books:
   text: The second of the two books.
 - book: bram-stoker/dracula
   text: Stoker really comes into his own here.
+- book: emily-mcgovern/bloodlust-bonnets
+  text: More Byron parody.
 review:
   date_read:
   - 2021-09-26
