@@ -16,6 +16,7 @@ book:
   spine_color: '#687987'
   tags:
   - fantasy
+  - queer
   title: Full Fathom Five
 plan:
   date_added: 2021-12-11
@@ -46,3 +47,6 @@ progressively, you see the pattern each book follows and so the charm wears off.
 
 That's first-world problem level of criticism though, so let me just repeat that I enjoy the series a lot and it's my
 current response to best ongoing SFF series (joint with Expanse, I guess).
+
+Oh, and bonus points for the queerness of the protagonist, who is trans, by way of intentional magic, which is handled
+extremely well: It's a relevant, but not defining part of her past, with both pride and insecurities.
