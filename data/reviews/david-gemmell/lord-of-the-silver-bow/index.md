@@ -36,6 +36,24 @@ review:
   - 2021-08-21
   rating: 4
   tldr: Excellent adventure story set just before the Trojan war.
+social:
+  mastodon:
+    datetime: 2021-12-11 18:52:22.296048
+    id: '107429569637870614'
+    in_reply_to: '107272301741724889'
+    text: '85/ Lord of the Silver Bow by David Gemmell. Excellent adventure story
+      set just before the Trojan war.
+
+      https://books.rixx.de/david-gemmell/lord-of-the-silver-bow/ #rixxReads'
+  number: 85
+  twitter:
+    datetime: 2021-12-11 18:52:21.958428
+    id: '1469726765622902784'
+    in_reply_to: '1459661620297310215'
+    text: '85/ Lord of the Silver Bow by David Gemmell. Excellent adventure story
+      set just before the Trojan war.
+
+      https://books.rixx.de/david-gemmell/lord-of-the-silver-bow/'
 ---
 
 David Gemmell shines when he writes warriors, no two ways about it. *Lord of the Silver Bow* is an adventure story set

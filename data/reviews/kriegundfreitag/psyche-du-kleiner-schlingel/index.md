@@ -5,7 +5,7 @@ book:
   goodreads: '59225982'
   isbn10: null
   isbn13: '9783830336136'
-  pages: null
+  pages: 106
   publication_year: null
   spine_color: '#d1d8ca'
   tags: []

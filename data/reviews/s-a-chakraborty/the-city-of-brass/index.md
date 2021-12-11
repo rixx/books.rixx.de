@@ -22,15 +22,38 @@ book:
   title: The City of Brass
 plan:
   date_added: '2018-08-27'
+related_books:
+- book: p-djeli-clark/a-master-of-djinn
+  text: Another Djinn-focused one, set 100 years later, and literally referring to
+    this book.
 review:
   date_read:
   - 2021-09-04
   did_not_finish: false
   rating: 2
-  tldr: Djinn and more during the Napoleonic wars in Egypt. Very flat despite the interesting setting – plot devices getting pushed through exposition blocks on a great stage.
-related_books:
-- book: p-djeli-clark/a-master-of-djinn
-  text: Another Djinn-focused one, set 100 years later, and literally referring to this book.
+  tldr: Djinn and more during the Napoleonic wars in Egypt. Very flat despite the
+    interesting setting – plot devices getting pushed through exposition blocks on
+    a great stage.
+social:
+  mastodon:
+    datetime: 2021-12-11 19:42:34.455023
+    id: '107429767045052596'
+    in_reply_to: '107429569637870614'
+    text: '86/ The City of Brass by S.A. Chakraborty. Djinn and more during the Napoleonic
+      wars in Egypt. Very flat despite the interesting setting – plot devices getting
+      pushed through exposition blocks on a great stage.
+
+      https://books.rixx.de/s-a-chakraborty/the-city-of-brass/ #rixxReads'
+  number: 86
+  twitter:
+    datetime: 2021-12-11 19:42:34.154721
+    id: '1469739399659364361'
+    in_reply_to: '1469726765622902784'
+    text: '86/ The City of Brass by S.A. Chakraborty. Djinn and more during the Napoleonic
+      wars in Egypt. Very flat despite the interesting setting – plot devices getting
+      pushed through exposition blocks on a great stage.
+
+      https://books.rixx.de/s-a-chakraborty/the-city-of-brass/'
 ---
 
 Set in Napoleonic Egypt, this is the story of Djinn, Daeva and related beings. Didn't do much for me – the concept of a

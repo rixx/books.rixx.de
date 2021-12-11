@@ -11,8 +11,6 @@ book:
   isbn13: '9780978881153'
   pages: 256
   publication_year: '2007'
-  series: The Lost
-  series_position: s of the Odyssey
   spine_color: '#0311db'
   tags:
   - myths-legends

@@ -26,6 +26,24 @@ review:
   rating: 3
   tldr: Short, sweet queer sci-fi romance about a world where the last humanoid robots
     live out their life.
+social:
+  mastodon:
+    datetime: 2021-12-11 19:52:50.656597
+    id: '107429807423407819'
+    in_reply_to: '107429767045052596'
+    text: '87/ The Cybernetic Tea Shop by Meredith Katz. Short, sweet queer sci-fi
+      romance about a world where the last humanoid robots live out their life.
+
+      https://books.rixx.de/meredith-katz/the-cybernetic-tea-shop/ #rixxReads'
+  number: 87
+  twitter:
+    datetime: 2021-12-11 19:52:50.315553
+    id: '1469741983942029325'
+    in_reply_to: '1469739399659364361'
+    text: '87/ The Cybernetic Tea Shop by Meredith Katz. Short, sweet queer sci-fi
+      romance about a world where the last humanoid robots live out their life.
+
+      https://books.rixx.de/meredith-katz/the-cybernetic-tea-shop/'
 ---
 
 Short, sweet queer sci-fi romance, telling the story of a world where production of humanoid robots has been banned, but
