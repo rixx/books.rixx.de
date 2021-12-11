@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: max-gladstone/three-parts-dead
   text: The previous book in the series.
+- book: max-gladstone/full-fathom-five
+  text: The next book in the series.
 review:
   date_read:
   - 2020-09-30
