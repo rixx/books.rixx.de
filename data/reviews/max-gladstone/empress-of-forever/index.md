@@ -29,6 +29,24 @@ review:
   - 2021-09-24
   rating: 2
   tldr: I love Gladstone in all his forms usually, but this wasn't it.
+social:
+  mastodon:
+    datetime: 2021-12-12 18:29:37.886257
+    id: '107435142530824194'
+    in_reply_to: '107433707550810333'
+    text: '91/ Empress of Forever by Max Gladstone. I love Gladstone in all his forms
+      usually, but this wasn''t it.
+
+      https://books.rixx.de/max-gladstone/empress-of-forever/ #rixxReads'
+  number: 91
+  twitter:
+    datetime: 2021-12-12 18:29:37.519151
+    id: '1470083430532755459'
+    in_reply_to: '1469991592157196288'
+    text: '91/ Empress of Forever by Max Gladstone. I love Gladstone in all his forms
+      usually, but this wasn''t it.
+
+      https://books.rixx.de/max-gladstone/empress-of-forever/'
 ---
 
 Max Gladstone is an author I like a *lot*. He's half of the brilliance of *Time War*, and his Craft Sequence is amazing

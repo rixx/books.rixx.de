@@ -10,6 +10,7 @@ book:
   - urban-fantasy
   - language
   title: Vita Nostra
+  pages: 417
 plan:
   date_added: '2018-09-11'
 related_books:

@@ -32,6 +32,26 @@ review:
   rating: 3
   tldr: I like Andy Weir and the Martian as much as the next nerd, but please take
     away his dialogue writing rights. (The competency porn is great as always, though.)
+social:
+  mastodon:
+    datetime: 2021-12-12 12:07:35.625741
+    id: '107433640297894601'
+    in_reply_to: '107429807423407819'
+    text: '88/ Project Hail Mary by Andy Weir. I like Andy Weir and the Martian as
+      much as the next nerd, but please take away his dialogue writing rights. (The
+      competency porn is great as always, though.)
+
+      https://books.rixx.de/andy-weir/project-hail-mary/ #rixxReads'
+  number: 88
+  twitter:
+    datetime: 2021-12-12 12:07:35.297875
+    id: '1469987287782076418'
+    in_reply_to: '1469741983942029325'
+    text: '88/ Project Hail Mary by Andy Weir. I like Andy Weir and the Martian as
+      much as the next nerd, but please take away his dialogue writing rights. (The
+      competency porn is great as always, though.)
+
+      https://books.rixx.de/andy-weir/project-hail-mary/'
 ---
 
 Andy Weir has a thing he does well, and this is just another instance of this thing. If this had been my first Andy Weir

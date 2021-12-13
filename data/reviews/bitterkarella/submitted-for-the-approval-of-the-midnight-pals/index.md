@@ -27,13 +27,35 @@ related_books:
 - book: emily-mcgovern/bloodlust-bonnets
   text: More Byron parody.
 - book: kriegundfreitag/psyche-du-kleiner-schlingel
-  text: Not sure why I'm reading a bunch of Twitter artist books in a row, but here we are.
+  text: Not sure why I'm reading a bunch of Twitter artist books in a row, but here
+    we are.
 review:
   date_read:
   - 2021-09-26
   rating: 2
   tldr: First of the Kickstarter prints of the Midnight Society threads, sadly not
     very good to the point that reading them on Twitter is better.
+social:
+  mastodon:
+    datetime: 2021-12-13 01:25:15.878145
+    id: '107436776865827195'
+    in_reply_to: '107435142530824194'
+    text: '92/ Submitted for the Approval of the Midnight Pals by BitterKarella. First
+      of the Kickstarter prints of the Midnight Society threads, sadly not very good
+      to the point that reading them on Twitter is better.
+
+      https://books.rixx.de/bitterkarella/submitted-for-the-approval-of-the-midnight-pals/
+      #rixxReads'
+  number: 92
+  twitter:
+    datetime: 2021-12-13 01:25:15.555504
+    id: '1470188028249493506'
+    in_reply_to: '1470083430532755459'
+    text: '92/ Submitted for the Approval of the Midnight Pals by BitterKarella. First
+      of the Kickstarter prints of the Midnight Society threads, sadly not very good
+      to the point that reading them on Twitter is better.
+
+      https://books.rixx.de/bitterkarella/submitted-for-the-approval-of-the-midnight-pals/'
 ---
 
 Midnight Society is a [Twitter](https://twitter.com/midnight_pals) account that I really and honestly enjoy reading, so

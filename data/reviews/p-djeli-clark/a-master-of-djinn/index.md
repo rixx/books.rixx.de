@@ -32,6 +32,26 @@ review:
   rating: 3
   tldr: Steampunk with new living gods and everything, set in 1910s Egypt. Great worldbuilding,
     mediocre writing and story, overall an enjoyable read.
+social:
+  mastodon:
+    datetime: 2021-12-12 12:08:32.501022
+    id: '107433644026259872'
+    in_reply_to: '107433640297894601'
+    text: '89/ A Master of Djinn by P. Djèlí Clark. Steampunk with new living gods
+      and everything, set in 1910s Egypt. Great worldbuilding, mediocre writing and
+      story, overall an enjoyable read.
+
+      https://books.rixx.de/p-djeli-clark/a-master-of-djinn/ #rixxReads'
+  number: 89
+  twitter:
+    datetime: 2021-12-12 12:08:32.158747
+    id: '1469987526274387968'
+    in_reply_to: '1469987287782076418'
+    text: '89/ A Master of Djinn by P. Djèlí Clark. Steampunk with new living gods
+      and everything, set in 1910s Egypt. Great worldbuilding, mediocre writing and
+      story, overall an enjoyable read.
+
+      https://books.rixx.de/p-djeli-clark/a-master-of-djinn/'
 ---
 
 Steampunk, non-Victorian edition: In 1912, Egypt is a rising world power due to its access to magic. Holding its own

@@ -27,7 +27,26 @@ review:
   - 2021-09-06
   did_not_finish: false
   rating: 3
-  tldr: She sure likes writing outsiders from human society – this time winged shapeshifters. Not as compelling as I had hoped.
+  tldr: She sure likes writing outsiders from human society – this time winged shapeshifters.
+    Not as compelling as I had hoped.
+social:
+  mastodon:
+    datetime: 2021-12-12 12:24:42.002128
+    id: '107433707550810333'
+    in_reply_to: '107433644026259872'
+    text: '90/ The Cloud Roads by Martha Wells. She sure likes writing outsiders from
+      human society – this time winged shapeshifters. Not as compelling as I had hoped.
+
+      https://books.rixx.de/martha-wells/the-cloud-roads/ #rixxReads'
+  number: 90
+  twitter:
+    datetime: 2021-12-12 12:24:41.530796
+    id: '1469991592157196288'
+    in_reply_to: '1469987526274387968'
+    text: '90/ The Cloud Roads by Martha Wells. She sure likes writing outsiders from
+      human society – this time winged shapeshifters. Not as compelling as I had hoped.
+
+      https://books.rixx.de/martha-wells/the-cloud-roads/'
 ---
 
 Martha Wells is currently best known for her socially awkward Murderbot, and I wanted to see what she's up to when she's
