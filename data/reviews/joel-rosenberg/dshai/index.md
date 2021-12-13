@@ -19,17 +19,37 @@ book:
   title: D'Shai
 plan:
   date_added: 2021-12-10
-review:
-  date_read:
-  - 2021-10-04
-  rating: 4
 related_books:
 - book: lilli-thal/mimus
   text: Another great look at acrobats as a peasant class performing for cruel nobility.
 - book: lian-hearn/across-the-nightingale-floor
-  text: Also Asian-inspired fantasy with a magic-like talent system based on flow states, strict caste systems, and even travelling acrobats in the focus.
+  text: Also Asian-inspired fantasy with a magic-like talent system based on flow
+    states, strict caste systems, and even travelling acrobats in the focus.
 - book: w-timothy-gallwey/the-inner-game-of-tennis
   text: The whole flow-state-as-genius thing is extremely Inner Game of Tennis.
+review:
+  date_read:
+  - 2021-10-04
+  rating: 4
+  tldr: Sweet 90s fantasy that casts flow states as magic. Pretty cool!
+social:
+  mastodon:
+    datetime: 2021-12-13 15:40:37.949877
+    id: '107440140311287001'
+    in_reply_to: '107436777276771157'
+    text: '94/ D''Shai by Joel Rosenberg. Sweet 90s fantasy that casts flow states
+      as magic. Pretty cool!
+
+      https://books.rixx.de/joel-rosenberg/dshai/ #rixxReads'
+  number: 94
+  twitter:
+    datetime: 2021-12-13 15:40:37.667295
+    id: '1470403288906534920'
+    in_reply_to: '1470188054509985797'
+    text: '94/ D''Shai by Joel Rosenberg. Sweet 90s fantasy that casts flow states
+      as magic. Pretty cool!
+
+      https://books.rixx.de/joel-rosenberg/dshai/'
 ---
 
 Hidden gem among early 90s Fantasy: In an Asian-inspired world, everybody has a kazuh: a talent, one of 52, that they

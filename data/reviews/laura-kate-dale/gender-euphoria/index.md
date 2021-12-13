@@ -14,15 +14,35 @@ book:
   title: Gender Euphoria
 plan:
   date_added: 2021-12-10
+related_books:
+- book: shaun-cole/don-we-now-our-gay-apparel
+  text: More queer nonfiction.
 review:
   date_read:
   - 2021-10-10
   rating: 3
   tldr: Mildly underwhelming collection of essays. Might have been better if the editor
     hadn't written 11 out of 29 herself.
-related_books:
-- book: shaun-cole/don-we-now-our-gay-apparel
-  text: More queer nonfiction.
+social:
+  mastodon:
+    datetime: 2021-12-13 15:44:03.696607
+    id: '107440153795870482'
+    in_reply_to: '107440140311287001'
+    text: '95/ Gender Euphoria by Laura Kate Dale. Mildly underwhelming collection
+      of essays. Might have been better if the editor hadn''t written 11 out of 29
+      herself.
+
+      https://books.rixx.de/laura-kate-dale/gender-euphoria/ #rixxReads'
+  number: 95
+  twitter:
+    datetime: 2021-12-13 15:44:03.405435
+    id: '1470404151700078603'
+    in_reply_to: '1470403288906534920'
+    text: '95/ Gender Euphoria by Laura Kate Dale. Mildly underwhelming collection
+      of essays. Might have been better if the editor hadn''t written 11 out of 29
+      herself.
+
+      https://books.rixx.de/laura-kate-dale/gender-euphoria/'
 ---
 
 Gender Euphoria does some things very well, but felt generally underwhelming. Let me explain: I was happy to see a
