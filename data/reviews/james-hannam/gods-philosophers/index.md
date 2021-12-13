@@ -29,6 +29,25 @@ review:
   - 2021-10-14
   did_not_finish: false
   rating: 2
+  tldr: I'm very much into the subject, and still didn't manage to finish this book.
+social:
+  mastodon:
+    datetime: 2021-12-13 22:43:19.806862
+    id: '107441802341941231'
+    in_reply_to: '107440153795870482'
+    text: '96/ God''s Philosophers by James Hannam. I''m very much into the subject,
+      and still didn''t manage to finish this book.
+
+      https://books.rixx.de/james-hannam/gods-philosophers/ #rixxReads'
+  number: 96
+  twitter:
+    datetime: 2021-12-13 22:43:18.264675
+    id: '1470509658888679431'
+    in_reply_to: '1470404151700078603'
+    text: '96/ God''s Philosophers by James Hannam. I''m very much into the subject,
+      and still didn''t manage to finish this book.
+
+      https://books.rixx.de/james-hannam/gods-philosophers/'
 ---
 
 This book came recommended by Seb Falk in the bibliography of The Light Ages, and it's also on the reading list of

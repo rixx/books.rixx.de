@@ -28,6 +28,24 @@ review:
   rating: 4
   tldr: Excellent and enjoyable short story collection with surprising variations
     on the Odyssey.
+social:
+  mastodon:
+    datetime: 2021-12-13 22:43:23.929903
+    id: '107441802639827052'
+    in_reply_to: '107441802341941231'
+    text: '97/ The Lost Books of The Odyssey by Zachary Mason. Excellent and enjoyable
+      short story collection with surprising variations on the Odyssey.
+
+      https://books.rixx.de/zachary-mason/the-lost-books-of-the-odyssey/ #rixxReads'
+  number: 97
+  twitter:
+    datetime: 2021-12-13 22:43:22.783862
+    id: '1470509677821808648'
+    in_reply_to: '1470509658888679431'
+    text: '97/ The Lost Books of The Odyssey by Zachary Mason. Excellent and enjoyable
+      short story collection with surprising variations on the Odyssey.
+
+      https://books.rixx.de/zachary-mason/the-lost-books-of-the-odyssey/'
 ---
 
 The Lost Books of the Odyssey are, in truth, the Lost Short Stories of the Odyssey, and an impressive 44, at that. Each
