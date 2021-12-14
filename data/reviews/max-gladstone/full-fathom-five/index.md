@@ -32,6 +32,26 @@ review:
   tldr: I continue to love the Craft series. Even more impressive considering that
     I usually hate everything that touches economics, yes, even if Pratchett writes
     it.
+social:
+  mastodon:
+    datetime: 2021-12-14 20:22:34.072329
+    id: '107446911236068719'
+    in_reply_to: '107441802639827052'
+    text: '98/ Full Fathom Five by Max Gladstone. I continue to love the Craft series.
+      Even more impressive considering that I usually hate everything that touches
+      economics, yes, even if Pratchett writes it.
+
+      https://books.rixx.de/max-gladstone/full-fathom-five/ #rixxReads'
+  number: 98
+  twitter:
+    datetime: 2021-12-14 20:22:33.793755
+    id: '1470836627740270611'
+    in_reply_to: '1470509677821808648'
+    text: '98/ Full Fathom Five by Max Gladstone. I continue to love the Craft series.
+      Even more impressive considering that I usually hate everything that touches
+      economics, yes, even if Pratchett writes it.
+
+      https://books.rixx.de/max-gladstone/full-fathom-five/'
 ---
 
 Redeeming Max Gladstone after whatever Empress of Forever was: yess, this is the stuff. The Craft Sequence formula is a
