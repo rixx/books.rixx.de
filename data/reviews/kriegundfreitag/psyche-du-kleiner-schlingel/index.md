@@ -22,6 +22,26 @@ review:
   rating: 3
   tldr: kriegundfreitag comics as a book. You know if it's something you'll like –
     though they are way more depressing when reading them in a row.
+social:
+  mastodon:
+    datetime: 2021-12-15 23:10:01.541672
+    id: '107453231984181147'
+    in_reply_to: '107446915756408485'
+    text: '100/ Psyche, du kleiner Schlingel by kriegundfreitag. kriegundfreitag comics
+      as a book. You know if it''s something you''ll like – though they are way more
+      depressing when reading them in a row.
+
+      https://books.rixx.de/kriegundfreitag/psyche-du-kleiner-schlingel/ #rixxReads'
+  number: 100
+  twitter:
+    datetime: 2021-12-15 23:10:00.612440
+    id: '1471241155262230533'
+    in_reply_to: '1470836917054885899'
+    text: '100/ Psyche, du kleiner Schlingel by kriegundfreitag. kriegundfreitag comics
+      as a book. You know if it''s something you''ll like – though they are way more
+      depressing when reading them in a row.
+
+      https://books.rixx.de/kriegundfreitag/psyche-du-kleiner-schlingel/'
 ---
 
 As much as I love kriegundfreitag, I always feel like putting the whole book together is just … too much. It's
