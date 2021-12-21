@@ -16,6 +16,8 @@
     <title>{% if title %}{{ title | smartypants | safe }} {% endif %}📚 log(book)</title>
   </head>
   <body>
+    <a rel="me" href="https://chaos.social/@rixx" id="mastodon-linkback"></a>
+
     {% include "_header.html" %}
 
     <main{% block main_class %}{% endblock %}>

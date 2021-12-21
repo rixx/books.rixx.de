@@ -1051,6 +1051,9 @@ h1#year-stats-headline:after {
   height: 350px;
   max-height: 350px;
 }
+a#mastodon-linkback {
+  display: none;
+}
 
 @media (max-width: 480px) {
   main, main:not(.wide) {
