@@ -36,6 +36,8 @@ related_books:
   text: A very different take on living gods.
 - book: neil-gaiman/anansi-boys
   text: The next book in the series.
+- book: clive-barker/imajica
+  text: The gritty, adult people reminded me of American Gods, though Barker understands people better, and Gaiman is better at myths.
 review:
   date_read:
   - 2012-02-01

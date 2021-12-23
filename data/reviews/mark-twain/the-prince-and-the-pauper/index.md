@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: mark-twain/a-connecticut-yankee-in-king-arthurs-court
   text: Mark Twain's other try at historical fiction.
+- book: clive-barker/imajica
+  text: I'm feeling very clever for linking these two.
 review:
   date_read:
   - 2005-03-01

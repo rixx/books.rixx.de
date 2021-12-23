@@ -14,6 +14,8 @@ book:
 plan:
   date_added: 2021-12-10
 related_books:
+- book: clive-barker/imajica
+  text: I literally read Imajica because of Midnight Pals.
 - book: edgar-allan-poe/essential-tales-and-poems
   text: Poe is recurring cast.
 - book: stephen-king/the-gunslinger
