@@ -32,6 +32,8 @@ related_books:
   text: 'de Saint-Exupéry writes: "An administration is conceived as a safeguard against
     disturbances resulting from human initiative. The gear-wheels of the watch stand
     guard against the intervention of man.". Another military perspective.'
+- book: atul-gawande/the-checklist-manifesto
+  text: A book about the details of solving complex problems in cooperative contexts. The section about civil engineering in particular was very close to this book.
 review:
   date_read:
   - 2021-03-11
