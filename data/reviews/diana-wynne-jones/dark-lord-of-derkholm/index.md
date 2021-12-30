@@ -21,6 +21,8 @@ book:
 plan:
   date_added: 2020-07-31
 related_books:
+- book: patricia-c-wrede/dealing-with-dragons
+  text: Extreme Diana Wynne Jones vibes.
 - book: jasper-fforde/the-last-dragonslayer
   text: A very similar vibe of matter-of-fact magic, with wizards and beasts living
     an everyday life.

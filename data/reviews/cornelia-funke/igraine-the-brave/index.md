@@ -19,6 +19,8 @@ book:
 plan:
   date_added: '2015-08-04'
 related_books:
+- book: patricia-c-wrede/dealing-with-dragons
+  text: Practical af warrior princesses? Yes please.
 - book: cornelia-funke/dragon-rider
   text: Bravery and knights and monsters, for slightly older children.
 - book: neil-gaiman/odd-and-the-frost-giants

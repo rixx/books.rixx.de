@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: patricia-c-wrede/dealing-with-dragons
+  text: Cimorene and Tiffany would be terrifying together.
 - book: neil-gaiman/coraline
   text: Another young heroine who has to save her family.
 - book: terry-pratchett/a-hat-full-of-sky
