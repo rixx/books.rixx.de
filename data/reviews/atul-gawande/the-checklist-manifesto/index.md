@@ -25,6 +25,24 @@ review:
   did_not_finish: false
   rating: 3
   tldr: Meandering, but great if you like anecdotes.
+social:
+  mastodon:
+    datetime: 2021-12-30 23:09:51.845009
+    id: '107538166039427780'
+    in_reply_to: '107538165657451780'
+    text: '102/ The Checklist Manifesto by Atul Gawande. Meandering, but great if
+      you like anecdotes.
+
+      https://books.rixx.de/atul-gawande/the-checklist-manifesto/ #rixxReads'
+  number: 102
+  twitter:
+    datetime: 2021-12-30 23:09:51.600771
+    id: '1476676935233245192'
+    in_reply_to: '1476676910524608518'
+    text: '102/ The Checklist Manifesto by Atul Gawande. Meandering, but great if
+      you like anecdotes.
+
+      https://books.rixx.de/atul-gawande/the-checklist-manifesto/'
 ---
 
 Checklists good – this message has been spread through all tech conferences for the last several years, so I didn't

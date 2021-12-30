@@ -31,6 +31,24 @@ review:
   - 2021-10-28
   rating: 4
   tldr: Fascinating fantasy book, I wish I could find more like this
+social:
+  mastodon:
+    datetime: 2021-12-30 23:09:46.041090
+    id: '107538165657451780'
+    in_reply_to: '107453231984181147'
+    text: '101/ Imajica by Clive Barker. Fascinating fantasy book, I wish I could
+      find more like this
+
+      https://books.rixx.de/clive-barker/imajica/ #rixxReads'
+  number: 101
+  twitter:
+    datetime: 2021-12-30 23:09:45.715214
+    id: '1476676910524608518'
+    in_reply_to: '1471241155262230533'
+    text: '101/ Imajica by Clive Barker. Fascinating fantasy book, I wish I could
+      find more like this
+
+      https://books.rixx.de/clive-barker/imajica/'
 ---
 
 Clive Barker is, without doubt, the coolest character at [Midnight Pals](https://twitter.com/midnight_pals), and I

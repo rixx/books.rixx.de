@@ -33,6 +33,28 @@ review:
   - 2021-10-31
   did_not_finish: false
   rating: 4
+  tldr: Princess doesn't like princess stuff, runs away to live with a dragon. Extremely
+    Diana Wynne Jones vibes.
+social:
+  mastodon:
+    datetime: 2021-12-30 23:17:35.948183
+    id: '107538196454788677'
+    in_reply_to: '107538166039427780'
+    text: '103/ Dealing with Dragons by Patricia C. Wrede. Princess doesn''t like
+      princess stuff, runs away to live with a dragon. Extremely Diana Wynne Jones
+      vibes.
+
+      https://books.rixx.de/patricia-c-wrede/dealing-with-dragons/ #rixxReads'
+  number: 103
+  twitter:
+    datetime: 2021-12-30 23:17:35.668673
+    id: '1476678881751056387'
+    in_reply_to: '1476676935233245192'
+    text: '103/ Dealing with Dragons by Patricia C. Wrede. Princess doesn''t like
+      princess stuff, runs away to live with a dragon. Extremely Diana Wynne Jones
+      vibes.
+
+      https://books.rixx.de/patricia-c-wrede/dealing-with-dragons/'
 ---
 
 A sweet, sweet book: Princess Cimorene can't be bothered with pesky princess stuff, because she'd much rather learn
