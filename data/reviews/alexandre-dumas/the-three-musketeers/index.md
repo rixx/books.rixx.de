@@ -25,6 +25,8 @@ related_books:
   text: More adventuring, less France.
 - book: alexandre-dumas/the-count-of-monte-cristo
   text: Even better than the Musketeers
+- book: curtis-craddock/an-alchemy-of-masques-and-mirrors
+  text: Dumas meets Dune.
 review:
   date_read:
   - 2003-04-01

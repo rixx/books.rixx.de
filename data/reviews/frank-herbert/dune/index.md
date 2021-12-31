@@ -26,6 +26,8 @@ related_books:
 - book: greg-egan/quarantine
   text: A completely different book, but the way it talks about minds and possibilities
     was pure Dune.
+- book: curtis-craddock/an-alchemy-of-masques-and-mirrors
+  text: Dumas meets Dune.
 - book: frank-herbert/dune-messiah
   text: The next book in the series.
 review:
