@@ -613,7 +613,7 @@ def _change_rating(review, push_to_goodreads):
             print("")
             paragraphs = review.text.split("\n\n")
             for p in paragraphs:
-                print(" ".join(line.strip() for line in p.split("\n")))
+                print(" ".join(line.strip() for line in p.split("\n")) + "\n")
 
 
 def _change_to_tbr(review, push_to_goodreads):
