@@ -30,6 +30,24 @@ review:
   rating: 2
   tldr: Dumas meets Dune in a steampunk world. You'll know if that's for you (it wasn't
     for me).
+social:
+  mastodon:
+    datetime: 2021-12-31 18:41:26.591692
+    id: '107542772877262369'
+    in_reply_to: '107542772611653540'
+    text: '112/ An Alchemy of Masques and Mirrors by Curtis Craddock. Dumas meets
+      Dune in a steampunk world. You''ll know if that''s for you (it wasn''t for me).
+
+      https://books.rixx.de/curtis-craddock/an-alchemy-of-masques-and-mirrors/ #rixxReads'
+  number: 112
+  twitter:
+    datetime: 2021-12-31 18:41:26.234218
+    id: '1476971772671102978'
+    in_reply_to: '1476971755877060615'
+    text: '112/ An Alchemy of Masques and Mirrors by Curtis Craddock. Dumas meets
+      Dune in a steampunk world. You''ll know if that''s for you (it wasn''t for me).
+
+      https://books.rixx.de/curtis-craddock/an-alchemy-of-masques-and-mirrors/'
 ---
 
 Faux-Bourbon France fantasy in a world where a weird magical faux-Christian religion has the nobility consist of mostly

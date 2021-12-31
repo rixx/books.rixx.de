@@ -30,6 +30,24 @@ review:
   - 2021-11-19
   rating: 4
   tldr: Not quite Vorkosigan, but closer than anything else I've read.
+social:
+  mastodon:
+    datetime: 2021-12-31 18:40:52.587984
+    id: '107542770614557061'
+    in_reply_to: '107542577270532396'
+    text: '110/ The Cold Between by Elizabeth Bonesteel. Not quite Vorkosigan, but
+      closer than anything else I''ve read.
+
+      https://books.rixx.de/elizabeth-bonesteel/the-cold-between/ #rixxReads'
+  number: 110
+  twitter:
+    datetime: 2021-12-31 18:40:51.692554
+    id: '1476971627762302978'
+    in_reply_to: '1476959253982326790'
+    text: '110/ The Cold Between by Elizabeth Bonesteel. Not quite Vorkosigan, but
+      closer than anything else I''ve read.
+
+      https://books.rixx.de/elizabeth-bonesteel/the-cold-between/'
 ---
 
 Genuinely enjoyable space opera with a bit of mystery and romance, where everybody has a brain, and a character,

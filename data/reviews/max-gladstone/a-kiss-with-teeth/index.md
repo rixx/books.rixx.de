@@ -23,6 +23,23 @@ review:
   - 2021-11-22
   did_not_finish: false
   rating: 3
+  tldr: Short story – sweet, badass, forgettable.
+social:
+  mastodon:
+    datetime: 2021-12-31 18:41:22.536236
+    id: '107542772611653540'
+    in_reply_to: '107542770614557061'
+    text: '111/ A Kiss With Teeth by Max Gladstone. Short story – sweet, badass, forgettable.
+
+      https://books.rixx.de/max-gladstone/a-kiss-with-teeth/ #rixxReads'
+  number: 111
+  twitter:
+    datetime: 2021-12-31 18:41:22.217758
+    id: '1476971755877060615'
+    in_reply_to: '1476971627762302978'
+    text: '111/ A Kiss With Teeth by Max Gladstone. Short story – sweet, badass, forgettable.
+
+      https://books.rixx.de/max-gladstone/a-kiss-with-teeth/'
 ---
 
 Max Gladstone short story: Sweet in its way (which is not a thing Gladstone does, usually), but nothing special.
