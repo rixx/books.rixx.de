@@ -22,6 +22,8 @@ related_books:
   text: The ultimate modern take on Odysseus.
 - book: david-gemmell/lord-of-the-silver-bow
   text: Another btake on Odysseus that would have fit right in here.
+- book: rachel-smythe/lore-olympus
+  text: Speaking of reimagined Greek myths …
 review:
   date_read:
   - 2021-10-17
