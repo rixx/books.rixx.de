@@ -18,6 +18,8 @@ related_books:
   text: Another book about middle age tech, but broader, and more focused on technology.
 - book: james-hannam/gods-philosophers
   text: Recommended as “A more swashbuckling story”
+- book: owen-gingerich/the-book-nobody-read
+  text: Recommended for more insight into Copernicus and astronomical teaching at universities.
 review:
   date_read:
   - 2021-08-06
