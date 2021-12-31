@@ -27,7 +27,9 @@ related_books:
 review:
   date_read:
   - 2018-03-19
+  - 2021-12-06
   rating: 5
+  tldr: One of my favourite recent sci-fi books. Re-read to prepare to read the last part of the series.
 ---
 
 For me, this was a five star books, plain and simple, but I *completely* understand why it would be a 0-, 1-, 2-star book for others.

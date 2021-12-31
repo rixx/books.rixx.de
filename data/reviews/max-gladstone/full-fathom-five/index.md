@@ -23,6 +23,8 @@ plan:
 related_books:
 - book: max-gladstone/two-serpents-rise
   text: The previous book in the series.
+- book: max-gladstone/last-first-snow
+  text: The next book in the series.
 - book: max-gladstone/three-parts-dead
   text: The first book in the series.
 review:
