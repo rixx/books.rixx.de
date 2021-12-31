@@ -26,6 +26,8 @@ related_books:
   text: More queer fantasy.
 - book: emily-tesh/silver-in-the-wood
   text: More olde magical queer British romance.
+- book: freya-marske/a-marvellous-light
+  text: Lower-class magician falls for non-magical nobleman in a gay Victorian romance.
 - book: k-j-charles/a-case-of-possession
   text: The next book in the series.
 review:
