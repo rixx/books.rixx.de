@@ -28,6 +28,24 @@ review:
   - 2021-11-13
   rating: 4
   tldr: Modern Beowulf translation. Nowhere near Logue, but still entertaining.
+social:
+  mastodon:
+    datetime: 2021-12-31 17:51:41.901696
+    id: '107542577270532396'
+    in_reply_to: '107542576878000763'
+    text: '109/ Beowulf by Maria Dahvana Headley. Modern Beowulf translation. Nowhere
+      near Logue, but still entertaining.
+
+      https://books.rixx.de/maria-dahvana-headley-maria-dahvana-headley/beowulf/ #rixxReads'
+  number: 109
+  twitter:
+    datetime: 2021-12-31 17:51:41.571263
+    id: '1476959253982326790'
+    in_reply_to: '1476959228610940940'
+    text: '109/ Beowulf by Maria Dahvana Headley. Modern Beowulf translation. Nowhere
+      near Logue, but still entertaining.
+
+      https://books.rixx.de/maria-dahvana-headley-maria-dahvana-headley/beowulf/'
 ---
 
 Confession: this is my first time reading Beowulf, in any translation. So of course I picked a new, modern,

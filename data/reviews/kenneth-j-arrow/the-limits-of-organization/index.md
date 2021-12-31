@@ -13,6 +13,9 @@ book:
   title: The Limits of Organization
 plan:
   date_added: 2020-03-14
+related_books:
+- book: jane-jacobs/the-economy-of-cities
+  text: The one economist so far whom I could actually mostly read.
 review:
   date_read:
   - 2021-11-12
@@ -20,9 +23,26 @@ review:
   rating: 3
   tldr: After two attempts to read this book, I've concluded that my brain isn't sufficiently
     economist-shaped for this book.
-related_books:
-- book: jane-jacobs/the-economy-of-cities
-  text: The one economist so far whom I could actually mostly read.
+social:
+  mastodon:
+    datetime: 2021-12-31 17:51:35.930176
+    id: '107542576878000763'
+    in_reply_to: '107542576550556318'
+    text: '108/ The Limits of Organization by Kenneth J. Arrow. After two attempts
+      to read this book, I''ve concluded that my brain isn''t sufficiently economist-shaped
+      for this book.
+
+      https://books.rixx.de/kenneth-j-arrow/the-limits-of-organization/ #rixxReads'
+  number: 108
+  twitter:
+    datetime: 2021-12-31 17:51:35.528962
+    id: '1476959228610940940'
+    in_reply_to: '1476959207765295107'
+    text: '108/ The Limits of Organization by Kenneth J. Arrow. After two attempts
+      to read this book, I''ve concluded that my brain isn''t sufficiently economist-shaped
+      for this book.
+
+      https://books.rixx.de/kenneth-j-arrow/the-limits-of-organization/'
 ---
 
 Didn't finish this book, my brain isn't sufficiently economist-shaped. I even tried to read it twice this year, so I'm

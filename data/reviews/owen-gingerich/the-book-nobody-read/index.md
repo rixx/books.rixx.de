@@ -20,7 +20,8 @@ plan:
   date_added: 2021-11-02
 related_books:
 - book: seb-falk/the-light-ages
-  text: Mentioned this book in its bibliography for more insight into Copernicus and astronomical teaching at universities.
+  text: Mentioned this book in its bibliography for more insight into Copernicus and
+    astronomical teaching at universities.
 review:
   date_read:
   - 2021-11-09
@@ -29,6 +30,28 @@ review:
   tldr: Professor travels all over the world to see all extant first and second editions
     of De Revolutionibus. Depending on your tolerance levels, a collection of neat
     anecdotes or annoying brags.
+social:
+  mastodon:
+    datetime: 2021-12-31 17:51:30.922773
+    id: '107542576550556318'
+    in_reply_to: '107538638954491493'
+    text: '107/ The Book Nobody Read by Owen Gingerich. Professor travels all over
+      the world to see all extant first and second editions of De Revolutionibus.
+      Depending on your tolerance levels, a collection of neat anecdotes or annoying
+      brags.
+
+      https://books.rixx.de/owen-gingerich/the-book-nobody-read/ #rixxReads'
+  number: 107
+  twitter:
+    datetime: 2021-12-31 17:51:30.568523
+    id: '1476959207765295107'
+    in_reply_to: '1476707201758765057'
+    text: '107/ The Book Nobody Read by Owen Gingerich. Professor travels all over
+      the world to see all extant first and second editions of De Revolutionibus.
+      Depending on your tolerance levels, a collection of neat anecdotes or annoying
+      brags.
+
+      https://books.rixx.de/owen-gingerich/the-book-nobody-read/'
 ---
 
 Tenured professors are just built different or something. The object of the book is Copernicus' "On the Revolutions of
