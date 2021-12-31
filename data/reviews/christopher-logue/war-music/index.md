@@ -15,6 +15,8 @@ book:
 plan:
   date_added: 2021-02-26
 related_books:
+- book: maria-dahvana-headley/beowulf
+  text: More modern poetry versions of ancient epics?
 - book: gustav-schwab/sagen-des-klassischen-altertums
   text: Less adapted and more true-to-form Greek myths.
 - book: neil-gaiman/american-gods

@@ -27,6 +27,8 @@ related_books:
 - book: michael-ende/the-neverending-story
   text: For more of this gently exploratory feeling, The Neverending Story works,
     provided you don't have a problem with thinly veiled moral lessons.
+- book: maria-dahvana-headley/beowulf
+  text: ...
 review:
   date_read:
   - 2000-07-01
