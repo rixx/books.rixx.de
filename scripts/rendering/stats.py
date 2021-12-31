@@ -222,20 +222,28 @@ def get_year_stats(year, reviews):
     stats = {}
     total_books = len(reviews)
     stats["total_books"] = total_books
-    stats["total_pages"] = sum(int(review.metadata["book"].get("pages", 0)) for review in reviews)
+    stats["total_pages"] = sum(
+        int(review.metadata["book"].get("pages", 0)) for review in reviews
+    )
     stats["average_pages"] = round(stats["total_pages"] / total_books, 1)
-    stats["average_rating"] = round(sum(int(review.metadata["review"].get("rating", 0)) for review in reviews) / total_books, 1)
+    stats["average_rating"] = round(
+        sum(int(review.metadata["review"].get("rating", 0)) for review in reviews)
+        / total_books,
+        1,
+    )
     reviews = sorted(reviews, key=lambda r: int(r.metadata["book"].get("pages", 0)))
     stats["shortest_book"] = reviews[0]
     stats["longest_book"] = reviews[-1]
     reviews = sorted(reviews, key=lambda r: r.word_count)
     stats["shortest_review"] = reviews[0]
     stats["longest_review"] = reviews[-1]
-    stats["average_review"] = round(sum(review.word_count for review in reviews) / total_books, 1)
+    stats["average_review"] = round(
+        sum(review.word_count for review in reviews) / total_books, 1
+    )
     reviews = sorted(reviews, key=lambda x: x.date_read_lookup[year], reverse=True)
     stats["first_book"] = reviews[-1]
     stats["last_book"] = reviews[0]
     month_counter = Counter([r.date_read_lookup[year].strftime("%B") for r in reviews])
     stats["busiest_month"] = month_counter.most_common()[0]
-    # stats["rating_chart"] = 
+    # stats["rating_chart"] =
     return stats

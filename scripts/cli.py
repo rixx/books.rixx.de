@@ -98,37 +98,37 @@ def auth():
 
 @cli.command()
 def build():
-    """ Build the site, putting output into _html/ """
+    """Build the site, putting output into _html/"""
     build_site()
 
 
 @cli.command()
 def new():
-    """ Add a new book """
+    """Add a new book"""
     create_book()
 
 
 @cli.command()
 def add():
-    """ Add a new book """
+    """Add a new book"""
     create_book()
 
 
 @cli.command()
 def edit():
-    """ Edit a book """
+    """Edit a book"""
     change_book()
 
 
 @cli.command()
 def serve():
-    """ Run the editor server """
+    """Run the editor server"""
     run_server()
 
 
 @cli.command()
 def load():
-    """ Import book data from a goodreads-to-sqlite database. """
+    """Import book data from a goodreads-to-sqlite database."""
     from .importer import import_books
 
     import_books()
@@ -137,7 +137,7 @@ def load():
 @cli.command()
 @click.option("--dry-run", "dry_run", default=False, type=bool, is_flag=True)
 def social(dry_run):
-    """ Import book data from a goodreads-to-sqlite database. """
+    """Import book data from a goodreads-to-sqlite database."""
     from .social import post_next
 
     post_next(dry_run=dry_run)
