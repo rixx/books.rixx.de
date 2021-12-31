@@ -27,6 +27,26 @@ review:
   tldr: What is it with fantasy novels about gay lower-class magicians in Victorian
     England falling for non-magical nobility? Because this is the third of them that
     I've read, not that I'm complaining.
+social:
+  mastodon:
+    datetime: 2021-12-31 01:10:07.986196
+    id: '107538638954491493'
+    in_reply_to: '107538638190409821'
+    text: '106/ A Marvellous Light by Freya Marske. What is it with fantasy novels
+      about gay lower-class magicians in Victorian England falling for non-magical
+      nobility? Because this is the third of them that I''ve read, not that I''m complaining.
+
+      https://books.rixx.de/freya-marske/a-marvellous-light/ #rixxReads'
+  number: 106
+  twitter:
+    datetime: 2021-12-31 01:10:07.704488
+    id: '1476707201758765057'
+    in_reply_to: '1476707152777646088'
+    text: '106/ A Marvellous Light by Freya Marske. What is it with fantasy novels
+      about gay lower-class magicians in Victorian England falling for non-magical
+      nobility? Because this is the third of them that I''ve read, not that I''m complaining.
+
+      https://books.rixx.de/freya-marske/a-marvellous-light/'
 ---
 
 Comfort ~~food~~ read. But for real, what is it with fantasy novels about gay magicians in Victorian England, where the

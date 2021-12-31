@@ -21,6 +21,24 @@ review:
   rating: 3
   tldr: Worse than hoped, better than expected, worse than the game, better than the
     series - the Witcher has it all.
+social:
+  mastodon:
+    datetime: 2021-12-31 01:09:56.323319
+    id: '107538638190409821'
+    in_reply_to: '107538637164313820'
+    text: '105/ The Last Wish by Andrzej Sapkowski. Worse than hoped, better than
+      expected, worse than the game, better than the series - the Witcher has it all.
+
+      https://books.rixx.de/andrzej-sapkowski/the-last-wish/ #rixxReads'
+  number: 105
+  twitter:
+    datetime: 2021-12-31 01:09:56.028927
+    id: '1476707152777646088'
+    in_reply_to: '1476707086910341121'
+    text: '105/ The Last Wish by Andrzej Sapkowski. Worse than hoped, better than
+      expected, worse than the game, better than the series - the Witcher has it all.
+
+      https://books.rixx.de/andrzej-sapkowski/the-last-wish/'
 ---
 
 Finally catching up with some European fantasy – I haven't watched the show, but I've played some of the games, and I'm
