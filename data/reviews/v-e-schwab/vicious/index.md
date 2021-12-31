@@ -18,6 +18,8 @@ plan:
 related_books:
 - book: v-e-schwab/a-darker-shade-of-magic
   text: I got on a bit better with this book.
+- text: Another superhero story with only villains that I didn't enjoy.
+  book: ian-tregillis/bitter-seeds
 review:
   date_read:
   - 2021-06-20
