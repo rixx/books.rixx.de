@@ -29,7 +29,26 @@ review:
   - 2018-03-19
   - 2021-12-06
   rating: 5
-  tldr: One of my favourite recent sci-fi books. Re-read to prepare to read the last part of the series.
+  tldr: One of my favourite recent sci-fi books. Re-read to prepare to read the last
+    part of the series.
+social:
+  mastodon:
+    datetime: 2021-12-31 19:06:14.427399
+    id: '107542870378964351'
+    in_reply_to: '107542867839670991'
+    text: '115/ Too Like the Lightning by Ada Palmer. One of my favourite recent sci-fi
+      books. Re-read to prepare to read the last part of the series.
+
+      https://books.rixx.de/ada-palmer/too-like-the-lightning/ #rixxReads'
+  number: 115
+  twitter:
+    datetime: 2021-12-31 19:06:14.008509
+    id: '1476978012885291012'
+    in_reply_to: '1476977850322505736'
+    text: '115/ Too Like the Lightning by Ada Palmer. One of my favourite recent sci-fi
+      books. Re-read to prepare to read the last part of the series.
+
+      https://books.rixx.de/ada-palmer/too-like-the-lightning/'
 ---
 
 For me, this was a five star books, plain and simple, but I *completely* understand why it would be a 0-, 1-, 2-star book for others.

@@ -31,6 +31,26 @@ review:
   rating: 3
   tldr: Weaker than the other Craft books, despite having characters who are more
     fun. Fantasy-econ take on gentrification, huh?
+social:
+  mastodon:
+    datetime: 2021-12-31 19:06:18.837425
+    id: '107542870673775183'
+    in_reply_to: '107542870378964351'
+    text: '116/ Last First Snow by Max Gladstone. Weaker than the other Craft books,
+      despite having characters who are more fun. Fantasy-econ take on gentrification,
+      huh?
+
+      https://books.rixx.de/max-gladstone/last-first-snow/ #rixxReads'
+  number: 116
+  twitter:
+    datetime: 2021-12-31 19:06:18.509664
+    id: '1476978031638024195'
+    in_reply_to: '1476978012885291012'
+    text: '116/ Last First Snow by Max Gladstone. Weaker than the other Craft books,
+      despite having characters who are more fun. Fantasy-econ take on gentrification,
+      huh?
+
+      https://books.rixx.de/max-gladstone/last-first-snow/'
 ---
 
 I keep enjoying the Craft Sequence stuff, even when the lessons are so on the nose it's kinda meh. This is the
