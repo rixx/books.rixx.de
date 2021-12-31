@@ -214,7 +214,6 @@ def remove_review(review):
             bold=True,
         )
     )
-    print()
 
 
 def change_shelf(review, session=None):

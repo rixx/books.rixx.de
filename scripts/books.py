@@ -611,7 +611,9 @@ def _change_rating(review, push_to_goodreads):
             print("")
             print(f"Go here and paste your review instead: {review.goodreads_url}")
             print("")
-            print(review.text)
+            paragraphs = review.text.split("\n\n")
+            for p in paragraphs:
+                print(" ".join(line.strip() for line in p.split("\n")))
 
 
 def _change_to_tbr(review, push_to_goodreads):
