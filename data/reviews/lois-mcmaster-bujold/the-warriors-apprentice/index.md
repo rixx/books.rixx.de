@@ -20,6 +20,8 @@ book:
 plan:
   date_added: '2017-07-11'
 related_books:
+- book: elizabeth-bonesteel/the-cold-between
+  text: Very similar to the Vorkosigan books! Lots of fun.
 - book: terry-pratchett/going-postal
   text: The Discworld take on ambition and momentum. Not nearly as good, though.
 - book: david-drake/with-the-lightnings
