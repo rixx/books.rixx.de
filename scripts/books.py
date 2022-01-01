@@ -539,7 +539,7 @@ def create_book(search_term=None):
 
     review.edit()
 
-    if review.goodreads_url:
+    if review.goodreads_url and entry_type == "reviews":
         push_to_goodreads = inquirer.list_input(
             message="Do you want to push this change to Goodreads?",
             choices=[("Yes", True), ("No", False)],

@@ -1022,7 +1022,9 @@ h1#year-stats-headline:after {
   font-size: 18px;
   color: #555;
 }
-
+#year-stats-facts .stats-block-cover {
+  margin: 0 12px;
+}
 #year-stats-facts .stats-block-cover .book-cover img {
   height: 200px;
 }
