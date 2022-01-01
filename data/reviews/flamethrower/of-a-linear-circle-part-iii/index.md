@@ -14,6 +14,8 @@ book:
   - fanfic
   title: 'Of a Linear Circle - Part III'
 related_books:
+- book: flamethrower/of-a-linear-circle-part-iv
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-ii
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
