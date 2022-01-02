@@ -1,0 +1,4 @@
+“You will learn that great things are not what a bard’s tales might imply.”
+“What of great victories?”
+Laguia considers it rather than dismissing the question out of hand. “That has always depended on why a great victory was required.”
+%

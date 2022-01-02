@@ -11,10 +11,14 @@ book:
   tags:
   - historical-fiction
   - fanfic
-  title: 'Of a Linear Circle - Part V - Ravenclaw (Of a Linear Circle, #5)'
+  series: Of a Linear Circle
+  series_position: 5
+  title: 'Of a Linear Circle - Part V - Ravenclaw'
 plan:
   date_added: 2022-01-02
 related_books:
+- book: flamethrower/of-a-linear-circle-part-v-gryffindor
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-iv
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i

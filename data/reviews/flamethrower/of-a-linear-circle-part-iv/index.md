@@ -10,7 +10,9 @@ book:
   spine_color: '#dad2bf'
   tags:
   - fanfic
-  title: 'Of a Linear Circle - Part IV (Of a Linear Circle, #4)'
+  title: 'Of a Linear Circle - Part IV'
+  series: Of a Linear Circle
+  series_position: 5
 plan:
   date_added: 2022-01-01
 related_books:
