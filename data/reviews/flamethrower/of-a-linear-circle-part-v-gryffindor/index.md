@@ -17,6 +17,8 @@ book:
 plan:
   date_added: 2022-01-02
 related_books:
+- book: flamethrower/of-a-linear-circle-part-vi
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-v-ravenclaw
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
