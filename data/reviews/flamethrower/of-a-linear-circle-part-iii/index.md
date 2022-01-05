@@ -12,6 +12,7 @@ book:
   spine_color: '#dad2bf'
   tags:
   - fanfic
+  - learning-the-arts
   title: 'Of a Linear Circle - Part III'
 related_books:
 - book: flamethrower/of-a-linear-circle-part-iv

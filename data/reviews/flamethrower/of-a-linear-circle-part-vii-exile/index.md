@@ -16,6 +16,8 @@ book:
 plan:
   date_added: 2022-01-04
 related_books:
+- book: flamethrower/of-a-linear-circle-part-viii-the-second-wizarding-war
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-vi
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
