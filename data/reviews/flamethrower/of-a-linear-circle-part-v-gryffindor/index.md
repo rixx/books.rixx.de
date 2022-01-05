@@ -22,7 +22,7 @@ related_books:
 - book: flamethrower/of-a-linear-circle-part-v-ravenclaw
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
-  text: The book book in the series.
+  text: The first book in the series.
 review:
   date_read:
   - 2022-01-02

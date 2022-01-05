@@ -19,7 +19,7 @@ related_books:
 - book: flamethrower/of-a-linear-circle-part-ii
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
-  text: The book book in the series.
+  text: The first book in the series.
 plan:
   date_added: 2021-12-31
 review:

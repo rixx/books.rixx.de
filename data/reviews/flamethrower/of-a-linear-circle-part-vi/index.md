@@ -12,14 +12,16 @@ book:
   spine_color: '#dad2bf'
   tags:
   - fanfic
-  title: Of a Linear Circle
+  title: Of a Linear Circle VI
 plan:
   date_added: 2022-01-04
 related_books:
+- book: flamethrower/of-a-linear-circle-part-vii-exile
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-v-gryffindor
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
-  text: The book book in the series.
+  text: The first book in the series.
 review:
   date_read:
   - 2022-01-04
