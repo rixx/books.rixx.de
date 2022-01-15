@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2016-06-08'
 related_books:
+- book: c-s-friedman/this-alien-shore
+  text: Similar concept, sci-fi execution.
 - book: brandon-sanderson/skin-deep
   text: The next book in the series.
 - book: brandon-sanderson/the-emperors-soul

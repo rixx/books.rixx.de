@@ -28,6 +28,8 @@ related_books:
     was pure Dune.
 - book: curtis-craddock/an-alchemy-of-masques-and-mirrors
   text: Dumas meets Dune.
+- book: c-s-friedman/this-alien-shore
+  text: Pilots ruling the universe by keeping control of fast travel? This way, please.
 - book: frank-herbert/dune-messiah
   text: The next book in the series.
 review:
