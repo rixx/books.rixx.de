@@ -16,6 +16,8 @@ book:
 plan:
   date_added: 2022-01-05
 related_books:
+- book: flamethrower/of-a-linear-circle-part-ix-serpent-in-the-grass
+  text: The next book in the series.
 - book: flamethrower/of-a-linear-circle-part-vii-exile
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i

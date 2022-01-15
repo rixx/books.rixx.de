@@ -27,6 +27,8 @@ related_books:
 - book: klaus-kordon/die-roten-matrosen
   text: Another series that is excellent at teaching important historic moments through
     the eyes of its protagonist.
+- book: flamethrower/of-a-linear-circle-part-ix-serpent-in-the-grass
+  text: Similarly fantastical approach to current century history retelling.
 - book: ralf-isau/die-traume-des-jonathan-jabbok
   text: Isau's other big series. More magic, less realism.
 - book: ralf-isau/der-wahrheitsfinder
