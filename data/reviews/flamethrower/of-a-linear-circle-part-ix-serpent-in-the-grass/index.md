@@ -23,7 +23,7 @@ related_books:
   text: The first book in the series.
 review:
   date_read:
-  - 2021-01-07
+  - 2022-01-07
   rating: 2
 ---
 
