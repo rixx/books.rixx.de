@@ -1,7 +1,7 @@
 ---
 book:
   author: Max Gladstone
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780765333100-L.jpg
+  cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191.jpg
   dimensions:
     height: 22.0
     thickness: 3.0
@@ -13,7 +13,7 @@ book:
   publication_year: '2012'
   series: Craft Sequence
   series_position: '1'
-  spine_color: '#969093'
+  spine_color: '#cf9061'
   tags:
   - fantasy
   title: Three Parts Dead
