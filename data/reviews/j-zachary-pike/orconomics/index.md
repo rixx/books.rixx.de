@@ -18,6 +18,8 @@ related_books:
   text: Different take on Fantasy economy.
 - book: nicholas-eames/kings-of-the-wyld
   text: Another dig at adventurer guilds.
+- book: max-gladstone/three-parts-dead
+  text: An entire series of fantasy economy.
 review:
   date_read:
   - 2021-05-15

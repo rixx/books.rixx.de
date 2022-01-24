@@ -25,6 +25,8 @@ related_books:
     turn into dealings with gods.
 - book: terry-pratchett/making-money
   text: More econ fantasy, reluctantly.
+- book: j-zachary-pike/orconomics
+  text: More fantasy econ.
 - book: max-gladstone/two-serpents-rise
   text: The next book in the series.
 review:

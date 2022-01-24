@@ -20,6 +20,8 @@ book:
 plan:
   date_added: 2021-12-11
 related_books:
+- book: max-gladstone/four-roads-cross
+  text: The next book in the series.
 - book: max-gladstone/full-fathom-five
   text: The previous book in the series.
 - book: max-gladstone/three-parts-dead
