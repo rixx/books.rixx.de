@@ -22,6 +22,8 @@ related_books:
 - book: seb-falk/the-light-ages
   text: Mentioned this book in its bibliography for more insight into Copernicus and
     astronomical teaching at universities.
+- book: james-m-lattis/between-copernicus-and-galileo
+  text: Personally connected to Gingerich and also about Galileo and cosmology just before his time.
 review:
   date_read:
   - 2021-11-09
