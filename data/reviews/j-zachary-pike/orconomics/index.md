@@ -20,6 +20,8 @@ related_books:
   text: Another dig at adventurer guilds.
 - book: max-gladstone/three-parts-dead
   text: An entire series of fantasy economy.
+- book: j-zachary-pike/son-of-a-liche
+  text: The next book in the series.
 review:
   date_read:
   - 2021-05-15
