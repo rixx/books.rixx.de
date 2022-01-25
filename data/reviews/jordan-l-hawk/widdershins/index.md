@@ -17,6 +17,8 @@ book:
   - romance
   title: Widdershins
 related_books:
+- book: melissa-scott-amy-griswold/death-by-silver
+  text: Similar sepia queer magic detectives for hire, other side of the pond.
 - book: k-j-charles/the-magpie-lord
   text: Same concept, better quality. A lot of other similar books linked there, too.
 - book: freya-marske/a-marvellous-light

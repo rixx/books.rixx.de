@@ -22,6 +22,8 @@ related_books:
   text: Go to Vernes for more Victorian steampunk.
 - book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
   text: Go to Stephenson for less steampunk-y scifi Victorians.
+- book: melissa-scott-amy-griswold/death-by-silver
+  text: Steampunk with not-too-clever protagonists, but this time also with magic.
 review:
   date_read:
   - 2019-09-25
