@@ -13,7 +13,6 @@ book:
   tags:
   - queer
   - romance
-  - historical-fiction
   - fantasy
   title: The Magpie Lord
 plan:
