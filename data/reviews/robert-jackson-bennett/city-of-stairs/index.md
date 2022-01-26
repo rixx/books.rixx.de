@@ -32,6 +32,8 @@ related_books:
 - book: terry-pratchett/monstrous-regiment
   text: Another god going insane and making up inhuman rules that everybody goes along
     with.
+- book: robert-jackson-bennett/city-of-blades
+  text: The next book in the series.
 review:
   date_read:
   - 2020-05-08

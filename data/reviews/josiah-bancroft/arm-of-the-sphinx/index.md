@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: nicholas-eames/kings-of-the-wyld
   text: Desperate band of friends making a last stand.
+- book: robert-jackson-bennett/city-of-blades
+  text: Another tough female warrior with an artificial hand.
 - book: josiah-bancroft/senlin-ascends
   text: The previous book in the series.
 review:
