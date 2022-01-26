@@ -21,6 +21,8 @@ book:
 plan:
   date_added: '2019-02-19'
 related_books:
+- book: james-s-a-corey/leviathan-falls
+  text: The next and last book in the series.
 - book: james-s-a-corey/persepolis-rising
   text: The previous book in the series.
 - book: james-s-a-corey/leviathan-wakes
