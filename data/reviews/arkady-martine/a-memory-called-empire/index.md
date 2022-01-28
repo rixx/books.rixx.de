@@ -18,7 +18,7 @@ plan:
   date_added: '2019-06-12'
 related_books:
 - book: yoon-ha-lee/ninefox-gambit
-  text: A similarly complex world, also questioning divided loyalties.
+  text: A similarly complex world, also questioning divided loyalties with a voice in their head.
 - book: seth-dickinson/the-traitor-baru-cormorant
   text: Another look at world-spanning empires and their agents.
 - book: arkady-martine/a-desolation-called-peace

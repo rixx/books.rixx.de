@@ -17,7 +17,7 @@ plan:
   date_added: '2018-08-22'
 related_books:
 - book: arkady-martine/a-memory-called-empire
-  text: A similarly complex world, also questioning divided loyalties.
+  text: A similarly complex world, also questioning divided loyalties with a voice in their head.
 - book: seth-dickinson/the-traitor-baru-cormorant
   text: Another large empire, another traitor.
 - book: ann-leckie/ancillary-justice
