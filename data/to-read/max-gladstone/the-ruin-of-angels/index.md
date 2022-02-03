@@ -18,5 +18,7 @@ book:
   - fantasy
   title: The Ruin of Angels
 plan:
-  date_added: 2022-01-25
+  date_added: 2022-02-03
 ---
+
+Currently last Craft book
