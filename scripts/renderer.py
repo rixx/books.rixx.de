@@ -377,6 +377,11 @@ def build_site(**kwargs):
         is_connected=nx.is_connected(graph),
         active="graph",
     )
+    template.render(
+        "random.html",
+        "random/index.html",
+        active="random",
+    )
 
     # Render quotes
     print("💬 Rendering quotes")

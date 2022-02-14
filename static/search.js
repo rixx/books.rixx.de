@@ -4,8 +4,6 @@ let bookDataLoading = false
 
 const renderSearchResults = (books, tags) => {
     // build HTML
-    console.log(books)
-    console.log(tags)
     const wrapper = document.querySelector("#search-container")
     const div = document.createElement("div")
     div.id = "search-results"
@@ -56,12 +54,11 @@ const updateSearch = () => {
 
 const loadBookData = () => {
     if (bookData) {
-        console.log("Book data has already been loaded.")
-        return
+        return Promise.resolve()
     }
     bookDataLoading = true  // todo render
 
-    fetch("/search.json").then(response => response.json().then(data => {
+    return fetch("/search.json").then(response => response.json().then(data => {
         bookData = data
         bookDataLoading = false  // todo undo render
         const searchInput = document.querySelector("input#search")
