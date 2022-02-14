@@ -1,7 +1,7 @@
 ---
 book:
   author: Ilona Andrews
-  cover_image_url: http://covers.openlibrary.org/b/isbn/9780441014897-L.jpg
+  cover_image_url: http://books.google.com/books/content?id=7cOXPv06qYYC&printsec=frontcover&img=1&zoom=1&source=gbs_api
   dimensions:
     height: 18.0
     thickness: 1.9
@@ -13,7 +13,7 @@ book:
   publication_year: '2007'
   series: Kate Daniels
   series_position: '1'
-  spine_color: '#c4a26e'
+  spine_color: '#a7afb8'
   tags:
   - fantasy
   - urban-fantasy
