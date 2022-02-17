@@ -18,6 +18,8 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
+- book: rainer-maria-rilke/das-stunden-buch
+  text: Rilke at his best.
 - book: franz-kafka/the-metamorphosis
   text: A similarly sensitive and anxiety-prone protagonist in a hostile world, published
     around the same time.
