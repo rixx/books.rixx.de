@@ -24,6 +24,8 @@ related_books:
     seriously.
 - book: aliette-de-bodard/the-tea-master-and-the-detective
   text: Another sentient ship as companion.
+- book: hannu-rajaniemi/the-quantum-thief
+  text: Another book with snarky cool space ships.
 - book: ursula-k-le-guin/planet-of-exile
   text: Another exercise in showing various alien cultures through each other's eyes.
 review:

@@ -24,6 +24,8 @@ related_books:
     just in fantasy.
 - book: roger-zelazny/lord-of-light
   text: If you want more of the space trickster vibe – the protagonists feel very similar, and both have to deal with body transfers.
+- book: janet-kagan/hellspark
+  text: Another book with snarky cool space ships.
 review:
   date_read:
   - 2020-08-17
