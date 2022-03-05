@@ -27,8 +27,10 @@ setup(
         "rauth",
         "requests",
         "sklearn",
+        "sqlite_utils",
         "smartypants==2.0.*",
-        "unidecode==1.1.*",
+        "tqdm",
         "tweepy",
+        "unidecode==1.1.*",
     ],
 )

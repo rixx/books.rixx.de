@@ -10,6 +10,7 @@ from .books import change_book, change_tags, create_book, random_review
 from .goodreads import get_shelves
 from .renderer import build_site
 from .server import run_server
+from .sqlite import render_db
 
 
 @click.group(invoke_without_command=True)
@@ -97,9 +98,17 @@ def auth():
 
 
 @cli.command()
-def build():
+@click.option("--db", "sql", default=None, type=click.Path(exists=False))
+def build(sql):
     """Build the site, putting output into _html/"""
-    build_site()
+    build_site(db=sql)
+
+
+@cli.command()
+@click.option("--db", "sql", default="books.db", type=click.Path(exists=False))
+def db(sql):
+    """Build the site, putting output into _html/"""
+    render_db(db=sql)
 
 
 @cli.command()

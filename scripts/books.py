@@ -357,6 +357,41 @@ class Review:
             return
         subprocess.check_call(["xdg-open", self.cover_path])
 
+    @property
+    def serialized_data(self):
+        """Used for SQL exports."""
+        book_keys = [
+            "title",
+            "spine_color",
+            "isbn10",
+            "isbn13",
+            "source",
+            "series",
+            "series_position",
+            "publication_year",
+            "cover_image_url",
+            "pages",
+            "goodreads_id",
+            "tags",
+        ]
+        review_keys = ["date_read", "rating", "did_not_finish"]
+
+        data = {
+            "id": self.id,
+            "state": self.entry_type,
+            "review": self.text,
+            "last_date": self.relevant_date,
+            # TODO: cover?
+            # author, tags and date_read are fks
+            "author": {"id": self.author_slug, "name": self.metadata["book"]["author"]},
+        }
+        for key in book_keys:
+            data[key] = self.metadata["book"].get(key)
+        if "review" in self.metadata:
+            for key in review_keys:
+                data[key] = self.metadata["review"].get(key)
+        return data
+
 
 class Spine:
     def __init__(self, review):

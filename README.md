@@ -20,10 +20,12 @@ In a virtualenv, run `pip install -e .`. Then you can run:
 - `books` to get to a menu that allows you to add/edit books, or bulk-edit tags.
 - `books auth` to get and save your Goodreads credentials
 - `books social` to post to social media. My nick and name are currently hardcoded.
-- `books build` to build the site, creates the `_html` directory
+- `books build` to build the site, creates the `_html` directory. Add `--db=path.db` to export the data to a sqlite
+  database aswell.
 - `books load` to bulk-import book data from a database in the format created by
   [goodreads-to-sqlite](https://github.com/rixx/goodreads-to-sqlite). It's very specific to my stuff and you probably
   want to touch it up before using it.
+- `books db` to export all books/reviews to a sqlite database. Pass ``--db`` to specify a path.
 
 ## Related work
 

@@ -7,7 +7,7 @@ from pathlib import Path
 
 import networkx as nx
 
-from . import books
+from . import books, sqlite
 from .rendering import images, stats, template
 
 
@@ -23,7 +23,7 @@ def sort_reviews(reviews):
     return sorted(reviews, key=lambda x: x.relevant_date, reverse=True)
 
 
-def build_site(**kwargs):
+def build_site(db=None, **kwargs):
     print("✨ Starting to build the site … ✨")
     this_year = dt.datetime.now().strftime("%Y")
 
@@ -385,5 +385,14 @@ def build_site(**kwargs):
 
     # Render quotes
     print("💬 Rendering quotes")
+
+    # Render database
+    if db:
+        print("🏭 Rendering database")
+        sqlite.render_db(
+            db=db,
+            reviews=all_reviews,
+            plans=all_plans,
+        )
 
     print("✨ Rendered HTML files to _html ✨")
