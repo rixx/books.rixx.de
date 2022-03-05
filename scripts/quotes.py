@@ -1,7 +1,7 @@
 from contextlib import suppress
 
-class Quote:
 
+class Quote:
     def __init__(self, text, book=None, author=None, path=None, language=None):
         self.book = book
         self.author = author
@@ -16,9 +16,9 @@ class Quote:
     def __str__(self):
         result = "Quote"
         if self.book:
-            result = f"{result} by {book.author} in {book.title}"
+            result = f"{result} by {self.book.author} in {self.book.title}"
         elif self.author:
-            result = f"{result} by {author}"
+            result = f"{result} by {self.author}"
         result += f": “{self.text[:40]}[…]”"
         return result
 
@@ -35,11 +35,14 @@ def parse_quote_file(path, author=None, book=None):
                 quotes.append(Quote(block, author=author, book=book, path=path))
     return quotes
 
+
 if __name__ == "__main__":
     import glob
-    import sys
+
     has_linebreaks = set()
-    quote_files = glob.glob("data/reviews/**/quotes*.txt") + glob.glob("data/reviews/**/**/quotes*.txt")
+    quote_files = glob.glob("data/reviews/**/quotes*.txt") + glob.glob(
+        "data/reviews/**/**/quotes*.txt"
+    )
     for _file in quote_files:
         for quote in parse_quote_file(_file):
             if "\n" in quote.text:
