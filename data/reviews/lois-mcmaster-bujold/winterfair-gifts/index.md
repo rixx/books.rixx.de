@@ -1,6 +1,6 @@
 ---
 book:
-  author: Lois McMaster Bujold, Люис Макмастър Бюджолд
+  author: Lois McMaster Bujold
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266884477l/3746202.jpg
   dimensions:
     height: 18.0
