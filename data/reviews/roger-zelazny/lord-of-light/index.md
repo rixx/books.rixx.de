@@ -24,6 +24,8 @@ related_books:
 - book: hannu-rajaniemi/the-quantum-thief
   text: If you want more of the space trickster vibe – the protagonists feel very
     similar, and both have to deal with body transfers.
+- book: roger-zelazny/creatures-of-light-and-darkness
+  text: More religion-based science fantasy by Zelazny, this time Egyptian.
 review:
   date_read:
   - 2021-03-15
