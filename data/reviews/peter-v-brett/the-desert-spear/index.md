@@ -30,4 +30,4 @@ review:
   rating: 3
 ---
 
-Great successor! We see more of Arlen (and later, Renna, who has a wonderful story), Rojen (who was neglected), Leesha, and a fancy new character! Also, more insight into politics and the demons. Everything was very cool, especially how people had all sorts of agency. I felt that character development ran low in this book, but that's a common theme for second volumes, so let's hope the next one picks it up.
+Pretty okay successor. We see more of Arlen (and later, Renna, who has a wonderful story), Rojen (who was neglected), Leesha, and a fancy new character! Also, more insight into politics and the demons. Everything was very cool, especially how people had all sorts of agency. I felt that character development ran low in this book, but that's a common theme for second volumes, so let's hope the next one picks it up.

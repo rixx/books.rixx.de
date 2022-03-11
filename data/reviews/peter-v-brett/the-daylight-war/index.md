@@ -29,7 +29,11 @@ related_books:
 review:
   date_read:
   - 2018-07-28
-  rating: 3
+  rating: 2
 ---
 
-The **Dailight War** by *Peter Brett* (third volume of his **Demon Cycle**) was really good fantasy – and yet disappointing. The start of the series seems to have raised a bar the other books can't quite meet. While my criticism of the second volume (too little character development) is met and answered beautifully on all counts, the story drags along a lot. While showing known scenes from a second viewpoint was cute in the second volume, it grew tedious here, and I felt that the pacing between story development and flashbacks was uneven. There was a lot I liked – we get to delve deeper into Krasian culture, for instance (which, to me, is still the most tiresome part of that worldbuilding). But all things considered, not that much happens when measured by the first volume, even if the book fares well compared to regular fantasy novels.
+Ugh. The start of the series seems to have raised a bar the other books can't quite meet. While my criticism of the second volume (too little character development) is met and answered beautifully on all counts, the story drags along a lot. While showing known scenes from a second viewpoint was cute in the second volume, it grew tedious here, and I felt that the pacing between story development and flashbacks was uneven.
+
+And then there's the ambivalent stuff – we get to delve deeper into Krasian culture, for instance (which, to me, is still the most tiresome part of that worldbuilding). Which: yay wordbuilding, but nay full-on racist fantasy Arabs? What is this book.
+
+But all things considered, not that much happens when measured by the first volume, and what's happening is a mix of decent fantasy and full yikes.

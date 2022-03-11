@@ -23,7 +23,7 @@ related_books:
 review:
   date_read:
   - 2018-10-24
-  rating: 2
+  rating: 1
 ---
 
 The Core concludes the **Demon Cycle** series by *Peter Brett*, and it was a disappointment to me. While we still get a
@@ -36,6 +36,7 @@ Also, we get a whole new generation of kids, just for the sake of it, it seems. 
 pages (pregnancy, birth, carrying them around) for no contribution, really. I hope they're not meant to be the tie-in
 for a sequel series. They felt as cringe-y as the Harry Potter kids, down to the names.
 
-In conclusion: I really liked the first book in the series, and the following books felt middling-to-good. This one
-didn't even reach this level. A good part of that may be that my patience with the vastly annoying and stereotyped
-Krasians (a vaguely muslimic hurr-durr warrior culture) never paid off, but I'll spare you the rant about that.
+In conclusion: I really liked the first book in the series, and the following books were worse, both in story/pacing and
+characters and also remember the racism. This one didn't even reach this level. My patience with the vastly annoying and
+stereotyped Krasians (a vaguely muslimic hurr-durr warrior culture) never paid off, but I'll spare you the rant about
+that.
