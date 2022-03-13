@@ -25,6 +25,8 @@ review:
   tldr: More gay magical Victorian mystery shenanigans – the charm of the first part
     has worn off a little, but still good as a comfort read.
 related_books:
+- book: k-j-charles/flight-of-magpies
+  text: The next book in the series.
 - book: k-j-charles/the-magpie-lord
   text: The first book in the series.
 social:
