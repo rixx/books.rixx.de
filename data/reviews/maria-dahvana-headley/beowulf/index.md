@@ -21,6 +21,8 @@ plan:
 related_books:
 - book: christopher-logue/war-music
   text: More modern poetry versions of ancient epics?
+- book: michael-crichton/eaters-of-the-dead
+  text: Another Beowulf version
 - book: j-r-r-tolkien/the-hobbit
   text: '...'
 review:

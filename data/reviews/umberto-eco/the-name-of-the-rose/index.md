@@ -34,6 +34,8 @@ related_books:
   text: William of Baskerville – guess who he's based on?
 - book: ken-follett/the-pillars-of-the-earth
   text: Medieval fiction that goes to similar lengths to fanboy about church architecture.
+- book: michael-crichton/eaters-of-the-dead
+  text: Pulling the old lost manuscript trick.
 review:
   date_read:
   - 2004-04-01
