@@ -24,6 +24,8 @@ related_books:
   text: The next book in the series.
 - book: charles-stross/the-atrocity-archives
   text: The first book in the series.
+- book: drew-hayes/the-utterly-uninteresting-and-unadventurous-tales-of-fred-the-vampire-accountant
+  text: More vampires with work safety laws.
 review:
   date_read:
   - 2015-08-04
