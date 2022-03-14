@@ -24,7 +24,7 @@ related_books:
   text: This book is dedicated to Chip Delany, so here you go.
 review:
   date_read:
-  - 2021-01-21
+  - 2022-01-21
   rating: 3
 ---
 
