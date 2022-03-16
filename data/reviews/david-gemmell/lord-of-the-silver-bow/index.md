@@ -31,6 +31,8 @@ related_books:
     hyped.
 - book: zachary-mason/the-lost-books-of-the-odyssey
   text: Another set of great, related takes on Odysseus.
+- book: david-gemmell/shield-of-thunder
+  text: The next book in the series.
 review:
   date_read:
   - 2021-08-21
