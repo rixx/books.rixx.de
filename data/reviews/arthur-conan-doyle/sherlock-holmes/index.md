@@ -30,6 +30,8 @@ related_books:
   text: Sherlock meets Cthulhu.
 - book: aliette-de-bodard/the-tea-master-and-the-detective
   text: Sherlock in space.
+- book: stefan-winges/ein-drei-tassen-problem
+  text: Sherlock in 1920s Germany.
 review:
   date_read:
   - 2003-09-01
