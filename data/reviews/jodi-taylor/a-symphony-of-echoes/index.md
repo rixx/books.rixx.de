@@ -20,7 +20,7 @@ book:
 plan:
   date_added: 2021-10-31
 related_books:
-- book: jodi-taylor/just-one-damned-thing-after-the-other
+- book: jodi-taylor/just-one-damned-thing-after-another
   text: The first book in the series.
 review:
   date_read:

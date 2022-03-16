@@ -16,7 +16,7 @@ book:
 plan:
   date_added: '2019-02-04'
 related_books:
-- book: lilly-thal/mimus
+- book: lilli-thal/mimus
   text: A much better book on backstabbed princes serving as entertainment to the
     enemy.
 review:
