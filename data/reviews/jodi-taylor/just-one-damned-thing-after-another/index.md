@@ -20,6 +20,8 @@ plan:
 related_books:
 - book: connie-willis/doomsday-book
   text: Another time travel institute with academical snark.
+- book: jodi-taylor/a-symphony-of-echoes
+  text: The next book in the series.
 review:
   date_read:
   - 2021-07-02
