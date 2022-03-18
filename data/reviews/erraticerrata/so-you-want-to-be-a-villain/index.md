@@ -25,6 +25,8 @@ related_books:
   text: Children outthinking each other in uncomfortably real war games.
 - book: eliezer-yudkowsky/harry-potter-and-the-methods-of-rationality
   text: More war games for kids in schools with ridiculous solutions.
+- book: erraticerrata/the-revolution-will-not-be-civilized
+  text: The next book in the series.
 review:
   date_read:
   - 2022-02-01
