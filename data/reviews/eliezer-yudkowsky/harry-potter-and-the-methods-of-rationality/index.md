@@ -24,6 +24,8 @@ related_books:
   text: Less rational Harry.
 - book: alexander-wales/the-metropolitan-man
   text: Rational Lex Luthor.
+- book: erraticerrata/so-you-want-to-be-a-villain
+  text: More war games for kids in schools with ridiculous solutions.
 review:
   date_read:
   - 2014-11-01

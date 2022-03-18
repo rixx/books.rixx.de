@@ -31,6 +31,8 @@ related_books:
   text: Another bright child taking the rei(g)ns.
 - book: alan-dean-foster/the-last-starfighter
   text: You know the drill.
+- book: erraticerrata/so-you-want-to-be-a-villain
+  text: Children outthinking each other in uncomfortably real war games.
 review:
   date_read:
   - 2014-01-01

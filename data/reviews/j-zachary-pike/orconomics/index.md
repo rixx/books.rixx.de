@@ -20,6 +20,8 @@ related_books:
   text: Another dig at adventurer guilds.
 - book: max-gladstone/three-parts-dead
   text: An entire series of fantasy economy.
+- book: erraticerrata/so-you-want-to-be-a-villain
+  text: The economics and the fantasy racism commentary could be at home here, too.
 - book: j-zachary-pike/son-of-a-liche
   text: The next book in the series.
 review:

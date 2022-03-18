@@ -27,6 +27,8 @@ related_books:
   text: Another look at world-spanning empires and their agents.
 - book: robert-jackson-bennett/city-of-stairs
   text: Government agents with divided loyalties having to make brutal decisions.
+- book: erraticerrata/so-you-want-to-be-a-villain
+  text: Young ruthless girl from invaded country joins the enemy for murky, maybe noble reasons.
 - book: seth-dickinson/the-monster-baru-cormorant
   text: The next book in the series.
 review:
