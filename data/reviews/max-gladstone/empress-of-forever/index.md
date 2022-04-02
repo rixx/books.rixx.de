@@ -22,6 +22,10 @@ plan:
 related-books:
 - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
   text: If you want to read Gladstone sci-fi, please, please, go here.
+- book: roger-zelazny/creatures-of-light-and-darkness
+  text: Cited as inspiration in an AMA.
+- book: hannu-rajaniemi/the-quantum-thief
+  text: Cited as inspiration in an AMA.
 - book: max-gladstone/three-parts-dead
   text: Go here for excellent Gladstone stuff.
 review:

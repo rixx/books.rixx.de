@@ -21,12 +21,14 @@ book:
 plan:
   date_added: '2016-10-25'
 related_books:
-- book: patrick-rothfuss/the-name-of-the-wind
-  text: Magic with names and balances and strange teachers. Less indulgent.
 - book: diane-duane/so-you-want-to-be-a-wizard
   text: Duane understands Earthsea better than most.
 - book: patricia-a-mckillip/the-riddle-master-of-hed
   text: Another classic fantasy world with a riddle-loving academy and a similarly odd pacing.
+- book: michael-ende/the-neverending-story
+  text: Engaging with the protagonist's shadow ♥
+- book: patrick-rothfuss/the-name-of-the-wind
+  text: Magic with names and balances and strange teachers. Less indulgent.
 - book: ursula-k-le-guin/gifts
   text: Another fantasy series by le Guin.
 - book: ursula-k-le-guin/the-tombs-of-atuan
