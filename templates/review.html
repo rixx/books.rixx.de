@@ -98,7 +98,16 @@
   </div>
 
   <article>
-  {{ review.text | render_markdown | safe }}
+    {% if review.plot %}
+      <details>
+        <summary><h2 class="plot-header" id="plot-summary">Plot summary <span title="Plot summaries will contain ALL the spoilers. I mostly write them to remind future!Me what was going on. Especially useful for discusisons and sequels.">❔</span></h2></summary>
+        {{ review.plot | render_markdown | safe }}
+        <hr>
+      </details>
+    {% endif %}
+    <div id="review-text">
+    {{ review.text | render_markdown | safe }}
+    </div>
   </article>
 
   {% if review.metadata.social %}{% if review.metadata.social.twitter.id or review.metadata.social.mastodon.id %}

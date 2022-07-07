@@ -92,6 +92,7 @@ class Review:
         elif metadata and entry_type:
             self.metadata = metadata
             self.text = text
+            self.plot = ""
         else:
             raise Exception(f"A review needs metadata or a path! ({self.path})")
 
@@ -112,8 +113,14 @@ class Review:
             )
         self.metadata = post.metadata
         self.text = post.content
+        self.plot = ""
         if not self.entry_type:
             self.entry_type = self.entry_type_from_path()
+        if self.plot_path:
+            try:
+                self.plot = frontmatter.load(self.plot_path).content.strip()
+            except Exception as e:
+                raise Exception(f"Error while loading plot from {self.plot_path}!\n{e}")
 
     @cached_property
     def slug(self):
@@ -154,6 +161,12 @@ class Review:
         cover_path = self.path.parent / "cover.jpg"
         if cover_path.exists():
             return cover_path
+
+    @cached_property
+    def plot_path(self):
+        plot_path = self.path.parent / "plot.md"
+        if plot_path.exists():
+            return plot_path
 
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")
