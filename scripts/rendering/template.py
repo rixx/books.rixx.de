@@ -8,6 +8,7 @@ import markdown
 import smartypants
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from markdown.extensions.smarty import SmartyExtension
+from markdown.extensions.toc import TocExtension
 
 
 def unmark_element(element, stream=None):
@@ -26,10 +27,20 @@ def unmark_element(element, stream=None):
 markdown.Markdown.output_formats["plain"] = unmark_element
 plain_markdown = markdown.Markdown(output_format="plain")
 plain_markdown.stripTopLevelTags = False
+md = markdown.Markdown(
+    extensions=[SmartyExtension(), TocExtension(marker="", baselevel=2)]
+)
 
 
 def render_markdown(text):
-    return markdown.markdown(text, extensions=[SmartyExtension()])
+    md.reset()
+    return md.convert(text)
+
+
+def render_toc(text):
+    md.reset()
+    md.convert(text)
+    return md.toc
 
 
 def strip_markdown(text):
@@ -47,6 +58,7 @@ ENV = Environment(
     autoescape=select_autoescape(["html", "xml"]),
 )
 ENV.filters["render_markdown"] = render_markdown
+ENV.filters["render_toc"] = render_toc
 ENV.filters["strip_markdown"] = strip_markdown
 ENV.filters["render_date"] = render_date
 ENV.filters["smartypants"] = smartypants.smartypants

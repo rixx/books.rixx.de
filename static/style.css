@@ -52,7 +52,10 @@ pre {
   padding: 16px;
   border-radius 6px;
 }
-article p:first-child::first-letter, .initial::first-letter, pre.code + p::first-letter {
+article p:first-child::first-letter,
+article details p:nth-child(2)::first-letter,
+.initial::first-letter,
+pre.code + p::first-letter {
   font-size: 5.15em;
   font-family: 'Kanzlei';
   padding-right: 3px;
@@ -109,8 +112,21 @@ h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 h2 {
   font-size: 36px;
 }
+h2.plot-header {
+  display: inline-block;
+  cursor: pointer;
+}
 h3 {
   font-size: 24px;
+}
+#toc ul {
+  margin: 0;
+}
+#toc {
+  position: fixed;
+  right: 80px;
+  width: 180px;
+  top: 100px;  
 }
 a {
   font-weight: bold;
@@ -1105,6 +1121,12 @@ a#mastodon-linkback {
     margin: 0 8px;
     max-width: 100%;
     min-width: auto;
+  }
+  #toc {
+    position: relative;
+    top: auto;
+    right: auto;
+    width: auto;
   }
 }
 @media (max-width: 700px) {

@@ -21,7 +21,7 @@
 
 {% block content %}
   <div class="book-meta-wrapper"><div>
-    <h1>{{ review.metadata.book.title | smartypants | safe }}</h1>
+    <h1 id="title">{{ review.metadata.book.title | smartypants | safe }}</h1>
     <table class="book_metadata">
       <tr>
         <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
@@ -97,6 +97,23 @@
     {% endif %}
   </div>
 
+  <nav id="toc">
+    <h3>Table of Contents</h3>
+    <ul class="toc">
+      <li><a href="#title">Metadata</a></li>
+      {% if review.plot %}
+        <li><a href="#plot-summary">Plot summary</a></li>
+      {% endif %}
+      {% if review.text %}
+        <li><a href="#review-text">Review</a></li>
+        {{ review.text | render_toc | safe }}
+      {% endif %}
+    </ul>
+    {% if review.related_books %}
+      <ul class="toc"><li><a href="#related-books">Related books</a></li></ul>
+    {% endif %}
+  </nav>
+
   <article>
     {% if review.plot %}
       <details>
@@ -155,7 +172,7 @@
 
     {% if review.related_books %}
     {% set spine_border = False %}
-    <h2>Related books
+    <h2 id="related-books">Related books
       {% if review.metadata.book.series and review.metadata.book.series_position != "1" %}
       <small class="muted">Books related to the whole series are linked at the first part of the series.</small>
       {% endif %}
