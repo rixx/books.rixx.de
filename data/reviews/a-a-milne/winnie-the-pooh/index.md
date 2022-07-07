@@ -22,20 +22,21 @@ related_books:
 review:
   date_read:
   - 1999-01-01
-  rating: 3
+  - 2022-07-07
+  rating: 4
 ---
 
 This book is, of course, adorable in every way. The dorky bear with his friends in various stages being excitable,
 exuberant, worried, forgetful, depressed, busy, or superior are delightful and a neat way to keep a child entertained.
 
-But clearly the best version of this book is the Latin version by Alexander Lenard (or at home: Lénárd Sándor). It
-follows the patterns and phrases of classical Latin to very comedic effect, and is probably best given to students in or
-past their fifth year of Latin.
+But clearly the best version of this book is the Latin version by Alexander Lenard (or at home: Lénárd Sándor), and
+that's the one with the four-star rating. It follows the patterns and phrases of classical Latin to very comedic effect,
+and is probably best given to students in or past their fifth year of Latin.
 
 It's always nice to be reminded that the nerds have always been out there.
 
 ## Fun Facts
 
 [Apparently](https://www.nytimes.com/1984/11/18/books/winnie-ille-pu-nearly-xxv-years-later.html), Lenard had a
-long-standing correspondence with Robert Grave in Latin – in character for both of them! For more of Robert Graves, see
+long-standing correspondence with Robert Graves in Latin – in character for both of them! For more of Robert Graves, see
 [I, Claudius](https://books.rixx.de/reviews/2020/i-claudius).
