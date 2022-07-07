@@ -174,7 +174,7 @@
     {% endif %}{% endif %}
 
     {% if review.quotes %}
-    <h2>Quotes</h2>
+    <h2 id="quotes">Quotes</h2>
 
       {% if review.quotes|length > 1%}
         {% for language, quotes in review.quotes.items() %}
