@@ -19,10 +19,15 @@
 
         {% if 'class="spoiler' in event.text %}&lt;p&gt; Warning! This review contains spoilers. On the website, they are blurred out, but I cannot do that in an RSS feed, so if you don't want to see them, please read the review on the website. &lt;/p&gt;{% endif %}
 
+        {% if review.plot %}&lt;h2&gt;Plot summary&lt;/h2&gt;&lt;p&gt;I've written a plot summary, which will contain spoilers for the full story. Since I can't hide it in an RSS feed, please read this review on the website if you want to see the summary.&lt;/p&gt; &lt;h2&gt;Review&lt;/h2&gt;{% endif %}
+
         {{ event.text | render_markdown | e }}
 
+        {% if event.metadata.book.quotes %}
+          I've collected some cool quotes from the book! Including them in the feed would be overkill, so please click through if you want to read them.
+        {% endif %}
         {% if event.metadata.book.source %}
-        &lt;p&gt; The source is available &lt;a href=&quot;{{ event.metadata.book.source }}&quot;&gt;here&lt;/a&gt;
+        &lt;p&gt; The book/story is available &lt;a href=&quot;{{ event.metadata.book.source }}&quot;&gt;here&lt;/a&gt;
         {% endif %}
     </content>
     </entry>
