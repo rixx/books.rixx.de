@@ -19,6 +19,7 @@ from unidecode import unidecode
 
 from . import goodreads
 from .data import choose_spine_color
+from .quotes import parse_quote_file
 
 TAG_CACHE = {}
 
@@ -93,6 +94,7 @@ class Review:
             self.metadata = metadata
             self.text = text
             self.plot = ""
+            self.quotes = {}
         else:
             raise Exception(f"A review needs metadata or a path! ({self.path})")
 
@@ -121,6 +123,12 @@ class Review:
                 self.plot = frontmatter.load(self.plot_path).content.strip()
             except Exception as e:
                 raise Exception(f"Error while loading plot from {self.plot_path}!\n{e}")
+        if self.quote_paths:
+            language_lookup = {".txt": "English", ".de.txt": "German", ".la.txt": "Latin"}
+            self.quotes = {
+                language_lookup[qfile.name[6:]]: parse_quote_file(qfile, book=self)
+                for qfile in self.quote_paths
+            }
 
     @cached_property
     def slug(self):
@@ -167,6 +175,10 @@ class Review:
         plot_path = self.path.parent / "plot.md"
         if plot_path.exists():
             return plot_path
+
+    @cached_property
+    def quote_paths(self):
+        return self.path.parent.glob("quotes*.txt")
 
     def entry_type_from_path(self):
         valid_entry_types = ("reviews", "to-read")

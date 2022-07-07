@@ -52,6 +52,7 @@ pre {
   padding: 16px;
   border-radius 6px;
 }
+details summary { cursor: pointer }
 article p:first-child::first-letter,
 article details p:nth-child(2)::first-letter,
 .initial::first-letter,
@@ -121,12 +122,16 @@ h3 {
 }
 #toc ul {
   margin: 0;
+  padding-left: 28px;
+}
+#toc ul ul {
+  padding-left: 24px;
 }
 #toc {
   position: fixed;
-  right: 80px;
+  right: 30px;
   width: 180px;
-  top: 100px;  
+  top: 60px;  
 }
 a {
   font-weight: bold;
@@ -1072,6 +1077,65 @@ h1#year-stats-headline:after {
 a#mastodon-linkback {
   display: none;
 }
+.quote {
+  width: 80%;
+  margin: 50px auto;
+  border: 3px solid #aaa;
+  padding: 10px 30px;
+  position: relative;
+}
+.quote p { margin: 12px 0 6px 0}
+.quote:nth-of-type(2n):before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 10px solid #aaa;
+  border-right: 10px solid transparent;
+  border-top: 10px solid #aaa;
+  border-bottom: 10px solid transparent;
+  right: -20px;
+  top: 6px;
+}
+.quote:nth-of-type(2n):after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 7px solid #fff;
+  border-right: 7px solid transparent;
+  border-top: 7px solid #fff;
+  border-bottom: 7px solid transparent;
+  right: -11px;
+  top: 10px;
+}
+.quote:nth-of-type(2n+1):before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-right: 10px solid #aaa;
+  border-left: 10px solid transparent;
+  border-bottom: 10px solid #aaa;
+  border-top: 10px solid transparent;
+  left: -20px;
+  bottom: 6px;
+}
+.quote:nth-of-type(2n+1):after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-right: 7px solid #fff;
+  border-left: 7px solid transparent;
+  border-bottom: 7px solid #fff;
+  border-top: 7px solid transparent;
+  left: -11px;
+  bottom: 10px;
+}
+.quote p {
+  margin: 10px 0 6px 0;
+}
 
 @media (max-width: 480px) {
   main, main:not(.wide) {
@@ -1114,14 +1178,13 @@ a#mastodon-linkback {
   }
 }
 @media (max-width: 880px) {
-  #sidenav-right {
-    display: none;
-  }
   main {
     margin: 0 8px;
     max-width: 100%;
     min-width: auto;
   }
+}
+@media (max-width: 1300px) {
   #toc {
     position: relative;
     top: auto;

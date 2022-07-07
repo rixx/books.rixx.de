@@ -109,6 +109,9 @@
         {{ review.text | render_toc | safe }}
       {% endif %}
     </ul>
+    {% if review.quotes %}
+      <ul class="toc"><li><a href="#quotes">Quotes</a></li></ul>
+    {% endif %}
     {% if review.related_books %}
       <ul class="toc"><li><a href="#related-books">Related books</a></li></ul>
     {% endif %}
@@ -169,6 +172,26 @@
         {% endif %}
     </article>
     {% endif %}{% endif %}
+
+    {% if review.quotes %}
+    <h2>Quotes</h2>
+
+      {% if review.quotes|length > 1%}
+        {% for language, quotes in review.quotes.items() %}
+          <details><summary>{{language}}</summary>
+          {% for quote in quotes %}
+            <div class="quote">{{ quote.text | render_quotes | safe }}</div>
+          {% endfor %}
+          </details>
+        {% endfor %}
+      {% else %}
+        {% for language, quotes in review.quotes.items() %}
+          {% for quote in quotes %}
+            <div class="quote">{{ quote.text | render_quotes | safe }}</div>
+          {% endfor %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
 
     {% if review.related_books %}
     {% set spine_border = False %}
