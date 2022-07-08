@@ -20,8 +20,13 @@ related_books:
 review:
   date_read:
   - 2018-09-20
-  rating: 3
+  - 2022-07-08
+  rating: 2
 ---
 
 A bit on the nose, but still nice: Sweatheart is a well-written very short story by *Abbey Mei Otis* that is first sweet
 and then chilling in the path the story takes – nothing too special either, just a perfectly fine scifi short.
+
+I'm not sure if the author intends "yay nightly deportations of aliens are fine" to be the moral, or if she wanted to
+show why and how people will come to believe these things are fine. Very mixed feelings – she does the latter way, but
+I'm worried she actually wants to sell the message that peace is more important than both love and morals. Hmmmm.
