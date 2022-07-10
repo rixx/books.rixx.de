@@ -18,6 +18,8 @@ book:
   - fantasy
   - arthur-c-clarke-award
   - arthur-c-clarke-award-nominees
+  - british-fantasy-award
+  - british-fantasy-award-nominees
   title: Perdido Street Station
 plan:
   date_added: '2018-02-19'

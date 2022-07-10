@@ -10,6 +10,8 @@ book:
   spine_color: '#e0522c'
   tags:
   - fantasy
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: Among Others
 plan:
   date_added: '2020-03-10'

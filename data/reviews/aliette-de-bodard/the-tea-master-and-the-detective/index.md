@@ -14,6 +14,8 @@ book:
   spine_color: '#a16f4e'
   tags:
   - scifi
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: The Tea Master and the Detective
 plan:
   date_added: '2018-08-20'

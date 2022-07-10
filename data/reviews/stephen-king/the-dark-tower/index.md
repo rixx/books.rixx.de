@@ -12,6 +12,8 @@ book:
   spine_color: '#c46e40'
   tags:
   - fantasy
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: The Dark Tower
 plan:
   date_added: '2017-07-11'

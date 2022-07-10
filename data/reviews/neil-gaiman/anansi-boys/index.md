@@ -16,6 +16,8 @@ book:
   spine_color: '#e9c78c'
   tags:
   - fantasy
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: Anansi Boys
 plan:
   date_added: '2015-04-08'

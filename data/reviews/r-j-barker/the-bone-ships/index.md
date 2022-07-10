@@ -16,6 +16,8 @@ book:
   spine_color: '#f3efdf'
   tags:
   - fantasy
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: The Bone Ships
 plan:
   date_added: '2019-07-26'

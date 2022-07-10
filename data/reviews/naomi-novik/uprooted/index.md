@@ -15,6 +15,8 @@ book:
   tags:
   - fantasy
   - myths-legends
+  - british-fantasy-award-nominees
+  - british-fantasy-award
   title: Uprooted
 plan:
   date_added: '2018-07-20'

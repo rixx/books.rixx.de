@@ -13,6 +13,7 @@ book:
   tags:
   - scifi
   - ya
+  - british-fantasy-award-nominees
   title: Binti
 plan:
   date_added: '2018-02-18'

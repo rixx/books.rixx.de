@@ -10,6 +10,7 @@ book:
   spine_color: '#c4741d'
   tags:
   - fantasy
+  - british-fantasy-award-nominees
   title: Foundryside
 plan:
   date_added: '2019-01-14'
