@@ -16,6 +16,7 @@ book:
   spine_color: '#da8f2b'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: The Engines of God
 plan:
   date_added: 2020-06-30

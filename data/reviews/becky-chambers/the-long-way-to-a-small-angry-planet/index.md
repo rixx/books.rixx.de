@@ -14,6 +14,7 @@ book:
   spine_color: '#7b4330'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: The Long Way to a Small, Angry Planet
 plan:
   date_added: '2017-11-15'

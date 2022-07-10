@@ -15,6 +15,7 @@ book:
   tags:
   - learning-the-arts
   - scifi
+  - arthur-c-clarke-award-nominees
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:
   date_added: 2020-05-31

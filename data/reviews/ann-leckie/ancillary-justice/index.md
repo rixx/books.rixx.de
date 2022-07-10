@@ -14,6 +14,8 @@ book:
   - five-stars
   - scifi
   - space-monks
+  - arthur-c-clarke-award
+  - arthur-c-clarke-award-nominees
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'

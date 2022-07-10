@@ -17,6 +17,7 @@ book:
   tags:
   - scifi
   - space-monks
+  - arthur-c-clarke-award-nominees
   title: Hyperion
 plan:
   date_added: '2017-02-01'

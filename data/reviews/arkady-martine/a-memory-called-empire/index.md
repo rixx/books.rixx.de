@@ -13,6 +13,7 @@ book:
   tags:
   - language
   - scifi
+  - arthur-c-clarke-award-nominees
   title: A Memory Called Empire
 plan:
   date_added: '2019-06-12'

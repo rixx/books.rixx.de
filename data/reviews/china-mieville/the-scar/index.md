@@ -16,6 +16,7 @@ book:
   spine_color: '#c6ce5a'
   tags:
   - fantasy
+  - arthur-c-clarke-award-nominees
   title: The Scar
 plan:
   date_added: '2018-06-19'

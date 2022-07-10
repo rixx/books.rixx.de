@@ -17,6 +17,8 @@ book:
   tags:
   - scifi
   - space-monks
+  - arthur-c-clarke-award
+  - arthur-c-clarke-award-nominees
   title: The Sparrow
 plan:
   date_added: '2018-03-13'

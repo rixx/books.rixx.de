@@ -16,6 +16,7 @@ book:
   spine_color: '#d3bf7b'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: Parable of the Talents
 plan:
   date_added: '2018-04-09'

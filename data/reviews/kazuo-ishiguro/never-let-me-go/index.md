@@ -14,6 +14,7 @@ book:
   spine_color: '#a88778'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: Never Let Me Go
 plan:
   date_added: '2017-03-07'

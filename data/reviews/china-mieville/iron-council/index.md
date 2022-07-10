@@ -16,6 +16,8 @@ book:
   spine_color: '#893f47'
   tags:
   - fantasy
+  - arthur-c-clarke-award
+  - arthur-c-clarke-award-nominees
   title: Iron Council
 plan:
   date_added: '2018-07-24'

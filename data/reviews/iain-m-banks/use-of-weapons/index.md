@@ -16,6 +16,7 @@ book:
   spine_color: '#72497c'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: Use of Weapons
 plan:
   date_added: '2018-02-14'

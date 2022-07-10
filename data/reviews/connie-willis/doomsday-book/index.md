@@ -18,6 +18,7 @@ book:
   - five-stars
   - scifi
   - time-travel
+  - arthur-c-clarke-award-nominees
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'

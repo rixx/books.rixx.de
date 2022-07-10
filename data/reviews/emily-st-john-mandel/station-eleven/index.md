@@ -14,6 +14,8 @@ book:
   spine_color: '#ccbda0'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
+  - arthur-c-clarke-award
   title: Station Eleven
 plan:
   date_added: '2018-08-27'

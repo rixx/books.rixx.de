@@ -8,6 +8,8 @@ book:
   spine_color: '#bf9a5a'
   tags:
   - scifi
+  - arthur-c-clarke-award
+  - arthur-c-clarke-award-nominees
   title: The Handmaid's Tale
 plan:
   date_added: '2017-11-15'

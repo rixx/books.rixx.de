@@ -14,6 +14,7 @@ book:
   spine_color: '#865c5a'
   tags:
   - scifi
+  - arthur-c-clarke-award-nominees
   title: A Closed and Common Orbit
 plan:
   date_added: '2018-11-19'

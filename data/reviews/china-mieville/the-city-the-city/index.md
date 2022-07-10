@@ -14,6 +14,8 @@ book:
   spine_color: '#6686c1'
   tags:
   - fantasy
+  - arthur-c-clarke-award
+  - arthur-c-clarke-award-nominees
   title: The City & the City
 plan:
   date_added: '2018-09-02'
