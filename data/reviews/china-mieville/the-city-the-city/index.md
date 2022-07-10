@@ -16,6 +16,8 @@ book:
   - fantasy
   - arthur-c-clarke-award
   - arthur-c-clarke-award-nominees
+  - bsfa-award-nominees
+  - bsfa-award
   title: The City & the City
 plan:
   date_added: '2018-09-02'

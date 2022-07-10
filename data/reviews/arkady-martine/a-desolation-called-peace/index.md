@@ -15,6 +15,7 @@ book:
   - language
   - queer
   - scifi
+  - bsfa-award-nominees
   title: A Desolation Called Peace
 plan:
   date_added: 2021-06-04

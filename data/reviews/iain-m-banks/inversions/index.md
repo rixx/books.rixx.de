@@ -16,6 +16,7 @@ book:
   spine_color: '#ccb9a9'
   tags:
   - scifi
+  - bsfa-award-nominees
   title: Inversions
 plan:
   date_added: '2018-07-02'

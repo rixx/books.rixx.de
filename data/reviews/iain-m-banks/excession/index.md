@@ -16,6 +16,8 @@ book:
   spine_color: '#bc973d'
   tags:
   - scifi
+  - bsfa-award-nominees
+  - bsfa-award
   title: Excession
 plan:
   date_added: '2018-04-10'

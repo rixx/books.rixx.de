@@ -14,6 +14,8 @@ book:
   spine_color: '#c1b9b3'
   tags:
   - fantasy
+  - bsfa-award-nominees
+  - bsfa-award
   title: The Shadow of the Torturer
 plan:
   date_added: '2018-02-18'

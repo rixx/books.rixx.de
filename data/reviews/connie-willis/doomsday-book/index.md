@@ -19,6 +19,7 @@ book:
   - scifi
   - time-travel
   - arthur-c-clarke-award-nominees
+  - bsfa-award-nominees
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'

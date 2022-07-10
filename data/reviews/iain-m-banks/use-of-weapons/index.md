@@ -17,6 +17,7 @@ book:
   tags:
   - scifi
   - arthur-c-clarke-award-nominees
+  - bsfa-award-nominees
   title: Use of Weapons
 plan:
   date_added: '2018-02-14'

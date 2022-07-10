@@ -10,6 +10,7 @@ book:
   spine_color: '#376897'
   tags:
   - scifi
+  - bsfa-award-nominees
   title: Neuromancer
 plan:
   date_added: '2017-05-10'

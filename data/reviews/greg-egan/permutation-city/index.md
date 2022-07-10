@@ -16,6 +16,7 @@ book:
   spine_color: '#e5c261'
   tags:
   - scifi
+  - bsfa-award-nominees
   title: Permutation City
 plan:
   date_added: '2018-03-26'

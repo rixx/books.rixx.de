@@ -19,6 +19,7 @@ book:
   - arthur-c-clarke-award-nominees
   - british-fantasy-award-nominees
   - british-fantasy-award
+  - bsfa-award-nominees
   title: The Scar
 plan:
   date_added: '2018-06-19'

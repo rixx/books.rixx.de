@@ -15,6 +15,10 @@ book:
   series_position: '7'
   spine_color: '#7d324e'
   title: Pyramids
+  tags:
+  - fantasy
+  - bsfa-award-nominees
+  - bsfa-award
 plan:
   date_added: '2015-04-08'
 related_books:

@@ -8,6 +8,7 @@ book:
   spine_color: '#afac9c'
   tags:
   - scifi
+  - bsfa-award-nominees
   title: Provenance
 plan:
   date_added: '2018-08-23'

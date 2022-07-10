@@ -17,6 +17,7 @@ book:
   tags:
   - five-stars
   - scifi
+  - bsfa-award-nominees
   title: The Player of Games
 plan:
   date_added: '2017-05-29'

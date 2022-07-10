@@ -15,6 +15,8 @@ book:
   tags:
   - five-stars
   - scifi
+  - bsfa-award-nominees
+  - bsfa-award
   title: Ancillary Sword
 plan:
   date_added: '2018-03-13'
