@@ -17,6 +17,8 @@ book:
   tags:
   - five-stars
   - urban-fantasy
+  - aurealis-award-nominee
+  - aurealis-award
   title: The Rook
 plan:
   date_added: '2017-05-23'

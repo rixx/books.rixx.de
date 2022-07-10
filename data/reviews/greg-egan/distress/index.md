@@ -13,6 +13,8 @@ book:
   spine_color: '#a0694e'
   tags:
   - scifi
+  - aurealis-award-nominee
+  - aurealis-award
   title: Distress
 plan:
   date_added: '2018-04-24'

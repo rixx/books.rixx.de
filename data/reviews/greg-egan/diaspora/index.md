@@ -14,6 +14,7 @@ book:
   spine_color: '#9bacaa'
   tags:
   - scifi
+  - aurealis-award-nominee
   title: Diaspora
 plan:
   date_added: '2018-07-20'

@@ -15,6 +15,8 @@ book:
   tags:
   - fantasy
   - ya
+  - aurealis-award
+  - aurealis-award-nominee
   title: Abhorsen
 plan:
   date_added: '2017-12-24'

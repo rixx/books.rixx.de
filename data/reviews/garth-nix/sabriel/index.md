@@ -16,6 +16,8 @@ book:
   - fantasy
   - learning-the-arts
   - ya
+  - aurealis-award
+  - aurealis-award-nominee
   title: Sabriel
 plan:
   date_added: '2016-05-08'

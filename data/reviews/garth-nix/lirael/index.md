@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - ya
+  - aurealis-award-nominee
   title: Lirael
 plan:
   date_added: '2017-05-16'

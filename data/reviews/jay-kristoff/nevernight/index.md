@@ -17,6 +17,8 @@ book:
   tags:
   - fantasy
   - learning-the-arts
+  - aurealis-award-nominee
+  - aurealis-award
   title: Nevernight
 plan:
   date_added: '2018-10-16'

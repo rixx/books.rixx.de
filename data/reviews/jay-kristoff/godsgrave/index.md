@@ -16,6 +16,8 @@ book:
   spine_color: '#321c25'
   tags:
   - fantasy
+  - aurealis-award-nominee
+  - aurealis-award
   title: Godsgrave
 plan:
   date_added: '2019-01-06'

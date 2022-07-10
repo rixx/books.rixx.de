@@ -16,6 +16,7 @@ book:
   - fantasy
   - german
   - ya
+  - aurealis-award-nominee
   title: Der Ruf des Reihers
 plan:
   date_added: '2015-07-03'
