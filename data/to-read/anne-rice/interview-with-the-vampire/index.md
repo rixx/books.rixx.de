@@ -22,3 +22,6 @@ book:
 plan:
   date_added: '2018-10-12'
 ---
+
+consider linking https://www.latimes.com/archives/la-xpm-1997-dec-25-mn-2255-story.html and https://www.esquire.com/entertainment/movies/a36386485/tom-cruise-interview-with-a-vampire-anne-rice-sabotage/
+and her war on fanfic

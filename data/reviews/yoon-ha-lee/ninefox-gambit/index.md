@@ -37,3 +37,5 @@ the worldbuilding work they should have done on their end, and instead substitut
 logic in that world, making decisions and outcomes feel random. I like being dropped in a weird and unfamiliar world,
 having to figure things out on my own – but I get grumpy if it turns out that there's nothing to figure out, because the
 author makes up the rules as the action goes along.
+
+Reddit: "Like offensive Feng Shui but with space ships instead of home decor." – yes.

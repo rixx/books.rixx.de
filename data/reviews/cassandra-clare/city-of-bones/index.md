@@ -33,5 +33,10 @@ review:
   rating: 2
 ---
 
-Okay YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires,
-werewolves, fay, the works. Short, and enjoyable just like fast food is occasionally enjoyable.
+YA fantasy. Clary loses her mother, finds her father Valentine and meets her brother Jace. Vampires, werewolves, fay,
+the works. Short, and enjoyable just like fast food is occasionally enjoyable. Twilight level with less thought and more
+action.
+
+Not surprised though that the author used to be a bullying profiteer in the early Harry Potter fanfiction days. And
+would you believe it, she had a fanfic back then called *Mortal Instruments* about an incestous relationship between Ron
+and Ginny. Well, here's to hoping that this series won't contain sibling relationship dram– oh wait.

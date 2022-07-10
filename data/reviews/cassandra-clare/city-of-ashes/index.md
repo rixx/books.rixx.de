@@ -28,8 +28,8 @@ related_books:
 review:
   date_read:
   - 2016-11-20
-  rating: 2
+  rating: 1
 ---
 
-Works as a second volume. Clary is still as enjoyable as a teenager can be and gains powers. Nobody really dies, but
-that's ok. The evil father Valentine is a bit generic in his evilness.
+Works as a second volume. Clary is still an annoying teenager and gains powers. Nobody really dies, but that's ok. The
+evil father Valentine is very generic in his evilness.

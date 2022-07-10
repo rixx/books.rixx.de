@@ -28,7 +28,7 @@ related_books:
 review:
   date_read:
   - 2016-11-22
-  rating: 2
+  rating: 1
 ---
 
-Very generic, predictable YA at this point.
+Very generic, predictable YA. Yawn.
