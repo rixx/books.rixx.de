@@ -16,6 +16,8 @@ book:
   spine_color: '#c2ce83'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Three-Body Problem
 plan:
   date_added: '2018-02-13'

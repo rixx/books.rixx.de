@@ -7,6 +7,9 @@ book:
   publication_year: '1943'
   spine_color: '#074f90'
   title: The Little Prince
+  tags:
+  - hugo-award-nominees
+  - hugo-award
 plan:
   date_added: '2015-04-09'
 related_books:

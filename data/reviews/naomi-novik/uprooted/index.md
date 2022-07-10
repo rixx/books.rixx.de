@@ -17,6 +17,7 @@ book:
   - myths-legends
   - british-fantasy-award-nominees
   - british-fantasy-award
+  - hugo-award-nominees
   title: Uprooted
 plan:
   date_added: '2018-07-20'

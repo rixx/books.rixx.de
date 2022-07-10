@@ -14,6 +14,8 @@ book:
   spine_color: '#b13d50'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Redshirts
 plan:
   date_added: '2015-04-08'

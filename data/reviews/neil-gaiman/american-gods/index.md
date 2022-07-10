@@ -15,6 +15,8 @@ book:
   - five-stars
   - myths-legends
   - bsfa-award-nominees
+  - hugo-award-nominees
+  - hugo-award
   title: American Gods
 plan:
   date_added: '2015-04-08'

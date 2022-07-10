@@ -17,6 +17,7 @@ book:
   - portal
   - ya
   - british-fantasy-award-nominees
+  - hugo-award-nominees
   title: The Ten Thousand Doors of January
 plan:
   date_added: 2021-06-07

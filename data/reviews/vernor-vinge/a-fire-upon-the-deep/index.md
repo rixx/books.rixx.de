@@ -16,6 +16,8 @@ book:
   spine_color: '#898f97'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: A Fire Upon the Deep
 plan:
   date_added: '2016-05-08'

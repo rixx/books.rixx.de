@@ -16,6 +16,7 @@ book:
   spine_color: '#516793'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: Come Tumbling Down
 plan:
   date_added: '2020-01-26'

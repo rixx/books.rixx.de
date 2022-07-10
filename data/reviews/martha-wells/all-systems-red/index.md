@@ -13,6 +13,8 @@ book:
   spine_color: '#4f5b55'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: All Systems Red
 plan:
   date_added: '2018-05-31'

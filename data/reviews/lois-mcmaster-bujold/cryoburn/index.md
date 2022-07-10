@@ -14,6 +14,7 @@ book:
   spine_color: '#a98661'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Cryoburn
 plan:
   date_added: 2020-08-18

@@ -10,6 +10,7 @@ book:
   spine_color: '#378181'
   tags:
   - urban-fantasy
+  - hugo-award-nominees
   title: The City Born Great
 plan:
   date_added: '2018-12-17'

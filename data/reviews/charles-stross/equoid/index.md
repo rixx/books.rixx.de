@@ -14,6 +14,8 @@ book:
   spine_color: '#4f4747'
   tags:
   - urban-fantasy
+  - hugo-award-nominees
+  - hugo-award
   title: Equoid
 plan:
   date_added: '2015-07-02'

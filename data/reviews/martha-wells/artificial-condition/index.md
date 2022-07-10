@@ -16,6 +16,8 @@ book:
   spine_color: '#c8935c'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Artificial Condition
 plan:
   date_added: '2018-09-02'

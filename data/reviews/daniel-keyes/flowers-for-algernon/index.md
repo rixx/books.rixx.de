@@ -13,6 +13,10 @@ book:
   publication_year: '1966'
   spine_color: '#de271f'
   title: Flowers for Algernon
+  tags:
+  - hugo-award-nominees
+  - hugo-award
+  - scifi
 plan:
   date_added: '2017-11-15'
 related_books:

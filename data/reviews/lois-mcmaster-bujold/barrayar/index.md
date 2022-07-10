@@ -17,6 +17,8 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Barrayar
 plan:
   date_added: '2018-08-16'

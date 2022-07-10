@@ -17,6 +17,7 @@ book:
   - scifi
   - bsfa-award-nominees
   - bsfa-award
+  - hugo-award-nominees
   title: Ancillary Sword
 plan:
   date_added: '2018-03-13'

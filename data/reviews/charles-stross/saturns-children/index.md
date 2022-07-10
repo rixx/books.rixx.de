@@ -16,6 +16,7 @@ book:
   spine_color: '#4c3f5d'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Saturn's Children
 plan:
   date_added: '2015-04-09'

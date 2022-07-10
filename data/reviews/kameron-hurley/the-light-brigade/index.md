@@ -16,6 +16,7 @@ book:
   - scifi
   - time-travel
   - arthur-c-clarke-award-nominees
+  - hugo-award-nominees
   title: The Light Brigade
 plan:
   date_added: '2019-07-15'

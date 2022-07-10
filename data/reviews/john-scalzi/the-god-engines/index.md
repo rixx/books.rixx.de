@@ -12,6 +12,7 @@ book:
   - fantasy
   - scifi
   - space-monks
+  - hugo-award-nominees
   title: The God Engines
 plan:
   date_added: 2020-06-22

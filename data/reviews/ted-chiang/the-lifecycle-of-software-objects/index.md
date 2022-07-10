@@ -13,6 +13,10 @@ book:
   publication_year: '2010'
   spine_color: '#ccc5ba'
   title: The Lifecycle of Software Objects
+  tags:
+  - scifi
+  - hugo-award-nominees
+  - hugo-award
 plan:
   date_added: '2018-10-31'
 related_books:

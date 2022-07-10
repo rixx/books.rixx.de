@@ -16,6 +16,7 @@ book:
   spine_color: '#e62c2a'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Blindsight
 plan:
   date_added: '2015-04-09'

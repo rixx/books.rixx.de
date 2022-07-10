@@ -14,6 +14,7 @@ book:
   spine_color: '#79756b'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: This Census-Taker
 plan:
   date_added: 2021-02-16

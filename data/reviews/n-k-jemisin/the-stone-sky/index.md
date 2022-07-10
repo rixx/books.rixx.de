@@ -13,6 +13,8 @@ book:
   tags:
   - fantasy
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Stone Sky
 plan:
   date_added: '2018-10-28'

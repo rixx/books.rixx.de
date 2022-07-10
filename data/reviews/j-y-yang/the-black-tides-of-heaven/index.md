@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - queer
+  - hugo-award-nominees
   title: The Black Tides of Heaven
 plan:
   date_added: '2019-03-17'

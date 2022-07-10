@@ -11,6 +11,8 @@ book:
   spine_color: '#d6a67b'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Clarkesworld Magazine, Issue 132
 plan:
   date_added: '2018-08-09'

@@ -17,6 +17,8 @@ book:
   tags:
   - learning-the-arts
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Ender’s Game
 plan:
   date_added: '2015-04-09'

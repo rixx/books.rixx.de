@@ -16,6 +16,8 @@ book:
   spine_color: '#a9c8da'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Forever War
 plan:
   date_added: '2016-11-12'

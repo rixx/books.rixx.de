@@ -12,6 +12,8 @@ book:
   - fantasy
   - british-fantasy-award-nominees
   - british-fantasy-award
+  - hugo-award-nominees
+  - hugo-award
   title: Among Others
 plan:
   date_added: '2020-03-10'

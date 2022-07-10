@@ -9,6 +9,7 @@ book:
   spine_color: '#cec17c'
   tags:
   - scifi
+  - hugo-award-nominees
   title: I Sexually Identify As An Attack Helicopter
 plan:
   date_added: '2020-01-11'

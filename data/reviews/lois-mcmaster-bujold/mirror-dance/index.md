@@ -16,6 +16,8 @@ book:
   spine_color: '#7d5854'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Mirror Dance
 plan:
   date_added: '2019-03-12'

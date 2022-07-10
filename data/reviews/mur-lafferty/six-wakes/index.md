@@ -14,6 +14,7 @@ book:
   spine_color: '#50556b'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Six Wakes
 plan:
   date_added: '2018-08-01'

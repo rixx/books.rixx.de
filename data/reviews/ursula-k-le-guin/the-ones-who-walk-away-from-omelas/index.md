@@ -14,6 +14,8 @@ book:
   spine_color: '#bc7d6a'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Ones Who Walk Away from Omelas
 plan:
   date_added: '2018-02-01'

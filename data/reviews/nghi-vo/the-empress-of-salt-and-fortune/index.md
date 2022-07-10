@@ -13,6 +13,8 @@ book:
   tags:
   - fantasy
   - queer
+  - hugo-award-nominees
+  - hugo-award
   title: The Empress of Salt and Fortune
 plan:
   date_added: 2021-02-27

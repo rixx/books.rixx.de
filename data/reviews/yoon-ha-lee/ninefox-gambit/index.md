@@ -12,6 +12,7 @@ book:
   spine_color: '#2f7d9b'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Ninefox Gambit
 plan:
   date_added: '2018-08-22'

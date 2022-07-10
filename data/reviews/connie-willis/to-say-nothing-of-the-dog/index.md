@@ -17,6 +17,8 @@ book:
   tags:
   - scifi
   - time-travel
+  - hugo-award-nominees
+  - hugo-award
   title: To Say Nothing of the Dog
 plan:
   date_added: '2019-11-20'

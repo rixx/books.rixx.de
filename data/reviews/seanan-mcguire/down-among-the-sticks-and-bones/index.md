@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - five-stars
+  - hugo-award-nominees
   title: Down Among the Sticks and Bones
 plan:
   date_added: '2018-10-06'

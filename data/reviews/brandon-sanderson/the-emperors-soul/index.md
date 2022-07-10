@@ -15,6 +15,8 @@ book:
   tags:
   - fantasy
   - five-stars
+  - hugo-award-nominees
+  - hugo-award
   title: The Emperor's Soul
 plan:
   date_added: '2017-11-28'

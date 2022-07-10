@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - learning-the-arts
+  - hugo-award-nominees
   title: The Goblin Emperor
 plan:
   date_added: '2018-08-28'

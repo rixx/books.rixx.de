@@ -16,6 +16,8 @@ book:
   spine_color: '#8d6a57'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Vor Game
 plan:
   date_added: '2018-07-11'

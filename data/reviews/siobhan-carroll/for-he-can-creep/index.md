@@ -10,6 +10,9 @@ book:
   source: https://www.tor.com/2019/07/10/for-he-can-creep-siobhan-carroll/
   spine_color: '#c5a98a'
   title: For He Can Creep
+  tags:
+  - fantasy
+  - hugo-award-nominees
 plan:
   date_added: '2020-02-12'
 related_books:

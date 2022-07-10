@@ -15,6 +15,7 @@ book:
   - german
   - kids
   - portal
+  - hugo-award-nominees
   title: The Lion, the Witch and the Wardrobe
 plan:
   date_added: '2015-04-08'

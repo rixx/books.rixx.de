@@ -19,6 +19,8 @@ book:
   - space-monks
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
+  - hugo-award-nominees
+  - hugo-award
   title: Hyperion
 plan:
   date_added: '2017-02-01'

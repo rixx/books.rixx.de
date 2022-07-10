@@ -19,6 +19,7 @@ book:
   - german
   - ya
   - time-travel
+  - hugo-award-nominees
   title: Harry Potter and the Prisoner of Azkaban
 plan:
   date_added: '2015-04-09'

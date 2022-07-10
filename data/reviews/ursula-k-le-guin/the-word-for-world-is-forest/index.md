@@ -12,6 +12,8 @@ book:
   spine_color: '#57838a'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Word for World is Forest
 plan:
   date_added: '2018-02-01'

@@ -18,6 +18,8 @@ book:
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
   - bsfa-award
+  - hugo-award-nominees
+  - hugo-award
   title: The City & the City
 plan:
   date_added: '2018-09-02'

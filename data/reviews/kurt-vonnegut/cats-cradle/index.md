@@ -14,6 +14,7 @@ book:
   spine_color: '#3c4675'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Cat's Cradle
 plan:
   date_added: '2018-03-13'

@@ -17,6 +17,7 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
   title: Ancillary Mercy
 plan:
   date_added: '2018-04-14'

@@ -14,6 +14,7 @@ book:
   spine_color: '#d9ae7f'
   tags:
   - scifi
+  - hugo-award-nominees
   title: The Lathe of Heaven
 plan:
   date_added: '2018-02-01'

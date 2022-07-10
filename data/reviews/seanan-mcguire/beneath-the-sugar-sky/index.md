@@ -16,6 +16,7 @@ book:
   spine_color: '#369bc1'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: Beneath the Sugar Sky
 plan:
   date_added: '2019-01-05'

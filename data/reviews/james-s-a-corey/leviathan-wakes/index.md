@@ -17,6 +17,7 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
   title: Leviathan Wakes
 plan:
   date_added: '2017-03-31'

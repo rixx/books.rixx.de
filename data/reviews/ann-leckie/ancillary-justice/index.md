@@ -18,6 +18,8 @@ book:
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
   - bsfa-award
+  - hugo-award-nominees
+  - hugo-award
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'

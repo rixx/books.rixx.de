@@ -15,6 +15,7 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
   title: Memory
 plan:
   date_added: '2019-03-17'

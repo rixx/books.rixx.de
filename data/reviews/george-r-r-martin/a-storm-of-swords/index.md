@@ -16,6 +16,7 @@ book:
   spine_color: '#a08e59'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: A Storm of Swords
 plan:
   date_added: '2016-05-18'

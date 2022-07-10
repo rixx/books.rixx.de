@@ -9,6 +9,8 @@ book:
   tags:
   - fanfic
   - mystery
+  - hugo-award-nominees
+  - hugo-award
   title: A Study in Emerald
 plan:
   date_added: '2017-11-28'

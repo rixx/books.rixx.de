@@ -16,6 +16,7 @@ book:
   spine_color: '#ba9e3f'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: The Hundred Thousand Kingdoms
 plan:
   date_added: '2019-02-13'

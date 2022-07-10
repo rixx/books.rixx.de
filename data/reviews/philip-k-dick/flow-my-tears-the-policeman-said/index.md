@@ -11,6 +11,7 @@ book:
   tags:
   - parallel-worlds
   - scifi
+  - hugo-award-nominees
   title: Flow My Tears, the Policeman Said
 plan:
   date_added: '2016-12-08'

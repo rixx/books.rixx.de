@@ -13,6 +13,7 @@ book:
   tags:
   - fantasy
   - romance
+  - hugo-award-nominees
   title: The Curse of Chalion
 plan:
   date_added: 2021-02-26

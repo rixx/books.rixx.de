@@ -15,6 +15,7 @@ book:
   tags:
   - historical-fiction
   - scifi
+  - hugo-award-nominees
   title: Slaughterhouse-Five
 plan:
   date_added: '2015-04-08'

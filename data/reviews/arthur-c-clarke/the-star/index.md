@@ -9,6 +9,8 @@ book:
   tags:
   - scifi
   - space-monks
+  - hugo-award-nominees
+  - hugo-award
   title: The Star
 plan:
   date_added: '2018-03-13'

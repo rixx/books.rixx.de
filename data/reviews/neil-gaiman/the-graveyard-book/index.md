@@ -15,6 +15,8 @@ book:
   tags:
   - fantasy
   - learning-the-arts
+  - hugo-award-nominees
+  - hugo-award
   title: The Graveyard Book
 plan:
   date_added: '2015-04-08'

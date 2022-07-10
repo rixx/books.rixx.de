@@ -14,6 +14,7 @@ book:
   spine_color: '#e07b31'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Winterfair Gifts
 plan:
   date_added: 2020-08-18

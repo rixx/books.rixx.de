@@ -14,6 +14,7 @@ book:
   spine_color: '#a52928'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: The Wild Girls
 plan:
   date_added: '2018-02-01'

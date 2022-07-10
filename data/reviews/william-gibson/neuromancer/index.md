@@ -11,6 +11,8 @@ book:
   tags:
   - scifi
   - bsfa-award-nominees
+  - hugo-award-nominees
+  - hugo-award
   title: Neuromancer
 plan:
   date_added: '2017-05-10'

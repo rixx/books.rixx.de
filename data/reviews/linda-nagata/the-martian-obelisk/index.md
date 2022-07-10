@@ -10,6 +10,7 @@ book:
   spine_color: '#dd7c4b'
   tags:
   - scifi
+  - hugo-award-nominees
   title: The Martian Obelisk
 plan:
   date_added: '2018-08-02'

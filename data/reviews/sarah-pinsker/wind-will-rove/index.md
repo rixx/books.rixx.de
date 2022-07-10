@@ -8,6 +8,9 @@ book:
   source: http://sarahpinsker.com/wind_will_rove/
   spine_color: '#e9f1e5'
   title: Wind Will Rove
+  tags:
+  - scifi
+  - hugo-award-nominees
 plan:
   date_added: '2018-02-24'
 related_books:

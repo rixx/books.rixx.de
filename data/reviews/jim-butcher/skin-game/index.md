@@ -14,6 +14,7 @@ book:
   spine_color: '#b45e30'
   tags:
   - urban-fantasy
+  - hugo-award-nominees
   title: Skin Game
 plan:
   date_added: '2015-04-13'

@@ -12,6 +12,8 @@ book:
   spine_color: '#858a48'
   tags:
   - urban-fantasy
+  - hugo-award-nominees
+  - hugo-award
   title: The Concrete Jungle
 plan:
   date_added: '2015-07-02'

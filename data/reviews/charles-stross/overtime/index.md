@@ -13,6 +13,7 @@ book:
   tags:
   - christmas
   - urban-fantasy
+  - hugo-award-nominees
   title: Overtime
 plan:
   date_added: '2015-07-02'

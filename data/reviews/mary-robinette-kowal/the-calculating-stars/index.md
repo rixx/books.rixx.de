@@ -10,6 +10,8 @@ book:
   spine_color: '#71afcc'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Calculating Stars
 plan:
   date_added: '2018-07-25'

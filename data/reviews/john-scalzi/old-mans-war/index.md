@@ -16,6 +16,7 @@ book:
   spine_color: '#deaa2a'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Old Man's War
 plan:
   date_added: '2015-04-08'

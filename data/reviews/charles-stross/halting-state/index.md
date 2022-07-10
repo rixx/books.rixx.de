@@ -16,6 +16,7 @@ book:
   spine_color: '#aeb695'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Halting State
 plan:
   date_added: '2019-07-19'

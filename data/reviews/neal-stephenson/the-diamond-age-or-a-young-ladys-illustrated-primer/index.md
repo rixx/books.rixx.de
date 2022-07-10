@@ -16,6 +16,8 @@ book:
   - learning-the-arts
   - scifi
   - arthur-c-clarke-award-nominees
+  - hugo-award-nominees
+  - hugo-award
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:
   date_added: 2020-05-31

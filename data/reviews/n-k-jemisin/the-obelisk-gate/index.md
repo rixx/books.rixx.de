@@ -14,6 +14,8 @@ book:
   - fantasy
   - five-stars
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Obelisk Gate
 plan:
   date_added: '2018-09-10'

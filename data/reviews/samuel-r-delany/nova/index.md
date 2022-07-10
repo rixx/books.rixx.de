@@ -14,6 +14,7 @@ book:
   spine_color: '#946053'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Nova
 plan:
   date_added: '2018-09-29'

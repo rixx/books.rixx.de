@@ -8,6 +8,8 @@ book:
   spine_color: '#0bb89f'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Bloodchild
 plan:
   date_added: '2019-01-08'

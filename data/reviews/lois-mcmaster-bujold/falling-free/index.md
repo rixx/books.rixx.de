@@ -15,6 +15,7 @@ book:
   spine_color: '#6a5b54'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Falling Free
 plan:
   date_added: '2018-03-10'

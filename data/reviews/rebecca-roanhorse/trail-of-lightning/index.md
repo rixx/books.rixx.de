@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - urban-fantasy
+  - hugo-award-nominees
   title: Trail of Lightning
 plan:
   date_added: 2021-07-03

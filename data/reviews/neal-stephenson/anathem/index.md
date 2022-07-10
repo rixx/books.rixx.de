@@ -19,6 +19,7 @@ book:
   - space-monks
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
+  - hugo-award-nominees
   title: Anathem
 plan:
   date_added: '2015-04-09'

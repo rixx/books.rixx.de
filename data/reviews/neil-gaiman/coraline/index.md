@@ -18,6 +18,8 @@ book:
   - german
   - kids
   - portal
+  - hugo-award-nominees
+  - hugo-award
   title: Coraline
 plan:
   date_added: '2015-04-08'

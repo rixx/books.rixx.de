@@ -17,6 +17,8 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Dispossessed
 plan:
   date_added: '2017-11-21'

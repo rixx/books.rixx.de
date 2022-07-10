@@ -15,6 +15,8 @@ book:
   tags:
   - historical-fiction
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Man in the High Castle
 plan:
   date_added: '2016-12-08'

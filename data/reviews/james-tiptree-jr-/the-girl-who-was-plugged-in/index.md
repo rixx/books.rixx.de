@@ -10,6 +10,8 @@ book:
   spine_color: '#b46b4d'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Girl Who Was Plugged In
 plan:
   date_added: 2021-02-17

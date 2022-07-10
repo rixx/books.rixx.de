@@ -15,6 +15,8 @@ book:
   tags:
   - five-stars
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Mountains of Mourning
 plan:
   date_added: '2018-11-23'

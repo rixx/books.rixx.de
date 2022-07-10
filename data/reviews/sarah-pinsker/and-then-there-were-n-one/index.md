@@ -9,6 +9,7 @@ book:
   spine_color: '#598f8c'
   tags:
   - scifi
+  - hugo-award-nominees
   title: And Then There Were (N-One)
 plan:
   date_added: '2018-02-01'

@@ -15,6 +15,8 @@ book:
   - five-stars
   - learning-the-arts
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: The Fifth Season
 plan:
   date_added: '2018-03-19'

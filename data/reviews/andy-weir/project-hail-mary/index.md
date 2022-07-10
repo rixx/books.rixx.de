@@ -15,6 +15,7 @@ book:
   tags:
   - alien-aliens
   - scifi
+  - hugo-award-nominees
   title: Project Hail Mary
 plan:
   date_added: 2021-11-25

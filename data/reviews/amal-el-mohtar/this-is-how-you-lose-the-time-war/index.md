@@ -10,6 +10,8 @@ book:
   - five-stars
   - time-travel
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: This Is How You Lose the Time War
 plan:
   date_added: '2019-09-21'

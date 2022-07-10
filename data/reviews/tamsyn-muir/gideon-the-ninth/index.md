@@ -16,6 +16,7 @@ book:
   spine_color: '#6c635e'
   tags:
   - fantasy
+  - hugo-award-nominees
   title: Gideon the Ninth
 plan:
   date_added: '2020-02-11'

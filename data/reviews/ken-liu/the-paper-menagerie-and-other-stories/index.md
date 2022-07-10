@@ -10,6 +10,10 @@ book:
   publication_year: '2016'
   spine_color: '#9b725f'
   title: The Paper Menagerie and Other Stories
+  tags:
+  - scifi
+  - hugo-award-nominees
+  - hugo-award
 plan:
   date_added: '2018-03-13'
 related_books:

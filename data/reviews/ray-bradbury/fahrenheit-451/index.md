@@ -14,6 +14,8 @@ book:
   spine_color: '#e9bd2c'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Fahrenheit 451
 plan:
   date_added: '2015-04-08'

@@ -16,6 +16,7 @@ book:
   - scifi
   - british-fantasy-award-nominees
   - british-fantasy-award
+  - hugo-award-nominees
   title: The Tea Master and the Detective
 plan:
   date_added: '2018-08-20'

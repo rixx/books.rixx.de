@@ -15,6 +15,7 @@ book:
   tags:
   - scifi
   - ya
+  - hugo-award-nominees
   title: Have Space Suit—Will Travel
 plan:
   date_added: 2020-06-02

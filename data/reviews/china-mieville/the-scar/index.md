@@ -20,6 +20,7 @@ book:
   - british-fantasy-award-nominees
   - british-fantasy-award
   - bsfa-award-nominees
+  - hugo-award-nominees
   title: The Scar
 plan:
   date_added: '2018-06-19'

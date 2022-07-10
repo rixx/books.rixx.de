@@ -16,6 +16,7 @@ book:
   spine_color: '#a26964'
   tags:
   - scifi
+  - hugo-award-nominees
   title: A Civil Campaign
 plan:
   date_added: 2020-08-16

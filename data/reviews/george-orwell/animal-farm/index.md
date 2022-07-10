@@ -13,6 +13,9 @@ book:
   publication_year: '1945'
   spine_color: '#846c64'
   title: Animal Farm
+  tags:
+  - hugo-award-nominees
+  - hugo-award
 plan:
   date_added: '2015-04-08'
 related_books:

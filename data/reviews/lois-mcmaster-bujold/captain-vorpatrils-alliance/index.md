@@ -17,6 +17,7 @@ book:
   tags:
   - romance
   - scifi
+  - hugo-award-nominees
   title: Captain Vorpatril's Alliance
 plan:
   date_added: 2020-08-18

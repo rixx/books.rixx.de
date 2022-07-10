@@ -14,6 +14,7 @@ book:
   spine_color: '#39779a'
   tags:
   - scifi
+  - hugo-award-nominees
   title: Record of a Spaceborn Few
 plan:
   date_added: '2019-03-07'

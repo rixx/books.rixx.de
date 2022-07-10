@@ -14,6 +14,8 @@ book:
   spine_color: '#644b7b'
   tags:
   - scifi
+  - hugo-award-nominees
+  - hugo-award
   title: Rainbows End
 plan:
   date_added: '2018-02-28'

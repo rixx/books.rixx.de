@@ -15,6 +15,8 @@ book:
   tags:
   - scifi
   - space-monks
+  - hugo-award-nominees
+  - hugo-award
   title: Lord of Light
 plan:
   date_added: '2018-02-19'

@@ -9,6 +9,7 @@ book:
   tags:
   - scifi
   - bsfa-award-nominees
+  - hugo-award-nominees
   title: Provenance
 plan:
   date_added: '2018-08-23'
