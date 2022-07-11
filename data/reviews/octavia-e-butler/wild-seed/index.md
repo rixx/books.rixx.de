@@ -14,6 +14,7 @@ book:
   spine_color: '#877e57'
   tags:
   - scifi
+  - otherwise-award-nominees
   title: Wild Seed
 plan:
   date_added: '2018-05-31'

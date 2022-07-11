@@ -16,6 +16,7 @@ book:
   spine_color: '#696b71'
   tags:
   - fantasy
+  - otherwise-award-nominees
   title: Range of Ghosts
 plan:
   date_added: '2019-03-17'

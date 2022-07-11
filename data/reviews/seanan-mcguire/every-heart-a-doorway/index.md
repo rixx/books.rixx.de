@@ -19,6 +19,7 @@ book:
   - portal
   - hugo-award-nominees
   - hugo-award
+  - otherwise-award-nominees
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'

@@ -17,6 +17,7 @@ book:
   tags:
   - scifi
   - arthur-c-clarke-award-nominees
+  - otherwise-award-nominees
   title: Parable of the Talents
 plan:
   date_added: '2018-04-09'

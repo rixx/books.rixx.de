@@ -14,6 +14,7 @@ book:
   spine_color: '#3a4f57'
   tags:
   - scifi
+  - otherwise-award-nominees
   title: An Unkindness of Ghosts
 plan:
   date_added: '2017-12-02'

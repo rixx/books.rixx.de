@@ -20,6 +20,7 @@ book:
   - bsfa-award
   - hugo-award-nominees
   - hugo-award
+  - otherwise-award-nominees
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'

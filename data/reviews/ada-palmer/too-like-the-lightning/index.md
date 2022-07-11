@@ -19,6 +19,7 @@ book:
   - scifi
   - space-monks
   - hugo-award-nominees
+  - otherwise-award-nominees
   title: Too Like the Lightning
 plan:
   date_added: '2018-02-19'

@@ -10,6 +10,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - otherwise-award-nominees
   title: I Sexually Identify As An Attack Helicopter
 plan:
   date_added: '2020-01-11'

@@ -16,6 +16,7 @@ book:
   spine_color: '#5a6150'
   tags:
   - fantasy
+  - otherwise-award-nominees
   title: A Fisherman of the Inland Sea
 plan:
   date_added: '2018-10-02'

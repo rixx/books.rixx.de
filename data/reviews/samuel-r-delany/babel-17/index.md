@@ -15,6 +15,7 @@ book:
   - language
   - scifi
   - hugo-award-nominees
+  - otherwise-award-nominees
   title: Babel-17
 plan:
   date_added: '2018-02-18'

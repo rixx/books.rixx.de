@@ -15,6 +15,7 @@ book:
   tags:
   - fantasy
   - romance
+  - otherwise-award-nominees
   title: A Brother's Price
 plan:
   date_added: '2018-09-10'

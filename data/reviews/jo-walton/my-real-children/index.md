@@ -13,6 +13,8 @@ book:
   - parallel-worlds
   - queer
   - scifi
+  - otherwise-award-nominees
+  - otherwise-award
   title: My Real Children
 plan:
   date_added: '2019-09-28'

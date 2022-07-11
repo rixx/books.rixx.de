@@ -21,6 +21,8 @@ book:
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
   - bsfa-award
+  - otherwise-award-nominees
+  - otherwise-award
   title: The Sparrow
 plan:
   date_added: '2018-03-13'
