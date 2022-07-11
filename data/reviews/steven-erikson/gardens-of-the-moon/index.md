@@ -12,6 +12,7 @@ book:
   spine_color: '#8e423a'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: Gardens of the Moon
 plan:
   date_added: '2018-09-03'

@@ -10,6 +10,7 @@ book:
   spine_color: '#947f79'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: The Innkeeper's Song
 plan:
   date_added: '2018-10-05'

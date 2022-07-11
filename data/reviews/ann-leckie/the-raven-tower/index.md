@@ -10,6 +10,7 @@ book:
   spine_color: '#695432'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: The Raven Tower
 plan:
   date_added: '2019-03-17'

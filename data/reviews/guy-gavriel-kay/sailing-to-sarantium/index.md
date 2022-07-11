@@ -13,6 +13,7 @@ book:
   tags:
   - fantasy
   - historical-fiction
+  - world-fantasy-award-nominees
   title: Sailing to Sarantium
 plan:
   date_added: 2021-02-16

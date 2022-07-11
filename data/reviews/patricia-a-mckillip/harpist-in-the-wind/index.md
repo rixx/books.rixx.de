@@ -14,6 +14,7 @@ book:
   spine_color: '#c17a31'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: Harpist in the Wind
 plan:
   date_added: 2021-06-06

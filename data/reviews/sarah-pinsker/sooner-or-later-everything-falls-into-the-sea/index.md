@@ -14,6 +14,7 @@ book:
   spine_color: '#cc785b'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Sooner or Later Everything Falls Into the Sea
 plan:
   date_added: 2021-07-03

@@ -14,6 +14,7 @@ book:
   - historical-fiction
   - time-travel
   - scifi
+  - world-fantasy-award-nominees
   title: 11/22/63
 plan:
   date_added: '2018-08-26'

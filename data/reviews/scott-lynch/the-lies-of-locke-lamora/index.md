@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - learning-the-arts
+  - world-fantasy-award-nominees
   title: The Lies of Locke Lamora
 plan:
   date_added: '2016-05-18'

@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - hugo-award-nominees
+  - world-fantasy-award-nominees
   title: Beneath the Sugar Sky
 plan:
   date_added: '2019-01-05'

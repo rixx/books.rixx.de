@@ -19,6 +19,7 @@ book:
   - urban-fantasy
   - hugo-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: Trail of Lightning
 plan:
   date_added: 2021-07-03

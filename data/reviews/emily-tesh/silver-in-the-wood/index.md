@@ -18,6 +18,8 @@ book:
   - fantasy
   - romance
   - queer
+  - world-fantasy-award-nominees
+  - world-fantasy-award
   title: Silver in the Wood
 plan:
   date_added: '2020-02-20'

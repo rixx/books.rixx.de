@@ -14,6 +14,7 @@ book:
   - fantasy
   - hugo-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
 plan:
   date_added: '2020-02-12'
 related_books:

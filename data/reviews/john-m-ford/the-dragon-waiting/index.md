@@ -11,6 +11,8 @@ book:
   tags:
   - fantasy
   - historical-fiction
+  - world-fantasy-award-nominees
+  - world-fantasy-award
   title: The Dragon Waiting
 plan:
   date_added: 2020-07-31

@@ -18,6 +18,7 @@ book:
   - hugo-award-nominees
   - hugo-award
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: The Fifth Season
 plan:
   date_added: '2018-03-19'

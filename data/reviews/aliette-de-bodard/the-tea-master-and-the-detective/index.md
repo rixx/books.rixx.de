@@ -19,6 +19,7 @@ book:
   - hugo-award-nominees
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: The Tea Master and the Detective
 plan:
   date_added: '2018-08-20'

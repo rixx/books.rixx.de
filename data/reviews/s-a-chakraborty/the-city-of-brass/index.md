@@ -19,6 +19,7 @@ book:
   - historical-fiction
   - romance
   - ya
+  - world-fantasy-award-nominees
   title: The City of Brass
 plan:
   date_added: '2018-08-27'

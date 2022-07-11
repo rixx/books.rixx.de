@@ -20,6 +20,7 @@ book:
   - hugo-award-nominees
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: Uprooted
 plan:
   date_added: '2018-07-20'

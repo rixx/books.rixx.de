@@ -21,6 +21,8 @@ book:
   - hugo-award-nominees
   - hugo-award
   - nebula-award-nominees
+  - world-fantasy-award-nominees
+  - world-fantasy-award
   title: The City & the City
 plan:
   date_added: '2018-09-02'

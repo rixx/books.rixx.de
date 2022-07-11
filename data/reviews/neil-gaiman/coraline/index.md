@@ -22,6 +22,7 @@ book:
   - hugo-award
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: Coraline
 plan:
   date_added: '2015-04-08'

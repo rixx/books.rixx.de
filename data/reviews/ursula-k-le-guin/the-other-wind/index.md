@@ -15,6 +15,8 @@ book:
   tags:
   - fantasy
   - nebula-award-nominees
+  - world-fantasy-award-nominees
+  - world-fantasy-award
   title: The Other Wind
 plan:
   date_added: '2018-04-03'

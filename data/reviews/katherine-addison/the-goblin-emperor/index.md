@@ -19,6 +19,7 @@ book:
   - learning-the-arts
   - hugo-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: The Goblin Emperor
 plan:
   date_added: '2018-08-28'

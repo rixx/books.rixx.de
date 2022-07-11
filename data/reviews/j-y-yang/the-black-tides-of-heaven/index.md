@@ -20,6 +20,7 @@ book:
   - hugo-award-nominees
   - otherwise-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: The Black Tides of Heaven
 plan:
   date_added: '2019-03-17'

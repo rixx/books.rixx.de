@@ -15,6 +15,7 @@ book:
   tags:
   - fantasy
   - five-stars
+  - world-fantasy-award-nominees
   title: A Game of Thrones
 plan:
   date_added: '2015-04-08'

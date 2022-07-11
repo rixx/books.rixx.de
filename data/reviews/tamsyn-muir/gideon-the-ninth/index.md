@@ -18,6 +18,7 @@ book:
   - fantasy
   - hugo-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: Gideon the Ninth
 plan:
   date_added: '2020-02-11'

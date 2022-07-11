@@ -22,6 +22,7 @@ book:
   - otherwise-award-nominees
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'

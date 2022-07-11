@@ -16,6 +16,8 @@ book:
   - hugo-award
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
+  - world-fantasy-award
 plan:
   date_added: '2018-03-13'
 related_books:

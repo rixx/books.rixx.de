@@ -15,6 +15,7 @@ book:
   - scifi
   - otherwise-award-nominees
   - otherwise-award
+  - world-fantasy-award-nominees
   title: My Real Children
 plan:
   date_added: '2019-09-28'

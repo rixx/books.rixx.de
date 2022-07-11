@@ -15,6 +15,8 @@ book:
   tags:
   - german
   - historical-fiction
+  - world-fantasy-award-nominees
+  - world-fantasy-award
   title: 'Perfume: The Story of a Murderer'
 plan:
   date_added: '2015-04-09'

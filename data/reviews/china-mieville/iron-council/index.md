@@ -19,6 +19,7 @@ book:
   - arthur-c-clarke-award
   - arthur-c-clarke-award-nominees
   - hugo-award-nominees
+  - world-fantasy-award-nominees
   title: Iron Council
 plan:
   date_added: '2018-07-24'

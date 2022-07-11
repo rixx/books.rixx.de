@@ -8,6 +8,7 @@ book:
   spine_color: '#c5af66'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: 'Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch'
 plan:
   date_added: '2015-04-08'

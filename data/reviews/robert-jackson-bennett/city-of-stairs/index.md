@@ -16,6 +16,7 @@ book:
   spine_color: '#727882'
   tags:
   - fantasy
+  - world-fantasy-award-nominees
   title: City of Stairs
 plan:
   date_added: '2019-05-31'

@@ -11,6 +11,7 @@ book:
   tags:
   - fantasy
   - kids
+  - world-fantasy-award-nominees
   title: Odd and the Frost Giants
 plan:
   date_added: '2015-07-02'

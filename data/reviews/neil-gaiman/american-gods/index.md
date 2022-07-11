@@ -19,6 +19,7 @@ book:
   - hugo-award
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: American Gods
 plan:
   date_added: '2015-04-08'

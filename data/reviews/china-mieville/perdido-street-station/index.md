@@ -24,6 +24,7 @@ book:
   - hugo-award-nominees
   - otherwise-award-nominees
   - nebula-award-nominees
+  - world-fantasy-award-nominees
   title: Perdido Street Station
 plan:
   date_added: '2018-02-19'

@@ -16,6 +16,7 @@ book:
   - hugo-award
   - nebula-award-nominees
   - nebula-award
+  - world-fantasy-award-nominees
   title: Among Others
 plan:
   date_added: '2020-03-10'
