@@ -13,6 +13,8 @@ book:
   - hugo-award-nominees
   - hugo-award
   - otherwise-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: The Calculating Stars
 plan:
   date_added: '2018-07-25'

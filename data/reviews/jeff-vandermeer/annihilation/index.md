@@ -16,6 +16,8 @@ book:
   spine_color: '#1f316a'
   tags:
   - scifi
+  - nebula-award-nominees
+  - nebula-award
   title: Annihilation
 plan:
   date_added: '2019-12-16'

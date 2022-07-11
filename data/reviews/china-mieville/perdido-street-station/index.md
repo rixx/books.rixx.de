@@ -23,6 +23,7 @@ book:
   - bsfa-award-nominees
   - hugo-award-nominees
   - otherwise-award-nominees
+  - nebula-award-nominees
   title: Perdido Street Station
 plan:
   date_added: '2018-02-19'

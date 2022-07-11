@@ -14,6 +14,7 @@ book:
   spine_color: '#de7543'
   tags:
   - fantasy
+  - nebula-award-nominees
   title: The Other Wind
 plan:
   date_added: '2018-04-03'

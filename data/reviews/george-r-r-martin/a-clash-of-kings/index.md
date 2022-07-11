@@ -16,6 +16,7 @@ book:
   spine_color: '#5c2971'
   tags:
   - fantasy
+  - nebula-award-nominees
   title: A Clash of Kings
 plan:
   date_added: '2016-05-18'

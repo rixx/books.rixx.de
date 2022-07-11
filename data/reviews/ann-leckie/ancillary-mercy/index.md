@@ -18,6 +18,7 @@ book:
   - five-stars
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: Ancillary Mercy
 plan:
   date_added: '2018-04-14'

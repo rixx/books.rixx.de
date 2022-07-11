@@ -16,6 +16,8 @@ book:
   - queer
   - urban-fantasy
   - hugo-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: A Master of Djinn
 plan:
   date_added: 2021-10-31

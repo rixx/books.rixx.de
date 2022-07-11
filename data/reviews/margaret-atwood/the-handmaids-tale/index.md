@@ -11,6 +11,7 @@ book:
   - arthur-c-clarke-award
   - arthur-c-clarke-award-nominees
   - otherwise-award-nominees
+  - nebula-award-nominees
   title: The Handmaid's Tale
 plan:
   date_added: '2017-11-15'

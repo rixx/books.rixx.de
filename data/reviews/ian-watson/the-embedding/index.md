@@ -11,6 +11,7 @@ book:
   tags:
   - language
   - scifi
+  - nebula-award-nominees
   title: The Embedding
 plan:
   date_added: 2020-10-10

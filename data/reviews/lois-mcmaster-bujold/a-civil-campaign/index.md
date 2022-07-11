@@ -17,6 +17,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: A Civil Campaign
 plan:
   date_added: 2020-08-16

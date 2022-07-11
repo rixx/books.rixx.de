@@ -17,6 +17,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula
   title: '"Repent, Harlequin!" Said the Ticktockman'
 plan:
   date_added: '2018-03-13'

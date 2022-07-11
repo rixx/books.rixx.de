@@ -16,6 +16,7 @@ book:
   spine_color: '#a4b564'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Do Androids Dream of Electric Sheep?
 plan:
   date_added: '2015-04-09'

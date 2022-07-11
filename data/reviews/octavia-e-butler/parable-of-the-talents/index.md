@@ -18,6 +18,8 @@ book:
   - scifi
   - arthur-c-clarke-award-nominees
   - otherwise-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: Parable of the Talents
 plan:
   date_added: '2018-04-09'

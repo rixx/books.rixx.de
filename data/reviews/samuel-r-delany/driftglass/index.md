@@ -12,6 +12,7 @@ book:
   tags:
   - five-stars
   - scifi
+  - nebula-award-nominees
   title: Time Considered as a Helix of Semi-Precious Stones
 plan:
   date_added: '2018-10-04'

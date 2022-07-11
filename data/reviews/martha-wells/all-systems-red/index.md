@@ -15,6 +15,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: All Systems Red
 plan:
   date_added: '2018-05-31'

@@ -19,6 +19,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: Barrayar
 plan:
   date_added: '2018-08-16'

@@ -18,6 +18,7 @@ book:
   - scifi
   - ya
   - hugo-award-nominees
+  - nebula-award-nominees
   title: Little Brother
 plan:
   date_added: '2015-04-09'

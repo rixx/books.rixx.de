@@ -16,6 +16,8 @@ book:
   - scifi
   - hugo-award-nominees
   - otherwise-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: Babel-17
 plan:
   date_added: '2018-02-18'

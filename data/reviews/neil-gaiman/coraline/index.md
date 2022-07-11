@@ -20,6 +20,8 @@ book:
   - portal
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Coraline
 plan:
   date_added: '2015-04-08'

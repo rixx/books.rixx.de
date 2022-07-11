@@ -10,6 +10,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: And Then There Were (N-One)
 plan:
   date_added: '2018-02-01'

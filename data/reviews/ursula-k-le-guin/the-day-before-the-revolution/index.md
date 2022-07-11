@@ -8,6 +8,8 @@ book:
   spine_color: '#fbfbfb'
   tags:
   - scifi
+  - nebula-award-nominees
+  - nebula-award
   title: The Day Before the Revolution
 plan:
   date_added: '2018-02-12'

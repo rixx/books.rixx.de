@@ -19,6 +19,7 @@ book:
   - time-travel
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: To Say Nothing of the Dog
 plan:
   date_added: '2019-11-20'

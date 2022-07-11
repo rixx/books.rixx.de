@@ -13,6 +13,7 @@ book:
   tags:
   - fantasy
   - ya
+  - nebula-award-nominees
   title: The Strange Case of the Alchemist's Daughter
 plan:
   date_added: '2018-03-23'

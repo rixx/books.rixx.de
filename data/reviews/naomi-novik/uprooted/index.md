@@ -18,6 +18,8 @@ book:
   - british-fantasy-award-nominees
   - british-fantasy-award
   - hugo-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: Uprooted
 plan:
   date_added: '2018-07-20'

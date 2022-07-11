@@ -18,6 +18,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: The Forever War
 plan:
   date_added: '2016-11-12'

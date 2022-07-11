@@ -16,6 +16,8 @@ book:
   spine_color: '#bac2a8'
   tags:
   - fantasy
+  - nebula-award-nominees
+  - nebula-award
   title: Tehanu
 plan:
   date_added: '2018-02-22'

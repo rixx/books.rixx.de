@@ -21,6 +21,8 @@ book:
   - hugo-award-nominees
   - hugo-award
   - otherwise-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: Ancillary Justice
 plan:
   date_added: '2016-05-11'

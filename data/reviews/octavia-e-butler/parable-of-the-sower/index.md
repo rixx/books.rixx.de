@@ -16,6 +16,7 @@ book:
   spine_color: '#b9a092'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Parable of the Sower
 plan:
   date_added: '2018-03-06'

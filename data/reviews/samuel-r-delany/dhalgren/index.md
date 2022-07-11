@@ -8,6 +8,7 @@ book:
   spine_color: '#adada4'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Dhalgren
 plan:
   date_added: '2018-11-29'

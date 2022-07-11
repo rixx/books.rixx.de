@@ -20,6 +20,8 @@ book:
   - hugo-award-nominees
   - hugo-award
   - otherwise-award-nominees
+  - nebula-award-nominees
+  - nebula-award
   title: Every Heart a Doorway
 plan:
   date_added: '2018-04-10'

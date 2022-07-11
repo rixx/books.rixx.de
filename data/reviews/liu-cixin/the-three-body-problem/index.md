@@ -18,6 +18,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: The Three-Body Problem
 plan:
   date_added: '2018-02-13'

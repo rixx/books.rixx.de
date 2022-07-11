@@ -16,6 +16,7 @@ book:
   spine_color: '#4f557e'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Diplomatic Immunity
 plan:
   date_added: 2020-08-17

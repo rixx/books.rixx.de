@@ -17,6 +17,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: The Mountains of Mourning
 plan:
   date_added: '2018-11-23'

@@ -11,6 +11,7 @@ book:
   tags:
   - fantasy
   - five-stars
+  - nebula-award-nominees
   title: The Ocean at the End of the Lane
 plan:
   date_added: '2015-04-08'

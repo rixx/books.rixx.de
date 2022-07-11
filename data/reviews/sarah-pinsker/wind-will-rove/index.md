@@ -11,6 +11,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
 plan:
   date_added: '2018-02-24'
 related_books:

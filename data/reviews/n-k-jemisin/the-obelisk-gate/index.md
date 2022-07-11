@@ -16,6 +16,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: The Obelisk Gate
 plan:
   date_added: '2018-09-10'

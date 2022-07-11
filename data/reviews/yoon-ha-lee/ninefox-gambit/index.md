@@ -13,6 +13,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: Ninefox Gambit
 plan:
   date_added: '2018-08-22'

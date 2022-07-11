@@ -14,6 +14,8 @@ book:
   - british-fantasy-award
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Among Others
 plan:
   date_added: '2020-03-10'

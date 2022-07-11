@@ -13,6 +13,7 @@ book:
   - scifi
   - space-monks
   - hugo-award-nominees
+  - nebula-award-nominees
   title: The God Engines
 plan:
   date_added: 2020-06-22

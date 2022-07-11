@@ -17,6 +17,7 @@ book:
   - scifi
   - bsfa-award-nominees
   - hugo-award-nominees
+  - nebula-award-nominees
   title: A Desolation Called Peace
 plan:
   date_added: 2021-06-04

@@ -22,6 +22,8 @@ book:
   - bsfa-award-nominees
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Doomsday Book
 plan:
   date_added: '2018-03-13'

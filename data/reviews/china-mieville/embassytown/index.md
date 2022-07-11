@@ -19,6 +19,7 @@ book:
   - arthur-c-clarke-award-nominees
   - bsfa-award-nominees
   - hugo-award-nominees
+  - nebula-award-nominees
   title: Embassytown
 plan:
   date_added: '2018-11-14'

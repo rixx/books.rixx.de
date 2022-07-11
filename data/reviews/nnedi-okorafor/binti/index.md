@@ -16,6 +16,8 @@ book:
   - british-fantasy-award-nominees
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Binti
 plan:
   date_added: '2018-02-18'

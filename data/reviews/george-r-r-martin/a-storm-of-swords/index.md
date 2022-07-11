@@ -17,6 +17,7 @@ book:
   tags:
   - fantasy
   - hugo-award-nominees
+  - nebula-award-nominees
   title: A Storm of Swords
 plan:
   date_added: '2016-05-18'

@@ -15,6 +15,9 @@ book:
   series_position: '36'
   spine_color: '#9eb356'
   title: Making Money
+  tags:
+  - fantasy
+  - nebula-award-nominees
 plan:
   date_added: '2015-04-08'
 related_books:

@@ -15,6 +15,7 @@ book:
   tags:
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: The Lathe of Heaven
 plan:
   date_added: '2018-02-01'

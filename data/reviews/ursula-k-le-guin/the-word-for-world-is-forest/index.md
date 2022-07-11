@@ -14,6 +14,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: The Word for World is Forest
 plan:
   date_added: '2018-02-01'

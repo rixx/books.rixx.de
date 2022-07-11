@@ -12,6 +12,7 @@ book:
   - parallel-worlds
   - scifi
   - hugo-award-nominees
+  - nebula-award-nominees
   title: Flow My Tears, the Policeman Said
 plan:
   date_added: '2016-12-08'

@@ -17,6 +17,8 @@ book:
   - space-monks
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Speaker for the Dead
 plan:
   date_added: '2015-04-09'

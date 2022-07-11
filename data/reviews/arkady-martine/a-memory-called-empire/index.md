@@ -16,6 +16,7 @@ book:
   - arthur-c-clarke-award-nominees
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: A Memory Called Empire
 plan:
   date_added: '2019-06-12'

@@ -16,6 +16,8 @@ book:
   - space-monks
   - otherwise-award-nominees
   - otherwise-award
+  - nebula-award-nominees
+  - nebula-award
   title: The Left Hand of Darkness
 plan:
   date_added: '2016-10-13'

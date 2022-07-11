@@ -19,6 +19,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Ender’s Game
 plan:
   date_added: '2015-04-09'

@@ -19,6 +19,8 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: The Dispossessed
 plan:
   date_added: '2017-11-21'

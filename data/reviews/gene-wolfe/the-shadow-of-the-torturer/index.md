@@ -16,6 +16,7 @@ book:
   - fantasy
   - bsfa-award-nominees
   - bsfa-award
+  - nebula-award-nominees
   title: The Shadow of the Torturer
 plan:
   date_added: '2018-02-18'

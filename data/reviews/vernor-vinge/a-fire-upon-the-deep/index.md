@@ -18,6 +18,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: A Fire Upon the Deep
 plan:
   date_added: '2016-05-08'

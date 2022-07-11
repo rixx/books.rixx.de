@@ -18,6 +18,7 @@ book:
   - arthur-c-clarke-award-nominees
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
   title: 'The Diamond Age: Or, A Young Lady''s Illustrated Primer'
 plan:
   date_added: 2020-05-31

@@ -19,6 +19,8 @@ book:
   - space-monks
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Dune
 plan:
   date_added: '2018-02-19'

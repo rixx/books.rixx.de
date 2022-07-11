@@ -15,6 +15,9 @@ book:
   series_position: '33'
   spine_color: '#ca4015'
   title: Going Postal
+  tags:
+  - fantasy
+  - nebula-award-nominees
 plan:
   date_added: '2015-04-08'
 related_books:

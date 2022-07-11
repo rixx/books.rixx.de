@@ -13,6 +13,7 @@ book:
   spine_color: '#536681'
   tags:
   - scifi
+  - nebula-award-nominees
   title: Weatherman
 plan:
   date_added: '2018-11-23'

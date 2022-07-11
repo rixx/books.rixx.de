@@ -13,6 +13,8 @@ book:
   - bsfa-award-nominees
   - hugo-award-nominees
   - hugo-award
+  - nebula-award-nominees
+  - nebula-award
   title: Neuromancer
 plan:
   date_added: '2017-05-10'
