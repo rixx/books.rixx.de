@@ -1,6 +1,6 @@
 ---
 book:
-  author: Neil Clarke
+  author: Suzanne Palmer
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504312246l/36165705._SY475_.jpg
   dimensions:
     height: 17
