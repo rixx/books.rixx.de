@@ -23,6 +23,8 @@ related_books:
   text: Intelligence and creativity have a complicated relationship.
 - book: daniel-keyes/flowers-for-algernon
   text: Hard not to link these two.
+- book: miri-rubin/the-middle-ages
+  text: Another Very Short Introduction
 review:
   date_read:
   - 2020-05-09
