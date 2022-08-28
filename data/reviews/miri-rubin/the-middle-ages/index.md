@@ -11,7 +11,7 @@ book:
   tags:
   - history
   - nonfiction
-  title: The Middle Ages: A Very Short Introduction
+  title: "The Middle Ages: A Very Short Introduction"
 plan:
   date_added: 2022-08-28
 review:

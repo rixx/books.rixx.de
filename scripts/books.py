@@ -474,7 +474,7 @@ def _load_entries(dirpath):
             yield Review(path=path)
         except Exception as e:
             print(f"Error loading {path}")
-            raise e
+            # raise e
 
 
 def load_reviews():
