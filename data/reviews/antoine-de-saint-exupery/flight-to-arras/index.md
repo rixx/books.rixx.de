@@ -14,6 +14,8 @@ book:
 plan:
   date_added: 2021-03-20
 related_books:
+- book: tom-wolfe/the-right-stuff
+  text: Same time, same attitude.
 - book: antoine-de-saint-exupery/the-little-prince
   text: More metaphorical about it.
 - book: roald-dahl/beware-of-the-dog

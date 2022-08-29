@@ -24,6 +24,8 @@ related_books:
   text: More insight into NASA.
 - book: andy-weir/the-martian
   text: One famous astronaut, meet another.
+- book: tom-wolfe/the-right-stuff
+  text: Earliest NASA stories – the Right Stuff was something very different back then.
 review:
   date_read:
   - 2018-08-26
