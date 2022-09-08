@@ -9,6 +9,7 @@ book:
   goodreads: '59263'
   isbn10: 0786836547
   isbn13: '9780786836543'
+  owned: true
   pages: 576
   publication_year: '2004'
   series: Bartimaeus

@@ -9,6 +9,7 @@ book:
   goodreads: '8785374'
   isbn10: 038561926X
   isbn13: '9780385619264'
+  owned: false
   pages: 378
   publication_year: '2011'
   series: Discworld

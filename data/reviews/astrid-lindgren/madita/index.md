@@ -5,6 +5,7 @@ book:
   goodreads: '2171231'
   isbn10: '3423712694'
   isbn13: '9783423712699'
+  owned: true
   pages: '222'
   publication_year: '1960'
   spine_color: '#bf402c'

@@ -9,6 +9,7 @@ book:
   goodreads: '62446'
   isbn10: 0451528352
   isbn13: '9780451528353'
+  owned: false
   pages: 240
   publication_year: '1881'
   spine_color: '#baa27e'

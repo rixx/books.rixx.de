@@ -9,6 +9,7 @@ book:
   goodreads: '144349'
   isbn10: 0399244557
   isbn13: '9780399244551'
+  owned: false
   pages: 262
   publication_year: '2005'
   series: Ranger's Apprentice

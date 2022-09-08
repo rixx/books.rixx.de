@@ -9,6 +9,7 @@ book:
   goodreads: '12591698'
   isbn10: '1841499900'
   isbn13: '9781841499901'
+  owned: false
   pages: 595
   publication_year: '2012'
   series: The Expanse

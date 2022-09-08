@@ -3,6 +3,7 @@ book:
   author: George Orwell
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470.jpg
   goodreads: '5470'
+  owned: true
   pages: '328'
   publication_year: '1949'
   spine_color: '#a1c7db'

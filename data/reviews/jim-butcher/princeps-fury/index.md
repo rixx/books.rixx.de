@@ -9,6 +9,7 @@ book:
   goodreads: '2903736'
   isbn10: 0441016383
   isbn13: '9780441016389'
+  owned: false
   pages: 386
   publication_year: '2008'
   series: Codex Alera

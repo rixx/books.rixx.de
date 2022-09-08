@@ -9,6 +9,7 @@ book:
   goodreads: '21611'
   isbn10: 0060510862
   isbn13: '9780060510862'
+  owned: false
   pages: 278
   publication_year: '1974'
   series: The Forever War

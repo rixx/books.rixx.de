@@ -9,6 +9,7 @@ book:
   goodreads: '12109372'
   isbn10: '0765327546'
   isbn13: '9780765327543'
+  owned: false
   pages: 334
   publication_year: '2012'
   series: Eternal Sky

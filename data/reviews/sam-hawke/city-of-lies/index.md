@@ -3,6 +3,7 @@ book:
   author: Sam Hawke
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505333151l/36225135._SY475_.jpg
   goodreads: '36225135'
+  owned: false
   pages: '560'
   publication_year: '2018'
   series: Poison Wars

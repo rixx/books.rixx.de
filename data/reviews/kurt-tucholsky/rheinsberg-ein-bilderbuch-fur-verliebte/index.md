@@ -5,6 +5,7 @@ book:
   goodreads: '1912338'
   isbn10: '3423026642'
   isbn13: '9783423026642'
+  owned: false
   pages: '94'
   publication_year: '1912'
   spine_color: '#bda66a'

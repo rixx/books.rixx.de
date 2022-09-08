@@ -7,6 +7,7 @@ book:
   goodreads: '92762'
   isbn10: 0283985828
   isbn13: '9780283985829'
+  owned: false
   pages: 263
   publication_year: '1979'
   series: Riddle-Master

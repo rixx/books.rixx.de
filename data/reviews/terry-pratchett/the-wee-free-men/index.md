@@ -9,6 +9,7 @@ book:
   goodreads: '34494'
   isbn10: 0060012382
   isbn13: '9780060012380'
+  owned: false
   pages: 400
   publication_year: '2003'
   series: Discworld

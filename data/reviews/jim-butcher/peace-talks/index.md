@@ -7,6 +7,7 @@ book:
   goodreads: '22249640'
   isbn10: 035651529X
   isbn13: '9780356515298'
+  owned: false
   pages: '352'
   publication_year: '2020'
   series: The Dresden Files

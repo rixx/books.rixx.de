@@ -7,6 +7,7 @@ book:
   goodreads: '8698'
   isbn10: 0330491237
   isbn13: '9780330491235'
+  owned: false
   pages: '167'
   publication_year: '1984'
   series: Hitchhiker's Guide to the Galaxy

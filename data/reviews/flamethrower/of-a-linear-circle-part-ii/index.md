@@ -5,21 +5,22 @@ book:
   goodreads: '39817980'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '363'
   publication_year: null
+  series: Of a Linear Circle
+  series_position: 2
   spine_color: '#dad2bf'
   tags:
   - fanfic
-  series: Of a Linear Circle
-  series_position: 2
-  title: 'Of a Linear Circle - Part II'
+  title: Of a Linear Circle - Part II
+plan:
+  date_added: 2021-12-31
 related_books:
 - book: flamethrower/of-a-linear-circle-part-i
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-iii
   text: The next book in the series.
-plan:
-  date_added: 2021-12-31
 review:
   date_read:
   - 2021-12-25

@@ -9,6 +9,7 @@ book:
   goodreads: '54479'
   isbn10: 014044906X
   isbn13: '9780140449068'
+  owned: false
   pages: 252
   publication_year: '1873'
   series: Extraordinary Voyages

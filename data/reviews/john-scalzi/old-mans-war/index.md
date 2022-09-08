@@ -9,6 +9,7 @@ book:
   goodreads: '51964'
   isbn10: 0765348276
   isbn13: '9780765348272'
+  owned: false
   pages: 355
   publication_year: '2005'
   series: Old Man's War

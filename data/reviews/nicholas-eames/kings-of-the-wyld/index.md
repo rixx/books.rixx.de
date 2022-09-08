@@ -9,6 +9,7 @@ book:
   goodreads: '30841984'
   isbn10: '0316362476'
   isbn13: '9780316362474'
+  owned: false
   pages: 544
   publication_year: '2017'
   series: The Band

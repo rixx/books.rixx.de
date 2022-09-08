@@ -7,6 +7,7 @@ book:
   goodreads: '81903'
   isbn10: '0425173747'
   isbn13: '9780425173749'
+  owned: false
   pages: '215'
   publication_year: '1975'
   series: Hercule Poirot

@@ -9,6 +9,7 @@ book:
   goodreads: '30474'
   isbn10: '0140447571'
   isbn13: '9780140447576'
+  owned: false
   pages: 288
   publication_year: '1848'
   spine_color: '#d1bc94'

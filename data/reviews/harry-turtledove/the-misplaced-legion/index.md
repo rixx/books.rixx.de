@@ -9,6 +9,7 @@ book:
   goodreads: '974209'
   isbn10: '0345330676'
   isbn13: '9780345330673'
+  owned: false
   pages: 323
   publication_year: '1987'
   series: The Videssos Cycle

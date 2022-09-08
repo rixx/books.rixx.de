@@ -3,6 +3,7 @@ book:
   author: Andrzej Sapkowski
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529591917l/40603587._SX98_.jpg
   goodreads: '40603587'
+  owned: false
   pages: '360'
   publication_year: '1993'
   series: The Witcher

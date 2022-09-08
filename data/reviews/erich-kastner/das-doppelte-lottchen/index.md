@@ -9,6 +9,7 @@ book:
   goodreads: '887010'
   isbn10: '3791530119'
   isbn13: '9783791530116'
+  owned: false
   pages: 176
   publication_year: '1949'
   spine_color: '#f8e408'

@@ -9,6 +9,7 @@ book:
   goodreads: '68495'
   isbn10: 0345458427
   isbn13: '9780345458421'
+  owned: false
   pages: 576
   publication_year: '2004'
   series: New Crobuzon

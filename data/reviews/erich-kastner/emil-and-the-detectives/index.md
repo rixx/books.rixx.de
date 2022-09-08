@@ -9,6 +9,7 @@ book:
   goodreads: '67270'
   isbn10: 0099413124
   isbn13: '9780099413127'
+  owned: false
   pages: 224
   publication_year: '1928'
   spine_color: '#fade06'

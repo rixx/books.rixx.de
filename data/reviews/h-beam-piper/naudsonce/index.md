@@ -5,6 +5,7 @@ book:
   goodreads: '9199290'
   isbn10: null
   isbn13: null
+  owned: false
   pages: 58
   publication_year: '1962'
   spine_color: '#111211'

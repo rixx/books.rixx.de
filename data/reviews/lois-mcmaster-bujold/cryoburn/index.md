@@ -7,6 +7,7 @@ book:
   goodreads: '7841670'
   isbn10: '1439133948'
   isbn13: '9781439133941'
+  owned: false
   pages: 352
   publication_year: '2010'
   series: Vorkosigan Saga

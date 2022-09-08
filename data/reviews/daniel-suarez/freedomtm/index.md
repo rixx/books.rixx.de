@@ -9,6 +9,7 @@ book:
   goodreads: '8488830'
   isbn10: 0451231899
   isbn13: '9780451231895'
+  owned: false
   pages: 486
   publication_year: '2010'
   series: Daemon

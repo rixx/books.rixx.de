@@ -5,6 +5,7 @@ book:
   goodreads: '519931'
   isbn10: 0618055126
   isbn13: '9780618055128'
+  owned: false
   pages: '110'
   publication_year: '1983'
   spine_color: '#7e552b'

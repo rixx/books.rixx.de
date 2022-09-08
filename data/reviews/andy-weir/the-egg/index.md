@@ -3,6 +3,7 @@ book:
   author: Andy Weir
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431492647l/17563539.jpg
   goodreads: '17563539'
+  owned: false
   pages: '3'
   publication_year: '2009'
   source: http://www.galactanet.com/oneoff/theegg_mod.html

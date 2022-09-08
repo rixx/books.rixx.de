@@ -9,6 +9,7 @@ book:
   goodreads: '13578175'
   isbn10: '1616960922'
   isbn13: '9781616960926'
+  owned: false
   pages: 176
   publication_year: '2012'
   spine_color: '#91725e'

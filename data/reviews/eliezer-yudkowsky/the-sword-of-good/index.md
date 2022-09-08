@@ -2,8 +2,9 @@
 book:
   author: Eliezer Yudkowsky
   goodreads: '16074687'
-  publication_year: '2009'
+  owned: false
   pages: 28
+  publication_year: '2009'
   tags:
   - fantasy
   title: The Sword of Good

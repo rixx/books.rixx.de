@@ -2,6 +2,7 @@
 book:
   author: Will McIntosh
   goodreads: '18006038'
+  owned: false
   pages: '11'
   publication_year: '2009'
   source: http://will.tip.dhappy.org/blog/Profit-Donation%20Funding/.../book/by/Will%20McIntosh/Bridesicle/Will%20McIntosh%20-%20Bridesicle.html

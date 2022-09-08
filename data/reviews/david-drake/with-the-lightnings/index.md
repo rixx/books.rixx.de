@@ -9,6 +9,7 @@ book:
   goodreads: '286445'
   isbn10: 0671578863
   isbn13: '9780671578862'
+  owned: false
   pages: 336
   publication_year: '1998'
   series: Lt. Leary

@@ -9,6 +9,7 @@ book:
   goodreads: '106'
   isbn10: 0441172695
   isbn13: '9780441172696'
+  owned: false
   pages: 331
   publication_year: '1969'
   series: Dune Chronicles

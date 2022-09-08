@@ -9,6 +9,7 @@ book:
   goodreads: '7673'
   isbn10: 0060891564
   isbn13: '9780060891565'
+  owned: false
   pages: 304
   publication_year: '1976'
   spine_color: '#9ba7be'

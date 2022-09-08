@@ -6,6 +6,7 @@ book:
     height: 23.0
   goodreads: '5093'
   isbn10: '1416521496'
+  owned: false
   pages: '544'
   publication_year: '2004'
   series: The Dark Tower

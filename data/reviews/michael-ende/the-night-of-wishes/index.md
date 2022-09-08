@@ -9,6 +9,7 @@ book:
   goodreads: '27719'
   isbn10: '0374455031'
   isbn13: '9780374455033'
+  owned: false
   pages: 224
   publication_year: '1989'
   spine_color: '#e0d5a6'

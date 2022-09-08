@@ -9,6 +9,7 @@ book:
   goodreads: '1692793'
   isbn10: '3431036368'
   isbn13: '9783431036367'
+  owned: false
   pages: 637
   publication_year: '2005'
   spine_color: '#104a6b'

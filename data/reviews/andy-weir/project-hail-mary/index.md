@@ -9,6 +9,7 @@ book:
   goodreads: '54493401'
   isbn10: 0593135202
   isbn13: '9780593135204'
+  owned: false
   pages: 496
   publication_year: '2021'
   spine_color: '#968237'

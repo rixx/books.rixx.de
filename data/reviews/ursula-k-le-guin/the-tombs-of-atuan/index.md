@@ -9,6 +9,7 @@ book:
   goodreads: '13662'
   isbn10: 0689845367
   isbn13: '9780689845369'
+  owned: false
   pages: 256
   publication_year: '1970'
   series: Earthsea Cycle

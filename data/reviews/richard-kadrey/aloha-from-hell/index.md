@@ -7,6 +7,7 @@ book:
   goodreads: '10439703'
   isbn10: '0061714321'
   isbn13: '9780061714320'
+  owned: false
   pages: '438'
   publication_year: '2011'
   series: Sandman Slim

@@ -5,6 +5,7 @@ book:
   goodreads: '35743'
   isbn10: 0099483505
   isbn13: '9780099483502'
+  owned: true
   pages: '580'
   publication_year: '1959'
   spine_color: '#887f6b'

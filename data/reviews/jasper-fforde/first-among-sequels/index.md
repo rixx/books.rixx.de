@@ -9,6 +9,7 @@ book:
   goodreads: '27002'
   isbn10: 0670038717
   isbn13: '9780670038718'
+  owned: true
   pages: 363
   publication_year: '2007'
   series: Thursday Next

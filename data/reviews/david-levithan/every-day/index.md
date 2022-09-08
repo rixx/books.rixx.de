@@ -9,6 +9,7 @@ book:
   goodreads: '13262783'
   isbn10: 0307931889
   isbn13: '9780307931887'
+  owned: false
   pages: 324
   publication_year: '2012'
   series: Every Day

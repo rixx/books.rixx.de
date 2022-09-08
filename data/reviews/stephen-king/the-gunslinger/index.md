@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 23.0
   goodreads: '43615'
+  owned: false
   pages: '231'
   publication_year: '1982'
   series: The Dark Tower

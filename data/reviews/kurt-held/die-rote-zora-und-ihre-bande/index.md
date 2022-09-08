@@ -5,6 +5,7 @@ book:
   goodreads: '708465'
   isbn10: '3794101227'
   isbn13: '9783794101221'
+  owned: false
   pages: '383'
   publication_year: '1941'
   spine_color: '#7d6951'

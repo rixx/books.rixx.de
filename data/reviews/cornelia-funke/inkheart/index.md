@@ -9,6 +9,7 @@ book:
   goodreads: '28194'
   isbn10: 0439709105
   isbn13: '9780439709101'
+  owned: false
   pages: 563
   publication_year: '2003'
   series: Inkworld

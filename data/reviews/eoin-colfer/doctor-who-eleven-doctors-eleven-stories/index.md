@@ -5,6 +5,7 @@ book:
   goodreads: '17973716'
   isbn10: 0141348941
   isbn13: '9780141348940'
+  owned: false
   pages: '516'
   publication_year: '2013'
   spine_color: '#061590'

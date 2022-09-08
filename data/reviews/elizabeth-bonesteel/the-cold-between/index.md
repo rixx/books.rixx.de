@@ -9,6 +9,7 @@ book:
   goodreads: '25817527'
   isbn10: '0062413651'
   isbn13: '9780062413659'
+  owned: false
   pages: 528
   publication_year: '2016'
   series: Central Corps

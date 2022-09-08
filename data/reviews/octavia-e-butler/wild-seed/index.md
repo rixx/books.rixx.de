@@ -7,6 +7,7 @@ book:
   goodreads: '52318'
   isbn10: 0446676977
   isbn13: '9780446676977'
+  owned: false
   pages: '306'
   publication_year: '1980'
   series: Patternmaster

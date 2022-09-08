@@ -9,6 +9,7 @@ book:
   goodreads: '613866'
   isbn10: 0439903793
   isbn13: '9780439903790'
+  owned: false
   pages: 212
   publication_year: '1998'
   spine_color: '#b79563'

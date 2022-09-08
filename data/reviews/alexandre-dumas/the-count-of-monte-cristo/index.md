@@ -9,6 +9,7 @@ book:
   goodreads: '7126'
   isbn10: 0140449264
   isbn13: '9780140449266'
+  owned: false
   pages: 1276
   publication_year: '1844'
   spine_color: '#bebdc3'

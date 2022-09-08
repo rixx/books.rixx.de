@@ -7,6 +7,7 @@ book:
   goodreads: '11277218'
   isbn10: 0385344015
   isbn13: '9780385344012'
+  owned: false
   pages: '293'
   publication_year: '2011'
   series: Flavia de Luce

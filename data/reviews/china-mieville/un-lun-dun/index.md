@@ -9,6 +9,7 @@ book:
   goodreads: '68496'
   isbn10: 0345495160
   isbn13: '9780345495167'
+  owned: false
   pages: 432
   publication_year: '2007'
   spine_color: '#c77d44'

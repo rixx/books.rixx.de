@@ -6,6 +6,7 @@ book:
     height: 25.0
   goodreads: '62035'
   isbn10: '3442450179'
+  owned: true
   pages: '256'
   publication_year: '2000'
   series: Zamonien

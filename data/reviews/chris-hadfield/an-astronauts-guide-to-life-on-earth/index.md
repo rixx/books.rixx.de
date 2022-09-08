@@ -9,6 +9,7 @@ book:
   goodreads: '18170143'
   isbn10: '0316253014'
   isbn13: '9780316253017'
+  owned: false
   pages: 304
   publication_year: '2013'
   spine_color: '#caa5b6'
@@ -25,7 +26,8 @@ related_books:
 - book: andy-weir/the-martian
   text: One famous astronaut, meet another.
 - book: tom-wolfe/the-right-stuff
-  text: Earliest NASA stories – the Right Stuff was something very different back then.
+  text: Earliest NASA stories – the Right Stuff was something very different back
+    then.
 review:
   date_read:
   - 2018-08-26

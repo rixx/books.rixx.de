@@ -9,6 +9,7 @@ book:
   goodreads: '9265453'
   isbn10: 0345524497
   isbn13: '9780345524492'
+  owned: false
   pages: 345
   publication_year: '2011'
   spine_color: '#6a5a59'

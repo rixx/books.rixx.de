@@ -5,6 +5,7 @@ book:
   goodreads: '722587'
   isbn10: '0451144244'
   isbn13: '9780451144249'
+  owned: false
   pages: '278'
   publication_year: '1971'
   source: http://classes.dma.ucla.edu/Fall10/157A/wp-content/uploads/timeDelany_01.pdf

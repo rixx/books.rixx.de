@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24.0
   goodreads: '1'
+  owned: false
   pages: '652'
   publication_year: '2005'
   series: Harry Potter

@@ -9,6 +9,7 @@ book:
   goodreads: '905'
   isbn10: 0679778314
   isbn13: '9780679778318'
+  owned: false
   pages: 134
   publication_year: '1974'
   spine_color: '#b8b660'
@@ -25,7 +26,8 @@ related_books:
 - book: lao-tzu/tao-te-ching
   text: More zen.
 - book: chris-voss/never-split-the-difference
-  text: If you enjoy the genre of "successful expert teaches surprisingly emotional skill".
+  text: If you enjoy the genre of "successful expert teaches surprisingly emotional
+    skill".
 - book: joel-rosenberg/dshai
   text: A cool fantasy take on flow states as genius.
 review:

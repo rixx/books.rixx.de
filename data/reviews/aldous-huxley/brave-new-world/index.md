@@ -9,6 +9,7 @@ book:
   goodreads: '5129'
   isbn10: 0060929871
   isbn13: '9780060929879'
+  owned: true
   pages: 288
   publication_year: '1932'
   spine_color: '#786a7d'

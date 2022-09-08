@@ -9,6 +9,7 @@ book:
   goodreads: '12016'
   isbn10: 0743421922
   isbn13: '9780743421928'
+  owned: false
   pages: 496
   publication_year: '2000'
   series: Culture

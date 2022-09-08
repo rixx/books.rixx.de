@@ -9,6 +9,7 @@ book:
   goodreads: '126675'
   isbn10: 0151658978
   isbn13: '9780151658978'
+  owned: false
   pages: 397
   publication_year: '1934'
   series: Lord Peter Wimsey

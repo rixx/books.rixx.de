@@ -9,6 +9,7 @@ book:
   goodreads: '15812553'
   isbn10: 161448242X
   isbn13: '9781614482420'
+  owned: false
   pages: 250
   publication_year: '2012'
   spine_color: '#c42c2a'

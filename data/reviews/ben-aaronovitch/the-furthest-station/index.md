@@ -7,6 +7,7 @@ book:
   goodreads: '31626329'
   isbn10: '1473222443'
   isbn13: '9781473222441'
+  owned: false
   pages: '144'
   publication_year: '2017'
   series: Rivers of London

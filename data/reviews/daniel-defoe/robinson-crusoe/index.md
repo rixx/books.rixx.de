@@ -9,6 +9,7 @@ book:
   goodreads: '2932'
   isbn10: '0375757325'
   isbn13: '9780375757327'
+  owned: false
   pages: 320
   publication_year: '1719'
   spine_color: '#757b70'
@@ -23,7 +24,8 @@ related_books:
 - book: robert-louis-stevenson/treasure-island
   text: Strictly better olde Island.
 - book: herman-melville/moby-dick-or-the-whale
-  text: Old-timer adventure story, also hard to read. (Yes, I know that there are centuries in between.)
+  text: Old-timer adventure story, also hard to read. (Yes, I know that there are
+    centuries in between.)
 review:
   date_read:
   - 2005-11-01

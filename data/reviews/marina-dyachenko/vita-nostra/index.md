@@ -3,6 +3,8 @@ book:
   author: Marina Dyachenko
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353342074l/16159259._SX98_.jpg
   goodreads: '16159259'
+  owned: false
+  pages: 417
   publication_year: '2007'
   spine_color: '#304d7d'
   tags:
@@ -10,7 +12,6 @@ book:
   - urban-fantasy
   - language
   title: Vita Nostra
-  pages: 417
 plan:
   date_added: '2018-09-11'
 related_books:

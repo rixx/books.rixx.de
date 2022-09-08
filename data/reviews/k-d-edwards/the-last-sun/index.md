@@ -3,6 +3,7 @@ book:
   author: K.D.  Edwards
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517437940l/36466732._SY475_.jpg
   goodreads: '36466732'
+  owned: false
   pages: 368
   publication_year: '2018'
   series: The Tarot Sequence

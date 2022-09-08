@@ -9,6 +9,7 @@ book:
   goodreads: '16319'
   isbn10: 157912626X
   isbn13: '9781579126261'
+  owned: false
   pages: 191
   publication_year: '1942'
   series: Miss Marple

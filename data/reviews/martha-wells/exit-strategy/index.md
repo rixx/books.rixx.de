@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 21.0
   goodreads: '35519109'
+  owned: false
   pages: '176'
   publication_year: '2018'
   series: The Murderbot Diaries

@@ -3,6 +3,7 @@ book:
   author: Kelly Barnhill
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498630386l/34383322._SX98_.jpg
   goodreads: '34383322'
+  owned: false
   pages: '17'
   publication_year: '2017'
   source: https://www.lightspeedmagazine.com/fiction/probably-still-chosen-one/

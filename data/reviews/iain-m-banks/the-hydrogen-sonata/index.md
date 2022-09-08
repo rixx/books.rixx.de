@@ -7,6 +7,7 @@ book:
   goodreads: '13497991'
   isbn10: '0356501507'
   isbn13: '9780356501505'
+  owned: false
   pages: '517'
   publication_year: '2012'
   series: Culture

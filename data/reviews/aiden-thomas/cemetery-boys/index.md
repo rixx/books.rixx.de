@@ -9,6 +9,7 @@ book:
   goodreads: '52339313'
   isbn10: '1250250463'
   isbn13: '9781250250469'
+  owned: false
   pages: 352
   publication_year: '2020'
   spine_color: '#e8dd95'

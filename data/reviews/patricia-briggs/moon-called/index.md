@@ -9,6 +9,7 @@ book:
   goodreads: '71811'
   isbn10: 0441013813
   isbn13: '9780441013814'
+  owned: false
   pages: 289
   publication_year: '2006'
   series: Mercy Thompson

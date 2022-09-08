@@ -9,6 +9,7 @@ book:
   goodreads: '14497'
   isbn10: 0060557818
   isbn13: '9780060557812'
+  owned: true
   pages: 400
   publication_year: '1996'
   series: London Below

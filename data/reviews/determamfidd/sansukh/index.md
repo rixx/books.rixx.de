@@ -3,6 +3,7 @@ book:
   author: determamfidd
   cover_image_url: http://i.imgur.com/9F6Eiur.png
   goodreads: '43788310'
+  owned: false
   pages: '1777'
   publication_year: '2017'
   source: https://archiveofourown.org/works/855528/chapters/1637607

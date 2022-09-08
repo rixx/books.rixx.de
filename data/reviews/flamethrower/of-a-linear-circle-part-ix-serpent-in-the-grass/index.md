@@ -4,6 +4,7 @@ book:
   goodreads: '56623128'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '2620'
   publication_year: null
   series: Of a Linear Circle

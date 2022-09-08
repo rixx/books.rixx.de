@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22.3
   goodreads: '23471484'
+  owned: false
   pages: '25'
   publication_year: '2014'
   series: Rivers of London

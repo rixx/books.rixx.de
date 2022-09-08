@@ -5,6 +5,7 @@ book:
   goodreads: '1771018'
   isbn10: '3150060141'
   isbn13: '9783150060148'
+  owned: true
   pages: '86'
   publication_year: '1876'
   spine_color: '#f2e118'

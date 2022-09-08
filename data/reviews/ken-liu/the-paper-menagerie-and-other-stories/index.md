@@ -6,10 +6,10 @@ book:
   goodreads: '27221110'
   isbn10: '1481424378'
   isbn13: '9781481424370'
+  owned: false
   pages: 464
   publication_year: '2016'
   spine_color: '#9b725f'
-  title: The Paper Menagerie and Other Stories
   tags:
   - scifi
   - hugo-award-nominees
@@ -18,6 +18,7 @@ book:
   - nebula-award
   - world-fantasy-award-nominees
   - world-fantasy-award
+  title: The Paper Menagerie and Other Stories
 plan:
   date_added: '2018-03-13'
 related_books:

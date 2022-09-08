@@ -7,6 +7,7 @@ book:
   goodreads: '16078584'
   isbn10: 0575132469
   isbn13: '9780575132467'
+  owned: false
   pages: '357'
   publication_year: '2013'
   series: Rivers of London

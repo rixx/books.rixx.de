@@ -9,6 +9,7 @@ book:
   goodreads: '27001'
   isbn10: 0143034359
   isbn13: '9780143034353'
+  owned: true
   pages: 375
   publication_year: '2004'
   series: Thursday Next

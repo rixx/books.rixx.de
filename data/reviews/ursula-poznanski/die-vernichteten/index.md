@@ -7,6 +7,7 @@ book:
   goodreads: '21529344'
   isbn10: '3785575483'
   isbn13: '9783785575482'
+  owned: false
   pages: '528'
   publication_year: '2014'
   series: Die Verratenen

@@ -9,6 +9,7 @@ book:
   goodreads: '1598960'
   isbn10: '3789119547'
   isbn13: '9783789119545'
+  owned: false
   pages: 160
   publication_year: '1980'
   series: Sams

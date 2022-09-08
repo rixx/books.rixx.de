@@ -9,6 +9,7 @@ book:
   goodreads: '1582996'
   isbn10: '1416914293'
   isbn13: '9781416914297'
+  owned: false
   pages: 453
   publication_year: '2008'
   series: The Mortal Instruments

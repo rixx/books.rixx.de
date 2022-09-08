@@ -9,6 +9,7 @@ book:
   goodreads: '30780235'
   isbn10: 039918435X
   isbn13: '9780399184352'
+  owned: false
   pages: 304
   publication_year: '2017'
   spine_color: '#f0ef1e'

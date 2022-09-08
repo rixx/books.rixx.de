@@ -9,6 +9,7 @@ book:
   goodreads: '1032913'
   isbn10: '0436220547'
   isbn13: '9780436220548'
+  owned: true
   pages: 224
   publication_year: '2001'
   spine_color: '#edc62c'

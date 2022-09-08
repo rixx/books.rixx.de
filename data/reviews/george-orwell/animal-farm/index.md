@@ -9,13 +9,14 @@ book:
   goodreads: '7613'
   isbn10: 0452284244
   isbn13: '9780452284241'
+  owned: false
   pages: 122
   publication_year: '1945'
   spine_color: '#846c64'
-  title: Animal Farm
   tags:
   - hugo-award-nominees
   - hugo-award
+  title: Animal Farm
 plan:
   date_added: '2015-04-08'
 related_books:

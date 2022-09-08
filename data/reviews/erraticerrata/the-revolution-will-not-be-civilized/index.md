@@ -4,6 +4,7 @@ book:
   goodreads: '32195233'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '1014'
   publication_year: '2015'
   series: A Practical Guide to Evil
@@ -14,13 +15,13 @@ book:
   title: The Revolution Will Not Be Civilized
 plan:
   date_added: 2022-03-18
+related_books:
+- book: erraticerrata/so-you-want-to-be-a-villain
+  text: The first book in the series.
 review:
   date_read:
   - 2022-02-06
   rating: 2
-related_books:
-- book: erraticerrata/so-you-want-to-be-a-villain
-  text: The first book in the series.
 ---
 
 More of the same, with the novelty worn off a bit. Some new interesting Roles (Bumbling Conjurer, Exiled Prince), and

@@ -9,6 +9,7 @@ book:
   goodreads: '12017'
   isbn10: 074341196X
   isbn13: '9780743411967'
+  owned: false
   pages: 400
   publication_year: '1998'
   series: Culture

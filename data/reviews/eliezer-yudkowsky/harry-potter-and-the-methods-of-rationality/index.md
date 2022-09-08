@@ -3,6 +3,7 @@ book:
   author: Eliezer Yudkowsky
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293582551l/10016013.jpg
   goodreads: '10016013'
+  owned: false
   pages: '2184'
   publication_year: '2015'
   source: http://www.hpmor.com/

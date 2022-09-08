@@ -9,6 +9,7 @@ book:
   goodreads: '47701'
   isbn10: 0061238961
   isbn13: '9780061238963'
+  owned: false
   pages: 239
   publication_year: '2007'
   series: InterWorld

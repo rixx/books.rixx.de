@@ -5,6 +5,7 @@ book:
   goodreads: '9591398'
   isbn10: 0312649614
   isbn13: '9780312649616'
+  owned: false
   pages: '256'
   publication_year: '2011'
   series: Fairyland

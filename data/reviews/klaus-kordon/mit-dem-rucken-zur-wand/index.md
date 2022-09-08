@@ -9,6 +9,7 @@ book:
   goodreads: '1817446'
   isbn10: 340778922X
   isbn13: '9783407789228'
+  owned: false
   pages: 452
   publication_year: '1990'
   series: Wendepunkte

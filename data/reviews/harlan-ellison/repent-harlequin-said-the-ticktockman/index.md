@@ -9,6 +9,7 @@ book:
   goodreads: '90629'
   isbn10: '1887424350'
   isbn13: '9781887424356'
+  owned: false
   pages: 48
   publication_year: '1965'
   source: https://compositionawebb.pbworks.com/f/%255C%27Repent,%2BHarlequin!%255C%27%2BSaid%2Bthe%2BTicktockman%2Bby%2BHarlan%2BEllison.pdf

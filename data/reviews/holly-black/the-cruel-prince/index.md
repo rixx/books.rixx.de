@@ -5,6 +5,7 @@ book:
   goodreads: '26032825'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '370'
   publication_year: '2018'
   series: The Folk of the Air

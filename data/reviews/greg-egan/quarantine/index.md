@@ -9,6 +9,7 @@ book:
   goodreads: '156775'
   isbn10: '0061054232'
   isbn13: '9780061054235'
+  owned: false
   pages: 288
   publication_year: '1992'
   series: Subjective Cosmology

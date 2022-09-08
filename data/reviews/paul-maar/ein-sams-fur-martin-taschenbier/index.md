@@ -9,6 +9,7 @@ book:
   goodreads: '1632936'
   isbn10: '3789142107'
   isbn13: '9783789142109'
+  owned: false
   pages: 207
   publication_year: '1996'
   series: Sams

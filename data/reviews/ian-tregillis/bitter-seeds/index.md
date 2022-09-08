@@ -9,6 +9,7 @@ book:
   goodreads: '6881685'
   isbn10: '0765321505'
   isbn13: '9780765321503'
+  owned: false
   pages: 352
   publication_year: '2010'
   series: The Milkweed Triptych

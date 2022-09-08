@@ -9,6 +9,7 @@ book:
   goodreads: '153747'
   isbn10: '0142437247'
   isbn13: '9780142437247'
+  owned: false
   pages: 654
   publication_year: '1851'
   spine_color: '#706c42'
@@ -17,7 +18,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: daniel-defoe/robinson-crusoe
-  text: Old-timer adventure story, also hard to read. (Yes, I know that there are centuries in between.)
+  text: Old-timer adventure story, also hard to read. (Yes, I know that there are
+    centuries in between.)
 review:
   date_read:
   - 2006-12-01

@@ -5,6 +5,7 @@ book:
   goodreads: '7697892'
   isbn10: 0765320789
   isbn13: '9780765320780'
+  owned: false
   pages: '367'
   publication_year: '2010'
   spine_color: '#dca637'

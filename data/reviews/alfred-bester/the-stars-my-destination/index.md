@@ -9,6 +9,7 @@ book:
   goodreads: '333867'
   isbn10: 0679767800
   isbn13: '9780679767800'
+  owned: false
   pages: 258
   publication_year: '1955'
   spine_color: '#885f12'

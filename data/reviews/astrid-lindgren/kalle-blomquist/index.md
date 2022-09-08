@@ -5,6 +5,7 @@ book:
   goodreads: '42329'
   isbn10: '3789141305'
   isbn13: '9783789141300'
+  owned: false
   pages: '473'
   publication_year: '1946'
   series_position: '1'

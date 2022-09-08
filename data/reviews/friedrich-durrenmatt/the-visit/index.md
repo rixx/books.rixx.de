@@ -9,6 +9,7 @@ book:
   goodreads: '317764'
   isbn10: 0802130666
   isbn13: '9780802130662'
+  owned: false
   pages: 112
   publication_year: '1962'
   spine_color: '#a52015'

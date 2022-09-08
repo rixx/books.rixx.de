@@ -9,6 +9,7 @@ book:
   goodreads: '13651'
   isbn10: 0061054887
   isbn13: '9780061054884'
+  owned: false
   pages: 400
   publication_year: '1974'
   series: Hainish Cycle

@@ -9,6 +9,7 @@ book:
   goodreads: '36373298'
   isbn10: '1534413499'
   isbn13: '9781534413498'
+  owned: false
   pages: 304
   publication_year: '2018'
   series: The Sixth World

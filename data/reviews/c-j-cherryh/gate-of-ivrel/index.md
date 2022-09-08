@@ -5,6 +5,7 @@ book:
   goodreads: '57084'
   isbn10: 0886772575
   isbn13: '9780886772574'
+  owned: false
   pages: '191'
   publication_year: '1976'
   series: Gate of Ivrel

@@ -9,6 +9,7 @@ book:
   goodreads: '9922371'
   isbn10: '1604864036'
   isbn13: '9781604864038'
+  owned: false
   pages: 128
   publication_year: '2011'
   spine_color: '#a52928'

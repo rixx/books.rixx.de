@@ -9,6 +9,7 @@ book:
   goodreads: '18138189'
   isbn10: '0425265625'
   isbn13: '9780425265628'
+  owned: false
   pages: 608
   publication_year: '2014'
   series: Raven's Shadow

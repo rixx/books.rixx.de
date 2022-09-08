@@ -9,6 +9,7 @@ book:
   goodreads: '39988'
   isbn10: '0141301066'
   isbn13: '9780141301068'
+  owned: false
   pages: 240
   publication_year: '1988'
   spine_color: '#767558'

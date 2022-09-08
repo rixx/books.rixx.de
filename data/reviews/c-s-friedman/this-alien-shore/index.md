@@ -9,6 +9,7 @@ book:
   goodreads: '36162'
   isbn10: 0886777992
   isbn13: '9780886777999'
+  owned: false
   pages: 564
   publication_year: '1998'
   spine_color: '#85644d'
@@ -19,7 +20,8 @@ plan:
   date_added: 2021-12-11
 related_books:
 - book: brandon-sanderson/legion
-  text: Yes, this is me saying that Sanderson does a character arc better. Will wonders never cease.
+  text: Yes, this is me saying that Sanderson does a character arc better. Will wonders
+    never cease.
 - book: frank-herbert/dune
   text: Pilots ruling the universe by keeping control of fast travel? This way, please.
 review:

@@ -7,6 +7,7 @@ book:
   goodreads: '16343'
   isbn10: 0646418432
   isbn13: '9780646418438'
+  owned: false
   pages: '121'
   publication_year: '1920'
   series: Hercule Poirot

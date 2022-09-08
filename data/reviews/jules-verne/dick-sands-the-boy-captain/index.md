@@ -3,6 +3,7 @@ book:
   author: Jules Verne
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298481301l/237699._SX98_.jpg
   goodreads: '237699'
+  owned: false
   pages: '492'
   publication_year: '1878'
   series: The Extraordinary Voyages

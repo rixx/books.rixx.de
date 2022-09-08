@@ -7,6 +7,7 @@ book:
   goodreads: '5907'
   isbn10: 0618260307
   isbn13: '9780618260300'
+  owned: true
   pages: 366
   publication_year: '1937'
   spine_color: '#107d4b'
@@ -28,7 +29,7 @@ related_books:
   text: For more of this gently exploratory feeling, The Neverending Story works,
     provided you don't have a problem with thinly veiled moral lessons.
 - book: maria-dahvana-headley/beowulf
-  text: ...
+  text: '...'
 review:
   date_read:
   - 2000-07-01

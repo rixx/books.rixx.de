@@ -9,6 +9,7 @@ book:
   goodreads: '6437061'
   isbn10: 0316043915
   isbn13: '9780316043915'
+  owned: false
   pages: 432
   publication_year: '2010'
   series: Inheritance

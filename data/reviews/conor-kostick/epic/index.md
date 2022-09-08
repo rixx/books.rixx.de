@@ -9,6 +9,7 @@ book:
   goodreads: '1003985'
   isbn10: 0670061794
   isbn13: '9780670061792'
+  owned: false
   pages: 364
   publication_year: '2004'
   series: Epic

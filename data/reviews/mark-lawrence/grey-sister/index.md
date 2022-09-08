@@ -7,6 +7,7 @@ book:
   goodreads: '35530652'
   isbn10: 0008152349
   isbn13: '9780008152345'
+  owned: false
   pages: '416'
   publication_year: '2018'
   series: Book of the Ancestor

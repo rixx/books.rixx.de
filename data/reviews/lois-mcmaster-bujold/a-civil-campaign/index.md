@@ -9,6 +9,7 @@ book:
   goodreads: '61899'
   isbn10: 0671578855
   isbn13: '9780671578855'
+  owned: true
   pages: 544
   publication_year: '1999'
   series: Vorkosigan Saga

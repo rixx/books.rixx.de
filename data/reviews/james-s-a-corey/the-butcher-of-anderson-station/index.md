@@ -7,6 +7,7 @@ book:
   goodreads: '11570653'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '40'
   publication_year: '2011'
   series: The Expanse

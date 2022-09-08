@@ -3,6 +3,7 @@ book:
   author: Franz Kafka
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359061917l/485894.jpg
   goodreads: '485894'
+  owned: false
   pages: '201'
   publication_year: '1915'
   spine_color: '#ddc389'

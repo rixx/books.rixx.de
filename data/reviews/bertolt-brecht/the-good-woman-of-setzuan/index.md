@@ -9,6 +9,7 @@ book:
   goodreads: '64416'
   isbn10: 0816635277
   isbn13: '9780816635276'
+  owned: false
   pages: 112
   publication_year: '1953'
   spine_color: '#827976'

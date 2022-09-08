@@ -9,6 +9,7 @@ book:
   goodreads: '948061'
   isbn10: '8186211837'
   isbn13: '9788186211830'
+  owned: false
   pages: 64
   publication_year: '1905'
   spine_color: '#8c0505'

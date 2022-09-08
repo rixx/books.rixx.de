@@ -7,6 +7,7 @@ book:
   goodreads: '26194013'
   isbn10: '1409149501'
   isbn13: '9781409149507'
+  owned: false
   pages: '307'
   publication_year: '2016'
   series: Flavia de Luce

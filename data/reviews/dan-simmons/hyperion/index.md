@@ -9,6 +9,7 @@ book:
   goodreads: '77566'
   isbn10: 0553283685
   isbn13: '9780553283686'
+  owned: false
   pages: 482
   publication_year: '1989'
   series: Hyperion Cantos

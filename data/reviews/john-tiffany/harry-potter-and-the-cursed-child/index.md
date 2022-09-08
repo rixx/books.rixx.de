@@ -9,6 +9,7 @@ book:
   goodreads: '29056083'
   isbn10: '0751565350'
   isbn13: '9780751565355'
+  owned: false
   pages: 352
   publication_year: '2016'
   series: Harry Potter

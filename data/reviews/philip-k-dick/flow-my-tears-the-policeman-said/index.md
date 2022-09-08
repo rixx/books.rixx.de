@@ -5,6 +5,7 @@ book:
   goodreads: '22584'
   isbn10: '1857983416'
   isbn13: '9781857983418'
+  owned: false
   pages: '204'
   publication_year: '1974'
   spine_color: '#c65a55'

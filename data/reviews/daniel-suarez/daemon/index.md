@@ -9,6 +9,7 @@ book:
   goodreads: '4699575'
   isbn10: 0525951113
   isbn13: '9780525951117'
+  owned: false
   pages: 448
   publication_year: '2006'
   series: Daemon

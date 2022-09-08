@@ -9,6 +9,7 @@ book:
   goodreads: '2278387'
   isbn10: 0441015948
   isbn13: '9780441015948'
+  owned: true
   pages: 323
   publication_year: '2008'
   series: Freyaverse

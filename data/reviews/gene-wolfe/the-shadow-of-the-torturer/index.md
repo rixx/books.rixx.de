@@ -7,6 +7,7 @@ book:
   goodreads: '60211'
   isbn10: '0671540661'
   isbn13: '9780671540661'
+  owned: false
   pages: 262
   publication_year: '1980'
   series: The Book of the New Sun

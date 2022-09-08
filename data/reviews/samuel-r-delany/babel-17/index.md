@@ -7,6 +7,7 @@ book:
   goodreads: '1199688'
   isbn10: 0839823282
   isbn13: '9780839823285'
+  owned: false
   pages: 192
   publication_year: '1966'
   spine_color: '#a03123'

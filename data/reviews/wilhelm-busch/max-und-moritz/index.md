@@ -5,6 +5,7 @@ book:
   goodreads: '854836'
   isbn10: '3938264624'
   isbn13: '9783938264621'
+  owned: true
   pages: '32'
   publication_year: '1865'
   spine_color: '#f5e32f'

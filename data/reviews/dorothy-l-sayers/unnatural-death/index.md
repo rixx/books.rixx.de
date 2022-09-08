@@ -9,6 +9,7 @@ book:
   goodreads: '192892'
   isbn10: 0061043583
   isbn13: '9780061043581'
+  owned: false
   pages: 288
   publication_year: '1927'
   series: Lord Peter Wimsey

@@ -9,6 +9,7 @@ book:
   goodreads: '3586'
   isbn10: '1593082045'
   isbn13: '9781593082048'
+  owned: false
   pages: 752
   publication_year: '1914'
   spine_color: '#d7403b'

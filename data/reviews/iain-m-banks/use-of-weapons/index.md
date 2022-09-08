@@ -9,6 +9,7 @@ book:
   goodreads: '12007'
   isbn10: 185723135X
   isbn13: '9781857231359'
+  owned: false
   pages: 411
   publication_year: '1990'
   series: Culture

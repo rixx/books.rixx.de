@@ -9,6 +9,7 @@ book:
   goodreads: '62031'
   isbn10: 0099490579
   isbn13: '9780099490579'
+  owned: true
   pages: 461
   publication_year: '2004'
   series: Zamonen

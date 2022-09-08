@@ -5,6 +5,7 @@ book:
   goodreads: '331256'
   isbn10: '0575070536'
   isbn13: '9780575070530'
+  owned: false
   pages: '145'
   publication_year: '1972'
   spine_color: '#dbd19b'

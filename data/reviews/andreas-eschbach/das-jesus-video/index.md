@@ -9,6 +9,7 @@ book:
   goodreads: '982960'
   isbn10: '3404142942'
   isbn13: '9783404142941'
+  owned: false
   pages: 651
   publication_year: '1998'
   spine_color: '#6a4d58'

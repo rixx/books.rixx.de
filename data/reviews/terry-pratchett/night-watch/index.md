@@ -9,6 +9,7 @@ book:
   goodreads: '47989'
   isbn10: 055215430X
   isbn13: '9780552154307'
+  owned: false
   pages: 480
   publication_year: '2002'
   series: Discworld

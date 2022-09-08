@@ -9,6 +9,7 @@ book:
   goodreads: '29939336'
   isbn10: 0765337568
   isbn13: '9780765337566'
+  owned: false
   pages: 336
   publication_year: '2017'
   series: Empire Games

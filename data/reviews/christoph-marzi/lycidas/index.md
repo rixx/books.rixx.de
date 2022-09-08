@@ -5,6 +5,7 @@ book:
   goodreads: '1303536'
   isbn10: '3453530063'
   isbn13: '9783453530065'
+  owned: false
   pages: '864'
   publication_year: '2004'
   series: Uralte Metropole

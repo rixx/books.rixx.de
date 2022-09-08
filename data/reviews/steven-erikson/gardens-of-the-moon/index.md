@@ -5,6 +5,7 @@ book:
   goodreads: '55399'
   isbn10: 0765348780
   isbn13: '9780765348784'
+  owned: false
   pages: '657'
   publication_year: '1999'
   series: Malazan Book of the Fallen

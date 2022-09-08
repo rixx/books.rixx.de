@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 18.0
   goodreads: '18423'
+  owned: false
   pages: '304'
   publication_year: '1969'
   series: Hainish Cycle

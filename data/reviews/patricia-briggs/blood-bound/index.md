@@ -9,6 +9,7 @@ book:
   goodreads: '285205'
   isbn10: 0441014739
   isbn13: '9780441014736'
+  owned: false
   pages: 292
   publication_year: '2007'
   series: Mercy Thompson

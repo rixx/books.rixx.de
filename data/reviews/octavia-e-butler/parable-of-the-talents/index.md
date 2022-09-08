@@ -9,6 +9,7 @@ book:
   goodreads: '60932'
   isbn10: 0446610380
   isbn13: '9780446610384'
+  owned: false
   pages: 448
   publication_year: '1998'
   series: Earthseed

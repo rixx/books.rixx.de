@@ -9,6 +9,7 @@ book:
   goodreads: '360470'
   isbn10: '3596200199'
   isbn13: '9783596200191'
+  owned: false
   pages: 188
   publication_year: '1912'
   spine_color: '#f5f7eb'
@@ -19,8 +20,8 @@ plan:
   date_added: '2015-04-08'
 related_books:
 - book: franz-kafka/the-trial
-  text: The Trial is closest to Kafka's shorter fiction, as it's more coherent
-    and less horrifying than the rest.
+  text: The Trial is closest to Kafka's shorter fiction, as it's more coherent and
+    less horrifying than the rest.
 - book: friedrich-durrenmatt/the-visit
   text: Dürrenmatt at his bleakest always reminds me of Kafka at his warmest.
 - book: china-mieville/this-census-taker

@@ -7,6 +7,7 @@ book:
   goodreads: '7260188'
   isbn10: 0439023513
   isbn13: '9780439023511'
+  owned: false
   pages: '390'
   publication_year: '2010'
   series: The Hunger Games

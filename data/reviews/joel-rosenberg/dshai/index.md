@@ -9,6 +9,7 @@ book:
   goodreads: '390182'
   isbn10: '0441157513'
   isbn13: '9780441157518'
+  owned: false
   pages: 327
   publication_year: '1991'
   spine_color: '#8e4e18'

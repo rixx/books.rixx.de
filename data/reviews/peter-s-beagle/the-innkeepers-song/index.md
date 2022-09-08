@@ -5,6 +5,7 @@ book:
   goodreads: '11938'
   isbn10: 0451452887
   isbn13: '9780451452887'
+  owned: false
   pages: '346'
   publication_year: '1993'
   spine_color: '#947f79'

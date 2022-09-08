@@ -5,6 +5,7 @@ book:
   goodreads: '40537059'
   isbn10: 0316388696
   isbn13: '9780316388696'
+  owned: false
   pages: '416'
   publication_year: '2019'
   spine_color: '#695432'

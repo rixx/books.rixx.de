@@ -9,6 +9,7 @@ book:
   goodreads: '39603796'
   isbn10: '0316417157'
   isbn13: '9780316417150'
+  owned: false
   pages: 560
   publication_year: '2019'
   spine_color: '#a87373'

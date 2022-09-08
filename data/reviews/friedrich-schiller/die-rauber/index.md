@@ -7,6 +7,7 @@ book:
   goodreads: '942336'
   isbn10: '3150000157'
   isbn13: '9783150000151'
+  owned: false
   pages: 176
   publication_year: '1781'
   spine_color: '#f6f501'

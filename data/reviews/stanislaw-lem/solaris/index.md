@@ -9,6 +9,7 @@ book:
   goodreads: '1458525'
   isbn10: '3548606113'
   isbn13: '9783548606118'
+  owned: false
   pages: 282
   publication_year: '1961'
   spine_color: '#734b41'

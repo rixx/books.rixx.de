@@ -9,6 +9,7 @@ book:
   goodreads: '343'
   isbn10: 0140120831
   isbn13: '9780140120837'
+  owned: false
   pages: 263
   publication_year: '1985'
   spine_color: '#e0c972'

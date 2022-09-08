@@ -8,6 +8,7 @@ book:
   goodreads: '2082122'
   isbn10: '3896673483'
   isbn13: '9783896673480'
+  owned: true
   pages: 268
   publication_year: '2007'
   spine_color: '#90989c'

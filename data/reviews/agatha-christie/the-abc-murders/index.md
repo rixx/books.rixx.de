@@ -9,6 +9,7 @@ book:
   goodreads: '16322'
   isbn10: '1579126243'
   isbn13: '9781579126247'
+  owned: false
   pages: 252
   publication_year: '1936'
   series: Hercule Poirot

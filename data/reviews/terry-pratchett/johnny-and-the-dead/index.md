@@ -9,6 +9,7 @@ book:
   goodreads: '34528'
   isbn10: 0060541881
   isbn13: '9780060541880'
+  owned: false
   pages: 213
   publication_year: '1993'
   series: Johnny Maxwell

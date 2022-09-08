@@ -7,6 +7,7 @@ book:
   goodreads: '884288'
   isbn10: 0061056901
   isbn13: '9780061056901'
+  owned: false
   pages: '368'
   publication_year: '1994'
   series: Discworld

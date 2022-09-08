@@ -5,6 +5,7 @@ book:
   goodreads: '39977753'
   isbn10: null
   isbn13: '9780990859659'
+  owned: false
   pages: '618'
   publication_year: '2018'
   series: The Dark Profit Saga

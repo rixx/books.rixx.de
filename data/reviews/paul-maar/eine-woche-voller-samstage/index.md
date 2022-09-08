@@ -9,6 +9,7 @@ book:
   goodreads: '2092839'
   isbn10: '3789119520'
   isbn13: '9783789119521'
+  owned: false
   pages: 160
   publication_year: '1973'
   series: Sams

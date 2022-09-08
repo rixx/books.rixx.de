@@ -9,6 +9,7 @@ book:
   goodreads: '17245'
   isbn10: 0393970124
   isbn13: '9780393970128'
+  owned: false
   pages: 492
   publication_year: '1897'
   spine_color: '#230204'

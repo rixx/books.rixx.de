@@ -9,6 +9,7 @@ book:
   goodreads: '1839455'
   isbn10: '3791504568'
   isbn13: '9783791504568'
+  owned: false
   pages: 256
   publication_year: '1998'
   series: Die Wilden Hühner

@@ -9,6 +9,7 @@ book:
   goodreads: '136251'
   isbn10: '0545010225'
   isbn13: '9780545010221'
+  owned: false
   pages: 759
   publication_year: '2007'
   series: Harry Potter

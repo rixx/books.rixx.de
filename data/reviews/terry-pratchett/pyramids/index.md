@@ -9,16 +9,17 @@ book:
   goodreads: '64217'
   isbn10: '0061020656'
   isbn13: '9780061020650'
+  owned: false
   pages: 352
   publication_year: '1989'
   series: Discworld
   series_position: '7'
   spine_color: '#7d324e'
-  title: Pyramids
   tags:
   - fantasy
   - bsfa-award-nominees
   - bsfa-award
+  title: Pyramids
 plan:
   date_added: '2015-04-08'
 related_books:

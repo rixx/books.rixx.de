@@ -9,6 +9,7 @@ book:
   goodreads: '88076'
   isbn10: '1400040019'
   isbn13: '9781400040018'
+  owned: false
   pages: 1492
   publication_year: '1943'
   spine_color: '#7d6e62'

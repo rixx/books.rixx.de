@@ -9,6 +9,7 @@ book:
   goodreads: '2199365'
   isbn10: 097888115X
   isbn13: '9780978881153'
+  owned: false
   pages: 256
   publication_year: '2007'
   spine_color: '#0311db'

@@ -7,6 +7,7 @@ book:
   goodreads: '41865'
   isbn10: 0316015849
   isbn13: '9780316015844'
+  owned: false
   pages: 544
   publication_year: '2005'
   series: Twilight

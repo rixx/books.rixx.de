@@ -9,6 +9,7 @@ book:
   goodreads: '257149'
   isbn10: 0345494571
   isbn13: '9780345494573'
+  owned: false
   pages: 483
   publication_year: '2005'
   series: Troy

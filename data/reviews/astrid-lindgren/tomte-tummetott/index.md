@@ -5,6 +5,7 @@ book:
   goodreads: '1414658'
   isbn10: '3789161306'
   isbn13: '9783789161308'
+  owned: false
   pages: '32'
   publication_year: '1961'
   spine_color: '#cff3d5'

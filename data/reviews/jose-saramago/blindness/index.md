@@ -9,6 +9,7 @@ book:
   goodreads: '2526'
   isbn10: '0156007754'
   isbn13: '9780156007757'
+  owned: false
   pages: 327
   publication_year: '1995'
   spine_color: '#c8cac1'

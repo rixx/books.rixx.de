@@ -9,6 +9,7 @@ book:
   goodreads: '12633800'
   isbn10: '1463750358'
   isbn13: '9781463750350'
+  owned: false
   pages: 262
   publication_year: '2011'
   spine_color: '#8c282e'

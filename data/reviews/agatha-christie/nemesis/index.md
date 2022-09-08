@@ -9,6 +9,7 @@ book:
   goodreads: '31304'
   isbn10: 0451200187
   isbn13: '9780451200181'
+  owned: false
   pages: 224
   publication_year: '1971'
   series: Miss Marple

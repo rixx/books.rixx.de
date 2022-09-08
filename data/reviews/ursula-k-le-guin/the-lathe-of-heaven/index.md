@@ -9,6 +9,7 @@ book:
   goodreads: '59924'
   isbn10: '0060512741'
   isbn13: '9780060512743'
+  owned: false
   pages: 176
   publication_year: '1971'
   spine_color: '#d9ae7f'

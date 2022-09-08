@@ -9,6 +9,7 @@ book:
   goodreads: '62291'
   isbn10: 055357342X
   isbn13: '9780553573428'
+  owned: true
   pages: 1177
   publication_year: '2000'
   series: A Song of Ice and Fire

@@ -9,6 +9,7 @@ book:
   goodreads: '74656'
   isbn10: 0192893211
   isbn13: '9780192893215'
+  owned: false
   pages: 148
   publication_year: '2001'
   spine_color: '#b7c360'

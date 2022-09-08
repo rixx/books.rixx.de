@@ -9,6 +9,7 @@ book:
   goodreads: '52853'
   isbn10: 0425171698
   isbn13: '9780425171691'
+  owned: false
   pages: 240
   publication_year: '1998'
   spine_color: '#6d6766'

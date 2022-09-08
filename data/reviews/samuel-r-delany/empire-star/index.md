@@ -5,6 +5,7 @@ book:
   goodreads: '1150390'
   isbn10: '0553234250'
   isbn13: '9780553234251'
+  owned: false
   pages: '132'
   publication_year: '1966'
   spine_color: '#346483'

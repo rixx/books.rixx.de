@@ -3,6 +3,7 @@ book:
   author: Ursula K. Le Guin
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430909906l/2506433.jpg
   goodreads: '2506433'
+  owned: false
   pages: '20'
   publication_year: '1974'
   spine_color: '#fbfbfb'

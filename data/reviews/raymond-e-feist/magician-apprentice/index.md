@@ -9,6 +9,7 @@ book:
   goodreads: '13812'
   isbn10: 0553564943
   isbn13: '9780553564945'
+  owned: false
   pages: 485
   publication_year: '1982'
   series: The Riftwar Saga

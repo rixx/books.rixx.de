@@ -5,6 +5,7 @@ book:
   goodreads: '19090384'
   isbn10: '1625173431'
   isbn13: '9781625173430'
+  owned: false
   pages: '225'
   publication_year: '2013'
   series: Innkeeper Chronicles

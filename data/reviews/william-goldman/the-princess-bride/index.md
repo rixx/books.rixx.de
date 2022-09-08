@@ -9,6 +9,7 @@ book:
   goodreads: '21787'
   isbn10: 0345418263
   isbn13: '9780345418265'
+  owned: false
   pages: 456
   publication_year: '1973'
   spine_color: '#6a6a52'

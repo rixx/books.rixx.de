@@ -9,6 +9,7 @@ book:
   goodreads: '152380'
   isbn10: 0152058109
   isbn13: '9780152058104'
+  owned: false
   pages: 209
   publication_year: '1934'
   series: Mary Poppins

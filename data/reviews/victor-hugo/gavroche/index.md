@@ -3,6 +3,7 @@ book:
   author: Victor Hugo
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586713938l/53145311._SY475_.jpg
   goodreads: '53145311'
+  owned: true
   pages: '142'
   publication_year: '1957'
   spine_color: '#8f7d6b'

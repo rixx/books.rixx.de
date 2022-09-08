@@ -9,6 +9,7 @@ book:
   goodreads: '13659'
   isbn10: '0441011241'
   isbn13: '9780441011247'
+  owned: false
   pages: 280
   publication_year: '2001'
   series: Earthsea Cycle

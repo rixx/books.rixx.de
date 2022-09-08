@@ -9,6 +9,7 @@ book:
   goodreads: '17690'
   isbn10: 0099428644
   isbn13: '9780099428640'
+  owned: false
   pages: 256
   publication_year: '1925'
   spine_color: '#95918f'

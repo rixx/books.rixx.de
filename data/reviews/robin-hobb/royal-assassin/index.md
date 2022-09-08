@@ -9,6 +9,7 @@ book:
   goodreads: '68487'
   isbn10: 0006480101
   isbn13: '9780006480105'
+  owned: false
   pages: 752
   publication_year: '1996'
   series: Farseer Trilogy

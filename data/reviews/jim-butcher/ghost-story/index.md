@@ -9,6 +9,7 @@ book:
   goodreads: '8058301'
   isbn10: 045146379X
   isbn13: '9780451463791'
+  owned: false
   pages: 481
   publication_year: '2011'
   series: The Dresden Files

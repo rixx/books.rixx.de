@@ -9,6 +9,7 @@ book:
   goodreads: '66479'
   isbn10: 0812575857
   isbn13: '9780812575859'
+  owned: false
   pages: 384
   publication_year: '1999'
   series: Rifters

@@ -9,6 +9,7 @@ book:
   goodreads: '22055276'
   isbn10: '0765332663'
   isbn13: '9780765332660'
+  owned: false
   pages: 368
   publication_year: '2015'
   series: Thessaly

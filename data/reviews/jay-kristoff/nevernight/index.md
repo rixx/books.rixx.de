@@ -9,6 +9,7 @@ book:
   goodreads: '26114463'
   isbn10: '1250073022'
   isbn13: '9781250073020'
+  owned: false
   pages: 448
   publication_year: '2016'
   series: The Nevernight Chronicle

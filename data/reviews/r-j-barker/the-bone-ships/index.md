@@ -9,6 +9,7 @@ book:
   goodreads: '43521682'
   isbn10: 0316487961
   isbn13: '9780316487962'
+  owned: false
   pages: 512
   publication_year: '2019'
   series: The Tide Child

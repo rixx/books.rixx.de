@@ -5,6 +5,7 @@ book:
   goodreads: '285563'
   isbn10: '1876756055'
   isbn13: '9781876756055'
+  owned: false
   pages: '327'
   publication_year: '1984'
   series: Native Tongue

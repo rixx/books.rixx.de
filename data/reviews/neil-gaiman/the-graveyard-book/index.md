@@ -9,6 +9,7 @@ book:
   goodreads: '2213661'
   isbn10: 0060530928
   isbn13: '9780060530921'
+  owned: false
   pages: 320
   publication_year: '2008'
   spine_color: '#7f94b0'

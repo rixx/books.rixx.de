@@ -9,6 +9,7 @@ book:
   goodreads: '623976'
   isbn10: 0439925509
   isbn13: '9780439925501'
+  owned: true
   pages: 308
   publication_year: '2007'
   series: Alcatraz

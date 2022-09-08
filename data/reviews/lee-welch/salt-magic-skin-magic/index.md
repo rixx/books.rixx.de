@@ -5,6 +5,7 @@ book:
   goodreads: '40722060'
   isbn10: null
   isbn13: '9780473444518'
+  owned: false
   pages: '241'
   publication_year: '2018'
   spine_color: '#c2d7d3'

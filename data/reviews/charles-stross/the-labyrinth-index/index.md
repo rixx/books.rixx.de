@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22.0
   goodreads: '36053406'
+  owned: false
   pages: '384'
   publication_year: '2018'
   series: Laundry Files

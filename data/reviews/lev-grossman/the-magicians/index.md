@@ -9,6 +9,7 @@ book:
   goodreads: '6101718'
   isbn10: 0670020559
   isbn13: '9780670020553'
+  owned: false
   pages: 402
   publication_year: '2009'
   series: The Magicians

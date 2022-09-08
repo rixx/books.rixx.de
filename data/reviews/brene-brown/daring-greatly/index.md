@@ -9,6 +9,7 @@ book:
   goodreads: '13588356'
   isbn10: '1592407331'
   isbn13: '9781592407330'
+  owned: false
   pages: 287
   publication_year: '2012'
   spine_color: '#3fb0cc'

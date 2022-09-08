@@ -9,6 +9,7 @@ book:
   goodreads: '40380954'
   isbn10: 0765395819
   isbn13: '9780765395818'
+  owned: false
   pages: 480
   publication_year: '2019'
   spine_color: '#4f5d63'

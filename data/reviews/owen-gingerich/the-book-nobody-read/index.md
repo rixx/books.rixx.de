@@ -9,6 +9,7 @@ book:
   goodreads: '1188644'
   isbn10: '0143034766'
   isbn13: '9780143034766'
+  owned: false
   pages: 306
   publication_year: '2004'
   spine_color: '#c17728'
@@ -23,7 +24,8 @@ related_books:
   text: Mentioned this book in its bibliography for more insight into Copernicus and
     astronomical teaching at universities.
 - book: james-m-lattis/between-copernicus-and-galileo
-  text: Personally connected to Gingerich and also about Galileo and cosmology just before his time.
+  text: Personally connected to Gingerich and also about Galileo and cosmology just
+    before his time.
 review:
   date_read:
   - 2021-11-09

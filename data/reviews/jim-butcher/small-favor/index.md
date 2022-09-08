@@ -9,6 +9,7 @@ book:
   goodreads: '927979'
   isbn10: 0451461894
   isbn13: '9780451461896'
+  owned: false
   pages: 423
   publication_year: '2008'
   series: The Dresden Files

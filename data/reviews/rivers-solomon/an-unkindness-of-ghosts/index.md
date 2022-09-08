@@ -9,6 +9,7 @@ book:
   goodreads: '34381254'
   isbn10: '1617755885'
   isbn13: '9781617755880'
+  owned: false
   pages: 351
   publication_year: '2017'
   spine_color: '#3a4f57'

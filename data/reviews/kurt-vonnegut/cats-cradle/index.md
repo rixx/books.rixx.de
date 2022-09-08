@@ -9,6 +9,7 @@ book:
   goodreads: '135479'
   isbn10: 0140285601
   isbn13: '9780140285604'
+  owned: false
   pages: 306
   publication_year: '1963'
   spine_color: '#3c4675'

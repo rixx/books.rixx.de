@@ -5,6 +5,7 @@ book:
   goodreads: '1692783'
   isbn10: '3404154126'
   isbn13: '9783404154128'
+  owned: false
   pages: '445'
   publication_year: '2002'
   spine_color: '#c2a977'

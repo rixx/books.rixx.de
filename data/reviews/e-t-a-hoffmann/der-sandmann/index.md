@@ -5,6 +5,7 @@ book:
   goodreads: '680596'
   isbn10: '3458326340'
   isbn13: '9783458326342'
+  owned: false
   pages: '83'
   publication_year: '1816'
   spine_color: '#222f46'

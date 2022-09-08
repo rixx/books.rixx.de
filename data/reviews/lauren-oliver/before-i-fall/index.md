@@ -5,6 +5,7 @@ book:
   goodreads: '6482837'
   isbn10: 0061726818
   isbn13: '9780061726811'
+  owned: false
   pages: '470'
   publication_year: '2010'
   spine_color: '#6f4b31'

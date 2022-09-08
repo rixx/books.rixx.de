@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 17
   goodreads: '36165705'
+  owned: false
   pages: '142'
   publication_year: '2017'
   source: http://clarkesworldmagazine.com/palmer_09_17/

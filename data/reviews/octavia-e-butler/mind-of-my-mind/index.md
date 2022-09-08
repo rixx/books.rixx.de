@@ -9,6 +9,7 @@ book:
   goodreads: '116254'
   isbn10: 0446361887
   isbn13: '9780446361880'
+  owned: false
   pages: 224
   publication_year: '1977'
   series: Patternmaster

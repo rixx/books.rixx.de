@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 25
   goodreads: '7927173'
+  owned: false
   pages: '255'
   publication_year: '1951'
   series: Die Söhne der Großen Bärin

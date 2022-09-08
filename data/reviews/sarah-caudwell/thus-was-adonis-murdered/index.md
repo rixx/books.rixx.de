@@ -5,6 +5,7 @@ book:
   goodreads: '234327'
   isbn10: '0440212316'
   isbn13: '9780440212317'
+  owned: false
   pages: '314'
   publication_year: '1981'
   series: Hilary Tamar

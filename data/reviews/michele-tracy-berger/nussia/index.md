@@ -4,6 +4,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529578290l/40602716._SY475_.jpg
   goodreads: '40602716'
   isbn13: '9781942302735'
+  owned: false
   pages: 25
   publication_year: '2018'
   source: https://www.thebooksmugglers.com/2018/06/nussia-by-michele-tracy-berger.html

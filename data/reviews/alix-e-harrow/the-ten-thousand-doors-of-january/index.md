@@ -9,6 +9,7 @@ book:
   goodreads: '43521657'
   isbn10: 0316421995
   isbn13: '9780316421997'
+  owned: false
   pages: 384
   publication_year: '2019'
   spine_color: '#8b6e42'

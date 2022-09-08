@@ -7,6 +7,7 @@ book:
   goodreads: '47572'
   isbn10: 0060298790
   isbn13: '9780060298791'
+  owned: false
   pages: '288'
   publication_year: '1982'
   series: Chrestomanci

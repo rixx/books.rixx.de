@@ -7,6 +7,7 @@ book:
   goodreads: '1246526'
   isbn10: '3522105907'
   isbn13: '9783522105903'
+  owned: false
   pages: '128'
   publication_year: '1962'
   series: Hotzenplotz

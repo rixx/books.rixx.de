@@ -9,6 +9,7 @@ book:
   goodreads: '14085776'
   isbn10: '3150083737'
   isbn13: '9783150083734'
+  owned: false
   pages: 174
   publication_year: '1987'
   spine_color: '#f0df19'

@@ -5,6 +5,7 @@ book:
   goodreads: '1931795'
   isbn10: '9998070015'
   isbn13: '9789998070011'
+  owned: false
   pages: 11
   publication_year: '1958'
   source: https://urbigenous.net/library/power.html

@@ -9,6 +9,7 @@ book:
   goodreads: '51171377'
   isbn10: '1250256739'
   isbn13: '9781250256737'
+  owned: false
   pages: 384
   publication_year: '2020'
   series: Noumena

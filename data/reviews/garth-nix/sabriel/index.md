@@ -7,6 +7,7 @@ book:
   goodreads: '518848'
   isbn10: 0064471837
   isbn13: '9780064471831'
+  owned: false
   pages: '491'
   publication_year: '1995'
   series: Abhorsen

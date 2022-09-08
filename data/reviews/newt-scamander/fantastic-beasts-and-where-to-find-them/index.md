@@ -5,6 +5,7 @@ book:
   goodreads: '41899'
   isbn10: 0439321603
   isbn13: '9780439321600'
+  owned: false
   pages: '128'
   publication_year: '2001'
   spine_color: '#c99b3c'

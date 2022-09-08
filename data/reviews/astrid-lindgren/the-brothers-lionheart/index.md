@@ -9,6 +9,7 @@ book:
   goodreads: '19312'
   isbn10: '1930900244'
   isbn13: '9781930900240'
+  owned: false
   pages: 231
   publication_year: '1973'
   spine_color: '#93c2cb'

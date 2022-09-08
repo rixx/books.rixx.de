@@ -9,6 +9,7 @@ book:
   goodreads: '17865'
   isbn10: '1596060581'
   isbn13: '9781596060586'
+  owned: false
   pages: 99
   publication_year: '2006'
   spine_color: '#707c7e'

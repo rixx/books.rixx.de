@@ -7,6 +7,7 @@ book:
   goodreads: '28335696'
   isbn10: 0316332828
   isbn13: '9780316332828'
+  owned: false
   pages: 608
   publication_year: '2017'
   series: The Expanse

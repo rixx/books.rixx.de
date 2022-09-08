@@ -7,6 +7,7 @@ book:
   goodreads: '1692762'
   isbn10: '3404153189'
   isbn13: '9783404153183'
+  owned: false
   pages: '750'
   publication_year: '1999'
   series: Der Kreis der Dämmerung

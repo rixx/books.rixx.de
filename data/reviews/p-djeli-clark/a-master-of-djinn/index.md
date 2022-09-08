@@ -5,6 +5,7 @@ book:
   goodreads: '52504334'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '396'
   publication_year: '2021'
   series: Dead Djinn Universe

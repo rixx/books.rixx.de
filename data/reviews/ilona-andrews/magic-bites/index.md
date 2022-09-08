@@ -9,6 +9,7 @@ book:
   goodreads: '38619'
   isbn10: 0441014895
   isbn13: '9780441014897'
+  owned: false
   pages: 261
   publication_year: '2007'
   series: Kate Daniels

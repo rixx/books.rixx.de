@@ -9,6 +9,7 @@ book:
   goodreads: '42921564'
   isbn10: 0996539565
   isbn13: '9780996539562'
+  owned: false
   pages: 286
   publication_year: '2019'
   series: The Disgraced Martyr Trilogy

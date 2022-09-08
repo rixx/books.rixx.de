@@ -6,6 +6,7 @@ book:
   goodreads: '41556068'
   isbn10: '1250165075'
   isbn13: '9781250165077'
+  owned: false
   pages: 288
   publication_year: '2019'
   series: CatNet

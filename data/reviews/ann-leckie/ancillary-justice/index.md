@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 19.8
   goodreads: '18626964'
+  owned: false
   pages: '432'
   publication_year: '2013'
   series: Imperial Radch

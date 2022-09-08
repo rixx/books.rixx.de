@@ -5,6 +5,7 @@ book:
   goodreads: '30223025'
   isbn10: 0062570609
   isbn13: '9780062570604'
+  owned: false
   pages: '455'
   publication_year: '2018'
   series: Dread Nation

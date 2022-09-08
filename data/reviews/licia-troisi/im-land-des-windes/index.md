@@ -7,6 +7,7 @@ book:
   goodreads: '1739659'
   isbn10: '3453530284'
   isbn13: '9783453530287'
+  owned: false
   pages: '384'
   publication_year: '2004'
   series: Die Drachenkämpferin

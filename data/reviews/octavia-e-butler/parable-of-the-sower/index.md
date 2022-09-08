@@ -9,6 +9,7 @@ book:
   goodreads: '52397'
   isbn10: '0446675504'
   isbn13: '9780446675505'
+  owned: false
   pages: 352
   publication_year: '1993'
   series: Earthseed

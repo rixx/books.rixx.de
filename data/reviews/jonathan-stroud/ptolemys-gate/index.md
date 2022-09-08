@@ -7,6 +7,7 @@ book:
   goodreads: '844449'
   isbn10: 0552550280
   isbn13: '9780552550284'
+  owned: true
   pages: '515'
   publication_year: '2005'
   series: Bartimaeus

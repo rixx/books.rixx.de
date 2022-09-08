@@ -9,6 +9,7 @@ book:
   goodreads: '27712'
   isbn10: 0525457585
   isbn13: '9780525457589'
+  owned: true
   pages: 396
   publication_year: '1979'
   spine_color: '#9a6435'

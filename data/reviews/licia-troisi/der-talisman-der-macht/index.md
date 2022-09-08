@@ -7,6 +7,7 @@ book:
   goodreads: '6505991'
   isbn10: '3453533038'
   isbn13: '9783453533035'
+  owned: false
   pages: '510'
   publication_year: '2005'
   series: Die Drachenkämpferin

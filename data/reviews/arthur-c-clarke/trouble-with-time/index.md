@@ -2,6 +2,7 @@
 book:
   author: Arthur C. Clarke
   goodreads: '32994565'
+  owned: false
   pages: 10
   publication_year: '1960'
   tags:

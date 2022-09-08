@@ -7,6 +7,7 @@ book:
   goodreads: '22733729'
   isbn10: '1500453307'
   isbn13: '9781500453305'
+  owned: false
   pages: '518'
   publication_year: '2014'
   series: Wayfarers

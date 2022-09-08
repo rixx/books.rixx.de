@@ -9,6 +9,7 @@ book:
   goodreads: '22544764'
   isbn10: 0804179034
   isbn13: '9780804179034'
+  owned: false
   pages: 438
   publication_year: '2015'
   spine_color: '#d7cb8f'

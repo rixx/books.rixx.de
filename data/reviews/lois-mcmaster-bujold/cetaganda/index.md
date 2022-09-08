@@ -7,6 +7,7 @@ book:
   goodreads: '76812'
   isbn10: 0671877445
   isbn13: '9780671877446'
+  owned: true
   pages: '302'
   publication_year: '1995'
   series: Vorkosigan Saga

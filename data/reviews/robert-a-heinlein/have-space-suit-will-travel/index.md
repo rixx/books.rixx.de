@@ -9,6 +9,7 @@ book:
   goodreads: '20417'
   isbn10: '1416505490'
   isbn13: '9781416505495'
+  owned: false
   pages: 276
   publication_year: '1958'
   spine_color: '#aa0908'

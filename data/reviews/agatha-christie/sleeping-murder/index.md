@@ -7,6 +7,7 @@ book:
   goodreads: '16300'
   isbn10: 0002317850
   isbn13: '9780002317856'
+  owned: false
   pages: '242'
   publication_year: '1976'
   series: Miss Marple

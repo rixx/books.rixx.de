@@ -9,6 +9,7 @@ book:
   goodreads: '6174'
   isbn10: 0684826801
   isbn13: '9780684826806'
+  owned: false
   pages: 187
   publication_year: '1947'
   spine_color: '#d8d3c7'

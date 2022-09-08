@@ -9,6 +9,7 @@ book:
   goodreads: '44804083'
   isbn10: 0765399318
   isbn13: '9780765399311'
+  owned: false
   pages: 208
   publication_year: '2020'
   series: Wayward Children

@@ -9,6 +9,7 @@ book:
   goodreads: '295'
   isbn10: 0753453800
   isbn13: '9780753453803'
+  owned: false
   pages: 352
   publication_year: '1879'
   spine_color: '#a2472e'

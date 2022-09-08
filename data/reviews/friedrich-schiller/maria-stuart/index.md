@@ -5,6 +5,7 @@ book:
   goodreads: '942339'
   isbn10: '3150000645'
   isbn13: '9783150000649'
+  owned: false
   pages: '168'
   publication_year: '1800'
   spine_color: '#f3d938'

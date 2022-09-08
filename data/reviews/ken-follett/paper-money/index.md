@@ -5,6 +5,7 @@ book:
   goodreads: '759586'
   isbn10: 0451167309
   isbn13: '9780451167309'
+  owned: false
   pages: '261'
   publication_year: '1977'
   spine_color: '#634b47'

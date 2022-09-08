@@ -9,6 +9,7 @@ book:
   goodreads: '17470674'
   isbn10: 0007491565
   isbn13: '9780007491568'
+  owned: false
   pages: 227
   publication_year: '1953'
   spine_color: '#e9bd2c'

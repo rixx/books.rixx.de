@@ -9,6 +9,7 @@ book:
   goodreads: '481743'
   isbn10: 0440993717
   isbn13: '9780440993711'
+  owned: false
   pages: 138
   publication_year: '1981'
   spine_color: '#780303'

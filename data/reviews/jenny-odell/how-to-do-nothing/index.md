@@ -9,6 +9,7 @@ book:
   goodreads: '42771901'
   isbn10: '1612197493'
   isbn13: '9781612197494'
+  owned: false
   pages: 256
   publication_year: '2019'
   spine_color: '#b0365f'

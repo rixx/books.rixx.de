@@ -9,6 +9,7 @@ book:
   goodreads: '7624'
   isbn10: 0140283331
   isbn13: '9780140283334'
+  owned: false
   pages: 182
   publication_year: '1954'
   spine_color: '#9c733d'

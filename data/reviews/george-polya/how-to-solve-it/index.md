@@ -9,6 +9,7 @@ book:
   goodreads: '192221'
   isbn10: 069111966X
   isbn13: '9780691119663'
+  owned: false
   pages: 288
   publication_year: '1944'
   spine_color: '#704bd5'

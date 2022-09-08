@@ -9,6 +9,7 @@ book:
   goodreads: '116256'
   isbn10: 0446362816
   isbn13: '9780446362818'
+  owned: false
   pages: 202
   publication_year: '1976'
   series: Patternmaster

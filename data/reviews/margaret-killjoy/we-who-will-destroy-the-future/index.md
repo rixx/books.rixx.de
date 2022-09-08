@@ -3,6 +3,7 @@ book:
   author: Margaret Killjoy
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523933891l/39867494._SY475_.jpg
   goodreads: '39867494'
+  owned: false
   pages: '15'
   publication_year: '2018'
   source: https://resonanceaudiodistro.org/we-who-will-destroy-the-future/

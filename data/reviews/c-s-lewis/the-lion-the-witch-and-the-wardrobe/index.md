@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '100915'
+  owned: false
   pages: '206'
   publication_year: '1950'
   series: Chronicles of Narnia

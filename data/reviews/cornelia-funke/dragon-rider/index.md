@@ -9,6 +9,7 @@ book:
   goodreads: '100464'
   isbn10: 190444248X
   isbn13: '9781904442486'
+  owned: false
   pages: 527
   publication_year: '1997'
   series: Dragon Rider

@@ -3,6 +3,7 @@ book:
   author: Inverarity
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380421203l/18396447.jpg
   goodreads: '18396447'
+  owned: false
   pages: '585'
   publication_year: '2007'
   series: Alexandra Quick

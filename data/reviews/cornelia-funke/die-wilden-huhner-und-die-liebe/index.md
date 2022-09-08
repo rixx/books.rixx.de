@@ -9,6 +9,7 @@ book:
   goodreads: '493469'
   isbn10: '3791504649'
   isbn13: '9783791504643'
+  owned: false
   pages: 188
   publication_year: '2003'
   series: Die Wilden Hühner

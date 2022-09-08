@@ -8,6 +8,7 @@ book:
   goodreads: '65111'
   isbn10: '0064410145'
   isbn13: '9780064410144'
+  owned: false
   pages: 352
   publication_year: '2004'
   series: A Series of Unfortunate Events

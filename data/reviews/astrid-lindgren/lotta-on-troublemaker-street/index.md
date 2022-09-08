@@ -9,6 +9,7 @@ book:
   goodreads: '19319'
   isbn10: 0689846738
   isbn13: '9780689846731'
+  owned: false
   pages: 55
   publication_year: '1958'
   spine_color: '#efce0b'

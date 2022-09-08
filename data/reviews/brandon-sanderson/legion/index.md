@@ -7,6 +7,7 @@ book:
   goodreads: '13452375'
   isbn10: '1596064854'
   isbn13: '9781596064850'
+  owned: false
   pages: '88'
   publication_year: '2012'
   series: Legion

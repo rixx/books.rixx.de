@@ -7,6 +7,7 @@ book:
   goodreads: '6327'
   isbn10: 0590032496
   isbn13: '9780590032490'
+  owned: false
   pages: 208
   publication_year: '1983'
   spine_color: '#361918'

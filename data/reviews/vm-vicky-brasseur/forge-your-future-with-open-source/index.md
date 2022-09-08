@@ -9,6 +9,7 @@ book:
   goodreads: '38335454'
   isbn10: '1680503014'
   isbn13: '9781680503012'
+  owned: false
   pages: 200
   publication_year: '2018'
   spine_color: '#9f8984'

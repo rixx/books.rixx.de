@@ -3,6 +3,7 @@ book:
   author: George Orwell
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377920636l/1803144.jpg
   goodreads: '1803144'
+  owned: false
   pages: '9'
   publication_year: '1931'
   source: http://george-orwell.org/a_hanging/0.html

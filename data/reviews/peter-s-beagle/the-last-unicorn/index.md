@@ -9,6 +9,7 @@ book:
   goodreads: '29127'
   isbn10: '0451450523'
   isbn13: '9780451450524'
+  owned: false
   pages: 294
   publication_year: '1968'
   series: The Last Unicorn

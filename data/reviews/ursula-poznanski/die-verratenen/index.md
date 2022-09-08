@@ -7,6 +7,7 @@ book:
   goodreads: '15851619'
   isbn10: '3785575467'
   isbn13: '9783785575468'
+  owned: false
   pages: '464'
   publication_year: '2012'
   series: Die Verratenen

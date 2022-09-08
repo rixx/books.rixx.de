@@ -7,6 +7,7 @@ book:
   goodreads: '42267952'
   isbn10: null
   isbn13: null
+  owned: false
   pages: 178
   publication_year: '2018'
   series: Mage Errant

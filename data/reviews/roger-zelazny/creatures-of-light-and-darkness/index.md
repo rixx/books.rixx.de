@@ -7,6 +7,7 @@ book:
   goodreads: '427252'
   isbn10: 0380011220
   isbn13: '9780380011223'
+  owned: false
   pages: 192
   publication_year: '1969'
   spine_color: '#fefefe'

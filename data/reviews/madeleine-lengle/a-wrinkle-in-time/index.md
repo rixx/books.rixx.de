@@ -9,6 +9,7 @@ book:
   goodreads: '18131'
   isbn10: 0440498058
   isbn13: '9780440498056'
+  owned: false
   pages: 211
   publication_year: '1962'
   series: Time Quintet

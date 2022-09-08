@@ -3,6 +3,7 @@ book:
   author: Ken Follett
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043.jpg
   goodreads: '5043'
+  owned: false
   pages: '976'
   publication_year: '1989'
   series: Kingsbridge

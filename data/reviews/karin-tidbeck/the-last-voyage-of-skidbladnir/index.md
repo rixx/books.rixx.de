@@ -5,6 +5,7 @@ book:
   goodreads: '38492054'
   isbn10: '1250192447'
   isbn13: '9781250192448'
+  owned: false
   pages: '21'
   publication_year: '2019'
   source: https://www.tor.com/2019/01/14/karin-tidbeck-the-last-voyage-of-skidbladnir/

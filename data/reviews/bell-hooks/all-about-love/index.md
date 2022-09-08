@@ -9,6 +9,7 @@ book:
   goodreads: '17607'
   isbn10: 0688168442
   isbn13: '9780688168445'
+  owned: false
   pages: 240
   publication_year: '1999'
   spine_color: '#821c1d'

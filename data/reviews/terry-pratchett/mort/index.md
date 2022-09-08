@@ -9,6 +9,7 @@ book:
   goodreads: '386372'
   isbn10: 0061020680
   isbn13: '9780061020681'
+  owned: false
   pages: 272
   publication_year: '1987'
   series: Discworld

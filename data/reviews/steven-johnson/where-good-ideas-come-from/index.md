@@ -9,6 +9,7 @@ book:
   goodreads: '8034188'
   isbn10: '1594487715'
   isbn13: '9781594487712'
+  owned: false
   pages: 326
   publication_year: '2010'
   spine_color: '#d9d274'

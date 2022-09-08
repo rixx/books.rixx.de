@@ -9,6 +9,7 @@ book:
   goodreads: '23533039'
   isbn10: '0356502422'
   isbn13: '9780356502427'
+  owned: false
   pages: 336
   publication_year: '2015'
   series: Imperial Radch

@@ -5,14 +5,15 @@ book:
   goodreads: '39817986'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '646'
   publication_year: null
+  series: Of a Linear Circle
+  series_position: 5
   spine_color: '#dad2bf'
   tags:
   - fanfic
-  title: 'Of a Linear Circle - Part IV'
-  series: Of a Linear Circle
-  series_position: 5
+  title: Of a Linear Circle - Part IV
 plan:
   date_added: 2022-01-01
 related_books:

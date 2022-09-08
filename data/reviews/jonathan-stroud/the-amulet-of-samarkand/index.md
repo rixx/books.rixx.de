@@ -9,6 +9,7 @@ book:
   goodreads: '59267'
   isbn10: 0552550299
   isbn13: '9780552550291'
+  owned: true
   pages: 488
   publication_year: '2003'
   series: Bartimaeus

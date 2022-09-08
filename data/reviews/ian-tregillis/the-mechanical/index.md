@@ -5,6 +5,7 @@ book:
   goodreads: '20980667'
   isbn10: 0316248002
   isbn13: '9780316248006'
+  owned: false
   pages: '440'
   publication_year: '2015'
   series: The Alchemy Wars

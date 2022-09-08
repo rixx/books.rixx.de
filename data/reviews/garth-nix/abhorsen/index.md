@@ -7,6 +7,7 @@ book:
   goodreads: '334643'
   isbn10: 0060278250
   isbn13: '9780060278250'
+  owned: false
   pages: '358'
   publication_year: '2003'
   series: Abhorsen

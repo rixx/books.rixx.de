@@ -3,6 +3,7 @@ book:
   author: Stefan Zweig
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430213948l/25442918.jpg
   goodreads: '25442918'
+  owned: true
   pages: 288
   publication_year: '1929'
   spine_color: '#995b58'

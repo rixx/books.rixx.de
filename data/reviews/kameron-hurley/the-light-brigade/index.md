@@ -9,6 +9,7 @@ book:
   goodreads: '40523931'
   isbn10: '1481447963'
   isbn13: '9781481447966'
+  owned: false
   pages: 368
   publication_year: '2019'
   spine_color: '#21c3b7'

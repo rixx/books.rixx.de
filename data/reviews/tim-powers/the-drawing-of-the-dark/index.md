@@ -9,6 +9,7 @@ book:
   goodreads: '209693'
   isbn10: '0575074264'
   isbn13: '9780575074262'
+  owned: false
   pages: 336
   publication_year: '1979'
   spine_color: '#25413c'

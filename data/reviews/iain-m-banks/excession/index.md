@@ -9,6 +9,7 @@ book:
   goodreads: '12013'
   isbn10: '0553575376'
   isbn13: '9780553575378'
+  owned: false
   pages: 512
   publication_year: '1996'
   series: Culture

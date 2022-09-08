@@ -5,6 +5,7 @@ book:
   goodreads: '31200011'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '235'
   publication_year: '2006'
   source: https://www.fanfiction.net/s/3124159/3/Just-a-Random-Tuesday

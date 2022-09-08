@@ -9,6 +9,7 @@ book:
   goodreads: '629429'
   isbn10: 0803252242
   isbn13: '9780803252240'
+  owned: true
   pages: 461
   publication_year: '1941'
   spine_color: '#2a4367'

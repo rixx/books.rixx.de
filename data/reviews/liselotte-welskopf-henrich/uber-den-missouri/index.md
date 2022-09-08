@@ -7,6 +7,7 @@ book:
   goodreads: '6083621'
   isbn10: '3473388777'
   isbn13: '9783473388776'
+  owned: false
   pages: '318'
   publication_year: '1951'
   series: Die Söhne der Großen Bärin

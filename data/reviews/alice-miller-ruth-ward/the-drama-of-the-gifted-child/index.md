@@ -9,6 +9,7 @@ book:
   goodreads: '4887'
   isbn10: 0465016901
   isbn13: '9780465016907'
+  owned: false
   pages: 144
   publication_year: '1979'
   series: 'The Drama of the Gifted Child: The Search for the True Self'

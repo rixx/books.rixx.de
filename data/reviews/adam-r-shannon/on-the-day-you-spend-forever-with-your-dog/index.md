@@ -3,6 +3,7 @@ book:
   author: Jason Sizemore
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543705355l/43073743._SX318_.jpg
   goodreads: '43073743'
+  owned: false
   pages: 95
   publication_year: '2018'
   source: https://www.apex-magazine.com/on-the-day-you-spend-forever-with-your-dog

@@ -9,6 +9,7 @@ book:
   goodreads: '192888'
   isbn10: '0061043532'
   isbn13: '9780061043536'
+  owned: true
   pages: 288
   publication_year: '1926'
   series: Lord Peter Wimsey

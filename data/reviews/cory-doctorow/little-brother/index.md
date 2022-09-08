@@ -9,6 +9,7 @@ book:
   goodreads: '954674'
   isbn10: 0765319853
   isbn13: '9780765319852'
+  owned: false
   pages: 382
   publication_year: '2008'
   series: Little Brother

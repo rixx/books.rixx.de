@@ -7,6 +7,7 @@ book:
   goodreads: '6356190'
   isbn10: '1880418738'
   isbn13: '9781880418734'
+  owned: false
   pages: 312
   publication_year: '1998'
   series: The Dark Tower

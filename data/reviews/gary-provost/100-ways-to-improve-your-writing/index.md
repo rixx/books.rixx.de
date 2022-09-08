@@ -9,6 +9,7 @@ book:
   goodreads: '702619'
   isbn10: '0451627210'
   isbn13: '9780451627216'
+  owned: false
   pages: 158
   publication_year: '1985'
   spine_color: '#f7d379'

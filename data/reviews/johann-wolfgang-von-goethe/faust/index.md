@@ -9,6 +9,7 @@ book:
   goodreads: '406373'
   isbn10: 0385031149
   isbn13: '9780385031141'
+  owned: false
   pages: 503
   publication_year: '1832'
   series: Faust

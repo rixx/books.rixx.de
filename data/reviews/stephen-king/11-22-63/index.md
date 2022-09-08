@@ -7,6 +7,7 @@ book:
   goodreads: '10644930'
   isbn10: '1451627289'
   isbn13: '9781451627282'
+  owned: false
   pages: 864
   publication_year: '2011'
   spine_color: '#b10506'

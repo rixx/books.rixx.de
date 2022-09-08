@@ -9,6 +9,7 @@ book:
   goodreads: '92121'
   isbn10: 0380014300
   isbn13: '9780380014309'
+  owned: false
   pages: 175
   publication_year: '1970'
   series: The Chronicles of Amber

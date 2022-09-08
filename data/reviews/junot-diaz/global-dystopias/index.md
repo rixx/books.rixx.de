@@ -5,6 +5,7 @@ book:
   goodreads: '36675463'
   isbn10: '1946511048'
   isbn13: '9781946511041'
+  owned: false
   pages: '208'
   publication_year: '2017'
   spine_color: '#c77079'

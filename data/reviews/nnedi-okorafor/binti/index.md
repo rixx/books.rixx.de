@@ -5,6 +5,7 @@ book:
   goodreads: '25667918'
   isbn10: 0765384469
   isbn13: '9780765384461'
+  owned: false
   pages: '96'
   publication_year: '2015'
   series: Binti

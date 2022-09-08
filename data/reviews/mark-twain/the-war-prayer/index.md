@@ -5,6 +5,7 @@ book:
   goodreads: '237050'
   isbn10: 157514266X
   isbn13: '9781575142661'
+  owned: false
   pages: 6
   publication_year: '1900'
   source: https://warprayer.org/

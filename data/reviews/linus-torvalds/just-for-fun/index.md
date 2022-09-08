@@ -9,6 +9,7 @@ book:
   goodreads: '160171'
   isbn10: '0066620732'
   isbn13: '9780066620732'
+  owned: false
   pages: 288
   publication_year: '2001'
   spine_color: '#7495d7'

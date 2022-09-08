@@ -9,6 +9,7 @@ book:
   goodreads: '7805'
   isbn10: 0141185260
   isbn13: '9780141185262'
+  owned: false
   pages: 248
   publication_year: '1962'
   spine_color: '#bc2b1a'

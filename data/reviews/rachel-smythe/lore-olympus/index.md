@@ -9,6 +9,7 @@ book:
   goodreads: '57282218'
   isbn10: 0593160290
   isbn13: '9780593160299'
+  owned: true
   pages: 384
   publication_year: '2021'
   spine_color: '#a43a76'

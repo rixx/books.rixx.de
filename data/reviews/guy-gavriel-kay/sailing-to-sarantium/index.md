@@ -5,6 +5,7 @@ book:
   goodreads: '104097'
   isbn10: 0743450094
   isbn13: '9780743450096'
+  owned: false
   pages: '448'
   publication_year: '1998'
   series: The Sarantine Mosaic

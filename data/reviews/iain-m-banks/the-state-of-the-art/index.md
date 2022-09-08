@@ -7,6 +7,7 @@ book:
   goodreads: '129131'
   isbn10: '1597800740'
   isbn13: '9781597800747'
+  owned: false
   pages: '188'
   publication_year: '1991'
   series: Culture

@@ -9,6 +9,7 @@ book:
   goodreads: '782796'
   isbn10: '3789142042'
   isbn13: '9783789142048'
+  owned: false
   pages: 158
   publication_year: '1992'
   series: Sams

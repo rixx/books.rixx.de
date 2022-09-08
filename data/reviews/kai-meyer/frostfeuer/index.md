@@ -7,6 +7,7 @@ book:
   goodreads: '1707436'
   isbn10: '3785554419'
   isbn13: '9783785554418'
+  owned: false
   pages: 304
   publication_year: '2005'
   spine_color: '#60afbe'

@@ -9,6 +9,7 @@ book:
   goodreads: '823078'
   isbn10: 0752877097
   isbn13: '9780752877099'
+  owned: false
   pages: 607
   publication_year: '2005'
   series: Romanitas

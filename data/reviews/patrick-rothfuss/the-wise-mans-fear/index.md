@@ -9,6 +9,7 @@ book:
   goodreads: '1215032'
   isbn10: 0756404738
   isbn13: '9780756404734'
+  owned: false
   pages: 994
   publication_year: '2011'
   series: The Kingkiller Chronicle

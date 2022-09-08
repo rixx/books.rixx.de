@@ -5,6 +5,7 @@ book:
   goodreads: '51190882'
   isbn10: null
   isbn13: null
+  owned: false
   pages: 112
   publication_year: '2020'
   series: The Singing Hills Cycle

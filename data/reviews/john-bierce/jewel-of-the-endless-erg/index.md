@@ -7,6 +7,7 @@ book:
   goodreads: '43890637'
   isbn10: null
   isbn13: null
+  owned: false
   pages: 246
   publication_year: null
   series: Mage Errant

@@ -5,6 +5,7 @@ book:
   goodreads: '3351055'
   isbn10: '3861505355'
   isbn13: '9783861505358'
+  owned: true
   pages: 80
   publication_year: null
   spine_color: '#8691ad'

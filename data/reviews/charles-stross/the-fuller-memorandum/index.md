@@ -7,6 +7,7 @@ book:
   goodreads: '7149287'
   isbn10: 044101867X
   isbn13: '9780441018673'
+  owned: false
   pages: '312'
   publication_year: '2010'
   series: Laundry Files

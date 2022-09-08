@@ -9,6 +9,7 @@ book:
   goodreads: '77711'
   isbn10: 0812515285
   isbn13: '9780812515282'
+  owned: true
   pages: 613
   publication_year: '1992'
   series: Zones of Thought

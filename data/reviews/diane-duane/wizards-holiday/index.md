@@ -9,6 +9,7 @@ book:
   goodreads: '116562'
   isbn10: '0152052070'
   isbn13: '9780152052072'
+  owned: false
   pages: 423
   publication_year: '2003'
   series: Young Wizards

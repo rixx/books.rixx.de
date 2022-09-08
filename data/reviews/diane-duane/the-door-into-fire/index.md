@@ -9,6 +9,7 @@ book:
   goodreads: '176506'
   isbn10: 0812536711
   isbn13: '9780812536713'
+  owned: false
   pages: 304
   publication_year: '1979'
   series: Tale of the Five

@@ -3,6 +3,7 @@ book:
   author: Mary Robinette Kowal
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850192l/33080122.jpg
   goodreads: '33080122'
+  owned: false
   pages: '431'
   publication_year: '2018'
   series: Lady Astronaut
@@ -22,7 +23,8 @@ related_books:
 - book: andy-weir/the-martian
   text: 'How to survive with limited means when disaster hits: single-person edition.'
 - book: andy-weir/project-hail-mary
-  text: More of Humanity banding together against extinction by sending unexpected people to space.
+  text: More of Humanity banding together against extinction by sending unexpected
+    people to space.
 review:
   date_read:
   - 2019-08-07

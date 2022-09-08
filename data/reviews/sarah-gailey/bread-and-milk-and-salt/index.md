@@ -3,6 +3,7 @@ book:
   author: Sarah Gailey
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541607314l/42655001._SX98_.jpg
   goodreads: '42655001'
+  owned: false
   pages: '25'
   publication_year: '2018'
   source: https://www.tor.com/2018/11/07/reprints-bread-and-milk-and-salt-sarah-gailey/

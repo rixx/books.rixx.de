@@ -9,6 +9,7 @@ book:
   goodreads: '3950967'
   isbn10: 0747599874
   isbn13: '9780747599876'
+  owned: false
   pages: 109
   publication_year: '2008'
   spine_color: '#587295'

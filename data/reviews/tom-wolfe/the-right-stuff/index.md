@@ -8,6 +8,7 @@ book:
     width: 12.9
   isbn10: 0099479370
   isbn13: '9780099479376'
+  owned: false
   pages: 436
   publication_year: '1979'
   source: ''
@@ -28,7 +29,7 @@ related_books:
 review:
   date_read:
   - 2022-02-11
-  rating: 4
+  rating: 3
 ---
 
 The Right Stuff is what you need to be an absolutely bonkers guy, who thinks that a 23% likelihood of dying in an

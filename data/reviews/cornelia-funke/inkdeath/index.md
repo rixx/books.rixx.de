@@ -7,6 +7,7 @@ book:
   goodreads: '2325825'
   isbn10: '1905294719'
   isbn13: '9781905294718'
+  owned: false
   pages: '699'
   publication_year: '2007'
   series: Inkworld

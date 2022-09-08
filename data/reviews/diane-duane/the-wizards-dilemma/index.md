@@ -7,6 +7,7 @@ book:
   goodreads: '116561'
   isbn10: 015205491X
   isbn13: '9780152054915'
+  owned: false
   pages: 432
   publication_year: '2001'
   series: Young Wizards

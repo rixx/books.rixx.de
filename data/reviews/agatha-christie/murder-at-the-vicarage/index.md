@@ -9,6 +9,7 @@ book:
   goodreads: '16331'
   isbn10: '1579126251'
   isbn13: '9781579126254'
+  owned: false
   pages: 288
   publication_year: '1930'
   series: Miss Marple

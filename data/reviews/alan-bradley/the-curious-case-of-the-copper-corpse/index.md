@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '23480520'
+  owned: false
   pages: 27
   publication_year: '2014'
   series: Flavia de Luce

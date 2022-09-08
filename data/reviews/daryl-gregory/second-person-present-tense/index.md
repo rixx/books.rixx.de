@@ -2,6 +2,7 @@
 book:
   author: Daryl Gregory
   goodreads: '40172404'
+  owned: false
   pages: '32'
   publication_year: '2005'
   source: https://www.baen.com/Chapters/9781618248992/9781618248992___2.htm

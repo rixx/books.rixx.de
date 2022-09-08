@@ -5,6 +5,7 @@ book:
   goodreads: '41961994'
   isbn10: '1984806386'
   isbn13: '9781984806383'
+  owned: false
   pages: '384'
   publication_year: '2019'
   series: Hell's Library

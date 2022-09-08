@@ -7,6 +7,7 @@ book:
   goodreads: '1692807'
   isbn10: 352217335X
   isbn13: '9783522173353'
+  owned: false
   pages: '736'
   publication_year: '2000'
   series: Der Kreis der Dämmerung

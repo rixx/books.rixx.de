@@ -4,6 +4,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369652042l/17981727.jpg
   goodreads: '17981727'
   isbn13: '9783954180257'
+  owned: true
   pages: '1332'
   publication_year: '1837'
   spine_color: '#c97118'

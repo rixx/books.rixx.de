@@ -9,6 +9,7 @@ book:
   goodreads: '359375'
   isbn10: '1401359795'
   isbn13: '9781401359799'
+  owned: false
   pages: 455
   publication_year: '1998'
   series: Watch

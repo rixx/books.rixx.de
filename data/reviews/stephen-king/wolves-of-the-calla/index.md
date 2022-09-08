@@ -9,6 +9,7 @@ book:
   goodreads: '4978'
   isbn10: 141651693X
   isbn13: '9781416516934'
+  owned: false
   pages: 960
   publication_year: '2003'
   series: The Dark Tower

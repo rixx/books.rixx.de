@@ -9,6 +9,7 @@ book:
   goodreads: '9461562'
   isbn10: '1597802166'
   isbn13: '9781597802161'
+  owned: false
   pages: 300
   publication_year: '2011'
   series: Books of the Raksura

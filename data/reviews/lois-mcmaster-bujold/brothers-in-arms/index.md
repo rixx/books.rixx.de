@@ -9,6 +9,7 @@ book:
   goodreads: '296182'
   isbn10: 0671697994
   isbn13: '9780671697990'
+  owned: false
   pages: 338
   publication_year: '1989'
   series: Vorkosigan Saga

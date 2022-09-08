@@ -9,6 +9,7 @@ book:
   goodreads: '17910048'
   isbn10: 076532699X
   isbn13: '9780765326997'
+  owned: false
   pages: 446
   publication_year: '2014'
   series: The Goblin Emperor

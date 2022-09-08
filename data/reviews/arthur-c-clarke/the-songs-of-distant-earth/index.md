@@ -8,6 +8,7 @@ book:
   goodreads: '117842'
   isbn10: 0007115865
   isbn13: '9780007115860'
+  owned: false
   pages: 256
   publication_year: '1986'
   spine_color: '#59729b'

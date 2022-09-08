@@ -5,6 +5,7 @@ book:
   goodreads: '448873'
   isbn10: 0060824972
   isbn13: '9780060824976'
+  owned: false
   pages: '280'
   publication_year: '1996'
   series: The Queen's Thief

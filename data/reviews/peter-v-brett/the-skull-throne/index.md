@@ -7,6 +7,7 @@ book:
   goodreads: '13630171'
   isbn10: 0345531485
   isbn13: '9780345531483'
+  owned: false
   pages: '681'
   publication_year: '2015'
   series: Demon Cycle

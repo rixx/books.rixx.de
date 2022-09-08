@@ -9,6 +9,7 @@ book:
   goodreads: '61905'
   isbn10: 0743468414
   isbn13: '9780743468411'
+  owned: true
   pages: 336
   publication_year: '1991'
   series: Vorkosigan Saga

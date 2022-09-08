@@ -7,6 +7,7 @@ book:
   goodreads: '18403081'
   isbn10: '1466855479'
   isbn13: '9781466855472'
+  owned: false
   pages: '65'
   publication_year: '2013'
   series: Laundry Files

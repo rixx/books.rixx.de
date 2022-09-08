@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24
   goodreads: '34213060'
+  owned: false
   pages: '1127'
   publication_year: '2013'
   series: Rigel Black

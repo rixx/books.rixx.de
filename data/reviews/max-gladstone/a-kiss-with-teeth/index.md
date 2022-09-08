@@ -5,6 +5,7 @@ book:
   goodreads: '23209523'
   isbn10: 146688455X
   isbn13: '9781466884557'
+  owned: false
   pages: '24'
   publication_year: '2014'
   source: https://www.tor.com/2014/10/29/a-kiss-with-teeth-max-gladstone/

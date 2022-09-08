@@ -9,6 +9,7 @@ book:
   goodreads: '2442'
   isbn10: '0061020613'
   isbn13: '9780061020612'
+  owned: false
   pages: 384
   publication_year: '1991'
   series: Discworld

@@ -5,6 +5,7 @@ book:
   goodreads: '2108198'
   isbn10: 0747595380
   isbn13: '9780747595380'
+  owned: false
   pages: '97'
   publication_year: '2008'
   spine_color: '#293657'

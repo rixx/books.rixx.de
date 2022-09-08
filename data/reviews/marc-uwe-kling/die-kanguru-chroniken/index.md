@@ -9,6 +9,7 @@ book:
   goodreads: '6392654'
   isbn10: '3548372570'
   isbn13: '9783548372570'
+  owned: true
   pages: 271
   publication_year: '2009'
   series: Die Känguru-Chroniken

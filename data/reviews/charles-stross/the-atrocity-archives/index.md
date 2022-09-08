@@ -9,6 +9,7 @@ book:
   goodreads: '101869'
   isbn10: '0441013651'
   isbn13: '9780441013654'
+  owned: false
   pages: 345
   publication_year: '2004'
   series: Laundry Files

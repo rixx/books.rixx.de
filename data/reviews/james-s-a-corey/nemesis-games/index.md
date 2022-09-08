@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24.0
   goodreads: '22886612'
+  owned: false
   pages: '536'
   publication_year: '2015'
   series: The Expanse

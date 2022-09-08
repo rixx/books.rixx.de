@@ -9,6 +9,7 @@ book:
   goodreads: '113436'
   isbn10: 0375826696
   isbn13: '9780375826696'
+  owned: false
   pages: 503
   publication_year: '2002'
   series: The Inheritance Cycle

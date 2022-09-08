@@ -3,6 +3,7 @@ book:
   author: Michael W. Lucas
   cover_image_url: https://drop.rixx.de/VFlmsv/
   goodreads: '13550641'
+  owned: false
   pages: '150'
   publication_year: '2012'
   spine_color: '#c3bd61'

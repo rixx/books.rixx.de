@@ -9,6 +9,7 @@ book:
   goodreads: '18765'
   isbn10: 067972477X
   isbn13: '9780679724773'
+  owned: false
   pages: 468
   publication_year: '1934'
   series: Claudius

@@ -9,6 +9,7 @@ book:
   goodreads: '4981'
   isbn10: 0385333846
   isbn13: '9780385333849'
+  owned: false
   pages: 275
   publication_year: '1969'
   spine_color: '#745f32'

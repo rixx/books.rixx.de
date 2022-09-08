@@ -5,6 +5,7 @@ book:
   goodreads: '1477234'
   isbn10: '3423110015'
   isbn13: '9783423110013'
+  owned: false
   pages: '224'
   publication_year: '1936'
   spine_color: '#f4df8b'

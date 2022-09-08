@@ -5,6 +5,7 @@ book:
   goodreads: '54551683'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '545'
   publication_year: '2020'
   series: Mage Errant

@@ -8,6 +8,7 @@ book:
   goodreads: '45685'
   isbn10: 0744549515
   isbn13: '9780744549515'
+  owned: false
   pages: 126
   publication_year: '1887'
   spine_color: '#e5dac2'

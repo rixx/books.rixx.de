@@ -9,6 +9,7 @@ book:
   goodreads: '817501'
   isbn10: '1878019198'
   isbn13: '9781878019196'
+  owned: false
   pages: 123
   publication_year: '1961'
   spine_color: '#bbb17d'

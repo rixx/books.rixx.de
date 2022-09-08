@@ -9,6 +9,7 @@ book:
   goodreads: '1417221'
   isbn10: 0226469298
   isbn13: '9780226469294'
+  owned: false
   pages: 314
   publication_year: '1994'
   spine_color: '#8f282d'
@@ -16,13 +17,14 @@ book:
   - history
   - nonfiction
   title: Between Copernicus and Galileo
-related_books:
-- book: owen-gingerich/the-book-nobody-read
-  text: Personally connected to Lattis, and also touches on Galileo (though more focused on Copernicus).
-- book: seb-falk/the-light-ages
-  text: A less specialised introduction to medieval cosmology.
 plan:
   date_added: 2022-01-25
+related_books:
+- book: owen-gingerich/the-book-nobody-read
+  text: Personally connected to Lattis, and also touches on Galileo (though more focused
+    on Copernicus).
+- book: seb-falk/the-light-ages
+  text: A less specialised introduction to medieval cosmology.
 review:
   date_read:
   - 2022-01-11

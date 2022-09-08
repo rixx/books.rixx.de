@@ -2,6 +2,7 @@
 book:
   author: Scott   Alexander
   goodreads: '41018921'
+  owned: false
   pages: '5'
   publication_year: '2017'
   source: https://slatestarcodex.com/2017/11/09/ars-longa-vita-brevis/

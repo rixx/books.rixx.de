@@ -3,15 +3,16 @@ book:
   author: Sarah Pinsker
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504371081l/36067380._SX318_.jpg
   goodreads: '36067380'
+  owned: false
   pages: '212'
   publication_year: '2017'
   source: http://sarahpinsker.com/wind_will_rove/
   spine_color: '#e9f1e5'
-  title: Wind Will Rove
   tags:
   - scifi
   - hugo-award-nominees
   - nebula-award-nominees
+  title: Wind Will Rove
 plan:
   date_added: '2018-02-24'
 related_books:

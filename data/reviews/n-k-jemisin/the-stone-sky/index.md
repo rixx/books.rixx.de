@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 19
   goodreads: '31817749'
+  owned: false
   pages: '416'
   publication_year: '2017'
   series: The Broken Earth

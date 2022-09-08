@@ -7,6 +7,7 @@ book:
   goodreads: '40138656'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '98'
   publication_year: '2018'
   series: Vorkosigan Saga

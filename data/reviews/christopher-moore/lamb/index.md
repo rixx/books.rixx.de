@@ -9,6 +9,7 @@ book:
   goodreads: '28881'
   isbn10: 0380813815
   isbn13: '9780380813810'
+  owned: false
   pages: 464
   publication_year: '2002'
   spine_color: '#e6ac4a'

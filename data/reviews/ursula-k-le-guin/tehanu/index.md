@@ -9,6 +9,7 @@ book:
   goodreads: '13661'
   isbn10: '1416509631'
   isbn13: '9781416509639'
+  owned: false
   pages: 288
   publication_year: '1990'
   series: Earthsea Cycle

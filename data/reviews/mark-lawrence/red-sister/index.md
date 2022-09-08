@@ -9,6 +9,7 @@ book:
   goodreads: '25895524'
   isbn10: '1101988851'
   isbn13: '9781101988855'
+  owned: false
   pages: 469
   publication_year: '2017'
   series: Book of the Ancestor

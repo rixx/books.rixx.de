@@ -9,6 +9,7 @@ book:
   goodreads: '11468377'
   isbn10: '0374275637'
   isbn13: '9780374275631'
+  owned: false
   pages: 499
   publication_year: '2011'
   spine_color: '#827669'

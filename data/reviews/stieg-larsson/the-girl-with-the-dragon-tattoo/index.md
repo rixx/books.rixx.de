@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 23
   goodreads: '2429135'
+  owned: false
   pages: '465'
   publication_year: '2005'
   series: Millennium

@@ -5,6 +5,7 @@ book:
   goodreads: '1574912'
   isbn10: '3548604730'
   isbn13: '9783548604732'
+  owned: false
   pages: '232'
   publication_year: '2000'
   spine_color: '#c6bd92'

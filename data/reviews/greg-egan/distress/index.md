@@ -6,6 +6,7 @@ book:
     height: 18.0
   goodreads: '156781'
   isbn10: '0061057274'
+  owned: false
   pages: '456'
   publication_year: '1995'
   series: Subjective Cosmology

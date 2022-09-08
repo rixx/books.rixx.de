@@ -9,6 +9,7 @@ book:
   goodreads: '25489134'
   isbn10: '1101885939'
   isbn13: '9781101885932'
+  owned: false
   pages: 323
   publication_year: '2017'
   series: Winternight Trilogy

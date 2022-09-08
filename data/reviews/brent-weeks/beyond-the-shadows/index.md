@@ -9,6 +9,7 @@ book:
   goodreads: '3754026'
   isbn10: 0316033669
   isbn13: '9780316033664'
+  owned: true
   pages: 720
   publication_year: '2008'
   series: Night Angel

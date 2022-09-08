@@ -5,6 +5,7 @@ book:
   goodreads: '49229009'
   isbn10: '3894113286'
   isbn13: '9783894113285'
+  owned: false
   pages: 70
   publication_year: null
   spine_color: '#e9ca39'

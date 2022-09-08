@@ -9,6 +9,7 @@ book:
   goodreads: '484436'
   isbn10: 349910170X
   isbn13: '9783499101700'
+  owned: false
   pages: 120
   publication_year: '1947'
   spine_color: '#e5dab7'

@@ -5,6 +5,7 @@ book:
   goodreads: '23574147'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '35'
   publication_year: '1973'
   spine_color: '#b46b4d'

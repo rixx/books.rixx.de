@@ -6,6 +6,7 @@ book:
     height: 21.0
   goodreads: '32758901'
   isbn13: '9780765397522'
+  owned: false
   pages: 144
   publication_year: '2017'
   series: The Murderbot Diaries
@@ -35,7 +36,8 @@ related_books:
 - book: lynne-m-thomas/uncanny-magazine-issue-18-september-october-2017
   text: Also about a robot who turns out to enjoy pop culture.
 - book: naomi-kritzer/catfishing-on-catnet
-  text: Another AI that really only wants to look at online media, and maybe help some friends.
+  text: Another AI that really only wants to look at online media, and maybe help
+    some friends.
 - book: meredith-katz/the-cybernetic-tea-shop
   text: More sweet humanised asexual robots.
 - book: martha-wells/artificial-condition

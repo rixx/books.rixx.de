@@ -9,6 +9,7 @@ book:
   goodreads: '47587'
   isbn10: 0575075368
   isbn13: '9780575075368'
+  owned: false
   pages: 336
   publication_year: '1998'
   series: Derkholm

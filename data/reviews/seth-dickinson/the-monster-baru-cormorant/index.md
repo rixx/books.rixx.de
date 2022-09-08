@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24.0
   goodreads: '38117105'
+  owned: false
   pages: '464'
   publication_year: '2018'
   series: The Masquerade

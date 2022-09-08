@@ -9,6 +9,7 @@ book:
   goodreads: '20697410'
   isbn10: 0345539818
   isbn13: '9780345539816'
+  owned: false
   pages: 448
   publication_year: '2015'
   series: Red Rising

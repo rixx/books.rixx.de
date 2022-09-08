@@ -9,6 +9,7 @@ book:
   goodreads: '9969571'
   isbn10: 030788743X
   isbn13: '9780307887436'
+  owned: false
   pages: 374
   publication_year: '2011'
   series: Ready Player One

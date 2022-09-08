@@ -9,6 +9,7 @@ book:
   goodreads: '1044662'
   isbn10: '1600940064'
   isbn13: '9781600940064'
+  owned: false
   pages: 336
   publication_year: '2007'
   spine_color: '#6886bc'

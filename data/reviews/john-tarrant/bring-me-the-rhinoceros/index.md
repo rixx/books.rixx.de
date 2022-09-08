@@ -9,6 +9,7 @@ book:
   goodreads: '148471'
   isbn10: '1400047641'
   isbn13: '9781400047642'
+  owned: true
   pages: 176
   publication_year: '2004'
   spine_color: '#fefccc'

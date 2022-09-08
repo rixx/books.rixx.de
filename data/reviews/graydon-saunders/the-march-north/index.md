@@ -6,14 +6,15 @@ book:
   goodreads: '21801573'
   isbn10: null
   isbn13: '9780993712609'
+  owned: false
   pages: 444
   publication_year: '2014'
+  series: Commonweal
+  series_position: 1
   spine_color: '#abada5'
   tags:
   - fantasy
   title: The March North
-  series: Commonweal
-  series_position: 1
 plan:
   date_added: 2020-10-08
 related_books:

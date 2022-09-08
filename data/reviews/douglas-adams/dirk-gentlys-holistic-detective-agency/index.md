@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 18.0
   goodreads: '365'
+  owned: false
   pages: '306'
   publication_year: '1987'
   series: Dirk Gently

@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '34511'
+  owned: false
   pages: '496'
   publication_year: '2003'
   series: Discworld

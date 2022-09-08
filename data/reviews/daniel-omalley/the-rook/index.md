@@ -9,6 +9,7 @@ book:
   goodreads: '10836728'
   isbn10: 0316098795
   isbn13: '9780316098793'
+  owned: false
   pages: 496
   publication_year: '2012'
   series: The Checquy Files

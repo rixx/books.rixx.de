@@ -5,6 +5,7 @@ book:
   goodreads: '1875974'
   isbn10: 088184991X
   isbn13: '9780881849912'
+  owned: false
   pages: '160'
   publication_year: '1962'
   spine_color: '#7d7896'

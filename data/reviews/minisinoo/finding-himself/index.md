@@ -3,6 +3,7 @@ book:
   author: Minisinoo
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398146854l/17673106.jpg
   goodreads: '17673106'
+  owned: false
   pages: '1841'
   publication_year: '2008'
   series: Finding Himself

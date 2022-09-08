@@ -5,6 +5,7 @@ book:
   goodreads: '17453991'
   isbn10: '1590210557'
   isbn13: '9781590210550'
+  owned: false
   pages: '272'
   publication_year: '2013'
   series: Julian Lynes and Ned Mathey

@@ -5,6 +5,7 @@ book:
   goodreads: '35709112'
   isbn10: '1250162408'
   isbn13: '9781250162403'
+  owned: false
   pages: '128'
   publication_year: '2017'
   spine_color: '#dd7c4b'

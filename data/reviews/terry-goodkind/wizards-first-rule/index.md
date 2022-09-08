@@ -9,6 +9,7 @@ book:
   goodreads: '43889'
   isbn10: '0765346524'
   isbn13: '9780765346520'
+  owned: false
   pages: 848
   publication_year: '1994'
   series: Sword of Truth

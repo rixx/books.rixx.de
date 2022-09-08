@@ -9,6 +9,7 @@ book:
   goodreads: '24997064'
   isbn10: '0356505340'
   isbn13: '9780356505343'
+  owned: false
   pages: 352
   publication_year: '2016'
   series: Laundry Files

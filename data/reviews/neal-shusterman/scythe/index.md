@@ -9,6 +9,7 @@ book:
   goodreads: '28954189'
   isbn10: '1442472421'
   isbn13: '9781442472426'
+  owned: false
   pages: 435
   publication_year: '2016'
   series: Arc of a Scythe

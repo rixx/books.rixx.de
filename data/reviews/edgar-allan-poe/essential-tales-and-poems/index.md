@@ -9,6 +9,7 @@ book:
   goodreads: '32552'
   isbn10: '1593080646'
   isbn13: '9781593080648'
+  owned: true
   pages: 688
   publication_year: '1843'
   spine_color: '#e6dace'

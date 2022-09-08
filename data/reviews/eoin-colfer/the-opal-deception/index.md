@@ -8,6 +8,7 @@ book:
     width: 10.5
   goodreads: '114954'
   isbn13: '9781423103998'
+  owned: false
   pages: 528
   publication_year: '2005'
   series: Artemis Fowl

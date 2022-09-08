@@ -9,6 +9,7 @@ book:
   goodreads: '124509'
   isbn10: 0385315147
   isbn13: '9780385315142'
+  owned: true
   pages: 469
   publication_year: '1992'
   spine_color: '#c9dacf'

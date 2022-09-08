@@ -9,6 +9,7 @@ book:
   goodreads: '1096390'
   isbn10: 0374280967
   isbn13: '9780374280963'
+  owned: false
   pages: 120
   publication_year: '2007'
   spine_color: '#9d0302'

@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '26118426'
+  owned: true
   pages: '384'
   publication_year: '2016'
   series: The Machineries of Empire
@@ -19,7 +20,8 @@ plan:
   date_added: '2018-08-22'
 related_books:
 - book: arkady-martine/a-memory-called-empire
-  text: A similarly complex world, also questioning divided loyalties with a voice in their head.
+  text: A similarly complex world, also questioning divided loyalties with a voice
+    in their head.
 - book: seth-dickinson/the-traitor-baru-cormorant
   text: Another large empire, another traitor.
 - book: ann-leckie/ancillary-justice

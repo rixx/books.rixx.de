@@ -9,6 +9,7 @@ book:
   goodreads: '8855321'
   isbn10: '1841499889'
   isbn13: '9781841499888'
+  owned: false
   pages: 561
   publication_year: '2011'
   series: The Expanse

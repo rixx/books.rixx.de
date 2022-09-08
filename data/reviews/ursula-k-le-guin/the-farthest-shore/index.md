@@ -9,6 +9,7 @@ book:
   goodreads: '13667'
   isbn10: 141650964X
   isbn13: '9781416509646'
+  owned: false
   pages: 259
   publication_year: '1972'
   series: Earthsea Cycle

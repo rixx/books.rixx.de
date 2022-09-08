@@ -3,6 +3,7 @@ book:
   author: Kurt Vonnegut Jr.
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328301776l/5048174.jpg
   goodreads: '5048174'
+  owned: false
   pages: '15'
   publication_year: '1968'
   spine_color: '#0a3838'

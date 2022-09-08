@@ -5,6 +5,7 @@ book:
   goodreads: '11713'
   isbn10: 0771068719
   isbn13: '9780771068713'
+  owned: false
   pages: '320'
   publication_year: '1992'
   spine_color: '#796f68'

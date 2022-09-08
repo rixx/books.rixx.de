@@ -9,6 +9,7 @@ book:
   goodreads: '767958'
   isbn10: '1890318353'
   isbn13: '9781890318352'
+  owned: false
   pages: 176
   publication_year: '1948'
   spine_color: '#6e6e6e'

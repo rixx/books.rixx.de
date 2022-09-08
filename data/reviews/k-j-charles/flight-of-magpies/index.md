@@ -5,6 +5,7 @@ book:
   goodreads: '34715224'
   isbn10: null
   isbn13: '9780995799042'
+  owned: false
   pages: '239'
   publication_year: '2014'
   series: A Charm of Magpies

@@ -7,6 +7,7 @@ book:
   goodreads: '93575'
   isbn10: 0061043494
   isbn13: '9780061043499'
+  owned: true
   pages: '501'
   publication_year: '1935'
   series: Lord Peter Wimsey

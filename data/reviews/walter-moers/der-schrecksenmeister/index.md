@@ -7,6 +7,7 @@ book:
   goodreads: '1491117'
   isbn10: '3492049370'
   isbn13: '9783492049375'
+  owned: true
   pages: 383
   publication_year: '2007'
   series: Zamonien

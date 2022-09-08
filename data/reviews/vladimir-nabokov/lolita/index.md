@@ -3,6 +3,7 @@ book:
   author: Vladimir Nabokov
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377l/7604.jpg
   goodreads: '7604'
+  owned: true
   pages: '331'
   publication_year: '1955'
   spine_color: '#957a28'

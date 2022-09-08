@@ -9,6 +9,7 @@ book:
   goodreads: '234225'
   isbn10: 0340839937
   isbn13: '9780340839935'
+  owned: false
   pages: 604
   publication_year: '1965'
   series: Dune Chronicles

@@ -9,6 +9,7 @@ book:
   goodreads: '256683'
   isbn10: '1416914285'
   isbn13: '9781416914280'
+  owned: false
   pages: 496
   publication_year: '2007'
   series: The Mortal Instruments

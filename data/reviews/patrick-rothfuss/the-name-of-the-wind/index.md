@@ -7,6 +7,7 @@ book:
   goodreads: '186074'
   isbn10: 075640407X
   isbn13: '9780756404079'
+  owned: false
   pages: '662'
   publication_year: '2007'
   series: The Kingkiller Chronicle

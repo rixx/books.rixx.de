@@ -5,6 +5,7 @@ book:
   goodreads: '369691'
   isbn10: 0886822947
   isbn13: '9780886822941'
+  owned: false
   pages: '32'
   publication_year: '1937'
   spine_color: '#3a2d29'

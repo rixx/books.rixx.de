@@ -6,6 +6,7 @@ book:
   goodreads: '92769'
   isbn10: 0345012518
   isbn13: '9780345012517'
+  owned: false
   pages: 213
   publication_year: '1977'
   series: Riddle-Master

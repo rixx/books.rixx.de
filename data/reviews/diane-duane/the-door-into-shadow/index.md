@@ -7,6 +7,7 @@ book:
   goodreads: '216844'
   isbn10: 0812523695
   isbn13: '9780812523690'
+  owned: false
   pages: '298'
   publication_year: '1984'
   series: Tale of the Five

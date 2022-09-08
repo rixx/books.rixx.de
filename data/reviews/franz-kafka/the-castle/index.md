@@ -9,6 +9,7 @@ book:
   goodreads: '333538'
   isbn10: 0805211063
   isbn13: '9780805211061'
+  owned: false
   pages: 328
   publication_year: '1922'
   spine_color: '#181d53'

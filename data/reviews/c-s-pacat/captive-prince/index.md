@@ -3,6 +3,7 @@ book:
   author: C.S. Pacat
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356028113l/9305362._SX98_.jpg
   goodreads: '9305362'
+  owned: false
   pages: '240'
   publication_year: '2013'
   series: Captive Prince

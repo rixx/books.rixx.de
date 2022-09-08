@@ -9,6 +9,7 @@ book:
   goodreads: '31309'
   isbn10: 0007120869
   isbn13: '9780007120864'
+  owned: false
   pages: 315
   publication_year: '1932'
   series: Miss Marple

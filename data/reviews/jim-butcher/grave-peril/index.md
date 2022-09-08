@@ -9,6 +9,7 @@ book:
   goodreads: '91476'
   isbn10: 0451458443
   isbn13: '9780451458445'
+  owned: false
   pages: 378
   publication_year: '2001'
   series: The Dresden Files

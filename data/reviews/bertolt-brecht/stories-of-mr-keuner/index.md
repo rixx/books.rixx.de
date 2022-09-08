@@ -9,6 +9,7 @@ book:
   goodreads: '130298'
   isbn10: 0872863832
   isbn13: '9780872863835'
+  owned: false
   pages: 120
   publication_year: '1958'
   spine_color: '#bcb182'

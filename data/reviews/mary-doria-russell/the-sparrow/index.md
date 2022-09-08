@@ -9,6 +9,7 @@ book:
   goodreads: '334176'
   isbn10: 0449912558
   isbn13: '9780449912553'
+  owned: false
   pages: 516
   publication_year: '1996'
   series: The Sparrow

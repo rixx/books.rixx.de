@@ -2,6 +2,7 @@
 book:
   author: Scott   Alexander
   goodreads: '27394352'
+  owned: false
   pages: 23
   publication_year: '2015'
   source: http://slatestarcodex.com/2015/10/15/it-was-you-who-made-my-blue-eyes-blue/

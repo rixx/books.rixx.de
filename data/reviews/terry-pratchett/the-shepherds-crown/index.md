@@ -7,6 +7,7 @@ book:
   goodreads: '22886868'
   isbn10: 0062429973
   isbn13: '9780062429971'
+  owned: false
   pages: '276'
   publication_year: '2015'
   series: Discworld

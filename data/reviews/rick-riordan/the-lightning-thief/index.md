@@ -5,6 +5,7 @@ book:
   goodreads: '28187'
   isbn10: 0786838655
   isbn13: '9780786838653'
+  owned: false
   pages: '375'
   publication_year: '2005'
   series: Percy Jackson and the Olympians

@@ -9,6 +9,7 @@ book:
   goodreads: '11250317'
   isbn10: '1408816032'
   isbn13: '9781408816035'
+  owned: false
   pages: 352
   publication_year: '2011'
   spine_color: '#ac873b'
@@ -22,7 +23,8 @@ related_books:
 - book: christopher-logue/war-music
   text: My favourite take on Achilles at the moment.
 - book: david-gemmell/lord-of-the-silver-bow
-  text: Another take on the Trojan war, much more interesting, though weirdly less hyped.
+  text: Another take on the Trojan war, much more interesting, though weirdly less
+    hyped.
 - book: madeline-miller/circe
   text: More Miller myths.
 - book: janell-rhiannon/song-of-sacrifice

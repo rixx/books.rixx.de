@@ -5,6 +5,7 @@ book:
   goodreads: '28421799'
   isbn10: null
   isbn13: '9781620047378'
+  owned: false
   pages: '65'
   publication_year: '2016'
   spine_color: '#786c4d'

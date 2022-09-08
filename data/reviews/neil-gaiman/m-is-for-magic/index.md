@@ -9,6 +9,7 @@ book:
   goodreads: '47699'
   isbn10: 0061186422
   isbn13: '9780061186424'
+  owned: false
   pages: 272
   publication_year: '2007'
   spine_color: '#5d7ba6'

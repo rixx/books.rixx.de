@@ -3,6 +3,7 @@ book:
   author: Glynn Stewart
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425613194l/23848809.jpg
   goodreads: '23848809'
+  owned: false
   pages: 299
   publication_year: '2014'
   series: Starship's Mage

@@ -9,6 +9,7 @@ book:
   goodreads: '47970'
   isbn10: 0765342286
   isbn13: '9780765342287'
+  owned: false
   pages: 345
   publication_year: '1992'
   series: Jumper

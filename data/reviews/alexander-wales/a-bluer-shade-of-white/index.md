@@ -3,6 +3,7 @@ book:
   author: Alexander Wales
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411850450l/23276801._SX98_.jpg
   goodreads: '23276801'
+  owned: false
   pages: '65'
   publication_year: '2014'
   spine_color: '#366b95'

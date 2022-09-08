@@ -7,6 +7,7 @@ book:
   goodreads: '10959'
   isbn10: '1857993284'
   isbn13: '9781857993288'
+  owned: false
   pages: 403
   publication_year: '1991'
   spine_color: '#951f14'

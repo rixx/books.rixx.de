@@ -9,6 +9,7 @@ book:
   goodreads: '316808'
   isbn10: '3522174402'
   isbn13: '9783522174404'
+  owned: false
   pages: 137
   publication_year: '1966'
   spine_color: '#b5985a'

@@ -9,6 +9,7 @@ book:
   goodreads: '18630'
   isbn10: '0061053562'
   isbn13: '9780061053566'
+  owned: false
   pages: 293
   publication_year: '1988'
   series: Culture

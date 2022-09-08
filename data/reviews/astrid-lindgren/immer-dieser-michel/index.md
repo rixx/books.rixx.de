@@ -9,6 +9,7 @@ book:
   goodreads: '468940'
   isbn10: '3789129461'
   isbn13: '9783789129469'
+  owned: false
   pages: 335
   publication_year: null
   spine_color: '#fac122'

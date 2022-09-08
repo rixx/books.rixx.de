@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22.0
   goodreads: '12393566'
+  owned: false
   pages: '336'
   publication_year: '2012'
   series: Laundry Files

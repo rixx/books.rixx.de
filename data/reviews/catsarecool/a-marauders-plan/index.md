@@ -3,6 +3,7 @@ book:
   author: CatsAreCool
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478120030l/30814595.jpg
   goodreads: '30814595'
+  owned: false
   pages: '3576'
   publication_year: '2016'
   series: A Marauder's Plan

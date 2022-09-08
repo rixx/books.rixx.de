@@ -7,6 +7,7 @@ book:
   goodreads: '65119'
   isbn10: 0439272637
   isbn13: '9780439272636'
+  owned: false
   pages: 194
   publication_year: '2000'
   series: A Series of Unfortunate Events

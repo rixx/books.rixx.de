@@ -9,6 +9,7 @@ book:
   goodreads: '34084'
   isbn10: '0670032565'
   isbn13: '9780670032563'
+  owned: false
   pages: 422
   publication_year: '1991'
   series: The Dark Tower

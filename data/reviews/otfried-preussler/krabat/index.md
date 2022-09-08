@@ -7,6 +7,7 @@ book:
   goodreads: '472626'
   isbn10: '3522144104'
   isbn13: '9783522144100'
+  owned: false
   pages: 296
   publication_year: '1971'
   spine_color: '#6684cc'

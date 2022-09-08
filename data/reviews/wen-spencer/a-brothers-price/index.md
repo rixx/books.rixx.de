@@ -9,6 +9,7 @@ book:
   goodreads: '544240'
   isbn10: 0451460383
   isbn13: '9780451460387'
+  owned: false
   pages: 310
   publication_year: '2005'
   spine_color: '#da8e49'

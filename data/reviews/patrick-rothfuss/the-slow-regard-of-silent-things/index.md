@@ -9,6 +9,7 @@ book:
   goodreads: '21535271'
   isbn10: '0756410436'
   isbn13: '9780756410438'
+  owned: false
   pages: 159
   publication_year: '2014'
   series: The Kingkiller Chronicle

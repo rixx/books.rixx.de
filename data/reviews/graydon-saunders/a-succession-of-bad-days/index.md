@@ -5,6 +5,7 @@ book:
   goodreads: '25635541'
   isbn10: null
   isbn13: '9780993712616'
+  owned: false
   pages: '529'
   publication_year: '2015'
   series: Commonweal

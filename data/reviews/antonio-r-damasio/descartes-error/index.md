@@ -9,6 +9,7 @@ book:
   goodreads: '103867'
   isbn10: 014303622X
   isbn13: '9780143036227'
+  owned: false
   pages: 336
   publication_year: '1994'
   spine_color: '#d10606'

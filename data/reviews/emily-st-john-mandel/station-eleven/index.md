@@ -9,6 +9,7 @@ book:
   goodreads: '20170404'
   isbn10: 0385353308
   isbn13: '9780385353304'
+  owned: false
   pages: 336
   publication_year: '2014'
   spine_color: '#ccbda0'

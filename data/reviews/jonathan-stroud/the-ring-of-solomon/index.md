@@ -7,6 +7,7 @@ book:
   goodreads: '7640705'
   isbn10: 0307738612
   isbn13: '9780307738615'
+  owned: false
   pages: '13'
   publication_year: '2010'
   series: Bartimaeus

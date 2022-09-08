@@ -9,6 +9,7 @@ book:
   goodreads: '22668803'
   isbn10: 0451469445
   isbn13: '9780451469441'
+  owned: false
   pages: 528
   publication_year: '2014'
   spine_color: '#e1c277'

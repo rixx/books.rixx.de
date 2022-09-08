@@ -9,6 +9,7 @@ book:
   goodreads: '1276256'
   isbn10: 0898701317
   isbn13: '9780898701319'
+  owned: false
   pages: 227
   publication_year: '1970'
   spine_color: '#3f2317'

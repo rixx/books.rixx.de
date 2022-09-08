@@ -7,6 +7,7 @@ book:
   goodreads: '65110'
   isbn10: '0064410153'
   isbn13: '9780064410151'
+  owned: false
   pages: '353'
   publication_year: '2005'
   series: A Series of Unfortunate Events

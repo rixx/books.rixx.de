@@ -9,6 +9,7 @@ book:
   goodreads: '51496'
   isbn10: 0451528956
   isbn13: '9780451528957'
+  owned: false
   pages: 144
   publication_year: '1886'
   spine_color: '#5f4d4d'

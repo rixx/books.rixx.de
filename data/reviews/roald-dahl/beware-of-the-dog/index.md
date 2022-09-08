@@ -5,6 +5,7 @@ book:
   dimensions: {}
   goodreads: '8703973'
   isbn13: '9781405911313'
+  owned: false
   pages: 28
   publication_year: '1944'
   source: http://www.classicshorts.com/stories/botd.html

@@ -5,6 +5,7 @@ book:
   goodreads: '3255973'
   isbn10: 349226588X
   isbn13: '9783492265881'
+  owned: false
   pages: '362'
   publication_year: '2004'
   spine_color: '#223240'

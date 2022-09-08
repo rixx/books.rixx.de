@@ -9,6 +9,7 @@ book:
   goodreads: '86737'
   isbn10: '1582349177'
   isbn13: '9781582349176'
+  owned: false
   pages: 352
   publication_year: '2002'
   series: Stravaganza

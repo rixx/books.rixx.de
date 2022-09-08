@@ -9,6 +9,7 @@ book:
   goodreads: '1508991'
   isbn10: '3423012668'
   isbn13: '9783423012669'
+  owned: false
   pages: 249
   publication_year: '1975'
   spine_color: '#836e3b'

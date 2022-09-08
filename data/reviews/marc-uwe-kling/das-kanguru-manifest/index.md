@@ -9,6 +9,7 @@ book:
   goodreads: '10452269'
   isbn10: '3548373836'
   isbn13: '9783548373836'
+  owned: true
   pages: 302
   publication_year: '2011'
   series: Die Känguru-Chroniken

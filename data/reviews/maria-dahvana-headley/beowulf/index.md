@@ -9,6 +9,7 @@ book:
   goodreads: '41940267'
   isbn10: '0374110034'
   isbn13: '9780374110031'
+  owned: false
   pages: 176
   publication_year: '2020'
   spine_color: '#029ce0'

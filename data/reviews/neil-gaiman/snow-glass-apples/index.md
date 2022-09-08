@@ -3,6 +3,7 @@ book:
   author: Neil Gaiman
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1244181275l/6366271.jpg
   goodreads: '6366271'
+  owned: false
   pages: '25'
   publication_year: '1995'
   source: https://thedreaming.moteofdust.com/1999/10/10/snow-glass-apples/

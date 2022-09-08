@@ -5,6 +5,7 @@ book:
   goodreads: '39817991'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '510'
   publication_year: null
   series: Of a Linear Circle
@@ -13,7 +14,9 @@ book:
   tags:
   - fanfic
   - learning-the-arts
-  title: 'Of a Linear Circle - Part III'
+  title: Of a Linear Circle - Part III
+plan:
+  date_added: 2021-12-31
 related_books:
 - book: flamethrower/of-a-linear-circle-part-iv
   text: The next book in the series.
@@ -21,8 +24,6 @@ related_books:
   text: The previous book in the series.
 - book: flamethrower/of-a-linear-circle-part-i
   text: The first book in the series.
-plan:
-  date_added: 2021-12-31
 review:
   date_read:
   - 2021-12-27

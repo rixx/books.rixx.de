@@ -9,6 +9,7 @@ book:
   goodreads: '2956'
   isbn10: '0142437174'
   isbn13: '9780142437179'
+  owned: false
   pages: 327
   publication_year: '1884'
   spine_color: '#a68768'

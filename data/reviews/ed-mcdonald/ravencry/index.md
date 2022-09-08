@@ -9,6 +9,7 @@ book:
   goodreads: '39804476'
   isbn10: '1473222052'
   isbn13: '9781473222052'
+  owned: false
   pages: 414
   publication_year: '2018'
   series: Raven's Mark

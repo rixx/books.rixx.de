@@ -5,6 +5,7 @@ book:
   goodreads: '34728925'
   isbn10: '1534409637'
   isbn13: '9781534409637'
+  owned: false
   pages: '402'
   publication_year: '2017'
   series: The Extraordinary Adventures of the Athena Club

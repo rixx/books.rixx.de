@@ -9,6 +9,7 @@ book:
   goodreads: '5094'
   isbn10: 0451210859
   isbn13: '9780451210852'
+  owned: false
   pages: 463
   publication_year: '1987'
   series: The Dark Tower

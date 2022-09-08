@@ -9,6 +9,7 @@ book:
   goodreads: '70020'
   isbn10: '1933648317'
   isbn13: '9781933648316'
+  owned: false
   pages: 864
   publication_year: '1870'
   spine_color: '#9d9473'

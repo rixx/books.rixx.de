@@ -5,6 +5,7 @@ book:
   goodreads: '1290838'
   isbn10: '3938484144'
   isbn13: '9783938484142'
+  owned: false
   pages: '80'
   publication_year: '1844'
   spine_color: '#763325'

@@ -5,6 +5,7 @@ book:
   goodreads: '6938404'
   isbn10: '3596806070'
   isbn13: '9783596806072'
+  owned: false
   pages: '256'
   publication_year: '2004'
   spine_color: '#b18b3f'

@@ -9,15 +9,16 @@ book:
   goodreads: '116296'
   isbn10: '0061161640'
   isbn13: '9780061161643'
+  owned: false
   pages: 400
   publication_year: '2007'
   series: Discworld
   series_position: '36'
   spine_color: '#9eb356'
-  title: Making Money
   tags:
   - fantasy
   - nebula-award-nominees
+  title: Making Money
 plan:
   date_added: '2015-04-08'
 related_books:

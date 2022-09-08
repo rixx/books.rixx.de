@@ -9,6 +9,7 @@ book:
   goodreads: '88077'
   isbn10: 0679772871
   isbn13: '9780679772873'
+  owned: false
   pages: 706
   publication_year: '1924'
   spine_color: '#c2ae8e'

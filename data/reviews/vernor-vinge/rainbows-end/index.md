@@ -9,6 +9,7 @@ book:
   goodreads: '102439'
   isbn10: 0812536363
   isbn13: '9780812536362'
+  owned: false
   pages: 381
   publication_year: '2006'
   spine_color: '#644b7b'

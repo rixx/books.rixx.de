@@ -5,6 +5,7 @@ book:
   goodreads: '16096968'
   isbn10: '0345531507'
   isbn13: '9780345531506'
+  owned: false
   pages: '781'
   publication_year: '2017'
   series: The Demon Cycle

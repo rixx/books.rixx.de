@@ -9,6 +9,7 @@ book:
   goodreads: '119322'
   isbn10: 0679879242
   isbn13: '9780679879244'
+  owned: false
   pages: 399
   publication_year: '1995'
   series: His Dark Materials

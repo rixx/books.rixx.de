@@ -9,6 +9,7 @@ book:
   goodreads: '1266646'
   isbn10: '1859734200'
   isbn13: '9781859734209'
+  owned: false
   pages: 224
   publication_year: '2000'
   spine_color: '#e8738d'

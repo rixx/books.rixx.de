@@ -5,6 +5,7 @@ book:
   cover_image_url: https://images-na.ssl-images-amazon.com/images/I/517kmOTTD7L._SX297_BO1,204,203,200_.jpg
   isbn10: ''
   isbn13: ''
+  owned: false
   pages: 90
   publication_year: '1960'
   spine_color: '#efdc86'

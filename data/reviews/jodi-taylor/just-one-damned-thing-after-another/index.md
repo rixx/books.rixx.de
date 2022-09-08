@@ -5,6 +5,7 @@ book:
   goodreads: '29661618'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '480'
   publication_year: '2013'
   series: The Chronicles of St Mary's

@@ -5,6 +5,7 @@ book:
   goodreads: '149075'
   isbn10: '0451147553'
   isbn13: '9780451147554'
+  owned: false
   pages: '240'
   publication_year: '1967'
   source: https://urbigenous.net/library/nine_billion_names_of_god.html

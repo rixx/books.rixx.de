@@ -5,6 +5,7 @@ book:
   goodreads: '157996'
   isbn10: null
   isbn13: '9780156318808'
+  owned: false
   pages: '168'
   publication_year: '1942'
   spine_color: '#de8b2c'

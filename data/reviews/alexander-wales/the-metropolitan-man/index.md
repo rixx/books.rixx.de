@@ -3,6 +3,7 @@ book:
   author: Alexander Wales
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407181255l/22872436.jpg
   goodreads: '22872436'
+  owned: false
   pages: '241'
   publication_year: '2014'
   source: https://www.fanfiction.net/s/10360716/1/The-Metropolitan-Man

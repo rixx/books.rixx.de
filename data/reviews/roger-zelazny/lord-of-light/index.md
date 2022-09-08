@@ -9,6 +9,7 @@ book:
   goodreads: '13821'
   isbn10: '0060567236'
   isbn13: '9780060567231'
+  owned: false
   pages: 304
   publication_year: '1967'
   spine_color: '#72ac96'

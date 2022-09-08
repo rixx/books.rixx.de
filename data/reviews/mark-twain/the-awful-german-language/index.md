@@ -5,6 +5,7 @@ book:
   goodreads: '8144897'
   isbn10: '3868200398'
   isbn13: '9783868200393'
+  owned: false
   pages: '81'
   publication_year: '2010'
   source: https://faculty.georgetown.edu/jod/texts/twain.german.html

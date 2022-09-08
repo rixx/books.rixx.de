@@ -9,6 +9,7 @@ book:
   goodreads: '20174424'
   isbn10: 080413717X
   isbn13: '9780804137171'
+  owned: false
   pages: 452
   publication_year: '2014'
   series: The Divine Cities

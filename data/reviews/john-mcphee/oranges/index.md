@@ -7,6 +7,7 @@ book:
   goodreads: '54983'
   isbn10: 0141182032
   isbn13: '9780141182032'
+  owned: false
   pages: 160
   publication_year: '1967'
   spine_color: '#ad6c42'

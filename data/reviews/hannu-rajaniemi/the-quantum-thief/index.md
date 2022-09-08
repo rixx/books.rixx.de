@@ -7,6 +7,7 @@ book:
   goodreads: '7562764'
   isbn10: 0575088877
   isbn13: '9780575088870'
+  owned: true
   pages: '336'
   publication_year: '2010'
   series: Jean le Flambeur
@@ -23,7 +24,8 @@ related_books:
   text: Another fast-paced fun heist story with strong world-building, the same energy
     just in fantasy.
 - book: roger-zelazny/lord-of-light
-  text: If you want more of the space trickster vibe – the protagonists feel very similar, and both have to deal with body transfers.
+  text: If you want more of the space trickster vibe – the protagonists feel very
+    similar, and both have to deal with body transfers.
 - book: janet-kagan/hellspark
   text: Another book with snarky cool space ships.
 review:

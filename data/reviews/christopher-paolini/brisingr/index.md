@@ -9,6 +9,7 @@ book:
   goodreads: '2248573'
   isbn10: 0375826726
   isbn13: '9780375826726'
+  owned: false
   pages: 763
   publication_year: '2008'
   series: The Inheritance Cycle

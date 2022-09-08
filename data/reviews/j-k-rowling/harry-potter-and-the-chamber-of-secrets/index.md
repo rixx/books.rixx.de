@@ -9,6 +9,7 @@ book:
   goodreads: '15881'
   isbn10: 0439064864
   isbn13: '9780439064866'
+  owned: false
   pages: 341
   publication_year: '1998'
   series: Harry Potter

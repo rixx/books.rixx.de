@@ -9,6 +9,7 @@ book:
   goodreads: '28195'
   isbn10: 0439554004
   isbn13: '9780439554008'
+  owned: false
   pages: 635
   publication_year: '2005'
   series: Inkworld

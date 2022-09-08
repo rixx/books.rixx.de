@@ -7,6 +7,7 @@ book:
   goodreads: '63720'
   isbn10: 0552154229
   isbn13: '9780552154222'
+  owned: false
   pages: '464'
   publication_year: '1999'
   series: Discworld

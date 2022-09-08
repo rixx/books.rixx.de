@@ -9,6 +9,7 @@ book:
   goodreads: '62033'
   isbn10: '1585677256'
   isbn13: '9781585677252'
+  owned: true
   pages: 688
   publication_year: '2003'
   series: Zamonien

@@ -5,6 +5,7 @@ book:
   goodreads: '16128152'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '236'
   publication_year: '2012'
   series: Whyborne & Griffin
@@ -16,6 +17,8 @@ book:
   - queer
   - romance
   title: Widdershins
+plan:
+  date_added: 2021-10-31
 related_books:
 - book: melissa-scott-amy-griswold/death-by-silver
   text: Similar sepia queer magic detectives for hire, other side of the pond.
@@ -25,8 +28,6 @@ related_books:
   text: Lower-class magician falls for non-magical nobleman in a gay Victorian romance.
 - book: lee-welch/salt-magic-skin-magic
   text: Lower-class magician falls for non-magical nobleman in a gay Victorian romance.
-plan:
-  date_added: 2021-10-31
 review:
   date_read:
   - 2022-01-13

@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24.0
   goodreads: '18078713'
+  owned: false
   pages: '22'
   publication_year: '2010'
   series: Freyaverse

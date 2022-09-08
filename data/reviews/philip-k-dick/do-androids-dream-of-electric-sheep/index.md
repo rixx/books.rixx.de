@@ -9,6 +9,7 @@ book:
   goodreads: '7082'
   isbn10: '0345404475'
   isbn13: '9780345404473'
+  owned: false
   pages: 244
   publication_year: '1968'
   series: Blade Runner

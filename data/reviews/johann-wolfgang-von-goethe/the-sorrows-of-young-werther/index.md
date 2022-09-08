@@ -9,6 +9,7 @@ book:
   goodreads: '16640'
   isbn10: 0812969901
   isbn13: '9780812969900'
+  owned: false
   pages: 149
   publication_year: '1774'
   spine_color: '#a56d48'

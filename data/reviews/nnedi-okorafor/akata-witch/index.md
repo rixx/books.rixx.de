@@ -9,6 +9,7 @@ book:
   goodreads: '7507944'
   isbn10: 0670011967
   isbn13: '9780670011964'
+  owned: false
   pages: 352
   publication_year: '2011'
   series: Akata Witch

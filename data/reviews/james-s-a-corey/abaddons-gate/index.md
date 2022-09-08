@@ -9,6 +9,7 @@ book:
   goodreads: '16131032'
   isbn10: 0316129070
   isbn13: '9780316129077'
+  owned: false
   pages: 576
   publication_year: '2013'
   series: The Expanse

@@ -9,6 +9,7 @@ book:
   goodreads: '74273'
   isbn10: '0553577255'
   isbn13: '9780553577259'
+  owned: false
   pages: 540
   publication_year: '1999'
   series: Nightrunner

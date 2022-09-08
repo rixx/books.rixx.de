@@ -9,6 +9,7 @@ book:
   goodreads: '42036538'
   isbn10: '1250313198'
   isbn13: '9781250313195'
+  owned: false
   pages: 448
   publication_year: '2019'
   series: The Locked Tomb

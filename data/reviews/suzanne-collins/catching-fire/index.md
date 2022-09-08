@@ -9,6 +9,7 @@ book:
   goodreads: '6148028'
   isbn10: 0439023491
   isbn13: '9780439023498'
+  owned: false
   pages: 391
   publication_year: '2009'
   series: The Hunger Games

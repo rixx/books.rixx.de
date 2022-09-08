@@ -8,6 +8,7 @@ book:
   goodreads: '121749'
   isbn10: 000720230X
   isbn13: '9780007202300'
+  owned: false
   pages: 292
   publication_year: '1951'
   series: Chronicles of Narnia

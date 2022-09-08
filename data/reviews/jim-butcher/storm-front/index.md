@@ -9,6 +9,7 @@ book:
   goodreads: '47212'
   isbn10: 0451457811
   isbn13: '9780451457813'
+  owned: false
   pages: 384
   publication_year: '2000'
   series: The Dresden Files

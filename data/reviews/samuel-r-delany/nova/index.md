@@ -9,6 +9,7 @@ book:
   goodreads: '85863'
   isbn10: '0375706704'
   isbn13: '9780375706707'
+  owned: false
   pages: 241
   publication_year: '1968'
   spine_color: '#946053'

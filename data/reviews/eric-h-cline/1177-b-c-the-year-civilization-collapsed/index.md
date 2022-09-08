@@ -9,6 +9,7 @@ book:
   goodreads: '18730589'
   isbn10: 0691140898
   isbn13: '9780691140896'
+  owned: false
   pages: 264
   publication_year: '2014'
   spine_color: '#d6b360'

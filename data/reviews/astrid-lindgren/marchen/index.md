@@ -9,6 +9,7 @@ book:
   goodreads: '468931'
   isbn10: 378912947X
   isbn13: '9783789129476'
+  owned: true
   pages: 222
   publication_year: '1989'
   spine_color: '#8ada5e'

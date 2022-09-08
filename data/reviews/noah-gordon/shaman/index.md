@@ -9,6 +9,7 @@ book:
   goodreads: '859887'
   isbn10: 0751500828
   isbn13: '9780751500820'
+  owned: false
   pages: 652
   publication_year: '1992'
   series: Cole Family Trilogy

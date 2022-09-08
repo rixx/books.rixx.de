@@ -5,6 +5,7 @@ book:
   cover_image_url: https://drop.rixx.de/6rMU/
   isbn10: ''
   isbn13: ''
+  owned: false
   pages: 39
   publication_year: '1974'
   source: https://www.tabletmag.com/sections/arts-letters/articles/on-venus-have-we-got-a-rabbi

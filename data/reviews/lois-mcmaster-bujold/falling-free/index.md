@@ -8,6 +8,7 @@ book:
     width: 14.0
   goodreads: '61915'
   isbn13: '9781886778535'
+  owned: false
   pages: 282
   publication_year: '1987'
   series: Vorkosigan Saga

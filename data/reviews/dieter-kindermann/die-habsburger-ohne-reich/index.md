@@ -5,6 +5,7 @@ book:
   goodreads: '19242892'
   isbn10: 321800814X
   isbn13: 978-3218008143
+  owned: false
   pages: 256
   publication_year: '2010'
   series: 'Die Habsburger ohne Reich: Geschichte einer Familie seit 1918'

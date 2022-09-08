@@ -5,6 +5,7 @@ book:
   goodreads: '25666078'
   isbn10: 0374286493
   isbn13: '9780374286491'
+  owned: true
   pages: '352'
   publication_year: '2015'
   spine_color: '#dc0c16'
@@ -24,7 +25,8 @@ related_books:
 - book: toby-barlow/sharp-teeth
   text: For more novels in form of modern epic poems.
 - book: david-gemmell/lord-of-the-silver-bow
-  text: A vastly different take on the Trojan war, but both have in common that the authors had a strong vision and won't be held back by the original legend.
+  text: A vastly different take on the Trojan war, but both have in common that the
+    authors had a strong vision and won't be held back by the original legend.
 - book: zachary-mason/the-lost-books-of-the-odyssey
   text: Another set of great, often surprisingly lyrical takes on Odysseus.
 review:

@@ -9,6 +9,7 @@ book:
   goodreads: '17274667'
   isbn10: '1481845705'
   isbn13: '9781481845700'
+  owned: false
   pages: 460
   publication_year: '2002'
   series: Metro

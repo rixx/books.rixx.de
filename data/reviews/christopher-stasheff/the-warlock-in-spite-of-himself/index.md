@@ -9,6 +9,7 @@ book:
   goodreads: '640181'
   isbn10: 0441873022
   isbn13: '9780441873029'
+  owned: false
   pages: 384
   publication_year: '1969'
   series: Warlock

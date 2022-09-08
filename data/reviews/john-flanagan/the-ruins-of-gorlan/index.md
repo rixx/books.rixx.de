@@ -9,6 +9,7 @@ book:
   goodreads: '60400'
   isbn10: '0142406635'
   isbn13: '9780142406632'
+  owned: false
   pages: 249
   publication_year: '2004'
   series: Ranger's Apprentice

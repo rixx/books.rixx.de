@@ -5,6 +5,7 @@ book:
   goodreads: '1306827'
   isbn10: '3423707313'
   isbn13: '9783423707312'
+  owned: true
   pages: '160'
   publication_year: '1931'
   spine_color: '#fced04'

@@ -9,6 +9,7 @@ book:
   goodreads: '2065091'
   isbn10: 0553590081
   isbn13: '9780553590081'
+  owned: false
   pages: 522
   publication_year: '2008'
   series: Nightrunner

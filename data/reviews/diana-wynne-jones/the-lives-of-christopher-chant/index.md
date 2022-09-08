@@ -9,6 +9,7 @@ book:
   goodreads: '519933'
   isbn10: 0688163653
   isbn13: '9780688163655'
+  owned: false
   pages: 240
   publication_year: '1988'
   series: Chrestomanci

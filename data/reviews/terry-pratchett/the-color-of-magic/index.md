@@ -9,6 +9,7 @@ book:
   goodreads: '34497'
   isbn10: 0060855924
   isbn13: '9780060855925'
+  owned: false
   pages: 288
   publication_year: '1983'
   series: Discworld

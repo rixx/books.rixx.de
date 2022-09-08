@@ -7,6 +7,7 @@ book:
   goodreads: '13496'
   isbn10: 0553588486
   isbn13: '9780553588484'
+  owned: true
   pages: '835'
   publication_year: '1996'
   series: A Song of Ice and Fire

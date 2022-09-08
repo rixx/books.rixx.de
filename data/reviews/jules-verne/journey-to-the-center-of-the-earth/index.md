@@ -7,6 +7,7 @@ book:
   goodreads: '32829'
   isbn10: 0553213970
   isbn13: '9780553213973'
+  owned: true
   pages: '240'
   publication_year: '1864'
   series: Extraordinary Voyages

@@ -9,6 +9,7 @@ book:
   goodreads: '85398'
   isbn10: 039470584X
   isbn13: '9780394705842'
+  owned: false
   pages: 268
   publication_year: '1969'
   spine_color: '#ddc78e'

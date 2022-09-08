@@ -9,6 +9,7 @@ book:
   goodreads: '442296'
   isbn10: 0140441905
   isbn13: '9780140441901'
+  owned: false
   pages: 272
   publication_year: '1894'
   spine_color: '#866c2c'

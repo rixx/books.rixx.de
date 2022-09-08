@@ -9,6 +9,7 @@ book:
   goodreads: '13335037'
   isbn10: '0062024035'
   isbn13: '9780062024039'
+  owned: false
   pages: 576
   publication_year: '2011'
   series: Divergent

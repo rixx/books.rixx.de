@@ -9,6 +9,7 @@ book:
   goodreads: '92625'
   isbn10: 0886825016
   isbn13: '9780886825010'
+  owned: false
   pages: 32
   publication_year: '1973'
   spine_color: '#bc7d6a'

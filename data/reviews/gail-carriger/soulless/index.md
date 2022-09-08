@@ -5,6 +5,7 @@ book:
   goodreads: '6381205'
   isbn10: '0316056634'
   isbn13: '9780316056632'
+  owned: false
   pages: '357'
   publication_year: '2009'
   series: Parasol Protectorate

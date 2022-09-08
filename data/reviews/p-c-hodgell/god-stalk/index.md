@@ -9,6 +9,7 @@ book:
   goodreads: '69169'
   isbn10: 0425060799
   isbn13: '9780425060797'
+  owned: false
   pages: 284
   publication_year: '1982'
   series: Kencyrath

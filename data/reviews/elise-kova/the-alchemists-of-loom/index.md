@@ -9,6 +9,7 @@ book:
   goodreads: '31549513'
   isbn10: '1619844419'
   isbn13: '9781619844414'
+  owned: false
   pages: 395
   publication_year: '2017'
   series: Loom Saga

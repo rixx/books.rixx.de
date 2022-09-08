@@ -4,6 +4,7 @@ book:
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430052907l/25431044.jpg
   goodreads: '25431044'
   isbn13: '9781485301974'
+  owned: true
   pages: '381'
   publication_year: '2003'
   spine_color: '#bda571'

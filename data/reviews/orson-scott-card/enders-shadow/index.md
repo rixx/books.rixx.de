@@ -9,6 +9,7 @@ book:
   goodreads: '9532'
   isbn10: '0765342405'
   isbn13: '9780765342409'
+  owned: false
   pages: 469
   publication_year: '1999'
   series: The Shadow Series

@@ -5,6 +5,7 @@ book:
   goodreads: '101048'
   isbn10: 0886822335
   isbn13: '9780886822330'
+  owned: false
   pages: '32'
   publication_year: '1958'
   source: http://www.mcguiremarks.com/uploads/3/9/7/9/39793909/isaac_asimov-all_the_troubles_of_the_world_(1).pdf

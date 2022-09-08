@@ -9,15 +9,16 @@ book:
   goodreads: '7886338'
   isbn10: '1596063173'
   isbn13: '9781596063174'
+  owned: false
   pages: 150
   publication_year: '2010'
   spine_color: '#ccc5ba'
-  title: The Lifecycle of Software Objects
   tags:
   - scifi
   - hugo-award-nominees
   - hugo-award
   - nebula-award-nominees
+  title: The Lifecycle of Software Objects
 plan:
   date_added: '2018-10-31'
 related_books:

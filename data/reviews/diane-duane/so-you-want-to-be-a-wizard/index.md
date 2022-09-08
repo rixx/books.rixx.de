@@ -7,6 +7,7 @@ book:
   goodreads: '116563'
   isbn10: 0152047387
   isbn13: '9780152047382'
+  owned: false
   pages: '323'
   publication_year: '1983'
   series: Young Wizards

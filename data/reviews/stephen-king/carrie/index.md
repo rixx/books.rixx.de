@@ -7,6 +7,7 @@ book:
   goodreads: '10592'
   isbn10: '1416524304'
   isbn13: '9781416524304'
+  owned: false
   pages: 290
   publication_year: '1974'
   spine_color: '#e82118'

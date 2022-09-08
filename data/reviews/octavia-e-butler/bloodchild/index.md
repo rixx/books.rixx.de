@@ -3,6 +3,7 @@ book:
   author: Octavia E. Butler
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394278990l/21265321.jpg
   goodreads: '21265321'
+  owned: false
   pages: '31'
   publication_year: '1984'
   spine_color: '#0bb89f'

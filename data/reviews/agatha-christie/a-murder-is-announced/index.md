@@ -9,6 +9,7 @@ book:
   goodreads: '16298'
   isbn10: '1579126294'
   isbn13: '9781579126292'
+  owned: false
   pages: 288
   publication_year: '1950'
   series: Miss Marple

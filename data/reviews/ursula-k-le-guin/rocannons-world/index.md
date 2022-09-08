@@ -7,6 +7,7 @@ book:
   goodreads: '92610'
   isbn10: 0441732968
   isbn13: '9780441732968'
+  owned: false
   pages: 144
   publication_year: '1966'
   series: Hainish Cycle

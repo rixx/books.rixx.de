@@ -9,6 +9,7 @@ book:
   goodreads: '23943137'
   isbn10: 0425283372
   isbn13: '9780425283370'
+  owned: false
   pages: 371
   publication_year: '2015'
   series: Sorcerer Royal

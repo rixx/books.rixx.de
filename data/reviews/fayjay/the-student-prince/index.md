@@ -3,6 +3,7 @@ book:
   author: FayJay
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400436772l/17277854.jpg
   goodreads: '17277854'
+  owned: false
   pages: '333'
   publication_year: '2010'
   series: The Student Prince

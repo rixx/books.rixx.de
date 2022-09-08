@@ -9,6 +9,7 @@ book:
   goodreads: '31702733'
   isbn10: 0765389592
   isbn13: '9780765389596'
+  owned: false
   pages: 416
   publication_year: '2017'
   series: The Risen Kingdoms

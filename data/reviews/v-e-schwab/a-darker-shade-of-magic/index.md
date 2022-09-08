@@ -9,6 +9,7 @@ book:
   goodreads: '22055262'
   isbn10: 0765376458
   isbn13: '9780765376459'
+  owned: false
   pages: 400
   publication_year: '2015'
   series: Shades of Magic

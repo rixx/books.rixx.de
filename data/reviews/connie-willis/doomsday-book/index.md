@@ -9,6 +9,7 @@ book:
   goodreads: '24983'
   isbn10: 0553562738
   isbn13: '9780553562736'
+  owned: false
   pages: 578
   publication_year: '1992'
   series: Oxford Time Travel

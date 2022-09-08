@@ -5,6 +5,7 @@ book:
   goodreads: '99107'
   isbn10: '0525467564'
   isbn13: '9780525467564'
+  owned: true
   pages: '145'
   publication_year: '1926'
   series: Winnie-the-Pooh

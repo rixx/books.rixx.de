@@ -9,6 +9,7 @@ book:
   goodreads: '4703581'
   isbn10: 0345497511
   isbn13: '9780345497512'
+  owned: false
   pages: 312
   publication_year: '2009'
   spine_color: '#6686c1'

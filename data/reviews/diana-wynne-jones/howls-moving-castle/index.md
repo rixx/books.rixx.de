@@ -9,6 +9,7 @@ book:
   goodreads: '6294'
   isbn10: 006441034X
   isbn13: '9780064410342'
+  owned: false
   pages: 336
   publication_year: '1986'
   series: Howl's Moving Castle

@@ -4,6 +4,7 @@ book:
   cover_image_url: http://covers.openlibrary.org/b/isbn/9783785582312-L.jpg
   goodreads: '30987220'
   isbn13: '9783785582312'
+  owned: false
   pages: '416'
   publication_year: '2016'
   spine_color: '#abbc8a'

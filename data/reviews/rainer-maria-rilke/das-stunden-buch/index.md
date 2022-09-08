@@ -9,6 +9,7 @@ book:
   goodreads: '344151'
   isbn10: 0811205959
   isbn13: '9780811205955'
+  owned: true
   pages: 60
   publication_year: '1899'
   spine_color: '#fdfdfd'

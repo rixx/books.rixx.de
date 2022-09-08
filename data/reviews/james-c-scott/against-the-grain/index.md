@@ -9,6 +9,7 @@ book:
   goodreads: '34324534'
   isbn10: 0300182910
   isbn13: '9780300182910'
+  owned: false
   pages: 312
   publication_year: '2017'
   spine_color: '#57876d'
@@ -24,9 +25,12 @@ related_books:
 - book: eric-h-cline/1177-b-c-the-year-civilization-collapsed
   text: Slightly later history.
 - book: jane-jacobs/the-economy-of-cities
-  text: These books pair extremely well – their versions of history are extremely compatible, but their implicit value judgement are not.
+  text: These books pair extremely well – their versions of history are extremely
+    compatible, but their implicit value judgement are not.
 - book: frances-gies-joseph-gies/cathedral-forge-and-waterwheel
-  text: Another history book about new technology. Focused on the Middle Ages, but also great at illustrating how progress can harm people, and how increased legibility often leads to oppression.
+  text: Another history book about new technology. Focused on the Middle Ages, but
+    also great at illustrating how progress can harm people, and how increased legibility
+    often leads to oppression.
 review:
   date_read:
   - 2020-10-18

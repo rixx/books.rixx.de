@@ -9,6 +9,7 @@ book:
   goodreads: '40680980'
   isbn10: '1449497470'
   isbn13: '9781449497477'
+  owned: true
   pages: 216
   publication_year: '2019'
   spine_color: '#e7b977'

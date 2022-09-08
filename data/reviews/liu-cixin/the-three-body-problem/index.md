@@ -9,6 +9,7 @@ book:
   goodreads: '20518872'
   isbn10: '0765377063'
   isbn13: '9780765377067'
+  owned: false
   pages: 399
   publication_year: '2006'
   series: Remembrance of Earth’s Past

@@ -5,6 +5,7 @@ book:
   goodreads: '41252994'
   isbn10: null
   isbn13: '9780993712647'
+  owned: false
   pages: 344
   publication_year: null
   series: Commonweal

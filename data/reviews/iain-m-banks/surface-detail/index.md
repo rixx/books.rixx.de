@@ -9,6 +9,7 @@ book:
   goodreads: '7937744'
   isbn10: '0316123404'
   isbn13: '9780316123402'
+  owned: false
   pages: 627
   publication_year: '2010'
   series: Culture

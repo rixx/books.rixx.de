@@ -9,6 +9,7 @@ book:
   goodreads: '433567'
   isbn10: 048627263X
   isbn13: '9780486272634'
+  owned: false
   pages: 96
   publication_year: '1884'
   spine_color: '#dcdf87'

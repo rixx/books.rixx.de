@@ -3,13 +3,14 @@ book:
   author: Antoine de Saint-Exupéry
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443l/157993.jpg
   goodreads: '157993'
+  owned: false
   pages: '93'
   publication_year: '1943'
   spine_color: '#074f90'
-  title: The Little Prince
   tags:
   - hugo-award-nominees
   - hugo-award
+  title: The Little Prince
 plan:
   date_added: '2015-04-09'
 related_books:

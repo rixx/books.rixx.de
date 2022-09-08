@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24.0
   goodreads: '13569581'
+  owned: false
   pages: '591'
   publication_year: '2011'
   series: Raven's Shadow

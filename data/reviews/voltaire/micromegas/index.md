@@ -5,6 +5,7 @@ book:
   goodreads: '1156110'
   isbn10: 0140389024
   isbn13: '9780140389029'
+  owned: false
   pages: '38'
   publication_year: '1752'
   spine_color: '#f50204'

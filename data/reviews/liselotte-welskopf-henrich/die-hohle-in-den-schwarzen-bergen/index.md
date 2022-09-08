@@ -7,6 +7,7 @@ book:
   goodreads: '6083619'
   isbn10: '3473388742'
   isbn13: '9783473388745'
+  owned: false
   pages: '367'
   publication_year: '1963'
   series: Die Söhne der Großen Bärin

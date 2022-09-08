@@ -9,6 +9,7 @@ book:
   goodreads: '444313'
   isbn10: 0064473139
   isbn13: '9780064473132'
+  owned: false
   pages: 240
   publication_year: '1975'
   series: The Dalemark Quartet

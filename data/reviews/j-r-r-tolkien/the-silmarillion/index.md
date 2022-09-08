@@ -5,6 +5,7 @@ book:
   goodreads: '7332'
   isbn10: 0618391118
   isbn13: '9780618391110'
+  owned: true
   pages: '386'
   publication_year: '1977'
   spine_color: '#a6bbd8'

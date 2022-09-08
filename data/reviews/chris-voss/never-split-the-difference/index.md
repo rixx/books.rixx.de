@@ -9,6 +9,7 @@ book:
   goodreads: '26156469'
   isbn10: 0062407805
   isbn13: '9780062407801'
+  owned: false
   pages: 288
   publication_year: '2016'
   spine_color: '#f2bf0d'

@@ -9,6 +9,7 @@ book:
   goodreads: '43459657'
   isbn10: '1250229790'
   isbn13: '9781250229793'
+  owned: false
   pages: 112
   publication_year: '2019'
   series: The Greenhollow Duology

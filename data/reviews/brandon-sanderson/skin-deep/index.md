@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22
   goodreads: '20886354'
+  owned: false
   pages: '208'
   publication_year: '2014'
   series: Legion

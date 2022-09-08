@@ -9,6 +9,7 @@ book:
   goodreads: '156784'
   isbn10: 006105481X
   isbn13: '9780061054815'
+  owned: false
   pages: 352
   publication_year: '1994'
   series: Subjective Cosmology

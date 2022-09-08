@@ -5,6 +5,7 @@ book:
   goodreads: '226765'
   isbn10: 0393093239
   isbn13: '9780393093230'
+  owned: false
   pages: '96'
   publication_year: '1974'
   spine_color: '#384b4e'

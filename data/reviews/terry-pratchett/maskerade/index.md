@@ -7,6 +7,7 @@ book:
   goodreads: '78876'
   isbn10: 0575058080
   isbn13: '9780575058088'
+  owned: false
   pages: '285'
   publication_year: '1995'
   series: Discworld

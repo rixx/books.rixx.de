@@ -9,6 +9,7 @@ book:
   goodreads: '887877'
   isbn10: 0553804685
   isbn13: '9780553804683'
+  owned: false
   pages: 558
   publication_year: '2007'
   series: Gentleman Bastard

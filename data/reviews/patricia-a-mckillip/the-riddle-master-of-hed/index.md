@@ -9,6 +9,7 @@ book:
   goodreads: '92755'
   isbn10: '0345331044'
   isbn13: '9780345331045'
+  owned: false
   pages: 240
   publication_year: '1976'
   series: Riddle-Master

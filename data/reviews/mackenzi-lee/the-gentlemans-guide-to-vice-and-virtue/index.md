@@ -9,6 +9,7 @@ book:
   goodreads: '29283884'
   isbn10: 0062382802
   isbn13: '9780062382801'
+  owned: false
   pages: 528
   publication_year: '2017'
   series: Montague Siblings

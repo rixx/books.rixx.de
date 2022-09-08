@@ -9,6 +9,7 @@ book:
   goodreads: '36686547'
   isbn10: '1596068647'
   isbn13: '9781596068643'
+  owned: false
   pages: 96
   publication_year: '2018'
   spine_color: '#a16f4e'

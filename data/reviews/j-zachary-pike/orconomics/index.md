@@ -3,6 +3,7 @@ book:
   author: J. Zachary Pike
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428577850l/25326486.jpg
   goodreads: '25326486'
+  owned: false
   pages: '387'
   publication_year: '2014'
   series: The Dark Profit Saga

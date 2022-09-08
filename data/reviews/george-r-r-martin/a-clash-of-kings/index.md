@@ -9,6 +9,7 @@ book:
   goodreads: '10572'
   isbn10: 0553381695
   isbn13: '9780553381696'
+  owned: true
   pages: 969
   publication_year: '1998'
   series: A Song of Ice and Fire

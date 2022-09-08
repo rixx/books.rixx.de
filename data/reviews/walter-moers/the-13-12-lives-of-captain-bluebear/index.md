@@ -9,6 +9,7 @@ book:
   goodreads: '62032'
   isbn10: '1585678449'
   isbn13: '9781585678440'
+  owned: true
   pages: 704
   publication_year: '1999'
   series: Zamonien

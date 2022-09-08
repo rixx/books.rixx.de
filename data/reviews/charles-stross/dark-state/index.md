@@ -9,6 +9,7 @@ book:
   goodreads: '24997006'
   isbn10: '1509823522'
   isbn13: '9781509823529'
+  owned: false
   pages: 352
   publication_year: '2018'
   series: Empire Games

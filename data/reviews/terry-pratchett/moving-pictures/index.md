@@ -9,6 +9,7 @@ book:
   goodreads: '34510'
   isbn10: 0552152943
   isbn13: '9780552152945'
+  owned: false
   pages: 396
   publication_year: '1990'
   series: Discworld

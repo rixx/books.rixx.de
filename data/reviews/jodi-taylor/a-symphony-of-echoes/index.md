@@ -7,6 +7,7 @@ book:
   goodreads: '25876967'
   isbn10: '1910939501'
   isbn13: '9781910939505'
+  owned: false
   pages: 300
   publication_year: '2013'
   series: The Chronicles of St. Mary's

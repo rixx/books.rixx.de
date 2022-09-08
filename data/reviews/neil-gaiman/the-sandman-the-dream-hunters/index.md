@@ -5,6 +5,7 @@ book:
   goodreads: '166580'
   isbn10: '1840232048'
   isbn13: '9781840232042'
+  owned: false
   pages: '128'
   publication_year: '1999'
   spine_color: '#a2684a'

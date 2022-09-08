@@ -5,24 +5,25 @@ book:
   goodreads: '22104319'
   isbn10: 0199697299
   isbn13: '9780199697298'
+  owned: false
   pages: '144'
   publication_year: '2014'
   spine_color: '#eddd61'
   tags:
   - history
   - nonfiction
-  title: "The Middle Ages: A Very Short Introduction"
+  title: 'The Middle Ages: A Very Short Introduction'
 plan:
   date_added: 2022-08-28
-review:
-  date_read:
-  - 2022-02-08
-  rating: 2
 related_books:
 - book: ian-j-deary/intelligence-a-very-short-introduction
   text: Another very short introduction.
 - book: eric-h-cline/1177-b-c-the-year-civilization-collapsed
   text: Different era, but what I had hoped to read for the medieval period in style.
+review:
+  date_read:
+  - 2022-02-08
+  rating: 2
 ---
 
 A disappointing VSI book, this time around: light on substance, but heavy on the condescension. I'll list a couple of

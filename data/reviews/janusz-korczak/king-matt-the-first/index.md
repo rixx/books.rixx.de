@@ -9,6 +9,7 @@ book:
   goodreads: '840587'
   isbn10: '1565124421'
   isbn13: '9781565124424'
+  owned: false
   pages: 344
   publication_year: '1923'
   spine_color: '#b15f4f'

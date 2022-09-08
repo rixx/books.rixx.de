@@ -5,6 +5,7 @@ book:
   goodreads: '40698166'
   isbn10: '1250312493'
   isbn13: '9781250312495'
+  owned: false
   pages: '28'
   publication_year: '2018'
   source: https://www.tor.com/2018/08/29/the-kite-maker-brenda-peynado/

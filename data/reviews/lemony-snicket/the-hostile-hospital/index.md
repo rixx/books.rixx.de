@@ -7,6 +7,7 @@ book:
   goodreads: '65118'
   isbn10: '1405206128'
   isbn13: '9781405206129'
+  owned: false
   pages: '272'
   publication_year: '2001'
   series: A Series of Unfortunate Events

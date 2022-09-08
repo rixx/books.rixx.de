@@ -5,6 +5,7 @@ book:
   goodreads: '793297'
   isbn10: '0345357620'
   isbn13: '9780345357625'
+  owned: false
   pages: '279'
   publication_year: '1989'
   series: The Steerswoman

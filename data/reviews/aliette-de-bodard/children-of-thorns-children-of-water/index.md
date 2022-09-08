@@ -5,6 +5,7 @@ book:
   goodreads: '34851372'
   isbn10: '1473212626'
   isbn13: '9781473212626'
+  owned: false
   pages: '37'
   publication_year: '2017'
   series: Dominion of the Fallen

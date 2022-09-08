@@ -9,6 +9,7 @@ book:
   goodreads: '6601976'
   isbn10: '1848310706'
   isbn13: '9781848310704'
+  owned: false
   pages: 435
   publication_year: '2009'
   spine_color: '#874242'

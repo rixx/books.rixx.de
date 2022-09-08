@@ -3,6 +3,7 @@ book:
   author: William Gibson
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281419771l/888628.jpg
   goodreads: '888628'
+  owned: false
   pages: '320'
   publication_year: '1984'
   series: Sprawl

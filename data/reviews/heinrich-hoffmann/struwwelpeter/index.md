@@ -9,6 +9,7 @@ book:
   goodreads: '551449'
   isbn10: 0922915520
   isbn13: '9780922915521'
+  owned: false
   pages: 124
   publication_year: '1845'
   spine_color: '#998f84'

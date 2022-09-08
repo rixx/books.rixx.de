@@ -5,6 +5,7 @@ book:
   goodreads: '36352813'
   isbn10: 0765396017
   isbn13: '9780765396013'
+  owned: false
   pages: '34'
   publication_year: '2017'
   source: https://www.tor.com/2017/10/04/crispins-model/

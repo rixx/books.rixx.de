@@ -7,6 +7,7 @@ book:
   goodreads: '23909755'
   isbn10: 0553419714
   isbn13: '9780553419719'
+  owned: false
   pages: '484'
   publication_year: '2016'
   series: The Divine Cities

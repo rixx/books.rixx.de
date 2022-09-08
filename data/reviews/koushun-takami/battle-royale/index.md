@@ -9,6 +9,7 @@ book:
   goodreads: '57891'
   isbn10: 156931778X
   isbn13: '9781569317785'
+  owned: false
   pages: 617
   publication_year: '1999'
   spine_color: '#bd1329'

@@ -5,6 +5,7 @@ book:
   goodreads: '2113260'
   isbn10: 0670019631
   isbn13: '9780670019632'
+  owned: true
   pages: '400'
   publication_year: '2009'
   series: Shades of Grey

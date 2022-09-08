@@ -9,6 +9,7 @@ book:
   goodreads: '34498'
   isbn10: '0413771164'
   isbn13: '9780413771162'
+  owned: false
   pages: 336
   publication_year: '2000'
   series: Discworld

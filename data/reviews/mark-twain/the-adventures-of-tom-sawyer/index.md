@@ -9,6 +9,7 @@ book:
   goodreads: '24583'
   isbn10: 0143039563
   isbn13: '9780143039563'
+  owned: false
   pages: 244
   publication_year: '1875'
   spine_color: '#5e632c'

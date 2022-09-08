@@ -9,6 +9,7 @@ book:
   goodreads: '64218'
   isbn10: 0380821214
   isbn13: '9780380821211'
+  owned: false
   pages: 224
   publication_year: '1990'
   series: Discworld

@@ -3,6 +3,7 @@ book:
   author: Dale Bailey
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516209337l/38085498._SY475_.jpg
   goodreads: '38085498'
+  owned: false
   pages: '46'
   publication_year: '2018'
   source: https://www.tor.com/2018/01/17/the-ghoul-goes-west-dale-bailey/

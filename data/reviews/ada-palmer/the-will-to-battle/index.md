@@ -7,6 +7,7 @@ book:
   goodreads: '33517544'
   isbn10: 0765378043
   isbn13: '9780765378040'
+  owned: true
   pages: '368'
   publication_year: '2017'
   series: Terra Ignota

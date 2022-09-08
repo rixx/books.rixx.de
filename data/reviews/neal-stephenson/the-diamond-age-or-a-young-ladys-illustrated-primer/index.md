@@ -9,6 +9,7 @@ book:
   goodreads: '827'
   isbn10: 0553380966
   isbn13: '9780553380965'
+  owned: false
   pages: 499
   publication_year: '1995'
   spine_color: '#709497'

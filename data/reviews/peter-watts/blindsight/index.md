@@ -9,6 +9,7 @@ book:
   goodreads: '48484'
   isbn10: 0765312182
   isbn13: '9780765312181'
+  owned: false
   pages: 384
   publication_year: '2006'
   series: Firefall

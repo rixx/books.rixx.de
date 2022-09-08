@@ -5,6 +5,7 @@ book:
   goodreads: '44281120'
   isbn10: '1250206871'
   isbn13: '9781250206879'
+  owned: false
   pages: '32'
   publication_year: '2019'
   source: https://www.tor.com/2019/03/27/how-to-move-spheres-and-influence-people-marko-kloos/

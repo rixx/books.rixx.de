@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '11277566'
+  owned: false
   pages: 35
   publication_year: '2011'
   series: The Dresden Files

@@ -3,9 +3,10 @@ book:
   author: Lynne M. Thomas
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504584647l/36184017._SY475_.jpg
   goodreads: '36184017'
+  owned: false
+  pages: 168
   publication_year: '2017'
   spine_color: '#997f84'
-  pages: 168
   tags:
   - scifi
   title: 'Uncanny Magazine Issue 18: September/October 2017'

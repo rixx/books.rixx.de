@@ -3,6 +3,7 @@ book:
   author: Amal El-Mohtar
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg
   goodreads: '43352954'
+  owned: true
   pages: '209'
   publication_year: '2019'
   spine_color: '#532b30'

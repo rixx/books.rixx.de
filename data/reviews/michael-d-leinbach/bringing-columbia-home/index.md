@@ -9,6 +9,7 @@ book:
   goodreads: '34145295'
   isbn10: '1628728515'
   isbn13: '9781628728514'
+  owned: false
   pages: 400
   publication_year: '2018'
   spine_color: '#a29f98'

@@ -9,6 +9,7 @@ book:
   goodreads: '13497'
   isbn10: 055358202X
   isbn13: '9780553582024'
+  owned: true
   pages: 1061
   publication_year: '2005'
   series: A Song of Ice and Fire

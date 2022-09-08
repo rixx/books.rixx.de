@@ -9,6 +9,7 @@ book:
   goodreads: '93405'
   isbn10: 0393308812
   isbn13: '9780393308815'
+  owned: true
   pages: 237
   publication_year: '1910'
   spine_color: '#50375a'

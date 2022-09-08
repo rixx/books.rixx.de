@@ -5,6 +5,7 @@ book:
   cover_image_url: https://i.imgur.com/cMrtG11.jpg
   isbn10: ''
   isbn13: ''
+  owned: false
   pages: 683
   publication_year: '2016'
   source: https://archiveofourown.org/works/2064171/chapters/4487058

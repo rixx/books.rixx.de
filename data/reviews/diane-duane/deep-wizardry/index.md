@@ -7,6 +7,7 @@ book:
   goodreads: '176494'
   isbn10: 0152049428
   isbn13: '9780152049423'
+  owned: false
   pages: '384'
   publication_year: '1985'
   series: Young Wizards

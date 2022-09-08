@@ -9,15 +9,16 @@ book:
   goodreads: '64222'
   isbn10: 0060502932
   isbn13: '9780060502935'
+  owned: false
   pages: 416
   publication_year: '2004'
   series: Discworld
   series_position: '33'
   spine_color: '#ca4015'
-  title: Going Postal
   tags:
   - fantasy
   - nebula-award-nominees
+  title: Going Postal
 plan:
   date_added: '2015-04-08'
 related_books:

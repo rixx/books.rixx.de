@@ -9,11 +9,12 @@ book:
   goodreads: '26114222'
   isbn10: 0765379422
   isbn13: '9780765379429'
+  owned: false
   pages: 416
   publication_year: '2016'
-  spine_color: '#bbcdcb'
   series: Craft Sequence
   series_position: '5'
+  spine_color: '#bbcdcb'
   tags:
   - fantasy
   title: Four Roads Cross

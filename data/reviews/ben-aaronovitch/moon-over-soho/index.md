@@ -9,6 +9,7 @@ book:
   goodreads: '10381195'
   isbn10: 0575097604
   isbn13: '9780575097605'
+  owned: false
   pages: 375
   publication_year: '2011'
   series: Rivers of London

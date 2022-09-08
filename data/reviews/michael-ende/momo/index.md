@@ -5,6 +5,7 @@ book:
   goodreads: '68811'
   isbn10: '3522168577'
   isbn13: '9783522168571'
+  owned: false
   pages: 304
   publication_year: '1973'
   spine_color: '#d38527'

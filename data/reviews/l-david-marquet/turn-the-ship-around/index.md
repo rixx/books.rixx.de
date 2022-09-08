@@ -9,6 +9,7 @@ book:
   goodreads: '16158601'
   isbn10: '1591846404'
   isbn13: '9781591846406'
+  owned: false
   pages: 272
   publication_year: '2012'
   spine_color: '#2b363f'
@@ -33,7 +34,8 @@ related_books:
     disturbances resulting from human initiative. The gear-wheels of the watch stand
     guard against the intervention of man.". Another military perspective.'
 - book: atul-gawande/the-checklist-manifesto
-  text: A book about the details of solving complex problems in cooperative contexts. The section about civil engineering in particular was very close to this book.
+  text: A book about the details of solving complex problems in cooperative contexts.
+    The section about civil engineering in particular was very close to this book.
 review:
   date_read:
   - 2021-03-11

@@ -9,6 +9,7 @@ book:
   goodreads: '13316328'
   isbn10: 0547738471
   isbn13: '9780547738475'
+  owned: false
   pages: 296
   publication_year: '2010'
   series: The Last Dragonslayer

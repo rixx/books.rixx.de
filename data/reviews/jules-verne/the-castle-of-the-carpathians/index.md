@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '1540877'
+  owned: true
   pages: '292'
   publication_year: '1892'
   series: Extraordinary Voyages

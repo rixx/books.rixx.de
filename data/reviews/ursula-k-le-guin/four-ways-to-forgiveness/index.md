@@ -7,6 +7,7 @@ book:
   goodreads: '92605'
   isbn10: 006076029X
   isbn13: '9780060760298'
+  owned: false
   pages: '304'
   publication_year: '1994'
   series: Hainish Cycle

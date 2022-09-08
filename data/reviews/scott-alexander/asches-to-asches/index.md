@@ -2,6 +2,7 @@
 book:
   author: Scott   Alexander
   goodreads: '26111676'
+  owned: false
   pages: 12
   publication_year: '2014'
   source: https://slatestarcodex.com/2014/06/03/asches-to-asches/

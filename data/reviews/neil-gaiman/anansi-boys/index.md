@@ -9,6 +9,7 @@ book:
   goodreads: '2744'
   isbn10: 0060515198
   isbn13: '9780060515195'
+  owned: false
   pages: 416
   publication_year: '2005'
   series: American Gods

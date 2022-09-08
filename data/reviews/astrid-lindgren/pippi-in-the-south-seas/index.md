@@ -5,6 +5,7 @@ book:
   goodreads: '19307'
   isbn10: '0670557110'
   isbn13: '9780670557110'
+  owned: false
   pages: '126'
   publication_year: '1948'
   series: Pippi Langstrumpf
@@ -19,9 +20,9 @@ plan:
   date_added: '2016-05-05'
 related_books:
 - book: astrid-lindgren/ronia-the-robbers-daughter
-  text: Anything else by Astrid Lindgren wrote makes for a better
-    read. If you're looking for more stories of strong and wild girls, Ronia the robber's
-    daughter would be a good way to get started.
+  text: Anything else by Astrid Lindgren wrote makes for a better read. If you're
+    looking for more stories of strong and wild girls, Ronia the robber's daughter
+    would be a good way to get started.
 - book: astrid-lindgren/pippi-langstrumpf
   text: If it's the absurd anarchist vibe that you're looking for, try the first part,
     which is a bit better.

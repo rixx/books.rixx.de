@@ -3,6 +3,7 @@ book:
   author: Robert Jackson Bennett
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520460880l/37173847._SY475_.jpg
   goodreads: '37173847'
+  owned: false
   pages: '512'
   publication_year: '2018'
   series: The Founders Trilogy

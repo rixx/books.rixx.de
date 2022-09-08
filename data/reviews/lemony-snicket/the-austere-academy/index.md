@@ -9,6 +9,7 @@ book:
   goodreads: '131123'
   isbn10: 0064408639
   isbn13: '9780064408639'
+  owned: false
   pages: 221
   publication_year: '2000'
   series: A Series of Unfortunate Events

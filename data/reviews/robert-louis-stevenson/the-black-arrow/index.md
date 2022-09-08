@@ -5,6 +5,7 @@ book:
   goodreads: '296264'
   isbn10: 0543896609
   isbn13: '9780543896605'
+  owned: false
   pages: '242'
   publication_year: '1883'
   spine_color: '#ddb416'

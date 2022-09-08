@@ -9,6 +9,7 @@ book:
   goodreads: '5776788'
   isbn10: '0061714305'
   isbn13: '9780061714306'
+  owned: false
   pages: 400
   publication_year: '2009'
   series: Sandman Slim

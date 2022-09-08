@@ -9,6 +9,7 @@ book:
   goodreads: '8909'
   isbn10: 0375759239
   isbn13: '9780375759239'
+  owned: false
   pages: 192
   publication_year: '1898'
   spine_color: '#a39f57'

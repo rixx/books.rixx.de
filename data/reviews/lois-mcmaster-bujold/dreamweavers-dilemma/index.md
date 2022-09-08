@@ -9,6 +9,7 @@ book:
   goodreads: '990089'
   isbn10: 0915368536
   isbn13: '9780915368532'
+  owned: true
   pages: 250
   publication_year: '1995'
   series: Vorkosigan Saga

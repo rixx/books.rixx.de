@@ -5,6 +5,7 @@ book:
   goodreads: '40874032'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '366'
   publication_year: '2013'
   series: Villains
@@ -18,8 +19,8 @@ plan:
 related_books:
 - book: v-e-schwab/a-darker-shade-of-magic
   text: I got on a bit better with this book.
-- text: Another superhero story with only villains that I didn't enjoy.
-  book: ian-tregillis/bitter-seeds
+- book: ian-tregillis/bitter-seeds
+  text: Another superhero story with only villains that I didn't enjoy.
 review:
   date_read:
   - 2021-06-20

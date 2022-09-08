@@ -5,6 +5,7 @@ book:
   goodreads: '41684'
   isbn10: 0451529758
   isbn13: '9780451529756'
+  owned: false
   pages: '368'
   publication_year: '1894'
   spine_color: '#faf890'

@@ -9,6 +9,7 @@ book:
   goodreads: '1534314'
   isbn10: '3522176502'
   isbn13: '9783522176507'
+  owned: false
   pages: 256
   publication_year: '1960'
   series: Jim Knopf

@@ -9,6 +9,7 @@ book:
   goodreads: '181087'
   isbn10: '1930900236'
   isbn13: '9781930900233'
+  owned: false
   pages: 178
   publication_year: '1954'
   spine_color: '#ec8927'

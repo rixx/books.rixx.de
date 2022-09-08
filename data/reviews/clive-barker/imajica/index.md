@@ -9,6 +9,7 @@ book:
   goodreads: '567704'
   isbn10: '0061053716'
   isbn13: '9780061053719'
+  owned: false
   pages: 823
   publication_year: '1991'
   spine_color: '#552c68'

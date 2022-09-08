@@ -9,6 +9,7 @@ book:
   goodreads: '190999'
   isbn10: 0020248717
   isbn13: '9780020248712'
+  owned: false
   pages: 210
   publication_year: '1963'
   spine_color: '#25131f'

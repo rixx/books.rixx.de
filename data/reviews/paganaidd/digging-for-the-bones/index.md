@@ -2,6 +2,7 @@
 book:
   author: paganaidd
   goodreads: '28431251'
+  owned: false
   pages: '850'
   publication_year: '2011'
   source: https://archiveofourown.org/works/598019/chapters/1078847

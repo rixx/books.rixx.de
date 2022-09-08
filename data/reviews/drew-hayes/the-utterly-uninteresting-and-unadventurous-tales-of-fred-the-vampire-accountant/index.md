@@ -5,6 +5,7 @@ book:
   goodreads: '22081680'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '300'
   publication_year: '2014'
   series: Fred, the Vampire Accountant

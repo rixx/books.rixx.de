@@ -5,6 +5,7 @@ book:
   goodreads: '2232663'
   isbn10: '0316013137'
   isbn13: '9780316013130'
+  owned: true
   pages: '288'
   publication_year: '2008'
   spine_color: '#da3b18'

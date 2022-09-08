@@ -7,6 +7,7 @@ book:
   goodreads: '1359385'
   isbn10: '3407808933'
   isbn13: '9783407808936'
+  owned: false
   pages: 796
   publication_year: '2002'
   spine_color: '#ec641a'

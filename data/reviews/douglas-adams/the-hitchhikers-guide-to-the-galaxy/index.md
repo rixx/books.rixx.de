@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 21.0
   goodreads: '11'
+  owned: false
   pages: '216'
   publication_year: '1979'
   series: Hitchhiker's Guide to the Galaxy

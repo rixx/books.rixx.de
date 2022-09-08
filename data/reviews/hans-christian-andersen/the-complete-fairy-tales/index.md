@@ -9,6 +9,7 @@ book:
   goodreads: '46306'
   isbn10: 0517092913
   isbn13: '9780517092910'
+  owned: true
   pages: 803
   publication_year: '1913'
   spine_color: '#b6a969'

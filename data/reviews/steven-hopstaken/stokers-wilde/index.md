@@ -9,6 +9,7 @@ book:
   goodreads: '42789383'
   isbn10: 178758173X
   isbn13: '9781787581739'
+  owned: false
   pages: 384
   publication_year: '2019'
   spine_color: '#5d3938'

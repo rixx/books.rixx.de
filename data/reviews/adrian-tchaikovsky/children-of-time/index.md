@@ -9,6 +9,7 @@ book:
   goodreads: '25499718'
   isbn10: '1447273281'
   isbn13: '9781447273288'
+  owned: false
   pages: 600
   publication_year: '2015'
   series: Children of Time

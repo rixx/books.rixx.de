@@ -9,6 +9,7 @@ book:
   goodreads: '19063'
   isbn10: 0375831002
   isbn13: '9780375831003'
+  owned: false
   pages: 567
   publication_year: '2005'
   spine_color: '#8e6335'

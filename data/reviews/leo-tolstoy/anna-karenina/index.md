@@ -3,6 +3,7 @@ book:
   author: Leo Tolstoy
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601352433l/15823480._SY475_.jpg
   goodreads: '15823480'
+  owned: false
   pages: '964'
   publication_year: '1877'
   spine_color: '#827360'

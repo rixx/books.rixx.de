@@ -9,6 +9,7 @@ book:
   goodreads: '375802'
   isbn10: 0812550706
   isbn13: '9780812550702'
+  owned: true
   pages: 352
   publication_year: '1985'
   series: Ender’s Saga

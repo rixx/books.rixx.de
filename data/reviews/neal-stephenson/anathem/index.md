@@ -9,6 +9,7 @@ book:
   goodreads: '2845024'
   isbn10: 0061474096
   isbn13: '9780061474095'
+  owned: true
   pages: 937
   publication_year: '2008'
   spine_color: '#aeae97'

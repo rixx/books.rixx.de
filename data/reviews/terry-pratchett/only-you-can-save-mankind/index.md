@@ -7,6 +7,7 @@ book:
   goodreads: '34521'
   isbn10: 0060541873
   isbn13: '9780060541873'
+  owned: false
   pages: '210'
   publication_year: '1992'
   series: Johnny Maxwell

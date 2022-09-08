@@ -7,6 +7,7 @@ book:
   goodreads: '1692789'
   isbn10: '3522168968'
   isbn13: '9783522168960'
+  owned: false
   pages: 460
   publication_year: '1995'
   series: Neschan-Trilogie

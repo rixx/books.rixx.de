@@ -7,6 +7,7 @@ book:
   goodreads: '6083604'
   isbn10: '3473388491'
   isbn13: '9783473388493'
+  owned: false
   pages: '270'
   publication_year: '1962'
   series: Die Söhne der Großen Bärin

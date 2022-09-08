@@ -9,6 +9,7 @@ book:
   goodreads: '11275323'
   isbn10: 0857522272
   isbn13: '9780857522276'
+  owned: false
   pages: 377
   publication_year: '2013'
   series: Discworld

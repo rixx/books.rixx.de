@@ -9,6 +9,7 @@ book:
   goodreads: '29648'
   isbn10: 0753804611
   isbn13: '9780753804612'
+  owned: false
   pages: 164
   publication_year: '1996'
   series: 'Vita Brevis: A Letter to St Augustine'

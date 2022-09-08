@@ -7,6 +7,7 @@ book:
   goodreads: '35271523'
   isbn10: 0316517917
   isbn13: '9780316517911'
+  owned: false
   pages: '389'
   publication_year: '2013'
   series: The Books of Babel

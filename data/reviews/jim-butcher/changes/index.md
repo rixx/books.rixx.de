@@ -9,6 +9,7 @@ book:
   goodreads: '6585201'
   isbn10: 045146317X
   isbn13: '9780451463173'
+  owned: false
   pages: 441
   publication_year: '2010'
   series: The Dresden Files

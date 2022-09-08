@@ -5,6 +5,7 @@ book:
   goodreads: '872518'
   isbn10: 0140048758
   isbn13: '9780140048759'
+  owned: false
   pages: '182'
   publication_year: '1967'
   spine_color: '#795326'

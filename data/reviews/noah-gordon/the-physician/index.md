@@ -9,6 +9,7 @@ book:
   goodreads: '4692'
   isbn10: 0751503894
   isbn13: '9780751503890'
+  owned: false
   pages: 714
   publication_year: '1986'
   series: Cole Family Trilogy

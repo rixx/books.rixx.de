@@ -9,6 +9,7 @@ book:
   goodreads: '36739320'
   isbn10: 0735210934
   isbn13: '9780735210936'
+  owned: false
   pages: 327
   publication_year: '2019'
   spine_color: '#faee05'

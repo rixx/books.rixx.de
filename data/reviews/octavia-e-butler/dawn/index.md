@@ -9,6 +9,7 @@ book:
   goodreads: '60929'
   isbn10: '0446603775'
   isbn13: '9780446603775'
+  owned: false
   pages: 256
   publication_year: '1987'
   series: Xenogenesis

@@ -5,6 +5,7 @@ book:
   goodreads: '180617'
   isbn10: 0140382623
   isbn13: '9780140382624'
+  owned: false
   pages: '262'
   publication_year: '1883'
   spine_color: '#e98d0d'

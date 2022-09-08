@@ -5,6 +5,7 @@ book:
   goodreads: '23007'
   isbn10: 0099453835
   isbn13: '9780099453833'
+  owned: false
   pages: '631'
   publication_year: '2002'
   spine_color: '#9c9c9c'

@@ -9,6 +9,7 @@ book:
   goodreads: '135879'
   isbn10: 0689877897
   isbn13: '9780689877896'
+  owned: false
   pages: 350
   publication_year: '2002'
   series: Dark Reflections

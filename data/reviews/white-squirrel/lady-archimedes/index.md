@@ -7,6 +7,7 @@ book:
   goodreads: '32184168'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '2390'
   publication_year: '2018'
   series: The Arithmancer

@@ -7,6 +7,7 @@ book:
   goodreads: '52488258'
   isbn10: '1732265194'
   isbn13: '9781732265196'
+  owned: false
   pages: 191
   publication_year: null
   spine_color: '#fd620c'

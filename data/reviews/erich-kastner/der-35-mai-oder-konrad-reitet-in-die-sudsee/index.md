@@ -3,6 +3,7 @@ book:
   author: Erich Kästner
   cover_image_url: https://drop.rixx.de/bWTJLY/
   goodreads: '212196'
+  owned: false
   pages: '160'
   publication_year: '1931'
   spine_color: '#f9c303'

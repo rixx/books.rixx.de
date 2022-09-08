@@ -9,6 +9,7 @@ book:
   goodreads: '4693'
   isbn10: 0451187261
   isbn13: '9780451187260'
+  owned: false
   pages: 448
   publication_year: '1995'
   series: Cole Family Trilogy

@@ -9,6 +9,7 @@ book:
   goodreads: '6316821'
   isbn10: 044101769X
   isbn13: '9780441017690'
+  owned: false
   pages: 465
   publication_year: '2009'
   series: Codex Alera

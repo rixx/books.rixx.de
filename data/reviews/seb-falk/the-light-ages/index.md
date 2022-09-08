@@ -5,6 +5,7 @@ book:
   goodreads: '50489364'
   isbn10: 132400293X
   isbn13: '9781324002932'
+  owned: false
   pages: '392'
   publication_year: '2020'
   spine_color: '#c08445'
@@ -19,7 +20,8 @@ related_books:
 - book: james-hannam/gods-philosophers
   text: Recommended as “A more swashbuckling story”
 - book: owen-gingerich/the-book-nobody-read
-  text: Recommended for more insight into Copernicus and astronomical teaching at universities.
+  text: Recommended for more insight into Copernicus and astronomical teaching at
+    universities.
 review:
   date_read:
   - 2021-08-06

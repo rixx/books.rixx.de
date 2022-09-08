@@ -9,6 +9,7 @@ book:
   goodreads: '119073'
   isbn10: '0156001314'
   isbn13: '9780156001311'
+  owned: true
   pages: 536
   publication_year: '1980'
   spine_color: '#bd352f'

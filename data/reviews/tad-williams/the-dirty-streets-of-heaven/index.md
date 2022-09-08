@@ -9,6 +9,7 @@ book:
   goodreads: '13542846'
   isbn10: 0756407680
   isbn13: '9780756407681'
+  owned: false
   pages: 406
   publication_year: '2012'
   series: Bobby Dollar

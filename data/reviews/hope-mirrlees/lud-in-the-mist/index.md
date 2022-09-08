@@ -9,6 +9,7 @@ book:
   goodreads: '73574'
   isbn10: '1593600410'
   isbn13: '9781593600419'
+  owned: false
   pages: 288
   publication_year: '1926'
   spine_color: '#7997c0'

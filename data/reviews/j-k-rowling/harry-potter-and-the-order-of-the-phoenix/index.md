@@ -9,6 +9,7 @@ book:
   goodreads: '2'
   isbn10: 0439358078
   isbn13: '9780439358071'
+  owned: false
   pages: 870
   publication_year: '2003'
   series: Harry Potter

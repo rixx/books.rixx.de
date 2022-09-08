@@ -5,6 +5,7 @@ book:
   goodreads: '53217284'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '377'
   publication_year: '2021'
   series: The Last Binding

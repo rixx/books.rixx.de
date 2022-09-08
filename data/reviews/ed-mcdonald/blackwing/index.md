@@ -9,6 +9,7 @@ book:
   goodreads: '33916060'
   isbn10: 0399587799
   isbn13: '9780399587795'
+  owned: false
   pages: 368
   publication_year: '2017'
   series: Raven's Mark

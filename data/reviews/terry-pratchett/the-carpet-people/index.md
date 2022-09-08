@@ -5,6 +5,7 @@ book:
   goodreads: '17836100'
   isbn10: 0544212479
   isbn13: '9780544212473'
+  owned: false
   pages: '296'
   publication_year: '1971'
   spine_color: '#ae4246'

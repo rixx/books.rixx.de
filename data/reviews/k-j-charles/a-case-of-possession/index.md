@@ -5,6 +5,7 @@ book:
   goodreads: '34715201'
   isbn10: null
   isbn13: '9780995799035'
+  owned: false
   pages: '211'
   publication_year: '2014'
   series: A Charm of Magpies
@@ -18,17 +19,17 @@ book:
   title: A Case of Possession
 plan:
   date_added: 2021-11-01
+related_books:
+- book: k-j-charles/flight-of-magpies
+  text: The next book in the series.
+- book: k-j-charles/the-magpie-lord
+  text: The first book in the series.
 review:
   date_read:
   - 2021-08-03
   rating: 3
   tldr: More gay magical Victorian mystery shenanigans – the charm of the first part
     has worn off a little, but still good as a comfort read.
-related_books:
-- book: k-j-charles/flight-of-magpies
-  text: The next book in the series.
-- book: k-j-charles/the-magpie-lord
-  text: The first book in the series.
 social:
   mastodon:
     datetime: 2021-11-01 12:02:52.266989

@@ -9,6 +9,7 @@ book:
   goodreads: '32718027'
   isbn10: 0062678108
   isbn13: '9780062678102'
+  owned: false
   pages: 544
   publication_year: '2017'
   series: The Daevabad Trilogy

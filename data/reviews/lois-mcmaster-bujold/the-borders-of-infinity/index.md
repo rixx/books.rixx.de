@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 18.0
   goodreads: '5073782'
+  owned: true
   pages: '78'
   publication_year: '1987'
   series: Vorkosigan Saga

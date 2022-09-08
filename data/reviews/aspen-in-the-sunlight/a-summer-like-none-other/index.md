@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 16
   goodreads: '16171523'
+  owned: false
   pages: '898'
   publication_year: '2008'
   series: Like None Other

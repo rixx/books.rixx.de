@@ -9,6 +9,7 @@ book:
   goodreads: '6175'
   isbn10: 0684826356
   isbn13: '9780684826356'
+  owned: false
   pages: 231
   publication_year: '1963'
   spine_color: '#3f4046'

@@ -9,6 +9,7 @@ book:
   goodreads: '13539191'
   isbn10: '0765333104'
   isbn13: '9780765333100'
+  owned: false
   pages: 336
   publication_year: '2012'
   series: Craft Sequence

@@ -9,6 +9,7 @@ book:
   goodreads: '23444482'
   isbn10: 0765380722
   isbn13: '9780765380722'
+  owned: false
   pages: 624
   publication_year: '2015'
   series: The Masquerade
@@ -28,7 +29,8 @@ related_books:
 - book: robert-jackson-bennett/city-of-stairs
   text: Government agents with divided loyalties having to make brutal decisions.
 - book: erraticerrata/so-you-want-to-be-a-villain
-  text: Young ruthless girl from invaded country joins the enemy for murky, maybe noble reasons.
+  text: Young ruthless girl from invaded country joins the enemy for murky, maybe
+    noble reasons.
 - book: seth-dickinson/the-monster-baru-cormorant
   text: The next book in the series.
 review:

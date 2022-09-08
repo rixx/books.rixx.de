@@ -3,6 +3,7 @@ book:
   author: Alexander Wales
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446240775l/27396199.jpg
   goodreads: '27396199'
+  owned: false
   pages: 54
   publication_year: null
   source: https://www.fanfiction.net/s/9915682/1/The-Last-Christmas

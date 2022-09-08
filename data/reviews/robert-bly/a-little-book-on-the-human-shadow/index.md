@@ -9,6 +9,7 @@ book:
   goodreads: '685656'
   isbn10: 0062548476
   isbn13: '9780062548474'
+  owned: false
   pages: 96
   publication_year: '1988'
   spine_color: '#a0763d'

@@ -5,6 +5,7 @@ book:
   goodreads: '19504964'
   isbn10: '1943772320'
   isbn13: '9781943772322'
+  owned: false
   pages: '237'
   publication_year: '2015'
   series: Innkeeper Chronicles

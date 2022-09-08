@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22.0
   goodreads: '38244358'
+  owned: false
   pages: '187'
   publication_year: '2019'
   series: Wayward Children

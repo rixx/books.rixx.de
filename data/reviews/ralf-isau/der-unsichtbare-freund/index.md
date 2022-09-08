@@ -7,6 +7,7 @@ book:
   goodreads: '1692796'
   isbn10: '3522174747'
   isbn13: '9783522174749'
+  owned: false
   pages: '448'
   publication_year: '2001'
   series: Der Kreis der Dämmerung

@@ -9,6 +9,7 @@ book:
   goodreads: '8696'
   isbn10: 0345371984
   isbn13: '9780345371980'
+  owned: false
   pages: 256
   publication_year: '1990'
   spine_color: '#b15d34'

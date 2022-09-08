@@ -9,6 +9,7 @@ book:
   goodreads: '114955'
   isbn10: 0786851473
   isbn13: '9780786851478'
+  owned: false
   pages: 416
   publication_year: '2002'
   series: Artemis Fowl

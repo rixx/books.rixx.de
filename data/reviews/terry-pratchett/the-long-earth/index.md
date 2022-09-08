@@ -5,6 +5,7 @@ book:
   goodreads: '13147230'
   isbn10: '0062067753'
   isbn13: '9780062067753'
+  owned: false
   pages: '336'
   publication_year: '2012'
   series: The Long Earth

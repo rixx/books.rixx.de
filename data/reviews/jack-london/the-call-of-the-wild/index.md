@@ -9,6 +9,7 @@ book:
   goodreads: '1852'
   isbn10: 0439227143
   isbn13: '9780439227148'
+  owned: false
   pages: 172
   publication_year: '1903'
   spine_color: '#8c7271'

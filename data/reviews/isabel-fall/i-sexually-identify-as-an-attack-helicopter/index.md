@@ -3,6 +3,7 @@ book:
   author: Isabel Fall
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578111751l/50267857._SY475_.jpg
   goodreads: '50267857'
+  owned: false
   pages: 30
   publication_year: '2020'
   source: https://web.archive.org/web/20200101232918/http://clarkesworldmagazine.com/fall_01_20/

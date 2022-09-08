@@ -7,6 +7,7 @@ book:
   goodreads: '61880'
   isbn10: '2290052302'
   isbn13: '9782290052303'
+  owned: true
   pages: '509'
   publication_year: '1996'
   series: Vorkosigan Saga

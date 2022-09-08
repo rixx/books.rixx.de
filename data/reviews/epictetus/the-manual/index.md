@@ -3,6 +3,7 @@ book:
   author: Epictetus
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525038557l/34946912._SY475_.jpg
   goodreads: '34946912'
+  owned: false
   pages: 66
   publication_year: '2017'
   series: Stoic Philosophy

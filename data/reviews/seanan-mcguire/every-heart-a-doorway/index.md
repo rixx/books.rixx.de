@@ -9,6 +9,7 @@ book:
   goodreads: '25526296'
   isbn10: 0765385503
   isbn13: '9780765385505'
+  owned: false
   pages: 173
   publication_year: '2016'
   series: Wayward Children

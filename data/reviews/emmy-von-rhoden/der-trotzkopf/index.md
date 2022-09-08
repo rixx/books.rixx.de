@@ -5,6 +5,7 @@ book:
   goodreads: '1660707'
   isbn10: '3401046918'
   isbn13: '9783401046914'
+  owned: false
   pages: '222'
   publication_year: '1883'
   spine_color: '#6bc0d1'

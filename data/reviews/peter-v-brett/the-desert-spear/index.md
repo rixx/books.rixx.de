@@ -9,6 +9,7 @@ book:
   goodreads: '6736971'
   isbn10: 0345503813
   isbn13: '9780345503817'
+  owned: false
   pages: 579
   publication_year: '2010'
   series: Demon Cycle

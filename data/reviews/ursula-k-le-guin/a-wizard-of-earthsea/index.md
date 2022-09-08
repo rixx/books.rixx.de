@@ -9,6 +9,7 @@ book:
   goodreads: '13642'
   isbn10: 0553383043
   isbn13: '9780553383041'
+  owned: false
   pages: 183
   publication_year: '1968'
   series: Earthsea Cycle
@@ -24,7 +25,8 @@ related_books:
 - book: diane-duane/so-you-want-to-be-a-wizard
   text: Duane understands Earthsea better than most.
 - book: patricia-a-mckillip/the-riddle-master-of-hed
-  text: Another classic fantasy world with a riddle-loving academy and a similarly odd pacing.
+  text: Another classic fantasy world with a riddle-loving academy and a similarly
+    odd pacing.
 - book: michael-ende/the-neverending-story
   text: Engaging with the protagonist's shadow ♥
 - book: patrick-rothfuss/the-name-of-the-wind

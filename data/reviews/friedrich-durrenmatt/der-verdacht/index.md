@@ -3,6 +3,7 @@ book:
   author: Friedrich Dürrenmatt
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519256229l/223620._SY475_.jpg
   goodreads: '223620'
+  owned: false
   pages: '120'
   publication_year: '1952'
   spine_color: '#398590'

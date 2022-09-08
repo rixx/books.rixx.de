@@ -9,6 +9,7 @@ book:
   goodreads: '34484'
   isbn10: 0552152978
   isbn13: '9780552152976'
+  owned: false
   pages: 400
   publication_year: '1992'
   series: Discworld

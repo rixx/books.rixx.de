@@ -3,6 +3,7 @@ book:
   author: Terry Pratchett
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615552073l/12067.jpg
   goodreads: '12067'
+  owned: false
   pages: '491'
   publication_year: '1990'
   spine_color: '#c5af66'

@@ -3,6 +3,7 @@ book:
   author: Anne Frank
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855.jpg
   goodreads: '48855'
+  owned: true
   pages: '283'
   publication_year: '1947'
   spine_color: '#4e1014'

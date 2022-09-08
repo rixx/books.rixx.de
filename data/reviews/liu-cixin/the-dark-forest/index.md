@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 25.0
   goodreads: '23168817'
+  owned: false
   pages: '512'
   publication_year: '2008'
   series: Remembrance of Earth’s Past

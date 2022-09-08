@@ -9,6 +9,7 @@ book:
   goodreads: '6218281'
   isbn10: 0385342306
   isbn13: '9780385342308'
+  owned: false
   pages: 374
   publication_year: '2009'
   series: Flavia de Luce

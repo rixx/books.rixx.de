@@ -9,6 +9,7 @@ book:
   goodreads: '222472'
   isbn10: 0441014984
   isbn13: '9780441014989'
+  owned: false
   pages: 351
   publication_year: '2007'
   series: Halting State

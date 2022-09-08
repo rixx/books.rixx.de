@@ -7,6 +7,7 @@ book:
   goodreads: '1096832'
   isbn10: '3453072057'
   isbn13: '9783453072053'
+  owned: true
   pages: 378
   publication_year: '1992'
   spine_color: '#7f4252'

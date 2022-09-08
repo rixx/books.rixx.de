@@ -7,6 +7,7 @@ book:
   goodreads: '15839976'
   isbn10: 0345539788
   isbn13: '9780345539786'
+  owned: false
   pages: '382'
   publication_year: '2014'
   series: Red Rising

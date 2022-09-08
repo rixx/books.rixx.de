@@ -9,6 +9,7 @@ book:
   goodreads: '45112'
   isbn10: 0553565699
   isbn13: '9780553565690'
+  owned: false
   pages: 757
   publication_year: '1997'
   series: Farseer Trilogy

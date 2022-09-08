@@ -7,6 +7,7 @@ book:
   goodreads: '78411'
   isbn10: 0439206472
   isbn13: '9780439206471'
+  owned: false
   pages: 176
   publication_year: '1999'
   series: A Series of Unfortunate Events

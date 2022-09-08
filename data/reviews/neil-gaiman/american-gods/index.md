@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 17.1
   goodreads: '4407'
+  owned: false
   pages: '635'
   publication_year: '2001'
   series: American Gods
@@ -43,7 +44,8 @@ related_books:
 - book: neil-gaiman/anansi-boys
   text: The next book in the series.
 - book: clive-barker/imajica
-  text: The gritty, adult people reminded me of American Gods, though Barker understands people better, and Gaiman is better at myths.
+  text: The gritty, adult people reminded me of American Gods, though Barker understands
+    people better, and Gaiman is better at myths.
 review:
   date_read:
   - 2012-02-01

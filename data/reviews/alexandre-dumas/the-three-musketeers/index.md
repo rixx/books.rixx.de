@@ -3,6 +3,7 @@ book:
   author: Alexandre Dumas
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630475503l/7190._SX318_.jpg
   goodreads: '7190'
+  owned: false
   pages: '625'
   publication_year: '1844'
   series: The D'Artagnan Romances

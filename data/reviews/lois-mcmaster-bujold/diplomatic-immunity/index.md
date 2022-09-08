@@ -9,6 +9,7 @@ book:
   goodreads: '61901'
   isbn10: 0743468023
   isbn13: '9780743468022'
+  owned: true
   pages: 368
   publication_year: '2002'
   series: Vorkosigan Saga

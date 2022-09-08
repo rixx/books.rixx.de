@@ -7,6 +7,7 @@ book:
   goodreads: '2978113'
   isbn10: '3407784325'
   isbn13: '9783407784322'
+  owned: false
   pages: 199
   publication_year: '1982'
   spine_color: '#1a65a0'

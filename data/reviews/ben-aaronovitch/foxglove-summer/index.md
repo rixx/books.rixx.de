@@ -9,6 +9,7 @@ book:
   goodreads: '20499240'
   isbn10: '0575132507'
   isbn13: '9780575132504'
+  owned: false
   pages: 384
   publication_year: '2014'
   series: Rivers of London

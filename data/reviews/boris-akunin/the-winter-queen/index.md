@@ -9,6 +9,7 @@ book:
   goodreads: '61463'
   isbn10: 0753817594
   isbn13: '9780753817599'
+  owned: false
   pages: 256
   publication_year: '1998'
   series: Erast Fandorin Mysteries

@@ -5,6 +5,7 @@ book:
   goodreads: '228665'
   isbn10: 0812511816
   isbn13: '9780812511819'
+  owned: false
   pages: '814'
   publication_year: '1990'
   series: The Wheel of Time

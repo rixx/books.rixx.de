@@ -9,6 +9,7 @@ book:
   goodreads: '1132597'
   isbn10: '3791530151'
   isbn13: '9783791530154'
+  owned: false
   pages: 176
   publication_year: '1933'
   spine_color: '#f7d10c'

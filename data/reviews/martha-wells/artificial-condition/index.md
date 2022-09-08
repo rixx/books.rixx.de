@@ -9,6 +9,7 @@ book:
   goodreads: '36223860'
   isbn10: '1250186927'
   isbn13: '9781250186928'
+  owned: false
   pages: 160
   publication_year: '2018'
   series: The Murderbot Diaries

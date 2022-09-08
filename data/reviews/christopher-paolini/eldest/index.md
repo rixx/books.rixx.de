@@ -9,6 +9,7 @@ book:
   goodreads: '45978'
   isbn10: 0375840400
   isbn13: '9780375840401'
+  owned: false
   pages: 704
   publication_year: '2005'
   series: The Inheritance Cycle

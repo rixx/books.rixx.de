@@ -9,6 +9,7 @@ book:
   goodreads: '52713814'
   isbn10: '1779501110'
   isbn13: '9781779501110'
+  owned: true
   pages: 208
   publication_year: '2020'
   spine_color: '#816f61'

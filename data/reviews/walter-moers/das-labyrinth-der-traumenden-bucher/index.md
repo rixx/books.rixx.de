@@ -9,6 +9,7 @@ book:
   goodreads: '11177312'
   isbn10: '3813503933'
   isbn13: '9783813503937'
+  owned: true
   pages: 432
   publication_year: '2011'
   series: Zamonien

@@ -7,6 +7,7 @@ book:
   goodreads: '3322866'
   isbn10: 0007287755
   isbn13: '9780007287758'
+  owned: false
   pages: 544
   publication_year: '2008'
   series: Demon Cycle

@@ -5,15 +5,16 @@ book:
   goodreads: '40757170'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '110'
   publication_year: null
+  series: Of a Linear Circle
+  series_position: 5
   spine_color: '#dad2bf'
   tags:
   - historical-fiction
   - fanfic
-  series: Of a Linear Circle
-  series_position: 5
-  title: 'Of a Linear Circle - Part V - Ravenclaw'
+  title: Of a Linear Circle - Part V - Ravenclaw
 plan:
   date_added: 2022-01-02
 related_books:

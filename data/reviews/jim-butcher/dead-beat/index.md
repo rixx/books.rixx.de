@@ -7,6 +7,7 @@ book:
   goodreads: '17683'
   isbn10: 045146091X
   isbn13: '9780451460912'
+  owned: false
   pages: '517'
   publication_year: '2005'
   series: The Dresden Files

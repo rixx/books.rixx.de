@@ -7,6 +7,7 @@ book:
   goodreads: '16160797'
   isbn10: 0316206849
   isbn13: '9780316206846'
+  owned: false
   pages: '456'
   publication_year: '2013'
   series: Cormoran Strike

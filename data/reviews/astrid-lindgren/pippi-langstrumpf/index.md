@@ -9,6 +9,7 @@ book:
   goodreads: '942326'
   isbn10: '3789141615'
   isbn13: '9783789141614'
+  owned: false
   pages: 140
   publication_year: '1945'
   spine_color: '#c87431'

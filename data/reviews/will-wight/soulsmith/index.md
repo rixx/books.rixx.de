@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 19
   goodreads: '32283608'
+  owned: false
   pages: '286'
   publication_year: '2016'
   series: Cradle

@@ -9,6 +9,7 @@ book:
   goodreads: '30043'
   isbn10: '0226500667'
   isbn13: '9780226500669'
+  owned: false
   pages: 240
   publication_year: '1976'
   spine_color: '#bebe9a'

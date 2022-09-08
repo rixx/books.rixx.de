@@ -9,6 +9,7 @@ book:
   goodreads: '94711'
   isbn10: 193152002X
   isbn13: '9781931520027'
+  owned: false
   pages: 282
   publication_year: '2002'
   spine_color: '#e88e55'

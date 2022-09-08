@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 24
   goodreads: '16005271'
+  owned: false
   pages: '3494'
   publication_year: '2006'
   series: Sacrifices Arc

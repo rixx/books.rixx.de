@@ -9,6 +9,7 @@ book:
   goodreads: '47624'
   isbn10: 0060590165
   isbn13: '9780060590161'
+  owned: false
   pages: 464
   publication_year: '2001'
   series: Abhorsen

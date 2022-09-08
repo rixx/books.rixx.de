@@ -9,6 +9,7 @@ book:
   goodreads: '45448133'
   isbn10: '1641290862'
   isbn13: '9781641290869'
+  owned: false
   pages: 216
   publication_year: '2020'
   spine_color: '#c6bea4'

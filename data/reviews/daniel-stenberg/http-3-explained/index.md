@@ -3,6 +3,7 @@ book:
   author: Daniel Stenberg
   cover_image_url: https://drop.rixx.de/m4GDu/
   goodreads: '43560466'
+  owned: false
   pages: 68
   publication_year: 2018
   source: https://http3-explained.haxx.se/en/

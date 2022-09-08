@@ -3,6 +3,7 @@ book:
   author: Neil Gaiman
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1247023701l/6599565.jpg
   goodreads: '6599565'
+  owned: false
   pages: 9
   publication_year: '2003'
   spine_color: '#e13f0d'

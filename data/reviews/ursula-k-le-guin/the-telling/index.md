@@ -9,6 +9,7 @@ book:
   goodreads: '59921'
   isbn10: '0441011233'
   isbn13: '9780441011230'
+  owned: false
   pages: 231
   publication_year: '2000'
   series: Hainish Cycle

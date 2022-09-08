@@ -5,6 +5,7 @@ book:
   goodreads: '1029309'
   isbn10: '3423132507'
   isbn13: '9783423132503'
+  owned: false
   pages: '272'
   publication_year: '2000'
   spine_color: '#d8b1a4'

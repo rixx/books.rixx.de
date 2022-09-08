@@ -7,6 +7,7 @@ book:
   goodreads: '1477449'
   isbn10: '3866151101'
   isbn13: '9783866151109'
+  owned: false
   pages: '462'
   publication_year: '1994'
   series: Wendepunkte

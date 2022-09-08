@@ -3,6 +3,7 @@ book:
   author: Janell Rhiannon
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538446870l/42075692._SY475_.jpg
   goodreads: '42075692'
+  owned: false
   pages: '543'
   publication_year: '2018'
   series: Homeric Chronicles

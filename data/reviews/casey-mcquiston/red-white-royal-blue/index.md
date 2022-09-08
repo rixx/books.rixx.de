@@ -3,6 +3,7 @@ book:
   author: Casey McQuiston
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566742512l/41150487._SY475_.jpg
   goodreads: '41150487'
+  owned: false
   pages: '421'
   publication_year: '2019'
   spine_color: '#d33930'

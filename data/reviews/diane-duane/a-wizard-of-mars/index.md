@@ -9,6 +9,7 @@ book:
   goodreads: '1583121'
   isbn10: '0152047700'
   isbn13: '9780152047702'
+  owned: false
   pages: 550
   publication_year: '2010'
   series: Young Wizards

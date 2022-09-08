@@ -9,6 +9,7 @@ book:
   goodreads: '851994'
   isbn10: 0872203549
   isbn13: '9780872203549'
+  owned: true
   pages: 209
   publication_year: '1888'
   spine_color: '#8d362f'

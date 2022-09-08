@@ -9,6 +9,7 @@ book:
   goodreads: '19057'
   isbn10: 0375836675
   isbn13: '9780375836671'
+  owned: false
   pages: 357
   publication_year: '2002'
   spine_color: '#8a2930'

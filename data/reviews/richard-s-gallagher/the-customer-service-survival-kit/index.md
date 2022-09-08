@@ -9,6 +9,7 @@ book:
   goodreads: '16241833'
   isbn10: 0814431836
   isbn13: '9780814431832'
+  owned: false
   pages: 208
   publication_year: '2013'
   spine_color: '#2bb6e7'

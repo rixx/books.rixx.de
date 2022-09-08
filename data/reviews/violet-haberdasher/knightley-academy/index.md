@@ -9,6 +9,7 @@ book:
   goodreads: '6609704'
   isbn10: '1416991433'
   isbn13: '9781416991434'
+  owned: false
   pages: 480
   publication_year: '2010'
   series: Knightley Academy

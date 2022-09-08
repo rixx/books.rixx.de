@@ -9,6 +9,7 @@ book:
   goodreads: '40032435'
   isbn10: '1618731556'
   isbn13: '9781618731555'
+  owned: false
   pages: 288
   publication_year: '2019'
   spine_color: '#cc785b'

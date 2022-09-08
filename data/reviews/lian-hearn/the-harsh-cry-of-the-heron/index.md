@@ -7,6 +7,7 @@ book:
   goodreads: '1864628'
   isbn10: '3551581606'
   isbn13: '9783551581600'
+  owned: false
   pages: '798'
   publication_year: '2006'
   series: Der Clan der Otori

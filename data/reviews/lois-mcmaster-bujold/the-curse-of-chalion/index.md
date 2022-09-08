@@ -5,6 +5,7 @@ book:
   goodreads: '61886'
   isbn10: 0007133618
   isbn13: '9780007133611'
+  owned: false
   pages: '490'
   publication_year: '2001'
   series: World of the Five Gods

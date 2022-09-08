@@ -9,6 +9,7 @@ book:
   goodreads: '156783'
   isbn10: '0061052655'
   isbn13: '9780061052651'
+  owned: false
   pages: 293
   publication_year: '1990'
   spine_color: '#602e2c'

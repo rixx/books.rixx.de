@@ -5,6 +5,7 @@ book:
   goodreads: '58301'
   isbn10: '1842552821'
   isbn13: '9781842552827'
+  owned: false
   pages: 160
   publication_year: '1992'
   spine_color: '#ce4039'

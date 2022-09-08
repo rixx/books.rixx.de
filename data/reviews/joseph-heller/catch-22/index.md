@@ -7,6 +7,7 @@ book:
   goodreads: '168668'
   isbn10: 0684833395
   isbn13: '9780684833392'
+  owned: false
   pages: 453
   publication_year: '1961'
   series: Catch-22

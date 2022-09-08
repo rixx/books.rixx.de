@@ -3,6 +3,7 @@ book:
   author: Abbey Mei Otis
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329281136l/13485563.jpg
   goodreads: '13485563'
+  owned: false
   pages: '5'
   publication_year: '2010'
   source: https://www.tor.com/2018/08/14/read-abbey-mei-otis-sweetheart/

@@ -3,6 +3,7 @@ book:
   author: Ulrich Herbert
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474644394l/32186940._SY475_.jpg
   goodreads: '32186940'
+  owned: true
   pages: 134
   publication_year: null
   spine_color: '#804937'

@@ -9,6 +9,7 @@ book:
   goodreads: '47525'
   isbn10: 0060298782
   isbn13: '9780060298784'
+  owned: false
   pages: 288
   publication_year: '1980'
   series: Chrestomanci

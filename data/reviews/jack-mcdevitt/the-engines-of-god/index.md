@@ -9,6 +9,7 @@ book:
   goodreads: '337048'
   isbn10: 0441002846
   isbn13: '9780441002849'
+  owned: false
   pages: 419
   publication_year: '1994'
   series: The Academy

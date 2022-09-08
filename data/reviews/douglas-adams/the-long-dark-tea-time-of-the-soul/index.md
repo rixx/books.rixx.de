@@ -9,6 +9,7 @@ book:
   goodreads: '357'
   isbn10: '0671742515'
   isbn13: '9780671742515'
+  owned: false
   pages: 307
   publication_year: '1988'
   series: Dirk Gently

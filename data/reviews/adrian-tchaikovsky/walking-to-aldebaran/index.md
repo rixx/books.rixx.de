@@ -9,6 +9,7 @@ book:
   goodreads: '42201505'
   isbn10: '1781087067'
   isbn13: '9781781087060'
+  owned: false
   pages: 140
   publication_year: '2019'
   spine_color: '#c0b692'

@@ -5,6 +5,7 @@ book:
   goodreads: '290569'
   isbn10: 0316914363
   isbn13: '9780316914369'
+  owned: false
   pages: '455'
   publication_year: '1995'
   spine_color: '#e6e6e5'

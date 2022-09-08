@@ -9,6 +9,7 @@ book:
   goodreads: '5'
   isbn10: 043965548X
   isbn13: '9780439655484'
+  owned: false
   pages: 547
   publication_year: '1999'
   series: Harry Potter

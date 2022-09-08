@@ -9,6 +9,7 @@ book:
   goodreads: '7576115'
   isbn10: 0385611072
   isbn13: '9780385611077'
+  owned: false
   pages: 349
   publication_year: '2010'
   series: Discworld

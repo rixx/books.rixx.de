@@ -9,6 +9,7 @@ book:
   goodreads: '12216302'
   isbn10: '0451464400'
   isbn13: '9780451464408'
+  owned: false
   pages: 515
   publication_year: '2012'
   series: The Dresden Files

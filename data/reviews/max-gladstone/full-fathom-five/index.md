@@ -9,6 +9,7 @@ book:
   goodreads: '16148208'
   isbn10: '0765335743'
   isbn13: '9780765335746'
+  owned: false
   pages: 382
   publication_year: '2014'
   series: Craft Sequence

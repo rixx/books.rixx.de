@@ -5,16 +5,17 @@ book:
   goodreads: '52139451'
   isbn10: '1250237564'
   isbn13: '9781250237569'
+  owned: false
   pages: '30'
   publication_year: '2019'
   source: https://www.tor.com/2019/07/10/for-he-can-creep-siobhan-carroll/
   spine_color: '#c5a98a'
-  title: For He Can Creep
   tags:
   - fantasy
   - hugo-award-nominees
   - nebula-award-nominees
   - world-fantasy-award-nominees
+  title: For He Can Creep
 plan:
   date_added: '2020-02-12'
 related_books:

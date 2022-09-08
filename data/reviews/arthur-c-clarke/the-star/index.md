@@ -3,6 +3,7 @@ book:
   author: Arthur C. Clarke
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451214185l/13598725.jpg
   goodreads: '13598725'
+  owned: false
   pages: '6'
   publication_year: '1955'
   spine_color: '#2a91ba'

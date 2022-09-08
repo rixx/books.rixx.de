@@ -9,6 +9,7 @@ book:
   goodreads: '17349203'
   isbn10: '0062224077'
   isbn13: '9780062224071'
+  owned: false
   pages: 128
   publication_year: '2013'
   spine_color: '#d04f42'

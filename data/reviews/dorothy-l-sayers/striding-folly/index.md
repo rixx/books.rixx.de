@@ -7,6 +7,7 @@ book:
   goodreads: '192889'
   isbn10: '0450033406'
   isbn13: '9780450033407'
+  owned: false
   pages: '176'
   publication_year: '1972'
   series: Lord Peter Wimsey

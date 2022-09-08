@@ -5,6 +5,7 @@ book:
   goodreads: '84049'
   isbn10: '8493388335'
   isbn13: '9788493388331'
+  owned: true
   pages: 607
   publication_year: '1951'
   spine_color: '#cf785d'

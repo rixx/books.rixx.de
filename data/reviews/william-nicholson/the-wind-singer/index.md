@@ -9,6 +9,7 @@ book:
   goodreads: '295169'
   isbn10: 0786814179
   isbn13: '9780786814176'
+  owned: false
   pages: 486
   publication_year: '2000'
   series: Wind on Fire

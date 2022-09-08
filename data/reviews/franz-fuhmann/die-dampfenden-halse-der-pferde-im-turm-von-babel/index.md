@@ -5,6 +5,7 @@ book:
   goodreads: '2841133'
   isbn10: '3356010980'
   isbn13: '9783356010985'
+  owned: true
   pages: '358'
   publication_year: '1978'
   spine_color: '#beac8d'

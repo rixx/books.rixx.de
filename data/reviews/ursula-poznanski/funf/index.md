@@ -7,6 +7,7 @@ book:
   goodreads: '13269028'
   isbn10: '3805250312'
   isbn13: '9783805250313'
+  owned: false
   pages: 384
   publication_year: '2012'
   series: Beatrice Kaspary

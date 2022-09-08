@@ -9,6 +9,7 @@ book:
   goodreads: '612143'
   isbn10: 0486449149
   isbn13: '9780486449142'
+  owned: false
   pages: 176
   publication_year: '1905'
   spine_color: '#9d8066'

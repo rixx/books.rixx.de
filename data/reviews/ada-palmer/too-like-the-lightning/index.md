@@ -9,6 +9,7 @@ book:
   goodreads: '26114545'
   isbn10: 0765378000
   isbn13: '9780765378002'
+  owned: true
   pages: 432
   publication_year: '2016'
   series: Terra Ignota

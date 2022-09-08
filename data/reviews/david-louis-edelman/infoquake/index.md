@@ -5,6 +5,7 @@ book:
   goodreads: '959166'
   isbn10: '1591024420'
   isbn13: '9781591024422'
+  owned: true
   pages: '421'
   publication_year: '2006'
   series: Jump 225

@@ -9,6 +9,7 @@ book:
   goodreads: '8935689'
   isbn10: '1857231384'
   isbn13: '9781857231380'
+  owned: false
   pages: 471
   publication_year: '1987'
   series: Culture

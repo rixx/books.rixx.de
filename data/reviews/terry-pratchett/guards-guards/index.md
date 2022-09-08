@@ -9,6 +9,7 @@ book:
   goodreads: '64216'
   isbn10: 0061020648
   isbn13: '9780061020643'
+  owned: false
   pages: 384
   publication_year: '1989'
   series: Discworld

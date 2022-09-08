@@ -9,6 +9,7 @@ book:
   goodreads: '17255186'
   isbn10: 0988262592
   isbn13: '9780988262591'
+  owned: false
   pages: 345
   publication_year: '2013'
   spine_color: '#adaca2'

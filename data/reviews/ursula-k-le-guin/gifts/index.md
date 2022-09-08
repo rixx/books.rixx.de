@@ -9,6 +9,7 @@ book:
   goodreads: '13648'
   isbn10: '0152051244'
   isbn13: '9780152051242'
+  owned: false
   pages: 286
   publication_year: '2004'
   series: Annals of the Western Shore

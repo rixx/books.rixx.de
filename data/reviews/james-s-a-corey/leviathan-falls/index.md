@@ -9,6 +9,7 @@ book:
   goodreads: '28335699'
   isbn10: 0356510395
   isbn13: '9780356510392'
+  owned: false
   pages: 528
   publication_year: '2021'
   series: The Expanse
@@ -17,13 +18,13 @@ book:
   tags:
   - scifi
   title: Leviathan Falls
+plan:
+  date_added: 2022-01-26
 related_books:
 - book: james-s-a-corey/tiamats-wrath
   text: The previous book in the series.
 - book: james-s-a-corey/leviathan-wakes
   text: The first book in the series.
-plan:
-  date_added: 2022-01-26
 review:
   date_read:
   - 2022-01-16

@@ -5,6 +5,8 @@ book:
   goodreads: '43306206'
   isbn10: 176063073X
   isbn13: '9781760630737'
+  owned: true
+  pages: 288
   publication_year: '2013'
   spine_color: '#ba3939'
   tags:
@@ -12,7 +14,6 @@ book:
   - nonfiction
   - personal-development
   title: The Courage to Be Disliked
-  pages: 288
 plan:
   date_added: '2020-03-10'
 related_books:
@@ -25,9 +26,10 @@ related_books:
 - book: chris-voss/never-split-the-difference
   text: Another take on "you get what you ask for".
 - book: missy-vineyard/how-you-stand-how-you-move-how-you-live
-  text: "I've been causing this problem myself, haven't I?"
+  text: I've been causing this problem myself, haven't I?
 - book: l-david-marquet/turn-the-ship-around
-  text: Marquet is big on taking action – he literally mentions the then-catchphrase "Don't be a victim".
+  text: Marquet is big on taking action – he literally mentions the then-catchphrase
+    "Don't be a victim".
 review:
   date_read:
   - 2020-03-11

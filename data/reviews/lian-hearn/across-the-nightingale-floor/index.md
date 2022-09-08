@@ -9,6 +9,7 @@ book:
   goodreads: '77160'
   isbn10: '1573223328'
   isbn13: '9781573223324'
+  owned: false
   pages: 305
   publication_year: '2002'
   series: Tales of the Otori
@@ -32,7 +33,8 @@ related_books:
 - book: john-flanagan/the-ruins-of-gorlan
   text: A less brutal but similarly enthralling coming-of-age story.
 - book: joel-rosenberg/dshai
-  text: Also Asian-inspired fantasy with a magic-like talent system based on flow states, strict caste systems, and even travelling acrobats in the focus.
+  text: Also Asian-inspired fantasy with a magic-like talent system based on flow
+    states, strict caste systems, and even travelling acrobats in the focus.
 review:
   date_read:
   - 2006-10-01

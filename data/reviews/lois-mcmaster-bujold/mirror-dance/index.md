@@ -9,6 +9,7 @@ book:
   goodreads: '61909'
   isbn10: 0671876465
   isbn13: '9780671876463'
+  owned: true
   pages: 592
   publication_year: '1994'
   series: Vorkosigan Saga

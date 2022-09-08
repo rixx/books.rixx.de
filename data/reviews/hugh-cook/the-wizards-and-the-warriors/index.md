@@ -7,6 +7,7 @@ book:
   goodreads: '688300'
   isbn10: '0552125660'
   isbn13: '9780552125666'
+  owned: false
   pages: 544
   publication_year: '1986'
   series: Chronicles Of An Age Of Darkness

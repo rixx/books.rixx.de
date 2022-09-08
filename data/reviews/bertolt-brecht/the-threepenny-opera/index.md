@@ -9,6 +9,7 @@ book:
   goodreads: '64417'
   isbn10: '1559702524'
   isbn13: '9781559702522'
+  owned: false
   pages: 124
   publication_year: '1928'
   spine_color: '#3e555f'

@@ -9,6 +9,7 @@ book:
   goodreads: '68428'
   isbn10: 076531178X
   isbn13: '9780765311788'
+  owned: false
   pages: 541
   publication_year: '2006'
   series: Mistborn

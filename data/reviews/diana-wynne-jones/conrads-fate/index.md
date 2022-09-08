@@ -9,6 +9,7 @@ book:
   goodreads: '13759'
   isbn10: '0060747455'
   isbn13: '9780060747459'
+  owned: false
   pages: 400
   publication_year: '2005'
   series: Chrestomanci

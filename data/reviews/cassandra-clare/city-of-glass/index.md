@@ -9,6 +9,7 @@ book:
   goodreads: '3777732'
   isbn10: '1416914307'
   isbn13: '9781416914303'
+  owned: false
   pages: 541
   publication_year: '2009'
   series: The Mortal Instruments

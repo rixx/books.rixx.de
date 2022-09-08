@@ -3,6 +3,7 @@ book:
   author: Friedrich Schiller
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1179652401l/942337.jpg
   goodreads: '942337'
+  owned: false
   pages: '144'
   publication_year: '1804'
   spine_color: '#f5f407'

@@ -9,6 +9,7 @@ book:
   goodreads: '19314'
   isbn10: '0140317201'
   isbn13: '9780140317206'
+  owned: false
   pages: 176
   publication_year: '1981'
   spine_color: '#a99269'
@@ -24,7 +25,8 @@ related_books:
   text: A completely different book, but also one with darkness and that doesn't try
     to coddle the young reader.
 - book: diana-wynne-jones/cart-and-cwidder
-  text: Another book for children with good-but-fallible parents, who are much more complex when seen through adult eyes.
+  text: Another book for children with good-but-fallible parents, who are much more
+    complex when seen through adult eyes.
 review:
   date_read:
   - 2001-12-01

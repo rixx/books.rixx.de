@@ -9,6 +9,7 @@ book:
   goodreads: '17332218'
   isbn10: '0765326361'
   isbn13: '9780765326362'
+  owned: false
   pages: 1087
   publication_year: '2014'
   series: The Stormlight Archive

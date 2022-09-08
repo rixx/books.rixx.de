@@ -9,6 +9,7 @@ book:
   goodreads: '35090'
   isbn10: 0395044995
   isbn13: '9780395044995'
+  owned: false
   pages: 208
   publication_year: '1951'
   spine_color: '#989a8b'

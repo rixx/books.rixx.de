@@ -7,6 +7,7 @@ book:
   goodreads: '150037'
   isbn10: '0060566221'
   isbn13: '9780060566227'
+  owned: false
   pages: '272'
   publication_year: '2001'
   series: A Series of Unfortunate Events

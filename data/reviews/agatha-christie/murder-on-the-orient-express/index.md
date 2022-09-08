@@ -9,6 +9,7 @@ book:
   goodreads: '16304'
   isbn10: '0425200450'
   isbn13: '9780425200452'
+  owned: false
   pages: 322
   publication_year: '1934'
   series: Hercule Poirot

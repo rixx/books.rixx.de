@@ -5,6 +5,7 @@ book:
   goodreads: '941146'
   isbn10: 088184554X
   isbn13: '9780881845549'
+  owned: false
   pages: 218
   publication_year: '1973'
   spine_color: '#cf702a'

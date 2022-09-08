@@ -7,6 +7,7 @@ book:
   goodreads: '1864637'
   isbn10: 355158110X
   isbn13: '9783551581105'
+  owned: false
   pages: 398
   publication_year: '2003'
   series: Tales of the Otori

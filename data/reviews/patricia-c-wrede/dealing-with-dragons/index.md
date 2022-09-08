@@ -9,6 +9,7 @@ book:
   goodreads: '150739'
   isbn10: 015204566X
   isbn13: '9780152045661'
+  owned: false
   pages: 212
   publication_year: '1990'
   series: Enchanted Forest Chronicles

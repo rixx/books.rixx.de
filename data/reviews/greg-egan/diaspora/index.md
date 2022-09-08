@@ -9,6 +9,7 @@ book:
   goodreads: '156785'
   isbn10: '3453161815'
   isbn13: '9783453161818'
+  owned: false
   pages: 443
   publication_year: '1997'
   spine_color: '#9bacaa'

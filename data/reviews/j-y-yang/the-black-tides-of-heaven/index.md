@@ -9,6 +9,7 @@ book:
   goodreads: '33099588'
   isbn10: 076539541X
   isbn13: '9780765395412'
+  owned: false
   pages: 240
   publication_year: '2017'
   series: Tensorate

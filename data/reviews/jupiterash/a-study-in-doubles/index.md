@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 22
   goodreads: '18666098'
+  owned: false
   pages: '314'
   publication_year: null
   series: Tennis

@@ -5,6 +5,7 @@ book:
   goodreads: '44011'
   isbn10: 0593052226
   isbn13: '9780593052228'
+  owned: false
   pages: '540'
   publication_year: '2006'
   series: Troy
@@ -16,7 +17,7 @@ book:
 plan:
   date_added: 2022-03-16
 related_books:
-- book: david-gemmell/lord-of-the-silver-bow 
+- book: david-gemmell/lord-of-the-silver-bow
   text: The first book in the series.
 review:
   date_read:

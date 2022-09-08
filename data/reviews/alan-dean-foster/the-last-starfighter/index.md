@@ -9,6 +9,7 @@ book:
   goodreads: '981786'
   isbn10: 042507255X
   isbn13: '9780425072554'
+  owned: false
   pages: 218
   publication_year: '1984'
   spine_color: '#4e5f60'

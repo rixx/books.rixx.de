@@ -9,6 +9,7 @@ book:
   goodreads: '26892110'
   isbn10: 0553418629
   isbn13: '9780553418620'
+  owned: false
   pages: 400
   publication_year: '2015'
   spine_color: '#c6aa86'

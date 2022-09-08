@@ -9,16 +9,17 @@ book:
   goodreads: '18373'
   isbn10: '0156030306'
   isbn13: '9780156030304'
+  owned: false
   pages: 311
   publication_year: '1966'
   spine_color: '#de271f'
-  title: Flowers for Algernon
   tags:
   - hugo-award-nominees
   - hugo-award
   - scifi
   - nebula-award-nominees
   - nebula-award
+  title: Flowers for Algernon
 plan:
   date_added: '2017-11-15'
 related_books:

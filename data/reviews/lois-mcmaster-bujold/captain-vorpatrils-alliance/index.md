@@ -9,6 +9,7 @@ book:
   goodreads: '12998057'
   isbn10: '1451638450'
   isbn13: '9781451638455'
+  owned: true
   pages: 432
   publication_year: '2012'
   series: Vorkosigan Saga

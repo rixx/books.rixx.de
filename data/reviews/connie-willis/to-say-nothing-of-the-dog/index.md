@@ -9,6 +9,7 @@ book:
   goodreads: '77773'
   isbn10: 0553575384
   isbn13: '9780553575385'
+  owned: false
   pages: 512
   publication_year: '1998'
   series: Oxford Time Travel

@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 18.0
   goodreads: '276767'
+  owned: false
   pages: '160'
   publication_year: '1972'
   series: Hainish Cycle

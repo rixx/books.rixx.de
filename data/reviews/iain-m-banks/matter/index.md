@@ -7,6 +7,7 @@ book:
   goodreads: '886066'
   isbn10: '1841494186'
   isbn13: '9781841494180'
+  owned: false
   pages: '593'
   publication_year: '2008'
   series: Culture

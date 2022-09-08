@@ -9,6 +9,7 @@ book:
   goodreads: '17867'
   isbn10: '0765352052'
   isbn13: '9780765352057'
+  owned: false
   pages: 327
   publication_year: '2005'
   series: The Merchant Princes

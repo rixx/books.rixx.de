@@ -7,6 +7,7 @@ book:
   goodreads: '20706284'
   isbn10: '0316246654'
   isbn13: '9780316246651'
+  owned: false
   pages: '356'
   publication_year: '2014'
   series: Imperial Radch

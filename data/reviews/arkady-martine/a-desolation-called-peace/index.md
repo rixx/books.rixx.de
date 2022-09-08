@@ -5,6 +5,7 @@ book:
   goodreads: '45154547'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '496'
   publication_year: '2021'
   series: Teixcalaan

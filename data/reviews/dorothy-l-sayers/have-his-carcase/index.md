@@ -5,6 +5,7 @@ book:
   dimensions:
     height: 20.0
   goodreads: '37906597'
+  owned: false
   pages: '499'
   publication_year: '1932'
   series: Lord Peter Wimsey

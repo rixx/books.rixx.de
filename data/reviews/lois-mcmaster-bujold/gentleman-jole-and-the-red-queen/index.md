@@ -7,6 +7,7 @@ book:
   goodreads: '25155958'
   isbn10: null
   isbn13: '9781625794802'
+  owned: true
   pages: '352'
   publication_year: '2016'
   series: Vorkosigan Saga

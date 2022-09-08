@@ -9,6 +9,7 @@ book:
   goodreads: '59151'
   isbn10: '1590171691'
   isbn13: '9781590171691'
+  owned: true
   pages: 104
   publication_year: '1942'
   spine_color: '#79674e'

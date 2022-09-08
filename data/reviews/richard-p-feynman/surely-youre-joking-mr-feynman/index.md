@@ -9,6 +9,7 @@ book:
   goodreads: '5544'
   isbn10: 0393316041
   isbn13: '9780393316049'
+  owned: false
   pages: 391
   publication_year: '1985'
   spine_color: '#886559'

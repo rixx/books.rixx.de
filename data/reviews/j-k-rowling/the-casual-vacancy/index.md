@@ -6,6 +6,7 @@ book:
   goodreads: '13497818'
   isbn10: 0316228532
   isbn13: '9780316228534'
+  owned: false
   pages: 512
   publication_year: '2012'
   spine_color: '#c52314'

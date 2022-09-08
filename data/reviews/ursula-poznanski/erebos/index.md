@@ -5,6 +5,7 @@ book:
   goodreads: '7748743'
   isbn10: '3785569572'
   isbn13: '9783785569573'
+  owned: false
   pages: '486'
   publication_year: '2010'
   series: Erebos

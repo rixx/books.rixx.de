@@ -3,6 +3,7 @@ book:
   author: Roald Dahl
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550934403l/109089._SX98_.jpg
   goodreads: '109089'
+  owned: false
   pages: '155'
   publication_year: '1964'
   spine_color: '#c2180b'

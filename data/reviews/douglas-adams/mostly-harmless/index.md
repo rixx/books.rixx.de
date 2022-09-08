@@ -9,6 +9,7 @@ book:
   goodreads: '360'
   isbn10: 0345418778
   isbn13: '9780345418777'
+  owned: false
   pages: 240
   publication_year: '1992'
   series: Hitchhiker's Guide to the Galaxy

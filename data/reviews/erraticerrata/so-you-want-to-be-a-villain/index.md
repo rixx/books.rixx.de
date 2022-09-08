@@ -5,6 +5,7 @@ book:
   goodreads: '32195178'
   isbn10: null
   isbn13: null
+  owned: false
   pages: '477'
   publication_year: '2015'
   series: A Practical Guide to Evil

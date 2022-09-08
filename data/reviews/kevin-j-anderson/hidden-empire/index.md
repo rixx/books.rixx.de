@@ -5,6 +5,7 @@ book:
   goodreads: '898232'
   isbn10: '0446610577'
   isbn13: '9780446610575'
+  owned: false
   pages: '654'
   publication_year: '2002'
   series: The Saga of Seven Suns

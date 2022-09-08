@@ -7,6 +7,7 @@ book:
   goodreads: '47994'
   isbn10: 0552154180
   isbn13: '9780552154185'
+  owned: false
   pages: '416'
   publication_year: '1998'
   series: Discworld

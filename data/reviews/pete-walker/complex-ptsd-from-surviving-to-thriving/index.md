@@ -3,6 +3,7 @@ book:
   author: Pete Walker
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389830032l/20556323.jpg
   goodreads: '20556323'
+  owned: false
   pages: '376'
   publication_year: '2013'
   spine_color: '#4e5787'

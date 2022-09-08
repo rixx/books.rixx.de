@@ -9,6 +9,7 @@ book:
   goodreads: '13536811'
   isbn10: 0385618980
   isbn13: '9780385618984'
+  owned: false
   pages: 320
   publication_year: '2012'
   spine_color: '#9d987b'

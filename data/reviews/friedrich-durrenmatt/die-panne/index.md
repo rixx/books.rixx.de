@@ -9,6 +9,7 @@ book:
   goodreads: '300740'
   isbn10: '3257230567'
   isbn13: '9783257230567'
+  owned: false
   pages: 182
   publication_year: '1956'
   spine_color: '#a39368'

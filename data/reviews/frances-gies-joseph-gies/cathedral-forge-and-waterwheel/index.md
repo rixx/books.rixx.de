@@ -5,6 +5,7 @@ book:
   goodreads: '33057'
   isbn10: 0060925817
   isbn13: '9780060925819'
+  owned: true
   pages: '368'
   publication_year: '1994'
   spine_color: '#d02a0a'
@@ -17,7 +18,8 @@ plan:
   date_added: 2021-10-27
 related_books:
 - book: seb-falk/the-light-ages
-  text: Another book about middle age tech, but with narrower focus, and more focused on science and astronomy.
+  text: Another book about middle age tech, but with narrower focus, and more focused
+    on science and astronomy.
 - book: umberto-eco/the-name-of-the-rose
   text: Eco goes into the whole church versus reason discussion quite a bit, and also
     has a good grip on technology levels at the time.
