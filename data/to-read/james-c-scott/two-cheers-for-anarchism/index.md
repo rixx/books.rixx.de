@@ -26,3 +26,5 @@ review: {}
 ---
 
 Nonfiction.
+
+link to talking-about-machines (if appropriate, otherwise shift this to seeing-like-a-state)

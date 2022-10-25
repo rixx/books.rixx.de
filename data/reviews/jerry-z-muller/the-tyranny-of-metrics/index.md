@@ -23,6 +23,8 @@ related_books:
   text: Better models for cooperation.
 - book: l-david-marquet/turn-the-ship-around
   text: Great examples for short-term rewards and metrics fucking with people.
+- book: julian-e-orr/talking-about-machines
+  text: Both detail how management metrics fuck with actual work, Orr from the inside bottom-up, Muller from the outside top-down.
 review:
   date_read:
   - 2020-04-17

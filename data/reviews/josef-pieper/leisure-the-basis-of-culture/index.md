@@ -22,6 +22,8 @@ book:
 plan:
   date_added: 2020-05-24
 related_books:
+- book: julian-e-orr/talking-about-machines
+  text: Both books think about the relationship of work, labour and humanity.
 - book: josef-pieper/uber-das-christliche-menschenbild
   text: This book is firmly grounded in Pieper's opinion on what humanity *is*.
 - book: josef-pieper/no-one-could-have-known
