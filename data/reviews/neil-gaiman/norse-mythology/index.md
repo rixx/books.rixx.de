@@ -30,15 +30,18 @@ related_books:
 review:
   date_read:
   - 2017-02-26
-  rating: 3
+  rating: 2
 ---
 
-I love Neil Gaiman, and I like reading myths and legends, so I enjoyed this book a lot. It is a straight
-retelling of much of the Snorri Edda, adding some detail from the Poetic Edda in places. Gaiman adds fine
-details, and a tongue-in-cheek view of the gods, but never overdoing things - it would be easy to make fun of Thor,
-Loki, the giants … all the time, but he does it in places, and in a very low-key (hah!) way.
+I love Neil Gaiman, and I like reading myths and legends, and this book was … bland? It is a straight retelling of much
+of the Snorri Edda, adding some detail from the Poetic Edda in places. Gaiman adds fine details, and a tongue-in-cheek
+view of the gods, but never overdoing things - it would be easy to make fun of Thor, Loki, the giants … all the time,
+but he does it in places, and in a very low-key (hah!) way.
 
 Owing to the fact that Neil Gaiman did not add too much of his own voice to those stories (which is a decision I greatly
-appreciate!), the book does feel like "just" a good collection of Norse myths. Which it is, and which it wants to be, so
-5/5 stars for fulfilling its purpose - it's just not a five star book for me, but I appreciate it as a decent
-entry-level reference for Norse Mythology.
+appreciate!), the book does feel like "just" a collection of Norse myths, made nice and palatable to a modern audience.
+Which it is, and which it wants to be, so 5/5 stars for fulfilling its purpose - it's just not a convincing star book
+for me.
+
+Any opinion I could reasonably have is better expressed by [Ursula K. le Guin's
+review](https://www.theguardian.com/books/2017/mar/29/norse-myths-by-neil-gaiman-review).
