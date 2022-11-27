@@ -28,6 +28,8 @@ related_books:
     similar, and both have to deal with body transfers.
 - book: janet-kagan/hellspark
   text: Another book with snarky cool space ships.
+- book: hannu-rajaniemi/the-fractal-prince
+  text: The next book in the series.
 review:
   date_read:
   - 2020-08-17
