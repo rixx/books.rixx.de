@@ -13,6 +13,7 @@ book:
   tags:
   - scifi
   title: Metal Like Blood in the Dark
+  source: https://www.uncannymagazine.com/article/metal-like-blood-in-the-dark/
 plan:
   date_added: 2022-12-04
 review:
