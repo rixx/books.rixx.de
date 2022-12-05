@@ -13,12 +13,19 @@ book:
   publication_year: '2013'
   spine_color: '#b4b273'
   tags:
-  - tech
   - history
   - nonfiction
+  - tech
   title: Stuff Matters
 plan:
   date_added: '2020-03-08'
+review:
+  date_read:
+  - 2022-03-12
+  did_not_finish: false
+  rating: 3
 ---
 
-Recommended by [visa](https://twitter.com/visakanv/status/1101762095186497541) (thread). Nonfiction.
+All my notes are lost to a hardware disaster, so the tl;dr is just: material pop-science, fun read, drags on in places.
+Nice without being great. The chapters on steel and chocolate were great, the one on concrete could have been great but
+instead was grating. All in all cool info, presented well, if you can stand the voice.
