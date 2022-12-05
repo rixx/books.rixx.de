@@ -13,6 +13,7 @@ book:
   - hugo-award-nominees
   - hugo-award
   title: The Star
+  source: https://sites.uni.edu/morgans/astro/course/TheStar.pdf
 plan:
   date_added: '2018-03-13'
 related_books:
@@ -23,6 +24,7 @@ related_books:
 review:
   date_read:
   - 2018-03-15
+  - 2022-03-05
   rating: 4
 ---
 
