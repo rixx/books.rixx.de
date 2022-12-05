@@ -26,5 +26,9 @@ review:
   rating: 5
 ---
 
-Super-short, not exactly original, but well-done and strangely foundational: The Egg
-is a wonderful little, tiny, short story by Andy Weir. I first read it some years back, but it always stayed with me, just in the back of my head. Now I came across it again, and I thought I should share the goodness with you.
+Super-short, not exactly original, but well-done and strangely foundational: The Egg is a wonderful little, tiny, short
+story. I first read it some years back, but it always stayed with me, just in the back of my head. Now I came across it
+again, and I thought I should share the goodness with you.
+
+*Note:* As [per](https://www.reddit.com/r/printSF/comments/z6x211/top_10_freely_available_sf_short_stories/iy4b1ll/),
+the story is not actually by Andy Weir (and, indeed, it reads extremely out of character).
