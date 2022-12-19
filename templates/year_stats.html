@@ -67,7 +67,7 @@
             </div>
         </div>
         <div class="stats-line-ps">
-            {{ stats.average_pages }} pages on average
+            <span class="number">{{ stats.average_pages }}</span> pages on average
         </div>
     </div>
 
@@ -103,7 +103,7 @@
             </div>
         </div>
         <div class="stats-line-ps">
-            busiest month: {{ stats.busiest_month[0] }} ({{ stats.busiest_month[1] }})
+            busiest month: <span class="number">{{ stats.busiest_month[0] }} ({{ stats.busiest_month[1] }})</span>
         </div>
     </div>
 
@@ -141,7 +141,7 @@
             </div>
         </div>
         <div class="stats-line-ps">
-            {{ stats.average_review }} words in the average review
+            <span class="number">{{ stats.average_review }}</span> words in the average review
         </div>
     </div>
 </div>

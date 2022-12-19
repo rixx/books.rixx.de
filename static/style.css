@@ -1005,8 +1005,11 @@ h1#year-stats-headline:after {
   justify-content: space-around;
 }
 #year-stats-facts .stats-line-ps {
-  margin-top: 12px;
-  color: #888;
+  margin-top: 30px;
+  font-size: 24px;
+}
+#year-stats-facts .stats-line-ps .number{
+  font-weight: bold;
 }
 
 #year-stats-facts .stats-line-wrapper:first-child .stats-block {
