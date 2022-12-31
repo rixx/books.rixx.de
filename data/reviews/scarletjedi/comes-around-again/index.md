@@ -1,7 +1,6 @@
 ---
 book:
   author: scarletjedi
-  cover_description: ''
   cover_image_url: https://i.imgur.com/cMrtG11.jpg
   isbn10: ''
   isbn13: ''

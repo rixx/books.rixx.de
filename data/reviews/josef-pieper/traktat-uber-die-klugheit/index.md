@@ -1,7 +1,6 @@
 ---
 book:
   author: Josef Pieper
-  cover_description: ''
   cover_image_url: https://images-na.ssl-images-amazon.com/images/I/517kmOTTD7L._SX297_BO1,204,203,200_.jpg
   isbn10: ''
   isbn13: ''

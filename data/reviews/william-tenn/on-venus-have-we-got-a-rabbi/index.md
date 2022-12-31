@@ -1,7 +1,6 @@
 ---
 book:
   author: William Tenn
-  cover_description: ''
   cover_image_url: https://drop.rixx.de/6rMU/
   isbn10: ''
   isbn13: ''
