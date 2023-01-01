@@ -14,7 +14,7 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: ulrich-herbert/das-dritte-reich-geschichte-einer-diktatur
+- book: ulrich-herbert/das-dritte-reich
   text: Short nonfiction about the Third Reich. Contains further links.
 - book: primo-levi/if-this-is-a-man
   text: For more necessary bleakness, Primo Levi's first-hand account of life in the

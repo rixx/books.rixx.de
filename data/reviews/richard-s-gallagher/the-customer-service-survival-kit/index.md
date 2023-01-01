@@ -25,7 +25,7 @@ related_books:
   text: A slightly older version of this manual.
 - book: chris-voss/never-split-the-difference
   text: Another application of tactical empathy in adversarial professional interactions.
-- book: per-leo/mit-rechten-reden-ein-leitfaden
+- book: per-leo/mit-rechten-reden
   text: Another communication strategy book.
 - book: mark-manson/models
   text: Another communication book that discusses how to *use* honesty.

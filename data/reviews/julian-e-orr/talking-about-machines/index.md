@@ -19,7 +19,7 @@ plan:
 related_books:
 - book: jerry-z-muller/the-tyranny-of-metrics
   text: Both detail how management metrics fuck with actual work, Orr from the inside bottom-up, Muller from the outside top-down.
-- book: josef-pieper/leisure-the-basis-of-culture
+- book: josef-pieper/leisure
   text: Both books think about the relationship of work, labour and humanity.
 review:
   date_read:

@@ -17,7 +17,7 @@ book:
   - german
   - kids
   - trickster
-  title: Pippi Longstocking
+  title: Pippi Langstrumpf
 plan:
   date_added: '2015-06-28'
 related_books:

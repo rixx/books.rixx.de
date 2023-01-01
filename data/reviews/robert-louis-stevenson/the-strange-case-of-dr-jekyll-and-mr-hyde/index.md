@@ -14,6 +14,7 @@ book:
   publication_year: '1886'
   spine_color: '#5f4d4d'
   title: The Strange Case of Dr. Jekyll and Mr. Hyde
+  title_slug: the-strange-case-of-dr-jekyll-and-mr-hyde
 plan:
   date_added: '2015-04-17'
 related_books:

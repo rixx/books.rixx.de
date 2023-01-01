@@ -16,7 +16,7 @@ book:
   tags:
   - german
   - kids
-  title: Jim Button and the Wild 13
+  title: Jim Knopf und die Wilde 13
 plan:
   date_added: '2015-04-08'
 related_books:

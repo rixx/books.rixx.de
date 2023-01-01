@@ -12,6 +12,7 @@ book:
   tags:
   - fantasy
   title: 'The Sandman: The Dream Hunters'
+  title_slug: the-sandman-the-dream-hunters
 plan:
   date_added: '2018-06-11'
 related_books:

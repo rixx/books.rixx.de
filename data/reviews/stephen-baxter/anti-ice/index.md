@@ -21,7 +21,7 @@ plan:
 related_books:
 - book: jules-verne/journey-to-the-center-of-the-earth
   text: Go to Vernes for more Victorian steampunk.
-- book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
+- book: neal-stephenson/the-diamond-age
   text: Go to Stephenson for less steampunk-y scifi Victorians.
 - book: melissa-scott-amy-griswold/death-by-silver
   text: Steampunk with not-too-clever protagonists, but this time also with magic.

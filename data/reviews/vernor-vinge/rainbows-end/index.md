@@ -24,7 +24,7 @@ related_books:
 - book: charles-stross/halting-state
   text: Near-future thriller in an always-online world with an eye on information
     distribution.
-- book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
+- book: neal-stephenson/the-diamond-age
   text: Another take on futuristic education.
 - book: vernor-vinge/a-fire-upon-the-deep
   text: More Vernor Vinge!

@@ -14,6 +14,7 @@ book:
   tags:
   - kids
   title: Winnie ille Pu
+  title_slug: winnie-the-pooh
 plan:
   date_added: '2016-05-19'
 related_books:

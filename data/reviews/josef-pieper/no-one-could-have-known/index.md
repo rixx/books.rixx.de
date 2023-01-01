@@ -25,7 +25,7 @@ related_books:
   text: Say "no one could have known" again, I fucking dare you.
 - book: josef-pieper/traktat-uber-die-klugheit
   text: Pieper moralising while Nazis were killing people.
-- book: josef-pieper/leisure-the-basis-of-culture
+- book: josef-pieper/leisure
   text: Pieper moralising after Nazis were done killing people.
 review:
   date_read:

@@ -9,7 +9,7 @@ book:
   pages: '368'
   publication_year: '1894'
   spine_color: '#faf890'
-  title: The Jungle Book
+  title: The Jungle Books
 plan:
   date_added: '2015-04-08'
 related_books:

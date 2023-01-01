@@ -18,7 +18,7 @@ book:
   tags:
   - german
   - kids
-  title: Jim Button and Luke the Engine Driver
+  title: Jim Knopf und Lukas der Lokomotivführer
 plan:
   date_added: '2015-04-08'
 related_books:

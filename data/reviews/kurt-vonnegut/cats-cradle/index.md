@@ -1,6 +1,6 @@
 ---
 book:
-  author: Kurt Vonnegut Jr.
+  author: Kurt Vonnegut
   cover_image_url: http://covers.openlibrary.org/b/isbn/9780140285604-L.jpg
   dimensions:
     height: 18.0

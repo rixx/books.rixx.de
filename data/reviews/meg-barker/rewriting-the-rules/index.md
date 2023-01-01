@@ -16,7 +16,7 @@ book:
 plan:
   date_added: '2019-10-02'
 related_books:
-- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+- book: pete-walker/complex-ptsd
   text: Goes deeper on ways of managing trauma in relationships with others.
 - book: mark-manson/models
   text: Details on how to be authentic and also find relationships.

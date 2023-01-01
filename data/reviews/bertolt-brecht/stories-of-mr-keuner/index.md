@@ -16,6 +16,7 @@ book:
   tags:
   - german
   title: Stories of Mr. Keuner
+  title_slug: stories-of-mr-keuner
 plan:
   date_added: '2016-05-03'
 related_books:

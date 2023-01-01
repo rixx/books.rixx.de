@@ -23,7 +23,7 @@ related_books:
   text: The previous Industrial Discworld book.
 - book: terry-pratchett/the-shepherds-crown
   text: The next Discworld book.
-- book: terry-pratchett/the-world-of-poo-discworld
+- book: terry-pratchett/the-world-of-poo
   text: The previous Discworld book.
 - book: terry-pratchett/the-color-of-magic
   text: The first Discworld book.

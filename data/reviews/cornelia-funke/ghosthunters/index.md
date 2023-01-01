@@ -15,6 +15,7 @@ book:
   - german
   - kids
   title: Ghosthunters and the Incredibly Revolting Ghost
+  title_slug: ghosthunters
 plan:
   date_added: '2015-08-04'
 related_books:

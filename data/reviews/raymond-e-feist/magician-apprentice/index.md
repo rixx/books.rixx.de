@@ -19,6 +19,7 @@ book:
   - fantasy
   - ya
   title: 'Magician: Apprentice'
+  title_slug: magician-apprentice
 plan:
   date_added: '2017-11-21'
 related_books:

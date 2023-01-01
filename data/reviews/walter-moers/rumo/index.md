@@ -18,7 +18,7 @@ book:
   tags:
   - fantasy
   - german
-  title: Rumo & His Miraculous Adventures
+  title: Rumo
 plan:
   date_added: '2015-04-08'
 related_books:

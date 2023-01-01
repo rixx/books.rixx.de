@@ -1,6 +1,6 @@
 ---
 book:
-  author: Kurt Vonnegut Jr.
+  author: Kurt Vonnegut
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328301776l/5048174.jpg
   goodreads: '5048174'
   owned: false

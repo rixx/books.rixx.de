@@ -19,6 +19,7 @@ book:
   - german
   - kids
   title: 'Die Wilden Hühner: Fuchsalarm'
+  title_slug: die-wilden-huhner-fuchsalarm
 plan:
   date_added: '2015-08-04'
 related_books:

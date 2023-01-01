@@ -15,6 +15,7 @@ book:
   - fantasy
   - german
   title: The Hobbit, or There and Back Again
+  title_slug: the-hobbit
 plan:
   date_added: '2015-04-08'
 related_books:

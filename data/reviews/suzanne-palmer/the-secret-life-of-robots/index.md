@@ -14,7 +14,7 @@ book:
   - scifi
   - hugo-award-nominees
   - hugo-award
-  title: Clarkesworld Magazine, Issue 132
+  title: The secret life of robots
 plan:
   date_added: '2018-08-09'
 related_books:

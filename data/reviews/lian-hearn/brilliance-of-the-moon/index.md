@@ -17,7 +17,7 @@ book:
   - fantasy
   - german
   - ya
-  title: Der Glanz des Mondes
+  title: Brilliance of the Moon
 plan:
   date_added: '2015-07-03'
 related_books:

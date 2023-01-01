@@ -22,7 +22,7 @@ plan:
 related_books:
 - book: john-tarrant/bring-me-the-rhinoceros
   text: A better intro to zen attitudes for me.
-- book: josef-pieper/leisure-the-basis-of-culture
+- book: josef-pieper/leisure
   text: A better criticism of work culture.
 review:
   date_read:

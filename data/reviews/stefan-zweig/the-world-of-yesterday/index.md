@@ -26,7 +26,7 @@ related_books:
   text: In a way, the book that concludes this one.
 - book: dieter-kindermann/die-habsburger-ohne-reich
   text: Modern Austrian monarchist.
-- book: ulrich-herbert/das-dritte-reich-geschichte-einer-diktatur
+- book: ulrich-herbert/das-dritte-reich
   text: Historical context.
 review:
   date_read:

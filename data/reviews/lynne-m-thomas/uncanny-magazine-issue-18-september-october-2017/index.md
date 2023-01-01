@@ -10,6 +10,7 @@ book:
   tags:
   - scifi
   title: 'Uncanny Magazine Issue 18: September/October 2017'
+  title_slug: uncanny-magazine-issue-18-september-october-2017
 plan:
   date_added: '2018-09-24'
 related_books:

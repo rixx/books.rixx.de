@@ -23,7 +23,7 @@ book:
 plan:
   date_added: '2016-05-06'
 related_books:
-- book: eoin-colfer/doctor-who-eleven-doctors-eleven-stories
+- book: eoin-colfer/doctor-who
   text: More Doctor Who stories.
 - book: diana-wynne-jones/the-magicians-of-caprona
   text: The previous book in the series.

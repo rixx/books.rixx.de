@@ -22,7 +22,7 @@ book:
 plan:
   date_added: 2020-10-26
 related_books:
-- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+- book: pete-walker/complex-ptsd
   text: A better take on early childhood and invisible neglect.
 review:
   date_read:

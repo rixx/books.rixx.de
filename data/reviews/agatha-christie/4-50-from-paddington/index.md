@@ -18,6 +18,7 @@ book:
   tags:
   - mystery
   title: 4:50 from Paddington
+  title_slug: 4-50-from-paddington
 plan:
   date_added: '2016-05-08'
 related_books:

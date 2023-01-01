@@ -1,6 +1,6 @@
 ---
 book:
-  author: Josef Pieper, Gerald Malsbary
+  author: Josef Pieper
   cover_image_url: http://covers.openlibrary.org/b/isbn/9781890318352-L.jpg
   dimensions:
     height: 22.0

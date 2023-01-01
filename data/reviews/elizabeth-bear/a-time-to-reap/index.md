@@ -1,6 +1,6 @@
 ---
 book:
-  author: Elizabeth Baer
+  author: Elizabeth Bear
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572999756l/48715894._SY475_.jpg
   goodreads: '48715894'
   owned: false

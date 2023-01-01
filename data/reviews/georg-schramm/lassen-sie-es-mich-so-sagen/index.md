@@ -15,7 +15,7 @@ book:
   tags:
   - german
   - nonfiction
-  title: 'Lassen Sie es mich so sagen : Dombrowski deutet die Zeichen der Zeit'
+  title: 'Lassen Sie es mich so sagen: Dombrowski deutet die Zeichen der Zeit'
 plan:
   date_added: '2015-04-09'
 related_books:

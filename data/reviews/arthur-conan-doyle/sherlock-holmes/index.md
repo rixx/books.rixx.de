@@ -15,7 +15,7 @@ book:
   spine_color: '#d7403b'
   tags:
   - mystery
-  title: 'The Complete Sherlock Holmes: Volume II'
+  title: 'Sherlock Holmes'
 plan:
   date_added: '2015-04-08'
 related_books:

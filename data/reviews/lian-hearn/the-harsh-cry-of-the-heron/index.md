@@ -18,7 +18,7 @@ book:
   - german
   - ya
   - aurealis-award-nominee
-  title: Der Ruf des Reihers
+  title: The Harsh Cry of the Heron
 plan:
   date_added: '2015-07-03'
 related_books:

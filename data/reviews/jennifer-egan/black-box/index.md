@@ -14,7 +14,7 @@ plan:
 related_books:
 - book: jay-hulme/clouds-cannot-cover-us
   text: Has a lyrical quality that reminds me of Hulme.
-- book: pete-walker/complex-ptsd-from-surviving-to-thriving
+- book: pete-walker/complex-ptsd
   text: For a background on this vivid description of PTSD.
 review:
   date_read:

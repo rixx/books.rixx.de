@@ -19,7 +19,7 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: terry-pratchett/the-world-of-poo-discworld
+- book: terry-pratchett/the-world-of-poo
   text: The next Discworld book.
 - book: terry-pratchett/i-shall-wear-midnight
   text: The previous Discworld book.

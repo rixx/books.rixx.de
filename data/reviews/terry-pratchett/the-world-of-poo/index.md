@@ -42,7 +42,7 @@ social:
       As Ankh-Morpork adventures go, definitely better than some of the very early
       ones.
 
-      https://books.rixx.de/terry-pratchett/the-world-of-poo-discworld/ #rixxReads'
+      https://books.rixx.de/terry-pratchett/the-world-of-poo/ #rixxReads'
   number: 58
   twitter:
     datetime: 2020-08-20 20:51:59.838543
@@ -52,7 +52,7 @@ social:
       As Ankh-Morpork adventures go, definitely better than some of the very early
       ones.
 
-      https://books.rixx.de/terry-pratchett/the-world-of-poo-discworld/'
+      https://books.rixx.de/terry-pratchett/the-world-of-poo/'
 ---
 
 An adorable Discworld book, really. As Ankh-Morpork adventures go, definitely better than some of the very early ones.

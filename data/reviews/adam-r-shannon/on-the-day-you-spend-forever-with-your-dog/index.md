@@ -1,6 +1,6 @@
 ---
 book:
-  author: Jason Sizemore
+  author: Adam R. Shannon
   cover_image_url: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543705355l/43073743._SX318_.jpg
   goodreads: '43073743'
   owned: false
@@ -8,7 +8,7 @@ book:
   publication_year: '2018'
   source: https://www.apex-magazine.com/on-the-day-you-spend-forever-with-your-dog
   spine_color: '#96857d'
-  title: Apex Magazine -- December 2018
+  title: On the day you spend forever with your dog
 plan:
   date_added: '2019-02-05'
 related_books:

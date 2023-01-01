@@ -13,7 +13,7 @@ book:
   spine_color: '#dad2bf'
   tags:
   - fanfic
-  title: Of a Linear Circle VI
+  title: Of a Linear Circle Part VI
 plan:
   date_added: 2022-01-04
 related_books:

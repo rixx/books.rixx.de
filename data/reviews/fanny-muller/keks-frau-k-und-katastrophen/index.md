@@ -11,7 +11,8 @@ book:
   spine_color: '#8691ad'
   tags:
   - german
-  title: 'Keks, Frau K. und Katastrophen : alle Geschichten'
+  title: 'Keks, Frau K. und Katastrophen'
+  title_slug: keks-frau-k-und-katastrophen
 plan:
   date_added: '2015-04-09'
 related_books:

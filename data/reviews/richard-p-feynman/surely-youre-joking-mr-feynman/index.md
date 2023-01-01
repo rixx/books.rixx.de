@@ -14,6 +14,7 @@ book:
   publication_year: '1985'
   spine_color: '#886559'
   title: 'Surely You''re Joking, Mr. Feynman!: Adventures of a Curious Character'
+  title_slug: surely-youre-joking-mr-feynman
 plan:
   date_added: '2015-04-09'
 related_books:

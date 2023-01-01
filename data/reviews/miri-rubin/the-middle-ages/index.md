@@ -16,9 +16,9 @@ book:
 plan:
   date_added: 2022-08-28
 related_books:
-- book: ian-j-deary/intelligence-a-very-short-introduction
+- book: ian-j-deary/intelligence
   text: Another very short introduction.
-- book: eric-h-cline/1177-b-c-the-year-civilization-collapsed
+- book: eric-h-cline/1177
   text: Different era, but what I had hoped to read for the medieval period in style.
 review:
   date_read:

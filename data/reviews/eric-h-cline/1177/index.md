@@ -17,6 +17,7 @@ book:
   - history
   - nonfiction
   title: '1177 B.C.: The Year Civilization Collapsed'
+  title_slug: '1177'
 plan:
   date_added: '2018-07-31'
 related_books:

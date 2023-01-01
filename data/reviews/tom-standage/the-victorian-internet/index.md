@@ -21,7 +21,7 @@ book:
 plan:
   date_added: '2019-05-16'
 related_books:
-- book: neal-stephenson/the-diamond-age-or-a-young-ladys-illustrated-primer
+- book: neal-stephenson/the-diamond-age
   text: Interesting contrast – futuristic techno-Victorians.
 - book: terry-pratchett/going-postal
   text: Excellent fictional version of the early telegraph.

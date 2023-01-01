@@ -22,7 +22,7 @@ plan:
 related_books:
 - book: steven-johnson/where-good-ideas-come-from
   text: Evolution of ideas, in a different context.
-- book: eric-h-cline/1177-b-c-the-year-civilization-collapsed
+- book: eric-h-cline/1177
   text: Slightly later history.
 - book: jane-jacobs/the-economy-of-cities
   text: These books pair extremely well – their versions of history are extremely

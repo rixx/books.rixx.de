@@ -24,7 +24,7 @@ related_books:
   text: Knowledge and ideas need each other.
 - book: james-c-scott/against-the-grain
   text: Evolution of ideas, in a different context.
-- book: ian-j-deary/intelligence-a-very-short-introduction
+- book: ian-j-deary/intelligence
   text: Intelligence and creativity have a complicated relationship.
 review:
   date_read:

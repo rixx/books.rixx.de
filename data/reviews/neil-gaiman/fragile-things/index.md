@@ -19,7 +19,7 @@ book:
 plan:
   date_added: '2015-04-08'
 related_books:
-- book: eoin-colfer/doctor-who-eleven-doctors-eleven-stories
+- book: eoin-colfer/doctor-who
   text: Another Gaiman short story.
 - book: neil-gaiman/american-gods
   text: The background on Shadow.
