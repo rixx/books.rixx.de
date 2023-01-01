@@ -1,13 +1,14 @@
 from django.shortcuts import render
 import networkx as nx
 from itertools import groupby
+from django.db.models import Sum
 from django.views.generic import TemplateView
 from django_context_decorator import context
 from django.utils.functional import cached_property
 from django.http import JsonResponse, HttpResponseNotFound, FileResponse
 from django.utils.timezone import now
 
-from main.models import Review
+from main.models import Review, ToRead
 from main.stats import get_year_stats, get_stats_grid, get_stats_table, get_all_years, get_graph, get_nodes, get_edges
 
 
@@ -257,9 +258,33 @@ class ReviewEdit(ReviewView):
     active = "review"
 
 
-class ToReadView(ActiveTemplateView):
-    template_name = "index.html"
-    active = "to-read"
+class QueueView(ActiveTemplateView):
+    template_name = "list_queue.html"
+    active = "queue"
+
+    @context
+    def shelves(self):
+        shelves = {name: books for (name, books) in groupby(ToRead.objects.all(), key=lambda x: x.shelf)}
+        shelf_order = sorted(ToRead.objects.all().values_list("shelf", flat=True).distinct())
+        return [
+            {
+                "name": shelf,
+                "books": ToRead.objects.all().filter(shelf=shelf),
+                "page_count": ToRead.objects.all().filter(shelf=shelf).aggregate(page_count=Sum("pages"))["page_count"],
+            }
+            for shelf in shelf_order
+        ]
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context["total_books"] = ToRead.objects.all().count()
+        context["total_pages"] = ToRead.objects.all().aggregate(page_count=Sum("pages"))["page_count"]
+        past_year_reviews = Review.objects.all().filter(dates_read__contains=now().year - 1)
+        context["past_year_books"] = past_year_reviews.count()
+        context["past_year_pages"] = past_year_reviews.aggregate(page_count=Sum("book_pages"))["page_count"]
+        context["factor_books"] = round(context["total_books"] / context["past_year_books"], 1)
+        context["factor_pages"] = round(context["total_pages"] / context["past_year_pages"], 1)
+        return context
 
 
 class ListView(ActiveTemplateView):
@@ -278,5 +303,10 @@ class AuthorView(ActiveTemplateView):
 
 
 class AuthorEdit(ActiveTemplateView):
+    template_name = "index.html"
+    active = "review"
+
+
+class ReviewCreate(ReviewView):
     template_name = "index.html"
     active = "review"

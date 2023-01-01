@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  <h2>Book queue</h2>
+
+  <p>These books are currently in my active reading queue, that is, they are on my reader and waiting for me to get around to them.</p>
+
+  <p>
+    There are {{ total_books }} books here in total, with {{ total_pages }} pages.
+    Going off last year, where I read {{ past_year_books }} books ({{ past_year_pages }} pages),
+    it will take me just about {{ factor_books }} years to get through these
+    (or, more precisely going by pages, {{ factor_pages }} years).
+  </p>
+
+  <p>… if I don't add any new books in the meantime.</p>
+
+  {% for shelf in shelves %}
+  <h3>{{ shelf.name }}</h3>
+  <details>
+    <summary>Show all {{ shelf.books.count() }} books ({{ shelf.page_count }} pages)</summary>
+    <ul>
+    {% for book in shelf.books %}
+      <li>
+        <b>{{ book.title }}</b> by
+        <i>{{ book.author }}</i>
+        {% if book.pages %}({{ book.pages }} pages){% endif %}
+      </li>
+    {% endfor %}
+    </ul>
+  </details>
+  {% endfor %}
+{% endblock %}

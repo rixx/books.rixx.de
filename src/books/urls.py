@@ -29,7 +29,7 @@ urlpatterns = [
     path("graph/", views.GraphView.as_view()),
     path("graph.json", views.graph_data),
     path("search.json", views.search_data),
-    path("to-read/", views.ToReadView.as_view()),
+    path("queue/", views.QueueView.as_view()),
     path("lists/", views.ListView.as_view()),
     path("lists/<slug:tag>/", views.ListDetail.as_view()),
     path("<slug:author>/", views.AuthorView.as_view()),

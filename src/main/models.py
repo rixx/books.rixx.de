@@ -35,6 +35,16 @@ def load_quotes(paths):
     return []
 
 
+class ToRead(models.Model):
+    __yamdl__ = True
+    __yamdl_directory__ = "queue"
+
+    title = models.CharField(max_length=300)
+    author = models.CharField(max_length=300)
+    shelf = models.CharField(max_length=300)
+    pages = models.IntegerField(null=True, blank=True)
+
+
 class Review(models.Model):
     __yamdl__ = True
     __yamdl_directory__ = "reviews"
