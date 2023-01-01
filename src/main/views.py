@@ -149,8 +149,42 @@ class ReviewByTitle(YearNavMixin, ActiveTemplateView):
 
 
 class ReviewBySeries(YearNavMixin, ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "list_by_series.html"
     active = "read"
+
+    @context
+    @cached_property
+    def title(self):
+        return "Books by series"
+
+    @context
+    @cached_property
+    def year(self):
+        return "by-series"
+
+    @context
+    @cached_property
+    def reviews(self):
+        series_reviews = [
+            (
+                series,
+                sorted(
+                    list(books),
+                    key=lambda book: float(book.book_series_position)
+                ),
+            )
+            for series, books in groupby(
+                sorted(
+                    Review.objects.all().filter(book_series__isnull=False, book_series_position__isnull=False).exclude(book_series="").exclude(book_series_position=""),
+                    key=lambda review: review.book_series,
+                ),
+                key=lambda review: review.book_series,
+            )
+        ]
+        return sorted(
+            [s for s in series_reviews if len(s[1]) > 1],
+            key=lambda x: (not x[0][0].isalpha(), x[0].upper()),
+        )
 
 
 class StatsView(ActiveTemplateView):

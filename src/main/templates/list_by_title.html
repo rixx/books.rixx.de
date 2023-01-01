@@ -19,7 +19,7 @@
         {% if review.rating and review.rating == 5 %}
         <span class="rating rating-inline">★</span>
         {% endif %}
-        {% if review.text %}
+        {% if review.content %}
           <a href="/{{ review.slug }}/">{{ review.book_title }}</a>
         {% else %}
           {{ review.book_title }}

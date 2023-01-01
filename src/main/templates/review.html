@@ -102,9 +102,9 @@
       {% if review.plot %}
         <li><a href="#plot-summary">Plot summary</a></li>
       {% endif %}
-      {% if review.text %}
+      {% if review.content %}
         <li><a href="#review-text">Review</a></li>
-        {{ review.text | render_toc | safe }}
+        {{ review.content | render_toc | safe }}
       {% endif %}
     </ul>
     {% if review.quotes %}
@@ -124,7 +124,7 @@
       </details>
     {% endif %}
     <div id="review-text">
-    {{ review.text | render_markdown | safe }}
+    {{ review.content | render_markdown | safe }}
     </div>
   </article>
 
@@ -157,7 +157,7 @@
     </h2>
       {% for related in review.related_books %}
         {% set review = related.review %}
-        {% set review_text = related.text %}
+        {% set review_text = related.content %}
         {% set expand_card = True %}
         {% include  "_book_card.html" %}
       {% endfor %}
