@@ -154,52 +154,6 @@ def build_site(db=None, **kwargs):
 
     # Render graph page
     print("🕸  Rendering graphs")
-    graph = nx.Graph()
-    for review in all_reviews:
-        other = review.metadata.get("related_books")
-        if not other:
-            continue
-        graph.add_node(review.id)
-        for related in other:
-            graph.add_node(related["book"])
-            graph.add_edge(review.id, related["book"])
-    nodes = []
-    for node in graph.nodes:
-        review = review_lookup[node]
-        nodes.append(
-            {
-                "id": node,
-                "name": review.metadata["book"]["title"],
-                "cover": bool(review.cover_path),
-                "author": review.metadata["book"]["author"],
-                "series": review.metadata["book"].get("series"),
-                "rating": int(review.metadata["review"]["rating"]),
-                "color": review.metadata["book"].get("spine_color"),
-                "connections": len(list(graph.neighbors(node))),
-                "search": [
-                    term
-                    for term in review.metadata["book"]["title"].lower().split()
-                    + review.metadata["book"]["author"].lower().split()
-                    + review.metadata["book"].get("series", "").lower().split()
-                    + [f"tag:{tag}" for tag in review.metadata["book"].get("tags", [])]
-                    + (
-                        [f"rating:{review.metadata['review'].get('rating')}"]
-                        if review.metadata["review"].get("rating")
-                        else []
-                    )
-                    if term
-                ],
-            }
-        )
-    edges = [{"source": source, "target": target} for source, target in graph.edges]
-    search_tags = [
-        {
-            "slug": tag.slug,
-            "name": tag.metadata.get("title") or tag.slug,
-            "search": (tag.metadata.get("title") or tag.slug).lower().split(),
-        }
-        for tag in tags.keys()
-    ]
     template.render_string(
         "search.json", json.dumps({"books": nodes, "tags": search_tags})
     )
