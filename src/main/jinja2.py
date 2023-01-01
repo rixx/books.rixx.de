@@ -8,7 +8,7 @@ from io import StringIO
 
 import markdown
 import smartypants
-from jinja2 import Environment, FileSystemLoader, select_autoescape
+from jinja2 import Environment, FileSystemLoader, select_autoescape, Markup
 from markdown.extensions.smarty import SmartyExtension
 from markdown.extensions.toc import TocExtension
 
@@ -57,10 +57,15 @@ def strip_markdown(text):
     return plain_markdown.convert(text)
 
 
-def render_date(date_value):
+def render_date(date_value, link=True):
     if isinstance(date_value, dt.date):
-        return date_value.strftime("%Y-%m-%d")
-    return date_value
+        date_value = date_value.strftime("%Y-%m-%d")
+    if not date_value:
+        return
+    if not link:
+        return date_value
+    year, rest = date_value.split("-", maxsplit=1)
+    return Markup(f'<a href="/reviews/{year}">{year}</a>-{rest}')
 
 
 def environment(**options):

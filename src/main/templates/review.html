@@ -11,7 +11,7 @@
 {% if review.tldr %}
 <meta name="og:description" content="Review: {{ review.tldr }}" />
 {% endif %}
-{% if review.cover_path %}
+{% if review.book_cover_path %}
 <meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
 <meta property="og:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
 {% endif %}
@@ -86,7 +86,7 @@
       </tr>
       {% endif %}
     </table></div>
-    {% if review.cover_path %}
+    {% if review.book_cover_path %}
     <a class="book-cover" href="/{{ review.slug }}/cover.jpg">
         {% set spine_border = True %}
         {% set full_size = True %}
@@ -157,7 +157,7 @@
     </h2>
       {% for related in review.related_books %}
         {% set review = related.review %}
-        {% set review_text = related.review.content %}
+        {% set review_text = related.text %}
         {% set expand_card = True %}
         {% include  "_book_card.html" %}
       {% endfor %}

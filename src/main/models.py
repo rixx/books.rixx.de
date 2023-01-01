@@ -88,6 +88,11 @@ class Review(models.Model):
     def word_count(self):
         return len(self.content.split())
 
+    @cached_property
+    def first_paragraph(self):
+        print(self.content)
+        return self.content.strip().split("\n\n")[0] if self.content else ""
+
     @classmethod
     def from_yaml(cls, **data):
         data.pop("social", None)

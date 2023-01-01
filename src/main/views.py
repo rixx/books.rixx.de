@@ -4,7 +4,7 @@ from itertools import groupby
 from django.views.generic import TemplateView
 from django_context_decorator import context
 from django.utils.functional import cached_property
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponseNotFound, FileResponse
 from django.utils.timezone import now
 
 from main.models import Review
@@ -58,7 +58,7 @@ class YearView(YearNavMixin, ActiveTemplateView):
     @context
     @cached_property
     def reviews(self):
-        return Review.objects.all().filter(dates_read__contains=self.year)
+        return sorted(Review.objects.all().filter(dates_read__contains=self.year), key=lambda review: review.date_read_lookup[self.year], reverse=True)
 
 
 class YearInBooksView(YearView):
@@ -238,11 +238,18 @@ class ReviewView(ActiveTemplateView):
     active = "review"
 
     @context
+    @cached_property
     def review(self):
         review = Review.objects.get(slug=f"{self.kwargs['author']}/{self.kwargs['book']}")
         for related in (review.related_books or []):
             related["review"] = Review.objects.get(slug=related["book"])
         return review
+
+class ReviewCoverView(ReviewView):
+    def dispatch(self, *args, **kwargs):
+        if not self.review.book_cover_path:
+            return HttpResponseNotFound()
+        return FileResponse(open(self.review.book_cover_path, "rb"))
 
 
 class ReviewEdit(ReviewView):

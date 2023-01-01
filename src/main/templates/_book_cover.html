@@ -2,10 +2,10 @@
   {% if spine_border %}
   <div class="cover-spine"></div>
   {% endif %}
-  {% if review.book_cover_image %}
+  {% if review.book_cover_path %}
     <img
       class="cover"
-      src="/{{ review.book_cover_image.url }}"
+      src="/{{ review.slug }}/cover.jpg"
       alt="Cover of {{ review.book_title }}."
     >
   {% else %}

@@ -24,9 +24,9 @@
         {% if review.book_publication_year %}· published {{ review.book_publication_year }}{% endif %}
         {% if review.dates_read %}
           ·
-          {% if review.dates_read|length > 1 %} last{% endif %} read {{ review.dates_read[-1] | render_date }}
+          {% if review.dates_read_list|length > 1 %} last{% endif %} read {{ review.dates_read_list[-1] | render_date(not is_link) }}
         {% else -%}
-          · added on {{ review.date_added | render_date }}
+          · added on {{ review.date_added | render_date(not is_link) }}
         {% endif %}
         </span>
       </small>
@@ -35,7 +35,7 @@
             {% include "_rating.html" %}
         </div>
       {% endif %}
-      {% if not review_text and review.text %}
+      {% if not review_text and review.content %}
         {% set review_text = review.first_paragraph %}
       {% endif %}
       {% if review_text %}
