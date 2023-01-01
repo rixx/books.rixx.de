@@ -116,8 +116,36 @@ class ReviewByAuthor(YearNavMixin, ActiveTemplateView):
 
 
 class ReviewByTitle(YearNavMixin, ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "list_by_title.html"
     active = "read"
+
+    @context
+    @cached_property
+    def title(self):
+        return "Books by title"
+
+    @context
+    @cached_property
+    def year(self):
+        return "by-title"
+
+    @context
+    @cached_property
+    def reviews(self):
+        return sorted(
+            [
+                (letter, list(reviews))
+                for (letter, reviews) in groupby(
+                    Review.objects.all().order_by("book_title"),
+                    key=lambda review: (
+                        review.book_title[0].upper()
+                        if review.book_title[0].upper().isalpha()
+                        else "_"
+                    ),
+                )
+            ],
+            key=lambda x: (not x[0].isalpha(), x[0].upper()),
+        )
 
 
 class ReviewBySeries(YearNavMixin, ActiveTemplateView):
