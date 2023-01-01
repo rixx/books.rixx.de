@@ -13,7 +13,7 @@ book:
   title: On Stranger Tides
 plan:
   date_added: 2020-08-13
-related-books:
+related_books:
 - book: robert-louis-stevenson/treasure-island
   text: Something something pirates.
 ---

@@ -24,8 +24,6 @@ review:
   date_read:
   - 2018-09-21
   rating: 2
-tags:
-- christmas
 ---
 
 This story has potential, but rationalists and their aversion to humour ruins it.  The Last Christmas is a fun

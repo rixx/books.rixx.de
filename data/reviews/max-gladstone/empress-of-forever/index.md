@@ -20,7 +20,7 @@ book:
   title: Empress of Forever
 plan:
   date_added: 2021-12-10
-related-books:
+related_books:
 - book: amal-el-mohtar/this-is-how-you-lose-the-time-war
   text: If you want to read Gladstone sci-fi, please, please, go here.
 - book: roger-zelazny/creatures-of-light-and-darkness
