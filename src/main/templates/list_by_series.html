@@ -15,15 +15,15 @@
       <ul>
       {% for review in ireviews %}
         <li>
-          {% if review.metadata.review and review.metadata.review.rating == 5 %}
+          {% if review.rating and review.rating == 5 %}
           <span class="rating rating-inline">★</span>
           {% endif %}
           {% if review.text %}
-            <a href="/{{ review.id }}/">{{ review.metadata.book.title }}</a>
+            <a href="/{{ review.slug }}/">{{ review.book_title }}</a>
           {% else %}
-            {{ review.metadata.book.title }}
+            {{ review.book_title }}
           {% endif %}
-          (#{{ review.metadata.book.series_position }})
+          (#{{ review.book_series_position }})
         </li>
       {% endfor %}
       </ul>

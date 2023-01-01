@@ -5,7 +5,7 @@
   <img class="shelf-side" src="{{ static('shelfside.svg') }}">
 <div id="shelf">
   {% set is_tilted = {'flag': False} %}
-  {% for review in shelf_books %}{% if review.metadata.book.spine_color %}
+  {% for review in shelf_books %}{% if review.book_spine_color %}
     {% if is_tilted.flag %}
       {% if is_tilted.update({'flag': False }) %}{% endif %}
     {% else %}
@@ -42,7 +42,7 @@
       {% set spine_style = "lined" %}
     {% endif %}
 
-    <a href="/{{ review.id }}/" class="spine-wrapper" style="--cover-img: url('/{{ review.id }}/thumbnail.jpg'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
+    <a href="/{{ review.slug }}/" class="spine-wrapper" style="--cover-img: url('/{{ review.slug }}/thumbnail.jpg'){% if is_tilted.flag %}; margin-right: {{ side_margin }}px; margin-left: {{ side_margin }}px{% endif %}">
     <div class="spine{% if spine_style %} spine-{{ spine_style }}{% endif %}" style="background-color: {{ review.spine.color }}; width: {{ review.spine.width }}px; height: {{ review.spine.height }}px; {% if not is_tilted.flag %}margin-top: {{ 125 - review.spine.height }}px; {% else %} transform: rotate({{ tilt_degree }}deg); margin-bottom: 1px{% endif %}">
       {% if review.spine.starred %}
       <div class="spine-label spine-starred">
@@ -56,7 +56,8 @@
               C22.602,0.567,25.338,0.567,26.285,2.486z"/>
         </svg>
       </div>
-      {% elif spine_style == "ribbed" %}
+      {% endif %}
+      {% if spine_style == "ribbed" %}
         {% for _ in range(5) %}
           <div class="spine-separator"></div>
         {% endfor %}

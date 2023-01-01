@@ -38,12 +38,12 @@
             <div class="stats-block">
                 <div class="stats-block-content">
                     <div class="stats-block-title">Shortest book</div>
-                    <div class="stats-block-big">{{ stats.shortest_book.metadata.book.pages }}</div>
+                    <div class="stats-block-big">{{ stats.shortest_book.book_pages }}</div>
                     <div class="stats-block-small">pages</div>
                 </div>
                 <div class="stats-block-cover">
                     {% with review=stats.shortest_book %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -53,7 +53,7 @@
             <div class="stats-block">
                 <div class="stats-block-cover">
                     {% with review=stats.longest_book %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -61,7 +61,7 @@
                 </div>
                 <div class="stats-block-content">
                     <div class="stats-block-title">Longest book</div>
-                    <div class="stats-block-big">{{ stats.longest_book.metadata.book.pages }}</div>
+                    <div class="stats-block-big">{{ stats.longest_book.book_pages }}</div>
                     <div class="stats-block-small">pages</div>
                 </div>
             </div>
@@ -80,7 +80,7 @@
                 </div>
                 <div class="stats-block-cover">
                     {% with review=stats.first_book %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -90,7 +90,7 @@
             <div class="stats-block">
                 <div class="stats-block-cover">
                     {% with review=stats.last_book %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -117,7 +117,7 @@
                 </div>
                 <div class="stats-block-cover">
                     {% with review=stats.shortest_review %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -127,7 +127,7 @@
             <div class="stats-block">
                 <div class="stats-block-cover">
                     {% with review=stats.longest_review %}
-                        <a class="book-cover" href="/{{ review.id }}/">
+                        <a class="book-cover" href="/{{ review.slug }}/">
                             {% set spine_border = True %}
                             {% include "_book_cover.html" %}
                         </a>
@@ -148,11 +148,11 @@
 
 <div id="year-stats-covers">
     {% for review in reviews[::-1] %}
-    <a class="book-cover{% if review.metadata.review.rating == 5 %} big-grid{% endif %}" href="/{{ review.id }}/">
+    <a class="book-cover{% if review.rating == 5 %} big-grid{% endif %}" href="/{{ review.slug }}/">
         {% set spine_border = True %}
-        {% if review.metadata.review.rating == 5 %}{% set full_size = True %} {% else %}{% set full_size = False %}{% endif %}
+        {% if review.rating == 5 %}{% set full_size = True %} {% else %}{% set full_size = False %}{% endif %}
         {% include "_book_cover.html" %}
-        {% if review.metadata.review.rating == 5 %}
+        {% if review.rating == 5 %}
         <div class="rating"> ★ ★ ★ ★ ★</div>
         {% endif %}
     </a>

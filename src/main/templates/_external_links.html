@@ -1,6 +1,6 @@
 <div class="external-link">
-  {%- if review.metadata.book.goodreads %}
-  <a href="https://www.goodreads.com/book/show/{{ review.metadata.book.goodreads }}"><img src="{{ static('/goodreads.png') }}"></a>
+  {%- if review.book_goodreads %}
+  <a href="https://www.goodreads.com/book/show/{{ review.book_goodreads }}"><img src="{{ static('/goodreads.png') }}"></a>
   {%- elif review.isbn %}
   <a href="https://www.goodreads.com/search?q={{ review.isbn }}&search_type=books"><img src="{{ static('/goodreads.png') }}"></a>
   {%- endif %}

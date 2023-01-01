@@ -33,6 +33,7 @@ setup(
         "tqdm",
         "tweepy",
         "unidecode==1.1.*",
+        "whitenoise==6.2.*",
         "yamdl==1.0.*",
     ],
 )

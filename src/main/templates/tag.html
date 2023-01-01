@@ -2,7 +2,7 @@
 
 {% block content %}
 
-<h1>List: {{ tag.metadata.title or tag.slug }}</h1>
+<h1>List: {{ tag.title or tag.slug }}</h1>
 
   {% set shelf_books = reviews %}
   {% include "_shelf.html" %}

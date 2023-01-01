@@ -1,5 +1,21 @@
+import datetime as dt
+import math
+import random
+from django.core.files.base import ContentFile
+from django.utils.functional import cached_property
 from django.db import models
 from django.utils.text import slugify
+from pathlib import Path
+
+REVIEW_ROOT = Path(__file__).parent.parent.parent / "data" / "reviews"
+
+def get_review_path(slug):
+    return REVIEW_ROOT / slug
+
+
+def load_quotes(paths):
+    # TODO load quotes
+    return []
 
 
 class Review(models.Model):
@@ -8,12 +24,21 @@ class Review(models.Model):
 
     slug = models.CharField(max_length=300)
     content = models.TextField()
+    tldr = models.TextField(null=True, blank=True)
+    rating = models.IntegerField(null=True, blank=True)
+
     related_books = models.JSONField(null=True)
     date_added = models.DateField()
+    latest_date = models.DateField()
+    dates_read = models.JSONField(null=True)
+    social = models.JSONField(null=True)
+    quotes = models.JSONField(null=True)
+    did_not_finish = models.BooleanField(default=False)
 
     book_title = models.CharField(max_length=300)
     book_author = models.CharField(max_length=300)
     book_cover_image_url = models.CharField(max_length=300, null=True, blank=True)
+    book_cover_path = models.CharField(max_length=300, null=True, blank=True)
     book_dimensions = models.JSONField(null=True)
     book_goodreads = models.CharField(max_length=30, null=True, blank=True)
     book_isbn10 = models.CharField(max_length=30, null=True, blank=True)
@@ -27,15 +52,25 @@ class Review(models.Model):
     book_owned = models.BooleanField(default=False)
 
     book_tags = models.JSONField(null=True)
-    plan_dates_read = models.JSONField(null=True)
+
+    @cached_property
+    def spine(self):
+        return Spine(self)
 
     @classmethod
     def from_yaml(cls, **data):
+        data.pop("social", None)
         object_data = {
             "content": data.pop("content"),
             "related_books": data.pop("related_books", []),
             "date_added": data.pop("plan", {}).pop("date_added", None),
+            "dates_read": [d.isoformat() for d in data.get("review", {}).pop("date_read", None) or []],
         }
+        for key in ("rating", "did_not_finish", "tldr"):
+            value = data.get("review", {}).pop(key, None)
+            if value is not None:
+                object_data[key] = value
+
         for key in (
             "title",
             "author",
@@ -56,7 +91,78 @@ class Review(models.Model):
             value = data["book"].pop(key, None)
             if value is not None:
                 object_data[f"book_{key}"] = value
+        object_data["slug"] = f"{slugify(object_data['book_author'])}/{slugify(object_data['book_title'])}"
         if data["book"]:
             raise Exception(f"Unparsed keys in review.book: {', '.join(data['book'].keys())}")
-        object_data["slug"] = f"{slugify(object_data['book_author'])}/{slugify(object_data['book_title'])}"
-        return cls(**object_data)
+        else:
+            data.pop("book")
+        if data["review"]:
+            raise Exception(f"Unparsed keys in review.review: {', '.join(data['review'].keys())}")
+        else:
+            data.pop("review", None)
+        if data:
+            raise Exception(f"Unparsed keys in review: {', '.join(data.keys())} ({object_data['slug']})")
+        def to_str(d):
+            if isinstance(d, str):
+                return d
+            return d.isoformat()
+        object_data["latest_date"] = sorted([to_str(object_data["date_added"])] + object_data["dates_read"])[-1]
+        path = get_review_path(object_data["slug"])
+        quotes = path.glob("quotes.**")
+        if quotes:
+            object_data["quotes"] = load_quotes(quotes)
+        cover = path / "cover.jpg"
+        if cover.exists():
+            object_data["book_cover_path"] = cover
+        result = cls(**object_data)
+        result.spine = Spine(result)
+        return result
+
+
+class Spine:
+    def __init__(self, review):
+        self.review = review
+        self.height = self.get_spine_height()
+        self.width = self.get_spine_width()
+        self.color = self.review.book_spine_color
+        self.cover = self.review.book_cover_path
+        self.starred = self.review.rating == 5
+        # self.labels = []
+        # for tag_name in self.review.book_tags:
+        #     if tag_name not in TAG_CACHE:
+        #         TAG_CACHE[tag_name] = Tag(tag_name)
+        #     tag = TAG_CACHE[tag_name]
+        #     color = tag.metadata.get("color")
+        #     if color:
+        #         self.labels.append(tag)
+
+    def random_height(self):
+        return random.randint(16, 25)
+
+    def normalize_height(self, height):
+        return max(min(int(height * 4), 110), 50)
+
+    def get_spine_height(self):
+        height = self.review.book_dimensions.get("height") if self.review.book_dimensions else None
+        if not height:
+            height = self.random_height()
+        return self.normalize_height(height)
+
+    def get_spine_width(self):
+        width = self.review.book_dimensions.get("thickness") if self.review.book_dimensions else None
+        if not width:
+            pages = self.review.book_pages
+            if not pages:
+                width = random.randint(1, 4) / 2
+            else:
+                width = (
+                    int(pages) * 0.0075
+                )  # Factor taken from known thickness/page ratio
+        return min(max(int(width * 4), 12), 32)  # Clamp between 12 and 32
+
+    def get_margin(self, tilt):
+        tilt = abs(tilt)
+        long_side = self.height * math.cos(math.radians(90 - tilt))
+        short_side = self.width * math.cos(math.radians(tilt))
+        total_required_margin = long_side + short_side - self.width
+        return total_required_margin / 2

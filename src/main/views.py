@@ -1,11 +1,15 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
 
+from main.models import Review
+
 
 class ActiveTemplateView(TemplateView):
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context["active"] = getattr(self, "active", None)
+        context["reviews"] = Review.objects.all().order_by("-latest_date")[:5]
+        context["shelf_books"] = Review.objects.all().order_by("book_author")
         return context
 
 

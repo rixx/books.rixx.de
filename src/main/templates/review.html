@@ -3,13 +3,13 @@
 {% block head_content %}
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@rixxtr"/>
-<meta name="twitter:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
+<meta name="twitter:title" content="{{ review.book_title }} by {{ review.book_author }}"/>
 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://books.rixx.de/{{ review.id }}/">
-<meta property="og:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
-{% if review.metadata.review.tldr %}
-<meta name="og:description" content="Review: {{ review.metadata.review.tldr }}" />
+<meta property="og:title" content="{{ review.book_title }} by {{ review.book_author }}"/>
+{% if review.tldr %}
+<meta name="og:description" content="Review: {{ review.tldr }}" />
 {% endif %}
 {% if review.cover_path %}
 <meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
@@ -21,75 +21,73 @@
 
 {% block content %}
   <div class="book-meta-wrapper"><div>
-    <h1 id="title">{{ review.metadata.book.title | smartypants | safe }}</h1>
+    <h1 id="title">{{ review.book_title | smartypants | safe }}</h1>
     <table class="book_metadata">
       <tr>
-        <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
-        <th><a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
-          {%- if review.metadata.book.publication_year %}
-            ({{ review.metadata.book.publication_year}})
+        <td>author{% if "and" in review.book_author or ", " in review.book_author or " & " in review.book_author %}s{% endif %}:</td>
+        <th><a href="/{{ review.author_slug }}/">{{ review.book_author }}</a>
+          {%- if review.book_publication_year %}
+            ({{ review.book_publication_year}})
           {%- endif -%}
         </th>
       </tr>
-      {% if review.metadata.book.series %}
+      {% if review.book_series %}
       <tr>
         <td>series:</td>
-        <th><a href="/reviews/by-series/#{{ review.metadata.book.series }}">{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</a></th>
+        <th><a href="/reviews/by-series/#{{ review.book_series }}">{{ review.book_series }} {% if review.book_series_position %}#{{ review.book_series_position }}{% endif %}</a></th>
       </tr>
       {% endif %}
-      {% if review.metadata.review.date_added %}
       <tr>
         <td>date added:</td>
-        <th>{{ review.metadata.review.date_added | render_date }}</th>
+        <th>{{ review.date_added | render_date }}</th>
       </tr>
-      {% endif %}
-      {% if review.metadata.review.date_read %}
+      {% if review.dates_read %}
       <tr>
         <td>date read:</td>
-        <th>{% for d in review.metadata.review.date_read %}{{ d | render_date }}<br>{% endfor %}</th>
+        <th>{% for d in review.dates_read %}{{ d | render_date }}<br>{% endfor %}</th>
       </tr>
       {% endif %}
-      {% if review.metadata.book.pages %}
+      {% if review.book_pages %}
       <tr>
         <td>pages:</td>
-        <th>{{ review.metadata.book.pages }}</th>
+        <th>{{ review.book_pages }}</th>
       </tr>
       {% endif %}
-      {% if review.metadata.book.tags %}
+      {% if review.book_tags %}
       <tr>
         <td>lists:</td>
         <th>
-          {% for tag in review.metadata.book.tags %}
+          {% for tag in review.book_tags %}
             <a href="/lists/{{ tag }}/">{{ tag }}</a>{{ ", " if not loop.last }}
           {% endfor %}
         </th>
       </tr>
       {% endif %}
-      {% if review.metadata.review.rating %}
+      {% if review.rating %}
       <tr>
         <td>rating:</td>
         <th class="rating">
-          {% for _ in range(review.metadata.review.rating) %}
+          {% for _ in range(review.rating) %}
           ★
           {% endfor %}
-          {% for _ in range(5 - review.metadata.review.rating) %}
+          {% for _ in range(5 - review.rating) %}
           ☆
           {% endfor %}
-          {% if review.metadata.review.did_not_finish %}
+          {% if review.did_not_finish %}
           (did not finish)
           {% endif %}
         </th>
       </tr>
       {% endif %}
-      {% if review.metadata.book.source %}
+      {% if review.book_source %}
       <tr>
         <td>available:</td>
-        <th><a href="{{ review.metadata.book.source }}" target=_blank>online</a></th>
+        <th><a href="{{ review.book_source }}" target=_blank>online</a></th>
       </tr>
       {% endif %}
     </table></div>
     {% if review.cover_path %}
-    <a class="book-cover" href="/{{ review.id }}/cover.jpg">
+    <a class="book-cover" href="/{{ review.slug }}/cover.jpg">
         {% set spine_border = True %}
         {% set full_size = True %}
         {% include "_book_cover.html" %}
@@ -130,49 +128,6 @@
     </div>
   </article>
 
-  {% if review.metadata.social %}{% if review.metadata.social.twitter.id or review.metadata.social.mastodon.id %}
-
-    <hr>
-    <article id="social-article">
-
-      {% if review.metadata.social.twitter.id and review.metadata.social.mastodon.id %}
-        <input type="checkbox" id="switch" class="social" />
-      {% endif %}
-
-      <div id="social">
-        {% if review.metadata.social.twitter.id and review.metadata.social.mastodon.id %}
-          <label for="switch" id="toggle">Toggle</label>
-          <span id="label"></span>
-        {% endif %}
-
-        {% if review.metadata.social.twitter.id %}
-          {% set status_url="https://twitter.com/rixxtr/status/" + review.metadata.social.twitter.id %}
-          {% with
-            network="twitter",
-            author="Tobias",
-            nick="@rixxtr",
-            author_link="https://twitter.com/rixxtr",
-            content=review.metadata.social.twitter.text
-          %}
-            {% include "_social.html" %}
-          {% endwith %}
-        {% endif %}
-
-        {% if review.metadata.social.mastodon.id %}
-          {% set status_url="https://chaos.social/@rixx/" + review.metadata.social.mastodon.id %}
-          {% with
-            network="mastodon",
-            author="rixx",
-            nick="@rixx@chaos.social",
-            author_link="https://chaos.social/@rixx",
-            content=review.metadata.social.mastodon.text
-          %}
-            {% include "_social.html" %}
-          {% endwith %}
-        {% endif %}
-    </article>
-    {% endif %}{% endif %}
-
     {% if review.quotes %}
     <h2 id="quotes">Quotes</h2>
 
@@ -196,7 +151,7 @@
     {% if review.related_books %}
     {% set spine_border = False %}
     <h2 id="related-books">Related books
-      {% if review.metadata.book.series and review.metadata.book.series_position != "1" %}
+      {% if review.book_series and review.book_series_position != "1" %}
       <small class="muted">Books related to the whole series are linked at the first part of the series.</small>
       {% endif %}
     </h2>
