@@ -6,7 +6,7 @@ from django.utils.functional import cached_property
 from django.utils.timezone import now
 
 from main.models import Review
-from main.stats import get_year_stats
+from main.stats import get_year_stats, get_stats_grid, get_stats_table, get_all_years
 
 
 class ActiveTemplateView(TemplateView):
@@ -31,9 +31,7 @@ class IndexView(ActiveTemplateView):
 class YearNavMixin:
     @context
     def all_years(self):
-        first = 1999
-        current = now().year
-        return list(range(current, first - 1, -1))
+        return get_all_years()
 
 
 class YearView(YearNavMixin, ActiveTemplateView):
@@ -188,8 +186,16 @@ class ReviewBySeries(YearNavMixin, ActiveTemplateView):
 
 
 class StatsView(ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "stats.html"
     active = "stats"
+
+    @context
+    def grid(self):
+        return get_stats_grid()
+
+    @context
+    def table(self):
+        return get_stats_table()
 
 
 class GraphView(ActiveTemplateView):

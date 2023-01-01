@@ -2,8 +2,16 @@ import copy
 import datetime as dt
 import statistics
 from collections import Counter, defaultdict
+from django.utils.timezone import now
+from django.db.models import Q
 
 from .models import Review
+
+
+def get_all_years():
+    first = 1998
+    current = now().year
+    return list(range(current, first - 1, -1))
 
 
 def xml_element(name, content, **kwargs):
@@ -95,11 +103,11 @@ def generate_svg(
     )
 
 
-def get_stats_grid(reviews, years):
+def get_stats_grid():
     stats = {}
     time_lookup = defaultdict(list)
-    for review in reviews:
-        for timestamp in review.metadata["review"]["date_read"]:
+    for review in Review.objects.all():
+        for timestamp in review.dates_read_list:
             key = timestamp.strftime("%Y-%m")
             time_lookup[key].append(review)
 
@@ -108,7 +116,7 @@ def get_stats_grid(reviews, years):
     most_yearly_books = 0
     most_yearly_pages = 0
     numbers = []
-    for year in years:
+    for year in get_all_years():
         total_pages = 0
         total_books = 0
         months = []
@@ -118,7 +126,7 @@ def get_stats_grid(reviews, years):
             reviews = time_lookup[written_date]
             book_count = len(reviews)
             page_count = sum(
-                int(review.metadata["book"].get("pages", 0) or 0) for review in reviews
+                int(review.book_pages or 0) for review in reviews
             )
             total_pages += page_count
             total_books += book_count
@@ -171,51 +179,45 @@ def get_stats_grid(reviews, years):
 
 
 def median_year(reviews):
-    years = [
-        int(review.metadata["book"].get("publication_year"))
-        for review in reviews
-        if review.metadata["book"].get("publication_year")
-    ]
-    return int(statistics.median(years))
+    return statistics.median(Review.objects.all().filter(book_publication_year__isnull=False).values_list("book_publication_year", flat=True))
 
 
 def median_length(reviews):
-    pages = [
-        int(review.metadata["book"].get("pages"))
-        for review in reviews
-        if review.metadata["book"].get("pages")
-    ]
-    return int(statistics.median(pages))
+    return statistics.median(Review.objects.all().filter(book_pages__isnull=False).values_list("book_pages", flat=True))
 
 
-def get_stats_table(reviews, plans, years):
+def get_stats_table():
+    reviews = Review.objects.all()
+    review_count = reviews.count()
     return [
-        ("Total books", len(reviews), len(plans)),
+        ("Total books", len(reviews), 0), # TODO len(plans)),
         (
             "Books without review",
-            len([b for b in reviews if not b.text.strip()]),
+            reviews.filter(Q(content__isnull=True) | Q(content="")).count(),
             None,
         ),
         (
             "Books without related books",
-            len([b for b in reviews if not b.metadata.get("related_books")]),
+            reviews.filter(Q(related_books__isnull=True) | Q(related_books="")).count(),
             None,
         ),
         (
             "Books per week",
             round(
-                len(reviews)
+                review_count
                 / ((dt.datetime.now().date() - dt.date(1998, 1, 1)).days / 7),
                 2,
             ),
-            round(
-                len(plans)
-                / ((dt.datetime.now().date() - plans[-1].relevant_date).days / 7),
-                2,
-            ),
+            None
+            # TODO: plans
+            # round(
+            #     len(plans)
+            #     / ((dt.datetime.now().date() - plans[-1].relevant_date).days / 7),
+            #     2,
+            # ),
         ),
-        ("Median publication year", median_year(reviews), median_year(plans)),
-        ("Median length", median_length(reviews), median_length(plans)),
+        ("Median publication year", median_year(reviews), None), # TODO median_year(plans)),
+        ("Median length", median_length(reviews), None), # TODO median_length(plans)),
     ]
 
 

@@ -58,12 +58,13 @@ class Review(models.Model):
         return Spine(self)
 
     @cached_property
+    def dates_read_list(self):
+        return [dt.datetime.strptime(date, "%Y-%m-%d").date() for date in self.dates_read.split(",")]
+
+
+    @cached_property
     def date_read_lookup(self):
-        result = { }
-        for date in self.dates_read.split(","):
-            year, _ = date.split("-", maxsplit=1)
-            result[int(year)] = dt.datetime.strptime(date, "%Y-%m-%d").date()
-        return result
+        return {date.year: date for date in self.dates_read_list}
 
     @cached_property
     def word_count(self):
