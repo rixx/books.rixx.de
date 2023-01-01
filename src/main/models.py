@@ -1,13 +1,30 @@
+import re
+from unidecode import unidecode
 import datetime as dt
 import math
 import random
 from django.core.files.base import ContentFile
 from django.utils.functional import cached_property
 from django.db import models
-from django.utils.text import slugify
 from pathlib import Path
 
 REVIEW_ROOT = Path(__file__).parent.parent.parent / "data" / "reviews"
+
+
+
+
+def slugify(text):
+    """Convert Unicode string into blog slug.
+
+    Can't use Django's for backwards compatibility – this one turns
+    j.k. r into j-k-r, Django's turns it into jk-r."""
+    text = re.sub("[–—/:;,.]", "-", text)  # replace separating punctuation
+    ascii_text = unidecode(text).lower()  # best ASCII substitutions, lowercased
+    ascii_text = re.sub(r"[^a-z0-9 -]", "", ascii_text)  # delete any other characters
+    ascii_text = ascii_text.replace(" ", "-")  # spaces to hyphens
+    ascii_text = re.sub(r"-+", "-", ascii_text)  # condense repeated hyphens
+    return ascii_text
+
 
 def get_review_path(slug):
     return REVIEW_ROOT / slug
@@ -23,6 +40,7 @@ class Review(models.Model):
     __yamdl_directory__ = "reviews"
 
     slug = models.CharField(max_length=300)
+    title_slug = models.CharField(max_length=300, null=True, blank=True)
     content = models.TextField()
     tldr = models.TextField(null=True, blank=True)
     rating = models.IntegerField(null=True, blank=True)
@@ -76,6 +94,7 @@ class Review(models.Model):
         object_data = {
             "content": data.pop("content"),
             "related_books": data.pop("related_books", []),
+            "title_slug": data.get("book").pop("title_slug", None),
             "date_added": data.pop("plan", {}).pop("date_added", None),
             "dates_read": ",".join([d.isoformat() for d in data.get("review", {}).pop("date_read", None) or []]),
         }
@@ -104,7 +123,7 @@ class Review(models.Model):
             value = data["book"].pop(key, None)
             if value is not None:
                 object_data[f"book_{key}"] = value
-        object_data["slug"] = f"{slugify(object_data['book_author'])}/{slugify(object_data['book_title'])}"
+        object_data["slug"] = f"{slugify(object_data['book_author'])}/{object_data.get('title_slug') or slugify(object_data['book_title'].split(':')[0].split('.')[0])}"
         if data["book"]:
             raise Exception(f"Unparsed keys in review.book: {', '.join(data['book'].keys())}")
         else:

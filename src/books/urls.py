@@ -27,6 +27,8 @@ urlpatterns = [
     path("reviews/by-series/", views.ReviewBySeries.as_view()),
     path("stats/", views.StatsView.as_view()),
     path("graph/", views.GraphView.as_view()),
+    path("graph.json", views.graph_data),
+    path("search.json", views.search_data),
     path("to-read/", views.ToReadView.as_view()),
     path("lists/", views.ListView.as_view()),
     path("lists/<slug:tag>/", views.ListDetail.as_view()),

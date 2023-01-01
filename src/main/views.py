@@ -1,12 +1,14 @@
 from django.shortcuts import render
+import networkx as nx
 from itertools import groupby
 from django.views.generic import TemplateView
 from django_context_decorator import context
 from django.utils.functional import cached_property
+from django.http import JsonResponse
 from django.utils.timezone import now
 
 from main.models import Review
-from main.stats import get_year_stats, get_stats_grid, get_stats_table, get_all_years
+from main.stats import get_year_stats, get_stats_grid, get_stats_table, get_all_years, get_graph, get_nodes, get_edges
 
 
 class ActiveTemplateView(TemplateView):
@@ -199,8 +201,36 @@ class StatsView(ActiveTemplateView):
 
 
 class GraphView(ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "graph.html"
     active = "graph"
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        graph = get_graph()
+        context["node_count"] = graph.number_of_nodes()
+        context["edge_count"] = graph.number_of_edges()
+        context["missing_nodes"] =Review.objects.all().count() - graph.number_of_nodes()
+        context["parts"]=nx.number_connected_components(graph)
+        context["is_connected"] = nx.is_connected(graph)
+        return context
+
+
+def graph_data(request):
+    graph = get_graph()
+    return JsonResponse({"nodes": get_nodes(graph), "links": get_edges(graph)})
+
+
+def search_data(request):
+    # TODO tag search
+    search_tags = [
+        # {
+        #     "slug": tag.slug,
+        #     "name": tag.metadata.get("title") or tag.slug,
+        #     "search": (tag.metadata.get("title") or tag.slug).lower().split(),
+        # }
+        # for tag in tags.keys()
+    ]
+    return JsonResponse({"books": get_nodes(), "tags": []})
 
 
 class ToReadView(ActiveTemplateView):

@@ -1,4 +1,5 @@
 import copy
+import networkx as nx
 import datetime as dt
 import statistics
 from collections import Counter, defaultdict
@@ -244,3 +245,57 @@ def get_year_stats(year):
     month_counter = Counter([r.date_read_lookup[year].strftime("%B") for r in reviews])
     stats["busiest_month"] = month_counter.most_common()[0]
     return stats
+
+
+def get_graph():
+    graph = nx.Graph()
+    for review in Review.objects.all():
+        other = review.related_books
+        if not other:
+            continue
+        graph.add_node(review.slug)
+        for related in other:
+            graph.add_node(related["book"])
+            graph.add_edge(review.slug, related["book"])
+    return graph
+
+
+def get_nodes(graph=None):
+    graph = graph or get_graph()
+    nodes = []
+    for node in graph.nodes:
+        try:
+            review = Review.objects.get(slug=node)
+        except Exception:
+            print(f"ERROR! Node {node} not found")
+            continue
+        nodes.append(
+            {
+                "id": node,
+                "name": review.book_title,
+                "cover": bool(review.book_cover_path),
+                "author": review.book_author,
+                "series": review.book_series,
+                "rating": review.rating,
+                "color": review.book_spine_color,
+                "connections": len(list(graph.neighbors(node))),
+                "search": [
+                    term
+                    for term in review.book_title.lower().split()
+                    + review.book_author.lower().split()
+                    + (review.book_series or "").lower().split()
+                    + [f"tag:{tag}" for tag in review.book_tags or []]
+                    + (
+                        [f"rating:{review.rating}"]
+                        if review.rating
+                        else []
+                    )
+                    if term
+                ],
+            }
+        )
+    return nodes
+
+def get_edges(graph=None):
+    graph = graph or get_graph()
+    return [{"source": source, "target": target} for source, target in graph.edges]
