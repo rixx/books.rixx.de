@@ -3,9 +3,9 @@
 {% block content %}
 
 <div class="stats-header">
-    <div>{% if not current_year %}<a href="/reviews/{{ next_year }}/stats/">{{ next_year }} stats</a>{% endif %}</div>
+    <div>{% if not current_year %}<a href="/reviews/{{ year + 1 }}/stats/">{{ year + 1 }} stats</a>{% endif %}</div>
     <div><a href="/reviews/{{ year }}/">Back to reviews</a></div>
-    <div><a href="/reviews/{{ prev_year }}/stats/">{{ prev_year }} stats</a></div>
+    <div><a href="/reviews/{{ year - 1 }}/stats/">{{ year - 1 }} stats</a></div>
 </div>
 <h1 id="year-stats-headline">{{ year }}</h1>
 

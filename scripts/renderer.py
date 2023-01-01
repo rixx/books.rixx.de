@@ -141,23 +141,6 @@ def build_site(db=None, **kwargs):
     print("🔎 Rendering list pages")
     # Render the "all reviews" page
     for (year, reviews) in reviews_by_year.items():
-        kwargs = {
-            "reviews": sorted(
-                list(reviews), key=lambda rev: rev.date_read_lookup[year], reverse=True
-            ),
-            "all_years": all_years,
-            "year": year,
-            "current_year": (year == this_year),
-            "next_year": int(year) + 1,
-            "prev_year": int(year) - 1,
-            "title": "Books I’ve read",
-            "active": "read",
-        }
-        template.render(
-            "list_reviews.html",
-            f"reviews/{year or 'other'}/index.html",
-            **kwargs,
-        )
         year_stats = stats.get_year_stats(year, reviews)
         template.render(
             "year_stats.html",

@@ -21,7 +21,7 @@ urlpatterns = [
     path("", views.IndexView.as_view()),
     path("reviews/", views.YearView.as_view()),
     path("reviews/<int:year>/", views.YearView.as_view()),
-    path("reviews/<int:year>/stats", views.YearInBooksView.as_view()),
+    path("reviews/<int:year>/stats/", views.YearInBooksView.as_view()),
     path("reviews/by-author/", views.ReviewByAuthor.as_view()),
     path("reviews/by-title/", views.ReviewByTitle.as_view()),
     path("reviews/by-series/", views.ReviewBySeries.as_view()),

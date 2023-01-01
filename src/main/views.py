@@ -1,43 +1,86 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
+from django_context_decorator import context
+from django.utils.functional import cached_property
+from django.utils.timezone import now
 
 from main.models import Review
+from main.stats import get_year_stats
 
 
 class ActiveTemplateView(TemplateView):
-    def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
-        context["active"] = getattr(self, "active", None)
-        context["reviews"] = Review.objects.all().order_by("-latest_date")[:5]
-        context["shelf_books"] = Review.objects.all().order_by("book_author")
-        return context
+
+    @context
+    def active(self):
+        return getattr(self, "active", None)
 
 
 class IndexView(ActiveTemplateView):
     template_name = "index.html"
 
+    @context
+    def shelf_books(self):
+        return Review.objects.all().order_by("book_author")
 
-class YearView(ActiveTemplateView):
-    template_name = "year.html"
+    @context
+    def reviews(self):
+        return Review.objects.all().order_by("-latest_date")[:5]
+
+
+class YearNavMixin:
+    @context
+    def all_years(self):
+        first = 1999
+        current = now().year
+        return list(range(current, first - 1, -1))
+
+
+class YearView(YearNavMixin, ActiveTemplateView):
+    template_name = "list_reviews.html"
     active = "read"
 
+    @context
+    @cached_property
+    def year(self):
+        return self.kwargs.get("year") or now().year
 
-class YearInBooksView(ActiveTemplateView):
-    template_name = "year.html"
+    @context
+    @cached_property
+    def current_year(self):
+        return self.year == now().year
+
+    @context
+    @cached_property
+    def title(self):
+        return f"Books read in {self.year}"
+
+    @context
+    @cached_property
+    def reviews(self):
+        return Review.objects.all().filter(dates_read__contains=self.year)
+
+
+class YearInBooksView(YearView):
+    template_name = "year_stats.html"
     active = "read"
 
+    @context
+    @cached_property
+    def stats(self):
+        return get_year_stats(self.year)
 
-class ReviewByAuthor(ActiveTemplateView):
+
+class ReviewByAuthor(YearNavMixin, ActiveTemplateView):
     template_name = "index.html"
     active = "read"
 
 
-class ReviewByTitle(ActiveTemplateView):
+class ReviewByTitle(YearNavMixin, ActiveTemplateView):
     template_name = "index.html"
     active = "read"
 
 
-class ReviewBySeries(ActiveTemplateView):
+class ReviewBySeries(YearNavMixin, ActiveTemplateView):
     template_name = "index.html"
     active = "read"
 
@@ -58,7 +101,7 @@ class ToReadView(ActiveTemplateView):
 
 
 class ListView(ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "list_reviews.html"
     active = "list"
 
 

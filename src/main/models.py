@@ -30,7 +30,7 @@ class Review(models.Model):
     related_books = models.JSONField(null=True)
     date_added = models.DateField()
     latest_date = models.DateField()
-    dates_read = models.JSONField(null=True)
+    dates_read = models.CharField(max_length=300,null=True, blank=True)
     social = models.JSONField(null=True)
     quotes = models.JSONField(null=True)
     did_not_finish = models.BooleanField(default=False)
@@ -57,6 +57,18 @@ class Review(models.Model):
     def spine(self):
         return Spine(self)
 
+    @cached_property
+    def date_read_lookup(self):
+        result = { }
+        for date in self.dates_read.split(","):
+            year, _ = date.split("-", maxsplit=1)
+            result[int(year)] = dt.datetime.strptime(date, "%Y-%m-%d").date()
+        return result
+
+    @cached_property
+    def word_count(self):
+        return len(self.content.split())
+
     @classmethod
     def from_yaml(cls, **data):
         data.pop("social", None)
@@ -64,7 +76,7 @@ class Review(models.Model):
             "content": data.pop("content"),
             "related_books": data.pop("related_books", []),
             "date_added": data.pop("plan", {}).pop("date_added", None),
-            "dates_read": [d.isoformat() for d in data.get("review", {}).pop("date_read", None) or []],
+            "dates_read": ",".join([d.isoformat() for d in data.get("review", {}).pop("date_read", None) or []]),
         }
         for key in ("rating", "did_not_finish", "tldr"):
             value = data.get("review", {}).pop(key, None)
@@ -106,7 +118,7 @@ class Review(models.Model):
             if isinstance(d, str):
                 return d
             return d.isoformat()
-        object_data["latest_date"] = sorted([to_str(object_data["date_added"])] + object_data["dates_read"])[-1]
+        object_data["latest_date"] = sorted([to_str(object_data["date_added"])] + object_data["dates_read"].split(","))[-1]
         path = get_review_path(object_data["slug"])
         quotes = path.glob("quotes.**")
         if quotes:

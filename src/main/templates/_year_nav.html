@@ -1,7 +1,7 @@
 <nav id="year-nav">
   {% for iyear in all_years %}
-  <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear or "other" }}"{% endif %}>
-    {{ iyear or "other" }}
+  <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear }}"{% endif %}>
+    {{ iyear }}
   </a> ·
   {% endfor %}
   <a href="/reviews/by-author/"{% if year == "by-author" %} class="active"{% endif %}>by&nbsp;author</a> ·
