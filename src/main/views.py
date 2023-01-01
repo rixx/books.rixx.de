@@ -233,6 +233,23 @@ def search_data(request):
     return JsonResponse({"books": get_nodes(), "tags": []})
 
 
+class ReviewView(ActiveTemplateView):
+    template_name = "review.html"
+    active = "review"
+
+    @context
+    def review(self):
+        review = Review.objects.get(slug=f"{self.kwargs['author']}/{self.kwargs['book']}")
+        for related in (review.related_books or []):
+            related["review"] = Review.objects.get(slug=related["book"])
+        return review
+
+
+class ReviewEdit(ReviewView):
+    template_name = "index.html"
+    active = "review"
+
+
 class ToReadView(ActiveTemplateView):
     template_name = "index.html"
     active = "to-read"
@@ -254,15 +271,5 @@ class AuthorView(ActiveTemplateView):
 
 
 class AuthorEdit(ActiveTemplateView):
-    template_name = "index.html"
-    active = "review"
-
-
-class ReviewView(ActiveTemplateView):
-    template_name = "index.html"
-    active = "review"
-
-
-class ReviewEdit(ActiveTemplateView):
     template_name = "index.html"
     active = "review"

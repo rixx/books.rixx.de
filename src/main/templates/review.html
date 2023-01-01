@@ -44,7 +44,7 @@
       {% if review.dates_read %}
       <tr>
         <td>date read:</td>
-        <th>{% for d in review.dates_read %}{{ d | render_date }}<br>{% endfor %}</th>
+        <th>{% for d in review.dates_read_list %}{{ d | render_date }}<br>{% endfor %}</th>
       </tr>
       {% endif %}
       {% if review.book_pages %}
@@ -157,7 +157,7 @@
     </h2>
       {% for related in review.related_books %}
         {% set review = related.review %}
-        {% set review_text = related.content %}
+        {% set review_text = related.review.content %}
         {% set expand_card = True %}
         {% include  "_book_card.html" %}
       {% endfor %}
