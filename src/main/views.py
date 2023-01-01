@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from itertools import groupby
 from django.views.generic import TemplateView
 from django_context_decorator import context
 from django.utils.functional import cached_property
@@ -66,13 +67,52 @@ class YearInBooksView(YearView):
 
     @context
     @cached_property
+    def title(self):
+        return f"{self.year} in books"
+
+    @context
+    @cached_property
     def stats(self):
         return get_year_stats(self.year)
 
 
 class ReviewByAuthor(YearNavMixin, ActiveTemplateView):
-    template_name = "index.html"
+    template_name = "list_by_author.html"
     active = "read"
+
+    @context
+    @cached_property
+    def title(self):
+        return "Books by author"
+
+    @context
+    @cached_property
+    def year(self):
+        return "by-author"
+
+    @context
+    @cached_property
+    def reviews(self):
+        authors_with_reviews = sorted(
+            [
+                (author, list(reviews))
+                for (author, reviews) in groupby(
+                    Review.objects.all().order_by("book_author"),
+                    key=lambda review: review.book_author,
+                )
+            ],
+            key=lambda x: x[0].upper(),
+        )
+        return sorted(
+            [
+                (letter, list(authors))
+                for letter, authors in groupby(
+                    authors_with_reviews,
+                    key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
+                )
+            ],
+            key=lambda x: (not x[0].isalpha(), x[0].upper()),
+        )
 
 
 class ReviewByTitle(YearNavMixin, ActiveTemplateView):

@@ -34,21 +34,6 @@ def build_site(db=None, **kwargs):
     all_plans = sort_reviews(books.load_to_read())
     all_events = sort_reviews(all_plans + all_reviews)
 
-    authors_with_reviews = sorted(
-        [
-            (author, list(reviews))
-            for (author, reviews) in itertools.groupby(
-                sorted(
-                    all_reviews,
-                    key=lambda rev: rev.metadata["book"]["author"],
-                ),
-                key=lambda review: review.metadata["book"]["author"],
-            )
-        ],
-        key=lambda x: x[0].upper(),
-    )
-    author_lookup = dict(authors_with_reviews)
-
     tags = defaultdict(list)
     reviews_by_year = defaultdict(list)
     redirects = []
@@ -92,11 +77,6 @@ def build_site(db=None, **kwargs):
 
     template.render("redirects.conf", "redirects.conf", redirects=redirects)
 
-    for plan in all_plans:
-        if plan.metadata["book"]["author"] in author_lookup:
-            plan.link_author = True
-        (Path("_html") / plan.id).mkdir(parents=True, exist_ok=True)
-
     # Render tag pages
     print("🔖 Rendering tag pages")
     tags = {
@@ -138,23 +118,6 @@ def build_site(db=None, **kwargs):
         active="stats",
     )
 
-    print("🔎 Rendering list pages")
-    # Render the "all reviews" page
-    for (year, reviews) in reviews_by_year.items():
-        year_stats = stats.get_year_stats(year, reviews)
-        template.render(
-            "year_stats.html",
-            f"reviews/{year or 'other'}/stats/index.html",
-            stats=year_stats,
-            **kwargs,
-        )
-        if year == this_year:
-            template.render(
-                "list_reviews.html",
-                "reviews/index.html",
-                **kwargs,
-            )
-
     # Render the "by title" page
     title_reviews = sorted(
         [
@@ -181,16 +144,6 @@ def build_site(db=None, **kwargs):
     )
 
     # Render the "by author" page
-    author_reviews = sorted(
-        [
-            (letter, list(authors))
-            for letter, authors in itertools.groupby(
-                authors_with_reviews,
-                key=lambda pair: (pair[0][0].upper() if pair[0][0].isalpha() else "_"),
-            )
-        ],
-        key=lambda x: (not x[0].isalpha(), x[0].upper()),
-    )
     template.render(
         "list_by_author.html",
         "reviews/by-author/index.html",
