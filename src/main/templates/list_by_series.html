@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {% include "_year_nav.html" %}
+
+  <h2>All books I've read by series</h2>
+
+  Only books that belong to a series, naturally. I've only included series where I've read more than one book.
+
+  <ul>
+  {% for series, ireviews in reviews %}
+    <li id="{{ series }}" class="anchor-target">{{ series }}
+      <a class="anchor" href="/reviews/by-series/#{{ series }}">¶</a>
+      <ul>
+      {% for review in ireviews %}
+        <li>
+          {% if review.metadata.review and review.metadata.review.rating == 5 %}
+          <span class="rating rating-inline">★</span>
+          {% endif %}
+          {% if review.text %}
+            <a href="/{{ review.id }}/">{{ review.metadata.book.title }}</a>
+          {% else %}
+            {{ review.metadata.book.title }}
+          {% endif %}
+          (#{{ review.metadata.book.series_position }})
+        </li>
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul>
+
+  {% include "_year_nav.html" %}
+
+{% endblock %}

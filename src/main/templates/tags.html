@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Book Lists</h1>
+
+<section>
+
+  <p>
+  This is where I group my books into lists – some boring ones, like <a
+  href="/lists/scifi/">Sci-Fi</a>, and some more interesting ones like <a
+  href="/lists/space-monks/">Space Monks</a>. I hope there's a list for you here, too:
+  </p>
+
+</section>
+<hr>
+
+<section>
+{% for tag, reviews in tags.items() %}{% if not tag.metadata.boring %}
+  <a href="/lists/{{ tag.slug }}">
+    <div class="lists">
+      <div class="book-metadata">
+        <p class="title">{{ tag.metadata.title or tag.slug }} ({{ reviews|length }} books)</p>
+      </div>
+      <div class="covers">
+        {% for review in reviews[:8] %}
+          {% include "_book_cover.html" %}
+        {% endfor %}
+      </div>
+    </div>
+  </a>
+{% endif %}{% endfor %}
+</section>
+<section>
+  <h2>Boring Lists</h2>
+
+  These lists are either so large or at least so thematically broad that they are mostly useful if you're
+  browsing for something to read. Books are sorted by rating, but it's still tricky to find anything in these:
+
+{% for tag, reviews in tags.items() %}{% if tag.metadata.boring %}
+  <a href="/lists/{{ tag.slug }}">
+    <div class="review_preview lists">
+      <div class="book_metadata">
+        <p class="title">{{ tag.metadata.title or tag.slug }} ({{ reviews|length }} books)</p>
+      </div>
+      <div class="covers">
+        {% for review in reviews[:8] %}
+          {% include "_book_cover.html" %}
+        {% endfor %}
+      </div>
+    </div>
+  </a>
+{% endif %}{% endfor %}
+</section>
+{% endblock %}

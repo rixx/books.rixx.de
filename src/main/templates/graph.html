@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block main_class %} class="wide"{% endblock %}
+
+{% block content %}
+
+<script src="{{ static('/d3.min.js') }}"></script>
+<script src="{{ static('/ngraph.graph.min.js') }}"></script>
+<script src="{{ static('/ngraph.path.min.js') }}"></script>
+<script src="{{ static('/graph.js') }}"></script>
+
+<div id="graph-wrapper">
+    <div id="book-graph"></div>
+    <div id="graph-sidebar">
+        <div id="book-preview">
+        </div>
+        <div id="book-route">
+            <h3>Finding route …</h3>
+            <div id="start-group">
+                <button id="start-delete">x</button>
+                <span id="start-name"></span>
+            </div>
+            <div id="end-group">
+                <button id="end-delete">x</button>
+                <span id="end-name"></span>
+            </div>
+            <div id="route-info"></div>
+        </div>
+        <div id="graph-stats">
+            <ul>
+                <li>{{ node_count }} books ({% if missing_nodes %}{{ missing_nodes }}{% else %}none{% endif %} missing)</li>
+                <li>{{ edge_count }} connections</li>
+                {% if not is_connected %}
+                    <li>{{ parts }} components</li>
+                {% else %}
+                    <li>All books connected</li>
+                {% endif %}
+            </ul>
+            <input type="text" id="graph-search" placeholder="search tag:scifi rating:5" />
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Welcome to log(book)!</h1>
+
+{% include "_shelf.html" %}
+
+This is where I valiantly try to keep track of
+
+<ul>
+  <li>the <a href=/reviews/>books I’ve read</a> and my opinions on them</li>
+  <li>which books <a href="/to-read">I want to read</a></li>
+  <li>useless but fun <a href="/stats">statistics</a></li>
+</ul>
+
+The data gets synced to <a href="//goodreads.com/rixx">Goodreads</a>, but this site is the primary source. If you're
+really interested in what I'm reading, you can <a href=/feed.atom>subscribe to the feed</a>.
+
+Thanks for the content go to our civilisation and the preceding ones, to the people involved in the publishing industry – authors,
+editors, layouters, translators, printers, illustrators, agents, publicists, marketers, book sellers, antiquarians –, to
+my family for hooking me early and understanding that all a child needs to be happy are eighteen hours of uninterrupted
+reading per day, and to my friends for their consistently good-or-interesting recommendations and their patience with
+what they call my "reading habit".
+
+<p>Here are a few of the books I&rsquo;ve read recently:</p>
+
+<div class="books_by_year">
+  {% for review in reviews %}
+    {% include "_book_card.html" %}
+  {% endfor %}
+</div>
+
+{% endblock %}

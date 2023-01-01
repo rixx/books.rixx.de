@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {% include "_year_nav.html" %}
+
+  {% for letter, _ in reviews %}
+  <a href="#{{ letter }}">{{ letter }}</a> 
+  {% endfor %}
+
+  <h2>All books I've read by title</h2>
+
+  {% for letter, ireviews in reviews %}{% if ireviews %}
+  <section id="{{ letter }}" class="alphabet-section">
+  <h2 class="alphabet initial">{{ letter }}</h2>
+    <ul>
+    {% for review in ireviews %}
+      <li>
+        {% if review.metadata.review and review.metadata.review.rating == 5 %}
+        <span class="rating rating-inline">★</span>
+        {% endif %}
+        {% if review.text %}
+          <a href="/{{ review.id }}/">{{ review.metadata.book.title }}</a>
+        {% else %}
+          {{ review.metadata.book.title }}
+        {% endif %}
+        by <a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </section>
+  <hr>
+
+  {% endif %}{% endfor %}
+
+  {% include "_year_nav.html" %}
+
+{% endblock %}

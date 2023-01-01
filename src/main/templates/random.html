@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block head_content %}
+    <script src="{{ static('/random.js') }}" defer></script>
+{% endblock %}
+
+{% block content %}
+
+<h1>Choose a random book! <button id="random">wheee</button></h1>
+
+<div id="random-result">
+</div>
+
+{% endblock %}

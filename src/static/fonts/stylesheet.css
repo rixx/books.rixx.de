@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Kanzlei';
+  src:  url('/static/fonts/Kanzlei-Initialen.ttf') format('truetype');
+  }
+@font-face {
+  font-family: 'EB Garamond 12';
+  font-style: normal;
+  src:  url( static/fonts/EBGaramond12-Regular.eot );  
+  src:  url('/static/fonts/EBGaramond12-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: 'EB Garamond 8';
+  font-style: normal;
+  src:  url( static/fonts/EBGaramond08-Regular.eot );  
+  src:  url('/static/fonts/EBGaramond08-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EB Garamond SC 8";
+  font-style: normal;
+  src:  url( static/fonts/EBGaramondSC08-Regular.eot );  
+  src:  url('/static/fonts/EBGaramondSC08-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EB Garamond SC 12";
+  font-style: normal;
+  src:  url( static/fonts/EBGaramondSC12-Regular.eot );  
+  src:  url('/static/fonts/EBGaramondSC12-Regular.woff') format('woff');
+  }
+@font-face {
+  font-family: "EB Garamond 12";
+  font-style: italic;
+  src:  url( static/fonts/EBGaramond12-Italic.eot );
+  src:  url('/static/fonts/EBGaramond12-Italic.woff') format('woff');
+  }
+@font-face {
+  font-family: "EB Garamond 8";
+  font-style: italic;
+  src:  url( static/fonts/EBGaramond08-Italic.eot );
+  src:  url('/static/fonts/EBGaramond08-Italic.woff') format('woff');
+  }
+/* nanum-gothic-coding-regular - latin */
+@font-face {
+  font-family: 'Nanum Gothic Coding';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NanumGothicCoding'),
+       url('/static/fonts/nanum-gothic-coding-v14-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/static/fonts/nanum-gothic-coding-v14-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* nanum-gothic-coding-700 - latin */
+@font-face {
+  font-family: 'Nanum Gothic Coding';
+  font-style: normal;
+  font-weight: 700;
+  src: local('NanumGothicCoding-Bold'),
+       url('/static/fonts/nanum-gothic-coding-v14-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/static/fonts/nanum-gothic-coding-v14-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+

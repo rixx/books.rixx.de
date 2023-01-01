@@ -1,0 +1,11 @@
+<div class="rating">
+  {% for _ in range(review.metadata.review.rating) %}
+  ★
+  {% endfor %}
+  {% for _ in range(5 - review.metadata.review.rating) %}
+  ☆
+  {% endfor %}
+{% if review.metadata.review.did_not_finish %}
+  (did not finish)
+{% endif %}
+</div>

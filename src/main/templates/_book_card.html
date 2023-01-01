@@ -1,0 +1,54 @@
+<div class="book-card {% if review.metadata.review and review.metadata.review.rating == 5 %}book-card-fav{% endif %}{% if expand_card %} expand{% endif %}"{% if review.metadata.book.spine_color %}style="border-color: {{ review.metadata.book.spine_color }}{% endif %}">
+  {% include "_external_links.html" %}
+  {% set is_link=review.metadata.review and review.metadata.review.date_read and review.text %}
+  {% set has_rating=review.metadata.review and review.metadata.review.rating %}
+  {%- if is_link %}
+    <a href="/{{ review.id }}/">
+  {% else %}
+    <div>
+  {% endif %}
+    <div class="book-metadata">
+      <div class="book_thumbnail">
+        {% include "_book_cover.html" %}
+      </div>
+      <p class="title{% if not has_rating %} title-padded{% endif %}">
+        {{ review.metadata.book.title | smartypants | safe }}
+      </p>
+      <small>
+        by 
+        {%- if review.link_author and not is_link %}
+          <a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
+        {%- else %}
+          {{ review.metadata.book.author }}
+        {%- endif %}
+        <span class="muted">
+        {% if review.metadata.book.publication_year %}· published {{ review.metadata.book.publication_year }}{% endif %}
+        {% if review.metadata.review and review.metadata.review.date_read %}
+          ·
+          {% if review.metadata.review.date_read|length > 1 %} last{% endif %} read {{ review.metadata.review.date_read[-1] | render_date }}
+        {% elif review.metadata.plan and review.metadata.plan.date_added -%}
+          · added on {{ review.metadata.plan.date_added | render_date }}
+        {% endif %}
+        </span>
+      </small>
+      {% if has_rating %}
+        <div class="rating">
+            {% include "_rating.html" %}
+        </div>
+      {% endif %}
+      {% if not review_text and review.text %}
+        {% set review_text = review.first_paragraph %}
+      {% endif %}
+      {% if review_text %}
+      <div class="book-review{% if not has_rating %} book-review-padded{% endif %}">
+        {% if is_link %} {{ review_text | strip_markdown | safe }}{% else %}{{ review_text | render_markdown | safe }}{% endif %}
+        </div>
+      {% endif %}
+  </div>
+  {%- if is_link %}
+    </a>
+  {% else %}
+    </div>
+  {% endif %}
+</div>
+

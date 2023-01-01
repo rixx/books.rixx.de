@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="alternate" type="application/atom+xml" title="Book review atom feed" href="/feed.atom">
+
+    <link rel="stylesheet" href="{{static('/style.css')}}">
+    <link rel="stylesheet" href="{{static('/fonts/stylesheet.css')}}">
+
+    <script src="{{static('/search.js')}}" defer></script>
+
+    {% block head_content %}{% endblock %}
+
+    <title>{% if title %}{{ title | smartypants | safe }} {% endif %}📚 log(book)</title>
+  </head>
+  <body>
+    <a rel="me" href="https://chaos.social/@rixx" id="mastodon-linkback"></a>
+
+    {% include "_header.html" %}
+
+    <main{% block main_class %}{% endblock %}>
+      {% block content %}{% endblock %}
+    </main>
+
+    {% include "_footer.html" %}
+  </body>
+</html>

@@ -1,0 +1,18 @@
+<div class="cover-wrapper {% if spine_border %}with-spine" style="--spine-color: {% if review.metadata.book.spine_color %}{{ review.metadata.book.spine_color }}{% else %}#3b5053{% endif %}{% endif %}">
+  {% if spine_border %}
+  <div class="cover-spine"></div>
+  {% endif %}
+  {% if review.cover_path %}
+    <img
+      class="cover"
+      src="/{{ review.id }}/{% if full_size %}cover.jpg{% else %}thumbnail.jpg{% endif %}"
+      alt="Cover of {{ review.metadata.book.title }}. {{ review.metadata.book.cover_description }}"
+    >
+  {% else %}
+    <img
+      class="cover"
+      src="{{ static('/cover.png') }}"
+      alt="Cover placeholder for {{ review.metadata.book.title }}."
+    >
+  {% endif %}
+</div>

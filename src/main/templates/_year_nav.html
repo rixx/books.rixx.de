@@ -1,0 +1,11 @@
+<nav id="year-nav">
+  {% for iyear in all_years %}
+  <a {% if year == iyear %}class="active"{% else %}href="/reviews/{{ iyear or "other" }}"{% endif %}>
+    {{ iyear or "other" }}
+  </a> ·
+  {% endfor %}
+  <a href="/reviews/by-author/"{% if year == "by-author" %} class="active"{% endif %}>by&nbsp;author</a> ·
+  <a href="/reviews/by-title/"{% if year == "by-title" %} class="active"{% endif %}>by&nbsp;title</a> ·
+  <a href="/reviews/by-series/"{% if year == "by-series" %} class="active"{% endif %}>by&nbsp;series</a> ·
+  <a href="/stats/">stats</a>
+</nav>

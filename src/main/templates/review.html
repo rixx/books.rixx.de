@@ -1,0 +1,216 @@
+{% extends "base.html" %}
+
+{% block head_content %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@rixxtr"/>
+<meta name="twitter:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://books.rixx.de/{{ review.id }}/">
+<meta property="og:title" content="{{ review.metadata.book.title }} by {{ review.metadata.book.author }}"/>
+{% if review.metadata.review.tldr %}
+<meta name="og:description" content="Review: {{ review.metadata.review.tldr }}" />
+{% endif %}
+{% if review.cover_path %}
+<meta name="twitter:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
+<meta property="og:image" content="https://books.rixx.de/{{ review.id }}/square.png"/>
+{% endif %}
+
+<link rel="canonical" href="https://books.rixx.de/{{ review.id }}/"/>
+{% endblock %}
+
+{% block content %}
+  <div class="book-meta-wrapper"><div>
+    <h1 id="title">{{ review.metadata.book.title | smartypants | safe }}</h1>
+    <table class="book_metadata">
+      <tr>
+        <td>author{% if "and" in review.metadata.book.author or ", " in review.metadata.book.author or " & " in review.metadata.book.author %}s{% endif %}:</td>
+        <th><a href="/{{ review.author_slug }}/">{{ review.metadata.book.author }}</a>
+          {%- if review.metadata.book.publication_year %}
+            ({{ review.metadata.book.publication_year}})
+          {%- endif -%}
+        </th>
+      </tr>
+      {% if review.metadata.book.series %}
+      <tr>
+        <td>series:</td>
+        <th><a href="/reviews/by-series/#{{ review.metadata.book.series }}">{{ review.metadata.book.series }} {% if review.metadata.book.series_position %}#{{ review.metadata.book.series_position }}{% endif %}</a></th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.date_added %}
+      <tr>
+        <td>date added:</td>
+        <th>{{ review.metadata.review.date_added | render_date }}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.date_read %}
+      <tr>
+        <td>date read:</td>
+        <th>{% for d in review.metadata.review.date_read %}{{ d | render_date }}<br>{% endfor %}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.pages %}
+      <tr>
+        <td>pages:</td>
+        <th>{{ review.metadata.book.pages }}</th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.tags %}
+      <tr>
+        <td>lists:</td>
+        <th>
+          {% for tag in review.metadata.book.tags %}
+            <a href="/lists/{{ tag }}/">{{ tag }}</a>{{ ", " if not loop.last }}
+          {% endfor %}
+        </th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.review.rating %}
+      <tr>
+        <td>rating:</td>
+        <th class="rating">
+          {% for _ in range(review.metadata.review.rating) %}
+          ★
+          {% endfor %}
+          {% for _ in range(5 - review.metadata.review.rating) %}
+          ☆
+          {% endfor %}
+          {% if review.metadata.review.did_not_finish %}
+          (did not finish)
+          {% endif %}
+        </th>
+      </tr>
+      {% endif %}
+      {% if review.metadata.book.source %}
+      <tr>
+        <td>available:</td>
+        <th><a href="{{ review.metadata.book.source }}" target=_blank>online</a></th>
+      </tr>
+      {% endif %}
+    </table></div>
+    {% if review.cover_path %}
+    <a class="book-cover" href="/{{ review.id }}/cover.jpg">
+        {% set spine_border = True %}
+        {% set full_size = True %}
+        {% include "_book_cover.html" %}
+      </a>
+    {% endif %}
+  </div>
+
+  <nav id="toc">
+    <h3>Table of Contents</h3>
+    <ul class="toc">
+      <li><a href="#title">Metadata</a></li>
+      {% if review.plot %}
+        <li><a href="#plot-summary">Plot summary</a></li>
+      {% endif %}
+      {% if review.text %}
+        <li><a href="#review-text">Review</a></li>
+        {{ review.text | render_toc | safe }}
+      {% endif %}
+    </ul>
+    {% if review.quotes %}
+      <ul class="toc"><li><a href="#quotes">Quotes</a></li></ul>
+    {% endif %}
+    {% if review.related_books %}
+      <ul class="toc"><li><a href="#related-books">Related books</a></li></ul>
+    {% endif %}
+  </nav>
+
+  <article>
+    {% if review.plot %}
+      <details>
+        <summary><h2 class="plot-header" id="plot-summary">Plot summary <span title="Plot summaries will contain ALL the spoilers. I mostly write them to remind future!Me what was going on. Especially useful for discusisons and sequels.">❔</span></h2></summary>
+        {{ review.plot | render_markdown | safe }}
+        <hr>
+      </details>
+    {% endif %}
+    <div id="review-text">
+    {{ review.text | render_markdown | safe }}
+    </div>
+  </article>
+
+  {% if review.metadata.social %}{% if review.metadata.social.twitter.id or review.metadata.social.mastodon.id %}
+
+    <hr>
+    <article id="social-article">
+
+      {% if review.metadata.social.twitter.id and review.metadata.social.mastodon.id %}
+        <input type="checkbox" id="switch" class="social" />
+      {% endif %}
+
+      <div id="social">
+        {% if review.metadata.social.twitter.id and review.metadata.social.mastodon.id %}
+          <label for="switch" id="toggle">Toggle</label>
+          <span id="label"></span>
+        {% endif %}
+
+        {% if review.metadata.social.twitter.id %}
+          {% set status_url="https://twitter.com/rixxtr/status/" + review.metadata.social.twitter.id %}
+          {% with
+            network="twitter",
+            author="Tobias",
+            nick="@rixxtr",
+            author_link="https://twitter.com/rixxtr",
+            content=review.metadata.social.twitter.text
+          %}
+            {% include "_social.html" %}
+          {% endwith %}
+        {% endif %}
+
+        {% if review.metadata.social.mastodon.id %}
+          {% set status_url="https://chaos.social/@rixx/" + review.metadata.social.mastodon.id %}
+          {% with
+            network="mastodon",
+            author="rixx",
+            nick="@rixx@chaos.social",
+            author_link="https://chaos.social/@rixx",
+            content=review.metadata.social.mastodon.text
+          %}
+            {% include "_social.html" %}
+          {% endwith %}
+        {% endif %}
+    </article>
+    {% endif %}{% endif %}
+
+    {% if review.quotes %}
+    <h2 id="quotes">Quotes</h2>
+
+      {% if review.quotes|length > 1%}
+        {% for language, quotes in review.quotes.items() %}
+          <details><summary>{{language}}</summary>
+          {% for quote in quotes %}
+            <div class="quote">{{ quote.text | render_quotes | safe }}</div>
+          {% endfor %}
+          </details>
+        {% endfor %}
+      {% else %}
+        {% for language, quotes in review.quotes.items() %}
+          {% for quote in quotes %}
+            <div class="quote">{{ quote.text | render_quotes | safe }}</div>
+          {% endfor %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+
+    {% if review.related_books %}
+    {% set spine_border = False %}
+    <h2 id="related-books">Related books
+      {% if review.metadata.book.series and review.metadata.book.series_position != "1" %}
+      <small class="muted">Books related to the whole series are linked at the first part of the series.</small>
+      {% endif %}
+    </h2>
+      {% for related in review.related_books %}
+        {% set review = related.review %}
+        {% set review_text = related.text %}
+        {% set expand_card = True %}
+        {% include  "_book_card.html" %}
+      {% endfor %}
+    {% endif %}
+
+  <hr>
+
+  {% include "_external_links.html" %}
+  <hr>
+
+{% endblock %}
