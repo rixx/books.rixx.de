@@ -43,6 +43,7 @@ if __name__ == "__main__":
     quote_files = glob.glob("data/reviews/**/quotes*.txt") + glob.glob(
         "data/reviews/**/**/quotes*.txt"
     )
+    all_quote_files = []
     for _file in quote_files:
         for quote in parse_quote_file(_file):
             if "\n" in quote.text:
