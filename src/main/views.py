@@ -5,7 +5,7 @@ from django.db.models import Sum
 from django.views.generic import TemplateView
 from django_context_decorator import context
 from django.utils.functional import cached_property
-from django.http import JsonResponse, HttpResponseNotFound, FileResponse
+from django.http import JsonResponse, HttpResponseNotFound, FileResponse, HttpResponse
 from django.utils.timezone import now
 
 from main.models import Review, ToRead
@@ -29,6 +29,15 @@ class IndexView(ActiveTemplateView):
     @context
     def reviews(self):
         return Review.objects.all().order_by("-latest_date")[:5]
+
+def feed_view(request):
+    from django.template import loader
+    template = loader.get_template('feed.atom')
+    context = {"reviews": Review.objects.all().order_by("-latest_date")[:20]}
+    headers = {
+        "Content-Type": "application/atom+xml",
+    }
+    return HttpResponse(template.render(context, request), headers=headers)
 
 
 class YearNavMixin:

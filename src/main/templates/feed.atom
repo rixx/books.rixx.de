@@ -2,32 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://books.rixx.de/feed.atom</id>
   <title>log(book): rixx's book log</title>
-  <updated>{{ events[0].relevant_date }}T00:00:00Z</updated>
+  <updated>{{ reviews[0].latest_date }}T00:00:00Z</updated>
   <author>
     <name>Tobias Kunze</name>
     <email>r@rixx.de</email>
   </author>
   <link href="https://books.rixx.de/" rel="alternate"/>
   <link href="https://books.rixx.de/feed.atom" rel="self"/>
-  {%- for event in events -%}
+  {%- for review in reviews -%}
     <entry>
-      <title>{{ event.book_title }}</title>
-      <link href="https://books.rixx.de/{{ event.slug }}/" rel="alternate"/>
-      <id>urn:uuid:{{ event.feed_uuid }}</id>
-      <updated>{{ event.relevant_date }}T00:00:00Z</updated>
-      <content type="html">I finished reading {{ event.book_title }} by {{ event.book_author }}.
+      <title>{{ review.book_title }}</title>
+      <link href="https://books.rixx.de/{{ review.slug }}/" rel="alternate"/>
+      <id>urn:uuid:{{ review.feed_uuid }}</id>
+      <updated>{{ review.latest_date.isoformat() }}T00:00:00Z</updated>
+      <content type="html">I finished reading {{ review.book_title }} by {{ review.book_author }}.
 
-        {% if 'class="spoiler' in event.content %}&lt;p&gt; Warning! This review contains spoilers. On the website, they are blurred out, but I cannot do that in an RSS feed, so if you don't want to see them, please read the review on the website. &lt;/p&gt;{% endif %}
+        {% if 'class="spoiler' in review.content %}&lt;p&gt; Warning! This review contains spoilers. On the website, they are blurred out, but I cannot do that in an RSS feed, so if you don't want to see them, please read the review on the website. &lt;/p&gt;{% endif %}
 
-        {% if event.plot %}&lt;h2&gt;Plot summary&lt;/h2&gt;&lt;p&gt;I've written a plot summary, which will contain spoilers for the full story. Since I can't hide it in an RSS feed, please read this review on the website if you want to see the summary.&lt;/p&gt; &lt;h2&gt;Review&lt;/h2&gt;{% endif %}
+        {% if review.plot %}&lt;h2&gt;Plot summary&lt;/h2&gt;&lt;p&gt;I've written a plot summary, which will contain spoilers for the full story. Since I can't hide it in an RSS feed, please read this review on the website if you want to see the summary.&lt;/p&gt; &lt;h2&gt;Review&lt;/h2&gt;{% endif %}
 
-        {{ event.content | render_markdown | e }}
+        {{ review.content | render_markdown | e }}
 
-        {% if event.quotes %}
+        {% if review.quotes %}
           I've collected some cool quotes from the book! Including them in the feed would be overkill, so please click through if you want to read them.
         {% endif %}
-        {% if event.book_source %}
-        &lt;p&gt; The book/story is available &lt;a href=&quot;{{ event.book_source }}&quot;&gt;here&lt;/a&gt;
+        {% if review.book_source %}
+        &lt;p&gt; The book/story is available &lt;a href=&quot;{{ review.book_source }}&quot;&gt;here&lt;/a&gt;
         {% endif %}
     </content>
     </entry>

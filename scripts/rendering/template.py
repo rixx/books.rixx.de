@@ -85,14 +85,3 @@ def render_string(path, string):
     out_path = pathlib.Path("_html") / path
     out_path.parent.mkdir(exist_ok=True, parents=True)
     out_path.write_text(string)
-
-
-def render_feed(events, path):
-    for event in events:
-        m = hashlib.md5()
-        m.update(
-            f"{event.metadata['book']['title']}:{event.entry_type}:{event.relevant_date}:{event.metadata['book'].get('goodreads', '')}".encode()
-        )
-        event.feed_uuid = str(uuid.UUID(m.hexdigest()))
-
-    render("feed.atom", path, events=events)

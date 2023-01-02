@@ -1,4 +1,6 @@
 import re
+import uuid
+import hashlib
 from unidecode import unidecode
 import datetime as dt
 import math
@@ -103,6 +105,14 @@ class Review(models.Model):
         print(self.content)
         return self.content.strip().split("\n\n")[0] if self.content else ""
 
+    @cached_property
+    def feed_uuid(self):
+        m = hashlib.md5()
+        m.update(
+            f"{self.book_title}:reviews:{self.latest_date.isoformat()}:{self.book_goodreads or ''}".encode()
+        )
+        return str(uuid.UUID(m.hexdigest()))
+
     @classmethod
     def from_yaml(cls, **data):
         data.pop("social", None)
@@ -153,7 +163,7 @@ class Review(models.Model):
             if isinstance(d, str):
                 return d
             return d.isoformat()
-        object_data["latest_date"] = sorted([to_str(object_data["date_added"])] + object_data["dates_read"].split(","))[-1]
+        object_data["latest_date"] = sorted(object_data["dates_read"].split(","))[-1]
         path = get_review_path(object_data["slug"])
         quotes = path.glob("quotes.**")
         if quotes:

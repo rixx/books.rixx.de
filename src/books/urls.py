@@ -19,6 +19,8 @@ from main import views
 
 urlpatterns = [
     path("", views.IndexView.as_view()),
+    path("feed.atom", views.feed_view),
+    path("reviews.atom", views.feed_view),
     path("reviews/", views.YearView.as_view()),
     path("reviews/<int:year>/", views.YearView.as_view()),
     path("reviews/<int:year>/stats/", views.YearInBooksView.as_view()),
