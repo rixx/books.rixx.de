@@ -1,9 +1,12 @@
 # books.rixx.de
 
-This is the source code for <https://books.rixx.de>, where I track the books I've read, and that I want to read.
-This repo contains both the scripts that build the site, and the source data used by the scripts.
+***WARNING***: This is an archive. If you want to see the code currently powering
+[books.rixx.de](https://books.rixx.de), please head over [here](https://github.com/rixx/scriptorium).
 
-## How it works
+This used to be the source code for <https://books.rixx.de>, where I track the books I've read, and that I want to read.
+This repo contained both the scripts that build the site, and the source data used by the scripts.
+
+## How it worked
 
 Each book is a text file, with a bit of metadata at the top, and Markdown text in the body. When I run the build script,
 it reads all these files, and turns them into a set of HTML files. I upload a copy of those HTML files to my web server,
